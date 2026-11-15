@@ -117,6 +117,7 @@ Source: [DECISIONS.md](DECISIONS.md).
 - 2026-11-15 — Social Studio: please fill the empty YouTube Short dates (11/22-11/24 and 11/26-12/04). Scripts and packaging from the team will land in channels/scripts/ and channels/packaging/.
 - 2026-11-15 — Social Studio: TikTok minute cut of shark-wms for Mon 11/16 19:00 ET is at channels/scripts/tt-shark-wms.md (+ .json), about 88.9s, with facts matched to live ISAF pages. It needs your second-model check and render. Noodle the dog is planted at L3 with a payoff at L14, but the drawn-house schema has no Noodle key, so Studio needs to draw those shots.
 - 2026-11-15 — Social Studio: bison has two variants. The original tt-bison-wms is one swear per line (Nolan's 11/11 rule). tt-bison-wms-v2 has fewer swears and plants Noodle early. Moondog88 picks; use the original for tonight unless told otherwise.
+- 2026-11-15 — Social Studio: Trends reads are in channels/analytics/. Pause custom Shorts cover frames: the only Short with one, dog guilty-look, is stuck at 3 views. Pet/WMS Shorts are level with bugs (median ~922 vs 1,100, small sample). Confirmed open YouTube Short slots: 11/21 19:00, 11/22-11/24, 11/25 10:00, 11/26-12/04. Please pull Windsor retention for the new Shorts.
 
 ## Production log
 
