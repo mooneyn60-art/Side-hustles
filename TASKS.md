@@ -34,19 +34,27 @@ Source: [creative/DEEP-DIVE-2026-11-15.md](creative/DEEP-DIVE-2026-11-15.md). Do
 
 ### Christmas listing drafts (Listings & SEO)
 
-Source: [etsy-shop/listings/01-christmas-push.md](etsy-shop/listings/01-christmas-push.md) (16 listings), [etsy-shop/listings/02-catalog.md](etsy-shop/listings/02-catalog.md), [etsy-shop/listings/03-pricing-memo.md](etsy-shop/listings/03-pricing-memo.md). Validator: [etsy-shop/listings/generate_listings.py](etsy-shop/listings/generate_listings.py).
+Source: [etsy-shop/listings/01-christmas-push.md](etsy-shop/listings/01-christmas-push.md) (19 listings in round 2), [etsy-shop/listings/02-catalog.md](etsy-shop/listings/02-catalog.md), [etsy-shop/listings/03-pricing-memo.md](etsy-shop/listings/03-pricing-memo.md). Validator: [etsy-shop/listings/generate_listings.py](etsy-shop/listings/generate_listings.py). Round 2 notes are in the next section.
 
 1. **Paste into Etsy as drafts only.** Use the Christmas listing copy in `etsy-shop/listings/01-christmas-push.md`. Include the Santa Paws ornament and the Doodle Mom tee from `etsy-shop/listings/02-catalog.md`. Publishing waits for Moondog88's okay. Do not set any listing live.
 2. **Typo-check the funny-tee wording** against the `fureverfaces` print PNGs before those drafts are saved.
 3. **Fill in material, sizes, and care** for the sweatshirts, bandanas, and tanks from the Printify product specs. Do not guess.
-4. **Do not paste the 20 drafts that have no Printify ID.** They are backlog and will not be created now (9 mugs, 5 ornaments, 6 wall art). Focus on products that already exist. Mug price on the record is $17.99 from `ETSY_STATE.md`, not $18.00. See the 2026-11-15 line appended to [DECISIONS.md](DECISIONS.md).
+4. **Do not paste the 20 drafts that have no Printify ID.** They are backlog in [etsy-shop/listings/05-backlog.md](etsy-shop/listings/05-backlog.md) and will not be created now (9 mugs, 5 ornaments, 6 wall art). Focus on products that already exist. Mug price on the record is $17.99 from `ETSY_STATE.md`, not $18.00. See the 2026-11-15 line appended to [DECISIONS.md](DECISIONS.md).
+
+### Listings round 2
+
+Source: [etsy-shop/listings/01-christmas-push.md](etsy-shop/listings/01-christmas-push.md) (19), [etsy-shop/listings/02-catalog.md](etsy-shop/listings/02-catalog.md) (57), [etsy-shop/listings/04-printables.md](etsy-shop/listings/04-printables.md) (6), [etsy-shop/listings/05-backlog.md](etsy-shop/listings/05-backlog.md) (20), [etsy-shop/listings/03-pricing-memo.md](etsy-shop/listings/03-pricing-memo.md). Checker: [etsy-shop/listings/validate_markdown.py](etsy-shop/listings/validate_markdown.py). Shop name and ornament price are resolved in [DECISIONS.md](DECISIONS.md).
+
+1. **On your own branches, update `ETSY_STATE.md`** so the shop name is FurEver Faces (the rename is approved), and update `BRIEF.md` so the ornament is $16.99 and the Christmas order-by date is Dec 5 for physical items, not Dec 10. Etsy Studio will not edit those branches.
+2. **The "Hero bundle" entry in `01-christmas-push.md` has no bundle SKU yet.** Fulfil it as the 3 Santa Paws products on one order, or make it a single Printify listing. Your choice. It should stay a draft until you decide.
+3. **Confirm whether the 6 printables use any AI-generated art**, because Etsy requires disclosure if they do. Copy currently says "original designs".
 
 ### Decisions (2026-11-15)
 
 Logged in [DECISIONS.md](DECISIONS.md). Resolved there:
 
-1. **Shop name: FurEver Faces.** Decided by Moondog88. Use it on every customer-facing surface (listing copy, images, covers, ads, Shopify). Keep "For people owned by a doodle" as the hero line, and "The Doodle Shop" as a secondary tag only. The live Etsy rename from PrintanPress to FurEver Faces is **approved**.
-2. **Price list = `ETSY_STATE.md`.** Tee $26, sweatshirt $39.99, mug $17.99, ornament $16.99, bandana $18.99, tank $27.99. `ETSY_LISTINGS.md` and `ADS_READY.md` are copy templates. "From $21.99" is wrong; the line is "from $16.99". No live price changes without Moondog88's okay.
+1. **Shop name: FurEver Faces. Resolved.** See [DECISIONS.md](DECISIONS.md). Decided by Moondog88. Use it on every customer-facing surface (listing copy, images, covers, ads, Shopify). Keep "For people owned by a doodle" as the hero line, and "The Doodle Shop" as a secondary tag only. The live Etsy rename from PrintanPress to FurEver Faces is **approved**.
+2. **Ornament price: $16.99. Resolved.** See [DECISIONS.md](DECISIONS.md). Price list = `ETSY_STATE.md`: tee $26, sweatshirt $39.99, mug $17.99, ornament $16.99, bandana $18.99, tank $27.99. `ETSY_LISTINGS.md` and `ADS_READY.md` are copy templates. "From $21.99" is wrong; the line is "from $16.99". No live price changes without Moondog88's okay. The Christmas order-by date for physical items is Dec 5 everywhere, which overrides the Dec 10 in `BRIEF.md`.
 3. **$49 Shopify free shipping kept.** Otherwise $5.99. Tee + bandana alone is $44.99 and does not qualify. Bundles that clear $49: tee + bandana + ornament $61.98, tee + tank $53.99, sweatshirt + bandana $58.98. Etsy shipping is set separately and still needs Moondog88's okay before any change.
 4. **Custom photo art paused.** Ready-made cartoon merch only for Christmas. The Shopify "no photo upload" setting stays. The proof workflow stays in `ORDER_RUNBOOK.md` for later.
 5. **Etsy Ads: $3/day test, approved, not on yet.** About $30 over 10 days on five hero listings (Santa Paws ornament, Santa Paws tee, Doodle Mom tee, Doodle Dad tee, large-print Christmas word search). **Approved** by Moondog88. It starts only after those listings have their new titles and photos live. Pause physical items on Dec 5. Do not raise the budget or add listings without new approval. No Pinterest or Facebook paid spend; organic only, per the holiday marketing plan.
@@ -128,7 +136,7 @@ Committed on `main`:
 
 What Claude should pick up next:
 
-- Get Moondog88's two decisions (shop name; ornament price) and apply them before pasting the ornament listing live.
+- Shop name and ornament price are resolved in [DECISIONS.md](DECISIONS.md) (FurEver Faces; ornament $16.99). Apply those before pasting the ornament listing live.
 - Confirm live vs draft status on Etsy and Shopify (no sales data was in the source files).
 - If the six finished printables are not live, publish them; build Christmas trivia this week. Do not spend time on more Thanksgiving SKUs.
 - Write missing listing copy for the Santa/Mom/Dad dog bandanas and tanks before adding more cartoon designs.
@@ -163,3 +171,9 @@ Files: [creative/DEEP-DIVE-2026-11-15.md](creative/DEEP-DIVE-2026-11-15.md), [et
 2026-11-15, Etsy: Listings & SEO, 95 listings rewritten (16 Christmas push, 79 catalog) plus pricing memo; validator at etsy-shop/listings/generate_listings.py.
 
 Files: [etsy-shop/listings/01-christmas-push.md](etsy-shop/listings/01-christmas-push.md), [etsy-shop/listings/02-catalog.md](etsy-shop/listings/02-catalog.md), [etsy-shop/listings/03-pricing-memo.md](etsy-shop/listings/03-pricing-memo.md), [etsy-shop/listings/generate_listings.py](etsy-shop/listings/generate_listings.py)
+
+### 2026-11-15 — Etsy: Listings & SEO, round 2
+
+Listings & SEO round 2, 19 Christmas plus 57 catalog plus 6 printables plus 20 backlog, all 12 funny-tee slogans typo-checked against the PNGs.
+
+Files: [etsy-shop/listings/01-christmas-push.md](etsy-shop/listings/01-christmas-push.md), [etsy-shop/listings/02-catalog.md](etsy-shop/listings/02-catalog.md), [etsy-shop/listings/03-pricing-memo.md](etsy-shop/listings/03-pricing-memo.md), [etsy-shop/listings/04-printables.md](etsy-shop/listings/04-printables.md), [etsy-shop/listings/05-backlog.md](etsy-shop/listings/05-backlog.md), [etsy-shop/listings/validate_markdown.py](etsy-shop/listings/validate_markdown.py)
