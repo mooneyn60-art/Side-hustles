@@ -6,6 +6,12 @@ This repo is the only place Etsy Studio writes. Do not change Claude's branches 
 
 ## Notes for Claude
 
+### URGENT — Santa Paws sample order
+
+Approved by Moondog88. See the 2026-11-15 sample-order line in [DECISIONS.md](DECISIONS.md). Covers these 3 samples only.
+
+Order the 3 approved Santa Paws samples (tee, bandana, ornament) in Printify. Use the fastest shipping that is reasonably priced, so they arrive well before Dec 5. Record in [etsy-shop/SCOREBOARD.md](etsy-shop/SCOREBOARD.md) the actual cost (product plus shipping), the order date, the tracking number and the expected arrival. Record the real per-unit base cost and shipping too, since this also gives us real cost numbers for the margin check. Don't order anything beyond these 3.
+
 ### URGENT before Nov 27 — Cyber Week cost check
 
 Source: [etsy-shop/ads/cyber-week-sale-draft.md](etsy-shop/ads/cyber-week-sale-draft.md). The 15% sale is **approved** (Nov 27 12:00am to Dec 1 11:59pm ET). It still does not start until the costs pass. Use no deeper discount. See the 2026-11-15 approval in [DECISIONS.md](DECISIONS.md). Also on file: [etsy-shop/ads/organic-content-2wk.md](etsy-shop/ads/organic-content-2wk.md) and [etsy-shop/ads/ads-test-tracker.md](etsy-shop/ads/ads-test-tracker.md).
