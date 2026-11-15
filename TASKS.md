@@ -90,9 +90,9 @@ Source: [etsy-shop/ads/christmas-pins.md](etsy-shop/ads/christmas-pins.md) and [
 Files: [etsy-shop/design/christmas/ornaments/](etsy-shop/design/christmas/ornaments/) and [etsy-shop/design/christmas/lifestyle/](etsy-shop/design/christmas/lifestyle/).
 
 - Upload the Snow, Mom and Dad ornament mockups to their Etsy listing drafts.
-- Use `L-bundle-ornament-tree.jpg` as the hero thumbnail for the Santa Paws ornament and the bundle.
-- `L-bundle-flatlay`, `L-bundle-unboxing` and `L-bundle-ornament-tree` can go in as extra photos on the Santa Paws tee, ornament and bandana.
-- Hold `L-bundle-person-dog` until the bandana cleanup is done.
+- Use `L-bundle-ornament-tree.jpg` as the hero thumbnail for the Santa Paws ornament and the bundle. It stays the hero thumbnail.
+- Do NOT use `L-bundle-flatlay.jpg` yet. A fold cuts the N in "NICE LIST" so it reads as "VICE LIST". A corrected file is coming.
+- `L-bundle-person-dog` and `L-bundle-unboxing` are now cleaned and fine as secondary photos, not thumbnails. They can go on the Santa Paws tee, ornament, and bandana.
 - These are AI scenes with the real print art composited in. Keep the AI-assisted disclosure in the listings.
 - Full-res PNGs are on the shared box at `/workspace/etsy-design/christmas/`.
 - Valentine art (8 merch, 3 printable covers) is on the box at `/workspace/etsy-design/valentines/` for the Jan 4 drafts.
