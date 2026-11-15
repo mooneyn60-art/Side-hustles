@@ -1,0 +1,390 @@
+{
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "+10%",
+  "pitch": "+3Hz",
+  "music": "detective",
+  "music_db": -13,
+  "captions": 66,
+  "caption_y": 1180,
+  "cut_whoosh": true,
+  "loop": true,
+  "photo_credits": [],
+  "cap_swap": {
+    "shit": "sh*t",
+    "shits": "sh*ts",
+    "shitty": "sh*tty",
+    "bullshit": "bullsh*t",
+    "fuck": "f**k",
+    "fucking": "f**king",
+    "fucker": "f**ker",
+    "fuckers": "f**kers"
+  },
+  "series": "Things Living In Your House",
+  "sources": [
+    "University of Pennsylvania School of Veterinary Medicine, Ryan Veterinary Hospital, \"Dog Body Language Basics\" (Behavior Medicine; opened 2026-11-15): \"Dog licks person or other dog: not a “kiss”. This is a greeting behavior, but if dog licks someone repeatedly, he may be anxious about that dog or person.\"; \"Dog licks his lips: anxiety about a situation or interaction.\"; \"Dogs do not kiss either, and they may be frightened by kissing.\"; https://www.vet.upenn.edu/wp-content/uploads/2024/12/dogbodylanguagebasics-pdf.pdf",
+    "Stephanie Borns-Weil, Cummings School of Veterinary Medicine at Tufts University, Anxiety in Dogs (May 4, 2023; opened 2026-11-15): \"Anxious dogs may also appear extra friendly and continually approach, jump on someone, and lick their face, or just be needier with the owner.\"; https://vet.tufts.edu/news-events/news/anxiety-dogs",
+    "American Animal Hospital Association, Table 1: Common Signs of Anxiety/Distress (published June 28, 2019; opened 2026-11-15): lip licking and nose licking among common signs of nonspecific anxiety or distress in dogs and cats; https://www.aaha.org/resources/2015-aaha-canine-and-feline-behavior-management-guidelines/common-signs-of-anxietydistress/",
+    "Texas A&M University College of Veterinary Medicine and Biomedical Sciences, Understanding Your Dog's Body Language (Harmony Diers, March 13, 2025; opened 2026-11-15): \"Licking lips — often accompanied with yawning\" among signs of a nervous or alerted dog; https://stories.tamu.edu/news/2025/03/13/understanding-your-dogs-body-language-a-guide-to-canine-communication/"
+  ],
+  "stage": {
+    "creature": "dog",
+    "scene": "kitchen",
+    "scene_p": {},
+    "s": 0.62,
+    "creature_cfg": {
+      "plan": "mammal",
+      "label": "dog",
+      "color": "#c8743c",
+      "dark": "#8f4f24",
+      "belly": "#f1dcc0",
+      "tail_color": "#c8743c",
+      "length": 600,
+      "height": 290,
+      "leg_len": 200,
+      "leg_w": 36,
+      "ears": "floppy",
+      "tail": "thin",
+      "tail_w": 20,
+      "whiskers": false,
+      "mood": "happy"
+    }
+  },
+  "cap_key": [
+    "you",
+    "your",
+    "dog",
+    "dogs",
+    "lick",
+    "kiss",
+    "greeting",
+    "anxious",
+    "lips",
+    "penn",
+    "tufts",
+    "noodle"
+  ],
+  "title": "Why Dogs Lick You: Penn Vet Says It's Not a Kiss 🐶 (Things Living In Your House)",
+  "description": "Why do dogs lick you? A University of Pennsylvania School of Veterinary Medicine handout says a dog licking a person or another dog is not a \"kiss.\" It is a greeting behavior, but if a dog licks someone repeatedly, he may be anxious about that dog or person. Lip licking is a different signal: Penn Vet lists it as anxiety about a situation or interaction, and AAHA and Texas A&M also list lip licking among nervous or distress signs. A Tufts veterinary behaviorist says an anxious dog may also appear extra friendly and lick a face. Penn Vet also says dogs do not kiss, and they may be frightened by kissing.\n\n#whydodogslickyou #doglicking #dogbehavior #dogsoftiktok #dogfacts\n\nSources: University of Pennsylvania School of Veterinary Medicine, Dog Body Language Basics, https://www.vet.upenn.edu/wp-content/uploads/2024/12/dogbodylanguagebasics-pdf.pdf ; Cummings School of Veterinary Medicine at Tufts University, Anxiety in Dogs, https://vet.tufts.edu/news-events/news/anxiety-dogs ; AAHA, Common Signs of Anxiety/Distress, https://www.aaha.org/resources/2015-aaha-canine-and-feline-behavior-management-guidelines/common-signs-of-anxietydistress/ ; Texas A&M College of Veterinary Medicine, Understanding Your Dog's Body Language, https://stories.tamu.edu/news/2025/03/13/understanding-your-dogs-body-language-a-guide-to-canine-communication/ . Pages opened 2026-11-15. General information, not a diagnosis of your dog.",
+  "tiktok_title": "Why Do Dogs Lick You? Penn Vet Says It's Not a Kiss",
+  "tiktok_caption": "why do dogs lick you? 🐶 Penn Vet says it is not a kiss. It is a greeting behavior, but if a dog licks someone repeatedly, he may be anxious about that person. Lip licking is a different signal. Meatball puckered up at his dog, Noodle. Noodle already had the sandwich. What does your dog lick first, your face or your food? #whydodogslickyou #doglicking #dogbehavior #dogsoftiktok #dogfacts",
+  "_note": "RULES-DEFAULT TikTok minute cut, draft 2026-11-15, written only from /workspace/drafts/facts/dogs-lick.md. Schema follows tt-cat-sugar.json / tt-dog-guilty-look.json. 232 spoken words, runtime estimate 73.0s at 194.5 wpm plus 1.40s of listed pads. MASTER_ORDERS / Nolan 11/11: about one swear per line, 6–9 sweary jokes. Facts and credits said clean, swear after. Hook is the searched question. Line 2 is the acted Meatball gag. His dog, Noodle (comma form) is planted early; he ends up with the sandwich. Jokes add no feeling or motive and do not turn a greeting lick into love or a lip-lick into a face-lick. TikTok caption: five topic hashtags, no brand. Hashtag feeds were not re-run on this pass. NOT yet checked by a second model and not rendered. No Noodle character key; Studio must draw the plant and the payoff.",
+  "_curse": "Rules-default / Nolan 11/11: about one swear per line; sweary jokes include Tiny fucking lips; Not a fucking love letter; Fucking footnote; Different fucking column; May. Fucking may; Worst fucking idea; Fancy fucking nuance; Little fucking vacuum. Facts stay clean. Jokes add no claim. No insult uses 'you'.",
+  "beats": [
+    {
+      "m": "hook",
+      "gag": {
+        "mark": "shock"
+      },
+      "_f": [
+        "DL-F1"
+      ],
+      "say": "Why do dogs lick you? Penn Vet says it is not a kiss. Holy shit.",
+      "card": {
+        "rows": [
+          [
+            "WHY DO DOGS LICK YOU?",
+            "#ffd34d",
+            80
+          ],
+          [
+            "PENN VET: NOT A “KISS”",
+            "#ffffff",
+            44,
+            true
+          ]
+        ],
+        "y": 470,
+        "at": "45%"
+      },
+      "open": "animal"
+    },
+    {
+      "m": "fact",
+      "gag": false,
+      "_f": [],
+      "say": "Meatball puckered up at his dog, Noodle. Tiny fucking lips.",
+      "card": {
+        "rows": [
+          [
+            "MEATBALL PUCKERED UP",
+            "#ffd34d",
+            80
+          ],
+          [
+            "AT HIS DOG, NOODLE",
+            "#ffffff",
+            48,
+            true
+          ]
+        ],
+        "y": 470,
+        "at": "30%"
+      },
+      "scene": "kitchen",
+      "pad": 0.25
+    },
+    {
+      "m": "fact",
+      "gag": false,
+      "_f": [
+        "DL-F1"
+      ],
+      "say": "Licking a person or another dog is a greeting behavior, the same handout says. But if a dog licks someone repeatedly, he may be anxious about that dog or person. Not a fucking love letter.",
+      "card": {
+        "rows": [
+          [
+            "A GREETING BEHAVIOR",
+            "#ffd34d",
+            80
+          ],
+          [
+            "REPEATED LICKING MAY MEAN ANXIETY",
+            "#ffffff",
+            38,
+            true
+          ],
+          [
+            "PENN VET",
+            "#ffffff",
+            44,
+            true
+          ]
+        ],
+        "y": 470,
+        "at": "22%"
+      },
+      "scene": "bedroom",
+      "pad": 0.25,
+      "acting": false
+    },
+    {
+      "m": "fact",
+      "gag": false,
+      "_f": [
+        "DL-F2"
+      ],
+      "say": "Lip licking is a different signal. Penn Vet lists it as anxiety about a situation or interaction. Fucking footnote.",
+      "card": {
+        "rows": [
+          [
+            "LIP LICKING IS DIFFERENT",
+            "#ffd34d",
+            70
+          ],
+          [
+            "PENN VET: ANXIETY ABOUT A SITUATION",
+            "#ffffff",
+            38,
+            true
+          ]
+        ],
+        "y": 470,
+        "at": "25%"
+      },
+      "scene": "study",
+      "acting": false
+    },
+    {
+      "m": "fact",
+      "gag": false,
+      "_f": [
+        "DL-F6"
+      ],
+      "say": "The American Animal Hospital Association lists lip licking and nose licking among common signs of anxiety or distress in dogs and cats. Not the face lick. Different fucking column.",
+      "card": {
+        "rows": [
+          [
+            "LIP LICKING + NOSE LICKING",
+            "#ffd34d",
+            64
+          ],
+          [
+            "AAHA: COMMON SIGNS OF ANXIETY OR DISTRESS",
+            "#ffffff",
+            36,
+            true
+          ]
+        ],
+        "y": 470,
+        "at": "22%"
+      },
+      "scene": "basement",
+      "acting": false
+    },
+    {
+      "m": "fact",
+      "gag": false,
+      "_f": [
+        "DL-F7"
+      ],
+      "say": "Texas A and M's veterinary college lists licking lips, often with yawning, among signs of a nervous or alerted dog. Still the lips. Fucking still.",
+      "card": {
+        "rows": [
+          [
+            "LICKING LIPS, OFTEN WITH YAWNING",
+            "#ffd34d",
+            56
+          ],
+          [
+            "TEXAS A&M: NERVOUS OR ALERTED DOG",
+            "#ffffff",
+            38,
+            true
+          ]
+        ],
+        "y": 470,
+        "at": "22%"
+      },
+      "scene": "bathroom",
+      "acting": false
+    },
+    {
+      "m": "fact",
+      "gag": false,
+      "_f": [
+        "DL-F4"
+      ],
+      "say": "A Tufts veterinary behaviorist says an anxious dog may also appear extra friendly and continually approach, jump on someone, and lick their face. May. Fucking may.",
+      "card": {
+        "rows": [
+          [
+            "MAY ALSO APPEAR EXTRA FRIENDLY",
+            "#ffd34d",
+            56
+          ],
+          [
+            "AND LICK A FACE: TUFTS, “MAY”",
+            "#ffffff",
+            40,
+            true
+          ]
+        ],
+        "y": 470,
+        "at": "22%"
+      },
+      "scene": "garden",
+      "acting": false
+    },
+    {
+      "m": "fact",
+      "gag": false,
+      "_f": [
+        "DL-F3"
+      ],
+      "say": "Penn Vet also says dogs do not kiss, and they may be frightened by kissing. Meatball leaned in anyway. Worst fucking idea.",
+      "card": {
+        "rows": [
+          [
+            "DOGS DO NOT KISS",
+            "#ff4b3e",
+            90
+          ],
+          [
+            "THEY MAY BE FRIGHTENED BY KISSING (PENN VET)",
+            "#ffffff",
+            34,
+            true
+          ]
+        ],
+        "y": 470,
+        "at": "22%"
+      },
+      "scene": "kitchen",
+      "acting": false
+    },
+    {
+      "m": "calm",
+      "gag": false,
+      "_f": [
+        "DL-F1"
+      ],
+      "say": "So: a greeting, Penn Vet says, not a kiss. Repeated licking may be anxiety. Fancy fucking nuance.",
+      "card": {
+        "rows": [
+          [
+            "GREETING, NOT A KISS",
+            "#7bd88f",
+            80
+          ],
+          [
+            "REPEATED LICKING MAY BE ANXIETY",
+            "#ffffff",
+            40,
+            true
+          ]
+        ],
+        "y": 470,
+        "at": "25%"
+      },
+      "scene": "study",
+      "acting": false
+    },
+    {
+      "m": "fact",
+      "gag": false,
+      "_f": [],
+      "say": "His dog, Noodle, already had the sandwich. Little fucking vacuum.",
+      "card": {
+        "rows": [
+          [
+            "NOODLE HAD THE SANDWICH",
+            "#ffd34d",
+            80
+          ]
+        ],
+        "y": 470,
+        "at": "40%"
+      },
+      "scene": "garden"
+    },
+    {
+      "m": "punch",
+      "gag": {
+        "mark": "alarm"
+      },
+      "_f": [],
+      "say": "So why do dogs lick you? Not a kiss. What does your dog lick first, your face or your food? Be fucking honest. And",
+      "card": {
+        "rows": [
+          [
+            "WHAT DOES YOUR DOG LICK FIRST, YOUR FACE OR YOUR FOOD? COMMENT",
+            "#ffffff",
+            32,
+            true
+          ]
+        ],
+        "x": "right",
+        "y": 400,
+        "at": 0.0
+      },
+      "scene": "kitchen",
+      "pad": 0.9
+    }
+  ],
+  "search_top": {
+    "rows": [
+      [
+        "WHY DO DOGS",
+        "#ffffff",
+        86
+      ],
+      [
+        "LICK YOU?",
+        "#ffd34d",
+        86
+      ]
+    ],
+    "y": 150,
+    "until": 2.5
+  },
+  "pinned_comment": "What does your dog lick first, your face or your food?",
+  "tags": [
+    "why do dogs lick you",
+    "why does my dog lick me",
+    "dog licking face",
+    "dog greeting behavior",
+    "dog lip licking",
+    "things living in your house",
+    "Meatball Myths"
+  ]
+}

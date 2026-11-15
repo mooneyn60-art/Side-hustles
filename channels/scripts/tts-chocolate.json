@@ -1,0 +1,228 @@
+{
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "+10%",
+  "pitch": "+3Hz",
+  "music": "detective",
+  "music_db": -13,
+  "captions": 66,
+  "caption_y": 1180,
+  "cut_whoosh": true,
+  "loop": true,
+  "photo_credits": [],
+  "series": "Things Living In Your House",
+  "sources": [
+    "U.S. Food and Drug Administration, Leave Chocolate Out of Rover's Celebrations (opened 2026-11-15): \"Chocolate is toxic to dogs.\"; \"Chocolate contains more theobromine than caffeine; it's the theobromine that's the main culprit in chocolate toxicity in dogs.\"; \"Theobromine can cause mild signs in dogs with doses as low as 9 mg per pound of body weight, and severe signs starting around 18 mg per pound of body weight.\"; table, approximate theobromine in 1 ounce: milk chocolate 57 mg; dark chocolate with 70-85% cacao 227 mg; \"If your pet is sick or has a veterinary emergency, call your veterinarian. If your veterinarian is unavailable, call your local emergency animal hospital or an animal poison control center.\"; https://www.fda.gov/animal-veterinary/animal-health-literacy/leave-chocolate-out-rovers-celebrations",
+    "ASPCA, What to Do If Your Pet Gets into Chocolate (January 10, 2022; opened 2026-11-15): \"Generally, the darker the chocolate, the more theobromine it will contain\"; \"Cats are sensitive to theobromine just like dogs\"; \"please contact your veterinarian or call the ASPCA Animal Poison Control Center at (888) 426-4435.\"; https://www.aspca.org/news/what-do-if-your-pet-gets-chocolate",
+    "Merck Veterinary Manual, Chocolate Toxicosis in Animals (last updated Feb 2026; opened 2026-11-15): dose bands in mg/kg (mild 20; cardiotoxic 40-50; seizures ≥60). Not spoken in the Short; units differ from the FDA mg-per-pound figures. https://www.merckvetmanual.com/toxicology/food-hazards/chocolate-toxicosis-in-animals"
+  ],
+  "stage": {
+    "creature": "dog",
+    "scene": "kitchen",
+    "scene_p": {},
+    "s": 0.62,
+    "creature_cfg": {
+      "plan": "mammal",
+      "label": "dog",
+      "color": "#c8743c",
+      "dark": "#8f4f24",
+      "belly": "#f1dcc0",
+      "tail_color": "#c8743c",
+      "length": 600,
+      "height": 290,
+      "leg_len": 200,
+      "leg_w": 36,
+      "ears": "floppy",
+      "tail": "thin",
+      "tail_w": 20,
+      "whiskers": false,
+      "mood": "happy"
+    }
+  },
+  "cap_key": [
+    "you",
+    "your",
+    "dog",
+    "dogs",
+    "chocolate",
+    "fda",
+    "theobromine",
+    "milligrams",
+    "pound",
+    "dark",
+    "milk",
+    "cacao",
+    "veterinarian",
+    "noodle",
+    "cake",
+    "tin"
+  ],
+  "title": "Can Dogs Eat Chocolate: Mild Signs Can Start at 9 mg Per Pound 🍫 (Things Living In Your House)",
+  "description": "Can dogs eat chocolate? The FDA says chocolate is toxic to dogs, and that theobromine is the main culprit. Theobromine can cause mild signs in dogs with doses as low as 9 mg per pound of body weight, and severe signs starting around 18 mg per pound. That dose is per pound of the dog's body weight, so the same amount can be milder for a large dog and severe for a small one. The same FDA table lists about 57 mg of theobromine in an ounce of milk chocolate, and about 227 mg in dark chocolate with 70-85% cacao. Do not say any amount is safe, and do not say a bite always kills. The ASPCA says cats are also sensitive to theobromine, though they tend not to eat as much chocolate. If your pet is sick or has a veterinary emergency, call your veterinarian. If your veterinarian is unavailable, call your local emergency animal hospital or an animal poison control center.\n\n#dogchocolate #candogseatchocolate #theobromine #meatballmyths #shorts\n\nSources: FDA, Leave Chocolate Out of Rover's Celebrations, https://www.fda.gov/animal-veterinary/animal-health-literacy/leave-chocolate-out-rovers-celebrations ; ASPCA, What to Do If Your Pet Gets into Chocolate, https://www.aspca.org/news/what-do-if-your-pet-gets-chocolate ; ASPCA, People Foods to Avoid Feeding Your Pets, https://www.aspca.org/pet-care/aspca-poison-control/people-foods-avoid-feeding-your-pets ; Merck Veterinary Manual, Chocolate Toxicosis in Animals, https://www.merckvetmanual.com/toxicology/food-hazards/chocolate-toxicosis-in-animals ; UC Davis, Chocolate Poisoning in Dogs, https://healthtopics.vetmed.ucdavis.edu/health-topics/chocolate-poisoning-dogs ; AVMA, Household Hazards brochure (2022). Pages opened 2026-11-15. General information, not veterinary advice.",
+  "pinned_comment": "What would you do if your dog got to the tin?",
+  "_note": "TikTok search-led short twin of chocolate-v6-yt.json, draft 2026-11-15, written only from /workspace/drafts/facts/chocolate.md. 72 spoken words, runtime estimate 22.4s at 194.5 wpm plus 0.2s of listed pads. Swears after clean facts (Holy shit; fucking tin; Fuck after the FDA dose line; Fucking typical after 'Call your veterinarian'). The call-for-help line uses the FDA's 'call your veterinarian' wording, said clean, with the reaction after. search_top shows the searched phrase for 2.5s. TikTok caption: five topic hashtags, no brand. NOT yet checked by a second model and not rendered.",
+  "beats": [
+    {
+      "m": "hook",
+      "gag": {
+        "mark": "shock"
+      },
+      "_f": [
+        "CH-F1"
+      ],
+      "say": "Can dogs eat chocolate? The FDA says chocolate is toxic. Holy shit.",
+      "card": {
+        "rows": [
+          [
+            "CAN DOGS EAT CHOCOLATE?",
+            "#ffd34d",
+            72
+          ],
+          [
+            "FDA: CHOCOLATE IS TOXIC TO DOGS",
+            "#ffffff",
+            42,
+            true
+          ]
+        ],
+        "y": 470,
+        "at": "40%"
+      },
+      "open": "animal"
+    },
+    {
+      "m": "fact",
+      "gag": false,
+      "_f": [],
+      "say": "Meatball hid the cake. His dog, Noodle, got the fucking tin.",
+      "card": {
+        "rows": [
+          [
+            "THE CAKE WENT UP HIGH",
+            "#ffd34d",
+            80
+          ],
+          [
+            "NOODLE GOT THE TIN",
+            "#ffffff",
+            48,
+            true
+          ]
+        ],
+        "y": 470,
+        "at": "30%"
+      },
+      "scene": "kitchen",
+      "pad": 0.2,
+      "pose": "present"
+    },
+    {
+      "m": "fact",
+      "gag": false,
+      "_f": [
+        "CH-F4"
+      ],
+      "say": "Theobromine can cause mild signs as low as 9 milligrams per pound of body weight, and severe signs around 18, the FDA says. Fuck.",
+      "card": {
+        "rows": [
+          [
+            "AS LOW AS 9 MG PER POUND",
+            "#ff4b3e",
+            70
+          ],
+          [
+            "THEOBROMINE, OF BODY WEIGHT: FDA",
+            "#ffffff",
+            40,
+            true
+          ],
+          [
+            "SEVERE SIGNS AROUND 18 MG PER POUND",
+            "#ffffff",
+            36,
+            true
+          ]
+        ],
+        "y": 470,
+        "at": "25%"
+      },
+      "scene": "study",
+      "acting": false
+    },
+    {
+      "m": "punch",
+      "gag": {
+        "mark": "alarm"
+      },
+      "_f": [
+        "CH-F3",
+        "CH-F6"
+      ],
+      "say": "Dark chocolate, 70 to 85 percent cacao, has about 227 milligrams an ounce, it says; milk chocolate, about 57. Call your veterinarian. Fucking typical. And",
+      "card": {
+        "rows": [
+          [
+            "MILK ~57 MG / OZ   DARK 70–85% ~227",
+            "#ffd34d",
+            40,
+            true
+          ],
+          [
+            "FDA TABLE, THEOBROMINE",
+            "#ffffff",
+            40,
+            true
+          ],
+          [
+            "IF YOUR PET IS SICK, CALL YOUR VETERINARIAN",
+            "#7bd88f",
+            32,
+            true
+          ]
+        ],
+        "x": "right",
+        "y": 400,
+        "at": 0.0
+      },
+      "scene": "kitchen"
+    }
+  ],
+  "search_top": {
+    "rows": [
+      [
+        "CAN DOGS EAT",
+        "#ffffff",
+        86
+      ],
+      [
+        "CHOCOLATE?",
+        "#ffd34d",
+        86
+      ]
+    ],
+    "y": 150,
+    "until": 2.5
+  },
+  "tiktok_title": "Can Dogs Eat Chocolate? What the FDA Says About Theobromine",
+  "tiktok_caption": "can dogs eat chocolate? 🍫 The FDA says chocolate is toxic to dogs, and that theobromine can cause mild signs at doses as low as 9 milligrams per pound of body weight, and severe signs around 18. An ounce of milk chocolate has about 57 milligrams of theobromine, the FDA table says; dark chocolate with 70 to 85 percent cacao has about 227. No amount is called safe. Meatball hid the cake. His dog, Noodle, got the tin. If your pet is sick, call your veterinarian. What would you do if your dog got to the tin? #dogchocolate #candogseatchocolate #theobromine #dogsafety #pethealth",
+  "cap_swap": {
+    "shit": "sh*t",
+    "shits": "sh*ts",
+    "shitty": "sh*tty",
+    "bullshit": "bullsh*t",
+    "fuck": "f**k",
+    "fucking": "f**king",
+    "fucker": "f**ker",
+    "fuckers": "f**kers"
+  },
+  "tags": [
+    "can dogs eat chocolate",
+    "can dogs eat dark chocolate",
+    "could dogs eat chocolate",
+    "why can't dogs eat chocolates",
+    "theobromine in chocolate",
+    "chocolate toxicity in dogs",
+    "things living in your house",
+    "Meatball Myths"
+  ],
+  "_curse": "Sweary short twin: facts, credits, doses and the call-for-help line said clean, swear after. Jokes add no claim, number, danger, feeling, motive or safety instruction."
+}
