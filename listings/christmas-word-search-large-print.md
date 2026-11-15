@@ -2,6 +2,8 @@
 
 Ready-to-paste Etsy listing. Rewritten Nov 15, 2026 by Etsy Studio. Source template: `skills/etsy-factory/products/christmas-word-search-large-print/listing.md` on `claude/youtube-monetization-strategy-m9vz6i`.
 
+**Shop:** FurEver Faces
+
 ## Title
 
 Large Print Christmas Word Search, 24 Advent Puzzles for Seniors & Adults, Instant PDF Download

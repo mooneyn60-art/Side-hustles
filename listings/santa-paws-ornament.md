@@ -2,6 +2,8 @@
 
 Ready-to-paste Etsy listing. Rewritten Nov 15, 2026 by Etsy Studio. Source template: `skills/dropship/ETSY_LISTINGS.md` on `claude/blissful-allen-waez05` (Santa Paws: Ornament).
 
+**Shop:** FurEver Faces
+
 ## Title
 
 Santa Paws Goldendoodle Christmas Ornament, Cute Doodle Tree Decor, Funny Gift for Doodle Mom
