@@ -2,6 +2,8 @@
 
 Ready-to-paste Etsy listing. Rewritten Nov 15, 2026 by Etsy Studio. Source template: `skills/dropship/ETSY_LISTINGS.md` on `claude/blissful-allen-waez05` (Doodle Mom: Tee). That file says to list the mom/dad designs first.
 
+**Shop:** FurEver Faces
+
 ## Title
 
 Doodle Mom Shirt, Goldendoodle Mama Tee, Curls Cuddles & Chaos, Cute Cartoon Dog Mom Gift
