@@ -18,7 +18,7 @@ All dates are America/New_York. Today, when this notebook started, was Sunday, N
 1. **This week (by Wed, Nov 18):** Confirm what is actually live on Etsy and Shopify. Printify product IDs exist as of Nov 14, but the files do not prove listings are published. Shopify, as of Nov 14, still needed the store password removed, payments turned on, and a test order (Nolan only). There is no sales or performance data in the source files.
 2. **This week, as soon as #1 is clear:** If the six finished printables are not live, publish them now (Christmas word search, Christmas bingo, Christmas would-you-rather, Thanksgiving word search, Thanksgiving bingo, large-print seniors word search). Do not spend this week building more Thanksgiving SKUs — Thanksgiving is Nov 26, and the Oct 15 research said those needed to be live in October.
 3. **This week:** Build and list Christmas trivia (already planned in `skills/etsy-factory/research/demand.md` at $3.49). Put a shop name on every printable cover once decision 1 is made, and make bingo vs word search visually distinct.
-4. **Before Dec 5:** For physical dog merch, lead with a short Christmas list, not the full Printify spray: Santa Paws ornament and tee, Snow Day, Doodle Mom/Dad, and the matching human-tee + dog-bandana sets (Santa / Mom / Dad). Write the missing listing copy for those dog bandanas and tanks. Use the rewritten listings in this repo (see Production log) after the ornament price is decided.
+4. **Before Dec 5:** For physical dog merch, lead with a short Christmas list, not the full Printify spray: Santa Paws ornament and tee, Snow Day, Doodle Mom/Dad, and the matching human-tee + dog-bandana sets (Santa / Mom / Dad). Write the missing listing copy for those dog bandanas and tanks. Use the rewritten listings in this repo (see Production log) after the ornament price is decided. The Santa tee + dog bandana pair does not cross a $49 free-shipping line. At `ETSY_STATE.md` prices it is $26 + $18.99 = $44.99, which is $4.01 short. Bundles that do clear $49: tee + tank $53.99, sweatshirt + bandana $58.98, tee + bandana + ornament $61.98. The $49 threshold is **[CONFIRM]**.
 5. **Before advertising custom art:** Do not sell the personalized Rookie Card / tarot / memorial / photo-on-product line until Shopify payments, a test order, and the proof-email step actually work. `ADS_READY.md` and the Shopify policies still disagree on whether custom art is offered.
 6. **By mid-December:** Valentine's doodle merch (tee/mug/bandana) plus a Valentine's large-print word search and classroom bingo, so listings can index before February. Suggested printable price $2.99–$3.49 and merch at current tee/mug prices — ideas only, not verified market data.
 7. **First week of January:** Ship the already-planned sinking-funds/budget planner ($4.99) and weekly meal planner ($3.99), plus a light "Doodle Resolutions" cartoon if capacity allows.
@@ -28,6 +28,10 @@ Source-of-truth files (read only; do not edit Claude's branches):
 - `mooneyn60-art/skills`, branch `claude/blissful-allen-waez05`: `skills/dropship/ETSY_LISTINGS.md`, `ETSY_STATE.md`, `ADS_READY.md`, `ORDER_RUNBOOK.md`
 - `mooneyn60-art/AI-Youtube-Shorts-Generator_SamurAIGPT`, branch `claude/blissful-allen-waez05`: `fureverfaces/`
 - `mooneyn60-art/skills`, branch `claude/youtube-monetization-strategy-m9vz6i`: `skills/etsy-factory/`
+
+### Holiday marketing plan (draft)
+
+[etsy-shop/ads/holiday-marketing-plan.md](etsy-shop/ads/holiday-marketing-plan.md) — promo plan through Dec 5, Pinterest, Facebook doodle groups, corrected `ADS_READY` copy with placeholders, and an Etsy Ads suggestion ($1–$3/day test or $5/day). Nothing in it goes live without Moondog88's okay. Open **[CONFIRM]** items are in Appendix D. The $49 free-shipping threshold in that plan is **[CONFIRM]**. At `ETSY_STATE.md` prices, Santa tee + dog bandana is $26 + $18.99 = $44.99 ($4.01 short). Bundles that do clear $49: tee + tank $53.99, sweatshirt + bandana $58.98, tee + bandana + ornament $61.98.
 
 ## Production log
 
@@ -52,3 +56,9 @@ What Claude should pick up next:
 - If the six finished printables are not live, publish them; build Christmas trivia this week. Do not spend time on more Thanksgiving SKUs.
 - Write missing listing copy for the Santa/Mom/Dad dog bandanas and tanks before adding more cartoon designs.
 - Do not advertise custom pet-photo art until Shopify payments, a test order, and the proof-email step actually work.
+
+### 2026-11-15 — Etsy: Marketing & Ads
+
+2026-11-15, Etsy: Marketing & Ads, holiday marketing plan drafted (promo plan to Dec 5, Pinterest, Facebook doodle groups, corrected ADS_READY copy with placeholders, Etsy Ads suggestion of $1-3/day test or $5/day pending Moondog88 approval); open [CONFIRM] items in Appendix D.
+
+File: [etsy-shop/ads/holiday-marketing-plan.md](etsy-shop/ads/holiday-marketing-plan.md)
