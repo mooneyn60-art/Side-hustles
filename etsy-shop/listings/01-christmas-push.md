@@ -2,7 +2,7 @@
 
 Ready-to-paste rewrites for the short Christmas list, plus one bundle-copy draft. Written Nov 15, 2026 (America/New_York) by Etsy Studio; updated the same day in round 2. GitHub was not edited. Draft copy only; nothing was published or priced.
 
-**Shop:** FurEver Faces (working assumption for this draft). TASKS.md on `mooneyn60-art/Side-hustles` main still lists the customer-facing shop name as an open decision.
+**Shop:** FurEver Faces. Resolved. See DECISIONS.md.
 
 Order in this file: Christmas winners first (Santa Paws, Snow Day, Doodle Mom/Dad), then the matching human + dog sets (Santa, Mom, and Dad bandanas and tanks). The Santa Paws ornament and the Doodle Mom tee were moved here from the catalog file. Their titles, tags, and descriptions still match the notebook examples on Side-hustles main exactly.
 
@@ -75,7 +75,7 @@ $26.00 — the live tee price in `skills/dropship/ETSY_STATE.md` (`Prices: tee $
 
 - Production partner: Printify (ETSY_LISTINGS.md: “name Printify as the production partner”).
 - When made: made to order (print-on-demand; etsy-factory listing.json pattern uses `made_to_order`).
-- Shop name (customer-facing, working assumption for this draft): FurEver Faces.
+- Shop name (customer-facing): FurEver Faces. Resolved. See DECISIONS.md.
 - Materials / sizes (from ETSY_LISTINGS.md): cotton (Bella + Canvas); unisex S to 2XL.
 - Print: Monster Digital, blueprint 12; tee scale 0.95 at y 0.42 (ETSY_STATE.md).
 - Printify product id (ETSY_STATE.md, Etsy store): `6af8c7fcb2e1366dcb036239`.
@@ -124,7 +124,7 @@ $17.99 — the live mug price in `skills/dropship/ETSY_STATE.md` (`Prices: tee $
 
 - Production partner: Printify (ETSY_LISTINGS.md: “name Printify as the production partner”).
 - When made: made to order (print-on-demand; etsy-factory listing.json pattern uses `made_to_order`).
-- Shop name (customer-facing, working assumption for this draft): FurEver Faces.
+- Shop name (customer-facing): FurEver Faces. Resolved. See DECISIONS.md.
 - Materials / sizes (from ETSY_LISTINGS.md): ceramic; 11 oz or 15 oz; dishwasher and microwave safe.
 - Print: SPOKE, blueprint 68; three copies at x 0.17/0.5/0.83, scale 0.31 (ETSY_STATE.md).
 - Printify product id (ETSY_STATE.md, Etsy store): `6af8cb9a948a470d52068f06`.
@@ -137,7 +137,7 @@ Print file: `fureverfaces/print/PRINT-santa.png` on `mooneyn60-art/AI-Youtube-Sh
 
 # Santa Paws Goldendoodle Christmas Ornament
 
-Ready-to-paste Etsy listing. Rewritten Nov 15, 2026 by Etsy Studio. Source template: `skills/dropship/ETSY_LISTINGS.md` on `claude/blissful-allen-waez05` (Santa Paws: Ornament). Title, tags, and description match the notebook example in `listings/santa-paws-ornament.md` on `mooneyn60-art/Side-hustles` main exactly. Moved into the Christmas push file in this round. **Shop:** FurEver Faces. The price note below uses the live-list working assumption ($16.99 from ETSY_STATE.md, pending the 45% margin check). TASKS.md on Side-hustles main still lists the ornament price as an open decision and says not to paste this live until it is decided.
+Ready-to-paste Etsy listing. Rewritten Nov 15, 2026 by Etsy Studio. Source template: `skills/dropship/ETSY_LISTINGS.md` on `claude/blissful-allen-waez05` (Santa Paws: Ornament). Title, tags, and description match the notebook example in `listings/santa-paws-ornament.md` on `mooneyn60-art/Side-hustles` main exactly. Moved into the Christmas push file in this round. **Shop:** FurEver Faces. The price note below uses the resolved ornament price ($16.99; see DECISIONS.md). A margin check is still needed.
 
 ## Title
 
@@ -167,13 +167,13 @@ He's on the nice list. Pending. A cream doodle in a Santa hat, arms full of gift
 
 ## Price note
 
-$16.99 — the live ornament price in `skills/dropship/ETSY_STATE.md` (`Prices: tee $26, sweatshirt $39.99, mug $17.99, ornament $16.99.`), used here as a working assumption pending a margin check. ETSY_LISTINGS.md still lists `$21.99`. TASKS.md on Side-hustles main still treats the conflict as an open decision and says not to paste ornament copy live until one price is picked. Printify cost plus shipping is not in the source files; see `03-pricing-memo.md` (45% cap at $16.99 is $7.6455). Draft copy only; nothing was published or repriced.
+$16.99 — the live ornament price in `skills/dropship/ETSY_STATE.md` (`Prices: tee $26, sweatshirt $39.99, mug $17.99, ornament $16.99.`). Resolved at $16.99 (see DECISIONS.md). A margin check is still needed. ETSY_LISTINGS.md still lists `$21.99`. That conflict is resolved in DECISIONS.md. Printify cost plus shipping is not in the source files; see `03-pricing-memo.md` (45% cap at $16.99 is $7.6455). Draft copy only; nothing was published or repriced.
 
 ## Suggested attributes
 
 - Production partner: Printify (ETSY_LISTINGS.md: “name Printify as the production partner”).
 - When made: made to order (print-on-demand; etsy-factory listing.json pattern uses `made_to_order`).
-- Shop name (customer-facing, working assumption for this draft): FurEver Faces.
+- Shop name (customer-facing): FurEver Faces. Resolved. See DECISIONS.md.
 - Materials (from ETSY_LISTINGS.md first-batch ornaments): round ceramic ornament with ribbon.
 - Print: Duplium, blueprint 537; ornament scale 0.6 (ETSY_STATE.md).
 - Printify product id (ETSY_STATE.md, Etsy store): `6af8cbd9b2e1366dcb036560`.
@@ -224,7 +224,7 @@ FLAG: bundle-copy draft only. No Printify product id and no Etsy listing id for 
 
 - Production partner: FLAG — no production record. The holiday plan on Side-hustles main says any bundle SKU is not documented.
 - When made: made to order (print-on-demand; etsy-factory listing.json pattern uses `made_to_order`).
-- Shop name (customer-facing, working assumption for this draft): FurEver Faces.
+- Shop name (customer-facing): FurEver Faces. Resolved. See DECISIONS.md.
 - Contents (from the live price list, not a Printify bundle product): Santa Paws tee + Santa Paws pet bandana + Santa Paws ornament.
 - FLAG: no bundle SKU, no Printify bundle product, and no documented fulfillment method.
 - Printify product id: none in ETSY_STATE.md.
@@ -274,7 +274,7 @@ $26.00 — the live tee price in `skills/dropship/ETSY_STATE.md` (`Prices: tee $
 
 - Production partner: Printify (ETSY_LISTINGS.md: “name Printify as the production partner”).
 - When made: made to order (print-on-demand; etsy-factory listing.json pattern uses `made_to_order`).
-- Shop name (customer-facing, working assumption for this draft): FurEver Faces.
+- Shop name (customer-facing): FurEver Faces. Resolved. See DECISIONS.md.
 - Materials / sizes (from ETSY_LISTINGS.md): cotton (Bella + Canvas); unisex S to 2XL.
 - Print: Monster Digital, blueprint 12; tee scale 0.95 at y 0.42 (ETSY_STATE.md).
 - Printify product id (ETSY_STATE.md, Etsy store): `6af8c8434643b0e305091526`.
@@ -323,7 +323,7 @@ $17.99 — the live mug price in `skills/dropship/ETSY_STATE.md` (`Prices: tee $
 
 - Production partner: Printify (ETSY_LISTINGS.md: “name Printify as the production partner”).
 - When made: made to order (print-on-demand; etsy-factory listing.json pattern uses `made_to_order`).
-- Shop name (customer-facing, working assumption for this draft): FurEver Faces.
+- Shop name (customer-facing): FurEver Faces. Resolved. See DECISIONS.md.
 - Materials / sizes (from ETSY_LISTINGS.md): ceramic; 11 oz or 15 oz; dishwasher and microwave safe.
 - Print: SPOKE, blueprint 68; three copies at x 0.17/0.5/0.83, scale 0.31 (ETSY_STATE.md).
 - Printify product id (ETSY_STATE.md, Etsy store): `6af8cba8c745d035040e4cde`.
@@ -372,7 +372,7 @@ $39.99 — the live sweatshirt price in `skills/dropship/ETSY_STATE.md` (`Prices
 
 - Production partner: Printify (ETSY_LISTINGS.md: “name Printify as the production partner”).
 - When made: made to order (print-on-demand; etsy-factory listing.json pattern uses `made_to_order`).
-- Shop name (customer-facing, working assumption for this draft): FurEver Faces.
+- Shop name (customer-facing): FurEver Faces. Resolved. See DECISIONS.md.
 - Materials / sizes: not stated in the source files.
 - Print: Monster Digital, blueprint 49 (ETSY_STATE.md).
 - Printify product id (ETSY_STATE.md, Etsy store): `6af8cba02ffca93f7e0c6fa3`.
@@ -416,13 +416,13 @@ Snow Day. Zoomies incoming. A cartoon doodle in a beanie and scarf, with the wor
 
 ## Price note
 
-$16.99 — the live ornament price in `skills/dropship/ETSY_STATE.md` (`Prices: tee $26, sweatshirt $39.99, mug $17.99, ornament $16.99.`), used here as a working assumption pending a margin check. ETSY_LISTINGS.md still lists `$21.99`. TASKS.md on Side-hustles main still treats the conflict as an open decision. Printify cost plus shipping is not in the source files; see `03-pricing-memo.md` (45% cap at $16.99 is $7.6455). Draft copy only; nothing was published or repriced.
+$16.99 — the live ornament price in `skills/dropship/ETSY_STATE.md` (`Prices: tee $26, sweatshirt $39.99, mug $17.99, ornament $16.99.`). Resolved at $16.99 (see DECISIONS.md). A margin check is still needed. ETSY_LISTINGS.md still lists `$21.99`. That conflict is resolved in DECISIONS.md. Printify cost plus shipping is not in the source files; see `03-pricing-memo.md` (45% cap at $16.99 is $7.6455). Draft copy only; nothing was published or repriced.
 
 ## Suggested attributes
 
 - Production partner: Printify (ETSY_LISTINGS.md: “name Printify as the production partner”).
 - When made: made to order (print-on-demand; etsy-factory listing.json pattern uses `made_to_order`).
-- Shop name (customer-facing, working assumption for this draft): FurEver Faces.
+- Shop name (customer-facing): FurEver Faces. Resolved. See DECISIONS.md.
 - Materials (from ETSY_LISTINGS.md first-batch ornaments): round ceramic ornament with ribbon.
 - Print: Duplium, blueprint 537; ornament scale 0.6 (ETSY_STATE.md).
 - Printify product id (ETSY_STATE.md, Etsy store): `6af8cbe0ca5d307abc011785`.
@@ -435,7 +435,7 @@ Print file: `fureverfaces/print/PRINT-snow.png` on `mooneyn60-art/AI-Youtube-Sho
 
 # Doodle Mom Tee
 
-Ready-to-paste Etsy listing. Rewritten Nov 15, 2026 by Etsy Studio. Source template: `skills/dropship/ETSY_LISTINGS.md` on `claude/blissful-allen-waez05` (Doodle Mom: Tee). That file says to list the mom/dad designs first. Title, tags, and description match the notebook example in `listings/doodle-mom-tee.md` on `mooneyn60-art/Side-hustles` main exactly. Moved into the Christmas push file in this round. **Shop:** FurEver Faces (working assumption for draft copy; TASKS.md on Side-hustles main still lists the shop-name decision as open).
+Ready-to-paste Etsy listing. Rewritten Nov 15, 2026 by Etsy Studio. Source template: `skills/dropship/ETSY_LISTINGS.md` on `claude/blissful-allen-waez05` (Doodle Mom: Tee). That file says to list the mom/dad designs first. Title, tags, and description match the notebook example in `listings/doodle-mom-tee.md` on `mooneyn60-art/Side-hustles` main exactly. Moved into the Christmas push file in this round. **Shop:** FurEver Faces. Resolved. See DECISIONS.md.
 
 ## Title
 
@@ -471,7 +471,7 @@ $26.00 — the live tee price in `skills/dropship/ETSY_STATE.md` (`Prices: tee $
 
 - Production partner: Printify (ETSY_LISTINGS.md: “name Printify as the production partner”).
 - When made: made to order (print-on-demand; etsy-factory listing.json pattern uses `made_to_order`).
-- Shop name (customer-facing, working assumption for this draft): FurEver Faces.
+- Shop name (customer-facing): FurEver Faces. Resolved. See DECISIONS.md.
 - Materials / sizes (from ETSY_LISTINGS.md): cotton (Bella + Canvas); unisex S to 2XL.
 - Print: Monster Digital, blueprint 12; tee scale 0.95 at y 0.42 (ETSY_STATE.md).
 - Printify product id (ETSY_STATE.md, Etsy store): `6af8c7602ffca93f7e0c6c24`.
@@ -520,7 +520,7 @@ $26.00 — the live tee price in `skills/dropship/ETSY_STATE.md` (`Prices: tee $
 
 - Production partner: Printify (ETSY_LISTINGS.md: “name Printify as the production partner”).
 - When made: made to order (print-on-demand; etsy-factory listing.json pattern uses `made_to_order`).
-- Shop name (customer-facing, working assumption for this draft): FurEver Faces.
+- Shop name (customer-facing): FurEver Faces. Resolved. See DECISIONS.md.
 - Materials / sizes (from ETSY_LISTINGS.md): cotton (Bella + Canvas); unisex S to 2XL.
 - Print: Monster Digital, blueprint 12; tee scale 0.95 at y 0.42 (ETSY_STATE.md).
 - Printify product id (ETSY_STATE.md, Etsy store): `6af8c8702ffca93f7e0c6cfd`.
@@ -569,7 +569,7 @@ $17.99 — the live mug price in `skills/dropship/ETSY_STATE.md` (`Prices: tee $
 
 - Production partner: Printify (ETSY_LISTINGS.md: “name Printify as the production partner”).
 - When made: made to order (print-on-demand; etsy-factory listing.json pattern uses `made_to_order`).
-- Shop name (customer-facing, working assumption for this draft): FurEver Faces.
+- Shop name (customer-facing): FurEver Faces. Resolved. See DECISIONS.md.
 - Materials / sizes (from ETSY_LISTINGS.md): ceramic; 11 oz or 15 oz; dishwasher and microwave safe.
 - Print: SPOKE, blueprint 68; three copies at x 0.17/0.5/0.83, scale 0.31 (ETSY_STATE.md).
 - Printify product id (ETSY_STATE.md, Etsy store): `6af8cb70edd1928e090c6ea8`.
@@ -618,7 +618,7 @@ $39.99 — the live sweatshirt price in `skills/dropship/ETSY_STATE.md` (`Prices
 
 - Production partner: Printify (ETSY_LISTINGS.md: “name Printify as the production partner”).
 - When made: made to order (print-on-demand; etsy-factory listing.json pattern uses `made_to_order`).
-- Shop name (customer-facing, working assumption for this draft): FurEver Faces.
+- Shop name (customer-facing): FurEver Faces. Resolved. See DECISIONS.md.
 - Materials / sizes: not stated in the source files.
 - Print: Monster Digital, blueprint 49 (ETSY_STATE.md).
 - Printify product id (ETSY_STATE.md, Etsy store): `6af8cb69edd1928e090c6ea3`.
@@ -662,13 +662,13 @@ Doodle Dad. Chief treat officer. A cartoon doodle in a baseball cap, with the wo
 
 ## Price note
 
-$16.99 — the live ornament price in `skills/dropship/ETSY_STATE.md` (`Prices: tee $26, sweatshirt $39.99, mug $17.99, ornament $16.99.`), used here as a working assumption pending a margin check. ETSY_LISTINGS.md still lists `$21.99`. TASKS.md on Side-hustles main still treats the conflict as an open decision. Printify cost plus shipping is not in the source files; see `03-pricing-memo.md` (45% cap at $16.99 is $7.6455). Draft copy only; nothing was published or repriced.
+$16.99 — the live ornament price in `skills/dropship/ETSY_STATE.md` (`Prices: tee $26, sweatshirt $39.99, mug $17.99, ornament $16.99.`). Resolved at $16.99 (see DECISIONS.md). A margin check is still needed. ETSY_LISTINGS.md still lists `$21.99`. That conflict is resolved in DECISIONS.md. Printify cost plus shipping is not in the source files; see `03-pricing-memo.md` (45% cap at $16.99 is $7.6455). Draft copy only; nothing was published or repriced.
 
 ## Suggested attributes
 
 - Production partner: Printify (ETSY_LISTINGS.md: “name Printify as the production partner”).
 - When made: made to order (print-on-demand; etsy-factory listing.json pattern uses `made_to_order`).
-- Shop name (customer-facing, working assumption for this draft): FurEver Faces.
+- Shop name (customer-facing): FurEver Faces. Resolved. See DECISIONS.md.
 - Materials (from ETSY_LISTINGS.md first-batch ornaments): round ceramic ornament with ribbon.
 - Print: Duplium, blueprint 537; ornament scale 0.6 (ETSY_STATE.md).
 - Printify product id (ETSY_STATE.md, Etsy store): `6af8cbeda62de2d61c0bf283`.
@@ -717,7 +717,7 @@ $18.99 — the live pet bandana price in `skills/dropship/ETSY_STATE.md` (`Pet B
 
 - Production partner: Printify (ETSY_LISTINGS.md: “name Printify as the production partner”).
 - When made: made to order (print-on-demand; etsy-factory listing.json pattern uses `made_to_order`).
-- Shop name (customer-facing, working assumption for this draft): FurEver Faces.
+- Shop name (customer-facing): FurEver Faces. Resolved. See DECISIONS.md.
 - Materials / sizes / care: not stated in the source files.
 - Print: Printed Mint, blueprint 562; scale 0.29 at y 0.34 (ETSY_STATE.md).
 - Printify product id (ETSY_STATE.md, Etsy store): `6af8d0df2ffca93f7e0c73e8`.
@@ -767,7 +767,7 @@ $27.99 — the live pet tank price in `skills/dropship/ETSY_STATE.md` (`Pet Tank
 
 - Production partner: Printify (ETSY_LISTINGS.md: “name Printify as the production partner”).
 - When made: made to order (print-on-demand; etsy-factory listing.json pattern uses `made_to_order`).
-- Shop name (customer-facing, working assumption for this draft): FurEver Faces.
+- Shop name (customer-facing): FurEver Faces. Resolved. See DECISIONS.md.
 - Materials / sizes / care: not stated in the source files.
 - Print: Printed Mint, blueprint 571; scale 0.9 at y 0.35 (ETSY_STATE.md).
 - Printify product id (ETSY_STATE.md, Etsy store): `6af8d0e4383728621d00d9bc`.
@@ -817,7 +817,7 @@ $18.99 — the live pet bandana price in `skills/dropship/ETSY_STATE.md` (`Pet B
 
 - Production partner: Printify (ETSY_LISTINGS.md: “name Printify as the production partner”).
 - When made: made to order (print-on-demand; etsy-factory listing.json pattern uses `made_to_order`).
-- Shop name (customer-facing, working assumption for this draft): FurEver Faces.
+- Shop name (customer-facing): FurEver Faces. Resolved. See DECISIONS.md.
 - Materials / sizes / care: not stated in the source files.
 - Print: Printed Mint, blueprint 562; scale 0.29 at y 0.34 (ETSY_STATE.md).
 - Printify product id (ETSY_STATE.md, Etsy store): `6af8d0c59e4469c0080fb1ab`.
@@ -867,7 +867,7 @@ $27.99 — the live pet tank price in `skills/dropship/ETSY_STATE.md` (`Pet Tank
 
 - Production partner: Printify (ETSY_LISTINGS.md: “name Printify as the production partner”).
 - When made: made to order (print-on-demand; etsy-factory listing.json pattern uses `made_to_order`).
-- Shop name (customer-facing, working assumption for this draft): FurEver Faces.
+- Shop name (customer-facing): FurEver Faces. Resolved. See DECISIONS.md.
 - Materials / sizes / care: not stated in the source files.
 - Print: Printed Mint, blueprint 571; scale 0.9 at y 0.35 (ETSY_STATE.md).
 - Printify product id (ETSY_STATE.md, Etsy store): `6af8d0cc948a470d52069301`.
@@ -917,7 +917,7 @@ $18.99 — the live pet bandana price in `skills/dropship/ETSY_STATE.md` (`Pet B
 
 - Production partner: Printify (ETSY_LISTINGS.md: “name Printify as the production partner”).
 - When made: made to order (print-on-demand; etsy-factory listing.json pattern uses `made_to_order`).
-- Shop name (customer-facing, working assumption for this draft): FurEver Faces.
+- Shop name (customer-facing): FurEver Faces. Resolved. See DECISIONS.md.
 - Materials / sizes / care: not stated in the source files.
 - Print: Printed Mint, blueprint 562; scale 0.29 at y 0.34 (ETSY_STATE.md).
 - Printify product id (ETSY_STATE.md, Etsy store): `6af8d0d36d67bf35520c7be4`.
@@ -967,7 +967,7 @@ $27.99 — the live pet tank price in `skills/dropship/ETSY_STATE.md` (`Pet Tank
 
 - Production partner: Printify (ETSY_LISTINGS.md: “name Printify as the production partner”).
 - When made: made to order (print-on-demand; etsy-factory listing.json pattern uses `made_to_order`).
-- Shop name (customer-facing, working assumption for this draft): FurEver Faces.
+- Shop name (customer-facing): FurEver Faces. Resolved. See DECISIONS.md.
 - Materials / sizes / care: not stated in the source files.
 - Print: Printed Mint, blueprint 571; scale 0.9 at y 0.35 (ETSY_STATE.md).
 - Printify product id (ETSY_STATE.md, Etsy store): `6af8d0d9383728621d00d9aa`.

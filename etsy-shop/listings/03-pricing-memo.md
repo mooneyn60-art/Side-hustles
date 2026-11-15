@@ -2,12 +2,12 @@
 
 Written Nov 15, 2026 (America/New_York) by Etsy Studio; updated the same day in round 2. This is a recommendation. No prices were changed in Printify, Etsy, Shopify, or any GitHub branch. Draft copy only. No sales, search, or estimated cost figures are used; only lines that already appear in the source files are quoted, and missing Printify costs are marked “Printify cost needed,” never estimated.
 
-## Working assumptions for this draft (not a live change)
+## Prices and shop name for this draft (not a live change)
 
 - Customer-facing shop name: FurEver Faces.
 - `skills/dropship/ETSY_STATE.md` on `claude/blissful-allen-waez05` is the live price list: ornament **$16.99** (pending a margin check) and mug **$17.99**.
 - Ads would say **“from $16.99”**.
-- These are working assumptions for draft copy. TASKS.md on `mooneyn60-art/Side-hustles` main still lists the shop name and the ornament price as decisions awaiting Moondog88. See Conflicts below.
+- Shop name FurEver Faces and ornament $16.99 are resolved. See DECISIONS.md. A margin check is still needed.
 
 ## The 45% rule (quoted)
 
@@ -69,12 +69,12 @@ The 45% rule in BRIEF.md is about supplier cost plus shipping on physical print-
 
 ## Conflicts with DECISIONS.md / TASKS.md
 
-`DECISIONS.md` is not at the root of `mooneyn60-art/Side-hustles` main. A read of that path returned 404: “Not Found No file at DECISIONS.md. Entries in the repository root: README.md, TASKS.md, channels/, creative/, etsy-shop/, listings/.” Open decisions live in TASKS.md under “Decisions awaiting Moondog88 (block publishing until answered).”
+Shop name and ornament price are resolved in `DECISIONS.md`.
 
-Conflicts and tensions with this draft's working assumptions:
+Conflicts and tensions with this draft:
 
-1. **Shop name still open in TASKS.md.** Decision 1 still asks Moondog88 to choose PrintanPress vs FurEver Faces, and recommends FurEver Faces. This draft uses FurEver Faces as a working assumption for copy only. It was not published, and the Etsy shop name in ETSY_STATE.md remains PrintanPress (shop id 38484468).
-2. **Ornament price still open in TASKS.md.** Decision 2 still says $16.99 vs $21.99, “Check actual Printify cost plus shipping, then pick one price,” and “Do not paste listing copy live until this is decided.” This draft uses $16.99 as the live-list working assumption **pending the same margin check**. Ornament listings and the bundle draft should not be pasted live until that check is done. Printify cost is still needed, so this memo does not close decision 2.
+1. **Shop name is resolved: FurEver Faces.** See DECISIONS.md. It was not published yet, and the Etsy shop name recorded in ETSY_STATE.md remains PrintanPress (shop id 38484468) until Claude renames it. The rename is approved.
+2. **Ornament price is resolved: $16.99.** See DECISIONS.md. ETSY_LISTINGS.md still lists $21.99; that conflict is closed. A margin check is still needed, and Printify cost is still needed. That check does not reopen the price.
 3. **BRIEF.md vs the live list and the Dec 5 cutoff.** BRIEF.md prices the ornament at $21.99 and talks about a last safe US order date “around Dec 8-12” and a “Order by Dec 10” example. The merch listings and ADS_READY.md use Dec 5. BRIEF.md is also written for the personalized Shopify store (photo upload, memorial ornament, socks, blanket), which is a different line than the cartoon catalog in ETSY_STATE.md. The 45% rule is still the rule this assignment asked to apply.
 4. **New TASKS.md decisions that do not change these prices but are still open:** (3) Shopify “no photo upload” / ADS_READY.md vs the custom-art ORDER_RUNBOOK.md flow; (4) whether ETSY_STATE.md (shop, store, product, and Make.com ids) should leave the public repo. This memo does not resolve those.
 5. **$49 free-shipping threshold** in TASKS.md and the holiday plan is **[CONFIRM]**, not a documented live policy. Bundle copy must not claim free shipping until that is confirmed.
