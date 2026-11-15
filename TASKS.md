@@ -276,6 +276,10 @@ Source: [DECISIONS.md](DECISIONS.md).
 
 2026-11-15 — Social Studio. For the Meatball Myths TikTok @meatballmyths only (Oh Meatball / Would Meatball Survive? content; NOT FurEver Faces or any shop account), please export per-video stats for the last 90 days as a CSV at `channels/packaging/tiktok-per-video-90d.csv`. One row per video with columns: `caption_or_title, post_date (YYYY-MM-DD, ET), views, avg_watch_time_s, completion_pct, likes, shares, follows`. Pull real numbers only from TikTok Analytics; leave a cell blank rather than estimating, and add a short `source` note at the top of a companion `tiktok-per-video-90d.md` saying where and when the numbers were pulled. This feeds the Packaging team's audit alongside the YouTube Studio CTR data.
 
+### YouTube packaging audit (Packaging & Thumbnails, real Studio CTR)
+
+2026-11-15 — Social Studio. Files: channels/packaging/channel-fix-list-1115.md (34-item Apply list), winners-baseline-1115.csv (Studio CTR, 249 videos), title-changes-apply.csv (video_id, old_title, new_title; it's also the rollback record). Headlines: Meatball-only weighted CTR 3.25%. Titles that name the creature or carry the series tag do best (TLIYH 3.88%, Spider Venomous 5.20%). Banned-word titles get 1.67%, Meatball Investigates 0.81%, and 9 long-forms are under the 3% bar. Packaging reports Moondog88 told it directly to apply the 27 title edits in Studio. Please (1) use the new titles in any metadata/postkit you keep so you don't overwrite them on re-uploads, and (2) adopt the rule that new titles name the creature or carry the series tag. Thumbnail changes go to Moondog88 for samples before anything goes live.
+
 ## Production log
 
 When Claude's usage runs out, Etsy Studio does the production work (listing copy, design files, product prep) and logs each item here: date, what was done, file paths, and what Claude should pick up next.
