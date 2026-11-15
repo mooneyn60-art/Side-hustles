@@ -1,0 +1,187 @@
+{
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "+10%",
+  "pitch": "+3Hz",
+  "music": "mystery",
+  "music_db": -13,
+  "captions": 66,
+  "caption_y": 1180,
+  "cut_whoosh": true,
+  "loop": true,
+  "photo_credits": [],
+  "series": "Things Living In Your House",
+  "sources": [
+    "University of Pennsylvania School of Veterinary Medicine, Ryan Veterinary Hospital, \"Dog Body Language Basics\" (Behavior Medicine; opened 2026-11-15): \"Dog licks person or other dog: not a “kiss”. This is a greeting behavior, but if dog licks someone repeatedly, he may be anxious about that dog or person.\"; \"Dog licks his lips: anxiety about a situation or interaction.\"; \"Dogs do not kiss either, and they may be frightened by kissing.\"; https://www.vet.upenn.edu/wp-content/uploads/2024/12/dogbodylanguagebasics-pdf.pdf",
+    "Stephanie Borns-Weil, Cummings School of Veterinary Medicine at Tufts University, Anxiety in Dogs (May 4, 2023; opened 2026-11-15): \"Anxious dogs may also appear extra friendly and continually approach, jump on someone, and lick their face, or just be needier with the owner.\"; https://vet.tufts.edu/news-events/news/anxiety-dogs",
+    "American Animal Hospital Association, Table 1: Common Signs of Anxiety/Distress (published June 28, 2019; opened 2026-11-15): lip licking and nose licking among common signs of nonspecific anxiety or distress in dogs and cats; https://www.aaha.org/resources/2015-aaha-canine-and-feline-behavior-management-guidelines/common-signs-of-anxietydistress/",
+    "Texas A&M University College of Veterinary Medicine and Biomedical Sciences, Understanding Your Dog's Body Language (Harmony Diers, March 13, 2025; opened 2026-11-15): \"Licking lips — often accompanied with yawning\" among signs of a nervous or alerted dog; https://stories.tamu.edu/news/2025/03/13/understanding-your-dogs-body-language-a-guide-to-canine-communication/"
+  ],
+  "stage": {
+    "creature": "dog",
+    "scene": "kitchen",
+    "scene_p": {},
+    "s": 0.62,
+    "creature_cfg": {
+      "plan": "mammal",
+      "label": "dog",
+      "color": "#c8743c",
+      "dark": "#8f4f24",
+      "belly": "#f1dcc0",
+      "tail_color": "#c8743c",
+      "length": 600,
+      "height": 290,
+      "leg_len": 200,
+      "leg_w": 36,
+      "ears": "floppy",
+      "tail": "thin",
+      "tail_w": 20,
+      "whiskers": false,
+      "mood": "happy"
+    }
+  },
+  "cap_key": [
+    "you",
+    "your",
+    "dog",
+    "dogs",
+    "lick",
+    "kiss",
+    "greeting",
+    "anxious",
+    "lips",
+    "penn",
+    "noodle",
+    "sandwich"
+  ],
+  "title": "Why Dogs Lick You: Penn Vet Says It's Not a Kiss 🐶 (Things Living In Your House)",
+  "description": "Why do dogs lick you? A University of Pennsylvania School of Veterinary Medicine handout says a dog licking a person or another dog is not a \"kiss.\" It is a greeting behavior, but if a dog licks someone repeatedly, he may be anxious about that dog or person. Lip licking is a different signal: Penn Vet lists it as anxiety about a situation or interaction. A lick is not automatically love, and it is not automatically anxiety.\n\n#whydodogslickyou #doglicking #dogbehavior #meatballmyths #shorts\n\nSources: University of Pennsylvania School of Veterinary Medicine, Dog Body Language Basics, https://www.vet.upenn.edu/wp-content/uploads/2024/12/dogbodylanguagebasics-pdf.pdf ; Cummings School of Veterinary Medicine at Tufts University, Anxiety in Dogs, https://vet.tufts.edu/news-events/news/anxiety-dogs ; AAHA, Common Signs of Anxiety/Distress, https://www.aaha.org/resources/2015-aaha-canine-and-feline-behavior-management-guidelines/common-signs-of-anxietydistress/ ; Texas A&M College of Veterinary Medicine, Understanding Your Dog's Body Language, https://stories.tamu.edu/news/2025/03/13/understanding-your-dogs-body-language-a-guide-to-canine-communication/ . Pages opened 2026-11-15. General information, not a diagnosis of your dog.",
+  "pinned_comment": "What does your dog lick first, your face or your food?",
+  "_note": "YouTube Short v6, Why Dogs Lick You, draft 2026-11-15, written only from /workspace/drafts/facts/dogs-lick.md. 61 spoken words, runtime estimate 19.0s at 194.5 wpm plus 0.2s of listed pads. Lint window 15.0–20.05s. Mild words only: one 'damn' in the line 2 gag. At least two sourced facts (DL-F1 Penn Vet: not a kiss / greeting / repeated licking may be anxiety; DL-F2 lip licking is a different signal). Hook is the searched question. Line 2 is the acted Meatball gag (starts in the 3–7s window): he puckered up; his dog, Noodle (comma form) got the sandwich. Action only; no feeling or motive. Hedges kept ('may'). No hedge-mocking tag. Loop ends on 'And' in the hook's kitchen. Hashtags: three topic tags, then #meatballmyths, #shorts last. Title has none of the banned YouTube words. NOT yet checked by a second model and not rendered. No Noodle character key; Studio must draw the pucker and the sandwich payoff.",
+  "beats": [
+    {
+      "m": "hook",
+      "gag": {
+        "mark": "shock"
+      },
+      "_f": [
+        "DL-F1"
+      ],
+      "say": "Why do dogs lick you? Penn Vet says it is not a kiss.",
+      "card": {
+        "rows": [
+          [
+            "WHY DO DOGS LICK YOU?",
+            "#ffd34d",
+            72
+          ],
+          [
+            "PENN VET: NOT A “KISS”",
+            "#ffffff",
+            42,
+            true
+          ]
+        ],
+        "y": 470,
+        "at": "40%"
+      },
+      "open": "animal"
+    },
+    {
+      "m": "fact",
+      "gag": false,
+      "_f": [],
+      "say": "Meatball puckered up. His dog, Noodle, got the damn sandwich.",
+      "card": {
+        "rows": [
+          [
+            "MEATBALL PUCKERED UP",
+            "#ffd34d",
+            80
+          ],
+          [
+            "NOODLE GOT THE SANDWICH",
+            "#ffffff",
+            48,
+            true
+          ]
+        ],
+        "y": 470,
+        "at": "30%"
+      },
+      "scene": "kitchen",
+      "pad": 0.2,
+      "pose": "present"
+    },
+    {
+      "m": "fact",
+      "gag": false,
+      "_f": [
+        "DL-F1"
+      ],
+      "say": "Licking a person or another dog is a greeting behavior, the same handout says, but if a dog licks someone repeatedly, he may be anxious about that person.",
+      "card": {
+        "rows": [
+          [
+            "A GREETING BEHAVIOR",
+            "#ffd34d",
+            80
+          ],
+          [
+            "REPEATED LICKING MAY MEAN ANXIETY",
+            "#ffffff",
+            38,
+            true
+          ],
+          [
+            "PENN VET",
+            "#ffffff",
+            44,
+            true
+          ]
+        ],
+        "y": 470,
+        "at": "22%"
+      },
+      "scene": "study",
+      "acting": false
+    },
+    {
+      "m": "punch",
+      "gag": {
+        "mark": "alarm"
+      },
+      "_f": [
+        "DL-F2"
+      ],
+      "say": "Lip licking is a different signal, Penn Vet says. And",
+      "card": {
+        "rows": [
+          [
+            "LIP LICKING IS DIFFERENT",
+            "#ffd34d",
+            70
+          ],
+          [
+            "PENN VET: A DIFFERENT SIGNAL",
+            "#ffffff",
+            40,
+            true
+          ]
+        ],
+        "x": "right",
+        "y": 400,
+        "at": 0.0
+      },
+      "scene": "kitchen"
+    }
+  ],
+  "tags": [
+    "why do dogs lick you",
+    "why does my dog lick me",
+    "dog licking face",
+    "dog greeting behavior",
+    "dog lip licking",
+    "things living in your house",
+    "Meatball Myths"
+  ]
+}

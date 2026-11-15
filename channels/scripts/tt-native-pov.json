@@ -1,0 +1,486 @@
+{
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "+10%",
+  "pitch": "+3Hz",
+  "music": "detective",
+  "music_db": -13,
+  "captions": 66,
+  "caption_y": 1180,
+  "cut_whoosh": true,
+  "loop": true,
+  "photo_credits": [],
+  "cap_swap": {
+    "shit": "sh*t",
+    "shits": "sh*ts",
+    "shitty": "sh*tty",
+    "bullshit": "bullsh*t",
+    "fuck": "f**k",
+    "fucking": "f**king",
+    "fucker": "f**ker",
+    "fuckers": "f**kers"
+  },
+  "series": "Things Living In Your House",
+  "sources": [
+    "University of Pennsylvania School of Veterinary Medicine, Ryan Veterinary Hospital, \"Dog Body Language Basics\" (Behavior Medicine; opened 2026-11-15): \"Dog licks person or other dog: not a “kiss”. This is a greeting behavior, but if dog licks someone repeatedly, he may be anxious about that dog or person.\"; \"Dog licks his lips: anxiety about a situation or interaction.\"; \"Dogs do not kiss either, and they may be frightened by kissing.\"; https://www.vet.upenn.edu/wp-content/uploads/2024/12/dogbodylanguagebasics-pdf.pdf",
+    "Stephanie Borns-Weil, Cummings School of Veterinary Medicine at Tufts University, Anxiety in Dogs (May 4, 2023; opened 2026-11-15): \"Anxious dogs may also appear extra friendly and continually approach, jump on someone, and lick their face, or just be needier with the owner.\"; https://vet.tufts.edu/news-events/news/anxiety-dogs",
+    "American Animal Hospital Association, Table 1: Common Signs of Anxiety/Distress (published June 28, 2019; opened 2026-11-15): lip licking and nose licking among common signs of nonspecific anxiety or distress in dogs and cats; https://www.aaha.org/resources/2015-aaha-canine-and-feline-behavior-management-guidelines/common-signs-of-anxietydistress/",
+    "Texas A&M University College of Veterinary Medicine and Biomedical Sciences, Understanding Your Dog's Body Language (Harmony Diers, March 13, 2025; opened 2026-11-15): \"Licking lips — often accompanied with yawning\" among signs of a nervous or alerted dog; https://stories.tamu.edu/news/2025/03/13/understanding-your-dogs-body-language-a-guide-to-canine-communication/"
+  ],
+  "stage": {
+    "creature": "dog",
+    "scene": "kitchen",
+    "scene_p": {},
+    "s": 0.62,
+    "creature_cfg": {
+      "plan": "mammal",
+      "label": "dog",
+      "color": "#c8743c",
+      "dark": "#8f4f24",
+      "belly": "#f1dcc0",
+      "tail_color": "#c8743c",
+      "length": 600,
+      "height": 290,
+      "leg_len": 200,
+      "leg_w": 36,
+      "ears": "floppy",
+      "tail": "thin",
+      "tail_w": 20,
+      "whiskers": false,
+      "mood": "happy"
+    }
+  },
+  "cap_key": [
+    "you",
+    "your",
+    "dog",
+    "dogs",
+    "lick",
+    "kiss",
+    "greeting",
+    "anxious",
+    "lips",
+    "penn",
+    "tufts",
+    "noodle",
+    "pov",
+    "page"
+  ],
+  "title": "POV: Why Dogs Lick You: Penn Vet Says It's Not a Kiss 🐶 (Things Living In Your House)",
+  "description": "Why do dogs lick you? POV: you're Meatball, and your dog is licking your face. A University of Pennsylvania School of Veterinary Medicine handout says a dog licking a person or another dog is not a \"kiss.\" It is a greeting behavior, but if a dog licks someone repeatedly, he may be anxious about that dog or person. Lip licking is a different signal: Penn Vet lists it as anxiety about a situation or interaction, and AAHA and Texas A&M also list lip licking among nervous or distress signs. A Tufts veterinary behaviorist says an anxious dog may also appear extra friendly and lick a face. Penn Vet also says dogs do not kiss, and they may be frightened by kissing.\n\n#whydodogslickyou #doglicking #dogbehavior #dogsoftiktok #dogfacts\n\nSources: University of Pennsylvania School of Veterinary Medicine, Dog Body Language Basics, https://www.vet.upenn.edu/wp-content/uploads/2024/12/dogbodylanguagebasics-pdf.pdf ; Cummings School of Veterinary Medicine at Tufts University, Anxiety in Dogs, https://vet.tufts.edu/news-events/news/anxiety-dogs ; AAHA, Common Signs of Anxiety/Distress, https://www.aaha.org/resources/2015-aaha-canine-and-feline-behavior-management-guidelines/common-signs-of-anxietydistress/ ; Texas A&M College of Veterinary Medicine, Understanding Your Dog's Body Language, https://stories.tamu.edu/news/2025/03/13/understanding-your-dogs-body-language-a-guide-to-canine-communication/ . Pages opened 2026-11-15. General information, not a diagnosis of your dog. This is an original drawn video, not a Duet or Stitch.",
+  "tiktok_title": "POV: Why Do Dogs Lick You? Penn Vet Says It's Not a Kiss",
+  "tiktok_caption": "why do dogs lick you? 🐶 POV: you're Meatball, and your dog is licking your face. Penn Vet says it is not a kiss. It is a greeting behavior, but if a dog licks someone repeatedly, he may be anxious about that person. Lip licking is a different signal. You hold a sandwich like a shield. Noodle already had the sandwich. What does your dog lick first, your face or your food? #whydodogslickyou #doglicking #dogbehavior #dogsoftiktok #dogfacts",
+  "_note": "TIKTOK-NATIVE ORIGINAL, POV + drawn green-screen plates. Draft 2026-11-15, written only from /workspace/drafts/facts/dogs-lick.md. Not a Duet or a Stitch. Schema follows tt-cat-sugar.json / tt-dogs-lick.json, plus tiktok_native, cam, bg, and a POV card. 284 spoken words, runtime estimate 89.0s at 194.5 wpm plus 1.40s of listed pads. MASTER_ORDERS / Nolan 11/11: about one swear per line, 6–9 sweary jokes. Facts and credits said clean, swear after. Hook is the searched question. The POV label is on a card; the spoken second-person line follows it ('You're Meatball. Your dog, Noodle…'). Line 2 is the acted gag (sandwich like a shield), starting inside the 3–7s window. Noodle is planted early (comma form, 'Your dog, Noodle' because the viewer is Meatball) and gets the sandwich on the late payoff. Hedge-mocking tag used once only: 'May. Fucking may.' on the Tufts line. Every other hedge stays in the fact, followed by a Meatball action (drop the page, flip the sheet, yawn at the handout, lean toward the lens, wipe a cheek). Jokes add no feeling or motive and do not turn a greeting lick into love or a lip-lick into a face-lick. TikTok caption: five topic hashtags, no brand. Hashtag feeds were not re-run on this pass. Studio must add a first-person camera, a Meatball-arms rig, and drawn source-page plates before this can render as intended; see tiktok_native.pipeline_gap. NOT yet checked by a second model and not rendered. No Noodle character key.",
+  "_curse": "Rules-default / Nolan 11/11: about one swear per line. Sweary jokes include Tiny fucking lips; Fucking typography; Wrong fucking column; Fucking paperwork; Fucking rude; May. Fucking may (the one allowed hedge-mock); Worst fucking idea; Fucking formal; Little fucking vacuum. Facts stay clean. Jokes add no claim. No insult uses 'you' as a roast of the viewer; 'You're Meatball' is the POV address, not an insult.",
+  "beats": [
+    {
+      "m": "hook",
+      "gag": {
+        "mark": "shock"
+      },
+      "_f": [
+        "DL-F1"
+      ],
+      "say": "Why do dogs lick you? You're Meatball. Your dog, Noodle, is already on your face. Holy shit.",
+      "card": {
+        "rows": [
+          [
+            "WHY DO DOGS LICK YOU?",
+            "#ffd34d",
+            70
+          ],
+          [
+            "POV: YOU'RE MEATBALL",
+            "#ffffff",
+            44,
+            true
+          ],
+          [
+            "YOUR DOG IS LICKING YOUR FACE",
+            "#ffffff",
+            36,
+            true
+          ]
+        ],
+        "y": 470,
+        "at": "40%"
+      },
+      "cam": "pov",
+      "bg": "pov",
+      "open": "animal",
+      "pov_card": {
+        "rows": [
+          [
+            "POV: YOU'RE MEATBALL",
+            "#ffffff",
+            48
+          ],
+          [
+            "AND YOUR DOG IS LICKING YOUR FACE",
+            "#ffd34d",
+            36,
+            true
+          ]
+        ],
+        "y": 200,
+        "until": 2.5
+      }
+    },
+    {
+      "m": "fact",
+      "gag": false,
+      "_f": [],
+      "say": "You pucker up and hold a sandwich like a shield. Tiny fucking lips.",
+      "card": {
+        "rows": [
+          [
+            "YOU PUCKER UP",
+            "#ffd34d",
+            80
+          ],
+          [
+            "SANDWICH UP LIKE A SHIELD",
+            "#ffffff",
+            44,
+            true
+          ]
+        ],
+        "y": 470,
+        "at": "30%"
+      },
+      "cam": "pov",
+      "bg": "pov",
+      "scene": "kitchen",
+      "pad": 0.25
+    },
+    {
+      "m": "fact",
+      "gag": false,
+      "_f": [
+        "DL-F1"
+      ],
+      "say": "Penn Vet, on the page in front of you, says licking a person or another dog is not a kiss. It is a greeting behavior, but if a dog licks someone repeatedly, he may be anxious about that dog or person. You drop the page. It sticks to your cheek. Fucking typography.",
+      "card": {
+        "rows": [
+          [
+            "PENN VET: NOT A “KISS”",
+            "#ffd34d",
+            64
+          ],
+          [
+            "A GREETING. REPEATED LICKING MAY MEAN ANXIETY",
+            "#ffffff",
+            32,
+            true
+          ]
+        ],
+        "y": 470,
+        "at": "20%"
+      },
+      "cam": "greenscreen",
+      "bg": "plate:penn-vet-kiss",
+      "scene": "study",
+      "pad": 0.25,
+      "acting": false
+    },
+    {
+      "m": "fact",
+      "gag": false,
+      "_f": [
+        "DL-F2"
+      ],
+      "say": "Lip licking is a different signal. Penn Vet lists it as anxiety about a situation or interaction. You check the mouth on the page. Wrong fucking column.",
+      "card": {
+        "rows": [
+          [
+            "LIP LICKING IS DIFFERENT",
+            "#ffd34d",
+            70
+          ],
+          [
+            "PENN VET: ANXIETY ABOUT A SITUATION",
+            "#ffffff",
+            38,
+            true
+          ]
+        ],
+        "y": 470,
+        "at": "25%"
+      },
+      "cam": "greenscreen",
+      "bg": "plate:penn-vet-lips",
+      "scene": "basement",
+      "acting": false
+    },
+    {
+      "m": "fact",
+      "gag": false,
+      "_f": [
+        "DL-F6"
+      ],
+      "say": "The American Animal Hospital Association lists lip licking and nose licking among common signs of anxiety or distress in dogs and cats. Not the face lick. You flip the sheet. Still the lips. Fucking paperwork.",
+      "card": {
+        "rows": [
+          [
+            "LIP LICKING + NOSE LICKING",
+            "#ffd34d",
+            64
+          ],
+          [
+            "AAHA: COMMON SIGNS OF ANXIETY OR DISTRESS",
+            "#ffffff",
+            36,
+            true
+          ]
+        ],
+        "y": 470,
+        "at": "22%"
+      },
+      "cam": "greenscreen",
+      "bg": "plate:aaha-lips",
+      "scene": "bathroom",
+      "acting": false
+    },
+    {
+      "m": "fact",
+      "gag": false,
+      "_f": [
+        "DL-F7"
+      ],
+      "say": "Texas A and M's veterinary college lists licking lips, often with yawning, among signs of a nervous or alerted dog. You yawn at the handout. The handout does not yawn back. Fucking rude.",
+      "card": {
+        "rows": [
+          [
+            "LICKING LIPS, OFTEN WITH YAWNING",
+            "#ffd34d",
+            56
+          ],
+          [
+            "TEXAS A&M: NERVOUS OR ALERTED DOG",
+            "#ffffff",
+            38,
+            true
+          ]
+        ],
+        "y": 470,
+        "at": "22%"
+      },
+      "cam": "greenscreen",
+      "bg": "plate:tamu-lips",
+      "scene": "garden",
+      "acting": false
+    },
+    {
+      "m": "fact",
+      "gag": false,
+      "_f": [
+        "DL-F4"
+      ],
+      "say": "A Tufts veterinary behaviorist says an anxious dog may also appear extra friendly and continually approach, jump on someone, and lick their face. May. Fucking may.",
+      "card": {
+        "rows": [
+          [
+            "MAY ALSO APPEAR EXTRA FRIENDLY",
+            "#ffd34d",
+            56
+          ],
+          [
+            "AND LICK A FACE: TUFTS, “MAY”",
+            "#ffffff",
+            40,
+            true
+          ]
+        ],
+        "y": 470,
+        "at": "22%"
+      },
+      "cam": "greenscreen",
+      "bg": "plate:tufts-friendly",
+      "scene": "study",
+      "acting": false
+    },
+    {
+      "m": "fact",
+      "gag": false,
+      "_f": [
+        "DL-F3"
+      ],
+      "say": "Penn Vet also says dogs do not kiss, and they may be frightened by kissing. You lean toward the lens anyway. Worst fucking idea.",
+      "card": {
+        "rows": [
+          [
+            "DOGS DO NOT KISS",
+            "#ff4b3e",
+            90
+          ],
+          [
+            "THEY MAY BE FRIGHTENED BY KISSING (PENN VET)",
+            "#ffffff",
+            34,
+            true
+          ]
+        ],
+        "y": 470,
+        "at": "22%"
+      },
+      "cam": "pov",
+      "bg": "pov",
+      "scene": "kitchen",
+      "acting": false
+    },
+    {
+      "m": "calm",
+      "gag": false,
+      "_f": [
+        "DL-F1"
+      ],
+      "say": "So: a greeting, Penn Vet says, not a kiss. Repeated licking may be anxiety. You wipe your cheek with the handout. Fucking formal.",
+      "card": {
+        "rows": [
+          [
+            "GREETING, NOT A KISS",
+            "#7bd88f",
+            80
+          ],
+          [
+            "REPEATED LICKING MAY BE ANXIETY",
+            "#ffffff",
+            40,
+            true
+          ]
+        ],
+        "y": 470,
+        "at": "25%"
+      },
+      "cam": "greenscreen",
+      "bg": "plate:penn-vet-kiss",
+      "scene": "basement",
+      "acting": false
+    },
+    {
+      "m": "fact",
+      "gag": false,
+      "_f": [],
+      "say": "Your dog, Noodle, already had the sandwich. Little fucking vacuum.",
+      "card": {
+        "rows": [
+          [
+            "NOODLE HAD THE SANDWICH",
+            "#ffd34d",
+            80
+          ]
+        ],
+        "y": 470,
+        "at": "40%"
+      },
+      "cam": "pov",
+      "bg": "pov",
+      "scene": "garden"
+    },
+    {
+      "m": "punch",
+      "gag": {
+        "mark": "alarm"
+      },
+      "_f": [],
+      "say": "So why do dogs lick you? Not a kiss. What does your dog lick first, your face or your food? Be fucking honest. And",
+      "card": {
+        "rows": [
+          [
+            "WHAT DOES YOUR DOG LICK FIRST, YOUR FACE OR YOUR FOOD? COMMENT",
+            "#ffffff",
+            32,
+            true
+          ]
+        ],
+        "x": "right",
+        "y": 400,
+        "at": 0.0
+      },
+      "cam": "pov",
+      "bg": "pov",
+      "scene": "kitchen",
+      "pad": 0.9
+    }
+  ],
+  "search_top": {
+    "rows": [
+      [
+        "WHY DO DOGS",
+        "#ffffff",
+        86
+      ],
+      [
+        "LICK YOU?",
+        "#ffd34d",
+        86
+      ]
+    ],
+    "y": 150,
+    "until": 2.5
+  },
+  "pinned_comment": "What does your dog lick first, your face or your food?",
+  "tags": [
+    "why do dogs lick you",
+    "why does my dog lick me",
+    "dog licking face",
+    "dog greeting behavior",
+    "dog lip licking",
+    "things living in your house",
+    "Meatball Myths"
+  ],
+  "tiktok_native": {
+    "format": "pov_greenscreen",
+    "duet": false,
+    "stitch": false,
+    "rewards_note": "Post as an original video over 61s. Do not post this as a Duet or a Stitch (those earn $0 in Creator Rewards, and this brief forbids both).",
+    "pov": {
+      "card": "POV: you're Meatball and your dog is licking your face",
+      "card_until": 2.5,
+      "camera": "first-person from Meatball's eye line; Meatball hands, arms, and a bit of torso in the foreground; Noodle comes toward the lens",
+      "spoken_address": "Second person because the viewer is Meatball. Use 'Your dog, Noodle' (comma form) instead of 'his dog, Noodle'."
+    },
+    "greenscreen": {
+      "plates": "Fully drawn recaps of the source page (agency or university name, URL, the quoted line). Do not composite a live screenshot or any real footage (Nolan 11/12: keep it all drawn).",
+      "meatball": "On plate beats, composite drawn Meatball in the lower third, pointing at the quoted line as he reads it.",
+      "pages": [
+        {
+          "beat": 3,
+          "id": "penn-vet-kiss",
+          "credit": "Penn Vet, Dog Body Language Basics",
+          "url": "https://www.vet.upenn.edu/wp-content/uploads/2024/12/dogbodylanguagebasics-pdf.pdf",
+          "quote": "Dog licks person or other dog: not a “kiss”."
+        },
+        {
+          "beat": 4,
+          "id": "penn-vet-lips",
+          "credit": "Penn Vet, same handout",
+          "url": "https://www.vet.upenn.edu/wp-content/uploads/2024/12/dogbodylanguagebasics-pdf.pdf",
+          "quote": "Dog licks his lips: anxiety about a situation or interaction."
+        },
+        {
+          "beat": 5,
+          "id": "aaha-lips",
+          "credit": "AAHA, Common Signs of Anxiety/Distress",
+          "url": "https://www.aaha.org/resources/2015-aaha-canine-and-feline-behavior-management-guidelines/common-signs-of-anxietydistress/",
+          "quote": "Lip licking / Nose licking"
+        },
+        {
+          "beat": 6,
+          "id": "tamu-lips",
+          "credit": "Texas A&M College of Veterinary Medicine",
+          "url": "https://stories.tamu.edu/news/2025/03/13/understanding-your-dogs-body-language-a-guide-to-canine-communication/",
+          "quote": "Licking lips — often accompanied with yawning"
+        },
+        {
+          "beat": 7,
+          "id": "tufts-friendly",
+          "credit": "Tufts, Stephanie Borns-Weil, Anxiety in Dogs",
+          "url": "https://vet.tufts.edu/news-events/news/anxiety-dogs",
+          "quote": "Anxious dogs may also appear extra friendly and … lick their face"
+        }
+      ]
+    },
+    "pipeline_gap": "drawn-house currently renders a third-person room and a creature. It has no first-person camera, no Meatball-arms rig, and no source-page plate layer. Until those exist, a naive render will ignore cam/bg and fall back to the usual kitchen/study rooms. Do not ship that fallback as the native cut."
+  },
+  "_studio": "PIPELINE ASK (POV + green-screen). The current drawn-house renderer is a third-person room with a creature. To ship this format, Studio needs: (1) a first-person camera from Meatball's eye line, with drawn hands/arms/torso in the foreground and Noodle approaching the lens for the lick and the sandwich payoff; (2) a POV title card for the first 2.5s, in addition to search_top (the searched question stays on search_top); (3) a background plate layer for beats with bg starting 'plate:'. Each plate is a fully drawn recap of the source page — name, URL, quoted line — not a live screenshot or real footage (Nolan 11/12: no real photos or footage); (4) on plate beats, composite Meatball in the lower third, pointing at the line he is reading; (5) loop back to the same POV kitchen framing; (6) post as an original 61s+ video, never a Duet or Stitch. If TikTok's in-app Green Screen effect is used at upload, the background must be the rendered drawn plate, not a live website or another creator's video. Until those tools exist, do not treat a normal third-person render of this JSON as the native cut."
+}

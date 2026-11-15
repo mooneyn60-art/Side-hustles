@@ -1,0 +1,220 @@
+{
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "+10%",
+  "pitch": "+3Hz",
+  "music": "detective",
+  "music_db": -13,
+  "captions": 66,
+  "caption_y": 1180,
+  "cut_whoosh": true,
+  "loop": true,
+  "photo_credits": [],
+  "series": "Things Living In Your House",
+  "sources": [
+    "International Cat Care, Why do cats..? (updated 26 September 2025; opened 2026-11-15): \"Kittens suckle their mothers by treading with alternate front paws on her abdomen to stimulate the flow of milk.\"; \"If your cat is kneading on your lap or chest this shows that they associate your relationship with that of their mother when they were a kitten.\"; \"Kneading is a perfectly normal behaviour, and ... cats should never be punished as it could lead to a breakdown in your bond.\"; https://icatcare.org/articles/why-do-cats",
+    "Emma Grigg, animal behaviorist, UC Davis School of Veterinary Medicine, in UC Davis Magazine, \"6 Common Cat Behaviors Explained\" (April 19, 2021; opened 2026-11-15): \"this behavior is most likely carried over from their days as kittens.\"; \"When they do it on a favorite person or bed, it's a self-soothing behavior. With humans, it's almost like a sign of the bond\"; https://www.ucdavis.edu/magazine/6-common-cat-behaviors-explained"
+  ],
+  "stage": {
+    "creature": "cat",
+    "scene": "kitchen",
+    "scene_p": {
+      "time": "night"
+    },
+    "s": 0.62,
+    "creature_cfg": {
+      "plan": "mammal",
+      "label": "cat",
+      "color": "#e39a4a",
+      "dark": "#b06f2a",
+      "belly": "#f6e3c8",
+      "tail_color": "#e39a4a",
+      "length": 520,
+      "height": 250,
+      "leg_len": 150,
+      "leg_w": 30,
+      "ears": "pointed",
+      "tail": "thin",
+      "tail_w": 22,
+      "whiskers": true,
+      "mood": "smug"
+    }
+  },
+  "cap_key": [
+    "you",
+    "your",
+    "cat",
+    "cats",
+    "knead",
+    "kittens",
+    "milk",
+    "sauce",
+    "pillow",
+    "grigg"
+  ],
+  "title": "Why Cats Knead: It May Start When They Were Kittens 🐱 (Things Living In Your House)",
+  "description": "Why do cats knead? International Cat Care says kittens treading with alternate front paws on the mother's abdomen helps stimulate the flow of milk. Emma Grigg, an animal behaviorist at the UC Davis School of Veterinary Medicine, says kneading is most likely carried over from their days as kittens. If a cat kneads on your lap or chest, International Cat Care says this shows they associate your relationship with that of their mother when they were a kitten. On a favorite person or bed, Grigg says, it is a self-soothing behavior, and with humans it is almost like a sign of the bond. International Cat Care says kneading is a perfectly normal behavior, and cats should never be punished for it.\n\n#whydocatsknead #catkneading #catbehavior #meatballmyths #shorts\n\nSources: International Cat Care, Why do cats..?, https://icatcare.org/articles/why-do-cats ; UC Davis Magazine, 6 Common Cat Behaviors Explained (Emma Grigg), https://www.ucdavis.edu/magazine/6-common-cat-behaviors-explained . Pages opened 2026-11-15. General information, not a diagnosis of your cat.",
+  "pinned_comment": "Does your cat knead you, a blanket, or both?",
+  "_note": "TikTok search-led short twin of cats-knead-v6-yt.json, draft 2026-11-15, written only from /workspace/drafts/facts/cats-knead.md. 74 spoken words, runtime estimate 23.0s at 194.5 wpm plus 0.2s of listed pads. Swears after clean facts (Holy shit; fucking pillow; Tiny fucking bakers after the iCatCare line, a biscuit gag, not a number; Fucking committed after Meatball kept kneading). No hedge-mocking tag ('Most likely' stays in the fact; the reaction is a Meatball action). search_top shows the searched phrase for 2.5s. TikTok caption: five topic hashtags, no brand. NOT yet checked by a second model and not rendered.",
+  "beats": [
+    {
+      "m": "hook",
+      "gag": {
+        "mark": "shock"
+      },
+      "_f": [
+        "CK-F1"
+      ],
+      "say": "Why do cats knead? International Cat Care traces it to kittens. Holy shit.",
+      "card": {
+        "rows": [
+          [
+            "WHY DO CATS KNEAD?",
+            "#ffd34d",
+            80
+          ],
+          [
+            "IT MAY START WHEN THEY WERE KITTENS",
+            "#ffffff",
+            38,
+            true
+          ]
+        ],
+        "y": 470,
+        "at": "40%"
+      },
+      "open": "animal"
+    },
+    {
+      "m": "fact",
+      "gag": false,
+      "_f": [],
+      "say": "Meatball offered his cat, Sauce, a pillow. Sauce walked off. Meatball kneaded the fucking pillow.",
+      "card": {
+        "rows": [
+          [
+            "A PILLOW, FOR SAUCE",
+            "#ffd34d",
+            80
+          ],
+          [
+            "SAUCE WALKED OFF",
+            "#ffffff",
+            48,
+            true
+          ]
+        ],
+        "y": 470,
+        "at": "30%"
+      },
+      "scene": "kitchen",
+      "pad": 0.2,
+      "pose": "present",
+      "hero_moves": [
+        {
+          "at": "walked|8%",
+          "dur": 0.9,
+          "pos": [
+            1500,
+            1500
+          ],
+          "walk": true,
+          "face": 1
+        }
+      ]
+    },
+    {
+      "m": "fact",
+      "gag": false,
+      "_f": [
+        "CK-F1"
+      ],
+      "say": "Kittens tread with alternate front paws on the mother's abdomen to stimulate the flow of milk, International Cat Care says. Tiny fucking bakers.",
+      "card": {
+        "rows": [
+          [
+            "TREADING FOR MILK",
+            "#ffd34d",
+            80
+          ],
+          [
+            "KITTENS, ALTERNATE FRONT PAWS: INTERNATIONAL CAT CARE",
+            "#ffffff",
+            32,
+            true
+          ]
+        ],
+        "y": 470,
+        "at": "22%"
+      },
+      "scene": "study",
+      "acting": false
+    },
+    {
+      "m": "punch",
+      "gag": {
+        "mark": "alarm"
+      },
+      "_f": [
+        "CK-F6"
+      ],
+      "say": "Emma Grigg at UC Davis says it is most likely carried over from their days as kittens. Meatball kept kneading. Fucking committed. And",
+      "card": {
+        "rows": [
+          [
+            "MOST LIKELY A CARRY-OVER",
+            "#ffd34d",
+            64
+          ],
+          [
+            "EMMA GRIGG, UC DAVIS",
+            "#ffffff",
+            44,
+            true
+          ]
+        ],
+        "x": "right",
+        "y": 400,
+        "at": 0.0
+      },
+      "scene": "kitchen"
+    }
+  ],
+  "search_top": {
+    "rows": [
+      [
+        "WHY DO CATS",
+        "#ffffff",
+        86
+      ],
+      [
+        "KNEAD?",
+        "#ffd34d",
+        86
+      ]
+    ],
+    "y": 150,
+    "until": 2.5
+  },
+  "tiktok_title": "Why Do Cats Knead? It May Start When They Were Kittens",
+  "tiktok_caption": "why do cats knead? 🐱 International Cat Care traces it to kittens treading to stimulate milk. UC Davis behaviorist Emma Grigg says it is most likely carried over from kittenhood. Meatball offered his cat, Sauce, a pillow. Sauce walked off. Does your cat knead you, a blanket, or both? #whydocatsknead #catkneading #catbehavior #catsoftiktok #makingbiscuits",
+  "cap_swap": {
+    "shit": "sh*t",
+    "shits": "sh*ts",
+    "shitty": "sh*tty",
+    "bullshit": "bullsh*t",
+    "fuck": "f**k",
+    "fucking": "f**king",
+    "fucker": "f**ker",
+    "fuckers": "f**kers"
+  },
+  "tags": [
+    "why do cats knead",
+    "why does my cat knead",
+    "cat kneading",
+    "cats making biscuits",
+    "cat knead blanket",
+    "things living in your house",
+    "Meatball Myths"
+  ],
+  "_curse": "Sweary short twin: facts, credits and hedges said clean, swear after. Jokes add no claim, number, danger, feeling, motive or safety instruction. No hedge-mock ('Most likely. Fucking hedge.'). 'Tiny fucking bakers' is a biscuit gag, not a number."
+}
