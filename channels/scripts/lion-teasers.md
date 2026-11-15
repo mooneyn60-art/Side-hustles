@@ -1,22 +1,22 @@
 # Lion teaser Shorts (3), draft
 
-Box draft only, 2026-11-15 (ET). Nothing rendered, scheduled or posted. Facts: `/workspace/drafts/facts/lion-bornas.md`. Long-form: `/workspace/drafts/longform-lion-bornas.md`. Timing at 194.5 wpm (lint window 15.0 to 20.05 s; target 16 to 20 s). Voice: Andrew, +10%, +3Hz.
+Box draft only, 2026-11-15 (ET). Nothing rendered, scheduled or posted. Facts: `/workspace/drafts/facts/lion-bornas.md`. Long-form: *Your Life as a Lion: 8 Things You Have to Get Through* (`/workspace/drafts/longform-lion-bornas.md`). Timing at 194.5 wpm (lint window 15.0 to 20.05 s; target 16 to 20 s). Voice: Andrew, +10%, +3Hz.
 
 Each one: line 1 is the searched question with the fact; line 2 is the acted Meatball gag (lands about 4 to 5 s in); the last line is the comment question and ends on "And" so it runs back into the hook, in the hook's room. At least 3 locations. No spoken or visual outro. Banned-word check (TRUE, FALSE, Myth, Believe, Cartoons, Lied, Did you know): clean in titles and lines; the only hit is inside the required #meatballmyths tag.
 
-## 1. lion-cub-odds (61 words, about 18.8 s)
+## 1. lion-cub-odds (62 words, about 19.1 s)
 
 **Title:** How Many Lion Cubs Survive: Up to 80% Die in 2 Years 🦁 (Would Meatball Survive?)
 
 **Searched question (line 1, description first sentence):** How many lion cubs survive?
 
-**Facts:** LB10, LB12, LB9
+**Facts:** LB9, LB6, LB10
 
 | # | Line | src | Visual / location |
 |---|---|---|---|
 | 1 | How many lion cubs survive? The Smithsonian says up to 80 percent die by age two. | LB9 | Frame 0: newborn cub at dawn, already moving; Meatball hops in small at ~2.3 s. Card: UP TO 80% BY AGE 2. (savanna, dawn) |
 | 2 | Meatball hid in the laundry basket. His cat, Sauce, sat on the lid, then left. |  | Meatball in a cardboard mane in a laundry basket; Sauce hops on the lid, then walks off. (living room) |
-| 3 | New males taking a pride kill every cub that can't run. | LB12 | Two big males walking in; cubs freeze. Card: NEW MALES. (ridge at dusk) |
+| 3 | Cubs get pooled into a nursery, usually four to ten cubs. | LB6 | Pile of cubs tumbling in tall grass, lioness watching. Card: CUB NURSERY: 4 TO 10. (grassland, midday) |
 | 4 | After year one, deaths drop below 20 percent. | LB10 | Meatball in a party hat; his dog, Noodle, eating the cake. Card: AFTER YEAR 1: UNDER 20%. (kitchen) |
 | 5 | Hell of a birthday. Would you make it to two? And |  | Back on the dawn cub (hook room) so the loop is seamless. Pill: Would you make it to two? |
 
@@ -24,23 +24,23 @@ Each one: line 1 is the searched question with the fact; line 2 is the acted Mea
 
 **Hashtags:** #lion #lioncubs #savanna #meatballmyths #shorts
 
-## 2. lion-takeover (64 words, about 19.7 s)
+## 2. lion-rest (64 words, about 19.7 s)
 
-**Title:** Why Do Male Lions Kill Cubs: New Males Can Have Their Own in 8 Months 🦁 (Would Meatball Survive?)
+**Title:** How Long Do Lions Sleep: Up to 21 Hours of Lying Around a Day 🦁 (Would Meatball Survive?)
 
-**Searched question (line 1, description first sentence):** Why do male lions kill cubs?
+**Searched question (line 1, description first sentence):** How long do lions sleep?
 
-**Facts:** LB12, LB14
+**Facts:** LB16, LB42
 
 | # | Line | src | Visual / location |
 |---|---|---|---|
-| 1 | Why do male lions kill cubs? New males kill every cub that can't run. | LB12 | Frame 0: two males walking into a resting pride; Meatball hops in small at ~2.3 s. Card: NEW MALES. (savanna) |
-| 2 | Meatball hung a no new males sign on the cat flap. His cat, Sauce, walked through. |  | Handwritten sign on the cat flap; Sauce pushes through without slowing. (back door) |
-| 3 | Losing the litter brings moms back into estrus, San Diego's fact sheet says. | LB14 | Lioness alone in tall grass. (thicket) |
-| 4 | So their cubs come in about eight months, not up to eighteen. | LB14 | Timeline bar: ABOUT 8 MONTHS vs UP TO 18. (kitchen whiteboard, Meatball holding the marker) |
-| 5 | Damn. Cubs or moms, who has it worse? And |  | Back on the walking males (hook room). Pill: Who has it worse, the cubs or the moms? |
+| 1 | How long do lions sleep? Up to 21 hours of lying around a day, says San Diego Zoo. | LB42 | Frame 0: a lion flat on its back in the grass, paw twitching; Meatball hops in small at ~2.3 s. Card: UP TO 21 HOURS. (savanna, midday) |
+| 2 | Meatball tried it. His cat, Sauce, took the couch. |  | Meatball in the cardboard mane lies down; Sauce is already stretched across the whole couch. Meatball ends up on the rug. (living room) |
+| 3 | That's rest, not all sleep: 20 to 21 hours a day, on average, says their fact sheet. | LB42 | Pride piled in the shade of a tree, one yawning. Card: REST, NOT ALL SLEEP. (shade tree) |
+| 4 | And females do most of the hunting, the Smithsonian says. | LB16 | Lionesses fanning out through grass at dusk. (grassland) |
+| 5 | Hell of a schedule. Could you do 21 hours? And |  | Back on the lion on its back (hook room). Pill: Could you lie around 21 hours a day? |
 
-**Pinned comment / corner pill:** Who has it worse, the cubs or the moms?
+**Pinned comment / corner pill:** Could you lie around 21 hours a day?
 
 **Hashtags:** #lion #lions #wildlife #meatballmyths #shorts
 
@@ -63,35 +63,37 @@ Each one: line 1 is the searched question with the fact; line 2 is the acted Mea
 **Pinned comment / corner pill:** Would you hunt alone, or with the group?
 
 **Hashtags:** #lion #lionhunting #wildlife #meatballmyths #shorts
-## Posting slots (all ET; pick one plan)
 
-Checked against `oh-meatball/data/posted.csv` (skills repo at 0d6db9c) and `/workspace/packaging/open-dates-1121-1204.md`. 11/16 to 11/21 are full. The hours below are empty in both files as of today. Re-check before booking, because the daily two-topic batch fills slots every night.
+## Posting slots (all ET)
 
-**Plan A: long-form on Sat 11/28 (only if built and fact-checked by Thu 11/26)**
+Long-form target: **Sat 11/28**; fallback **Sat 12/12** (Social Studio 2026-11-15: lion owns 12/12, dog moves to 12/19; Claude is reconciling MASTER_ORDERS). Slots checked against `oh-meatball/data/posted.csv` (skills repo at 0d6db9c) and `/workspace/packaging/open-dates-1121-1204.md`; 11/16 to 11/21 are full. Re-check before booking: the nightly two-topic batch fills hours.
+
+**Plan A (PRIMARY): long-form Sat 11/28**
 
 | Short | Slot | Why |
 |---|---|---|
 | 1 lion-cub-odds | Mon 11/23 19:00 | Packaging draft uses 16:00 that day |
-| 2 lion-takeover | Tue 11/24 19:00 | Packaging draft uses 16:00 |
+| 2 lion-rest | Tue 11/24 19:00 | Packaging draft uses 16:00 |
 | 3 lion-hunt-odds | Fri 11/27 19:00 | Night before the long-form; packaging uses 16:00 (mountain-lion) |
 
-Avoid Wed 11/25: the Night Shift long-form (17:00) and its teaser (19:00) are there. Avoid Thu 11/26: Thanksgiving, cat-lilies at 16:00.
+Avoid Wed 11/25 (Night Shift long-form 17:00 and its teaser 19:00) and Thu 11/26 (Thanksgiving, cat-lilies 16:00).
 
-**Plan B: long-form on Sat 12/12**
+**Plan B (FALLBACK): long-form Sat 12/12**
 
 | Short | Slot | Why |
 |---|---|---|
 | 1 lion-cub-odds | Tue 12/08 19:00 | Nothing booked yet in either file |
-| 2 lion-takeover | Wed 12/09 19:00 | Same |
+| 2 lion-rest | Wed 12/09 19:00 | Same |
 | 3 lion-hunt-odds | Fri 12/11 19:00 | Night before the long-form |
 
-Alternative for Plan B: post one Short after the long-form (Sun 12/13 14:00) so its Related video link can point to a live video.
+Plan B option: hold one Short until after the long-form (Sun 12/13 14:00) so its Related video link points to a live video.
 
 ## Flags
 
-- MASTER_ORDERS (Research loop, "Stop tuning", research 100) lists "teasers and Related links as a source of long-video hours" among things that showed nothing. These may get Short views but not long-form watch time. Nolan should decide whether they get slots over the pet and survival Shorts.
-- A Short posted before the long-form cannot link to it in Related video. Add the link after the long-form is live.
-- Hashtags: the three topic tags (#lion, #lioncubs, #savanna / #lions, #wildlife / #lionhunting) are my picks. They were not taken from YouTube's hashtag feeds as MASTER_ORDERS asks. Check them before posting.
-- One mild word per Short (hell / damn / damn), in the gag or reaction, never in a title, description or pinned comment.
-- TTS check: "estrus" (Short 2) and "Etosha" (Short 3).
-- Short 2 is about infanticide. It is said clean with no gag on the fact line, and the joke (the cat flap) adds no number, danger or motive. If it reads as too dark for a pet-heavy feed, swap it for a roar or resting Short (LB33 has a 3-way source disagreement, so resting, LB42, is safer).
+- MASTER_ORDERS (Research loop, "Stop tuning", research 100) lists "teasers and Related links as a source of long-video hours" among things that showed nothing. Expect Short views, not long-form hours.
+- A Short posted before the long-form cannot link to it in Related video; add the link once the long-form is live.
+- Topic hashtags (#lion, #lioncubs, #savanna / #lions, #wildlife / #lionhunting) are my picks, not pulled from YouTube's hashtag feeds as MASTER_ORDERS asks. Check before posting.
+- One mild word per Short (hell / hell / damn), only in the gag or reaction line, never in a title, description or pinned comment.
+- Short 2 (lion-rest) replaced the takeover/infanticide Short on 2026-11-15. It says "rest" and "lying around", never "sleep 21 hours" as a fact: the hook question uses "sleep" because that is what people search, and line 3 corrects it.
+- Short 1: the takeover line (LB12) was swapped for the crèche line (LB6) per Social Studio, 2026-11-15. No infanticide in any Short; keep it off Short hooks and thumbnails.
+- TTS for "Etosha" (Short 3) is on the For Claude list in the long-form notes.
