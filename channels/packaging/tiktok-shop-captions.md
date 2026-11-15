@@ -1,321 +1,468 @@
-# TikTok Shop captions — hashtag rewrite (draft only)
+# TikTok Shop captions — packaging draft
 
-Status: draft only. Source files `/workspace/tiktok-shop/mac-videos.md` and `/workspace/tiktok-shop/launch-plan.md` were not edited. This file is the paste-ready rewrite.
+Status: draft only. Source files `/workspace/tiktok-shop/mac-videos.md` and `/workspace/tiktok-shop/launch-plan.md` were not edited. This file was rebuilt from the current `/workspace/tiktok-shop/mac-videos.md` (Scriptwriter update, 11/15, America/New_York).
 
-**Rule (MASTER_ORDERS line 103, confirmed 11/15):** TikTok captions take five topic hashtags and no brand tag. `#meatballmyths` and `#fureverfaces` are brand tags, so they are out. No `#fyp`, no `#learnontiktok`.
+**Count:** 8 planned shop videos × 3 versions = **24 captions**.
 
-The rest of each caption is unchanged: searched phrase first, any sourced fact kept with its condition, clean wording, a closing question, then the required shop disclosure (promotional content, AI-tool artwork, order-by Dec 5, TikTok Shop or Etsy).
+- Variant A, mockup-only: 8
+- Variant B, after-samples: 8
+- Variant C, no-Mac fallback: 8
 
-**What was already right:** All eight Mac-on-camera captions in `mac-videos.md` already use five topic hashtags and no brand tag. Their "new" lines below are the same as the source. The eight no-Mac fallbacks in `launch-plan.md` (quoted again in `mac-videos.md`) used four topic tags plus `#meatballmyths`. Those are rewritten: `#meatballmyths` is replaced by the fifth topic tag already used on the matching Mac caption.
+**Rule (MASTER_ORDERS line 103, confirmed 11/15):** five topic hashtags, no brand tag. `#meatballmyths` and `#fureverfaces` are brand tags, so they are out. No `#fyp`, no `#learnontiktok`. The current source already uses five topic tags and no brand tag on every variant, including the no-Mac fallbacks.
 
-Lint note: `postkit.py lint` is built for educational Meatball Myths cuts. Shop captions legally keep a promotional block after the question and before the hashtags, and they name TikTok Shop or Etsy. If lint warns or fails on that shop shape, the disclosure stays. Results are at the end of this file.
+**Caption order (Social Studio, 11/15):** hook/searched phrase and body, then the promo, order-by-Dec-5, and TikTok Shop or Etsy lines, then "Artwork created with AI tools.", then the closing question, then the five topic hashtags. Every new caption ends on the question (the body before the `#` tags ends with `?`).
+
+**Hooks for videos 2 and 6** now match the current source. Video 2 (Doodle Mom tee): "Gift for the doodle mom who already has the job." Video 6 (Santa Paws pet bandana): "What the dog wears on Christmas morning." Those two are plain gift cuts, not Would Meatball Survive hooks.
+
+Old blocks below are the captions as written in `mac-videos.md`. New blocks are the same wording, reordered to the Studio order above.
 
 ## Video 1 — If your dog can reach the tree
 
-Product: Santa Paws ornament. Mac already compliant. Fallback: dropped `#meatballmyths`, added `#santapaws`.
+Product: Santa Paws ornament.
 
-### Mac-on-camera
+### Variant A — Mockup-only
 
-**Old** (from `mac-videos.md`; already five topic tags, no brand)
+**Old** (as written in `mac-videos.md`)
 
 ```
-If your dog can reach the tree, that ornament is already in play. The ASPCA says to keep glass or plastic ornaments out of paws' reach, because shards can damage a pet's mouth and digestive tract. I hung this one high. What's the highest ornament your dog has almost gotten? Promotional content for FurEver Faces, our own shop. Artwork created with AI tools. Order by Dec 5 for Christmas delivery. After that we still make and ship it, but it may arrive after Dec 25. Find it on TikTok Shop or Etsy.
+If your dog can reach the tree, that ornament is already in play. The ASPCA says to keep glass or plastic ornaments out of paws' reach, because shards can damage a pet's mouth and digestive tract. Hang it high. What's the highest ornament your dog has almost gotten? Promotional content for FurEver Faces, our own shop. Artwork created with AI tools. Order by Dec 5 for Christmas delivery. After that we still make and ship it, but it may arrive after Dec 25. Find it on TikTok Shop or Etsy.
 
 #goldendoodle #dogchristmas #christmasornament #doodle #santapaws
-```
-
-**New** (unchanged)
-
-```
-If your dog can reach the tree, that ornament is already in play. The ASPCA says to keep glass or plastic ornaments out of paws' reach, because shards can damage a pet's mouth and digestive tract. I hung this one high. What's the highest ornament your dog has almost gotten? Promotional content for FurEver Faces, our own shop. Artwork created with AI tools. Order by Dec 5 for Christmas delivery. After that we still make and ship it, but it may arrive after Dec 25. Find it on TikTok Shop or Etsy.
-
-#goldendoodle #dogchristmas #christmasornament #doodle #santapaws
-```
-
-### No-Mac fallback
-
-**Old** (from `launch-plan.md` section 3, also quoted in `mac-videos.md`)
-
-```
-If your dog can reach the tree, that ornament is already in play. The ASPCA says to keep glass or plastic ornaments out of paws' reach, because shards can damage a pet's mouth and digestive tract. Meatball hung this one high. Noodle is reviewing the ribbon. What's the highest ornament your dog has almost gotten? Promotional content for FurEver Faces, our own shop. Artwork created with AI tools. Order by Dec 5 for Christmas delivery. After that we still make and ship it, but it may arrive after Dec 25. Find it on TikTok Shop or Etsy. #goldendoodle #dogchristmas #christmasornament #doodle #meatballmyths
 ```
 
 **New**
+
+```
+If your dog can reach the tree, that ornament is already in play. The ASPCA says to keep glass or plastic ornaments out of paws' reach, because shards can damage a pet's mouth and digestive tract. Hang it high. Promotional content for FurEver Faces, our own shop. Order by Dec 5 for Christmas delivery. After that we still make and ship it, but it may arrive after Dec 25. Find it on TikTok Shop or Etsy. Artwork created with AI tools. What's the highest ornament your dog has almost gotten?
+#goldendoodle #dogchristmas #christmasornament #doodle #santapaws
+```
+
+### Variant B — After samples
+
+**Old** (as written in `mac-videos.md`)
+
+```
+If your dog can reach the tree, that ornament is already in play. The ASPCA says to keep glass or plastic ornaments out of paws' reach, because shards can damage a pet's mouth and digestive tract. I hung this one high. What's the highest ornament your dog has almost gotten? Promotional content for FurEver Faces, our own shop. Artwork created with AI tools. Order by Dec 5 for Christmas delivery. After that we still make and ship it, but it may arrive after Dec 25. Find it on TikTok Shop or Etsy.
+
+#goldendoodle #dogchristmas #christmasornament #doodle #santapaws
+```
+
+**New**
+
+```
+If your dog can reach the tree, that ornament is already in play. The ASPCA says to keep glass or plastic ornaments out of paws' reach, because shards can damage a pet's mouth and digestive tract. I hung this one high. Promotional content for FurEver Faces, our own shop. Order by Dec 5 for Christmas delivery. After that we still make and ship it, but it may arrive after Dec 25. Find it on TikTok Shop or Etsy. Artwork created with AI tools. What's the highest ornament your dog has almost gotten?
+#goldendoodle #dogchristmas #christmasornament #doodle #santapaws
+```
+
+### Variant C — No-Mac fallback
+
+**Old** (as written in `mac-videos.md`)
 
 ```
 If your dog can reach the tree, that ornament is already in play. The ASPCA says to keep glass or plastic ornaments out of paws' reach, because shards can damage a pet's mouth and digestive tract. Meatball hung this one high. Noodle is reviewing the ribbon. What's the highest ornament your dog has almost gotten? Promotional content for FurEver Faces, our own shop. Artwork created with AI tools. Order by Dec 5 for Christmas delivery. After that we still make and ship it, but it may arrive after Dec 25. Find it on TikTok Shop or Etsy.
+
 #goldendoodle #dogchristmas #christmasornament #doodle #santapaws
-```
-
-## Video 2 — Would Meatball survive a Doodle Mom?
-
-Product: Doodle Mom tee. Mac already compliant. Fallback: dropped `#meatballmyths`, added `#dogmomshirt`.
-
-### Mac-on-camera
-
-**Old** (from `mac-videos.md`; already five topic tags, no brand)
-
-```
-Would Meatball survive a Doodle Mom? Curls, cuddles, and chaos. That's the job. I lasted about ten seconds into this take. Which half of your house is chaos on a Tuesday? Promotional content for FurEver Faces, our own shop. Artwork created with AI tools. Order by Dec 5 for Christmas delivery. After that we still make and ship it, but it may arrive after Dec 25. Find it on TikTok Shop or Etsy.
-
-#doodlemom #goldendoodle #dogmom #labradoodle #dogmomshirt
-```
-
-**New** (unchanged)
-
-```
-Would Meatball survive a Doodle Mom? Curls, cuddles, and chaos. That's the job. I lasted about ten seconds into this take. Which half of your house is chaos on a Tuesday? Promotional content for FurEver Faces, our own shop. Artwork created with AI tools. Order by Dec 5 for Christmas delivery. After that we still make and ship it, but it may arrive after Dec 25. Find it on TikTok Shop or Etsy.
-
-#doodlemom #goldendoodle #dogmom #labradoodle #dogmomshirt
-```
-
-### No-Mac fallback
-
-**Old** (from `launch-plan.md` section 3, also quoted in `mac-videos.md`)
-
-```
-Would Meatball survive a Doodle Mom? Curls, cuddles, and chaos. That's the job. Meatball lasted ten seconds. Noodle is thriving. Which half of your house is chaos on a Tuesday? Promotional content for FurEver Faces, our own shop. Artwork created with AI tools. Order by Dec 5 for Christmas delivery. After that we still make and ship it, but it may arrive after Dec 25. Find it on TikTok Shop or Etsy. #doodlemom #goldendoodle #dogmom #labradoodle #meatballmyths
 ```
 
 **New**
 
 ```
-Would Meatball survive a Doodle Mom? Curls, cuddles, and chaos. That's the job. Meatball lasted ten seconds. Noodle is thriving. Which half of your house is chaos on a Tuesday? Promotional content for FurEver Faces, our own shop. Artwork created with AI tools. Order by Dec 5 for Christmas delivery. After that we still make and ship it, but it may arrive after Dec 25. Find it on TikTok Shop or Etsy.
+If your dog can reach the tree, that ornament is already in play. The ASPCA says to keep glass or plastic ornaments out of paws' reach, because shards can damage a pet's mouth and digestive tract. Meatball hung this one high. Noodle is reviewing the ribbon. Promotional content for FurEver Faces, our own shop. Order by Dec 5 for Christmas delivery. After that we still make and ship it, but it may arrive after Dec 25. Find it on TikTok Shop or Etsy. Artwork created with AI tools. What's the highest ornament your dog has almost gotten?
+#goldendoodle #dogchristmas #christmasornament #doodle #santapaws
+```
+
+## Video 2 — Gift for the doodle mom who already has the job
+
+Product: Doodle Mom tee.
+
+### Variant A — Mockup-only
+
+**Old** (as written in `mac-videos.md`)
+
+```
+Gift for the doodle mom who already has the job. Curls, cuddles, and chaos. That's the job. I lasted about ten seconds into this take. Which half of your house is chaos on a Tuesday? Promotional content for FurEver Faces, our own shop. Artwork created with AI tools. Order by Dec 5 for Christmas delivery. After that we still make and ship it, but it may arrive after Dec 25. Find it on TikTok Shop or Etsy.
+
+#doodlemom #goldendoodle #dogmom #labradoodle #dogmomshirt
+```
+
+**New**
+
+```
+Gift for the doodle mom who already has the job. Curls, cuddles, and chaos. That's the job. I lasted about ten seconds into this take. Promotional content for FurEver Faces, our own shop. Order by Dec 5 for Christmas delivery. After that we still make and ship it, but it may arrive after Dec 25. Find it on TikTok Shop or Etsy. Artwork created with AI tools. Which half of your house is chaos on a Tuesday?
+#doodlemom #goldendoodle #dogmom #labradoodle #dogmomshirt
+```
+
+### Variant B — After samples
+
+**Old** (as written in `mac-videos.md`)
+
+```
+Gift for the doodle mom who already has the job. Curls, cuddles, and chaos. That's the job. I lasted about ten seconds into this take. Which half of your house is chaos on a Tuesday? Promotional content for FurEver Faces, our own shop. Artwork created with AI tools. Order by Dec 5 for Christmas delivery. After that we still make and ship it, but it may arrive after Dec 25. Find it on TikTok Shop or Etsy.
+
+#doodlemom #goldendoodle #dogmom #labradoodle #dogmomshirt
+```
+
+**New**
+
+```
+Gift for the doodle mom who already has the job. Curls, cuddles, and chaos. That's the job. I lasted about ten seconds into this take. Promotional content for FurEver Faces, our own shop. Order by Dec 5 for Christmas delivery. After that we still make and ship it, but it may arrive after Dec 25. Find it on TikTok Shop or Etsy. Artwork created with AI tools. Which half of your house is chaos on a Tuesday?
+#doodlemom #goldendoodle #dogmom #labradoodle #dogmomshirt
+```
+
+### Variant C — No-Mac fallback
+
+**Old** (as written in `mac-videos.md`)
+
+```
+Gift for the doodle mom who already has the job. Curls, cuddles, and chaos. That's the job. Meatball's slippers left first. Which half of your house is chaos on a Tuesday? Promotional content for FurEver Faces, our own shop. Artwork created with AI tools. Order by Dec 5 for Christmas delivery. After that we still make and ship it, but it may arrive after Dec 25. Find it on TikTok Shop or Etsy.
+
+#doodlemom #goldendoodle #dogmom #labradoodle #dogmomshirt
+```
+
+**New**
+
+```
+Gift for the doodle mom who already has the job. Curls, cuddles, and chaos. That's the job. Meatball's slippers left first. Promotional content for FurEver Faces, our own shop. Order by Dec 5 for Christmas delivery. After that we still make and ship it, but it may arrive after Dec 25. Find it on TikTok Shop or Etsy. Artwork created with AI tools. Which half of your house is chaos on a Tuesday?
 #doodlemom #goldendoodle #dogmom #labradoodle #dogmomshirt
 ```
 
 ## Video 3 — Who runs treat duty
 
-Product: Doodle Dad tee. Mac already compliant. Fallback: dropped `#meatballmyths`, added `#holidaydogs`.
+Product: Doodle Dad tee.
 
-### Mac-on-camera
+### Variant A — Mockup-only
 
-**Old** (from `mac-videos.md`; already five topic tags, no brand)
-
-```
-Who actually runs treat duty at your house? The ASPCA recommends keeping your pet's diet the same during the holidays. Fatty, sweet, and spicy foods, and turkey or chicken bones, can all be dangerous. I appointed myself chief treat officer. Pending, apparently. Who's the chief treat officer at your house? Promotional content for FurEver Faces, our own shop. Artwork created with AI tools. Order by Dec 5 for Christmas delivery. After that we still make and ship it, but it may arrive after Dec 25. Find it on TikTok Shop or Etsy.
-
-#doodledad #goldendoodle #dogdad #chieftreatofficer #holidaydogs
-```
-
-**New** (unchanged)
+**Old** (as written in `mac-videos.md`)
 
 ```
 Who actually runs treat duty at your house? The ASPCA recommends keeping your pet's diet the same during the holidays. Fatty, sweet, and spicy foods, and turkey or chicken bones, can all be dangerous. I appointed myself chief treat officer. Pending, apparently. Who's the chief treat officer at your house? Promotional content for FurEver Faces, our own shop. Artwork created with AI tools. Order by Dec 5 for Christmas delivery. After that we still make and ship it, but it may arrive after Dec 25. Find it on TikTok Shop or Etsy.
 
 #doodledad #goldendoodle #dogdad #chieftreatofficer #holidaydogs
-```
-
-### No-Mac fallback
-
-**Old** (from `launch-plan.md` section 3, also quoted in `mac-videos.md`)
-
-```
-Who actually runs treat duty at your house? The ASPCA recommends keeping your pet's diet the same during the holidays. Fatty, sweet, and spicy foods, and turkey or chicken bones, can all be dangerous. Meatball appointed himself chief treat officer. Noodle already had the snack. Who's the chief treat officer at your house? Promotional content for FurEver Faces, our own shop. Artwork created with AI tools. Order by Dec 5 for Christmas delivery. After that we still make and ship it, but it may arrive after Dec 25. Find it on TikTok Shop or Etsy. #doodledad #goldendoodle #dogdad #chieftreatofficer #meatballmyths
 ```
 
 **New**
 
 ```
+Who actually runs treat duty at your house? The ASPCA recommends keeping your pet's diet the same during the holidays. Fatty, sweet, and spicy foods, and turkey or chicken bones, can all be dangerous. I appointed myself chief treat officer. Pending, apparently. Promotional content for FurEver Faces, our own shop. Order by Dec 5 for Christmas delivery. After that we still make and ship it, but it may arrive after Dec 25. Find it on TikTok Shop or Etsy. Artwork created with AI tools. Who's the chief treat officer at your house?
+#doodledad #goldendoodle #dogdad #chieftreatofficer #holidaydogs
+```
+
+### Variant B — After samples
+
+**Old** (as written in `mac-videos.md`)
+
+```
+Who actually runs treat duty at your house? The ASPCA recommends keeping your pet's diet the same during the holidays. Fatty, sweet, and spicy foods, and turkey or chicken bones, can all be dangerous. I appointed myself chief treat officer. Pending, apparently. Who's the chief treat officer at your house? Promotional content for FurEver Faces, our own shop. Artwork created with AI tools. Order by Dec 5 for Christmas delivery. After that we still make and ship it, but it may arrive after Dec 25. Find it on TikTok Shop or Etsy.
+
+#doodledad #goldendoodle #dogdad #chieftreatofficer #holidaydogs
+```
+
+**New**
+
+```
+Who actually runs treat duty at your house? The ASPCA recommends keeping your pet's diet the same during the holidays. Fatty, sweet, and spicy foods, and turkey or chicken bones, can all be dangerous. I appointed myself chief treat officer. Pending, apparently. Promotional content for FurEver Faces, our own shop. Order by Dec 5 for Christmas delivery. After that we still make and ship it, but it may arrive after Dec 25. Find it on TikTok Shop or Etsy. Artwork created with AI tools. Who's the chief treat officer at your house?
+#doodledad #goldendoodle #dogdad #chieftreatofficer #holidaydogs
+```
+
+### Variant C — No-Mac fallback
+
+**Old** (as written in `mac-videos.md`)
+
+```
 Who actually runs treat duty at your house? The ASPCA recommends keeping your pet's diet the same during the holidays. Fatty, sweet, and spicy foods, and turkey or chicken bones, can all be dangerous. Meatball appointed himself chief treat officer. Noodle already had the snack. Who's the chief treat officer at your house? Promotional content for FurEver Faces, our own shop. Artwork created with AI tools. Order by Dec 5 for Christmas delivery. After that we still make and ship it, but it may arrive after Dec 25. Find it on TikTok Shop or Etsy.
+
+#doodledad #goldendoodle #dogdad #chieftreatofficer #holidaydogs
+```
+
+**New**
+
+```
+Who actually runs treat duty at your house? The ASPCA recommends keeping your pet's diet the same during the holidays. Fatty, sweet, and spicy foods, and turkey or chicken bones, can all be dangerous. Meatball appointed himself chief treat officer. Noodle already had the snack. Promotional content for FurEver Faces, our own shop. Order by Dec 5 for Christmas delivery. After that we still make and ship it, but it may arrive after Dec 25. Find it on TikTok Shop or Etsy. Artwork created with AI tools. Who's the chief treat officer at your house?
 #doodledad #goldendoodle #dogdad #chieftreatofficer #holidaydogs
 ```
 
 ## Video 4 — Nice list (pending)
 
-Product: Santa Paws tee. Mac already compliant. Fallback: dropped `#meatballmyths`, added `#doodlegift`.
+Product: Santa Paws tee.
 
-### Mac-on-camera
+### Variant A — Mockup-only
 
-**Old** (from `mac-videos.md`; already five topic tags, no brand)
+**Old** (as written in `mac-videos.md`)
 
 ```
-Is your dog on the nice list? Pending. I made a list. I have not finished the list. That's the whole shirt. What's the last thing your dog got to before you did? Promotional content for FurEver Faces, our own shop. Artwork created with AI tools. Order by Dec 5 for Christmas delivery. After that we still make and ship it, but it may arrive after Dec 25. Find it on TikTok Shop or Etsy.
+Is your dog on the nice list? Pending. I made a list. I have not finished the list. That's the whole line. What's the last thing your dog got to before you did? Promotional content for FurEver Faces, our own shop. Artwork created with AI tools. Order by Dec 5 for Christmas delivery. After that we still make and ship it, but it may arrive after Dec 25. Find it on TikTok Shop or Etsy.
 
 #santapaws #goldendoodle #dogchristmas #nicelistpending #doodlegift
-```
-
-**New** (unchanged)
-
-```
-Is your dog on the nice list? Pending. I made a list. I have not finished the list. That's the whole shirt. What's the last thing your dog got to before you did? Promotional content for FurEver Faces, our own shop. Artwork created with AI tools. Order by Dec 5 for Christmas delivery. After that we still make and ship it, but it may arrive after Dec 25. Find it on TikTok Shop or Etsy.
-
-#santapaws #goldendoodle #dogchristmas #nicelistpending #doodlegift
-```
-
-### No-Mac fallback
-
-**Old** (from `launch-plan.md` section 3, also quoted in `mac-videos.md`)
-
-```
-Is your dog on the nice list? Pending. Meatball made a list. Noodle, his dog, already took the snack. What's the last thing your dog got to before you did? Promotional content for FurEver Faces, our own shop. Artwork created with AI tools. Order by Dec 5 for Christmas delivery. After that we still make and ship it, but it may arrive after Dec 25. Find it on TikTok Shop or Etsy. #santapaws #goldendoodle #dogchristmas #nicelistpending #meatballmyths
 ```
 
 **New**
 
 ```
+Is your dog on the nice list? Pending. I made a list. I have not finished the list. That's the whole line. Promotional content for FurEver Faces, our own shop. Order by Dec 5 for Christmas delivery. After that we still make and ship it, but it may arrive after Dec 25. Find it on TikTok Shop or Etsy. Artwork created with AI tools. What's the last thing your dog got to before you did?
+#santapaws #goldendoodle #dogchristmas #nicelistpending #doodlegift
+```
+
+### Variant B — After samples
+
+**Old** (as written in `mac-videos.md`)
+
+```
+Is your dog on the nice list? Pending. I made a list. I have not finished the list. That's the whole shirt. What's the last thing your dog got to before you did? Promotional content for FurEver Faces, our own shop. Artwork created with AI tools. Order by Dec 5 for Christmas delivery. After that we still make and ship it, but it may arrive after Dec 25. Find it on TikTok Shop or Etsy.
+
+#santapaws #goldendoodle #dogchristmas #nicelistpending #doodlegift
+```
+
+**New**
+
+```
+Is your dog on the nice list? Pending. I made a list. I have not finished the list. That's the whole shirt. Promotional content for FurEver Faces, our own shop. Order by Dec 5 for Christmas delivery. After that we still make and ship it, but it may arrive after Dec 25. Find it on TikTok Shop or Etsy. Artwork created with AI tools. What's the last thing your dog got to before you did?
+#santapaws #goldendoodle #dogchristmas #nicelistpending #doodlegift
+```
+
+### Variant C — No-Mac fallback
+
+**Old** (as written in `mac-videos.md`)
+
+```
 Is your dog on the nice list? Pending. Meatball made a list. Noodle, his dog, already took the snack. What's the last thing your dog got to before you did? Promotional content for FurEver Faces, our own shop. Artwork created with AI tools. Order by Dec 5 for Christmas delivery. After that we still make and ship it, but it may arrive after Dec 25. Find it on TikTok Shop or Etsy.
+
+#santapaws #goldendoodle #dogchristmas #nicelistpending #doodlegift
+```
+
+**New**
+
+```
+Is your dog on the nice list? Pending. Meatball made a list. Noodle, his dog, already took the snack. Promotional content for FurEver Faces, our own shop. Order by Dec 5 for Christmas delivery. After that we still make and ship it, but it may arrive after Dec 25. Find it on TikTok Shop or Etsy. Artwork created with AI tools. What's the last thing your dog got to before you did?
 #santapaws #goldendoodle #dogchristmas #nicelistpending #doodlegift
 ```
 
 ## Video 5 — Coffee courtroom
 
-Product: Santa Paws mug. Mac already compliant. Fallback: dropped `#meatballmyths`, added `#christmasmug`.
+Product: Santa Paws mug.
 
-### Mac-on-camera
+### Variant A — Mockup-only
 
-**Old** (from `mac-videos.md`; already five topic tags, no brand)
+**Old** (as written in `mac-videos.md`)
 
 ```
-Why does your dog supervise your coffee? I don't have a study in this one. I have a dog, a mug, and a kitchen. The mug is Santa Paws. The verdict is pending. What does your dog do when you pick up a cup? Promotional content for FurEver Faces, our own shop. Artwork created with AI tools. Order by Dec 5 for Christmas delivery. After that we still make and ship it, but it may arrive after Dec 25. Find it on TikTok Shop or Etsy.
+Why does your dog supervise your coffee? I don't have a study in this one. I have a dog, a kitchen, and this mug design. The design is Santa Paws. The verdict is pending. What does your dog do when you pick up a cup? Promotional content for FurEver Faces, our own shop. Artwork created with AI tools. Order by Dec 5 for Christmas delivery. After that we still make and ship it, but it may arrive after Dec 25. Find it on TikTok Shop or Etsy.
 
 #santapaws #goldendoodle #doggift #dogmug #christmasmug
-```
-
-**New** (unchanged)
-
-```
-Why does your dog supervise your coffee? I don't have a study in this one. I have a dog, a mug, and a kitchen. The mug is Santa Paws. The verdict is pending. What does your dog do when you pick up a cup? Promotional content for FurEver Faces, our own shop. Artwork created with AI tools. Order by Dec 5 for Christmas delivery. After that we still make and ship it, but it may arrive after Dec 25. Find it on TikTok Shop or Etsy.
-
-#santapaws #goldendoodle #doggift #dogmug #christmasmug
-```
-
-### No-Mac fallback
-
-**Old** (from `launch-plan.md` section 3, also quoted in `mac-videos.md`)
-
-```
-Why does your dog supervise your coffee? I don't have a study in this one. I have a dog, a mug, and a stare. The mug is Santa Paws. The verdict is pending. What does your dog do when you pick up a cup? Promotional content for FurEver Faces, our own shop. Artwork created with AI tools. Order by Dec 5 for Christmas delivery. After that we still make and ship it, but it may arrive after Dec 25. Find it on TikTok Shop or Etsy. #santapaws #goldendoodle #doggift #dogmug #meatballmyths
 ```
 
 **New**
+
+```
+Why does your dog supervise your coffee? I don't have a study in this one. I have a dog, a kitchen, and this mug design. The design is Santa Paws. The verdict is pending. Promotional content for FurEver Faces, our own shop. Order by Dec 5 for Christmas delivery. After that we still make and ship it, but it may arrive after Dec 25. Find it on TikTok Shop or Etsy. Artwork created with AI tools. What does your dog do when you pick up a cup?
+#santapaws #goldendoodle #doggift #dogmug #christmasmug
+```
+
+### Variant B — After samples
+
+**Old** (as written in `mac-videos.md`)
+
+```
+Why does your dog supervise your coffee? I don't have a study in this one. I have a dog, a mug, and a kitchen. The mug is Santa Paws. The verdict is pending. What does your dog do when you pick up a cup? Promotional content for FurEver Faces, our own shop. Artwork created with AI tools. Order by Dec 5 for Christmas delivery. After that we still make and ship it, but it may arrive after Dec 25. Find it on TikTok Shop or Etsy.
+
+#santapaws #goldendoodle #doggift #dogmug #christmasmug
+```
+
+**New**
+
+```
+Why does your dog supervise your coffee? I don't have a study in this one. I have a dog, a mug, and a kitchen. The mug is Santa Paws. The verdict is pending. Promotional content for FurEver Faces, our own shop. Order by Dec 5 for Christmas delivery. After that we still make and ship it, but it may arrive after Dec 25. Find it on TikTok Shop or Etsy. Artwork created with AI tools. What does your dog do when you pick up a cup?
+#santapaws #goldendoodle #doggift #dogmug #christmasmug
+```
+
+### Variant C — No-Mac fallback
+
+**Old** (as written in `mac-videos.md`)
 
 ```
 Why does your dog supervise your coffee? I don't have a study in this one. I have a dog, a mug, and a stare. The mug is Santa Paws. The verdict is pending. What does your dog do when you pick up a cup? Promotional content for FurEver Faces, our own shop. Artwork created with AI tools. Order by Dec 5 for Christmas delivery. After that we still make and ship it, but it may arrive after Dec 25. Find it on TikTok Shop or Etsy.
+
 #santapaws #goldendoodle #doggift #dogmug #christmasmug
-```
-
-## Video 6 — Would Meatball survive Christmas morning
-
-Product: Santa Paws pet bandana. Mac already compliant. Fallback: dropped `#meatballmyths`, added `#doodlebandana`.
-
-### Mac-on-camera
-
-**Old** (from `mac-videos.md`; already five topic tags, no brand)
-
-```
-Would Meatball survive Christmas morning if the dog got a festive bandana too? The plan was a festive bandana, and maybe a calm Christmas morning. There's a matching human tee, sold separately. Would your dog leave the snacks if they looked this official? Promotional content for FurEver Faces, our own shop. Artwork created with AI tools. Order by Dec 5 for Christmas delivery. After that we still make and ship it, but it may arrive after Dec 25. Find it on TikTok Shop or Etsy.
-
-#dogbandana #santapaws #goldendoodle #dogchristmas #doodlebandana
-```
-
-**New** (unchanged)
-
-```
-Would Meatball survive Christmas morning if the dog got a festive bandana too? The plan was a festive bandana, and maybe a calm Christmas morning. There's a matching human tee, sold separately. Would your dog leave the snacks if they looked this official? Promotional content for FurEver Faces, our own shop. Artwork created with AI tools. Order by Dec 5 for Christmas delivery. After that we still make and ship it, but it may arrive after Dec 25. Find it on TikTok Shop or Etsy.
-
-#dogbandana #santapaws #goldendoodle #dogchristmas #doodlebandana
-```
-
-### No-Mac fallback
-
-**Old** (from `launch-plan.md` section 3, also quoted in `mac-videos.md`)
-
-```
-Would Meatball survive Christmas morning if Noodle got dressed too? Meatball's plan was the festive bandana. Noodle stole the snacks anyway. There's a matching human tee, sold separately. Would your dog leave the snacks if they looked this official? Promotional content for FurEver Faces, our own shop. Artwork created with AI tools. Order by Dec 5 for Christmas delivery. After that we still make and ship it, but it may arrive after Dec 25. Find it on TikTok Shop or Etsy. #dogbandana #santapaws #goldendoodle #dogchristmas #meatballmyths
 ```
 
 **New**
 
 ```
-Would Meatball survive Christmas morning if Noodle got dressed too? Meatball's plan was the festive bandana. Noodle stole the snacks anyway. There's a matching human tee, sold separately. Would your dog leave the snacks if they looked this official? Promotional content for FurEver Faces, our own shop. Artwork created with AI tools. Order by Dec 5 for Christmas delivery. After that we still make and ship it, but it may arrive after Dec 25. Find it on TikTok Shop or Etsy.
+Why does your dog supervise your coffee? I don't have a study in this one. I have a dog, a mug, and a stare. The mug is Santa Paws. The verdict is pending. Promotional content for FurEver Faces, our own shop. Order by Dec 5 for Christmas delivery. After that we still make and ship it, but it may arrive after Dec 25. Find it on TikTok Shop or Etsy. Artwork created with AI tools. What does your dog do when you pick up a cup?
+#santapaws #goldendoodle #doggift #dogmug #christmasmug
+```
+
+## Video 6 — What the dog wears on Christmas morning
+
+Product: Santa Paws pet bandana.
+
+### Variant A — Mockup-only
+
+**Old** (as written in `mac-videos.md`)
+
+```
+What the dog wears on Christmas morning. The plan was a festive bandana, and maybe a calm Christmas morning. There's a matching human tee, sold separately. Would your dog leave the snacks if they looked this official? Promotional content for FurEver Faces, our own shop. Artwork created with AI tools. Order by Dec 5 for Christmas delivery. After that we still make and ship it, but it may arrive after Dec 25. Find it on TikTok Shop or Etsy.
+
+#dogbandana #santapaws #goldendoodle #dogchristmas #doodlebandana
+```
+
+**New**
+
+```
+What the dog wears on Christmas morning. The plan was a festive bandana, and maybe a calm Christmas morning. There's a matching human tee, sold separately. Promotional content for FurEver Faces, our own shop. Order by Dec 5 for Christmas delivery. After that we still make and ship it, but it may arrive after Dec 25. Find it on TikTok Shop or Etsy. Artwork created with AI tools. Would your dog leave the snacks if they looked this official?
+#dogbandana #santapaws #goldendoodle #dogchristmas #doodlebandana
+```
+
+### Variant B — After samples
+
+**Old** (as written in `mac-videos.md`)
+
+```
+What the dog wears on Christmas morning. The plan was a festive bandana, and maybe a calm Christmas morning. There's a matching human tee, sold separately. Would your dog leave the snacks if they looked this official? Promotional content for FurEver Faces, our own shop. Artwork created with AI tools. Order by Dec 5 for Christmas delivery. After that we still make and ship it, but it may arrive after Dec 25. Find it on TikTok Shop or Etsy.
+
+#dogbandana #santapaws #goldendoodle #dogchristmas #doodlebandana
+```
+
+**New**
+
+```
+What the dog wears on Christmas morning. The plan was a festive bandana, and maybe a calm Christmas morning. There's a matching human tee, sold separately. Promotional content for FurEver Faces, our own shop. Order by Dec 5 for Christmas delivery. After that we still make and ship it, but it may arrive after Dec 25. Find it on TikTok Shop or Etsy. Artwork created with AI tools. Would your dog leave the snacks if they looked this official?
+#dogbandana #santapaws #goldendoodle #dogchristmas #doodlebandana
+```
+
+### Variant C — No-Mac fallback
+
+**Old** (as written in `mac-videos.md`)
+
+```
+What the dog wears on Christmas morning. Meatball's plan was the festive bandana. Noodle stole the snacks anyway. There's a matching human tee, sold separately. Would your dog leave the snacks if they looked this official? Promotional content for FurEver Faces, our own shop. Artwork created with AI tools. Order by Dec 5 for Christmas delivery. After that we still make and ship it, but it may arrive after Dec 25. Find it on TikTok Shop or Etsy.
+
+#dogbandana #santapaws #goldendoodle #dogchristmas #doodlebandana
+```
+
+**New**
+
+```
+What the dog wears on Christmas morning. Meatball's plan was the festive bandana. Noodle stole the snacks anyway. There's a matching human tee, sold separately. Promotional content for FurEver Faces, our own shop. Order by Dec 5 for Christmas delivery. After that we still make and ship it, but it may arrive after Dec 25. Find it on TikTok Shop or Etsy. Artwork created with AI tools. Would your dog leave the snacks if they looked this official?
 #dogbandana #santapaws #goldendoodle #dogchristmas #doodlebandana
 ```
 
 ## Video 7 — That's the job
 
-Product: Doodle Mom mug. Mac already compliant. Fallback: dropped `#meatballmyths`, added `#doodlegift`.
+Product: Doodle Mom mug.
 
-### Mac-on-camera
+### Variant A — Mockup-only
 
-**Old** (from `mac-videos.md`; already five topic tags, no brand)
-
-```
-Curls, cuddles, and chaos. That's not a mood. That's the job. I poured the coffee. I still have to drink it. Coffee first, or curls first, at your house? Promotional content for FurEver Faces, our own shop. Artwork created with AI tools. Order by Dec 5 for Christmas delivery. After that we still make and ship it, but it may arrive after Dec 25. Find it on TikTok Shop or Etsy.
-
-#doodlemom #goldendoodle #dogmom #coffeemug #doodlegift
-```
-
-**New** (unchanged)
+**Old** (as written in `mac-videos.md`)
 
 ```
 Curls, cuddles, and chaos. That's not a mood. That's the job. I poured the coffee. I still have to drink it. Coffee first, or curls first, at your house? Promotional content for FurEver Faces, our own shop. Artwork created with AI tools. Order by Dec 5 for Christmas delivery. After that we still make and ship it, but it may arrive after Dec 25. Find it on TikTok Shop or Etsy.
 
 #doodlemom #goldendoodle #dogmom #coffeemug #doodlegift
-```
-
-### No-Mac fallback
-
-**Old** (from `launch-plan.md` section 3, also quoted in `mac-videos.md`)
-
-```
-Curls, cuddles, and chaos. That's not a mood. That's the job. Meatball poured the coffee. Noodle brought the chaos. Sauce, his cat, already left. Coffee first, or curls first, at your house? Promotional content for FurEver Faces, our own shop. Artwork created with AI tools. Order by Dec 5 for Christmas delivery. After that we still make and ship it, but it may arrive after Dec 25. Find it on TikTok Shop or Etsy. #doodlemom #goldendoodle #dogmom #coffeemug #meatballmyths
 ```
 
 **New**
 
 ```
+Curls, cuddles, and chaos. That's not a mood. That's the job. I poured the coffee. I still have to drink it. Promotional content for FurEver Faces, our own shop. Order by Dec 5 for Christmas delivery. After that we still make and ship it, but it may arrive after Dec 25. Find it on TikTok Shop or Etsy. Artwork created with AI tools. Coffee first, or curls first, at your house?
+#doodlemom #goldendoodle #dogmom #coffeemug #doodlegift
+```
+
+### Variant B — After samples
+
+**Old** (as written in `mac-videos.md`)
+
+```
+Curls, cuddles, and chaos. That's not a mood. That's the job. I poured the coffee. I still have to drink it. Coffee first, or curls first, at your house? Promotional content for FurEver Faces, our own shop. Artwork created with AI tools. Order by Dec 5 for Christmas delivery. After that we still make and ship it, but it may arrive after Dec 25. Find it on TikTok Shop or Etsy.
+
+#doodlemom #goldendoodle #dogmom #coffeemug #doodlegift
+```
+
+**New**
+
+```
+Curls, cuddles, and chaos. That's not a mood. That's the job. I poured the coffee. I still have to drink it. Promotional content for FurEver Faces, our own shop. Order by Dec 5 for Christmas delivery. After that we still make and ship it, but it may arrive after Dec 25. Find it on TikTok Shop or Etsy. Artwork created with AI tools. Coffee first, or curls first, at your house?
+#doodlemom #goldendoodle #dogmom #coffeemug #doodlegift
+```
+
+### Variant C — No-Mac fallback
+
+**Old** (as written in `mac-videos.md`)
+
+```
 Curls, cuddles, and chaos. That's not a mood. That's the job. Meatball poured the coffee. Noodle brought the chaos. Sauce, his cat, already left. Coffee first, or curls first, at your house? Promotional content for FurEver Faces, our own shop. Artwork created with AI tools. Order by Dec 5 for Christmas delivery. After that we still make and ship it, but it may arrive after Dec 25. Find it on TikTok Shop or Etsy.
+
+#doodlemom #goldendoodle #dogmom #coffeemug #doodlegift
+```
+
+**New**
+
+```
+Curls, cuddles, and chaos. That's not a mood. That's the job. Meatball poured the coffee. Noodle brought the chaos. Sauce, his cat, already left. Promotional content for FurEver Faces, our own shop. Order by Dec 5 for Christmas delivery. After that we still make and ship it, but it may arrive after Dec 25. Find it on TikTok Shop or Etsy. Artwork created with AI tools. Coffee first, or curls first, at your house?
 #doodlemom #goldendoodle #dogmom #coffeemug #doodlegift
 ```
 
 ## Video 8 — Hang the job on the tree
 
-Product: Doodle Mom ornament. Mac already compliant. Fallback: dropped `#meatballmyths`, added `#doodlechristmas`.
+Product: Doodle Mom ornament.
 
-### Mac-on-camera
+### Variant A — Mockup-only
 
-**Old** (from `mac-videos.md`; already five topic tags, no brand)
+**Old** (as written in `mac-videos.md`)
 
 ```
-The Doodle Mom starter pack: a tree, a mug, and no free hands. The ASPCA says keep breakable ornaments out of paws' reach, because shards can damage a pet's mouth and digestive tract. So this one goes high. Where does the chaos ornament go on your tree? Promotional content for FurEver Faces, our own shop. Artwork created with AI tools. Order by Dec 5 for Christmas delivery. After that we still make and ship it, but it may arrive after Dec 25. Find it on TikTok Shop or Etsy.
+The Doodle Mom starter pack: a tree, a mug, and no free hands. The ASPCA says keep breakable ornaments out of paws' reach, because shards can damage a pet's mouth and digestive tract. So a breakable one goes high. Where does the chaos ornament go on your tree? Promotional content for FurEver Faces, our own shop. Artwork created with AI tools. Order by Dec 5 for Christmas delivery. After that we still make and ship it, but it may arrive after Dec 25. Find it on TikTok Shop or Etsy.
 
 #doodlemom #goldendoodle #christmasornament #dogmom #doodlechristmas
-```
-
-**New** (unchanged)
-
-```
-The Doodle Mom starter pack: a tree, a mug, and no free hands. The ASPCA says keep breakable ornaments out of paws' reach, because shards can damage a pet's mouth and digestive tract. So this one goes high. Where does the chaos ornament go on your tree? Promotional content for FurEver Faces, our own shop. Artwork created with AI tools. Order by Dec 5 for Christmas delivery. After that we still make and ship it, but it may arrive after Dec 25. Find it on TikTok Shop or Etsy.
-
-#doodlemom #goldendoodle #christmasornament #dogmom #doodlechristmas
-```
-
-### No-Mac fallback
-
-**Old** (from `launch-plan.md` section 3, also quoted in `mac-videos.md`)
-
-```
-The Doodle Mom starter pack: a tree, a mug, and no free hands. The ASPCA says keep breakable ornaments out of paws' reach, because shards can damage a pet's mouth and digestive tract. So this one goes high. Where does the chaos ornament go on your tree? Promotional content for FurEver Faces, our own shop. Artwork created with AI tools. Order by Dec 5 for Christmas delivery. After that we still make and ship it, but it may arrive after Dec 25. Find it on TikTok Shop or Etsy. #doodlemom #goldendoodle #christmasornament #dogmom #meatballmyths
 ```
 
 **New**
 
 ```
-The Doodle Mom starter pack: a tree, a mug, and no free hands. The ASPCA says keep breakable ornaments out of paws' reach, because shards can damage a pet's mouth and digestive tract. So this one goes high. Where does the chaos ornament go on your tree? Promotional content for FurEver Faces, our own shop. Artwork created with AI tools. Order by Dec 5 for Christmas delivery. After that we still make and ship it, but it may arrive after Dec 25. Find it on TikTok Shop or Etsy.
+The Doodle Mom starter pack: a tree, a mug, and no free hands. The ASPCA says keep breakable ornaments out of paws' reach, because shards can damage a pet's mouth and digestive tract. So a breakable one goes high. Promotional content for FurEver Faces, our own shop. Order by Dec 5 for Christmas delivery. After that we still make and ship it, but it may arrive after Dec 25. Find it on TikTok Shop or Etsy. Artwork created with AI tools. Where does the chaos ornament go on your tree?
 #doodlemom #goldendoodle #christmasornament #dogmom #doodlechristmas
 ```
 
+### Variant B — After samples
+
+**Old** (as written in `mac-videos.md`)
+
+```
+The Doodle Mom starter pack: a tree, a mug, and no free hands. The ASPCA says keep breakable ornaments out of paws' reach, because shards can damage a pet's mouth and digestive tract. So this one goes high. Where does the chaos ornament go on your tree? Promotional content for FurEver Faces, our own shop. Artwork created with AI tools. Order by Dec 5 for Christmas delivery. After that we still make and ship it, but it may arrive after Dec 25. Find it on TikTok Shop or Etsy.
+
+#doodlemom #goldendoodle #christmasornament #dogmom #doodlechristmas
+```
+
+**New**
+
+```
+The Doodle Mom starter pack: a tree, a mug, and no free hands. The ASPCA says keep breakable ornaments out of paws' reach, because shards can damage a pet's mouth and digestive tract. So this one goes high. Promotional content for FurEver Faces, our own shop. Order by Dec 5 for Christmas delivery. After that we still make and ship it, but it may arrive after Dec 25. Find it on TikTok Shop or Etsy. Artwork created with AI tools. Where does the chaos ornament go on your tree?
+#doodlemom #goldendoodle #christmasornament #dogmom #doodlechristmas
+```
+
+### Variant C — No-Mac fallback
+
+**Old** (as written in `mac-videos.md`)
+
+```
+The Doodle Mom starter pack: a tree, a mug, and no free hands. The ASPCA says keep breakable ornaments out of paws' reach, because shards can damage a pet's mouth and digestive tract. So this one goes high. Where does the chaos ornament go on your tree? Promotional content for FurEver Faces, our own shop. Artwork created with AI tools. Order by Dec 5 for Christmas delivery. After that we still make and ship it, but it may arrive after Dec 25. Find it on TikTok Shop or Etsy.
+
+#doodlemom #goldendoodle #christmasornament #dogmom #doodlechristmas
+```
+
+**New**
+
+```
+The Doodle Mom starter pack: a tree, a mug, and no free hands. The ASPCA says keep breakable ornaments out of paws' reach, because shards can damage a pet's mouth and digestive tract. So this one goes high. Promotional content for FurEver Faces, our own shop. Order by Dec 5 for Christmas delivery. After that we still make and ship it, but it may arrive after Dec 25. Find it on TikTok Shop or Etsy. Artwork created with AI tools. Where does the chaos ornament go on your tree?
+#doodlemom #goldendoodle #christmasornament #dogmom #doodlechristmas
+```
 
 ## Lint (`postkit.py lint`, 2026-11-15, America/New_York)
 
-`postkit.py lint` applies to these captions when the stub filename starts with `tt-` (or the spec has `search_top`). Stubs: `/workspace/packaging/lint-specs/tt-shop-v{1-8}-{mac,fb}.json`.
+Stubs: `/workspace/packaging/lint-specs/tt-shop-v{1-8}-{mockup,samples,nomac}.json`, built from the new captions in this file. Filenames start with `tt-` so lint runs as TikTok. Stubs do not set `search_top`, and titles/series do not use a Would Meatball Survive hook.
 
-All 16 captions (8 Mac + 8 fallback) have five topic hashtags, no `#meatballmyths`, no `#fureverfaces`, no `#fyp`, no `#learnontiktok`. Hashtag count: ok. "Find it on TikTok Shop or Etsy" did not trip the mention/link FAIL (no URL, no `@`, no bare domain).
+**Result: 24/24 pass (0 fail, 0 warn).** Target met.
 
-**WARN on all 16:** "caption text does not end with a question before the hashtags." The question is present. The required shop disclosure (promotional content, AI-tool artwork, order-by Dec 5, Shop or Etsy) sits after the question and before the hashtags. That is the shop shape. The disclosure was not moved or stripped to pass educational-cut lint.
-
-**FAIL on videos 2 and 6 only (Mac and fallback, 4 stubs):** "survival video without 'General info, not safety training.' in the caption." Lint treats a title or series that contains "Would Meatball survive" as a Would Meatball Survive? safety explainer. These two are FurEver Faces product hooks that reuse the catchphrase ("Would Meatball survive a Doodle Mom?" and "Would Meatball survive Christmas morning…"). They are promotional shop cuts, not WMS safety explainers, so the safety line was not added. Parent/Studio can decide whether to add it anyway.
-
-The other 12 stubs: pass (0 fail, 1 warn). Videos 2 and 6: FAIL (1 fail, 1 warn). Educational Meatball Myths lint is a partial fit for shop captions; hashtag-rule checks still apply and pass.
-
+- All 24 have five topic hashtags and no brand or dead tags.
+- All 24 bodies end with a question immediately before the hashtags, so the question-before-hashtags WARN is gone.
+- Videos 2 and 6 no longer fail the WMS safety-line check, because their hooks no longer use "Would Meatball survive…"
+- "Find it on TikTok Shop or Etsy" did not trip the mention/link FAIL (no URL, no `@`, no bare domain).
