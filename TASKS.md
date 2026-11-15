@@ -48,6 +48,7 @@ Source: [etsy-shop/design/design-direction-2026-11-15.md](etsy-shop/design/desig
 
 - 2026-11-15 — Social Studio: first weekly brief added at channels/weekly-briefs/2026-11-16-weekly-brief.md (from Trends & Analytics). Key gaps: no Shorts logged for 11/22–11/24 or 11/26–12/4. Top idea: Bears vs Lions (the actual animals) for the 11/26 game.
 - 2026-11-15 — Social Studio: URGENT for tonight's Sun 11/15 21:30 ET slot: TikTok minute cut of bison-wms is drafted at channels/scripts/tt-bison-wms.md (+ .json, tt-grizzly-wms shape) by Scriptwriter. Facts checked against live NPS pages (table inside). Still needs your second-model check, render, postkit lint and transcript check before scheduling. Posting still needs Moondog88's okay.
+- 2026-11-15 — Social Studio: metadata (titles, descriptions, tags, TikTok captions, pinned comments) for the nine queued drawn-house bug Shorts (11/14–11/20) is at channels/packaging/bug-shorts-1114-1120.md, from Packaging & Thumbnails. It passes postkit lint except one warning: 5 hashtags vs lint's 4, which follows the written orders (3 topic + #meatballmyths + #shorts), so please reconcile the lint rule. Needs your second-model check before applying; soonest is tonight 19:00 ET cellar-102. The 11/14 slots are already live, so leave them unless Moondog88 okays changes.
 
 ## Production log
 
