@@ -1,0 +1,441 @@
+{
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "+10%",
+  "pitch": "+3Hz",
+  "music": "detective",
+  "music_db": -13,
+  "captions": 66,
+  "caption_y": 1180,
+  "cut_whoosh": true,
+  "loop": true,
+  "photo_credits": [],
+  "series": "Things Living In Your House",
+  "sources": [
+    "U.S. Food and Drug Administration, Leave Chocolate Out of Rover's Celebrations (opened 2026-11-15): \"Chocolate is toxic to dogs.\"; \"Chocolate contains more theobromine than caffeine; it's the theobromine that's the main culprit in chocolate toxicity in dogs.\"; \"Theobromine can cause mild signs in dogs with doses as low as 9 mg per pound of body weight, and severe signs starting around 18 mg per pound of body weight.\"; table, approximate theobromine in 1 ounce: milk chocolate 57 mg; dark chocolate with 70-85% cacao 227 mg; \"If your pet is sick or has a veterinary emergency, call your veterinarian. If your veterinarian is unavailable, call your local emergency animal hospital or an animal poison control center.\"; https://www.fda.gov/animal-veterinary/animal-health-literacy/leave-chocolate-out-rovers-celebrations",
+    "ASPCA, What to Do If Your Pet Gets into Chocolate (January 10, 2022; opened 2026-11-15): \"Generally, the darker the chocolate, the more theobromine it will contain\"; \"Cats are sensitive to theobromine just like dogs\"; \"please contact your veterinarian or call the ASPCA Animal Poison Control Center at (888) 426-4435.\"; https://www.aspca.org/news/what-do-if-your-pet-gets-chocolate",
+    "Merck Veterinary Manual, Chocolate Toxicosis in Animals (last updated Feb 2026; opened 2026-11-15): dose bands in mg/kg (mild 20; cardiotoxic 40-50; seizures ≥60). Not spoken in the Short; units differ from the FDA mg-per-pound figures. https://www.merckvetmanual.com/toxicology/food-hazards/chocolate-toxicosis-in-animals"
+  ],
+  "stage": {
+    "creature": "dog",
+    "scene": "kitchen",
+    "scene_p": {},
+    "s": 0.62,
+    "creature_cfg": {
+      "plan": "mammal",
+      "label": "dog",
+      "color": "#c8743c",
+      "dark": "#8f4f24",
+      "belly": "#f1dcc0",
+      "tail_color": "#c8743c",
+      "length": 600,
+      "height": 290,
+      "leg_len": 200,
+      "leg_w": 36,
+      "ears": "floppy",
+      "tail": "thin",
+      "tail_w": 20,
+      "whiskers": false,
+      "mood": "happy"
+    }
+  },
+  "cap_key": [
+    "you",
+    "your",
+    "dog",
+    "dogs",
+    "chocolate",
+    "fda",
+    "theobromine",
+    "milligrams",
+    "pound",
+    "dark",
+    "milk",
+    "cacao",
+    "veterinarian",
+    "noodle",
+    "cake",
+    "tin",
+    "white",
+    "pancreatitis"
+  ],
+  "title": "Can Dogs Eat Chocolate: Mild Signs Can Start at 9 mg Per Pound 🍫 (Things Living In Your House)",
+  "description": "Can dogs eat chocolate? This video answers our own pinned question: what would you do if your dog got to the tin? It is not a quote from a viewer, and it does not invent a commenter. The FDA says chocolate is toxic to dogs, and that theobromine is the main culprit. Theobromine can cause mild signs in dogs with doses as low as 9 mg per pound of body weight, and severe signs starting around 18 mg per pound. That dose is per pound of the dog's body weight, so the same amount can be milder for a large dog and severe for a small one. No page we checked calls any amount safe. The same FDA table lists about 57 mg of theobromine in an ounce of milk chocolate, and about 227 mg in dark chocolate with 70-85% cacao. The ASPCA says white chocolate has almost no theobromine, but sugar and fat may still lead to pancreatitis; do not call white chocolate safe. The ASPCA also says cats are sensitive to theobromine just like dogs, though they tend not to be drawn to chocolate. If your pet is sick or has a veterinary emergency, call your veterinarian. If your veterinarian is unavailable, call your local emergency animal hospital or an animal poison control center.\n\n#dogchocolate #candogseatchocolate #theobromine #dogsafety #pethealth\n\nSources: FDA, Leave Chocolate Out of Rover's Celebrations, https://www.fda.gov/animal-veterinary/animal-health-literacy/leave-chocolate-out-rovers-celebrations ; ASPCA, What to Do If Your Pet Gets into Chocolate, https://www.aspca.org/news/what-do-if-your-pet-gets-chocolate ; ASPCA, People Foods to Avoid Feeding Your Pets, https://www.aspca.org/pet-care/aspca-poison-control/people-foods-avoid-feeding-your-pets ; Merck Veterinary Manual, Chocolate Toxicosis in Animals, https://www.merckvetmanual.com/toxicology/food-hazards/chocolate-toxicosis-in-animals ; UC Davis, Chocolate Poisoning in Dogs, https://healthtopics.vetmed.ucdavis.edu/health-topics/chocolate-poisoning-dogs ; AVMA, Household Hazards brochure (2022). Pages opened 2026-11-15. General information, not veterinary advice. This is an original drawn video, not a Duet or Stitch.",
+  "pinned_comment": "What would you do if your dog got to the tin?",
+  "_note": "TIKTOK-NATIVE ORIGINAL, comment-reply TEMPLATE plus a worked example. Draft 2026-11-15, written only from /workspace/drafts/facts/chocolate.md. Not a Duet or a Stitch. The worked example uses our own pinned question from the chocolate Short; it does not invent a commenter or a viewer quote. Schema follows tt-cat-sugar.json, plus tiktok_native.comment_slot. 290 spoken words, runtime estimate 90.9s at 194.5 wpm plus 1.40s of listed pads. MASTER_ORDERS / Nolan 11/11: about one swear per line, 6–9 sweary jokes. Facts, credits, doses, hedges and the call-for-help line said clean, swear after. Hook is the searched question. Line 2 is the acted Meatball gag. His dog, Noodle (comma form) is planted early; he ends up with the tin. The joke does not add that Noodle was fine or got sick. No hedge-mocking tag in this cut; hedges stay in the fact and the reaction is a Meatball action (pointed at the word, squinted, held both bars up, reread the white-chocolate line, picked up the phone). Spoken numbers are FDA figures only, with units. Merck mg/kg and UC Davis oz/lb stay in the pack. White chocolate is not called safe. The call-for-help line uses the FDA's wording. Cats are in the description, not spoken, to keep the runtime inside 92s. TikTok caption: five topic hashtags, no brand. Cake and chocolate-chip search tags stay out of the spoken cut; chips are in the pack. NOT yet checked by a second model and not rendered. No Noodle character key. Studio needs a comment-bar layer; see tiktok_native.pipeline_gap.",
+  "beats": [
+    {
+      "m": "hook",
+      "gag": {
+        "mark": "shock"
+      },
+      "_f": [
+        "CH-F1"
+      ],
+      "say": "Can dogs eat chocolate? Our pinned question was, what would you do if your dog got to the tin? Holy shit.",
+      "card": {
+        "rows": [
+          [
+            "CAN DOGS EAT CHOCOLATE?",
+            "#ffd34d",
+            64
+          ],
+          [
+            "OUR PINNED QUESTION:",
+            "#ffffff",
+            36,
+            true
+          ],
+          [
+            "WHAT WOULD YOU DO IF YOUR DOG GOT TO THE TIN?",
+            "#ffffff",
+            32,
+            true
+          ]
+        ],
+        "y": 470,
+        "at": "35%"
+      },
+      "open": "animal",
+      "comment_bar": {
+        "source": "worked_example",
+        "text": "What would you do if your dog got to the tin?",
+        "credit": "Pinned question on our chocolate Short",
+        "until": 5.0
+      },
+      "say_template": "Can dogs eat chocolate? {{COMMENT_TEXT}} Holy shit."
+    },
+    {
+      "m": "fact",
+      "gag": false,
+      "_f": [],
+      "say": "Meatball hid the cake. His dog, Noodle, was already in the kitchen. Tiny fucking plan.",
+      "card": {
+        "rows": [
+          [
+            "THE CAKE WENT UP HIGH",
+            "#ffd34d",
+            80
+          ],
+          [
+            "NOODLE WAS ALREADY IN THE KITCHEN",
+            "#ffffff",
+            36,
+            true
+          ]
+        ],
+        "y": 470,
+        "at": "30%"
+      },
+      "scene": "kitchen",
+      "pad": 0.25
+    },
+    {
+      "m": "fact",
+      "gag": false,
+      "_f": [
+        "CH-F1"
+      ],
+      "say": "The FDA says chocolate is toxic to dogs, and that theobromine is the main culprit. Meatball pointed at the word. Fucking highlighted.",
+      "card": {
+        "rows": [
+          [
+            "FDA: CHOCOLATE IS TOXIC TO DOGS",
+            "#ff4b3e",
+            56
+          ],
+          [
+            "THEOBROMINE IS THE MAIN CULPRIT",
+            "#ffffff",
+            40,
+            true
+          ]
+        ],
+        "y": 470,
+        "at": "22%"
+      },
+      "scene": "study",
+      "pad": 0.25,
+      "acting": false
+    },
+    {
+      "m": "fact",
+      "gag": false,
+      "_f": [
+        "CH-F4"
+      ],
+      "say": "Theobromine can cause mild signs as low as 9 milligrams per pound of body weight, the FDA says, and severe signs around 18. Per pound of the dog. Worst fucking math.",
+      "card": {
+        "rows": [
+          [
+            "AS LOW AS 9 MG PER POUND",
+            "#ff4b3e",
+            70
+          ],
+          [
+            "OF BODY WEIGHT, THEOBROMINE: FDA",
+            "#ffffff",
+            36,
+            true
+          ],
+          [
+            "SEVERE SIGNS AROUND 18 MG PER POUND",
+            "#ffffff",
+            36,
+            true
+          ]
+        ],
+        "y": 470,
+        "at": "20%"
+      },
+      "scene": "basement",
+      "acting": false
+    },
+    {
+      "m": "fact",
+      "gag": false,
+      "_f": [
+        "CH-F2"
+      ],
+      "say": "Several things can play a role, the FDA says: the amount and type of chocolate, the dog's size, and how sensitive the dog is to theobromine. No page we checked calls any amount safe. Meatball squinted. Fucking tiny print.",
+      "card": {
+        "rows": [
+          [
+            "TYPE, AMOUNT, SIZE, SENSITIVITY",
+            "#ffd34d",
+            48
+          ],
+          [
+            "FDA DOES NOT CALL ANY AMOUNT SAFE",
+            "#ffffff",
+            36,
+            true
+          ]
+        ],
+        "y": 470,
+        "at": "22%"
+      },
+      "scene": "bathroom",
+      "acting": false
+    },
+    {
+      "m": "fact",
+      "gag": false,
+      "_f": [
+        "CH-F3"
+      ],
+      "say": "Dark chocolate with 70 to 85 percent cacao has about 227 milligrams of theobromine an ounce, the FDA table says; milk chocolate has about 57. Meatball held both bars up. Fucking scale.",
+      "card": {
+        "rows": [
+          [
+            "MILK ~57 MG / OZ   DARK 70–85% ~227",
+            "#ffd34d",
+            40,
+            true
+          ],
+          [
+            "FDA TABLE, THEOBROMINE",
+            "#ffffff",
+            40,
+            true
+          ]
+        ],
+        "y": 470,
+        "at": "22%"
+      },
+      "scene": "garden",
+      "acting": false
+    },
+    {
+      "m": "fact",
+      "gag": false,
+      "_f": [
+        "CH-F5"
+      ],
+      "say": "Signs of chocolate toxicity can appear within a few hours, the FDA says, and can range from mild to severe. Severe toxicity can lead to death in some cases. Fucking list.",
+      "card": {
+        "rows": [
+          [
+            "SIGNS CAN APPEAR WITHIN A FEW HOURS",
+            "#ffd34d",
+            48
+          ],
+          [
+            "SEVERE TOXICITY CAN LEAD TO DEATH IN SOME CASES",
+            "#ffffff",
+            32,
+            true
+          ],
+          [
+            "FDA",
+            "#ffffff",
+            40,
+            true
+          ]
+        ],
+        "y": 470,
+        "at": "20%"
+      },
+      "scene": "kitchen",
+      "acting": false
+    },
+    {
+      "m": "fact",
+      "gag": false,
+      "_f": [
+        "CH-F7"
+      ],
+      "say": "The ASPCA says white chocolate has almost no theobromine, but sugar and fat may still lead to pancreatitis. Meatball reread it. Fucking plot twist.",
+      "card": {
+        "rows": [
+          [
+            "WHITE CHOCOLATE: ALMOST NO THEOBROMINE",
+            "#ffd34d",
+            40
+          ],
+          [
+            "ASPCA: SUGAR AND FAT MAY STILL LEAD TO PANCREATITIS",
+            "#ffffff",
+            32,
+            true
+          ]
+        ],
+        "y": 470,
+        "at": "20%"
+      },
+      "scene": "study",
+      "acting": false
+    },
+    {
+      "m": "fact",
+      "gag": false,
+      "_f": [
+        "CH-F6"
+      ],
+      "say": "If your pet is sick or has a veterinary emergency, call your veterinarian. If your veterinarian is unavailable, call your local emergency animal hospital or an animal poison control center, the FDA says. Meatball picked up the phone. Fucking finally.",
+      "card": {
+        "rows": [
+          [
+            "IF YOUR PET IS SICK, CALL YOUR VETERINARIAN",
+            "#7bd88f",
+            36,
+            true
+          ],
+          [
+            "IF THEY'RE UNAVAILABLE, A LOCAL EMERGENCY HOSPITAL OR AN ANIMAL POISON CONTROL CENTER",
+            "#ffffff",
+            28,
+            true
+          ],
+          [
+            "FDA WORDING",
+            "#ffffff",
+            36,
+            true
+          ]
+        ],
+        "y": 470,
+        "at": "18%"
+      },
+      "scene": "bedroom",
+      "acting": false
+    },
+    {
+      "m": "fact",
+      "gag": false,
+      "_f": [],
+      "say": "His dog, Noodle, already had the tin. Little fucking vacuum.",
+      "card": {
+        "rows": [
+          [
+            "NOODLE HAD THE TIN",
+            "#ffd34d",
+            80
+          ]
+        ],
+        "y": 470,
+        "at": "40%"
+      },
+      "scene": "garden"
+    },
+    {
+      "m": "punch",
+      "gag": {
+        "mark": "alarm"
+      },
+      "_f": [],
+      "say": "So can dogs eat chocolate? No page we checked calls any amount safe. What would you do if your dog got to the tin? Be fucking honest. And",
+      "card": {
+        "rows": [
+          [
+            "WHAT WOULD YOU DO IF YOUR DOG GOT TO THE TIN? COMMENT",
+            "#ffffff",
+            32,
+            true
+          ]
+        ],
+        "x": "right",
+        "y": 400,
+        "at": 0.0
+      },
+      "scene": "kitchen",
+      "pad": 0.9
+    }
+  ],
+  "search_top": {
+    "rows": [
+      [
+        "CAN DOGS EAT",
+        "#ffffff",
+        86
+      ],
+      [
+        "CHOCOLATE?",
+        "#ffd34d",
+        86
+      ]
+    ],
+    "y": 150,
+    "until": 2.5
+  },
+  "tiktok_title": "Can Dogs Eat Chocolate? What the FDA Says If They Get To The Tin",
+  "tiktok_caption": "can dogs eat chocolate? 🍫 Our pinned question was, what would you do if your dog got to the tin? The FDA says chocolate is toxic to dogs, and that theobromine can cause mild signs at doses as low as 9 milligrams per pound of body weight, and severe signs around 18. An ounce of milk chocolate has about 57 milligrams of theobromine, the FDA table says; dark chocolate with 70 to 85 percent cacao has about 227. No amount is called safe. The ASPCA says white chocolate has almost no theobromine, but sugar and fat may still lead to pancreatitis. If your pet is sick or has a veterinary emergency, call your veterinarian. What would you do if your dog got to the tin? #dogchocolate #candogseatchocolate #theobromine #dogsafety #pethealth",
+  "cap_swap": {
+    "shit": "sh*t",
+    "shits": "sh*ts",
+    "shitty": "sh*tty",
+    "bullshit": "bullsh*t",
+    "fuck": "f**k",
+    "fucking": "f**king",
+    "fucker": "f**ker",
+    "fuckers": "f**kers"
+  },
+  "tags": [
+    "can dogs eat chocolate",
+    "can dogs eat dark chocolate",
+    "could dogs eat chocolate",
+    "why can't dogs eat chocolates",
+    "theobromine in chocolate",
+    "chocolate toxicity in dogs",
+    "things living in your house",
+    "Meatball Myths"
+  ],
+  "_curse": "Rules-default / Nolan 11/11: about one swear per line. Sweary jokes include Tiny fucking plan; Fucking highlighted; Worst fucking math; Fucking tiny print; Fucking scale; Fucking list; Fucking plot twist; Fucking finally; Little fucking vacuum. No hedge-mock ('May. Fucking may' / 'Generally. Fucking generally'). Facts, doses and the call-for-help line stay clean. Jokes add no claim, number, danger, motive or safety instruction. No insult uses 'you'.",
+  "tiktok_native": {
+    "format": "comment_reply",
+    "duet": false,
+    "stitch": false,
+    "rewards_note": "Post as an original video over 61s, or as TikTok's native reply to a comment on our own video. Do not post this as a Duet or a Stitch.",
+    "comment_slot": "{{COMMENT_TEXT}}",
+    "comment_line_template": "Can dogs eat chocolate? {{COMMENT_TEXT}} Holy shit.",
+    "comment_attribution": "Do not invent a commenter's name, handle, or quote. When a real viewer comment is used later, paste it verbatim into COMMENT_TEXT and credit it as a comment on our video, not as a named person.",
+    "worked_example": {
+      "source": "Pinned question on our chocolate Short (this channel). Not a viewer quote.",
+      "text": "What would you do if your dog got to the tin?",
+      "spoken_setup": "Our pinned question was, what would you do if your dog got to the tin?"
+    },
+    "comment_bar": "A drawn TikTok-style comment bar at the top for the first 3–5s and when the question is reread. Show the question text only. No fake username, no fake avatar, no invented handle. For the worked example, a small credit under the bar may read: Pinned question on our chocolate Short. If this is later posted with TikTok's in-app Reply-to-comment, use that chrome and drop our drawn bar so the comment is not shown twice.",
+    "swap_rule": "If a future real comment asks for a dose, a home treatment, or a 'is this much safe' figure the pack does not support, do not invent an answer. Keep the hook as the searched question, fill the slot with the verbatim comment, and stay on the checked FDA/ASPCA lines.",
+    "pipeline_gap": "drawn-house has no comment-bar layer. Studio needs a reusable comment_slot graphic and a way to swap COMMENT_TEXT without re-laying the whole cut."
+  },
+  "_studio": "PIPELINE ASK (comment-reply). The current drawn-house renderer has no comment-bar layer. To ship this format, Studio needs: (1) a reusable drawn comment bar, top of frame, driven by tiktok_native.comment_slot; (2) for this worked example, the bar shows only the question 'What would you do if your dog got to the tin?' with a small credit 'Pinned question on our chocolate Short' — no fake username, avatar, or handle; (3) a swap path so a later real comment can be pasted verbatim into COMMENT_TEXT and onto the first spoken line without re-laying the whole cut; if that comment asks for a figure or a home treatment the pack does not support, do not invent an answer; (4) if the finished video is posted with TikTok's native Reply-to-comment on our own pin (or, later, on a real viewer comment), use the in-app comment chrome and hide our drawn bar so the question is not shown twice; still never a Duet or Stitch; (5) same rooms, cards, Andrew voice, and the Noodle/tin gag as a standard drawn-house minute; no Noodle character key yet; (6) post as an original 61s+ video (or an in-app comment reply, which is still original content), never a Duet or Stitch, so it can stay Creator Rewards-eligible."
+}
