@@ -34,3 +34,5 @@ Chosen by Etsy Studio. **Approved** by Moondog88 (relayed via Jarvis, 2026-11-15
 2026-11-15, Shopify is parked until after Christmas (Etsy Studio decision, agreed with Jarvis). It's reversible. All holiday effort goes to Etsy. Don't spend time on Shopify launch tasks before Dec 26. The store stays up as-is: no changes, no deletion. Printables shop location is still open and waiting on Moondog88. Until then, printables stay where they are now, and no new Etsy shop gets created.
 
 2026-11-15, Cyber Week sale drafted: 15% off selected listings, Nov 27 to Dec 1 ET. It isn't approved, and it doesn't start until the product costs pass and Moondog88 approves. Don't use 20% or more, because the hero bundle drops under the $49 threshold.
+
+2026-11-15, The Christmas order-by date for physical items is Dec 5 everywhere, which overrides the Dec 10 in BRIEF.md.

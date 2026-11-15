@@ -1,66 +1,84 @@
 # Pricing memo (recommendation only)
 
-Written Nov 15, 2026 (America/New_York) by Etsy Studio. This is a recommendation. No prices were changed in Printify, Etsy, Shopify, or any GitHub branch. No sales, search, or margin figures are invented; only lines that already appear in the source files are quoted.
+Written Nov 15, 2026 (America/New_York) by Etsy Studio; updated the same day in round 2. This is a recommendation. No prices were changed in Printify, Etsy, Shopify, or any GitHub branch. Draft copy only. No sales, search, or estimated cost figures are used; only lines that already appear in the source files are quoted, and missing Printify costs are marked “Printify cost needed,” never estimated.
 
-## Source lines (quoted)
+## Working assumptions for this draft (not a live change)
 
-From `skills/dropship/ETSY_STATE.md` on `claude/blissful-allen-waez05`:
+- Customer-facing shop name: FurEver Faces.
+- `skills/dropship/ETSY_STATE.md` on `claude/blissful-allen-waez05` is the live price list: ornament **$16.99** (pending a margin check) and mug **$17.99**.
+- Ads would say **“from $16.99”**.
+- These are working assumptions for draft copy. TASKS.md on `mooneyn60-art/Side-hustles` main still lists the shop name and the ornament price as decisions awaiting Moondog88. See Conflicts below.
+
+## The 45% rule (quoted)
+
+From `skills/dropship/BRIEF.md` on `mooneyn60-art/skills`, branch `claude/package-installation-setup-yv4j79`, under “Stop-ship problems found on 11/14”, item 5:
+
+> Margins: check each price against the supplier's cost plus shipping. The ornament ($21.99) and socks ($19.99) are likely thin once shipping is paid. Rule: the supplier cost plus shipping should be ≤ 45% of the price, so ads have room. The blanket ($94.99, tagged free shipping) needs its shipping cost confirmed.
+
+The rule applied below is that quoted sentence: **the supplier cost plus shipping should be ≤ 45% of the price**. The ornament figure in that same paragraph is $21.99, which is the older ETSY_LISTINGS.md / BRIEF.md number, not the live-list $16.99. Socks and the $94.99 blanket are in that brief for the personalized Shopify store; they are not in the cartoon ETSY_STATE.md catalog. Those product mentions are quoted only to keep the rule in context. No costs were taken from that qualitative “likely thin” line.
+
+## Live price list (from ETSY_STATE.md)
+
+Quoted from `skills/dropship/ETSY_STATE.md`:
 
 > Prices: tee $26, sweatshirt $39.99, mug $17.99, ornament $16.99.
 
 > Dog items: Pet Bandana (blueprint 562, Printed Mint 70, $18.99, print scale 0.29 at y 0.34) and Pet Tank Top (571, Printed Mint 70, $27.99, scale 0.9 at y 0.35).
 
-From `skills/dropship/ETSY_LISTINGS.md` on the same branch:
+Wall art at `$59.99` appears only in `skills/dropship/ETSY_LISTINGS.md` and has no Printify id in ETSY_STATE.md, so it is backlog, not on the live list. ETSY_LISTINGS.md still lists mug `$18.00` and ornament `$21.99`; those are not used as live prices in this memo.
 
-> Titles are under Etsy's 140-character limit. Each listing has 13 tags, none longer than 20 characters. Tee and mug prices match the reference shop; check Printify's cost plus shipping before publishing, because $26.00 leaves a thin margin if shipping is free.
+## Max allowed cost plus shipping at each live price
 
-Individual listing prices in that file are written as **Price:** `$26.00` (tees), `$18.00` (mugs), `$21.99` (ornaments), and `$59.99` (wall art).
+Computed as 45% of the live price. Exact values are shown (not rounded away). Compare each cap to an actual Printify cost-plus-shipping figure only if one is in the source files.
 
-From `skills/dropship/ADS_READY.md` on the same branch, in the ad-text section:
+| Product | Live price (ETSY_STATE.md) | Max cost + shipping (45% of price) | Printify cost + shipping in sources | Result |
+|---|---|---|---|---|
+| Tee | $26.00 | $11.70 | Not found | **Printify cost needed** |
+| Sweatshirt | $39.99 | $17.9955 | Not found | **Printify cost needed** |
+| Mug | $17.99 | $8.0955 | Not found | **Printify cost needed** |
+| Ornament | $16.99 | $7.6455 | Not found | **Printify cost needed** (this is the pending margin check) |
+| Pet bandana | $18.99 | $8.5455 | Not found | **Printify cost needed** |
+| Pet tank top | $27.99 | $12.5955 | Not found | **Printify cost needed** |
+| Santa Paws hero bundle (tee + bandana + ornament) | $61.98 | $27.891 | Not found (no item costs, and no bundle cost) | **Printify cost needed** |
 
-> 2. "The doodle mom gift, sorted. Six designs, from $21.99."
+No margin pass or fail can be scored. There is no Printify unit cost, no shipping cost, and no cost-plus-shipping total for any of these product types in ETSY_STATE.md, ETSY_LISTINGS.md, ADS_READY.md, ORDER_RUNBOOK.md, BRIEF.md, HANDOFF.md, or the Side-hustles TASKS.md / holiday marketing plan. Qualitative warnings exist and are quoted below; they are not costs.
 
-That ad plan is written for the Shopify FurEver Faces store as described in the same file (“Four products: Doodle Tee, Doodle Mug, Doodle Christmas Ornament, Doodle Wall Art”).
+Related source lines, still not costs:
 
-## Conflicts
+- ETSY_LISTINGS.md: “Tee and mug prices match the reference shop; check Printify's cost plus shipping before publishing, because $26.00 leaves a thin margin if shipping is free.”
+- Holiday marketing plan on Side-hustles main: “recalculate margin against Printify cost + Etsy fees + shipping.” No numbers are given.
+- BRIEF.md, quoted above, calls the $21.99 ornament and $19.99 socks “likely thin once shipping is paid.” That ornament price is not the live $16.99 figure, and a lower retail price makes the 45% cap tighter ($7.6455 at $16.99 vs $9.8955 at $21.99), so the pending check matters more, not less. Still not a measured cost.
 
-1. **Ornament — the material conflict.** `$16.99` in ETSY_STATE.md vs `$21.99` in ETSY_LISTINGS.md. Difference: $5.00. TASKS.md already blocks publishing ornament copy until Moondog88 picks one price and it is checked against actual Printify cost plus shipping. Use that one price on every Santa Paws / Snow Day / Mom / Dad ornament listing (and on any ornament drafts that are later created).
+## The $61.98 hero bundle
 
-2. **Mug — a one-cent conflict.** `$17.99` in ETSY_STATE.md vs `$18.00` in ETSY_LISTINGS.md. Small, but it should still be one number on every mug listing.
+$61.98 is the sum of the live list prices: $26 + $18.99 + $16.99. That addition is already written in TASKS.md and in `etsy-shop/ads/holiday-marketing-plan.md` on Side-hustles main (“Tee + bandana + ornament | $26 + $18.99 + $16.99 = **$61.98**”). No bundle discount is in the files. The holiday plan also says: “Any bundle SKU or bundle discount (none documented).”
 
-3. **Wall art** is priced only in ETSY_LISTINGS.md (`$59.99`). There is no wall-art price and no Printify product id in ETSY_STATE.md.
+Against the 45% rule, supplier cost plus shipping for the three items together must be ≤ **$27.891**. Because no Printify costs or shipping figures are in the sources, the bundle is also **Printify cost needed**. It cannot be marked as passing or failing the rule.
 
-4. **Sweatshirt, pet bandana, and pet tank** are priced only in ETSY_STATE.md (`$39.99`, `$18.99`, `$27.99`). They do not appear in ETSY_LISTINGS.md.
+The listing copy in `01-christmas-push.md` is a bundle-copy draft only. Fulfillment is not documented: there is no Printify bundle product and no Etsy bundle listing id in the source files. If it were offered, it would have to ship as the three existing Santa Paws Printify products (tee, pet bandana, ornament) on one customer order, or an equivalent shop-side workflow. The $49 free-shipping threshold mentioned with this bundle in TASKS.md and the holiday plan is marked **[CONFIRM]** and is not treated as a live policy here.
 
-## Recommended consistent list (do not treat as a live change)
+## Does “from $16.99” hold against the live list?
 
-Until Moondog88 decides otherwise, the cleanest single list, taken only from those source lines, is:
+Yes, against the ETSY_STATE.md live list used in this round. The lowest live price is the ornament at **$16.99**. The next live prices are the mug at $17.99 and the pet bandana at $18.99, then the tee at $26.00. Wall art at $59.99 is not on that live list. The older ad line in ADS_READY.md (“Six designs, from $21.99.”) does not hold against this live list and should not be reused.
 
-| Product | Recommended display price | Source |
-|---|---|---|
-| Tee | $26.00 | Both files agree (`$26` / `$26.00`) |
-| Sweatshirt | $39.99 | ETSY_STATE.md only |
-| Mug | $17.99 or $18.00 — pick one | Conflict; see above |
-| Ornament | $16.99 or $21.99 — pick one | Conflict; see above. Do not publish until decided. |
-| Pet bandana | $18.99 | ETSY_STATE.md only |
-| Pet tank top | $27.99 | ETSY_STATE.md only |
-| Wall art | $59.99 | ETSY_LISTINGS.md only; confirm the product actually exists |
+This is a copy recommendation only. No ad account was changed.
 
-Recommendation on the two conflicts, still not a change: treat ETSY_STATE.md as the later operational price list (it is the Nov 14 state file after the listings were drafted, and it is the only file that prices every Printify product type). That would mean mug **$17.99** and ornament **$16.99**, if cost-plus-shipping supports them. Confirm cost before locking either one. The listings file’s warning about a thin tee margin if shipping is free still applies to the $26.00 tee.
+## Printables (for reference; not in the 45% merch rule)
 
-## Does the “from $21.99” ad claim hold?
+The 45% rule in BRIEF.md is about supplier cost plus shipping on physical print-on-demand items. The six finished printables are digital downloads. Their source prices, unchanged, are: Christmas word search $3.99; Christmas bingo $3.49; Christmas would-you-rather $2.99; large-print seniors word search $4.99; Thanksgiving bingo $3.49; Thanksgiving word search $3.49. Those figures are from each product's `listing.md` / `listing.json` on `claude/youtube-monetization-strategy-m9vz6i`. The Christmas word search $3.99 is also in `skills/etsy-factory/research/demand.md`, as quoted in the notebook rewrite.
 
-No. Against the prices in the source files, $21.99 is not the lowest price.
+## Conflicts with DECISIONS.md / TASKS.md
 
-- If ETSY_STATE.md is used, the lowest listed prices are the ornament at **$16.99** and the mug at **$17.99**. The pet bandana at **$18.99** is also under $21.99.
-- If ETSY_LISTINGS.md is used, the mug at **$18.00** is still under $21.99, even if the ornament stays at $21.99.
-- The ADS_READY.md line is written as Shopify ad text for “six designs, from $21.99.” Even on a four-product Shopify set of tee / mug / ornament / wall art, the mug prices in the files ($17.99 or $18.00) sit below $21.99.
+`DECISIONS.md` is not at the root of `mooneyn60-art/Side-hustles` main. A read of that path returned 404: “Not Found No file at DECISIONS.md. Entries in the repository root: README.md, TASKS.md, channels/, creative/, etsy-shop/, listings/.” Open decisions live in TASKS.md under “Decisions awaiting Moondog88 (block publishing until answered).”
 
-Do not keep “from $21.99” in ads unless the live catalog is changed so that $21.99 is actually the lowest price. A truthful “from” line would use whichever lowest price Moondog88 locks (for example “from $16.99” if the STATE ornament price is kept, or “from $17.99” / “from $18.00” if ornaments are higher and the mug is the floor). That is a copy recommendation only; no ad account was changed.
+Conflicts and tensions with this draft's working assumptions:
 
-## Open pricing questions for Moondog88
+1. **Shop name still open in TASKS.md.** Decision 1 still asks Moondog88 to choose PrintanPress vs FurEver Faces, and recommends FurEver Faces. This draft uses FurEver Faces as a working assumption for copy only. It was not published, and the Etsy shop name in ETSY_STATE.md remains PrintanPress (shop id 38484468).
+2. **Ornament price still open in TASKS.md.** Decision 2 still says $16.99 vs $21.99, “Check actual Printify cost plus shipping, then pick one price,” and “Do not paste listing copy live until this is decided.” This draft uses $16.99 as the live-list working assumption **pending the same margin check**. Ornament listings and the bundle draft should not be pasted live until that check is done. Printify cost is still needed, so this memo does not close decision 2.
+3. **BRIEF.md vs the live list and the Dec 5 cutoff.** BRIEF.md prices the ornament at $21.99 and talks about a last safe US order date “around Dec 8-12” and a “Order by Dec 10” example. The merch listings and ADS_READY.md use Dec 5. BRIEF.md is also written for the personalized Shopify store (photo upload, memorial ornament, socks, blanket), which is a different line than the cartoon catalog in ETSY_STATE.md. The 45% rule is still the rule this assignment asked to apply.
+4. **New TASKS.md decisions that do not change these prices but are still open:** (3) Shopify “no photo upload” / ADS_READY.md vs the custom-art ORDER_RUNBOOK.md flow; (4) whether ETSY_STATE.md (shop, store, product, and Make.com ids) should leave the public repo. This memo does not resolve those.
+5. **$49 free-shipping threshold** in TASKS.md and the holiday plan is **[CONFIRM]**, not a documented live policy. Bundle copy must not claim free shipping until that is confirmed.
 
-1. Ornament: $16.99 or $21.99, after checking Printify cost plus shipping?
-2. Mug: $17.99 or $18.00?
-3. Should ads and the Shopify “from $21.99” line be updated to the true lowest locked price?
-4. Is wall art at $59.99 actually for sale (no Printify id in ETSY_STATE.md)?
+## Recommendation (still not a live change)
+
+Keep the live ETSY_STATE.md list as the consistent merch price list in draft copy: tee $26.00, sweatshirt $39.99, mug $17.99, ornament $16.99, pet bandana $18.99, pet tank $27.99. Use “from $16.99” in ads only after the ornament margin check: pull actual Printify cost plus shipping for every type (and for the three-item bundle), and confirm each is ≤ the 45% cap above. If the ornament fails that check at $16.99, do not advertise “from $16.99” and do not treat $16.99 as locked. The 20 no-id drafts, including wall art at $59.99, stay in backlog until the products exist and have costs.
