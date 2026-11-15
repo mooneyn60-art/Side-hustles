@@ -56,6 +56,13 @@ Source: [etsy-shop/listings/06-valentines.md](etsy-shop/listings/06-valentines.m
 1. **Confirm Feb 5 as the Valentine's order-by date** for physical items, using real Printify production and shipping times. Feb 5 is a working date until you confirm it.
 2. **Once Product Designer's art is ready, create the 8 Valentine products as unpublished drafts.** Aim for mid-January. Do not publish them.
 
+### Valentine printables
+
+Source: [etsy-shop/listings/07-valentine-printables.md](etsy-shop/listings/07-valentine-printables.md). Specs are in the 2026-11-15 Valentine printables line in [DECISIONS.md](DECISIONS.md). Use the same formats as the Christmas printables. Proposed prices (word search $3.99, bingo $3.49, cards $2.99) need Moondog88's okay before going live. The shop is still TBD.
+
+1. **Build these 3 Valentine printables with the etsy-factory pipeline** using those specs: a 24-puzzle word search (about 30 pages, answer key, Letter and A4 PDFs), bingo with 30 cards and 40 calling words, and "From the Dog" classroom cards (24 cards, 8 designs × 3, plus a blank-name version). Aim for drafts by Jan 5.
+2. **Keep the upload draft-only (`publish=no`).** Confirm the AI-art disclosure if any art is AI-generated.
+
 ### Christmas pins and Dec 1–5 countdown
 
 Source: [etsy-shop/ads/christmas-pins.md](etsy-shop/ads/christmas-pins.md) and [etsy-shop/ads/christmas-countdown-dec1-5.md](etsy-shop/ads/christmas-countdown-dec1-5.md). Posting anything needs Moondog88's okay.
