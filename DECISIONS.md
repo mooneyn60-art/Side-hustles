@@ -45,3 +45,5 @@ Chosen by Etsy Studio. **Approved** by Moondog88 (relayed via Jarvis, 2026-11-15
 - "From the Dog" classroom cards: 24 cards, 8 designs x 3, plus a blank-name version.
 Proposed prices: word search $3.99, bingo $3.49, cards $2.99. These are recommendations, and they need Moondog88's okay before going live.
 The shop is still TBD, pending Moondog88.
+
+2026-11-15, Valentine timeline change (Etsy Studio): the earlier mid-January plan is replaced, so the pins never link to drafts. New dates: art by Dec 18, merch and printable listing drafts ready for review Jan 4, Moondog88 approves publishing by Jan 8, and pins start Jan 10. The Valentine Etsy Ads test ($3/day x 10 days, $30 cap, Jan 25 to Feb 3, on 5 listings) is a proposal only and needs Moondog88's approval separately from the Christmas ads approval.
