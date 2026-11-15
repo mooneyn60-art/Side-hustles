@@ -8,11 +8,12 @@ This repo is the only place Etsy Studio writes. Do not change Claude's branches 
 
 ### URGENT before Nov 27 — Cyber Week cost check
 
-Source: [etsy-shop/ads/cyber-week-sale-draft.md](etsy-shop/ads/cyber-week-sale-draft.md). The sale is a draft. It is not approved, and it does not start until these costs pass and Moondog88 approves. Do not use 20% or more. See the 2026-11-15 line in [DECISIONS.md](DECISIONS.md). Also on file: [etsy-shop/ads/organic-content-2wk.md](etsy-shop/ads/organic-content-2wk.md) and [etsy-shop/ads/ads-test-tracker.md](etsy-shop/ads/ads-test-tracker.md).
+Source: [etsy-shop/ads/cyber-week-sale-draft.md](etsy-shop/ads/cyber-week-sale-draft.md). The 15% sale is **approved** (Nov 27 12:00am to Dec 1 11:59pm ET). It still does not start until the costs pass. Use no deeper discount. See the 2026-11-15 approval in [DECISIONS.md](DECISIONS.md). Also on file: [etsy-shop/ads/organic-content-2wk.md](etsy-shop/ads/organic-content-2wk.md) and [etsy-shop/ads/ads-test-tracker.md](etsy-shop/ads/ads-test-tracker.md).
 
 1. **Fill in Printify base cost and US shipping** for the tee, bandana, ornament, mug, sweatshirt, and tank. Put the figures in [etsy-shop/SCOREBOARD.md](etsy-shop/SCOREBOARD.md) or a new `etsy-shop/costs.md`. Leave a cell blank until it comes from Printify. Do not estimate.
 2. **At the 15% Cyber Week price, cost plus shipping must stay at or under:** tee $9.95, bandana $7.26, ornament $6.50, mug $6.88, sweatshirt $15.30, tank $10.71. Any product over its ceiling gets left out of the sale.
 3. **Confirm the live Etsy listing URLs and the Etsy shipping settings.** The $49 free-shipping threshold is Shopify's. Etsy's threshold is unconfirmed. Do not advertise free shipping on Etsy until the live setting is known.
+4. **Once the costs pass, schedule the approved Etsy sale** in Etsy Sales & Discounts for the qualifying listings only, and log which listings are included.
 
 ### Approved by Moondog88 (relayed via Jarvis, 2026-11-15)
 
@@ -72,7 +73,7 @@ Source: [etsy-shop/listings/08-shop-branding.md](etsy-shop/listings/08-shop-bran
 
 ### Christmas pins and Dec 1–5 countdown
 
-Source: [etsy-shop/ads/christmas-pins.md](etsy-shop/ads/christmas-pins.md) and [etsy-shop/ads/christmas-countdown-dec1-5.md](etsy-shop/ads/christmas-countdown-dec1-5.md). Posting anything needs Moondog88's okay.
+Source: [etsy-shop/ads/christmas-pins.md](etsy-shop/ads/christmas-pins.md) and [etsy-shop/ads/christmas-countdown-dec1-5.md](etsy-shop/ads/christmas-countdown-dec1-5.md). **Resolved:** Moondog88 posts all Pinterest, Facebook group, and TikTok content personally. Agents prepare the posts and never post them. Mac can be on camera. See [DECISIONS.md](DECISIONS.md).
 
 1. **After the Christmas listings are live, put each real Etsy URL into the [CONFIRM] links in `christmas-pins.md`.**
 2. **The bundle pin only goes up once a bundle listing exists.** Until then, link the 3 Santa Paws items separately.
@@ -87,6 +88,9 @@ Logged in [DECISIONS.md](DECISIONS.md). Resolved there:
 3. **$49 Shopify free shipping kept.** Otherwise $5.99. Tee + bandana alone is $44.99 and does not qualify. Bundles that clear $49: tee + bandana + ornament $61.98, tee + tank $53.99, sweatshirt + bandana $58.98. Etsy shipping is set separately and still needs Moondog88's okay before any change.
 4. **Custom photo art paused.** Ready-made cartoon merch only for Christmas. The Shopify "no photo upload" setting stays. The proof workflow stays in `ORDER_RUNBOOK.md` for later.
 5. **Etsy Ads: $3/day test, approved, not on yet.** About $30 over 10 days on five hero listings (Santa Paws ornament, Santa Paws tee, Doodle Mom tee, Doodle Dad tee, large-print Christmas word search). **Approved** by Moondog88. It starts only after those listings have their new titles and photos live. Pause physical items on Dec 5. Do not raise the budget or add listings without new approval. No Pinterest or Facebook paid spend; organic only, per the holiday marketing plan.
+6. **Cyber Week sale: approved.** 15% off selected listings, Nov 27 12:00am to Dec 1 11:59pm ET. Only products at or under the 15% cost ceilings. Any product over its ceiling stays out. Use no deeper discount. It is scheduled only after the Printify costs pass.
+7. **Mac on camera: approved.** Mac, the real cream/apricot doodle, can be featured on camera in posts and videos.
+8. **Who posts: resolved.** Moondog88 posts all Pinterest, Facebook group, and TikTok content personally. Agents prepare the posts and never post them.
 
 Still open:
 
@@ -114,7 +118,7 @@ Source-of-truth files (read only; do not edit Claude's branches):
 
 ### Holiday marketing plan (draft)
 
-[etsy-shop/ads/holiday-marketing-plan.md](etsy-shop/ads/holiday-marketing-plan.md) — promo plan through Dec 5, Pinterest, Facebook doodle groups, and corrected `ADS_READY` copy with placeholders. Nothing in it goes live without Moondog88's okay. Shopify free shipping at $49 is kept ([DECISIONS.md](DECISIONS.md)). At `ETSY_STATE.md` prices, Santa tee + dog bandana is $26 + $18.99 = $44.99 ($4.01 short). Bundles that do clear $49: tee + tank $53.99, sweatshirt + bandana $58.98, tee + bandana + ornament $61.98. The Etsy Ads $3/day test is **approved**. It starts only after the 5 hero listings have their new titles and photos live. Organic Pinterest and Facebook only; no paid spend on those channels.
+[etsy-shop/ads/holiday-marketing-plan.md](etsy-shop/ads/holiday-marketing-plan.md) — promo plan through Dec 5, Pinterest, Facebook doodle groups, and corrected `ADS_READY` copy with placeholders. Nothing in it goes live without Moondog88's okay. Shopify free shipping at $49 is kept ([DECISIONS.md](DECISIONS.md)). At `ETSY_STATE.md` prices, Santa tee + dog bandana is $26 + $18.99 = $44.99 ($4.01 short). Bundles that do clear $49: tee + tank $53.99, sweatshirt + bandana $58.98, tee + bandana + ornament $61.98. The Etsy Ads $3/day test is **approved**. It starts only after the 5 hero listings have their new titles and photos live. Organic Pinterest and Facebook only; no paid spend on those channels. **Resolved:** Moondog88 posts the Pinterest, Facebook group, and TikTok content personally. Agents prepare those posts and never post them. Mac can be on camera.
 
 ### Design direction (2026-11-15)
 
