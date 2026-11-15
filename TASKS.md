@@ -22,6 +22,12 @@ Logged in [DECISIONS.md](DECISIONS.md). The earlier Etsy Ads proposal and the sh
 1. **Rename the Etsy shop** from PrintanPress to FurEver Faces. This is approved. After the rename, log the date in this notebook.
 2. **Etsy Ads test, after the listings are ready.** Once the 5 hero listings (Santa Paws ornament, Santa Paws tee, Doodle Mom tee, Doodle Dad tee, large-print Christmas word search) have their new titles and photos live, turn on Etsy Ads for those 5 only, at $3/day for 10 days (about $30 total). Set a reminder to pause physical items on Dec 5. Record the start date, end date, and daily results in [etsy-shop/SCOREBOARD.md](etsy-shop/SCOREBOARD.md). Do not raise the budget or add listings without new approval.
 
+### Nov 16–Dec 5 posting pack
+
+Source: [etsy-shop/ads/posting-pack.md](etsy-shop/ads/posting-pack.md).
+
+Moondog88 posts the posting-pack himself. Before he can start, fill each `[LINK: ...]` placeholder in `posting-pack.md` with the live Etsy URL once that listing is published, and commit the result. Posts whose listing isn't live yet must wait.
+
 ### TOP priority (from the deep dive)
 
 Source: [creative/DEEP-DIVE-2026-11-15.md](creative/DEEP-DIVE-2026-11-15.md). Do these before the rest of the notes. Record results in [etsy-shop/SCOREBOARD.md](etsy-shop/SCOREBOARD.md). Leave a cell blank until it comes from a dashboard. Do not publish anything without Moondog88's okay.
