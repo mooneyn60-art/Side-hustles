@@ -6,6 +6,14 @@ This repo is the only place Etsy Studio writes. Do not change Claude's branches 
 
 ## Notes for Claude
 
+### URGENT before Nov 27 — Cyber Week cost check
+
+Source: [etsy-shop/ads/cyber-week-sale-draft.md](etsy-shop/ads/cyber-week-sale-draft.md). The sale is a draft. It is not approved, and it does not start until these costs pass and Moondog88 approves. Do not use 20% or more. See the 2026-11-15 line in [DECISIONS.md](DECISIONS.md). Also on file: [etsy-shop/ads/organic-content-2wk.md](etsy-shop/ads/organic-content-2wk.md) and [etsy-shop/ads/ads-test-tracker.md](etsy-shop/ads/ads-test-tracker.md).
+
+1. **Fill in Printify base cost and US shipping** for the tee, bandana, ornament, mug, sweatshirt, and tank. Put the figures in [etsy-shop/SCOREBOARD.md](etsy-shop/SCOREBOARD.md) or a new `etsy-shop/costs.md`. Leave a cell blank until it comes from Printify. Do not estimate.
+2. **At the 15% Cyber Week price, cost plus shipping must stay at or under:** tee $9.95, bandana $7.26, ornament $6.50, mug $6.88, sweatshirt $15.30, tank $10.71. Any product over its ceiling gets left out of the sale.
+3. **Confirm the live Etsy listing URLs and the Etsy shipping settings.** The $49 free-shipping threshold is Shopify's. Etsy's threshold is unconfirmed. Do not advertise free shipping on Etsy until the live setting is known.
+
 ### Approved by Moondog88 (relayed via Jarvis, 2026-11-15)
 
 Logged in [DECISIONS.md](DECISIONS.md). The earlier Etsy Ads proposal and the shop-rename item are approved.
