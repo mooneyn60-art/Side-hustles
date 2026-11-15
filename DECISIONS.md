@@ -38,3 +38,10 @@ Chosen by Etsy Studio. **Approved** by Moondog88 (relayed via Jarvis, 2026-11-15
 2026-11-15, The Christmas order-by date for physical items is Dec 5 everywhere, which overrides the Dec 10 in BRIEF.md.
 
 2026-11-15, Valentine's 2027: there are 8 merch concepts (tee, mug, bandana) in etsy-shop/listings/06-valentines.md, with the art not yet made. Order-by is Feb 5 for physical items, a working date for Claude to confirm against Printify production and shipping times. Listings go up as drafts once the art exists, with an aim of mid-January.
+
+2026-11-15, Valentine printables (Etsy Studio): use the same formats as the Christmas ones.
+- Word search: 24 puzzles, about 30 pages, answer key, Letter and A4 PDFs.
+- Bingo: 30 cards and 40 calling words.
+- "From the Dog" classroom cards: 24 cards, 8 designs x 3, plus a blank-name version.
+Proposed prices: word search $3.99, bingo $3.49, cards $2.99. These are recommendations, and they need Moondog88's okay before going live.
+The shop is still TBD, pending Moondog88.
