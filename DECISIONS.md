@@ -3,7 +3,7 @@
 ## 2026-11-15
 
 ### 1. Customer-facing shop name: FurEver Faces
-Decided by Moondog88. Use "FurEver Faces" on every customer-facing surface: listing copy, images, covers, ads and Shopify. Keep "For people owned by a doodle" as the hero line, and use "The Doodle Shop" as a secondary tag only. Renaming the Etsy shop from PrintanPress is a live change, so it waits for Moondog88's okay before Claude does it.
+Decided by Moondog88. Use "FurEver Faces" on every customer-facing surface: listing copy, images, covers, ads and Shopify. Keep "For people owned by a doodle" as the hero line, and use "The Doodle Shop" as a secondary tag only. Renaming the Etsy shop from PrintanPress to FurEver Faces is **approved** by Moondog88 (relayed via Jarvis, 2026-11-15). Claude does the rename and logs the date.
 
 ### 2. Live price list: ETSY_STATE.md is the source of truth
 Chosen by Etsy Studio. ETSY_STATE.md (skills/dropship, branch claude/blissful-allen-waez05) is the state file that matches the Printify products that actually exist. ETSY_LISTINGS.md and ADS_READY.md are copy templates. The reference prices are tee $26, sweatshirt $39.99, mug $17.99, ornament $16.99, bandana $18.99 and tank $27.99.
@@ -20,11 +20,13 @@ Chosen by Etsy Studio. The shop stays on ready-made cartoon merch and the Shopif
 - Remove or soften custom-art promises in the Shopify policies so they match. The proof-first workflow stays in ORDER_RUNBOOK for later.
 - Relaunch plan: once Claude passes one full end-to-end test (photo in, proof sent, Printify order placed), launch the personalized Rookie Card and "The Good Boy" tarot as a separate "Your dog, your art" collection. Lead with the digital PDF version after Dec 5, then the printed versions for Valentine's.
 
-### 5. Etsy Ads: small capped test, not on yet
-Chosen by Etsy Studio. This needs Moondog88's okay before anything turns on.
-- Proposed: $3/day (about $30 over 10 days) on 5 hero listings only: Santa Paws ornament, Santa Paws tee, Doodle Mom tee, Doodle Dad tee and the large-print Christmas word search.
-- Start only after those listings have the new titles and tags and real-photo thumbnails, since ads on weak listings waste money.
+### 5. Etsy Ads: small capped test, approved, not on yet
+Chosen by Etsy Studio. **Approved** by Moondog88 (relayed via Jarvis, 2026-11-15). Nothing is on until the five hero listings have their new titles and photos live, and nothing beyond this budget or scope.
+- Approved: $3/day for 10 days (about $30 total) on 5 hero listings only: Santa Paws ornament, Santa Paws tee, Doodle Mom tee, Doodle Dad tee and the large-print Christmas word search.
+- Start only after those listings have their new titles and photos live.
 - Review after 7-10 days on views, clicks, orders and spend per order. Pause physical items at the Dec 5 cutoff, and keep the printable running through Christmas.
 - No Pinterest or Facebook paid spend for now. Organic only, per etsy-shop/ads/holiday-marketing-plan.md.
 
 2026-11-15, Mug price: $17.99 per ETSY_STATE.md, not $18.00. The 20 ETSY_LISTINGS drafts with no Printify ID (9 mugs, 5 ornaments, 6 wall art) are backlog and won't be created before Christmas; we focus on existing products.
+
+2026-11-15, Approved by Moondog88 (relayed via Jarvis): (a) Etsy Ads test at $3/day for 10 days (about $30 total) on the 5 hero listings. It starts only after their new titles and photos are live. Pause physical items at the Dec 5 shipping cutoff. Nothing beyond this budget or scope. (b) Rename the Etsy shop from PrintanPress to FurEver Faces.
