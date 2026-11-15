@@ -1,5 +1,7 @@
 # Christmas push listings
 
+> **Etsy Studio audit cleanup, 2026-11-15:** internal notes removed from customer-facing descriptions (13 edited). Titles, tags, price notes unchanged. Material/size/care for sweatshirts, bandanas and tanks still come from Printify specs (Claude).
+
 Ready-to-paste rewrites for the short Christmas list, plus one bundle-copy draft. Written Nov 15, 2026 (America/New_York) by Etsy Studio; updated the same day in round 2. GitHub was not edited. Draft copy only; nothing was published or priced.
 
 **Shop:** FurEver Faces. Resolved. See DECISIONS.md.
@@ -65,7 +67,7 @@ dog lover shirt
 
 ## Description
 
-He's on the nice list. Pending. A cartoon doodle in a Santa hat with wrapped gifts, with the words "Santa Paws" and "Nice list (pending)." On a unisex Bella + Canvas cotton tee, sizes S to 2XL, printed to order in the USA. For goldendoodle, labradoodle, and bernedoodle people. From FurEver Faces. A matching pet bandana and pet tank exist for this design; link the listings to each other. Order by Dec 5 for Christmas delivery. Artwork created with AI tools.
+He's on the nice list. Pending. A cartoon doodle in a Santa hat with wrapped gifts, with the words "Santa Paws" and "Nice list (pending)." On a unisex Bella + Canvas cotton tee, sizes S to 2XL, printed to order in the USA. For goldendoodle, labradoodle, and bernedoodle people. From FurEver Faces. A matching pet bandana and pet tank are in the shop, so the dog can match too. Order by Dec 5 for Christmas delivery. Artwork created with AI tools.
 
 ## Price note
 
@@ -212,7 +214,7 @@ matching dog set
 
 ## Description
 
-He's on the nice list. Pending. A FurEver Faces holiday set with the matching Santa Paws cartoon: the unisex Bella + Canvas cotton tee (sizes S to 2XL, printed to order in the USA), the pet bandana, and the round ceramic ornament with ribbon (printed to order in the USA). Bandana material, sizes, and care are not stated in the source files. For goldendoodle, labradoodle, and bernedoodle people. Order by Dec 5 for Christmas delivery. Artwork created with AI tools.
+He's on the nice list. Pending. A FurEver Faces holiday set with the matching Santa Paws cartoon: the unisex Bella + Canvas cotton tee (sizes S to 2XL, printed to order in the USA), the pet bandana, and the round ceramic ornament with ribbon (printed to order in the USA). For goldendoodle, labradoodle, and bernedoodle people. Order by Dec 5 for Christmas delivery. Artwork created with AI tools.
 
 ## Price note
 
@@ -362,7 +364,7 @@ cozy dog gift
 
 ## Description
 
-Snow Day. Zoomies incoming. A cartoon doodle in a beanie and scarf, with the words "Snow Day" and "Zoomies incoming." On a sweatshirt. ETSY_STATE.md lists print provider Monster Digital, blueprint 49, priced at $39.99. Material, size range, and “printed in the USA” are not stated for sweatshirts in the source files. For goldendoodle, labradoodle, and bernedoodle people. From FurEver Faces. Order by Dec 5 for Christmas delivery. Artwork created with AI tools.
+Snow Day. Zoomies incoming. A cartoon doodle in a beanie and scarf, with the words "Snow Day" and "Zoomies incoming." On a sweatshirt, printed to order. For goldendoodle, labradoodle, and bernedoodle people. From FurEver Faces. Order by Dec 5 for Christmas delivery. Artwork created with AI tools.
 
 ## Price note
 
@@ -412,7 +414,7 @@ doodle tree gift
 
 ## Description
 
-Snow Day. Zoomies incoming. A cartoon doodle in a beanie and scarf, with the words "Snow Day" and "Zoomies incoming." Round ceramic ornament with ribbon, printed to order in the USA. (Ceramic, ribbon, and USA wording is from the first-batch ornament listings in ETSY_LISTINGS.md; ETSY_STATE.md uses the same ornament blueprint 537 / Duplium.) For goldendoodle, labradoodle, and bernedoodle people. From FurEver Faces. Order by Dec 5 for Christmas delivery. Artwork created with AI tools.
+Snow Day. Zoomies incoming. A cartoon doodle in a beanie and scarf, with the words "Snow Day" and "Zoomies incoming." Round ceramic ornament with ribbon, printed to order in the USA. For goldendoodle, labradoodle, and bernedoodle people. From FurEver Faces. Order by Dec 5 for Christmas delivery. Artwork created with AI tools.
 
 ## Price note
 
@@ -510,7 +512,7 @@ dog dad humor
 
 ## Description
 
-Doodle Dad. Chief treat officer. A cartoon doodle in a baseball cap, with the words "Doodle Dad" and "Chief treat officer." On a unisex Bella + Canvas cotton tee, sizes S to 2XL, printed to order in the USA. For goldendoodle, labradoodle, and bernedoodle dads. From FurEver Faces. A matching pet bandana and pet tank exist for this design; link the listings to each other. Order by Dec 5 for Christmas delivery. Artwork created with AI tools.
+Doodle Dad. Chief treat officer. A cartoon doodle in a baseball cap, with the words "Doodle Dad" and "Chief treat officer." On a unisex Bella + Canvas cotton tee, sizes S to 2XL, printed to order in the USA. For goldendoodle, labradoodle, and bernedoodle dads. From FurEver Faces. A matching pet bandana and pet tank are in the shop, so the dog can match too. Order by Dec 5 for Christmas delivery. Artwork created with AI tools.
 
 ## Price note
 
@@ -608,7 +610,7 @@ dog dad pullover
 
 ## Description
 
-Doodle Dad. Chief treat officer. A cartoon doodle in a baseball cap, with the words "Doodle Dad" and "Chief treat officer." On a sweatshirt. ETSY_STATE.md lists print provider Monster Digital, blueprint 49, priced at $39.99. Material, size range, and “printed in the USA” are not stated for sweatshirts in the source files. For goldendoodle, labradoodle, and bernedoodle dads. From FurEver Faces. Order by Dec 5 for Christmas delivery. Artwork created with AI tools.
+Doodle Dad. Chief treat officer. A cartoon doodle in a baseball cap, with the words "Doodle Dad" and "Chief treat officer." On a sweatshirt, printed to order. For goldendoodle, labradoodle, and bernedoodle dads. From FurEver Faces. Order by Dec 5 for Christmas delivery. Artwork created with AI tools.
 
 ## Price note
 
@@ -658,7 +660,7 @@ tree decor dad
 
 ## Description
 
-Doodle Dad. Chief treat officer. A cartoon doodle in a baseball cap, with the words "Doodle Dad" and "Chief treat officer." Round ceramic ornament with ribbon, printed to order in the USA. (Ceramic, ribbon, and USA wording is from the first-batch ornament listings in ETSY_LISTINGS.md; ETSY_STATE.md uses the same ornament blueprint 537 / Duplium.) For goldendoodle, labradoodle, and bernedoodle dads. From FurEver Faces. Order by Dec 5 for Christmas delivery. Artwork created with AI tools.
+Doodle Dad. Chief treat officer. A cartoon doodle in a baseball cap, with the words "Doodle Dad" and "Chief treat officer." Round ceramic ornament with ribbon, printed to order in the USA. For goldendoodle, labradoodle, and bernedoodle dads. From FurEver Faces. Order by Dec 5 for Christmas delivery. Artwork created with AI tools.
 
 ## Price note
 
@@ -707,7 +709,7 @@ christmas pet bib
 
 ## Description
 
-He's on the nice list. Pending. A cartoon doodle in a Santa hat with wrapped gifts, with the words "Santa Paws" and "Nice list (pending)." A Pet Bandana (Printify blueprint 562, Printed Mint). ETSY_STATE.md does not state material, sizes, or care, and does not say it is printed in the USA. For goldendoodle, labradoodle, and bernedoodle people. From FurEver Faces. ETSY_STATE.md says each dog listing should link to its human tee and back. Order by Dec 5 for Christmas delivery. Artwork created with AI tools.
+He's on the nice list. Pending. A cartoon doodle in a Santa hat with wrapped gifts, with the words "Santa Paws" and "Nice list (pending)." On a pet bandana, printed to order. For goldendoodle, labradoodle, and bernedoodle people. From FurEver Faces. A matching tee for the humans is in the shop. Order by Dec 5 for Christmas delivery. Artwork created with AI tools.
 
 ## Price note
 
@@ -757,7 +759,7 @@ christmas pet tee
 
 ## Description
 
-He's on the nice list. Pending. A cartoon doodle in a Santa hat with wrapped gifts, with the words "Santa Paws" and "Nice list (pending)." A Pet Tank Top (Printify blueprint 571, Printed Mint). ETSY_STATE.md does not state material, sizes, or care, and does not say it is printed in the USA. For goldendoodle, labradoodle, and bernedoodle people. From FurEver Faces. ETSY_STATE.md says each dog listing should link to its human tee and back. Order by Dec 5 for Christmas delivery. Artwork created with AI tools.
+He's on the nice list. Pending. A cartoon doodle in a Santa hat with wrapped gifts, with the words "Santa Paws" and "Nice list (pending)." On a pet tank top, printed to order. For goldendoodle, labradoodle, and bernedoodle people. From FurEver Faces. A matching tee for the humans is in the shop. Order by Dec 5 for Christmas delivery. Artwork created with AI tools.
 
 ## Price note
 
@@ -807,7 +809,7 @@ chaos dog scarf
 
 ## Description
 
-Curls, cuddles, and chaos. That is the job. A cartoon doodle in a pink bandana, with the words "Doodle Mom" and "Curls, cuddles & chaos." A Pet Bandana (Printify blueprint 562, Printed Mint). ETSY_STATE.md does not state material, sizes, or care, and does not say it is printed in the USA. For goldendoodle, labradoodle, and bernedoodle moms. From FurEver Faces. ETSY_STATE.md says each dog listing should link to its human tee and back. Order by Dec 5 for Christmas delivery. Artwork created with AI tools.
+Curls, cuddles, and chaos. That is the job. A cartoon doodle in a pink bandana, with the words "Doodle Mom" and "Curls, cuddles & chaos." On a pet bandana, printed to order. For goldendoodle, labradoodle, and bernedoodle moms. From FurEver Faces. A matching tee for the humans is in the shop. Order by Dec 5 for Christmas delivery. Artwork created with AI tools.
 
 ## Price note
 
@@ -857,7 +859,7 @@ chaos dog shirt
 
 ## Description
 
-Curls, cuddles, and chaos. That is the job. A cartoon doodle in a pink bandana, with the words "Doodle Mom" and "Curls, cuddles & chaos." A Pet Tank Top (Printify blueprint 571, Printed Mint). ETSY_STATE.md does not state material, sizes, or care, and does not say it is printed in the USA. For goldendoodle, labradoodle, and bernedoodle moms. From FurEver Faces. ETSY_STATE.md says each dog listing should link to its human tee and back. Order by Dec 5 for Christmas delivery. Artwork created with AI tools.
+Curls, cuddles, and chaos. That is the job. A cartoon doodle in a pink bandana, with the words "Doodle Mom" and "Curls, cuddles & chaos." On a pet tank top, printed to order. For goldendoodle, labradoodle, and bernedoodle moms. From FurEver Faces. A matching tee for the humans is in the shop. Order by Dec 5 for Christmas delivery. Artwork created with AI tools.
 
 ## Price note
 
@@ -907,7 +909,7 @@ dad dog scarf
 
 ## Description
 
-Doodle Dad. Chief treat officer. A cartoon doodle in a baseball cap, with the words "Doodle Dad" and "Chief treat officer." A Pet Bandana (Printify blueprint 562, Printed Mint). ETSY_STATE.md does not state material, sizes, or care, and does not say it is printed in the USA. For goldendoodle, labradoodle, and bernedoodle dads. From FurEver Faces. ETSY_STATE.md says each dog listing should link to its human tee and back. Order by Dec 5 for Christmas delivery. Artwork created with AI tools.
+Doodle Dad. Chief treat officer. A cartoon doodle in a baseball cap, with the words "Doodle Dad" and "Chief treat officer." On a pet bandana, printed to order. For goldendoodle, labradoodle, and bernedoodle dads. From FurEver Faces. A matching tee for the humans is in the shop. Order by Dec 5 for Christmas delivery. Artwork created with AI tools.
 
 ## Price note
 
@@ -957,7 +959,7 @@ dad dog shirt
 
 ## Description
 
-Doodle Dad. Chief treat officer. A cartoon doodle in a baseball cap, with the words "Doodle Dad" and "Chief treat officer." A Pet Tank Top (Printify blueprint 571, Printed Mint). ETSY_STATE.md does not state material, sizes, or care, and does not say it is printed in the USA. For goldendoodle, labradoodle, and bernedoodle dads. From FurEver Faces. ETSY_STATE.md says each dog listing should link to its human tee and back. Order by Dec 5 for Christmas delivery. Artwork created with AI tools.
+Doodle Dad. Chief treat officer. A cartoon doodle in a baseball cap, with the words "Doodle Dad" and "Chief treat officer." On a pet tank top, printed to order. For goldendoodle, labradoodle, and bernedoodle dads. From FurEver Faces. A matching tee for the humans is in the shop. Order by Dec 5 for Christmas delivery. Artwork created with AI tools.
 
 ## Price note
 

@@ -1,5 +1,7 @@
 # Catalog listings (the rest of the live dog shop)
 
+> **Etsy Studio audit cleanup, 2026-11-15:** internal notes removed from customer-facing descriptions (34 edited). Titles, tags, price notes unchanged. Material/size/care for sweatshirts, bandanas and tanks still come from Printify specs (Claude).
+
 Ready-to-paste rewrites for the rest of the FurEver Faces dog catalog that has a Printify product id in `skills/dropship/ETSY_STATE.md`: remaining tees (including the 12 typo-checked funny tees), remaining sweatshirts, remaining mugs, remaining ornaments, and remaining pet bandanas and tanks. Written Nov 15, 2026 (America/New_York) by Etsy Studio; updated the same day in round 2. GitHub was not edited. Draft copy only.
 
 The Santa Paws ornament and Doodle Mom tee are now in `01-christmas-push.md`. The 20 ETSY_LISTINGS.md drafts with no Printify id (extra mugs and ornaments, and all wall art) are in `05-backlog.md`.
@@ -148,7 +150,7 @@ dog mom pullover
 
 ## Description
 
-Curls, cuddles, and chaos. That is the job. A cartoon doodle in a pink bandana, with the words "Doodle Mom" and "Curls, cuddles & chaos." On a sweatshirt. ETSY_STATE.md lists print provider Monster Digital, blueprint 49, priced at $39.99. Material, size range, and “printed in the USA” are not stated for sweatshirts in the source files. For goldendoodle, labradoodle, and bernedoodle moms. From FurEver Faces. Order by Dec 5 for Christmas delivery. Artwork created with AI tools.
+Curls, cuddles, and chaos. That is the job. A cartoon doodle in a pink bandana, with the words "Doodle Mom" and "Curls, cuddles & chaos." On a sweatshirt, printed to order. For goldendoodle, labradoodle, and bernedoodle moms. From FurEver Faces. Order by Dec 5 for Christmas delivery. Artwork created with AI tools.
 
 ## Price note
 
@@ -198,7 +200,7 @@ chaos tree decor
 
 ## Description
 
-Curls, cuddles, and chaos. That is the job. A cartoon doodle in a pink bandana, with the words "Doodle Mom" and "Curls, cuddles & chaos." Round ceramic ornament with ribbon, printed to order in the USA. (Ceramic, ribbon, and USA wording is from the first-batch ornament listings in ETSY_LISTINGS.md; ETSY_STATE.md uses the same ornament blueprint 537 / Duplium.) For goldendoodle, labradoodle, and bernedoodle moms. From FurEver Faces. Order by Dec 5 for Christmas delivery. Artwork created with AI tools.
+Curls, cuddles, and chaos. That is the job. A cartoon doodle in a pink bandana, with the words "Doodle Mom" and "Curls, cuddles & chaos." Round ceramic ornament with ribbon, printed to order in the USA. For goldendoodle, labradoodle, and bernedoodle moms. From FurEver Faces. Order by Dec 5 for Christmas delivery. Artwork created with AI tools.
 
 ## Price note
 
@@ -492,7 +494,7 @@ couch king top
 
 ## Description
 
-His Majesty: ruler of the couch. A cartoon doodle in a gold crown and red royal cape, with the words "His Majesty" and "Ruler of the couch." On a sweatshirt. ETSY_STATE.md lists print provider Monster Digital, blueprint 49, priced at $39.99. Material, size range, and “printed in the USA” are not stated for sweatshirts in the source files. For goldendoodle, labradoodle, and bernedoodle people. From FurEver Faces. Order by Dec 5 for Christmas delivery. Artwork created with AI tools.
+His Majesty: ruler of the couch. A cartoon doodle in a gold crown and red royal cape, with the words "His Majesty" and "Ruler of the couch." On a sweatshirt, printed to order. For goldendoodle, labradoodle, and bernedoodle people. From FurEver Faces. Order by Dec 5 for Christmas delivery. Artwork created with AI tools.
 
 ## Price note
 
@@ -542,7 +544,7 @@ holiday cozy dog
 
 ## Description
 
-He's on the nice list. Pending. A cartoon doodle in a Santa hat with wrapped gifts, with the words "Santa Paws" and "Nice list (pending)." On a sweatshirt. ETSY_STATE.md lists print provider Monster Digital, blueprint 49, priced at $39.99. Material, size range, and “printed in the USA” are not stated for sweatshirts in the source files. For goldendoodle, labradoodle, and bernedoodle people. From FurEver Faces. Order by Dec 5 for Christmas delivery. Artwork created with AI tools.
+He's on the nice list. Pending. A cartoon doodle in a Santa hat with wrapped gifts, with the words "Santa Paws" and "Nice list (pending)." On a sweatshirt, printed to order. For goldendoodle, labradoodle, and bernedoodle people. From FurEver Faces. Order by Dec 5 for Christmas delivery. Artwork created with AI tools.
 
 ## Price note
 
@@ -739,7 +741,7 @@ floor snack gift
 
 ## Description
 
-Head Chef. Specialty: floor snacks. A cartoon doodle in a chef hat, with the words "Head Chef" and "Specialty: floor snacks." On a sweatshirt. ETSY_STATE.md lists print provider Monster Digital, blueprint 49, priced at $39.99. Material, size range, and “printed in the USA” are not stated for sweatshirts in the source files. For goldendoodle, labradoodle, and bernedoodle people. From FurEver Faces. Order by Dec 5 for Christmas delivery. Artwork created with AI tools.
+Head Chef. Specialty: floor snacks. A cartoon doodle in a chef hat, with the words "Head Chef" and "Specialty: floor snacks." On a sweatshirt, printed to order. For goldendoodle, labradoodle, and bernedoodle people. From FurEver Faces. Order by Dec 5 for Christmas delivery. Artwork created with AI tools.
 
 ## Price note
 
@@ -887,7 +889,7 @@ java dog top
 
 ## Description
 
-Doodle Fuel. But first, coffee. A cartoon doodle in glasses beside a coffee cup, with the words "Doodle Fuel" and "But first, coffee." On a sweatshirt. ETSY_STATE.md lists print provider Monster Digital, blueprint 49, priced at $39.99. Material, size range, and “printed in the USA” are not stated for sweatshirts in the source files. For goldendoodle, labradoodle, and bernedoodle people. From FurEver Faces. Order by Dec 5 for Christmas delivery. Artwork created with AI tools.
+Doodle Fuel. But first, coffee. A cartoon doodle in glasses beside a coffee cup, with the words "Doodle Fuel" and "But first, coffee." On a sweatshirt, printed to order. For goldendoodle, labradoodle, and bernedoodle people. From FurEver Faces. Order by Dec 5 for Christmas delivery. Artwork created with AI tools.
 
 ## Price note
 
@@ -1280,7 +1282,7 @@ mom era cozy
 
 ## Description
 
-Doodle Mom Era. This one is permanent. A cartoon of a sitting doodle puppy, with the words "Doodle Mom Era" and "This one is permanent." On a sweatshirt. ETSY_STATE.md lists print provider Monster Digital, blueprint 49, priced at $39.99. Material, size range, and “printed in the USA” are not stated for sweatshirts in the source files. For goldendoodle, labradoodle, and bernedoodle moms. From FurEver Faces. Order by Dec 5 for Christmas delivery. Artwork created with AI tools.
+Doodle Mom Era. This one is permanent. A cartoon of a sitting doodle puppy, with the words "Doodle Mom Era" and "This one is permanent." On a sweatshirt, printed to order. For goldendoodle, labradoodle, and bernedoodle moms. From FurEver Faces. Order by Dec 5 for Christmas delivery. Artwork created with AI tools.
 
 ## Price note
 
@@ -1428,7 +1430,7 @@ dog voted cozy
 
 ## Description
 
-Best Doodle Dad. According to the dog. A cartoon of a sitting cream doodle puppy, with the words "Best Doodle Dad" and "According to the dog." On a sweatshirt. ETSY_STATE.md lists print provider Monster Digital, blueprint 49, priced at $39.99. Material, size range, and “printed in the USA” are not stated for sweatshirts in the source files. For goldendoodle, labradoodle, and bernedoodle dads. From FurEver Faces. Order by Dec 5 for Christmas delivery. Artwork created with AI tools.
+Best Doodle Dad. According to the dog. A cartoon of a sitting cream doodle puppy, with the words "Best Doodle Dad" and "According to the dog." On a sweatshirt, printed to order. For goldendoodle, labradoodle, and bernedoodle dads. From FurEver Faces. Order by Dec 5 for Christmas delivery. Artwork created with AI tools.
 
 ## Price note
 
@@ -1478,7 +1480,7 @@ our kids shirt
 
 ## Description
 
-Doodle Parents. Yes, these are our kids. A cartoon of two doodles riding in a vintage car, with the words "Doodle Parents" and "Yes, these are our kids." On a unisex Bella + Canvas cotton tee, sizes S to 2XL, printed to order in the USA. For goldendoodle, labradoodle, and bernedoodle parents. From FurEver Faces. A matching pet bandana and pet tank exist for this design; link the listings to each other. Order by Dec 5 for Christmas delivery. Artwork created with AI tools.
+Doodle Parents. Yes, these are our kids. A cartoon of two doodles riding in a vintage car, with the words "Doodle Parents" and "Yes, these are our kids." On a unisex Bella + Canvas cotton tee, sizes S to 2XL, printed to order in the USA. For goldendoodle, labradoodle, and bernedoodle parents. From FurEver Faces. A matching pet bandana and pet tank are in the shop, so the dog can match too. Order by Dec 5 for Christmas delivery. Artwork created with AI tools.
 
 ## Price note
 
@@ -1576,7 +1578,7 @@ our kids cozy
 
 ## Description
 
-Doodle Parents. Yes, these are our kids. A cartoon of two doodles riding in a vintage car, with the words "Doodle Parents" and "Yes, these are our kids." On a sweatshirt. ETSY_STATE.md lists print provider Monster Digital, blueprint 49, priced at $39.99. Material, size range, and “printed in the USA” are not stated for sweatshirts in the source files. For goldendoodle, labradoodle, and bernedoodle parents. From FurEver Faces. Order by Dec 5 for Christmas delivery. Artwork created with AI tools.
+Doodle Parents. Yes, these are our kids. A cartoon of two doodles riding in a vintage car, with the words "Doodle Parents" and "Yes, these are our kids." On a sweatshirt, printed to order. For goldendoodle, labradoodle, and bernedoodle parents. From FurEver Faces. Order by Dec 5 for Christmas delivery. Artwork created with AI tools.
 
 ## Price note
 
@@ -1626,7 +1628,7 @@ our kids scarf
 
 ## Description
 
-Doodle Parents. Yes, these are our kids. A cartoon of two doodles riding in a vintage car, with the words "Doodle Parents" and "Yes, these are our kids." A Pet Bandana (Printify blueprint 562, Printed Mint). ETSY_STATE.md does not state material, sizes, or care, and does not say it is printed in the USA. For goldendoodle, labradoodle, and bernedoodle parents. From FurEver Faces. ETSY_STATE.md says each dog listing should link to its human tee and back. Order by Dec 5 for Christmas delivery. Artwork created with AI tools.
+Doodle Parents. Yes, these are our kids. A cartoon of two doodles riding in a vintage car, with the words "Doodle Parents" and "Yes, these are our kids." On a pet bandana, printed to order. For goldendoodle, labradoodle, and bernedoodle parents. From FurEver Faces. A matching tee for the humans is in the shop. Order by Dec 5 for Christmas delivery. Artwork created with AI tools.
 
 ## Price note
 
@@ -1676,7 +1678,7 @@ family dog tank
 
 ## Description
 
-Doodle Parents. Yes, these are our kids. A cartoon of two doodles riding in a vintage car, with the words "Doodle Parents" and "Yes, these are our kids." A Pet Tank Top (Printify blueprint 571, Printed Mint). ETSY_STATE.md does not state material, sizes, or care, and does not say it is printed in the USA. For goldendoodle, labradoodle, and bernedoodle parents. From FurEver Faces. ETSY_STATE.md says each dog listing should link to its human tee and back. Order by Dec 5 for Christmas delivery. Artwork created with AI tools.
+Doodle Parents. Yes, these are our kids. A cartoon of two doodles riding in a vintage car, with the words "Doodle Parents" and "Yes, these are our kids." On a pet tank top, printed to order. For goldendoodle, labradoodle, and bernedoodle parents. From FurEver Faces. A matching tee for the humans is in the shop. Order by Dec 5 for Christmas delivery. Artwork created with AI tools.
 
 ## Price note
 
@@ -1726,7 +1728,7 @@ funny glow shirt
 
 ## Description
 
-Glow up. $120 later. Mud in 5 minutes. A cartoon doodle with a pink bow tie, lying down, with the words "Glow Up" and "$120 later. Mud in 5 minutes." On a unisex Bella + Canvas cotton tee, sizes S to 2XL, printed to order in the USA. For goldendoodle, labradoodle, and bernedoodle people. From FurEver Faces. A matching pet bandana and pet tank exist for this design; link the listings to each other. Order by Dec 5 for Christmas delivery. Artwork created with AI tools.
+Glow up. $120 later. Mud in 5 minutes. A cartoon doodle with a pink bow tie, lying down, with the words "Glow Up" and "$120 later. Mud in 5 minutes." On a unisex Bella + Canvas cotton tee, sizes S to 2XL, printed to order in the USA. For goldendoodle, labradoodle, and bernedoodle people. From FurEver Faces. A matching pet bandana and pet tank are in the shop, so the dog can match too. Order by Dec 5 for Christmas delivery. Artwork created with AI tools.
 
 ## Price note
 
@@ -1775,7 +1777,7 @@ funny glow scarf
 
 ## Description
 
-Glow up. $120 later. Mud in 5 minutes. A cartoon doodle with a pink bow tie, lying down, with the words "Glow Up" and "$120 later. Mud in 5 minutes." A Pet Bandana (Printify blueprint 562, Printed Mint). ETSY_STATE.md does not state material, sizes, or care, and does not say it is printed in the USA. For goldendoodle, labradoodle, and bernedoodle people. From FurEver Faces. ETSY_STATE.md says each dog listing should link to its human tee and back. Order by Dec 5 for Christmas delivery. Artwork created with AI tools.
+Glow up. $120 later. Mud in 5 minutes. A cartoon doodle with a pink bow tie, lying down, with the words "Glow Up" and "$120 later. Mud in 5 minutes." On a pet bandana, printed to order. For goldendoodle, labradoodle, and bernedoodle people. From FurEver Faces. A matching tee for the humans is in the shop. Order by Dec 5 for Christmas delivery. Artwork created with AI tools.
 
 ## Price note
 
@@ -1825,7 +1827,7 @@ funny glow tank
 
 ## Description
 
-Glow up. $120 later. Mud in 5 minutes. A cartoon doodle with a pink bow tie, lying down, with the words "Glow Up" and "$120 later. Mud in 5 minutes." A Pet Tank Top (Printify blueprint 571, Printed Mint). ETSY_STATE.md does not state material, sizes, or care, and does not say it is printed in the USA. For goldendoodle, labradoodle, and bernedoodle people. From FurEver Faces. ETSY_STATE.md says each dog listing should link to its human tee and back. Order by Dec 5 for Christmas delivery. Artwork created with AI tools.
+Glow up. $120 later. Mud in 5 minutes. A cartoon doodle with a pink bow tie, lying down, with the words "Glow Up" and "$120 later. Mud in 5 minutes." On a pet tank top, printed to order. For goldendoodle, labradoodle, and bernedoodle people. From FurEver Faces. A matching tee for the humans is in the shop. Order by Dec 5 for Christmas delivery. Artwork created with AI tools.
 
 ## Price note
 
@@ -1875,7 +1877,7 @@ training optional
 
 ## Description
 
-I doodle what I want. Training is a suggestion A cartoon doodle in pink sunglasses, a pink scarf, and a light blue shirt with a heart, with the words "I Doodle What I Want" and "Training is a suggestion" On a unisex Bella + Canvas cotton tee, sizes S to 2XL, printed to order in the USA. For goldendoodle, labradoodle, and bernedoodle people. From FurEver Faces. Order by Dec 5 for Christmas delivery. Artwork created with AI tools.
+I doodle what I want. Training is a suggestion. A cartoon doodle in pink sunglasses, a pink scarf, and a light blue shirt with a heart, with the words "I Doodle What I Want" and "Training is a suggestion." On a unisex Bella + Canvas cotton tee, sizes S to 2XL, printed to order in the USA. For goldendoodle, labradoodle, and bernedoodle people. From FurEver Faces. Order by Dec 5 for Christmas delivery. Artwork created with AI tools.
 
 ## Price note
 
@@ -1924,7 +1926,7 @@ cool dog shirt
 
 ## Description
 
-Too cool to come. I heard you the first time A cartoon doodle in black sunglasses, sitting, with the words "Too Cool To Come" and "I heard you the first time" On a unisex Bella + Canvas cotton tee, sizes S to 2XL, printed to order in the USA. For goldendoodle, labradoodle, and bernedoodle people. From FurEver Faces. Order by Dec 5 for Christmas delivery. Artwork created with AI tools.
+Too cool to come. I heard you the first time. A cartoon doodle in black sunglasses, sitting, with the words "Too Cool To Come" and "I heard you the first time." On a unisex Bella + Canvas cotton tee, sizes S to 2XL, printed to order in the USA. For goldendoodle, labradoodle, and bernedoodle people. From FurEver Faces. Order by Dec 5 for Christmas delivery. Artwork created with AI tools.
 
 ## Price note
 
@@ -1973,7 +1975,7 @@ space is a myth
 
 ## Description
 
-Velcro dog. Personal space is a myth A cartoon doodle holding a red heart, with the words "Velcro Dog" and "Personal space is a myth" On a unisex Bella + Canvas cotton tee, sizes S to 2XL, printed to order in the USA. For goldendoodle, labradoodle, and bernedoodle people. From FurEver Faces. A matching pet bandana and pet tank exist for this design; link the listings to each other. Order by Dec 5 for Christmas delivery. Artwork created with AI tools.
+Velcro dog. Personal space is a myth. A cartoon doodle holding a red heart, with the words "Velcro Dog" and "Personal space is a myth." On a unisex Bella + Canvas cotton tee, sizes S to 2XL, printed to order in the USA. For goldendoodle, labradoodle, and bernedoodle people. From FurEver Faces. A matching pet bandana and pet tank are in the shop, so the dog can match too. Order by Dec 5 for Christmas delivery. Artwork created with AI tools.
 
 ## Price note
 
@@ -2022,7 +2024,7 @@ space is a myth
 
 ## Description
 
-Velcro dog. Personal space is a myth A cartoon doodle holding a red heart, with the words "Velcro Dog" and "Personal space is a myth" A Pet Bandana (Printify blueprint 562, Printed Mint). ETSY_STATE.md does not state material, sizes, or care, and does not say it is printed in the USA. For goldendoodle, labradoodle, and bernedoodle people. From FurEver Faces. ETSY_STATE.md says each dog listing should link to its human tee and back. Order by Dec 5 for Christmas delivery. Artwork created with AI tools.
+Velcro dog. Personal space is a myth. A cartoon doodle holding a red heart, with the words "Velcro Dog" and "Personal space is a myth." On a pet bandana, printed to order. For goldendoodle, labradoodle, and bernedoodle people. From FurEver Faces. A matching tee for the humans is in the shop. Order by Dec 5 for Christmas delivery. Artwork created with AI tools.
 
 ## Price note
 
@@ -2072,7 +2074,7 @@ space is a myth
 
 ## Description
 
-Velcro dog. Personal space is a myth A cartoon doodle holding a red heart, with the words "Velcro Dog" and "Personal space is a myth" A Pet Tank Top (Printify blueprint 571, Printed Mint). ETSY_STATE.md does not state material, sizes, or care, and does not say it is printed in the USA. For goldendoodle, labradoodle, and bernedoodle people. From FurEver Faces. ETSY_STATE.md says each dog listing should link to its human tee and back. Order by Dec 5 for Christmas delivery. Artwork created with AI tools.
+Velcro dog. Personal space is a myth. A cartoon doodle holding a red heart, with the words "Velcro Dog" and "Personal space is a myth." On a pet tank top, printed to order. For goldendoodle, labradoodle, and bernedoodle people. From FurEver Faces. A matching tee for the humans is in the shop. Order by Dec 5 for Christmas delivery. Artwork created with AI tools.
 
 ## Price note
 
@@ -2122,7 +2124,7 @@ rescued it shirt
 
 ## Description
 
-Counter Surfer. I didn't steal it. I rescued it. A cartoon grey doodle looking over a plate with a bagel sandwich, with the words "Counter Surfer" and "I didn't steal it. I rescued it." On a unisex Bella + Canvas cotton tee, sizes S to 2XL, printed to order in the USA. For goldendoodle, labradoodle, and bernedoodle people. From FurEver Faces. A matching pet bandana and pet tank exist for this design; link the listings to each other. Order by Dec 5 for Christmas delivery. Artwork created with AI tools.
+Counter Surfer. I didn't steal it. I rescued it. A cartoon grey doodle looking over a plate with a bagel sandwich, with the words "Counter Surfer" and "I didn't steal it. I rescued it." On a unisex Bella + Canvas cotton tee, sizes S to 2XL, printed to order in the USA. For goldendoodle, labradoodle, and bernedoodle people. From FurEver Faces. A matching pet bandana and pet tank are in the shop, so the dog can match too. Order by Dec 5 for Christmas delivery. Artwork created with AI tools.
 
 ## Price note
 
@@ -2171,7 +2173,7 @@ rescued it scarf
 
 ## Description
 
-Counter Surfer. I didn't steal it. I rescued it. A cartoon grey doodle looking over a plate with a bagel sandwich, with the words "Counter Surfer" and "I didn't steal it. I rescued it." A Pet Bandana (Printify blueprint 562, Printed Mint). ETSY_STATE.md does not state material, sizes, or care, and does not say it is printed in the USA. For goldendoodle, labradoodle, and bernedoodle people. From FurEver Faces. ETSY_STATE.md says each dog listing should link to its human tee and back. Order by Dec 5 for Christmas delivery. Artwork created with AI tools.
+Counter Surfer. I didn't steal it. I rescued it. A cartoon grey doodle looking over a plate with a bagel sandwich, with the words "Counter Surfer" and "I didn't steal it. I rescued it." On a pet bandana, printed to order. For goldendoodle, labradoodle, and bernedoodle people. From FurEver Faces. A matching tee for the humans is in the shop. Order by Dec 5 for Christmas delivery. Artwork created with AI tools.
 
 ## Price note
 
@@ -2221,7 +2223,7 @@ rescued it tank
 
 ## Description
 
-Counter Surfer. I didn't steal it. I rescued it. A cartoon grey doodle looking over a plate with a bagel sandwich, with the words "Counter Surfer" and "I didn't steal it. I rescued it." A Pet Tank Top (Printify blueprint 571, Printed Mint). ETSY_STATE.md does not state material, sizes, or care, and does not say it is printed in the USA. For goldendoodle, labradoodle, and bernedoodle people. From FurEver Faces. ETSY_STATE.md says each dog listing should link to its human tee and back. Order by Dec 5 for Christmas delivery. Artwork created with AI tools.
+Counter Surfer. I didn't steal it. I rescued it. A cartoon grey doodle looking over a plate with a bagel sandwich, with the words "Counter Surfer" and "I didn't steal it. I rescued it." On a pet tank top, printed to order. For goldendoodle, labradoodle, and bernedoodle people. From FurEver Faces. A matching tee for the humans is in the shop. Order by Dec 5 for Christmas delivery. Artwork created with AI tools.
 
 ## Price note
 
@@ -2320,7 +2322,7 @@ hearing on shirt
 
 ## Description
 
-Did you say treat? Selective hearing: on A cartoon doodle sitting with a collar and tag, with the words "Did You Say Treat?" and "Selective hearing: on" On a unisex Bella + Canvas cotton tee, sizes S to 2XL, printed to order in the USA. For goldendoodle, labradoodle, and bernedoodle people. From FurEver Faces. Order by Dec 5 for Christmas delivery. Artwork created with AI tools.
+Did you say treat? Selective hearing: on. A cartoon doodle sitting with a collar and tag, with the words "Did You Say Treat?" and "Selective hearing: on." On a unisex Bella + Canvas cotton tee, sizes S to 2XL, printed to order in the USA. For goldendoodle, labradoodle, and bernedoodle people. From FurEver Faces. Order by Dec 5 for Christmas delivery. Artwork created with AI tools.
 
 ## Price note
 
@@ -2418,7 +2420,7 @@ sock bandit tee
 
 ## Description
 
-Sock Thief. Wanted in 3 laundry rooms A cartoon cream doodle with an orange collar, with the words "Sock Thief" and "Wanted in 3 laundry rooms" On a unisex Bella + Canvas cotton tee, sizes S to 2XL, printed to order in the USA. For goldendoodle, labradoodle, and bernedoodle people. From FurEver Faces. A matching pet bandana and pet tank exist for this design; link the listings to each other. Order by Dec 5 for Christmas delivery. Artwork created with AI tools.
+Sock Thief. Wanted in 3 laundry rooms. A cartoon cream doodle with an orange collar, with the words "Sock Thief" and "Wanted in 3 laundry rooms." On a unisex Bella + Canvas cotton tee, sizes S to 2XL, printed to order in the USA. For goldendoodle, labradoodle, and bernedoodle people. From FurEver Faces. A matching pet bandana and pet tank are in the shop, so the dog can match too. Order by Dec 5 for Christmas delivery. Artwork created with AI tools.
 
 ## Price note
 
@@ -2467,7 +2469,7 @@ sock bandit bib
 
 ## Description
 
-Sock Thief. Wanted in 3 laundry rooms A cartoon cream doodle with an orange collar, with the words "Sock Thief" and "Wanted in 3 laundry rooms" A Pet Bandana (Printify blueprint 562, Printed Mint). ETSY_STATE.md does not state material, sizes, or care, and does not say it is printed in the USA. For goldendoodle, labradoodle, and bernedoodle people. From FurEver Faces. ETSY_STATE.md says each dog listing should link to its human tee and back. Order by Dec 5 for Christmas delivery. Artwork created with AI tools.
+Sock Thief. Wanted in 3 laundry rooms. A cartoon cream doodle with an orange collar, with the words "Sock Thief" and "Wanted in 3 laundry rooms." On a pet bandana, printed to order. For goldendoodle, labradoodle, and bernedoodle people. From FurEver Faces. A matching tee for the humans is in the shop. Order by Dec 5 for Christmas delivery. Artwork created with AI tools.
 
 ## Price note
 
@@ -2517,7 +2519,7 @@ sock bandit tee
 
 ## Description
 
-Sock Thief. Wanted in 3 laundry rooms A cartoon cream doodle with an orange collar, with the words "Sock Thief" and "Wanted in 3 laundry rooms" A Pet Tank Top (Printify blueprint 571, Printed Mint). ETSY_STATE.md does not state material, sizes, or care, and does not say it is printed in the USA. For goldendoodle, labradoodle, and bernedoodle people. From FurEver Faces. ETSY_STATE.md says each dog listing should link to its human tee and back. Order by Dec 5 for Christmas delivery. Artwork created with AI tools.
+Sock Thief. Wanted in 3 laundry rooms. A cartoon cream doodle with an orange collar, with the words "Sock Thief" and "Wanted in 3 laundry rooms." On a pet tank top, printed to order. For goldendoodle, labradoodle, and bernedoodle people. From FurEver Faces. A matching tee for the humans is in the shop. Order by Dec 5 for Christmas delivery. Artwork created with AI tools.
 
 ## Price note
 
@@ -2567,7 +2569,7 @@ chaos dog tee
 
 ## Description
 
-Zoomies o'clock. 0 to chaos in 2 seconds A cartoon white-and-tan doodle, sitting with its tongue out, with the words "Zoomies O'Clock" and "0 to chaos in 2 seconds" On a unisex Bella + Canvas cotton tee, sizes S to 2XL, printed to order in the USA. For goldendoodle, labradoodle, and bernedoodle people. From FurEver Faces. A matching pet bandana and pet tank exist for this design; link the listings to each other. Order by Dec 5 for Christmas delivery. Artwork created with AI tools.
+Zoomies o'clock. 0 to chaos in 2 seconds. A cartoon white-and-tan doodle, sitting with its tongue out, with the words "Zoomies O'Clock" and "0 to chaos in 2 seconds." On a unisex Bella + Canvas cotton tee, sizes S to 2XL, printed to order in the USA. For goldendoodle, labradoodle, and bernedoodle people. From FurEver Faces. A matching pet bandana and pet tank are in the shop, so the dog can match too. Order by Dec 5 for Christmas delivery. Artwork created with AI tools.
 
 ## Price note
 
@@ -2616,7 +2618,7 @@ chaos dog bib
 
 ## Description
 
-Zoomies o'clock. 0 to chaos in 2 seconds A cartoon white-and-tan doodle, sitting with its tongue out, with the words "Zoomies O'Clock" and "0 to chaos in 2 seconds" A Pet Bandana (Printify blueprint 562, Printed Mint). ETSY_STATE.md does not state material, sizes, or care, and does not say it is printed in the USA. For goldendoodle, labradoodle, and bernedoodle people. From FurEver Faces. ETSY_STATE.md says each dog listing should link to its human tee and back. Order by Dec 5 for Christmas delivery. Artwork created with AI tools.
+Zoomies o'clock. 0 to chaos in 2 seconds. A cartoon white-and-tan doodle, sitting with its tongue out, with the words "Zoomies O'Clock" and "0 to chaos in 2 seconds." On a pet bandana, printed to order. For goldendoodle, labradoodle, and bernedoodle people. From FurEver Faces. A matching tee for the humans is in the shop. Order by Dec 5 for Christmas delivery. Artwork created with AI tools.
 
 ## Price note
 
@@ -2666,7 +2668,7 @@ chaos dog tank
 
 ## Description
 
-Zoomies o'clock. 0 to chaos in 2 seconds A cartoon white-and-tan doodle, sitting with its tongue out, with the words "Zoomies O'Clock" and "0 to chaos in 2 seconds" A Pet Tank Top (Printify blueprint 571, Printed Mint). ETSY_STATE.md does not state material, sizes, or care, and does not say it is printed in the USA. For goldendoodle, labradoodle, and bernedoodle people. From FurEver Faces. ETSY_STATE.md says each dog listing should link to its human tee and back. Order by Dec 5 for Christmas delivery. Artwork created with AI tools.
+Zoomies o'clock. 0 to chaos in 2 seconds. A cartoon white-and-tan doodle, sitting with its tongue out, with the words "Zoomies O'Clock" and "0 to chaos in 2 seconds." On a pet tank top, printed to order. For goldendoodle, labradoodle, and bernedoodle people. From FurEver Faces. A matching tee for the humans is in the shop. Order by Dec 5 for Christmas delivery. Artwork created with AI tools.
 
 ## Price note
 
@@ -2716,7 +2718,7 @@ teddy dog shirt
 
 ## Description
 
-Not a teddy bear. But yes, please carry me A cartoon doodle lying down with its paws forward, with the words "Not a Teddy Bear" and "But yes, please carry me" On a unisex Bella + Canvas cotton tee, sizes S to 2XL, printed to order in the USA. For goldendoodle, labradoodle, and bernedoodle people. From FurEver Faces. Order by Dec 5 for Christmas delivery. Artwork created with AI tools.
+Not a teddy bear. But yes, please carry me. A cartoon doodle lying down with its paws forward, with the words "Not a Teddy Bear" and "But yes, please carry me." On a unisex Bella + Canvas cotton tee, sizes S to 2XL, printed to order in the USA. For goldendoodle, labradoodle, and bernedoodle people. From FurEver Faces. Order by Dec 5 for Christmas delivery. Artwork created with AI tools.
 
 ## Price note
 
@@ -2765,7 +2767,7 @@ hog the bed
 
 ## Description
 
-Bed Hog. You may have six inches A cartoon doodle sitting with a collar and tag, with the words "Bed Hog" and "You may have six inches" On a unisex Bella + Canvas cotton tee, sizes S to 2XL, printed to order in the USA. For goldendoodle, labradoodle, and bernedoodle people. From FurEver Faces. A matching pet bandana and pet tank exist for this design; link the listings to each other. Order by Dec 5 for Christmas delivery. Artwork created with AI tools.
+Bed Hog. You may have six inches. A cartoon doodle sitting with a collar and tag, with the words "Bed Hog" and "You may have six inches." On a unisex Bella + Canvas cotton tee, sizes S to 2XL, printed to order in the USA. For goldendoodle, labradoodle, and bernedoodle people. From FurEver Faces. A matching pet bandana and pet tank are in the shop, so the dog can match too. Order by Dec 5 for Christmas delivery. Artwork created with AI tools.
 
 ## Price note
 
@@ -2814,7 +2816,7 @@ hog the bed
 
 ## Description
 
-Bed Hog. You may have six inches A cartoon doodle sitting with a collar and tag, with the words "Bed Hog" and "You may have six inches" A Pet Bandana (Printify blueprint 562, Printed Mint). ETSY_STATE.md does not state material, sizes, or care, and does not say it is printed in the USA. For goldendoodle, labradoodle, and bernedoodle people. From FurEver Faces. ETSY_STATE.md says each dog listing should link to its human tee and back. Order by Dec 5 for Christmas delivery. Artwork created with AI tools.
+Bed Hog. You may have six inches. A cartoon doodle sitting with a collar and tag, with the words "Bed Hog" and "You may have six inches." On a pet bandana, printed to order. For goldendoodle, labradoodle, and bernedoodle people. From FurEver Faces. A matching tee for the humans is in the shop. Order by Dec 5 for Christmas delivery. Artwork created with AI tools.
 
 ## Price note
 
@@ -2864,7 +2866,7 @@ hog the bed
 
 ## Description
 
-Bed Hog. You may have six inches A cartoon doodle sitting with a collar and tag, with the words "Bed Hog" and "You may have six inches" A Pet Tank Top (Printify blueprint 571, Printed Mint). ETSY_STATE.md does not state material, sizes, or care, and does not say it is printed in the USA. For goldendoodle, labradoodle, and bernedoodle people. From FurEver Faces. ETSY_STATE.md says each dog listing should link to its human tee and back. Order by Dec 5 for Christmas delivery. Artwork created with AI tools.
+Bed Hog. You may have six inches. A cartoon doodle sitting with a collar and tag, with the words "Bed Hog" and "You may have six inches." On a pet tank top, printed to order. For goldendoodle, labradoodle, and bernedoodle people. From FurEver Faces. A matching tee for the humans is in the shop. Order by Dec 5 for Christmas delivery. Artwork created with AI tools.
 
 ## Price note
 
