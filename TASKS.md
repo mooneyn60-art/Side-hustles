@@ -56,6 +56,14 @@ Source: [etsy-shop/listings/06-valentines.md](etsy-shop/listings/06-valentines.m
 1. **Confirm Feb 5 as the Valentine's order-by date** for physical items, using real Printify production and shipping times. Feb 5 is a working date until you confirm it.
 2. **Once Product Designer's art is ready, create the 8 Valentine products as unpublished drafts.** Aim for mid-January. Do not publish them.
 
+### Christmas pins and Dec 1–5 countdown
+
+Source: [etsy-shop/ads/christmas-pins.md](etsy-shop/ads/christmas-pins.md) and [etsy-shop/ads/christmas-countdown-dec1-5.md](etsy-shop/ads/christmas-countdown-dec1-5.md). Posting anything needs Moondog88's okay.
+
+1. **After the Christmas listings are live, put each real Etsy URL into the [CONFIRM] links in `christmas-pins.md`.**
+2. **The bundle pin only goes up once a bundle listing exists.** Until then, link the 3 Santa Paws items separately.
+3. **On Dec 6, take down the Dec 5 "last day to order" shop announcement and pin, and switch to the printables copy.**
+
 ### Decisions (2026-11-15)
 
 Logged in [DECISIONS.md](DECISIONS.md). Resolved there:
