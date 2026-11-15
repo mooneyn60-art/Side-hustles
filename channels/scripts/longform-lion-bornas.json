@@ -1,9 +1,9 @@
 {
   "_what": "Narration outline for the third long-form in the 'born as' shape: the lion. Template: skills/oh-meatball/scripts/longform-born-as-polar-bear.outline.json (same keys, same 8-things shape, same RAW DEAL / SWEET DEAL meter). Written only from /workspace/drafts/facts/lion-bornas.md: every factual line has src set to the pack's row IDs (LB1 to LB43). Lines with no src are Meatball beats or structure and carry no fact. Box draft only. Not built, not pushed, not scheduled.",
   "titles": [
-    "Your Life as a Lion"
+    "Your Life as a Lion: 8 Things You Have to Get Through"
   ],
-  "_titles_note": "Working title from the assignment, kept as is. The house-cat and polar posts use the pattern 'Your Life as a X: 8 ...' (subtitle). Adding one is an open question for Nolan and Social Studio. No title has been invented here.",
+  "_titles_note": "Title confirmed by Social Studio 2026-11-15: 'Your Life as a Lion: 8 Things You Have to Get Through', the same pattern as the polar post. Single title, no A/B set.",
   "voice": "en-US-AndrewMultilingualNeural",
   "rate": "+10%",
   "pitch": "+3Hz",
@@ -337,7 +337,7 @@
         },
         {
           "id": "s3.l3",
-          "say": "In the Serengeti, San Diego's fact sheet says, invading males kill more than a quarter of all cubs. It says that's less frequent in other places.",
+          "say": "In the Serengeti, San Diego's fact sheet says, that's more than a quarter of all cubs, and it's less frequent elsewhere.",
           "src": "LB13",
           "vis": "Map pin on the Serengeti; four cub silhouettes, one fades. Quick cutaway: Meatball quietly takes off the cardboard mane.",
           "card": "SERENGETI: OVER 1 IN 4 CUBS",
@@ -346,52 +346,35 @@
         },
         {
           "id": "s3.l4",
-          "say": "Your mother may fight for you. The sheet says females defend their cubs, often unsuccessfully, and lionesses may be killed defending them.",
-          "src": "LB15",
-          "vis": "Lioness standing over a cub, ears back.",
-          "_t": 168.7,
-          "_beats": ""
-        },
-        {
-          "id": "s3.l5",
-          "say": "The sheet's explanation is about timing. When the litter dies, the females come back into estrus, so the new males can have their own cubs born in about eight months, instead of up to eighteen.",
-          "src": "LB14",
-          "vis": "Timeline bar: 8 MONTHS vs UP TO 18.",
-          "card": "ABOUT 8 MONTHS VS UP TO 18",
-          "_t": 175.5,
-          "_beats": "P"
-        },
-        {
-          "id": "s3.l6",
           "say": "Meatball put a 'no new males' sign on the cat flap. Sauce walked straight out through it. Tough damn crowd.",
           "vis": "Handwritten sign taped to the flap; Sauce pushes through it without slowing.",
-          "_t": 186.3,
+          "_t": 167.1,
           "_beats": "CJS"
         },
         {
-          "id": "s3.l7",
+          "id": "s3.l5",
           "say": "Meatball's stamp: raw. And if you live through that, you still have to learn to eat.",
           "vis": "Stamp: RAW. Cut to a herd of zebra grazing.",
-          "_t": 192.4,
+          "_t": 173.3,
           "_beats": "CR"
         }
       ],
       "_midroll_after": {
         "type": "alt",
-        "at": 197.8,
+        "at": 178.6,
         "note": "Break goes after this chapter's last line, in the chapter-card gap, before the next chapter card. Never mid-sentence."
       }
     },
     {
       "chapter": "4. Hunting school",
       "chip": "4 OF 8",
-      "_start": 198.2,
+      "_start": 179.0,
       "lines": [
         {
           "id": "s4.l0",
           "say": "Number four. Hunting school.",
           "vis": "Chapter card.",
-          "_t": 198.2,
+          "_t": 179.0,
           "_beats": ""
         },
         {
@@ -400,14 +383,14 @@
           "src": "LB16",
           "vis": "Overhead shot: three lionesses fanning out through grass toward a herd.",
           "card": "STALK TO ABOUT 100 FT",
-          "_t": 199.4,
+          "_t": 180.3,
           "_beats": "P"
         },
         {
           "id": "s4.l2",
           "say": "Meatball stalked his own sandwich from three angles. By angle two, Noodle had eaten it.",
           "vis": "Meatball crawling behind the couch; cut to an empty plate and Noodle chewing.",
-          "_t": 209.9,
+          "_t": 190.8,
           "_beats": "CJ"
         },
         {
@@ -415,7 +398,7 @@
           "say": "You have to learn which prey to pick, and when to go. The fact sheet says that by two years old, lionesses are competent hunters.",
           "src": "LB17",
           "vis": "Young lioness charging too early; the herd scatters.",
-          "_t": 214.5,
+          "_t": 195.4,
           "_beats": ""
         },
         {
@@ -424,7 +407,7 @@
           "src": "LB18",
           "vis": "Lioness sprint in slow motion, distance bar filling and stopping. Cutaway: Meatball sprints down the hallway and stops after three steps.",
           "card": "SPEED: SOURCES DIFFER",
-          "_t": 222.2,
+          "_t": 203.1,
           "_beats": "PC"
         },
         {
@@ -434,7 +417,7 @@
           "vis": "Three bars by place, labelled with each study.",
           "card": "HUNTS THAT WORKED: 15 TO 38%",
           "meter": 26,
-          "_t": 233.6,
+          "_t": 214.5,
           "_beats": "P"
         },
         {
@@ -442,7 +425,7 @@
           "say": "Lions hunting alone do worse than lions hunting in a group. Remember that one.",
           "src": "LB19",
           "vis": "A single lioness, then a group of four.",
-          "_t": 242.0,
+          "_t": 222.8,
           "_beats": "R"
         },
         {
@@ -452,7 +435,7 @@
           "vis": "Giraffe silhouette towering over a lion silhouette.",
           "card": "UP TO 2X ITS OWN WEIGHT",
           "meter": 36,
-          "_t": 246.3,
+          "_t": 227.2,
           "_beats": "P"
         },
         {
@@ -461,34 +444,34 @@
           "src": "LB20",
           "vis": "Dust cloud; a buffalo turning.",
           "meter": 30,
-          "_t": 254.6,
+          "_t": 235.5,
           "_beats": ""
         },
         {
           "id": "s4.l9",
           "say": "Meatball tackled a beanbag twice his weight. The beanbag won. Badass effort, though.",
           "vis": "Meatball face-down on a giant beanbag, mane bent.",
-          "_t": 259.2,
+          "_t": 240.1,
           "_beats": "CJS"
         }
       ],
       "_midroll_after": {
         "type": "primary",
-        "at": 263.7,
+        "at": 244.5,
         "note": "Break goes after this chapter's last line, in the chapter-card gap, before the next chapter card. Never mid-sentence."
       }
     },
     {
       "chapter": "Halfway",
       "chip": "",
-      "_start": 264.1,
+      "_start": 244.9,
       "lines": [
         {
           "id": "s5.l0",
           "say": "Halfway. Meatball's stamps so far: raw, raw, raw, and a bent mane.",
           "vis": "Four stamped tiles in a row.",
           "card": "HALFWAY",
-          "_t": 264.1,
+          "_t": 244.9,
           "_beats": "CR"
         },
         {
@@ -497,14 +480,14 @@
           "src": "LB26",
           "vis": "Split screen: lioness with her sisters / young male walking off alone.",
           "card": "IT SPLITS HERE",
-          "_t": 267.8,
+          "_t": 248.6,
           "_beats": "RP"
         },
         {
           "id": "s5.l2",
           "say": "But first, you have to keep what you catch.",
           "vis": "Lions on a kill; hyena eyes in the dark behind them.",
-          "_t": 275.8,
+          "_t": 256.6,
           "_beats": "R"
         }
       ]
@@ -512,13 +495,13 @@
     {
       "chapter": "5. The neighbours",
       "chip": "5 OF 8",
-      "_start": 279.4,
+      "_start": 260.2,
       "lines": [
         {
           "id": "s6.l0",
           "say": "Number five. The neighbours.",
           "vis": "Chapter card.",
-          "_t": 279.4,
+          "_t": 260.2,
           "_beats": ""
         },
         {
@@ -526,7 +509,7 @@
           "say": "The Smithsonian says lions steal kills from hyenas, leopards, and other predators. And at times, they lose their own catches to hyena groups.",
           "src": "LB24",
           "vis": "Hyena group circling a lioness on a carcass.",
-          "_t": 280.6,
+          "_t": 261.5,
           "_beats": "P"
         },
         {
@@ -536,7 +519,7 @@
           "vis": "Pie chart, two slices pulled away.",
           "card": "UP TO 20% OF KILLS TO HYENAS",
           "meter": 22,
-          "_t": 287.7,
+          "_t": 268.6,
           "_beats": "P"
         },
         {
@@ -545,14 +528,14 @@
           "src": "LB23",
           "vis": "Big male arrives; hyenas back off a step.",
           "meter": 28,
-          "_t": 297.9,
+          "_t": 278.7,
           "_beats": ""
         },
         {
           "id": "s6.l4",
           "say": "Meatball cooked a steak and guarded it with a spatula. Noodle waited. Meatball sneezed. Noodle has the steak.",
           "vis": "Standoff in the kitchen; sneeze; Noodle trotting off with the steak.",
-          "_t": 300.9,
+          "_t": 281.8,
           "_beats": "CJ"
         },
         {
@@ -561,40 +544,40 @@
           "src": "LB25",
           "vis": "Lion feeding on a carcass it did not kill; vultures waiting.",
           "card": "SCAVENGED: 5% TO 53%",
-          "_t": 306.5,
+          "_t": 287.4,
           "_beats": "P"
         },
         {
           "id": "s6.l6",
           "say": "So everybody steals from everybody. Hell of a neighbourhood.",
           "vis": "Hyena, lion, vulture: quick three-shot montage.",
-          "_t": 314.5,
+          "_t": 295.4,
           "_beats": "JS"
         },
         {
           "id": "s6.l7",
           "say": "Meatball's stamp: raw. And next, the pride stops making room for its sons.",
           "vis": "Stamp: RAW. Young male sitting at the edge of the pride.",
-          "_t": 317.3,
+          "_t": 298.2,
           "_beats": "CR"
         }
       ],
       "_midroll_after": {
         "type": "alt",
-        "at": 321.7,
+        "at": 302.6,
         "note": "Break goes after this chapter's last line, in the chapter-card gap, before the next chapter card. Never mid-sentence."
       }
     },
     {
       "chapter": "6. Kicked out",
       "chip": "6 OF 8",
-      "_start": 322.1,
+      "_start": 303.0,
       "lines": [
         {
           "id": "s7.l0",
           "say": "Number six. Kicked out. This one's for the boys.",
           "vis": "Chapter card.",
-          "_t": 322.1,
+          "_t": 303.0,
           "_beats": ""
         },
         {
@@ -603,7 +586,7 @@
           "src": "LB26",
           "vis": "Resident male chasing a young male off.",
           "card": "MALES OUT AT ABOUT 2 TO 4",
-          "_t": 324.9,
+          "_t": 305.8,
           "_beats": "P"
         },
         {
@@ -611,7 +594,7 @@
           "say": "Females usually stay in their mothers' prides for life, unless food runs short.",
           "src": "LB26",
           "vis": "Lionesses lying together, same spot.",
-          "_t": 333.2,
+          "_t": 314.1,
           "_beats": ""
         },
         {
@@ -620,7 +603,7 @@
           "src": "LB28",
           "vis": "Two young males crossing open plain. Cutaway: Meatball dragging a suitcase down the sidewalk.",
           "card": "NOMAD",
-          "_t": 337.2,
+          "_t": 318.1,
           "_beats": "C"
         },
         {
@@ -628,7 +611,7 @@
           "say": "The Smithsonian says nomadic males must hunt alone or scavenge.",
           "src": "LB28",
           "vis": "Young male alone at dusk.",
-          "_t": 345.2,
+          "_t": 326.1,
           "_beats": ""
         },
         {
@@ -636,7 +619,7 @@
           "say": "And you already know what hunting alone does to your odds.",
           "src": "LB19",
           "vis": "Flash back to the lone-hunter bar from number four.",
-          "_t": 348.3,
+          "_t": 329.2,
           "_beats": "R"
         },
         {
@@ -646,7 +629,7 @@
           "vis": "Long shot, small figure in a big empty landscape.",
           "card": "HIGH NATURAL MORTALITY",
           "meter": 18,
-          "_t": 351.7,
+          "_t": 332.6,
           "_beats": "P"
         },
         {
@@ -654,14 +637,14 @@
           "say": "Males also leave home at two to three, the sheet says, and travel two to three times farther than females. In Kruger, most young male coalitions stayed close.",
           "src": "LB27",
           "vis": "Map: long arrow for males, short for females.",
-          "_t": 356.7,
+          "_t": 337.5,
           "_beats": ""
         },
         {
           "id": "s7.l8",
           "say": "Meatball got kicked out too. Sauce took his chair. He's in the driveway with a juice box. Rough as hell.",
           "vis": "Meatball on the curb with a juice box; through the window, Sauce in his chair.",
-          "_t": 365.3,
+          "_t": 346.2,
           "_beats": "CJS"
         },
         {
@@ -669,26 +652,26 @@
           "say": "So you find your brothers and cousins, and you go looking for somebody else's pride.",
           "src": "LB26",
           "vis": "Three young males walking together.",
-          "_t": 371.5,
+          "_t": 352.3,
           "_beats": "R"
         }
       ],
       "_midroll_after": {
         "type": "primary",
-        "at": 376.5,
+        "at": 357.4,
         "note": "Break goes after this chapter's last line, in the chapter-card gap, before the next chapter card. Never mid-sentence."
       }
     },
     {
       "chapter": "7. Taking a pride",
       "chip": "7 OF 8",
-      "_start": 376.9,
+      "_start": 357.8,
       "lines": [
         {
           "id": "s8.l0",
           "say": "Number seven. Taking a pride, and holding it.",
           "vis": "Chapter card.",
-          "_t": 376.9,
+          "_t": 357.8,
           "_beats": ""
         },
         {
@@ -697,7 +680,7 @@
           "src": "LB35",
           "vis": "Four males walking in a line.",
           "card": "COALITIONS: 2 TO 4 (UP TO 8)",
-          "_t": 379.4,
+          "_t": 360.2,
           "_beats": ""
         },
         {
@@ -705,7 +688,7 @@
           "say": "San Diego Zoo says a new male must fight the males already there. He is either driven off, or he pushes them out.",
           "src": "LB30",
           "vis": "Two males rearing up, dust.",
-          "_t": 386.8,
+          "_t": 367.6,
           "_beats": "P"
         },
         {
@@ -713,14 +696,14 @@
           "say": "Bigger groups win time. Larger coalitions can hold a pride more than twice as long as a single male or a pair.",
           "src": "LB31",
           "vis": "One male vs a coalition, timeline bars.",
-          "_t": 393.9,
+          "_t": 374.7,
           "_beats": ""
         },
         {
           "id": "s8.l4",
           "say": "Meatball formed a coalition with Sauce. Sauce walked off. It's a coalition of one.",
           "vis": "Meatball holds out a paw-shake; Sauce turns and leaves.",
-          "_t": 400.6,
+          "_t": 381.5,
           "_beats": "CJ"
         },
         {
@@ -730,58 +713,50 @@
           "vis": "Male roaring at dawn; sound rings spread across a map.",
           "card": "ROAR: 3 TO 5 MILES, SOURCES DIFFER",
           "meter": 50,
-          "_t": 405.0,
+          "_t": 385.8,
           "_beats": "P"
         },
         {
           "id": "s8.l6",
-          "say": "And now you're the new males. You know what that means for the cubs that were already there.",
-          "src": "LB12",
-          "vis": "Cubs under a bush; the new coalition walking past.",
-          "_t": 415.8,
-          "_beats": "R"
-        },
-        {
-          "id": "s8.l7",
           "say": "Then the clock starts. The fact sheet says males stay with a pride two to three years on average, and hold a pride and father cubs for only about six years in a whole lifetime.",
           "src": "LB31, LB32",
           "vis": "Hourglass over a resting male.",
           "card": "ABOUT 6 YEARS, ALL LIFE",
           "meter": 34,
-          "_t": 421.3,
+          "_t": 396.6,
           "_beats": "P"
         },
         {
-          "id": "s8.l8",
+          "id": "s8.l7",
           "say": "Six years. Out of a whole damn life.",
           "vis": "Meatball counting on his fingers, stops at six.",
-          "_t": 432.1,
+          "_t": 407.4,
           "_beats": "CJS"
         },
         {
-          "id": "s8.l9",
+          "id": "s8.l8",
           "say": "Which leaves the last thing on the list.",
           "vis": "Tile 8 flips half-way.",
-          "_t": 434.6,
+          "_t": 409.9,
           "_beats": "R"
         }
       ],
       "_midroll_after": {
         "type": "alt",
-        "at": 437.4,
+        "at": 412.8,
         "note": "Break goes after this chapter's last line, in the chapter-card gap, before the next chapter card. Never mid-sentence."
       }
     },
     {
       "chapter": "8. Time, and people",
       "chip": "8 OF 8",
-      "_start": 437.8,
+      "_start": 413.2,
       "lines": [
         {
           "id": "s9.l0",
           "say": "Number eight. Time, and people.",
           "vis": "Chapter card.",
-          "_t": 437.8,
+          "_t": 413.2,
           "_beats": ""
         },
         {
@@ -790,7 +765,7 @@
           "src": "LB40",
           "vis": "Old lioness, grey muzzle.",
           "card": "LIONESS UP TO 16, MALES RARELY PAST 12",
-          "_t": 439.4,
+          "_t": 414.7,
           "_beats": ""
         },
         {
@@ -799,7 +774,7 @@
           "src": "LB39",
           "vis": "Plain card on black, no music sting.",
           "card": "TANZANIA: OVER 563 KILLED SINCE 1990",
-          "_t": 449.3,
+          "_t": 424.6,
           "_beats": "P"
         },
         {
@@ -808,7 +783,7 @@
           "src": "LB41",
           "vis": "Safari vehicle, windows up, lioness walking past on the road.",
           "card": "KRUGER: STAY IN THE VEHICLE",
-          "_t": 460.1,
+          "_t": 435.4,
           "_beats": ""
         },
         {
@@ -816,7 +791,7 @@
           "say": "Meatball booked a Kruger trip. Noodle had to stay home. Kruger's rules say no pets.",
           "src": "LB41",
           "vis": "Noodle at the window with his suitcase. Meatball waving from a taxi.",
-          "_t": 469.9,
+          "_t": 445.2,
           "_beats": "CJ"
         },
         {
@@ -826,7 +801,7 @@
           "vis": "Red List card, trend arrow pointing down.",
           "card": "IUCN: VULNERABLE, 23,000 MATURE",
           "meter": 30,
-          "_t": 474.6,
+          "_t": 449.9,
           "_beats": "P"
         },
         {
@@ -834,14 +809,14 @@
           "say": "A 2015 study found African lion populations declining everywhere except four southern countries: Botswana, Namibia, South Africa, and Zimbabwe.",
           "src": "LB38",
           "vis": "Africa map: four countries lit, the rest dim.",
-          "_t": 482.3,
+          "_t": 457.6,
           "_beats": ""
         },
         {
           "id": "s9.l7",
           "say": "Meatball's stamp: raw. So that's all eight. Now, what did you get for it?",
           "vis": "Stamp: RAW. All eight tiles face up.",
-          "_t": 488.1,
+          "_t": 463.4,
           "_beats": "CR"
         }
       ]
@@ -849,7 +824,7 @@
     {
       "chapter": "What you got",
       "chip": "",
-      "_start": 493.2,
+      "_start": 468.6,
       "lines": [
         {
           "id": "s10.l0",
@@ -858,7 +833,7 @@
           "vis": "Whole pride piled together in the shade.",
           "card": "MOST SOCIAL FELINES",
           "meter": 40,
-          "_t": 493.2,
+          "_t": 468.6,
           "_beats": "P"
         },
         {
@@ -867,7 +842,7 @@
           "src": "LB34, LB26",
           "vis": "Three generations of lionesses grooming.",
           "meter": 48,
-          "_t": 496.0,
+          "_t": 471.3,
           "_beats": ""
         },
         {
@@ -877,14 +852,14 @@
           "vis": "Lion on its back, paws in the air.",
           "card": "UP TO 21 HOURS OF REST",
           "meter": 54,
-          "_t": 505.3,
+          "_t": 480.6,
           "_beats": "P"
         },
         {
           "id": "s10.l3",
           "say": "Sauce has been doing that this whole video. In Meatball's chair.",
           "vis": "Sauce asleep in the chair, upside down.",
-          "_t": 509.9,
+          "_t": 485.2,
           "_beats": "CJ"
         },
         {
@@ -894,7 +869,7 @@
           "vis": "Pride on a rock at sunset.",
           "card": "TOP OF THE FOOD CHAIN",
           "meter": 58,
-          "_t": 513.3,
+          "_t": 488.6,
           "_beats": ""
         }
       ]
@@ -902,13 +877,13 @@
     {
       "chapter": "The verdict",
       "chip": "",
-      "_start": 518.4,
+      "_start": 493.7,
       "lines": [
         {
           "id": "s11.l0",
           "say": "So, the ledger.",
           "vis": "Two columns: RAW and SWEET.",
-          "_t": 518.4,
+          "_t": 493.7,
           "_beats": "R"
         },
         {
@@ -916,7 +891,7 @@
           "say": "Raw: up to 80 percent of cubs gone in two years, by the Smithsonian's count. New males. Hyenas taking your dinner. And if you're a boy, the road.",
           "src": "LB9, LB12, LB23, LB26",
           "vis": "Raw column fills.",
-          "_t": 519.3,
+          "_t": 494.7,
           "_beats": ""
         },
         {
@@ -924,7 +899,7 @@
           "say": "Sweet: if you make it, you live in the most social cat family there is, at the top of the food chain.",
           "src": "LB34, LB43",
           "vis": "Sweet column fills.",
-          "_t": 528.0,
+          "_t": 503.3,
           "_beats": ""
         },
         {
@@ -933,7 +908,7 @@
           "vis": "Meter swings, lands just past the middle on SWEET.",
           "card": "OUR VERDICT: RAW START, SWEETER FOR LIONESSES",
           "meter": 55,
-          "_t": 534.8,
+          "_t": 510.1,
           "_beats": "RP"
         },
         {
@@ -941,44 +916,44 @@
           "say": "Now think back to the cub from the start. About three pounds. Light spots. Hidden away.",
           "src": "LB2, LB5, LB3",
           "vis": "Callback: the same newborn shot from the cold open.",
-          "_t": 543.7,
+          "_t": 519.0,
           "_beats": "R"
         },
         {
           "id": "s11.l5",
           "say": "Noodle walked in with a cardboard crown. And the last of Meatball's dinner.",
           "vis": "Noodle in the crown, carrying a drumstick.",
-          "_t": 548.6,
+          "_t": 524.0,
           "_beats": "CJ"
         },
         {
           "id": "s11.l6",
           "say": "Meatball's final stamp: raw. Sauce's stamp: asleep.",
           "vis": "Two stamps: RAW, and a paw print.",
-          "_t": 552.7,
+          "_t": 528.0,
           "_beats": "CJ"
         },
         {
           "id": "s11.l7",
           "say": "Which of the eight gets you first? Tell me your number.",
           "vis": "Eight tiles, numbers glowing.",
-          "_t": 554.8,
+          "_t": 530.1,
           "_beats": "R"
         },
         {
           "id": "s11.l8",
           "say": "Meatball's already packing for his next life. Indoors, with a litter box. Your Life as a House Cat is right here.",
           "vis": "End screen: house cat video tile. Meatball points at it.",
-          "_t": 558.2,
+          "_t": 533.5,
           "_beats": "CR"
         }
       ]
     }
   ],
   "pinned_comment": "Meatball's stamps: raw, raw, raw, raw, raw, raw, raw, raw. Sauce's stamp: asleep. Which of the 8 gets you first? Put your number under this.",
-  "end_screen_video": "Your Life as a House Cat: 8 Ways It Goes Wrong (posted.csv: YouTube, Fri 11/13 17:00 ET). If the lion moves to Sat 12/12, Your Life as a Polar Bear: 8 Things You Have to Get Through (Sat 12/5 08:00 ET) also works.",
+  "end_screen_video": "Your Life as a House Cat: 8 Ways It Goes Wrong (posted.csv: YouTube, Fri 11/13 17:00 ET). Target date Sat 11/28; on the Sat 12/12 fallback, Your Life as a Polar Bear: 8 Things You Have to Get Through (Sat 12/5 08:00 ET) also works.",
   "sources_file": "/workspace/drafts/facts/lion-bornas.md (box draft; would become research/<next>-lion-life-factpack.md if approved)",
-  "description": "What is life like for a lion? This is your whole life as one, from about three pounds and hidden away to holding a pride: 8 things you have to get through, then the verdict. Meatball tried all eight at home, with his cat, Sauce, as his pride and his dog, Noodle, as everybody else.\n\nChecked facts in this video:\n- Up to 80 percent of lion cubs die within their first 2 years (Smithsonian's National Zoo). San Diego Zoo Wildlife Alliance: on average 60% die in the first year.\n- Males entering a new pride will kill all cubs that cannot run from them (Smithsonian).\n- Hunting success depends on the place: 38% Kalahari, 23% Serengeti, 15% Etosha (SDZWA fact sheet).\n- Females may lose up to 20% of kills to spotted hyenas (SDZWA, citing Cooper 1991).\n- IUCN Red List: Vulnerable, 23,000 mature individuals, decreasing (assessed 2023).\n- Visiting Kruger? The park's rules say to remain in your vehicle unless in a designated area.\n\nSources: Smithsonian's National Zoo, San Diego Zoo and SDZWA Library fact sheets, Panthera, IUCN Red List, Bauer et al. 2015 (PNAS), Packer et al. 2005 (Nature).\n\n#lion #lioncubs #meatballmyths",
+  "description": "What is life like for a lion? This is your whole life as one, from about three pounds and hidden away to holding a pride: 8 things you have to get through, then the verdict. Meatball tried all eight at home, with his cat, Sauce, as his pride and his dog, Noodle, as everybody else.\n\nChecked facts in this video:\n- Up to 80 percent of lion cubs die within their first 2 years (Smithsonian's National Zoo). San Diego Zoo Wildlife Alliance: on average 60% die in the first year.\n- Males entering a new pride will kill all cubs that cannot run from them (Smithsonian).\n- Hunting success depends on the place: 38% Kalahari, 23% Serengeti, 15% Etosha (SDZWA fact sheet; the Etosha figure is from Stander 1992).\n- Females may lose up to 20% of kills to spotted hyenas (SDZWA, citing Cooper 1991).\n- IUCN Red List: Vulnerable, 23,000 mature individuals, decreasing (assessed 2023).\n- Visiting Kruger? SANParks rules say to remain in your vehicle unless in a designated area.\n\nSources: Smithsonian's National Zoo, San Diego Zoo and SDZWA Library fact sheets, Panthera, IUCN Red List, Bauer et al. 2015 (PNAS), Packer et al. 2005 (Nature).\n\n#lion #lioncubs #meatballmyths",
   "art_needed": [
     "Lion cub, newborn: tiny, light spots (eye state is not in the pack, so do not label it). Lines: s0.l0, s0.l1, s0.l2, s11.l4.",
     "Lioness (adult female), plus a pride group and a crèche pile of cubs of mixed sizes. Lines: s1.*, s4.*, s10.*.",
@@ -991,28 +966,8 @@
   ],
   "_open_questions": [
     {
-      "line": "all S-tagged lines",
-      "question": "Swearing level. The assignment says mild words only, about one per section; this draft has 7 (hell x3, damn x3, badass x1), none before 0:52, none in the people or Kruger lines. MASTER_ORDERS asks long-form for about one every 25 s (about 22 in 9:37), and Social Studio has asked for one per line. These cannot all be met.",
-      "fallback": "Ship the 7 as written. Do not add more until Nolan picks the rate."
-    },
-    {
-      "line": "titles[0]",
-      "question": "Keep 'Your Life as a Lion' or add the series subtitle (e.g. ': 8 Things You Have to Get Through')?",
-      "fallback": "Post the working title as is."
-    },
-    {
-      "line": "schedule",
-      "question": "MASTER_ORDERS line 69 puts the lion on Sat 12/12; line 217 says '11/28 if ready by Thu 11/26' but also lists 'dog 12/12'. Which video owns 12/12?",
-      "fallback": "Treat the lion as 12/12; post 11/28 only if the build and second fact check are finished by Thu 11/26."
-    },
-    {
-      "line": "s9.l3",
-      "question": "The Kruger rule quote is from the Lowvelder (2017) reprint of the SANParks rules; sanparks.org returned 403 to the box. Needs a SANParks page opened before build.",
-      "fallback": "Keep the line but credit it as 'Kruger's rules'; if no SANParks source turns up, cut s9.l3 and s9.l4."
-    },
-    {
-      "line": "s1.l1, s1.l7 to s1.l11, s2.l3 to s2.l8, s3.l3 to s3.l5, s4.l3 to s4.l8, s6.l2 to s6.l5, s7.l6, s7.l7, s8.l3, s8.l7",
-      "question": "These rest on the SDZWA Library fact sheets, which summarise papers the box did not open (West and Packer 2013, Sunquist 2002, Cooper 1991, Schaller 1972, Stander 1992, Funston 2003). The Etosha figure is cited 'Stander 1972' (possibly a typo for a later year).",
+      "line": "s1.l1, s1.l7 to s1.l11, s2.l3 to s2.l8, s3.l3, s4.l3 to s4.l8, s6.l2 to s6.l5, s7.l6, s7.l7, s8.l3, s8.l6",
+      "question": "These rest on the SDZWA Library fact sheets, which summarise papers the box did not open (West and Packer 2013, Sunquist 2002, Cooper 1991, Schaller 1972, Funston 2003). The one exception is now checked: the Etosha 15% (s4.l5) was verified in Stander 1992 itself (see _notes).",
       "fallback": "Keep the credit on the fact sheet ('San Diego's fact sheet says'), never on the paper."
     },
     {
@@ -1023,7 +978,7 @@
     {
       "line": "end_screen_video",
       "question": "posted.csv lists the house-cat long-form on YouTube Fri 11/13 17:00 ET, but the polar build's end_label still says 'Sat 11/28'. Confirm the house-cat video is live before this one is built.",
-      "fallback": "If it is not live, end on the polar video for a 12/12 post; for 11/28 the end screen has no live born-as target and should use the house-cat one only once it is up."
+      "fallback": "If it is not live by build day, use the polar video as the end screen only for the 12/12 fallback date."
     }
   ],
   "_factcheck": "Not yet checked by a second model. Facts were checked only against the sources cached in /workspace/drafts/facts/.lion-src/ on 2026-11-15.",
@@ -1038,19 +993,27 @@
   "end_label_short": "YOUR LIFE AS A HOUSE CAT",
   "_timing": {
     "wpm": 194.5,
-    "words": 1802,
+    "words": 1722,
     "chapter_card_pad_s": 0.8,
-    "speech_s": 564.7,
-    "runtime_s": 576.7,
-    "runtime": "9:36.7",
-    "runtime_if_180wpm": "10:21.5",
+    "speech_s": 540.0,
+    "runtime_s": 552.0,
+    "runtime": "9:12.0",
+    "runtime_if_180wpm": "9:54.8",
     "first_joke_s": 52.6,
-    "midpoint_rehook_s": 264.1,
+    "midpoint_rehook_s": 244.9,
     "mild_words": 7,
     "max_gap_s": {
       "peak": 26.8,
       "character": 38.7,
       "retention": 65.9
     }
-  }
+  },
+  "_for_claude": [
+    "TTS pronunciation check before render: 'crèche' (s1.l7, s1.l11), 'Etosha' (s4.l5), 'Kalahari', 'Serengeti', 'Panthera', 'IUCN' (spelled out). Add tts respellings in the build JSON if the Andrew voice misreads them; captions keep 'say'.",
+    "Builder and shot set: the JSON assumes builder 'drawn_polarlife', but there is no lion shot set (the polar one is tools/drawn_pb_shots.py). A lion shot recipe set (cub, lioness, crèche, male, coalition, nomad, hyena group, safari vehicle, Meatball props) is needed before build; art_needed lists the assets."
+  ],
+  "_notes": [
+    "Kruger rule (s9.l3, s9.l4; LB41): now sourced to SANParks itself, https://www.sanparks.org/parks/kruger/useful-information/vital-information, opened live 2026-11-15 through the fetch tool (box curl still gets 403). Quote: 'Visitors must remain in their vehicles unless in a designated area. Remember that no part of the body may protrude from a window or sunroof or any other part of the vehicle. Vehicle doors should be closed at all times.' and 'NO PETS ARE ALLOWED here.' Both lines kept. The Lowvelder reprint is no longer used.",
+    "Etosha 15% (s4.l5; LB19): the SDZWA sheet's 'Stander 1972' is a typo. Correct citation: Stander PE (1992) Cooperative hunting in lions: the role of the individual. Behavioral Ecology and Sociobiology 29(6):445-454, doi 10.1007/BF00170175 (the only Stander 1992 in SDZWA's lion bibliography). The paper's text says 'lions had a low average capture success of 15% for all species and hunts', citing Stander 1992 Can J Zool 70:8-21. The script never spoke the year, so only the pack row and these notes changed."
+  ]
 }
