@@ -54,3 +54,5 @@ The shop is still TBD, pending Moondog88.
 (c) Moondog88 posts all Pinterest, Facebook group and TikTok content personally. Agents prepare the posts but never post them.
 
 2026-11-15, Approved by Moondog88 directly in Etsy Studio's chat: order 1 sample each of the Santa Paws tee, Santa Paws pet bandana and Santa Paws ornament through Printify, shipped to Moondog88. These are for real product photos and Mac-on-camera video. Covers these 3 samples only.
+
+2026-11-15, Org rule from Moondog88 (relayed by Jarvis): the Etsy business and the Meatball social channels are kept strictly separate. Etsy Studio owns TikTok Shop as a sales channel: the 8 FurEver Faces products, copy, pricing proposals, and the Printify TikTok store ("Forever faces") and its setup. Social Studio only makes the shop-tagged videos and gets product info from Etsy Studio. Product work lives in etsy-shop/tiktok-shop/; the video plan stays in channels/tiktok-shop/. TikTok products are prepped as unpublished drafts only; publishing and prices still need Moondog88's okay.
