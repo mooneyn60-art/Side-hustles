@@ -17,6 +17,8 @@ Source: [creative/storefront-audit-2026-11-15.md](creative/storefront-audit-2026
 - No refund or shipping policies exist yet. Printify shipping runs about $8-13, so whether Shopify keeps $49 free shipping is Moondog88's decision, still open.
 - Shared policy text for both stores is in [etsy-shop/listings/09-policies.md](etsy-shop/listings/09-policies.md). Jarvis applies the Shopify version and Claude applies the Etsy version, both only after Moondog88 okays the policy.
 
+**New hero thumbnails, Nov 15 (Etsy Studio).** Use the 2000×2000 tee thumbnails in [etsy-shop/design/christmas/thumbnails/](etsy-shop/design/christmas/thumbnails/) as photo 1 on the Santa Paws, Doodle Mom and Doodle Dad tee drafts. Keep the existing Printify mockups as photos 2 and up. The banner [etsy-shop/design/branding/furever-faces-shop-banner-3360x840.jpg](etsy-shop/design/branding/furever-faces-shop-banner-3360x840.jpg) is a v1 placeholder. A version with side art is coming, so don't upload it yet. Uploading photos to drafts is fine, but publishing still needs Moondog88's okay.
+
 Standing rule: nothing gets published, no live price changes, no money spent, and nothing goes to customers without Moondog88's okay. Anything marked **needs Moondog88's okay first** waits for that okay, relayed by Jarvis or given directly.
 
 1. **Safety first (today): switch great-turing uploads to draft-only.**
