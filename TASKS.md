@@ -17,6 +17,15 @@ Source: [creative/DEEP-DIVE-2026-11-15.md](creative/DEEP-DIVE-2026-11-15.md). Do
 5. **Dear Santa letter art.** Replace or license-check the Irasutoya-style clip art before any listing. Do not list that product until the art is cleared.
 6. **One printables plan.** Merge the etsy-factory work and the great-turing printables work into one plan. Which shop sells them is the open decision below.
 
+### Christmas listing drafts (Listings & SEO)
+
+Source: [etsy-shop/listings/01-christmas-push.md](etsy-shop/listings/01-christmas-push.md) (16 listings), [etsy-shop/listings/02-catalog.md](etsy-shop/listings/02-catalog.md), [etsy-shop/listings/03-pricing-memo.md](etsy-shop/listings/03-pricing-memo.md). Validator: [etsy-shop/listings/generate_listings.py](etsy-shop/listings/generate_listings.py).
+
+1. **Paste into Etsy as drafts only.** Use the Christmas listing copy in `etsy-shop/listings/01-christmas-push.md`. Include the Santa Paws ornament and the Doodle Mom tee from `etsy-shop/listings/02-catalog.md`. Publishing waits for Moondog88's okay. Do not set any listing live.
+2. **Typo-check the funny-tee wording** against the `fureverfaces` print PNGs before those drafts are saved.
+3. **Fill in material, sizes, and care** for the sweatshirts, bandanas, and tanks from the Printify product specs. Do not guess.
+4. **Do not paste the 20 drafts that have no Printify ID.** They are backlog and will not be created now (9 mugs, 5 ornaments, 6 wall art). Focus on products that already exist. Mug price on the record is $17.99 from `ETSY_STATE.md`, not $18.00. See the 2026-11-15 line appended to [DECISIONS.md](DECISIONS.md).
+
 ### Decisions (2026-11-15)
 
 Logged in [DECISIONS.md](DECISIONS.md). Resolved there:
@@ -129,3 +138,9 @@ File: [DECISIONS.md](DECISIONS.md)
 2026-11-15, Etsy Studio, deep dive vs goals (creative/DEEP-DIVE-2026-11-15.md) and scoreboard template.
 
 Files: [creative/DEEP-DIVE-2026-11-15.md](creative/DEEP-DIVE-2026-11-15.md), [etsy-shop/SCOREBOARD.md](etsy-shop/SCOREBOARD.md)
+
+### 2026-11-15 — Etsy: Listings & SEO
+
+2026-11-15, Etsy: Listings & SEO, 95 listings rewritten (16 Christmas push, 79 catalog) plus pricing memo; validator at etsy-shop/listings/generate_listings.py.
+
+Files: [etsy-shop/listings/01-christmas-push.md](etsy-shop/listings/01-christmas-push.md), [etsy-shop/listings/02-catalog.md](etsy-shop/listings/02-catalog.md), [etsy-shop/listings/03-pricing-memo.md](etsy-shop/listings/03-pricing-memo.md), [etsy-shop/listings/generate_listings.py](etsy-shop/listings/generate_listings.py)
