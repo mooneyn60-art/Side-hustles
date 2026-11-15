@@ -1,0 +1,278 @@
+{
+ "voice": "en-US-AndrewMultilingualNeural",
+ "rate": "+10%",
+ "pitch": "+3Hz",
+ "music": "mystery",
+ "music_db": -13,
+ "captions": 66,
+ "caption_y": 1180,
+ "cut_whoosh": true,
+ "loop": true,
+ "photo_credits": [],
+ "series": "Would Meatball Survive?",
+ "sources": [
+  "Smithsonian's National Zoo, Lion (Panthera leo), Size (opened 2026-11-15): \"They weigh from 330 to 550 pounds (150 to 250 kilograms).\"; \"Slightly smaller, females grow to lengths of 9 feet (2.7 meters) and weigh between 265 and 395 pounds.\"; https://www.nationalzoo.si.edu/animals/lion",
+  "San Diego Zoo Wildlife Alliance, African and Asian Lions (Panthera leo) Fact Sheet (© 2016-2025; opened 2026-11-15): \"Body weight: Males: 150-225 kg (331-496 lbs)\"; \"Bursts of speed up to 45-60 km/hr (24-37 mph) for short distances (100-200 m).\"; https://ielc.libguides.com/sdzg/factsheets/lions/summary",
+  "U.S. Fish and Wildlife Service, Grizzly Bear (Ursus arctos horribilis) (opened 2026-11-15): \"Adult males average 400 to 600 pounds (200 to 300 kilograms) and adult females 250 to 350 pounds (110 to 160 kilograms) in the 48 contiguous states.\"; https://www.fws.gov/species/grizzly-bear-ursus-arctos-horribilis",
+  "U.S. National Park Service, Yellowstone National Park, Bear Ecology (the page says last updated April 18, 2025; opened 2026-11-15): \"Males weigh 200–700 pounds, females weigh 200–400 pounds; adults stand about 3.5 feet at the shoulder.\"; \"Agile; can run up to 40 mph.\"; https://www.nps.gov/yell/learn/nature/bear.htm",
+  "U.S. National Park Service, Glacier National Park, Bears (the page says last updated November 6, 2017; opened 2026-11-15): grizzly \"Weight: Adult males 300-440 lbs; females 250-280 lbs\"; \"Top speed: 35 mph\"; https://www.nps.gov/glac/learn/nature/bears.htm",
+  "U.S. National Park Service, Staying Safe Around Bears (the page says last updated September 8, 2025; opened 2026-11-15): \"Bears can run as fast as a racehorse both uphill and down.\"; https://www.nps.gov/subjects/bears/safety.htm",
+  "U.S. National Park Service, Katmai National Park & Preserve, Brown Bear Frequently Asked Questions (the page says last updated October 29, 2024; opened 2026-11-15): \"Most adult males typically weigh 600-900 pounds (272-408 kg) in mid-summer. By October and November, large adult males can weigh well over 1000 pounds (454 kg).\"; \"All grizzly bears are brown bears, but not all brown bears are grizzly bears.\"; \"There have been no documented cases of grizzly bears weighing over 900 pounds (408 kg) in Yellowstone.\"; https://www.nps.gov/katm/learn/photosmultimedia/brown-bear-frequently-asked-questions.htm",
+  "U.S. National Park Service, Yellowstone National Park, Safety (opened 2026-11-15), unused in speech, cited because it disagrees on speed: \"Bears can run up to 40 feet (12 m) per second\"; https://www.nps.gov/yell/planyourvisit/safety.htm"
+ ],
+ "stage": {
+  "creature": "grizzly",
+  "scene": "garden",
+  "scene_p": {
+   "props": [
+    [
+     "tree",
+     -100,
+     1300,
+     1.0
+    ],
+    [
+     "rock",
+     1180,
+     1500,
+     0.9
+    ],
+    [
+     "grass",
+     300,
+     1500,
+     1.0
+    ]
+   ]
+  },
+  "s": 0.85,
+  "creature_cfg": {
+   "plan": "mammal",
+   "label": "grizzly bear",
+   "color": "#7a5236",
+   "dark": "#523623",
+   "belly": "#9a7250",
+   "length": 720,
+   "height": 400,
+   "leg_len": 160,
+   "leg_w": 70,
+   "ears": "round",
+   "tail": "thin",
+   "tail_w": 0.1,
+   "whiskers": false,
+   "mood": "calm",
+   "hump": 0.55
+  },
+  "other_creature": "lion",
+  "other_creature_cfg": {
+   "plan": "mammal",
+   "label": "African lion",
+   "color": "#c4a05a",
+   "dark": "#8a6a32",
+   "belly": "#e0c88a",
+   "mane": "#6b3e1f",
+   "tail_color": "#c4a05a",
+   "length": 680,
+   "height": 320,
+   "leg_len": 150,
+   "leg_w": 48,
+   "ears": "round",
+   "tail": "thin",
+   "tail_w": 18,
+   "whiskers": true,
+   "mood": "calm",
+   "hump": 0,
+   "mane_on": true
+  }
+ },
+ "cap_key": [
+  "you",
+  "bear",
+  "lion",
+  "animals",
+  "win",
+  "meatball",
+  "pounds",
+  "katmai",
+  "coastal",
+  "probably",
+  "tested",
+  "noodle",
+  "camera"
+ ],
+ "title": "Bear vs Lion: Who Would Win? The Animals 🐻🦁 (Would Meatball Survive?)",
+ "description": "Bear versus lion, who would win? The animals. The Smithsonian's National Zoo says a male African lion weighs 330 to 550 pounds. At Katmai National Park and Preserve, the U.S. Park Service says most adult male brown bears typically weigh 600 to 900 pounds in mid-summer, and that large adult males can weigh well over 1,000 pounds by October and November. A big coastal brown bear would probably win on size. Nobody has tested it. Inland grizzly weights overlap a male lion's range, and agencies do not agree on a single bear top speed.\n\nTimed for Thanksgiving, November 26, 2026. This is about the animals.\n\n#bear #lion #grizzly #meatballmyths #shorts\n\nSources: Smithsonian's National Zoo; San Diego Zoo Wildlife Alliance lion fact sheet; U.S. Fish and Wildlife Service; U.S. National Park Service (Katmai, Yellowstone, Glacier, Staying Safe Around Bears). General information, not a predicted fight.",
+ "pinned_comment": "Who would you pick, and why? Remember: nobody has tested it.",
+ "_note": "YouTube Short v6, draft 2026-11-15, from /workspace/drafts/facts/bears-vs-lions.md (built from research/116 timing rules plus live pages opened this turn). 64 spoken words, runtime estimate 19.9s at 194.5 wpm (moose-minute calibration) plus 0.2s of listed pads. Target 16–20s. Mild words only: one 'damn' in the line 2 gag. At least two sourced facts (BL-F1, BL-F14) plus the winner rule (BL-R1). Hook is the searched animal question, and the first line says it is the animals. Line 2 is an acted Meatball gag (group photo, tiny camera; mic + present stands in; Studio should show both animals). Jokes add no number, danger, feeling, motive or safety instruction. Ending loops with 'And' in the garden/hook room. 'Would probably win on size' plus 'nobody has tested it'; the reason is Katmai's typical mid-summer male coastal brown bear weight versus the Smithsonian male lion range. Inland overlap and speed disagreement are in the description and the minute cut, not in this 20s room. No NFL team names, logos, marks, #nfl, score pick or betting. Thanksgiving, November 26, 2026 is named once in the description as a date only. NOT yet checked by a second model and not rendered. Two-animal staging uses other_creature / other_creature_cfg (not a standard single-creature key) plus a staging note.",
+ "beats": [
+  {
+   "open": "animal",
+   "open_zoom": 1.45,
+   "open_dx": -80,
+   "m": "hook",
+   "gag": {
+    "mark": "shock"
+   },
+   "_f": [
+    "BL-R1"
+   ],
+   "say": "Bear versus lion, who would win? The animals.",
+   "card": {
+    "rows": [
+     [
+      "THE ANIMALS",
+      "#ffd34d",
+      110
+     ],
+     [
+      "BEAR VERSUS LION, WHO WOULD WIN?",
+      "#ffffff",
+      44,
+      true
+     ]
+    ],
+    "y": 470,
+    "at": "45%"
+   }
+  },
+  {
+   "scene": "forest_floor",
+   "pad": 0.2,
+   "m": "fact",
+   "gag": false,
+   "_f": [],
+   "prop": "mic",
+   "pose": "present",
+   "hero_at": {
+    "x": 1100,
+    "y": 1500
+   },
+   "mb": {
+    "moves": [
+     {
+      "at": "4%",
+      "dur": 0.8,
+      "pos": [
+       540,
+       1500
+      ],
+      "walk": true
+     }
+    ],
+    "gest": [],
+    "look": "viewer"
+   },
+   "say": "Meatball tried a group photo. Tiny damn camera.",
+   "card": {
+    "rows": [
+     [
+      "GROUP PHOTO",
+      "#ffd34d",
+      110
+     ],
+     [
+      "MEATBALL, WITH A TINY CAMERA",
+      "#ffffff",
+      44,
+      true
+     ]
+    ],
+    "y": 470,
+    "at": "30%"
+   }
+  },
+  {
+   "scene": "tundra",
+   "m": "scale",
+   "gag": false,
+   "_f": [
+    "BL-F1"
+   ],
+   "say": "The Smithsonian's National Zoo says a male African lion weighs 330 to 550 pounds.",
+   "card": {
+    "rows": [
+     [
+      "330 TO 550 POUNDS",
+      "#ffd34d",
+      90
+     ],
+     [
+      "MALE AFRICAN LION: SMITHSONIAN'S NATIONAL ZOO",
+      "#ffffff",
+      40,
+      true
+     ]
+    ],
+    "y": 470,
+    "at": "30%"
+   }
+  },
+  {
+   "scene": "swamp",
+   "m": "scale",
+   "gag": false,
+   "_f": [
+    "BL-F14"
+   ],
+   "say": "The Park Service at Katmai says most adult male brown bears typically weigh 600 to 900 pounds in mid-summer.",
+   "card": {
+    "rows": [
+     [
+      "600 TO 900 POUNDS, MID-SUMMER",
+      "#ffd34d",
+      70
+     ],
+     [
+      "MOST ADULT MALES, KATMAI BROWN BEARS: PARK SERVICE",
+      "#ffffff",
+      36,
+      true
+     ]
+    ],
+    "y": 470,
+    "at": "25%"
+   }
+  },
+  {
+   "scene": "garden",
+   "m": "punch",
+   "gag": {
+    "mark": "alarm"
+   },
+   "_f": [
+    "BL-R1"
+   ],
+   "say": "A big coastal brown bear would probably win on size. Nobody has tested it. And",
+   "card": {
+    "rows": [
+     [
+      "PROBABLY, ON SIZE. NOBODY HAS TESTED IT.",
+      "#ffffff",
+      40,
+      true
+     ],
+     [
+      "WHO WOULD WIN? COMMENT",
+      "#ffd34d",
+      40,
+      true
+     ]
+    ],
+    "x": "right",
+    "y": 400,
+    "at": 0.0
+   }
+  }
+ ],
+ "tags": [
+  "bear vs lion who would win",
+  "grizzly bear vs lion who would win",
+  "bear versus lion",
+  "brown bear vs lion",
+  "who would win a bear or a lion",
+  "coastal brown bear weight",
+  "African lion weight",
+  "would meatball survive",
+  "Meatball Myths"
+ ]
+}
