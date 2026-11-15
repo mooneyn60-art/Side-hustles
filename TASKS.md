@@ -51,16 +51,16 @@ Source: [etsy-shop/listings/01-christmas-push.md](etsy-shop/listings/01-christma
 
 ### Valentine's 2027
 
-Source: [etsy-shop/listings/06-valentines.md](etsy-shop/listings/06-valentines.md). Eight merch concepts (tee, mug, bandana). The art is not made yet. See the 2026-11-15 line in [DECISIONS.md](DECISIONS.md).
+Source: [etsy-shop/listings/06-valentines.md](etsy-shop/listings/06-valentines.md) and [etsy-shop/ads/valentines-plan.md](etsy-shop/ads/valentines-plan.md). Eight merch concepts (tee, mug, bandana). The art is not made yet. The earlier mid-January draft target is replaced. See the 2026-11-15 Valentine timeline line in [DECISIONS.md](DECISIONS.md): art by Dec 18, drafts ready for review Jan 4, publishing approval by Jan 8, pins start Jan 10. Pins never link to drafts.
 
 1. **Confirm Feb 5 as the Valentine's order-by date** for physical items, using real Printify production and shipping times. Feb 5 is a working date until you confirm it.
-2. **Once Product Designer's art is ready, create the 8 Valentine products as unpublished drafts.** Aim for mid-January. Do not publish them.
+2. **Once Product Designer's art is ready, create the 8 Valentine products as unpublished drafts.** Drafts ready for review Jan 4. Do not publish them.
 
 ### Valentine printables
 
 Source: [etsy-shop/listings/07-valentine-printables.md](etsy-shop/listings/07-valentine-printables.md). Specs are in the 2026-11-15 Valentine printables line in [DECISIONS.md](DECISIONS.md). Use the same formats as the Christmas printables. Proposed prices (word search $3.99, bingo $3.49, cards $2.99) need Moondog88's okay before going live. The shop is still TBD.
 
-1. **Build these 3 Valentine printables with the etsy-factory pipeline** using those specs: a 24-puzzle word search (about 30 pages, answer key, Letter and A4 PDFs), bingo with 30 cards and 40 calling words, and "From the Dog" classroom cards (24 cards, 8 designs × 3, plus a blank-name version). Aim for drafts by Jan 5.
+1. **Build these 3 Valentine printables with the etsy-factory pipeline** using those specs: a 24-puzzle word search (about 30 pages, answer key, Letter and A4 PDFs), bingo with 30 cards and 40 calling words, and "From the Dog" classroom cards (24 cards, 8 designs × 3, plus a blank-name version). Aim for drafts by Jan 4.
 2. **Keep the upload draft-only (`publish=no`).** Confirm the AI-art disclosure if any art is AI-generated.
 
 ### Shop branding (draft)
