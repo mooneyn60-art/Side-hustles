@@ -47,3 +47,8 @@ Proposed prices: word search $3.99, bingo $3.49, cards $2.99. These are recommen
 The shop is still TBD, pending Moondog88.
 
 2026-11-15, Valentine timeline change (Etsy Studio): the earlier mid-January plan is replaced, so the pins never link to drafts. New dates: art by Dec 18, merch and printable listing drafts ready for review Jan 4, Moondog88 approves publishing by Jan 8, and pins start Jan 10. The Valentine Etsy Ads test ($3/day x 10 days, $30 cap, Jan 25 to Feb 3, on 5 listings) is a proposal only and needs Moondog88's approval separately from the Christmas ads approval.
+
+2026-11-15, Approved by Moondog88 directly in Etsy Studio's chat:
+(a) Run the Cyber Week sale: 15% off selected listings, Nov 27 12:00am to Dec 1 11:59pm ET. It only covers products whose Printify cost plus shipping is at or under the 15% ceilings (tee $9.95, bandana $7.26, ornament $6.50, mug $6.88, sweatshirt $15.30, tank $10.71). Any product over its ceiling stays out. Use no deeper discount.
+(b) Mac (the real cream/apricot doodle) can be featured on camera in posts and videos.
+(c) Moondog88 posts all Pinterest, Facebook group and TikTok content personally. Agents prepare the posts but never post them.
