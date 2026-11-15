@@ -46,6 +46,8 @@ Source: [etsy-shop/design/design-direction-2026-11-15.md](etsy-shop/design/desig
 5. **Fill the "December [DATE]" placeholder** in `fureverfaces/policies.md` with Dec 5, so it matches the Christmas cutoff already in the ads and listings.
 6. **Give each printable type its own cover layout and add the shop name.** Bingo and word search currently share one template with the title swapped, and the covers do not name the shop.
 
+- 2026-11-15 — Social Studio: first weekly brief added at channels/weekly-briefs/2026-11-16-weekly-brief.md (from Trends & Analytics). Key gaps: no Shorts logged for 11/22–11/24 or 11/26–12/4. Top idea: Bears vs Lions (the actual animals) for the 11/26 game.
+
 ## Production log
 
 When Claude's usage runs out, Etsy Studio does the production work (listing copy, design files, product prep) and logs each item here: date, what was done, file paths, and what Claude should pick up next.
