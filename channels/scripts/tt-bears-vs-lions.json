@@ -103,7 +103,7 @@
  "title": "Bear vs Lion: Who Would Win? The Animals 🐻🦁 (Would Meatball Survive?)",
  "description": "Bear versus lion, who would win? The animals. The Smithsonian's National Zoo says a male African lion weighs 330 to 550 pounds. At Katmai National Park and Preserve, the U.S. Park Service says most adult male brown bears typically weigh 600 to 900 pounds in mid-summer, and that large adult males can weigh well over 1,000 pounds by October and November. A big coastal brown bear would probably win on size. Nobody has tested it. Inland grizzly weights overlap a male lion's range, and agencies do not agree on a single bear top speed.\n\nTimed for Thanksgiving, November 26, 2026. This is about the animals.\n\n#bear #lion #grizzly #meatballmyths #shorts\n\nSources: Smithsonian's National Zoo; San Diego Zoo Wildlife Alliance lion fact sheet; U.S. Fish and Wildlife Service; U.S. National Park Service (Katmai, Yellowstone, Glacier, Staying Safe Around Bears). General information, not a predicted fight.",
  "pinned_comment": "Who would you pick, and why? Remember: nobody has tested it.",
- "_note": "LEAD-NOTES TikTok minute cut (template tt-grizzly-wms.json; timed for Thanksgiving, Thursday Nov 26, 2026). Draft 2026-11-15. THIS CUT DELIBERATELY DEPARTS from MASTER_ORDERS / Nolan 11/11, which say TikTok cuts get about one swear per line and 6–9 sweary jokes per minute. Lead notes: 5 swears total; first 3s clean except one 'Holy shit'; strongest jokes on lines 4, 6 and 9; Noodle planted early with one acted shot around line 3 ('His dog, Noodle,' comma; card NOODLE SITS THIS ONE OUT; Meatball waves) so the line 14 camera payoff hits harder. Jokes add no number, danger, feeling, motive or safety instruction. 286 spoken words, runtime estimate 89.6s at 194.5 wpm plus 1.40s of listed pads (target 65–90s). Facts from /workspace/drafts/facts/bears-vs-lions.md. Live pages opened 2026-11-15. Hook is the searched animal question; first line says it is the animals; line 2 is the acted group-photo gag; loop ending in the garden room. Winner rule: a big coastal brown bear would probably win on size (Katmai weights vs Smithsonian / SDZWA lion weights); nobody has tested it. Inland / lower-48 grizzly ranges overlap a male lion's, and that is said separately (BL-R2). Bear speed is not given as one number (racehorse, Yellowstone up to 40 mph, Glacier 35). Lion speed uses the SDZWA fact sheet's own km/h and mph, with bursts / short distance. No NFL team names, logos, marks, #nfl, score pick or betting. Thanksgiving date is in the caption as a date only. NOT yet checked by a second model and not rendered. No Noodle character key in the schema; Studio must draw the plant and the payoff. Two animals: other_creature lion cfg plus staging note.",
+ "_note": "RULES-DEFAULT TikTok minute cut (template tt-grizzly-wms.json; timed for Thanksgiving, Thursday Nov 26, 2026). Draft 2026-11-15. Follows MASTER_ORDERS / Nolan 11/11: about one swear per line, 6–9 sweary jokes per minute. Facts, credits and the winner hedge ('would probably win on size' / 'Nobody has tested it') are said clean, with the swear after. Same facts, structure, and Noodle plant/payoff as the lighter variant tt-bears-vs-lions-v2.json (that file keeps the 4–5-swear lead notes until Moondog88 picks). 293 spoken words, runtime estimate 91.8s at 194.5 wpm plus 1.40s of listed pads. Hook is the searched question and says it is the animals; line 2 is the acted group-photo gag; Noodle planted early with one acted shot around line 3 ('His dog, Noodle,' comma) and a late camera payoff. Ending is non-survival: it drops 'Meatball lived. Nothing's guaranteed.' and ends on the untested hedge plus the hook question, then 'And' loops into the hook in the garden room. Winner rule: a big coastal brown bear would probably win on size (Katmai weights vs Smithsonian / SDZWA lion weights); nobody has tested it. Inland / lower-48 grizzly ranges overlap a male lion's, and that is said separately (BL-R2). Bear speed is not given as one number (racehorse, Yellowstone up to 40 mph, Glacier 35). Lion speed uses the SDZWA fact sheet's own km/h and mph, with bursts / short distance. No NFL team names, logos, marks, #nfl, score pick or betting. Thanksgiving date is in the caption as a date only. Fact pack: /workspace/drafts/facts/bears-vs-lions.md. NOT yet checked by a second model and not rendered. No Noodle character key in the schema; Studio must draw the plant and the payoff. Two animals: other_creature lion cfg plus staging note.",
  "beats": [
   {
    "open": "animal",
@@ -162,7 +162,7 @@
     "gest": [],
     "look": "viewer"
    },
-   "say": "Meatball tried a group photo. Tiny camera.",
+   "say": "Meatball tried a group photo. Tiny fucking camera.",
    "card": {
     "rows": [
      [
@@ -199,7 +199,7 @@
      ]
     ]
    },
-   "say": "His dog, Noodle, already sat this one out. Meatball waved him in.",
+   "say": "His dog, Noodle, sat this one out. Meatball waved him in. Bold as fuck.",
    "card": {
     "rows": [
      [
@@ -253,7 +253,7 @@
    "_f": [
     "BL-F3"
    ],
-   "say": "A San Diego Zoo Wildlife Alliance fact sheet lists male lions at 331 to 496 pounds.",
+   "say": "A San Diego Zoo Wildlife Alliance fact sheet lists male lions at 331 to 496 pounds. No fucking prize.",
    "card": {
     "rows": [
      [
@@ -282,7 +282,7 @@
     "BL-F7",
     "BL-R2"
    ],
-   "say": "In the lower 48 states, the U.S. Fish and Wildlife Service says adult male grizzlies average 400 to 600 pounds. Those ranges overlap. Meatball still wanted a winner. Too fucking soon.",
+   "say": "In the lower 48, the U.S. Fish and Wildlife Service says adult male grizzlies average 400 to 600 pounds. Those ranges overlap. Too fucking soon.",
    "card": {
     "rows": [
      [
@@ -309,7 +309,7 @@
     "BL-F8",
     "BL-F11"
    ],
-   "say": "Yellowstone's ecology page says male grizzlies weigh 200 to 700 pounds. Glacier, another Park Service park, lists adult males at 300 to 440 pounds.",
+   "say": "Yellowstone's ecology page says male grizzlies weigh 200 to 700 pounds. Glacier, also Park Service, lists adult males at 300 to 440 pounds. One messy fucking chart.",
    "card": {
     "rows": [
      [
@@ -337,7 +337,7 @@
     "BL-F8",
     "BL-F11"
    ],
-   "say": "Bear speed is not one number. The Park Service says bears can run as fast as a racehorse, uphill and down. Yellowstone's ecology page says up to 40 miles per hour. Glacier lists 35.",
+   "say": "Bear speed is not one number. The Park Service says as fast as a racehorse, uphill and down. Yellowstone says up to 40 miles per hour. Glacier lists 35. Fuck.",
    "card": {
     "rows": [
      [
@@ -365,7 +365,7 @@
    "_f": [
     "BL-F5"
    ],
-   "say": "The same fact sheet says lions have short bursts up to 45 to 60 kilometers per hour, about 24 to 37 miles per hour. Meatball timed nothing. Worst fucking stopwatch.",
+   "say": "The same fact sheet says lions have short bursts of 45 to 60 kilometers per hour, about 24 to 37 miles per hour. Worst fucking stopwatch.",
    "card": {
     "rows": [
      [
@@ -391,7 +391,7 @@
    "_f": [
     "BL-F14"
    ],
-   "say": "At Katmai, another Park Service park, most adult male brown bears typically weigh 600 to 900 pounds in mid-summer. Large adult males can weigh well over 1,000 pounds by October and November.",
+   "say": "At Katmai, the Park Service says most adult male brown bears typically weigh 600 to 900 pounds in mid-summer. Large adult males can weigh well over 1,000 pounds by October and November. Holy shit.",
    "card": {
     "rows": [
      [
@@ -417,7 +417,7 @@
    "_f": [
     "BL-R1"
    ],
-   "say": "So a big coastal brown bear would probably win on size. Nobody has tested it.",
+   "say": "So a big coastal brown bear would probably win on size. Nobody has tested it. Fuck.",
    "card": {
     "rows": [
      [
@@ -443,7 +443,7 @@
    "_f": [
     "BL-R2"
    ],
-   "say": "An inland grizzly is different. Those weights overlap a male lion's. Nobody has tested that either.",
+   "say": "An inland grizzly is different. Those weights overlap a male lion's. Nobody has tested that either. No fucking trophy.",
    "card": {
     "rows": [
      [
@@ -469,7 +469,7 @@
    "_f": [
     "BL-F15"
    ],
-   "say": "Katmai says there have been no documented cases of a Yellowstone grizzly weighing over 900 pounds.",
+   "say": "Katmai says there have been no documented cases of a Yellowstone grizzly weighing over 900 pounds. Tough shit.",
    "card": {
     "rows": [
      [
@@ -494,7 +494,7 @@
    "m": "fact",
    "gag": false,
    "_f": [],
-   "say": "His dog, Noodle, already had the fucking camera.",
+   "say": "His dog, Noodle, already had the camera. Little fucking photographer.",
    "card": {
     "rows": [
      [
@@ -515,13 +515,19 @@
     "mark": "alarm"
    },
    "_f": [],
-   "say": "Meatball lived. Nothing's guaranteed. Who would win, a bear or a lion? And",
+   "say": "Nobody has tested it. Who would win, a bear or a lion? Fucking wild. And",
    "card": {
     "rows": [
      [
       "WHO WOULD WIN, A BEAR OR A LION? COMMENT",
       "#ffffff",
       36,
+      true
+     ],
+     [
+      "NOBODY HAS TESTED IT",
+      "#ffd34d",
+      44,
       true
      ]
     ],
@@ -571,5 +577,5 @@
   "y": 150,
   "until": 2.5
  },
- "_curse": "Lead-notes variant: 5 swears total, not one-a-line. The five are: Holy shit (hook only); Tiny fucking arms (line 4); Too fucking soon (line 6); Worst fucking stopwatch (line 9); fucking camera (line 14 payoff). Every other reaction is clean. Facts, credits and the winner rule are said clean; swears sit in the Meatball joke after, or in the hook reaction. Jokes add no number, danger, feeling, motive or safety instruction. No insult uses 'you'. THIS CUT DELIBERATELY DEPARTS from MASTER_ORDERS / Nolan 11/11 (one swear per line, 6–9 sweary jokes per minute)."
+ "_curse": "Rules-default / Nolan 11/11: about one swear per line; 6–9 sweary jokes (tiny fucking camera; bold as fuck; tiny fucking arms; no fucking prize; too fucking soon; one messy fucking chart; worst fucking stopwatch; no fucking trophy; little fucking photographer). Bare reactions sit after clean facts or the winner hedge (Holy shit; Fuck; Holy shit; Fuck; Tough shit; Fucking wild). Facts, credits and 'Nobody has tested it' stay clean; the swear is the reaction after. Jokes add no number, danger, feeling, motive or safety instruction. No insult uses 'you'. The lighter 4–5-swear cut is tt-bears-vs-lions-v2.json, kept until Moondog88 picks."
 }
