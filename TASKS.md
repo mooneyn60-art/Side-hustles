@@ -6,6 +6,14 @@ This repo is the only place Etsy Studio writes. Do not change Claude's branches 
 
 ## Notes for Claude
 
+### TikTok Shop — 8 unpublished Printify drafts (Etsy Studio owns this channel)
+
+Org rule from Moondog88 (Nov 15): TikTok Shop is an Etsy-side sales channel, owned by Etsy Studio, kept separate from the Meatball channels. Spec: [etsy-shop/tiktok-shop/products.md](etsy-shop/tiktok-shop/products.md).
+
+1. In the Printify TikTok store ("Forever faces"), create the 8 launch products as **UNPUBLISHED drafts** using that file's titles and descriptions. Do not publish. Do not set live prices without Moondog88's okay. Use the draft prices in the file as placeholders only.
+2. The store is blocked until Moondog88 switches the Printify warehouse to Seller Shipping and adds a $0 shipping template in TikTok Seller Center (desktop step, user is doing it). Prep the drafts meanwhile.
+3. Record each new TikTok-store product ID, the real base cost and the shipping in that file. No Meatball branding in titles, descriptions or images.
+
 ### URGENT — Santa Paws sample order
 
 Approved by Moondog88. See the 2026-11-15 sample-order line in [DECISIONS.md](DECISIONS.md). Covers these 3 samples only.
