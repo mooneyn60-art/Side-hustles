@@ -10,6 +10,8 @@ This repo is the only place Etsy Studio writes. Do not change Claude's branches 
 
 1. **Shop name, customer-facing:** PrintanPress (the Etsy shop name in `skills/dropship/ETSY_STATE.md` on `claude/blissful-allen-waez05`, shop id 38484468) vs FurEver Faces (the brand in logos, policies, ads, and listing docs). Recommendation from the Nov 15 audit: use FurEver Faces everywhere customers see the shop; do not lead with PrintanPress.
 2. **Ornament price:** $16.99 in `skills/dropship/ETSY_STATE.md` vs $21.99 in `skills/dropship/ETSY_LISTINGS.md`. Check actual Printify cost plus shipping, then pick one price and use it in every Santa Paws / Snow Day / Mom / Dad ornament listing. Do not paste listing copy live until this is decided.
+3. **Shopify "no photo upload" vs the custom-art runbook:** `ADS_READY.md` says no custom art and no photo upload. `ORDER_RUNBOOK.md` is a photo-to-art flow (pet name and pet photo, proof before print). Personalized Rookie Card / tarot cannot check out on a storefront that cannot collect a photo. Decide which setting is live before that line is advertised. Detail is in [etsy-shop/design/design-direction-2026-11-15.md](etsy-shop/design/design-direction-2026-11-15.md).
+4. **Whether `ETSY_STATE.md` should leave the public repo:** On `claude/blissful-allen-waez05` it holds the Etsy shop id, Printify store ids, Printify product ids, and a Make.com scenario id. No API tokens were found. Decide whether those shop, store, product, and Make.com IDs should move out of the public repo.
 
 ### Prioritized tasks and deadlines
 
@@ -32,6 +34,17 @@ Source-of-truth files (read only; do not edit Claude's branches):
 ### Holiday marketing plan (draft)
 
 [etsy-shop/ads/holiday-marketing-plan.md](etsy-shop/ads/holiday-marketing-plan.md) — promo plan through Dec 5, Pinterest, Facebook doodle groups, corrected `ADS_READY` copy with placeholders, and an Etsy Ads suggestion ($1–$3/day test or $5/day). Nothing in it goes live without Moondog88's okay. Open **[CONFIRM]** items are in Appendix D. The $49 free-shipping threshold in that plan is **[CONFIRM]**. At `ETSY_STATE.md` prices, Santa tee + dog bandana is $26 + $18.99 = $44.99 ($4.01 short). Bundles that do clear $49: tee + tank $53.99, sweatshirt + bandana $58.98, tee + bandana + ornament $61.98.
+
+### Design direction (2026-11-15)
+
+Source: [etsy-shop/design/design-direction-2026-11-15.md](etsy-shop/design/design-direction-2026-11-15.md). Do not edit Claude's branches from this notebook; these are the tasks to pick up there.
+
+1. **Before the Dec 5 cutoff:** Build the Christmas listing photos from the shot lists in that file. Export every slot at 2000×2000, 1:1, in the 10-slot order (thumbnail lifestyle, Printify on-product front, detail/macro, second lifestyle, scale/in-hand, back or second angle, color/size variants, matching set if any, gift-context, size chart / materials). Real photos are preferred for thumbnails.
+2. **Make the missing ornament mockups** for Snow Day, Doodle Mom, and Doodle Dad. Printify has `orn-snow`, `orn-mom`, and `orn-dad`; `fureverfaces/` has no local ornament mockup for those three.
+3. **Fix the logo tagline color** from `#14100E` to `#FFF2DE` on `fureverfaces/logo/mac-shopify-logo.png` ("THE DOODLE SHOP" on the black Shopify lockup).
+4. **Replace the 640×800 upscaled pipeline art** with higher-res output for print. Personalized renders start at 640×800 and are enlarged, which is soft on a 16×20 canvas.
+5. **Fill the "December [DATE]" placeholder** in `fureverfaces/policies.md` with Dec 5, so it matches the Christmas cutoff already in the ads and listings.
+6. **Give each printable type its own cover layout and add the shop name.** Bingo and word search currently share one template with the title swapped, and the covers do not name the shop.
 
 ## Production log
 
@@ -62,3 +75,9 @@ What Claude should pick up next:
 2026-11-15, Etsy: Marketing & Ads, holiday marketing plan drafted (promo plan to Dec 5, Pinterest, Facebook doodle groups, corrected ADS_READY copy with placeholders, Etsy Ads suggestion of $1-3/day test or $5/day pending Moondog88 approval); open [CONFIRM] items in Appendix D.
 
 File: [etsy-shop/ads/holiday-marketing-plan.md](etsy-shop/ads/holiday-marketing-plan.md)
+
+### 2026-11-15 — Etsy: Product Designer
+
+2026-11-15, Etsy: Product Designer, design direction delivered (Christmas shot lists, Valentine's and Doodle Resolutions briefs, Rookie Card/tarot premium formats, printable cover fixes, logo contrast fix).
+
+File: [etsy-shop/design/design-direction-2026-11-15.md](etsy-shop/design/design-direction-2026-11-15.md)
