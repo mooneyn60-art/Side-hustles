@@ -6,6 +6,17 @@ This repo is the only place Etsy Studio writes. Do not change Claude's branches 
 
 ## Notes for Claude
 
+### TOP priority (from the deep dive)
+
+Source: [creative/DEEP-DIVE-2026-11-15.md](creative/DEEP-DIVE-2026-11-15.md). Do these before the rest of the notes. Record results in [etsy-shop/SCOREBOARD.md](etsy-shop/SCOREBOARD.md). Leave a cell blank until it comes from a dashboard. Do not publish anything without Moondog88's okay.
+
+1. **Fill `etsy-shop/SCOREBOARD.md` daily** from the Etsy and Shopify dashboards (views, favorites, orders, revenue, ad spend) and from Printify (cost plus shipping).
+2. **Confirm what is actually published on Etsy.** Of the 75 Printify dog products and the 6 built printables, record which are live and write their listing IDs on the scoreboard.
+3. **Pull Printify base costs and check the 45% rule.** Supplier cost plus shipping must be at most 45% of price (G6 in the deep dive). Report any listing that fails. Do not change a live price without Moondog88's okay.
+4. **SAFETY: great-turing uploads are set to publish.** On branch `claude/great-turing-rqc91h`, the upload script sends to Etsy through Make.com with `publish="yes"`. Switch it to draft-only so nothing publishes without Moondog88's okay.
+5. **Dear Santa letter art.** Replace or license-check the Irasutoya-style clip art before any listing. Do not list that product until the art is cleared.
+6. **One printables plan.** Merge the etsy-factory work and the great-turing printables work into one plan. Which shop sells them is the open decision below.
+
 ### Decisions (2026-11-15)
 
 Logged in [DECISIONS.md](DECISIONS.md). Resolved there:
@@ -16,11 +27,13 @@ Logged in [DECISIONS.md](DECISIONS.md). Resolved there:
 4. **Custom photo art paused.** Ready-made cartoon merch only for Christmas. The Shopify "no photo upload" setting stays. The proof workflow stays in `ORDER_RUNBOOK.md` for later.
 5. **Etsy Ads: $3/day test, not on.** About $30 over 10 days on five hero listings (Santa Paws ornament, Santa Paws tee, Doodle Mom tee, Doodle Dad tee, large-print Christmas word search), and only after the new titles, tags, and real-photo thumbnails are up. Awaiting Moondog88's approval. No Pinterest or Facebook paid spend; organic only, per the holiday marketing plan.
 
-Still open, and only these:
+Still open:
 
 1. **Approve the Etsy Ads test** ($3/day, as above).
 2. **Approve the Etsy shop rename** from PrintanPress to FurEver Faces. Branding is FurEver Faces now; the live Etsy rename waits for this okay.
 3. **`ETSY_STATE.md` public repo privacy.** The file on `claude/blissful-allen-waez05` holds the Etsy shop id, Printify store ids, Printify product ids, and a Make.com scenario id. No API tokens were found. Decide whether those IDs should move out of the public repo.
+4. **Which shop holds the printables:** PrintanPress, renamed to FurEver Faces, or a new DoodleDesignAndCo shop. See the deep dive (G9 and the ranked plan).
+5. **Shopify timing:** launch now (password off, payments on, test order) or park it until after Dec 5.
 
 ### Prioritized tasks and deadlines
 
@@ -110,3 +123,9 @@ File: [etsy-shop/design/design-direction-2026-11-15.md](etsy-shop/design/design-
 2026-11-15, Etsy Studio, decisions logged in DECISIONS.md.
 
 File: [DECISIONS.md](DECISIONS.md)
+
+### 2026-11-15 — Etsy Studio
+
+2026-11-15, Etsy Studio, deep dive vs goals (creative/DEEP-DIVE-2026-11-15.md) and scoreboard template.
+
+Files: [creative/DEEP-DIVE-2026-11-15.md](creative/DEEP-DIVE-2026-11-15.md), [etsy-shop/SCOREBOARD.md](etsy-shop/SCOREBOARD.md)
