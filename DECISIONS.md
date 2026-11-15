@@ -30,3 +30,5 @@ Chosen by Etsy Studio. **Approved** by Moondog88 (relayed via Jarvis, 2026-11-15
 2026-11-15, Mug price: $17.99 per ETSY_STATE.md, not $18.00. The 20 ETSY_LISTINGS drafts with no Printify ID (9 mugs, 5 ornaments, 6 wall art) are backlog and won't be created before Christmas; we focus on existing products.
 
 2026-11-15, Approved by Moondog88 (relayed via Jarvis): (a) Etsy Ads test at $3/day for 10 days (about $30 total) on the 5 hero listings. It starts only after their new titles and photos are live. Pause physical items at the Dec 5 shipping cutoff. Nothing beyond this budget or scope. (b) Rename the Etsy shop from PrintanPress to FurEver Faces.
+
+2026-11-15, Shopify is parked until after Christmas (Etsy Studio decision, agreed with Jarvis). It's reversible. All holiday effort goes to Etsy. Don't spend time on Shopify launch tasks before Dec 26. The store stays up as-is: no changes, no deletion. Printables shop location is still open and waiting on Moondog88. Until then, printables stay where they are now, and no new Etsy shop gets created.

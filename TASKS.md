@@ -46,18 +46,18 @@ Logged in [DECISIONS.md](DECISIONS.md). Resolved there:
 Still open:
 
 1. **`ETSY_STATE.md` public repo privacy.** The file on `claude/blissful-allen-waez05` holds the Etsy shop id, Printify store ids, Printify product ids, and a Make.com scenario id. No API tokens were found. Decide whether those IDs should move out of the public repo.
-2. **Which shop holds the printables:** PrintanPress, renamed to FurEver Faces, or a new DoodleDesignAndCo shop. See the deep dive (G9 and the ranked plan).
-3. **Shopify timing:** launch now (password off, payments on, test order) or park it until after Dec 5.
+2. **Which shop holds the printables:** PrintanPress, renamed to FurEver Faces, or a new DoodleDesignAndCo shop. See the deep dive (G9 and the ranked plan). Waiting on Moondog88. Don't create a second shop.
+3. **Shopify timing:** parked until after Christmas. Do not launch (password, payments, test order) before Dec 26. The store stays up as-is: no changes, no deletion. It's reversible. All holiday effort goes to Etsy.
 
 ### Prioritized tasks and deadlines
 
 All dates are America/New_York. Today, when this notebook started, was Sunday, Nov 15, 2026. Thanksgiving is Thursday, Nov 26. The dog shop's Christmas ship cutoff in the files is Dec 5.
 
-1. **This week (by Wed, Nov 18):** Confirm what is actually live on Etsy and Shopify. Printify product IDs exist as of Nov 14, but the files do not prove listings are published. Shopify, as of Nov 14, still needed the store password removed, payments turned on, and a test order (Nolan only). There is no sales or performance data in the source files.
+1. **This week (by Wed, Nov 18):** Confirm what is actually live on Etsy. Printify product IDs exist as of Nov 14, but the files do not prove listings are published. There is no sales or performance data in the source files. Shopify launch (password off, payments on, test order) is parked until after Christmas. Do not spend time on it before Dec 26. The store stays up as-is.
 2. **This week, as soon as #1 is clear:** If the six finished printables are not live, publish them now (Christmas word search, Christmas bingo, Christmas would-you-rather, Thanksgiving word search, Thanksgiving bingo, large-print seniors word search). Do not spend this week building more Thanksgiving SKUs — Thanksgiving is Nov 26, and the Oct 15 research said those needed to be live in October.
 3. **This week:** Build and list Christmas trivia (already planned in `skills/etsy-factory/research/demand.md` at $3.49). Put FurEver Faces on every printable cover, and make bingo vs word search visually distinct.
 4. **Before Dec 5:** For physical dog merch, lead with a short Christmas list, not the full Printify spray: Santa Paws ornament and tee, Snow Day, Doodle Mom/Dad, and the matching human-tee + dog-bandana sets (Santa / Mom / Dad). Write the missing listing copy for those dog bandanas and tanks. Use the rewritten listings in this repo (see Production log). Ornament price on the record is $16.99 from `ETSY_STATE.md`; check the margin before anything goes live (see the tasks below). The Santa tee + dog bandana pair does not cross the $49 Shopify free-shipping line. At `ETSY_STATE.md` prices it is $26 + $18.99 = $44.99, which is $4.01 short. Bundles that do clear $49: tee + tank $53.99, sweatshirt + bandana $58.98, tee + bandana + ornament $61.98. Shopify keeps the $49 threshold.
-5. **Custom photo art is paused** through the Christmas cutoff. Do not sell the personalized Rookie Card / tarot / memorial / photo-on-product line until the end-to-end test below has passed and Moondog88 relaunches it. `ADS_READY.md` and the Shopify policies still disagree on whether custom art is offered; align the policies with ready-made only.
+5. **Custom photo art is paused** through the Christmas cutoff. Do not sell the personalized Rookie Card / tarot / memorial / photo-on-product line until the end-to-end test below has passed and Moondog88 relaunches it. Aligning the Shopify policies with ready-made only is parked until after Christmas. Do not change the store before Dec 26.
 6. **By mid-December:** Valentine's doodle merch (tee/mug/bandana) plus a Valentine's large-print word search and classroom bingo, so listings can index before February. Suggested printable price $2.99–$3.49 and merch at current tee/mug prices — ideas only, not verified market data.
 7. **First week of January:** Ship the already-planned sinking-funds/budget planner ($4.99) and weekly meal planner ($3.99), plus a light "Doodle Resolutions" cartoon if capacity allows.
 
@@ -86,11 +86,11 @@ Source: [etsy-shop/design/design-direction-2026-11-15.md](etsy-shop/design/desig
 
 Source: [DECISIONS.md](DECISIONS.md).
 
-1. **Use FurEver Faces branding everywhere** customers see the shop: listing copy, images, covers, ads, and Shopify. Hero line stays "For people owned by a doodle." "The Doodle Shop" is a secondary tag only. The live Etsy rename from PrintanPress to FurEver Faces is **approved**; do it and log the date.
+1. **Use FurEver Faces branding everywhere** customers see the shop on Etsy: listing copy, images, covers, and ads. Hero line stays "For people owned by a doodle." "The Doodle Shop" is a secondary tag only. The live Etsy rename from PrintanPress to FurEver Faces is **approved**; do it and log the date. Shopify store branding is parked until after Christmas. The store stays as-is.
 2. **Correct "from $21.99" to "from $16.99"** in ad copy. All copy, ads, and "from $X" lines use the `ETSY_STATE.md` prices.
 3. **Check the ornament margin** against Printify cost plus fees and report it. Keep $16.99 as the record. If the margin is thin, propose $19.99 to Moondog88 instead of jumping to $21.99. No live price change without that okay.
-4. **Align the Shopify policies with "ready-made only for now."** Soften or remove custom-art promises so they match the paused photo-upload setting. Keep the proof workflow in `ORDER_RUNBOOK.md` for later.
-5. **Run one end-to-end custom-art test** (photo in, proof, Printify order) before the relaunch. After that test passes, the personalized Rookie Card and "The Good Boy" tarot can come back as a separate "Your dog, your art" collection: digital PDF after Dec 5, printed versions for Valentine's.
+4. **Align the Shopify policies with "ready-made only for now."** Parked until after Christmas. Do not change the store before Dec 26. Keep the proof workflow in `ORDER_RUNBOOK.md` for later.
+5. **Run one end-to-end custom-art test** (photo in, proof, Printify order) before the relaunch. Parked until after Christmas; this is a Shopify launch task. After that test passes, the personalized Rookie Card and "The Good Boy" tarot can come back as a separate "Your dog, your art" collection: digital PDF after Dec 5, printed versions for Valentine's.
 
 - 2026-11-15 — Social Studio: first weekly brief added at channels/weekly-briefs/2026-11-16-weekly-brief.md (from Trends & Analytics). Key gaps: no Shorts logged for 11/22–11/24 or 11/26–12/4. Top idea: Bears vs Lions (the actual animals) for the 11/26 game.
 - 2026-11-15 — Social Studio: URGENT for tonight's Sun 11/15 21:30 ET slot: TikTok minute cut of bison-wms is drafted at channels/scripts/tt-bison-wms.md (+ .json, tt-grizzly-wms shape) by Scriptwriter. Facts checked against live NPS pages (table inside). Still needs your second-model check, render, postkit lint and transcript check before scheduling. Posting still needs Moondog88's okay.
