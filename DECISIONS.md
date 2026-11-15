@@ -26,3 +26,5 @@ Chosen by Etsy Studio. This needs Moondog88's okay before anything turns on.
 - Start only after those listings have the new titles and tags and real-photo thumbnails, since ads on weak listings waste money.
 - Review after 7-10 days on views, clicks, orders and spend per order. Pause physical items at the Dec 5 cutoff, and keep the printable running through Christmas.
 - No Pinterest or Facebook paid spend for now. Organic only, per etsy-shop/ads/holiday-marketing-plan.md.
+
+2026-11-15, Mug price: $17.99 per ETSY_STATE.md, not $18.00. The 20 ETSY_LISTINGS drafts with no Printify ID (9 mugs, 5 ornaments, 6 wall art) are backlog and won't be created before Christmas; we focus on existing products.
