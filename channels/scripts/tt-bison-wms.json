@@ -1,0 +1,694 @@
+{
+ "voice": "en-US-AndrewMultilingualNeural",
+ "rate": "+10%",
+ "pitch": "+3Hz",
+ "music": "detective",
+ "music_db": -13,
+ "captions": 66,
+ "caption_y": 1180,
+ "cut_whoosh": true,
+ "loop": true,
+ "photo_credits": [],
+ "cap_swap": {
+  "shit": "sh*t",
+  "shits": "sh*ts",
+  "shitty": "sh*tty",
+  "bullshit": "bullsh*t",
+  "fuck": "f**k",
+  "fucking": "f**king",
+  "fucker": "f**ker",
+  "fuckers": "f**kers"
+ },
+ "series": "Would Meatball Survive?",
+ "sources": [
+  "U.S. National Park Service, Yellowstone National Park, Safety (the page says last updated July 28, 2026; opened by the script writer 2026-11-15 via the live page): \"Bison may appear tranquil, but these large animals have injured more people in Yellowstone than any other animal.\"; \"They can run 3x faster than humans, making it very important to give them plenty of space.\"; \"Keep at least 25 yards (23 meters) from bison at all times and never approach a bison to take a photo.\"; \"If need be, turn around and go the other way if a bison walks within 25 yards.\"; heading \"Run away if a bison charges\"; \"If approached too closely, bison may respond by bluff charging, head bobbing while staring at you, pawing, bellowing, or raising its tail.\"; \"These are warning signs that you are too close and that a charge is imminent\"; \"do not stand your ground! Immediately walk or run away from the animal. If the bison follows you, spray bear spray as you are moving away, and seek cover behind nearby trees or cars.\"; https://www.nps.gov/yell/planyourvisit/safety.htm",
+  "U.S. National Park Service, Yellowstone National Park, Bison (the page says last updated May 4, 2026; opened 2026-11-15), used for the drawing and the size line: \"The bison is the largest land mammal in North America. Males (bulls) weigh up to 2,000 pounds (900 kg), females (cows) weigh about 1,000 pounds (500 kg).\"; \"All bison have a protruding shoulder hump.\"; \"Both sexes have relatively short horns that curve upward\"; a bull's beard is thicker. The same page disagrees with itself on speed (summary: \"can run up to 30 miles per hour\"; description and FAQ: \"can run up to 35 miles per hour (55 kph)\"); this cut uses none of those mph figures. https://www.nps.gov/yell/learn/nature/bison.htm",
+  "U.S. National Park Service, Wind Cave National Park, Safety (the page says last updated July 26, 2025; opened 2026-11-15): \"You must stay at least 25 yards (23 meters) from all wildlife, but it is strongly recommended to stay farther away from bison.\"; \"Bison are more aggressive during the calving and mating season from May through August.\"; also \"They can run 35 mph, weigh up to a ton\" (mph not used). https://www.nps.gov/wica/planyourvisit/safety.htm"
+ ],
+ "stage": {
+  "creature": "bison",
+  "scene": "garden",
+  "scene_p": {
+   "props": [
+    [
+     "tree",
+     -100,
+     1300,
+     1.0
+    ],
+    [
+     "rock",
+     1180,
+     1500,
+     0.9
+    ],
+    [
+     "grass",
+     300,
+     1500,
+     1.0
+    ]
+   ]
+  },
+  "s": 0.85,
+  "creature_cfg": {
+   "plan": "mammal",
+   "label": "bison",
+   "color": "#5b3d2a",
+   "dark": "#3b2619",
+   "belly": "#6f4d36",
+   "mane": "#2f1e13",
+   "tail_color": "#3b2619",
+   "length": 740,
+   "height": 400,
+   "leg_len": 170,
+   "leg_w": 58,
+   "ears": "tiny",
+   "tail": "thin",
+   "tail_w": 20,
+   "whiskers": false,
+   "mood": "calm",
+   "hump": 0.9,
+   "horns": true,
+   "beard": true,
+   "horn_w": 34,
+   "horn_color": "#d9d2bd"
+  }
+ },
+ "cap_key": [
+  "you",
+  "bison",
+  "charges",
+  "walk",
+  "run",
+  "meatball",
+  "selfie",
+  "tail",
+  "warning",
+  "twentyfive",
+  "yards",
+  "three",
+  "faster",
+  "pounds",
+  "yellowstone",
+  "injured",
+  "tranquil",
+  "spray",
+  "noodle",
+  "lived",
+  "guaranteed"
+ ],
+ "title": "What to Do If a Bison Charges You: It Can Run 3x Faster Than Humans 🦬 (Would Meatball Survive? #5)",
+ "tiktok_title": "What to Do If a Bison Charges You",
+ "tiktok_caption": "what to do if a bison charges you 🦬 If a bison charges, Yellowstone's safety page (U.S. National Park Service) says: do not stand your ground, immediately walk or run away from the animal. If the bison follows you, it says to spray bear spray as you are moving away and seek cover behind nearby trees or cars. Keep at least 25 yards (23 meters) from bison at all times and never approach a bison to take a photo. It says bison can run 3x faster than humans, and that in Yellowstone they have injured more people than any other animal. Meatball walked up for a selfie. Tiny selfie stick. Its tail went up. Meatball waved back. His dog, Noodle, took the snacks. General info, not safety training. Send this to the friend who would go in for the selfie. How far away were you from a bison: more than 25 yards, or less? #bison #yellowstone #yellowstonenationalpark #nationalpark #wildlife",
+ "description": "What to do if a bison charges you? Yellowstone's safety page (U.S. National Park Service) says: do not stand your ground. Immediately walk or run away from the animal. If the bison follows you, it says to spray bear spray as you are moving away and seek cover behind nearby trees or cars. The same page says to keep at least 25 yards (23 meters) from bison at all times and never approach a bison to take a photo. It says bison can run 3x faster than humans, and that they have injured more people in Yellowstone than any other animal. If approached too closely, it says, a bison may respond by bluff charging, head bobbing while staring at you, pawing, bellowing, or raising its tail: warning signs that you are too close and that a charge is imminent. The Park Service also says a bison is the largest land mammal in North America, and bulls weigh up to 2,000 pounds. Wind Cave National Park, another NPS park, says stay at least 25 yards from all wildlife and stay farther from bison.\n\n#bison #yellowstone #meatballmyths #shorts\n\nSources: U.S. National Park Service, Yellowstone National Park (Safety page, updated July 28, 2026; Bison page, updated May 4, 2026); Wind Cave National Park (Safety page, updated July 26, 2025). General information, not safety training.",
+ "pinned_comment": "How far away were you when you saw a bison, and what did it do?",
+ "tags": [
+  "what to do if a bison charges",
+  "what to do if a bison attacks",
+  "how far to stay from bison",
+  "can you outrun a bison",
+  "bison warning signs",
+  "bison tail up meaning",
+  "are bison dangerous",
+  "yellowstone bison attack",
+  "would meatball survive",
+  "Meatball Myths"
+ ],
+ "search_top": {
+  "rows": [
+   [
+    "WHAT TO DO IF",
+    "#ffffff",
+    86
+   ],
+   [
+    "A BISON CHARGES YOU",
+    "#ffd34d",
+    86
+   ]
+  ],
+  "y": 150,
+  "until": 2.5
+ },
+ "beats": [
+  {
+   "open": "animal",
+   "open_zoom": 1.45,
+   "open_dx": -150,
+   "m": "hook",
+   "gag": {
+    "mark": "shock"
+   },
+   "_f": [
+    "BISO7"
+   ],
+   "say": "What to do if a bison charges you? Holy shit.",
+   "card": {
+    "rows": [
+     [
+      "WALK OR RUN AWAY",
+      "#7bd88f",
+      100
+     ],
+     [
+      "IF IT CHARGES: U.S. PARK SERVICE",
+      "#ffffff",
+      46,
+      true
+     ],
+     [
+      "DON'T STAND YOUR GROUND",
+      "#ffffff",
+      46,
+      true
+     ]
+    ],
+    "y": 470,
+    "at": "40%"
+   }
+  },
+  {
+   "scene": "forest_floor",
+   "pad": 0.2,
+   "m": "fact",
+   "gag": false,
+   "_f": [
+    "BISO1"
+   ],
+   "prop": "mic",
+   "pose": "present",
+   "hero_at": {
+    "x": 940,
+    "y": 1500
+   },
+   "mb": {
+    "moves": [
+     {
+      "at": "4%",
+      "dur": 0.8,
+      "pos": [
+       430,
+       1500
+      ],
+      "walk": true
+     }
+    ],
+    "gest": [],
+    "look": "viewer"
+   },
+   "say": "Meatball walked up for a selfie. Tiny fucking selfie stick.",
+   "card": {
+    "rows": [
+     [
+      "SELFIE AT 2 YARDS",
+      "#ffd34d",
+      96
+     ],
+     [
+      "NEVER APPROACH A BISON TO TAKE A PHOTO: PARK SERVICE",
+      "#ffffff",
+      40,
+      true
+     ]
+    ],
+    "y": 470,
+    "at": "30%"
+   }
+  },
+  {
+   "scene": "tundra",
+   "pad": 0.2,
+   "m": "count",
+   "gag": {
+    "mark": "alarm",
+    "at": "12%"
+   },
+   "_f": [
+    "BISO4"
+   ],
+   "hero_at": {
+    "x": 720,
+    "y": 1500
+   },
+   "hero_moves": [
+    {
+     "at": 0.0,
+     "dur": 0.05,
+     "face": 1
+    }
+   ],
+   "mb_x": 200,
+   "pose": "think",
+   "mb": {
+    "gest": [
+     [
+      "waved|70%",
+      "wave",
+      1.4
+     ]
+    ]
+   },
+   "say": "Its tail went up. Meatball fucking waved back.",
+   "card": {
+    "rows": [
+     [
+      "RAISED TAIL",
+      "#ff4b3e",
+      110
+     ],
+     [
+      "A WARNING SIGN: PARK SERVICE",
+      "#ffffff",
+      50,
+      true
+     ]
+    ],
+    "y": 470,
+    "at": "25%"
+   }
+  },
+  {
+   "scene": "swamp",
+   "m": "fact",
+   "gag": false,
+   "_f": [
+    "BISO4"
+   ],
+   "say": "The Park Service says a bison may also bluff charge, bob its head while staring at you, paw, or bellow. Long fucking list.",
+   "card": {
+    "rows": [
+     [
+      "MORE WARNING SIGNS",
+      "#ff4b3e",
+      90
+     ],
+     [
+      "BLUFF, HEAD BOB, PAW, BELLOW: PARK SERVICE",
+      "#ffffff",
+      40,
+      true
+     ]
+    ],
+    "y": 470,
+    "at": "40%"
+   },
+   "hero_at": {
+    "x": 900,
+    "y": 1500
+   }
+  },
+  {
+   "scene": "forest_floor",
+   "m": "fact",
+   "gag": false,
+   "_f": [
+    "BISO4"
+   ],
+   "say": "Those are warning signs you are too close and a charge is imminent. Meatball missed every one. Shit.",
+   "card": {
+    "rows": [
+     [
+      "WARNING SIGNS",
+      "#ff4b3e",
+      100
+     ],
+     [
+      "YOU ARE TOO CLOSE; A CHARGE IS IMMINENT: PARK SERVICE",
+      "#ffffff",
+      36,
+      true
+     ]
+    ],
+    "y": 470,
+    "at": "40%"
+   },
+   "hero_at": {
+    "x": 900,
+    "y": 1500
+   }
+  },
+  {
+   "scene": "cave",
+   "m": "fact",
+   "gag": false,
+   "_f": [
+    "BISO1"
+   ],
+   "say": "Yellowstone says keep at least twenty-five yards from bison at all times. That's about twenty-three meters. Meatball treated it like a fucking suggestion.",
+   "card": {
+    "rows": [
+     [
+      "AT LEAST 25 YARDS (23 M)",
+      "#ff4b3e",
+      90
+     ],
+     [
+      "FROM BISON AT ALL TIMES: YELLOWSTONE",
+      "#ffffff",
+      42,
+      true
+     ]
+    ],
+    "y": 470,
+    "at": "40%"
+   },
+   "hero_at": {
+    "x": 900,
+    "y": 1500
+   }
+  },
+  {
+   "scene": "forest_floor",
+   "m": "fact",
+   "gag": false,
+   "_f": [
+    "BISO6"
+   ],
+   "say": "If a bison walks within twenty-five yards, turn around and go the other way, the same page says. Meatball kept walking. Dumbass.",
+   "card": {
+    "rows": [
+     [
+      "IF IT WALKS WITHIN 25 YARDS",
+      "#ffd34d",
+      80
+     ],
+     [
+      "TURN AROUND AND GO THE OTHER WAY: YELLOWSTONE",
+      "#ffffff",
+      40,
+      true
+     ]
+    ],
+    "y": 470,
+    "at": "40%"
+   },
+   "hero_at": {
+    "x": 900,
+    "y": 1500
+   }
+  },
+  {
+   "scene": "swamp",
+   "pad": 0.2,
+   "m": "chase",
+   "gag": false,
+   "_f": [
+    "BISO2"
+   ],
+   "hero_moves": [
+    {
+     "at": "they|38%",
+     "dur": 0.7,
+     "pos": [
+      590,
+      1500
+     ],
+     "walk": true,
+     "linear": true
+    },
+    {
+     "at": "meatball+0.1|70%",
+     "dur": 1.3,
+     "pos": [
+      330,
+      1500
+     ],
+     "walk": true,
+     "linear": true
+    }
+   ],
+   "mb": {
+    "moves": [
+     {
+      "at": "they+0.1|40%",
+      "dur": 0.6,
+      "pos": [
+       190,
+       1500
+      ],
+      "walk": true
+     },
+     {
+      "at": "humans|62%",
+      "dur": 0.4,
+      "pos": [
+       190,
+       1500
+      ],
+      "hop": 110
+     },
+     {
+      "at": "meatball|69%",
+      "dur": 1.2,
+      "pos": [
+       -320,
+       1500
+      ],
+      "walk": true
+     }
+    ]
+   },
+   "say": "Yellowstone says they can run three times faster than humans. Meatball is not a fast fucking human.",
+   "card": {
+    "rows": [
+     [
+      "3X FASTER THAN HUMANS",
+      "#ff4b3e",
+      90
+     ],
+     [
+      "PARK SERVICE RATIO; NO MPH",
+      "#ffffff",
+      46,
+      true
+     ]
+    ],
+    "y": 470,
+    "at": "20%"
+   }
+  },
+  {
+   "scene": "tundra",
+   "m": "scale",
+   "how": "grow",
+   "gag": false,
+   "_f": [
+    "BISO8"
+   ],
+   "say": "The Park Service says a bison is the largest land mammal in North America. Bulls weigh up to two thousand pounds. Like a fucking couch with horns.",
+   "card": {
+    "rows": [
+     [
+      "UP TO 2,000 POUNDS",
+      "#ffd34d",
+      100
+     ],
+     [
+      "BULLS: PARK SERVICE",
+      "#ffffff",
+      46,
+      true
+     ],
+     [
+      "LARGEST LAND MAMMAL IN NORTH AMERICA",
+      "#ffffff",
+      40,
+      true
+     ]
+    ],
+    "y": 470,
+    "at": "40%"
+   },
+   "hero_at": {
+    "x": 900,
+    "y": 1500
+   }
+  },
+  {
+   "scene": "cave",
+   "m": "fact",
+   "gag": false,
+   "_f": [
+    "BISO3"
+   ],
+   "say": "In Yellowstone, the Park Service says bison have injured more people than any other animal. They may appear tranquil. Holy shit.",
+   "card": {
+    "rows": [
+     [
+      "INJURED MORE PEOPLE",
+      "#ff4b3e",
+      90
+     ],
+     [
+      "THAN ANY OTHER ANIMAL, IN YELLOWSTONE: PARK SERVICE",
+      "#ffffff",
+      36,
+      true
+     ],
+     [
+      "THEY MAY APPEAR TRANQUIL",
+      "#ffffff",
+      44,
+      true
+     ]
+    ],
+    "y": 470,
+    "at": "40%"
+   },
+   "hero_at": {
+    "x": 900,
+    "y": 1500
+   }
+  },
+  {
+   "scene": "forest_floor",
+   "m": "fact",
+   "gag": false,
+   "_f": [
+    "BISO7"
+   ],
+   "say": "If it charges, do not stand your ground. Immediately walk or run away from the animal, the Park Service says. No fucking hero pose.",
+   "card": {
+    "rows": [
+     [
+      "IF IT CHARGES",
+      "#7bd88f",
+      100
+     ],
+     [
+      "DO NOT STAND YOUR GROUND",
+      "#ffffff",
+      50,
+      true
+     ],
+     [
+      "WALK OR RUN AWAY: U.S. PARK SERVICE",
+      "#ffffff",
+      42,
+      true
+     ]
+    ],
+    "y": 470,
+    "at": "40%"
+   },
+   "hero_at": {
+    "x": 900,
+    "y": 1500
+   }
+  },
+  {
+   "scene": "swamp",
+   "m": "fact",
+   "gag": false,
+   "_f": [
+    "BISO7"
+   ],
+   "say": "If the bison follows you, the Park Service says spray bear spray as you are moving away, and seek cover behind nearby trees or cars. Scary as fuck.",
+   "card": {
+    "rows": [
+     [
+      "IF IT FOLLOWS YOU",
+      "#ffd34d",
+      96
+     ],
+     [
+      "SPRAY WHILE MOVING AWAY: PARK SERVICE",
+      "#ffffff",
+      42,
+      true
+     ],
+     [
+      "SEEK COVER BEHIND TREES OR CARS",
+      "#ffffff",
+      42,
+      true
+     ]
+    ],
+    "y": 470,
+    "at": "40%"
+   },
+   "hero_at": {
+    "x": 900,
+    "y": 1500
+   }
+  },
+  {
+   "scene": "tundra",
+   "m": "fact",
+   "gag": false,
+   "_f": [
+    "BISO9"
+   ],
+   "say": "Wind Cave, another Park Service park, says stay at least twenty-five yards from wildlife, and stay farther from bison. Meatball was behind a car. Still too fucking close.",
+   "card": {
+    "rows": [
+     [
+      "AT LEAST 25 YARDS FROM WILDLIFE",
+      "#ffd34d",
+      80
+     ],
+     [
+      "STAY FARTHER FROM BISON: WIND CAVE (NPS)",
+      "#ffffff",
+      40,
+      true
+     ]
+    ],
+    "y": 470,
+    "at": "40%"
+   },
+   "hero_at": {
+    "x": 900,
+    "y": 1500
+   }
+  },
+  {
+   "scene": "cave",
+   "m": "fact",
+   "gag": false,
+   "_f": [],
+   "say": "His dog, Noodle, had already turned around. He took the fucking snacks with him.",
+   "card": {
+    "rows": [
+     [
+      "NOODLE TOOK THE SNACKS",
+      "#ffd34d",
+      90
+     ]
+    ],
+    "y": 470,
+    "at": "40%"
+   },
+   "hero_at": {
+    "x": 900,
+    "y": 1500
+   }
+  },
+  {
+   "scene": "garden",
+   "m": "punch",
+   "pad": 0.9,
+   "gag": {
+    "mark": "alarm"
+   },
+   "_f": [],
+   "say": "Meatball lived. Nothing's guaranteed. How far away were you from a bison? And",
+   "card": {
+    "rows": [
+     [
+      "HOW FAR AWAY WERE YOU FROM A BISON? COMMENT",
+      "#ffffff",
+      40,
+      true
+     ]
+    ],
+    "x": "right",
+    "y": 400,
+    "at": 0.0
+   }
+  }
+ ],
+ "_curse": "TikTok cut with about one swear a line, as a reaction or inside a Meatball joke (Nolan 11/11: 'one a sentence', 'make them joke more using the cursing'). Every agency credit and every safety instruction is said clean and the swear comes after it, so this safety-heavy cut does not pad extra f-words (MASTER_ORDERS). 9 sweary jokes (selfie-stick roast, waved back, long fucking list, fucking suggestion, Dumbass, not a fast human, couch-with-horns simile, no hero pose, Noodle took the snacks) plus reactions (Holy shit twice, Shit, Scary as fuck, too fucking close). No insult uses 'you'. cap_swap softens captions; the voice says the word. Titles, caption, hashtags and the pinned comment stay clean.",
+ "_note": "TikTok minute cut of the checked short cut tts-bison-wms.json (Nolan 11/12: every TikTok runs over one minute; template tt-grizzly-wms.json; queue slot Sun 11/15 21:30 ET). Draft 2026-11-15, written only from research/facts/bison-wms.md (BISO1-BISO11). 15 lines, 282 spoken words (counted by script). Runtime estimate 88.5s at 194.5 wpm, calibrated to the moose minute cut (289 words / 89.13s). Live source pages opened 2026-11-15: Yellowstone Safety still last updated July 28, 2026; Bison Ecology May 4, 2026; Wind Cave Safety July 26, 2025. Every pack quote used in this cut is still on the live page word for word. Kept from the short cut: searched question as the first spoken sentence; line 2 selfie gag (tiny selfie stick, card shows the photo rule he breaks; '2 yards' is the gag distance, not a fact); raised-tail action spoken with the warning-sign claim on the card only; 'Yellowstone says' credit on the 3x line; no mph; ending 'Meatball lived. Nothing's guaranteed' with 'How far away' (never 'how close'); hook and last line share the garden room so the 'And' loops. Added for length: the rest of the BISO4 warning-sign list with 'may' and 'imminent'; 25 yards at all times plus 23 meters; turn around if a bison walks within 25 yards (BISO6); bulls up to 2,000 pounds and largest land mammal (BISO8, bulls 'up to' only; cows left off the spoken line because the same page says 'up to' and 'about'); injured more people than any other animal, in Yellowstone, and 'may appear tranquil' (BISO3); full charge instruction and the follow/spray/cover line with its condition and no claim that spray works (BISO7); Wind Cave 25 yards from wildlife and stay farther from bison (BISO9, first sentence only; May-August 'more aggressive' left out so it is not heard as 'only in rut'). Noodle gag is action only (his dog, Noodle, comma; he takes the snacks). No bear line anywhere. Left out: any mph figure (BISO5: the ecology page still says 30 mph in the summary and 35 mph in the description and FAQ); injury counts (still none on the pages); Custer State Park's 100 yards; Grand Teton's 75-feet conversion (BISO10, verified, unused). NOT yet checked by a second model and not rendered. After a second-model check, render and compare the transcript with these lines. Drawing notes from the short still hold: open_zoom 1.45 and open_dx -150 so horns and beard are in frame 0; mic + present stands in for the selfie stick; tail line turns the bison away (hero_moves face 1)."
+}
