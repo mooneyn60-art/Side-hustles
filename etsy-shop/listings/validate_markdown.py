@@ -11,12 +11,13 @@ EXPECTED = {
     "02-catalog.md": 57,
     "04-printables.md": 6,
     "05-backlog.md": 20,
+    "06-valentines.md": 8,
 }
 
 def parse(path: Path):
     text = path.read_text()
     chunks = re.split(r"^# ", text, flags=re.M)[1:]
-    skip = ("Christmas push", "Catalog listings", "Backlog listings", "Printable listings", "Pricing memo", "Contents")
+    skip = ("Christmas push", "Catalog listings", "Backlog listings", "Printable listings", "Pricing memo", "Contents", "Valentine's Day")
     out = []
     for ch in chunks:
         if ch.startswith(skip):
