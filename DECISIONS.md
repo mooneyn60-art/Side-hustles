@@ -36,3 +36,5 @@ Chosen by Etsy Studio. **Approved** by Moondog88 (relayed via Jarvis, 2026-11-15
 2026-11-15, Cyber Week sale drafted: 15% off selected listings, Nov 27 to Dec 1 ET. It isn't approved, and it doesn't start until the product costs pass and Moondog88 approves. Don't use 20% or more, because the hero bundle drops under the $49 threshold.
 
 2026-11-15, The Christmas order-by date for physical items is Dec 5 everywhere, which overrides the Dec 10 in BRIEF.md.
+
+2026-11-15, Valentine's 2027: there are 8 merch concepts (tee, mug, bandana) in etsy-shop/listings/06-valentines.md, with the art not yet made. Order-by is Feb 5 for physical items, a working date for Claude to confirm against Printify production and shipping times. Listings go up as drafts once the art exists, with an aim of mid-January.

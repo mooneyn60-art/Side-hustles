@@ -49,6 +49,13 @@ Source: [etsy-shop/listings/01-christmas-push.md](etsy-shop/listings/01-christma
 2. **The "Hero bundle" entry in `01-christmas-push.md` has no bundle SKU yet.** Fulfil it as the 3 Santa Paws products on one order, or make it a single Printify listing. Your choice. It should stay a draft until you decide.
 3. **Confirm whether the 6 printables use any AI-generated art**, because Etsy requires disclosure if they do. Copy currently says "original designs".
 
+### Valentine's 2027
+
+Source: [etsy-shop/listings/06-valentines.md](etsy-shop/listings/06-valentines.md). Eight merch concepts (tee, mug, bandana). The art is not made yet. See the 2026-11-15 line in [DECISIONS.md](DECISIONS.md).
+
+1. **Confirm Feb 5 as the Valentine's order-by date** for physical items, using real Printify production and shipping times. Feb 5 is a working date until you confirm it.
+2. **Once Product Designer's art is ready, create the 8 Valentine products as unpublished drafts.** Aim for mid-January. Do not publish them.
+
 ### Decisions (2026-11-15)
 
 Logged in [DECISIONS.md](DECISIONS.md). Resolved there:
