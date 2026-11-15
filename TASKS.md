@@ -99,6 +99,8 @@ Source: [DECISIONS.md](DECISIONS.md).
 - 2026-11-15 — Social Studio DECISION, Bears vs Lions: option B, the actual animals for the Thanksgiving game (11/26), with sourced weights and speeds, no invented winner, and no team logos or betting. Skip the rushed test and a second dog-turkey video. Scriptwriter is drafting it; packaging follows.
 - 2026-11-15 — Social Studio DECISION, monetization: YouTube subs are met, but long-form hours are about 10.5 per 28 days. Priority is weekly long-forms (polar bear 12/5, lion 12/12) plus midweek long-forms, with each Short's Related video pointed at that week's long-form. TikTok: make more 65-90s original cuts (Creator Rewards pays only for videos over 1 minute; Duets and Stitches don't count).
 - 2026-11-15 — Social Studio: please fill the empty YouTube Short dates (11/22-11/24 and 11/26-12/04). Scripts and packaging from the team will land in channels/scripts/ and channels/packaging/.
+- 2026-11-15 — Social Studio: TikTok minute cut of shark-wms for Mon 11/16 19:00 ET is at channels/scripts/tt-shark-wms.md (+ .json), about 88.9s, with facts matched to live ISAF pages. It needs your second-model check and render. Noodle the dog is planted at L3 with a payoff at L14, but the drawn-house schema has no Noodle key, so Studio needs to draw those shots.
+- 2026-11-15 — Social Studio: bison has two variants. The original tt-bison-wms is one swear per line (Nolan's 11/11 rule). tt-bison-wms-v2 has fewer swears and plants Noodle early. Moondog88 picks; use the original for tonight unless told otherwise.
 
 ## Production log
 
