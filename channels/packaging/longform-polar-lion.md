@@ -2,7 +2,7 @@
 
 Draft only. No scheduling, posting, repo edits, or thumbnail file changes. Facts are from the packs cited below; nothing is invented. Times are America/New_York (ET).
 
-**Resolved 11/15:** born-as every December Saturday per MASTER_ORDERS line 69. The schedule is polar 12/5, lion 12/12, then dog and wolf on 12/19 and 12/26 by data rank. Line 217 allows lion on 11/28 if it's ready by Thu 11/26. Scriptwriter's lion long-form now targets Sat 11/28, with 12/12 as the fallback. Line 217 still applies: 11/28 only if it is ready by Thu 11/26. If the lion takes 11/28, the 12/12 slot needs a different animal.
+**Resolved 11/15:** born-as every December Saturday per MASTER_ORDERS line 69. The schedule is polar 12/5, lion 12/12, then dog and wolf on 12/19 and 12/26 by data rank. Line 217 allows lion on 11/28 if it's ready by Thu 11/26. Scriptwriter's lion long-form now targets Sat 11/28, with 12/12 as the fallback. Line 217 still applies: 11/28 only if it is ready by Thu 11/26. If the lion takes 11/28, dog moves to 12/12, wolf to 12/19, and the next-ranked animal from `100-longform-topic-candidates.csv` takes 12/26: **crocodile** (overall rank 4, S6 born-as; rank 5 is doglick, a pet explainer, not the next animal).
 
 ---
 
@@ -93,7 +93,7 @@ Do not use a "SUCKS" thumb (the house-cat `cat_s` "BEING A CAT SUCKS" still wait
 
 Scriptwriter delivered the pack (`/workspace/drafts/facts/lion-bornas.md`, LB1–LB43, D1–D8) and the script (`/workspace/drafts/longform-lion-bornas.md`, about 9:12). Not in `posted.csv`. Sources were not edited.
 
-**Target date:** Sat 11/28/2026, usual Saturday hour 08:00 ET, **only if it is ready by Thu 11/26** (MASTER_ORDERS line 217). Ready here means the second-model check, a lion shot set (the script notes there is not one yet), the build, the on-screen text check, and the preview. **Fallback:** Sat 12/12. If the lion takes 11/28, the 12/12 slot needs a different animal. Line 69 still lists lion on 12/12 as the December Saturday; 11/28 is the early option from line 217.
+**Target date:** Sat 11/28/2026, usual Saturday hour 08:00 ET, **only if it is ready by Thu 11/26** (MASTER_ORDERS line 217). Ready here means the second-model check, a lion shot set (the script notes there is not one yet), the build, the on-screen text check, and the preview. **Fallback:** Sat 12/12. If the lion takes 11/28, dog moves to 12/12, wolf to 12/19, and crocodile (next-ranked S6 animal in `research/data/100-longform-topic-candidates.csv`, overall rank 4, score 0.65) takes 12/26. Line 69 still lists lion on 12/12 as the December Saturday; 11/28 is the early option from line 217.
 
 **Top title pick:** Your Life as a Lion: 8 Things You Have to Get Through
 
@@ -194,7 +194,7 @@ Three on-topic trailers are packaged separately in `/workspace/packaging/lion-te
 
 **Lion (target 11/28, fallback 12/12):** Pack and script have landed; packaging is in this file. Still required before an 11/28 post, and they must be done by Thu 11/26: second-model fact check, a lion shot set (the script says none exists yet), TTS respellings (crèche, Etosha, and others), the build, the on-screen text check, a preview, and a `posted.csv` row. The house-cat end-screen video should be confirmed live before build; the script's fallback is the polar video only if this one posts on 12/12. Lion A4 still needs Nolan's yes. YouTube search samples (`postkit.py kw --search`) did not run (`yt-dlp` missing); suggestions were enough for title phrasing.
 
-**Teasers:** See `/workspace/packaging/lion-teasers.md`. The source Short 1 still has one spoken takeover/cub-killing line (LB12). Studio barred cub-killing from hooks; packaging leaves that line out of the title, description, cover, and pin, and flags Scriptwriter's already-offered swap to the crèche line (LB6). Do not edit the source.
+**Teasers:** See `/workspace/packaging/lion-teasers.md`. The current teaser-1 source uses the crèche line (LB6) and runs about 19.1 s. Plan A: YouTube T1/T2/T3 at 11/23, 11/24, and 11/27 19:00 ET; TikTok is T1 only, on 11/27 19:00 if the slot is free (it is, in `posted.csv`). Do not edit the source.
 
 ---
 
@@ -215,7 +215,7 @@ The two born-as WARNs are kept on purpose. Adding an emoji would fight the house
 
 ## Picks (short)
 
-- **Frame:** resolved 11/15 — born-as every December Saturday per line 69 (polar 12/5, lion 12/12, dog and wolf 12/19 and 12/26 by data rank). Line 217 allows lion on 11/28 if ready by Thu 11/26. Scriptwriter now targets 11/28, with 12/12 as the fallback. If 11/28 is used, 12/12 needs a different animal.
+- **Frame:** resolved 11/15 — born-as every December Saturday per line 69 (polar 12/5, lion 12/12, dog and wolf 12/19 and 12/26 by data rank). Line 217 allows lion on 11/28 if ready by Thu 11/26. Scriptwriter now targets 11/28, with 12/12 as the fallback. If 11/28 is used, dog moves to 12/12, wolf to 12/19, and crocodile (rank 4 in `100-longform-topic-candidates.csv`) takes 12/26.
 - **Polar 12/5 top title:** Your Life as a Polar Bear: 8 Things You Have to Get Through (59, already scheduled, lint 0 fail / 2 accepted warn).
 - **Polar thumbs:** locked as they are — `pb_a` RAW START on the post; `pb_b` 687 KM ONE SWIM and `pb_c` BORN A POLAR BEAR? as post-publish challengers.
 - **Lion top title:** Your Life as a Lion: 8 Things You Have to Get Through (53, lint 0 fail / 2 accepted warn).

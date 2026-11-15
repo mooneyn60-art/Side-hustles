@@ -6,43 +6,38 @@ These are on-topic trailers for *Your Life as a Lion: 8 Things You Have to Get T
 
 The source titles used `(Would Meatball Survive?)`. These are born-as trailers, not survival/encounter shorts, so the packaging titles drop that series tag, the same way the polar trailers in `open-dates-1121-1204.md` have no series parenthetical. Lint may warn about a missing series tag if a series were set; the YouTube stubs here set none, so that WARN does not appear. Do not invent a born-as Shorts series name.
 
-Studio 11/15: **no cub-killing on thumbnails or hooks.** Packaging therefore keeps takeover/infanticide wording (LB12) out of titles, descriptions, covers, and pins. The source for Short 1 still has one spoken line, "New males taking a pride kill every cub that can't run" (LB12). Scriptwriter already offered a swap to the crèche line (LB6). Use that swap before render if Studio's hook rule applies to spoken lines as well as packaging hooks. The source was not edited here.
+Studio 11/15: **no cub-killing on thumbnails or hooks.** The current source for teaser 1 has swapped line 3 to the crèche line (**LB6**: "Cubs get pooled into a nursery, usually four to ten cubs."). The Short now runs about **19.1 s**. Takeover/infanticide wording is not used in this packaging file or in the current teaser-1 source, and it stays out of titles, descriptions, covers, and pins.
 
 ---
 
-## Slot conflicts
+## Platform plan
 
-Scriptwriter slotted the three teasers at **19:00 ET** on Mon 11/23, Tue 11/24, and Fri 11/27, as Plan A for a Sat 11/28 long-form (Plan B, if the long-form stays on 12/12: Tue 12/08, Wed 12/09, and Fri 12/11 at 19:00).
+### Plan A (long-form target Sat 11/28)
 
-`open-dates-1121-1204.md` already drafted other topics on two of those dates, and on 11/27, at **assumed 16:00** weekday hours — not 19:00:
+All times 19:00 ET. Mapping:
 
-| Date | open-dates draft (YouTube) | Scriptwriter teaser slot | Verdict |
+| Platform | Mon 11/23 | Tue 11/24 | Fri 11/27 |
 |---|---|---|---|
-| Mon 11/23 | 16:00 cat-slow-blink | 19:00 lion-cub-odds | **Not a YouTube clash.** Extra 19:00 YouTube slot on the same day. open-dates said it does not invent extra weekday 19:00 rows; `posted.csv` has no YouTube row at 11/23 19:00. |
-| Tue 11/24 | 16:00 dog-years | 19:00 lion-rest | **Not a YouTube clash.** Same pattern. No YouTube row at 11/24 19:00 in `posted.csv`. |
-| Fri 11/27 | 16:00 mountain-lion (WMS) | 19:00 lion-hunt-odds | **Not a YouTube clash.** Extra 19:00 YouTube slot. No YouTube row at 11/27 19:00 in `posted.csv`. |
+| YouTube | **T1** lion-cub-odds | **T2** lion-rest | **T3** lion-hunt-odds |
+| TikTok | none (platypus stays) | none (wombat stays) | **T1 only** (lion-cub-odds), if the slot is free |
 
-They are **extra 19:00 YouTube slots**, not replacements for the 16:00 drafts, as long as both hours are actually booked as two Shorts on those days.
+- Mon 11/23 and Tue 11/24 run on **YouTube only** at 19:00 ET, with **no TikTok**. The already-queued TikToks stay where they are: `tt-platypus.mp4` on 11/23 19:00 and `tt-wombat.mp4` on 11/24 19:00.
+- On TikTok, **only teaser 1** runs, on **Fri 11/27 at 19:00 ET**. That slot is **free** in `posted.csv` (checked 11/15): there is no YouTube or TikTok row on 2026-11-27 at any hour.
+- The YouTube 11/27 19:00 slot is **teaser 3**, not teaser 1.
 
-They **are TikTok clashes** on the first two nights, if the teasers also post to TikTok at 19:00:
+**Flag on TT T1 at 11/27:** this is what Studio wrote (YT 11/27 = T3; TT 11/27 = T1 only). It means Friday 19:00 would carry two different teasers, one per platform, and T1 would already have run on YouTube on Mon 11/23. If they instead meant the Friday TikTok to match the Friday YouTube short, that would be T3, not T1. Recorded as written; confirm before booking.
 
-| Date | Already queued at 19:00 in `posted.csv` | Teaser at 19:00 |
-|---|---|---|
-| Mon 11/23 19:00 | TikTok `tt-platypus.mp4` ("The Platypus Has No Stomach; and It Glows Under Blacklight") | lion-cub-odds — **clash on TikTok** |
-| Tue 11/24 19:00 | TikTok `tt-wombat.mp4` ("Wombats Poop Cubes; Up to 100 a Night") | lion-rest — **clash on TikTok** |
-| Fri 11/27 19:00 | No YouTube or TikTok row in `posted.csv` | lion-hunt-odds — **no queue clash** in `posted.csv` |
+`open-dates-1121-1204.md` still has other YouTube drafts at assumed **16:00** on those days (cat-slow-blink, dog-years, mountain-lion). The 19:00 YouTube teasers remain **extra slots**, not clashes with those 16:00 drafts. Avoid Wed 11/25 19:00: Night Shift's YouTube teaser and a TikTok (Greenland shark) are already queued there.
 
-Avoid Wed 11/25 19:00 either way: Night Shift's YouTube teaser and a TikTok (Greenland shark) are already queued there.
+Line 217 still applies to the long-form these trailers point at: Sat 11/28 only if the lion is ready by Thu 11/26. If 11/28 is used, dog moves to 12/12, wolf to 12/19, and crocodile (next-ranked S6 animal in `100-longform-topic-candidates.csv`, overall rank 4) takes 12/26. These teasers should not be held for 12/12 in that case.
 
-**Plan B** (Tue 12/08, Wed 12/09, Fri 12/11 at 19:00) has no rows in `posted.csv` and sits after the open-dates window (that file ends 12/04). Those are free, and they fit a 12/12 long-form better. If the long-form stays on 12/12, use Plan B so the teasers are in that long-form's week. If it does move to 11/28, use Plan A for YouTube at 19:00 and pick different TikTok hours (or skip TikTok those two nights) so the platypus and wombat posts stay put.
+### Plan B (if the long-form stays on Sat 12/12)
 
-Line 217 still applies to the long-form these trailers point at: Sat 11/28 only if the lion is ready by Thu 11/26. If 11/28 is used, 12/12 needs a different animal, and these teasers should not be held for 12/12.
+Keeps **Tue 12/08, Wed 12/09, and Fri 12/11** at 19:00 ET (T1, T2, T3 in that order). Those hours are empty in `posted.csv` and sit after the open-dates window (that file ends 12/04). Use Plan B so the teasers fall in the 12/12 long-form's week.
 
----
+## 1. lion-cub-odds — YouTube Plan A Mon 11/23/2026 19:00 ET; TikTok Fri 11/27/2026 19:00 ET only
 
-## 1. lion-cub-odds — Plan A Mon 11/23/2026 19:00 ET
-
-About 18.8 s in the source. Facts: **LB9**, **LB10**. Do not use LB12 in the hook.
+About **19.1 s** in the current source (62 words). Facts: **LB9**, **LB6**, **LB10**. Line 3 is the nursery/crèche line (LB6).
 
 **Title** (55 UTF-16 units)
 
@@ -55,11 +50,11 @@ Lint: 0 fail, 1 warn (5 YouTube hashtags vs lint's four; drafts follow written M
 **Description**
 
 ```
-How many lion cubs survive? The Smithsonian National Zoo says up to 80 percent of lion cubs die within their first two years (LB9). A San Diego Zoo Wildlife Alliance fact sheet says that after one year, mortality falls below 20 percent (LB10). "Up to" on the Smithsonian figure is a ceiling over two years; do not merge it with the year-one average (D1).
+How many lion cubs survive? The Smithsonian National Zoo says up to 80 percent of lion cubs die within their first two years (LB9). Cubs get pooled into a nursery, usually four to ten cubs (LB6). A San Diego Zoo Wildlife Alliance fact sheet says that after one year, mortality falls below 20 percent (LB10). "Up to" on the Smithsonian figure is a ceiling over two years; do not merge it with the year-one average (D1). Do not add a crèche mortality number (LB6).
 
 #lion #lioncubs #wildlife #meatballmyths #shorts
 
-Sources: /workspace/drafts/facts/lion-bornas.md (LB9, LB10; D1).
+Sources: /workspace/drafts/facts/lion-bornas.md (LB9, LB6, LB10; D1).
 ```
 
 **Tags** (8)
@@ -75,12 +70,12 @@ lion facts
 Meatball Myths
 ```
 
-**TikTok caption** (lint: 0 fail, 0 warn)
+**TikTok caption** (Plan A: this is the only TikTok, Fri 11/27 19:00 ET; lint: 0 fail, 0 warn)
 
 ```
 how many lion cubs survive?
 
-The Smithsonian says up to 80 percent of lion cubs die within their first two years. After year one, a San Diego Zoo Wildlife Alliance fact sheet says mortality drops below 20 percent. Would you make it to two?
+The Smithsonian says up to 80 percent of lion cubs die within their first two years. Cubs get pooled into a nursery, usually four to ten cubs. After year one, a San Diego Zoo Wildlife Alliance fact sheet says mortality drops below 20 percent. Would you make it to two?
 #lion #lioncubs #wildlife #savanna #africawildlife
 ```
 
@@ -94,15 +89,15 @@ Would you make it to two? Full list in the Related video 👆
 
 **Related video:** the lion long-form (target Sat 11/28 08:00 ET; fallback Sat 12/12).
 
-**TikTok cover** (no custom YouTube Shorts cover): **UP TO 80%**, one word in red (80%). Do not use "NEW MALES" or any cub-killing line.
+**TikTok cover** (no custom YouTube Shorts cover): **UP TO 80%**, one word in red (80%). The in-video card for line 3 is CUB NURSERY: 4 TO 10 (LB6). Do not use cub-killing wording.
 
-**Source flag:** spoken line 3 still uses LB12. Swap to the crèche line (LB6) before render if the hook rule covers spoken lines. This packaging file does not edit the source.
+Plan A: YouTube only on Mon 11/23 19:00; the TikTok of this same short is Fri 11/27 19:00, not 11/23.
 
 ---
 
-## 2. lion-rest — Plan A Tue 11/24/2026 19:00 ET
+## 2. lion-rest — YouTube Plan A Tue 11/24/2026 19:00 ET (no TikTok)
 
-About 19.7 s in the source. Facts: **LB42** (and LB16 is in the source script; the title and hook are the rest figure). The searched question uses "sleep" because that is what people type; the fact is rest and lying around, not all sleep.
+About 19.7 s in the source. Facts: **LB42** (and LB16 is in the source script; the title and hook are the rest figure). The searched question uses "sleep" because that is what people type; the fact is rest and lying around, not all sleep. Plan A: **YouTube only** on 11/24 19:00; no TikTok (wombat stays). The TikTok caption below is kept for Plan B only.
 
 **Title** (64 UTF-16 units)
 
@@ -156,9 +151,9 @@ Could you lie around 21 hours a day? Full list in the Related video 👆
 
 ---
 
-## 3. lion-hunt-odds — Plan A Fri 11/27/2026 19:00 ET
+## 3. lion-hunt-odds — YouTube Plan A Fri 11/27/2026 19:00 ET (TikTok that hour is T1, not this short)
 
-About 19.7 s in the source. Facts: **LB19**, **LB23**. Night before a possible Sat 11/28 long-form.
+About 19.7 s in the source. Facts: **LB19**, **LB23**. Night before a possible Sat 11/28 long-form. Plan A: **YouTube only** on 11/27 19:00. The TikTok at that same hour is teaser 1, not this short. The TikTok caption below is kept for Plan B only.
 
 **Title** (69 UTF-16 units)
 
@@ -214,11 +209,13 @@ Would you hunt alone, or with the group? Full list in the Related video 👆
 
 ## Plan B slots (if the long-form stays on Sat 12/12)
 
+Keeps 12/08, 12/09, and 12/11:
+
 | Short | Slot (ET) |
 |---|---|
-| 1 lion-cub-odds | Tue 12/08/2026 19:00 |
-| 2 lion-rest | Wed 12/09/2026 19:00 |
-| 3 lion-hunt-odds | Fri 12/11/2026 19:00 |
+| T1 lion-cub-odds | Tue 12/08/2026 19:00 |
+| T2 lion-rest | Wed 12/09/2026 19:00 |
+| T3 lion-hunt-odds | Fri 12/11/2026 19:00 |
 
 Titles, descriptions, tags, captions, pins, covers, and the Related target stay the same. These hours are empty in `posted.csv` and are outside the open-dates window.
 
