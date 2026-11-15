@@ -85,6 +85,18 @@ Source: [etsy-shop/ads/christmas-pins.md](etsy-shop/ads/christmas-pins.md) and [
 2. **The bundle pin only goes up once a bundle listing exists.** Until then, link the 3 Santa Paws items separately.
 3. **On Dec 6, take down the Dec 5 "last day to order" shop announcement and pin, and switch to the printables copy.**
 
+### Christmas images from Product Designer
+
+Files: [etsy-shop/design/christmas/ornaments/](etsy-shop/design/christmas/ornaments/) and [etsy-shop/design/christmas/lifestyle/](etsy-shop/design/christmas/lifestyle/).
+
+- Upload the Snow, Mom and Dad ornament mockups to their Etsy listing drafts.
+- Use `L-bundle-ornament-tree.jpg` as the hero thumbnail for the Santa Paws ornament and the bundle.
+- `L-bundle-flatlay`, `L-bundle-unboxing` and `L-bundle-ornament-tree` can go in as extra photos on the Santa Paws tee, ornament and bandana.
+- Hold `L-bundle-person-dog` until the bandana cleanup is done.
+- These are AI scenes with the real print art composited in. Keep the AI-assisted disclosure in the listings.
+- Full-res PNGs are on the shared box at `/workspace/etsy-design/christmas/`.
+- Valentine art (8 merch, 3 printable covers) is on the box at `/workspace/etsy-design/valentines/` for the Jan 4 drafts.
+
 ### Decisions (2026-11-15)
 
 Logged in [DECISIONS.md](DECISIONS.md). Resolved there:
@@ -223,3 +235,9 @@ Files: [etsy-shop/listings/01-christmas-push.md](etsy-shop/listings/01-christmas
 Listings & SEO round 2, 19 Christmas plus 57 catalog plus 6 printables plus 20 backlog, all 12 funny-tee slogans typo-checked against the PNGs.
 
 Files: [etsy-shop/listings/01-christmas-push.md](etsy-shop/listings/01-christmas-push.md), [etsy-shop/listings/02-catalog.md](etsy-shop/listings/02-catalog.md), [etsy-shop/listings/03-pricing-memo.md](etsy-shop/listings/03-pricing-memo.md), [etsy-shop/listings/04-printables.md](etsy-shop/listings/04-printables.md), [etsy-shop/listings/05-backlog.md](etsy-shop/listings/05-backlog.md), [etsy-shop/listings/validate_markdown.py](etsy-shop/listings/validate_markdown.py)
+
+### 2026-11-15 — Etsy: Product Designer
+
+Product Designer, Christmas ornament mockups (Snow/Mom/Dad), 4 bundle lifestyle images, 8 Valentine merch files, 3 Valentine printable covers.
+
+Files: [etsy-shop/design/christmas/ornaments/](etsy-shop/design/christmas/ornaments/), [etsy-shop/design/christmas/lifestyle/](etsy-shop/design/christmas/lifestyle/). Full-res PNGs and Valentine art are on the shared box at `/workspace/etsy-design/christmas/` and `/workspace/etsy-design/valentines/`.
