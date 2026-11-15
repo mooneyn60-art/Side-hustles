@@ -6,6 +6,13 @@ This repo is the only place Etsy Studio writes. Do not change Claude's branches 
 
 ## Notes for Claude
 
+### Approved by Moondog88 (relayed via Jarvis, 2026-11-15)
+
+Logged in [DECISIONS.md](DECISIONS.md). The earlier Etsy Ads proposal and the shop-rename item are approved.
+
+1. **Rename the Etsy shop** from PrintanPress to FurEver Faces. This is approved. After the rename, log the date in this notebook.
+2. **Etsy Ads test, after the listings are ready.** Once the 5 hero listings (Santa Paws ornament, Santa Paws tee, Doodle Mom tee, Doodle Dad tee, large-print Christmas word search) have their new titles and photos live, turn on Etsy Ads for those 5 only, at $3/day for 10 days (about $30 total). Set a reminder to pause physical items on Dec 5. Record the start date, end date, and daily results in [etsy-shop/SCOREBOARD.md](etsy-shop/SCOREBOARD.md). Do not raise the budget or add listings without new approval.
+
 ### TOP priority (from the deep dive)
 
 Source: [creative/DEEP-DIVE-2026-11-15.md](creative/DEEP-DIVE-2026-11-15.md). Do these before the rest of the notes. Record results in [etsy-shop/SCOREBOARD.md](etsy-shop/SCOREBOARD.md). Leave a cell blank until it comes from a dashboard. Do not publish anything without Moondog88's okay.
@@ -30,19 +37,17 @@ Source: [etsy-shop/listings/01-christmas-push.md](etsy-shop/listings/01-christma
 
 Logged in [DECISIONS.md](DECISIONS.md). Resolved there:
 
-1. **Shop name: FurEver Faces.** Decided by Moondog88. Use it on every customer-facing surface (listing copy, images, covers, ads, Shopify). Keep "For people owned by a doodle" as the hero line, and "The Doodle Shop" as a secondary tag only.
+1. **Shop name: FurEver Faces.** Decided by Moondog88. Use it on every customer-facing surface (listing copy, images, covers, ads, Shopify). Keep "For people owned by a doodle" as the hero line, and "The Doodle Shop" as a secondary tag only. The live Etsy rename from PrintanPress to FurEver Faces is **approved**.
 2. **Price list = `ETSY_STATE.md`.** Tee $26, sweatshirt $39.99, mug $17.99, ornament $16.99, bandana $18.99, tank $27.99. `ETSY_LISTINGS.md` and `ADS_READY.md` are copy templates. "From $21.99" is wrong; the line is "from $16.99". No live price changes without Moondog88's okay.
 3. **$49 Shopify free shipping kept.** Otherwise $5.99. Tee + bandana alone is $44.99 and does not qualify. Bundles that clear $49: tee + bandana + ornament $61.98, tee + tank $53.99, sweatshirt + bandana $58.98. Etsy shipping is set separately and still needs Moondog88's okay before any change.
 4. **Custom photo art paused.** Ready-made cartoon merch only for Christmas. The Shopify "no photo upload" setting stays. The proof workflow stays in `ORDER_RUNBOOK.md` for later.
-5. **Etsy Ads: $3/day test, not on.** About $30 over 10 days on five hero listings (Santa Paws ornament, Santa Paws tee, Doodle Mom tee, Doodle Dad tee, large-print Christmas word search), and only after the new titles, tags, and real-photo thumbnails are up. Awaiting Moondog88's approval. No Pinterest or Facebook paid spend; organic only, per the holiday marketing plan.
+5. **Etsy Ads: $3/day test, approved, not on yet.** About $30 over 10 days on five hero listings (Santa Paws ornament, Santa Paws tee, Doodle Mom tee, Doodle Dad tee, large-print Christmas word search). **Approved** by Moondog88. It starts only after those listings have their new titles and photos live. Pause physical items on Dec 5. Do not raise the budget or add listings without new approval. No Pinterest or Facebook paid spend; organic only, per the holiday marketing plan.
 
 Still open:
 
-1. **Approve the Etsy Ads test** ($3/day, as above).
-2. **Approve the Etsy shop rename** from PrintanPress to FurEver Faces. Branding is FurEver Faces now; the live Etsy rename waits for this okay.
-3. **`ETSY_STATE.md` public repo privacy.** The file on `claude/blissful-allen-waez05` holds the Etsy shop id, Printify store ids, Printify product ids, and a Make.com scenario id. No API tokens were found. Decide whether those IDs should move out of the public repo.
-4. **Which shop holds the printables:** PrintanPress, renamed to FurEver Faces, or a new DoodleDesignAndCo shop. See the deep dive (G9 and the ranked plan).
-5. **Shopify timing:** launch now (password off, payments on, test order) or park it until after Dec 5.
+1. **`ETSY_STATE.md` public repo privacy.** The file on `claude/blissful-allen-waez05` holds the Etsy shop id, Printify store ids, Printify product ids, and a Make.com scenario id. No API tokens were found. Decide whether those IDs should move out of the public repo.
+2. **Which shop holds the printables:** PrintanPress, renamed to FurEver Faces, or a new DoodleDesignAndCo shop. See the deep dive (G9 and the ranked plan).
+3. **Shopify timing:** launch now (password off, payments on, test order) or park it until after Dec 5.
 
 ### Prioritized tasks and deadlines
 
@@ -64,7 +69,7 @@ Source-of-truth files (read only; do not edit Claude's branches):
 
 ### Holiday marketing plan (draft)
 
-[etsy-shop/ads/holiday-marketing-plan.md](etsy-shop/ads/holiday-marketing-plan.md) — promo plan through Dec 5, Pinterest, Facebook doodle groups, and corrected `ADS_READY` copy with placeholders. Nothing in it goes live without Moondog88's okay. Shopify free shipping at $49 is kept ([DECISIONS.md](DECISIONS.md)). At `ETSY_STATE.md` prices, Santa tee + dog bandana is $26 + $18.99 = $44.99 ($4.01 short). Bundles that do clear $49: tee + tank $53.99, sweatshirt + bandana $58.98, tee + bandana + ornament $61.98. The Etsy Ads proposal is now a $3/day test and is still awaiting Moondog88's approval. Organic Pinterest and Facebook only until then.
+[etsy-shop/ads/holiday-marketing-plan.md](etsy-shop/ads/holiday-marketing-plan.md) — promo plan through Dec 5, Pinterest, Facebook doodle groups, and corrected `ADS_READY` copy with placeholders. Nothing in it goes live without Moondog88's okay. Shopify free shipping at $49 is kept ([DECISIONS.md](DECISIONS.md)). At `ETSY_STATE.md` prices, Santa tee + dog bandana is $26 + $18.99 = $44.99 ($4.01 short). Bundles that do clear $49: tee + tank $53.99, sweatshirt + bandana $58.98, tee + bandana + ornament $61.98. The Etsy Ads $3/day test is **approved**. It starts only after the 5 hero listings have their new titles and photos live. Organic Pinterest and Facebook only; no paid spend on those channels.
 
 ### Design direction (2026-11-15)
 
@@ -81,7 +86,7 @@ Source: [etsy-shop/design/design-direction-2026-11-15.md](etsy-shop/design/desig
 
 Source: [DECISIONS.md](DECISIONS.md).
 
-1. **Use FurEver Faces branding everywhere** customers see the shop: listing copy, images, covers, ads, and Shopify. Hero line stays "For people owned by a doodle." "The Doodle Shop" is a secondary tag only. Do not rename the live Etsy shop from PrintanPress until Moondog88 approves that change.
+1. **Use FurEver Faces branding everywhere** customers see the shop: listing copy, images, covers, ads, and Shopify. Hero line stays "For people owned by a doodle." "The Doodle Shop" is a secondary tag only. The live Etsy rename from PrintanPress to FurEver Faces is **approved**; do it and log the date.
 2. **Correct "from $21.99" to "from $16.99"** in ad copy. All copy, ads, and "from $X" lines use the `ETSY_STATE.md` prices.
 3. **Check the ornament margin** against Printify cost plus fees and report it. Keep $16.99 as the record. If the margin is thin, propose $19.99 to Moondog88 instead of jumping to $21.99. No live price change without that okay.
 4. **Align the Shopify policies with "ready-made only for now."** Soften or remove custom-art promises so they match the paused photo-upload setting. Keep the proof workflow in `ORDER_RUNBOOK.md` for later.
