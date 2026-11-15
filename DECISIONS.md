@@ -52,3 +52,5 @@ The shop is still TBD, pending Moondog88.
 (a) Run the Cyber Week sale: 15% off selected listings, Nov 27 12:00am to Dec 1 11:59pm ET. It only covers products whose Printify cost plus shipping is at or under the 15% ceilings (tee $9.95, bandana $7.26, ornament $6.50, mug $6.88, sweatshirt $15.30, tank $10.71). Any product over its ceiling stays out. Use no deeper discount.
 (b) Mac (the real cream/apricot doodle) can be featured on camera in posts and videos.
 (c) Moondog88 posts all Pinterest, Facebook group and TikTok content personally. Agents prepare the posts but never post them.
+
+2026-11-15, Approved by Moondog88 directly in Etsy Studio's chat: order 1 sample each of the Santa Paws tee, Santa Paws pet bandana and Santa Paws ornament through Printify, shipped to Moondog88. These are for real product photos and Mac-on-camera video. Covers these 3 samples only.
