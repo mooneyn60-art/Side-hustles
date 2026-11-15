@@ -1,51 +1,32 @@
 # Can cats eat turkey — packaging draft
 
-**DRAFT PENDING a dedicated cat-turkey fact pack, a second-model check, a script, and a schedule slot.** There is no `cat-turkey` research file, script, or `posted.csv` row in the skills repo on this pass. Dog-turkey (`#70`, `yt-dog-turkey-v6`) is already posted (Thu 11/12). Do not invent cat-only claims. No repo edit, commit, push, or post from this file.
+Status: draft only. No repo edit, commit, push, render, or post. Packaged only from the final scripts in `/workspace/drafts/`: `cats-turkey-v6-yt.json` (YouTube Short, about 18.7s at 194.5 wpm plus 0.2s of listed pads, 60 spoken words) and `tt-cats-turkey.json` (TikTok minute cut, about 91.8s, 293 spoken words plus 1.40s of listed pads). Fact pack: `/workspace/drafts/facts/cats-turkey.md` (CT-F1 to CT-F15), opened 2026-11-15. Both scripts say they are **not yet checked by a second model and not rendered.** A short TikTok twin of the YouTube cut lives at `/workspace/drafts/tts-cats-turkey.json`; this file packages the YouTube Short and the minute cut only.
 
-## What the repo actually has
+Every fact line below cites its fact ID and keeps the pack's condition or hedge. No facts from outside the pack. No invented serving size in ounces or cubes. No "cats can eat turkey" without conditions. Do not say gravy is safe. Do not use the FDA carcass-in-the-trash line as a cat fact (CT-F15 is framed around dogs). Do not recite the FDA's dog pancreatitis symptom list as if it were the cat list (CT-F14).
 
-`skills/oh-meatball/research/facts/dog-turkey.md` (opened 2026-11-12) and `dog-turkey-check.md` (cleared 2026-11-12, with wording changes). Useful overlap, quoted only as that pack already wrote it:
+Timed with Thanksgiving leftovers in mind (Thursday 11/26/2026), but the pack says the facts are about turkey and cats, not a holiday-only rule. A schedule slot is not assigned. Scheduling still needs Moondog88's okay. If it lands on an open date in the Night Shift week, Related video is the Things Living In Your House playlist (`related-video-rule.md`).
 
-- DOGT1, ASPCA Thanksgiving Safety Tips: "If you do decide to feed your pet a small bite of turkey or other meat, make sure it's boneless and fully cooked." The same paragraph opens with "we recommend sticking to your pet's normal diet on Thanksgiving." The pack's note: "Pets here means cats and dogs. Quote the page again before it goes on screen."
-- DOGT2, same page: "Raw or undercooked turkey may contain salmonella bacteria and poultry bones can be a major choking hazard."
-- DOGT3, same page, trash: empty it during the day or keep the pet out of that area. The pack quotes the line before it: "your garbage can fill up with bones, chocolate, onions and plenty of other holiday hazards." That is a trash-hazards list, not a cat-onion or cat-chocolate fact pack.
-- DOGT4, FDA "Keep Your Dogs and Cats Safe From Holiday Hazards" (content current as of 12/17/2025): the carcass line is about dogs ("Dogs, especially, are notorious for helping themselves to the turkey carcass…"). The wrap-and-bin line says "a trash bin that your pets can't get into."
-- DOGT6, same FDA page, says "your pet" for fatty scraps and roasted turkey skin; the cleared dog-turkey check keeps "can upset the stomach" and the FDA's "don't give," and leaves out "life-threatening."
-- The pack's coverage rule: "The ASPCA turkey line says 'your pet' (the page speaks of 'your cat and dog'); the FDA trash and carcass line says 'your dog'; the FDA skin line says 'your pet'." Use "dog" only where the FDA says dog.
-- Do not use "A Feast Fit for a King" (mix turkey, sweet potatoes, green beans, drizzle of gravy). The pack forbids that section because it conflicts with the bouillon/gravy sodium line.
-- Do not use the AVMA splinter line in packaging. The second-model check removed it from the dog-turkey description because the checker could not open the AVMA page.
-
-The Social Studio audit used the same ASPCA Thanksgiving page (opened 11/15) as a pets page, not a cats-only page. This file does not take extra audit claims (for example a standalone onions-and-garlic line) that are not already written into the repo pack.
-
-## Facts still needed (do not fill these by guessing)
-
-1. A dedicated `research/facts/cat-turkey.md` that re-opens the live ASPCA and FDA pages and quotes every line as it applies to cats, with the date opened.
-2. A second-model check of that pack and of any script, separate from the 11/12 dog-turkey check.
-3. Whether a cat-specific carcass or trash behavior line exists. Do not reuse "dogs are notorious for the turkey carcass" as a cat fact.
-4. Whether processed turkey (bacon, ham, lunch meat, sausage, pepperoni, deli slices — all of which appear in `postkit.py kw` suggestions) is covered. If the pages do not say, do not tag or title those foods.
-5. Onion, garlic, gravy/bouillon, and chocolate as they apply to cats. Those may belong in their own videos. Do not pile them into this description without a checked quote.
-6. A safe-amount line: the dog pack found none. Do not invent one for cats.
-7. Episode number, Sauce gag that adds no danger or dose, schedule slot (Thanksgiving is Thu 11/26/2026; Shorts dates 11/22–11/24 and 11/26–12/04 are empty in `posted.csv`), and a Related-video target.
-
-Until that pack exists, the metadata below is a holding draft that only restates DOGT1 and DOGT2, plus the "pets means cats and dogs" note. It is not cleared for posting.
-
-## YouTube title
+## Title (both cuts; lint-clean, from the scripts)
 
 `If Cats Eat Turkey: Boneless and Fully Cooked, Says the ASPCA 🐱 (Things Living In Your House)`
 
-94 UTF-16 units. Statement form (a leading `Can Cats Eat Turkey?` would fail lint). Searched words (`cats eat turkey`) sit in the first 40, matching the dog-turkey pattern `If Dogs Eat Turkey:…`. "Your cat" is not the lead; searched words won under title-formula clause 10, same choice as `#70`. No episode number is assigned. Lint (`/workspace/packaging/lint-specs/title-cats-turkey.json`): pass, 0 fail, 1 hashtag WARN, title 94 of 100. (That stub still had a couple of unmatched food tags; the tag list in this file is the corrected one.)
+94 UTF-16 units. Statement form (a leading `Can Cats Eat Turkey?` would fail lint). Searched words (`cats eat turkey`) sit in the first 40. One emoji. Series tag last; no episode number is assigned. The title follows CT-F1 (ASPCA: if you share a small bite, boneless and fully cooked). "Plain," "skinless," "generally," and "small portions" stay in the description (CT-F9) so the title does not read as a guarantee. "Your cat" is not the lead; searched words win under title-formula clause 10, same pattern as the posted dog-turkey Short.
 
-## YouTube description
+This is the script title on both cuts. It already passes lint, so packaging does not rewrite it.
 
-Can cats eat turkey? The ASPCA Thanksgiving page, already quoted in the dog-turkey fact pack, recommends sticking to your pet's normal diet on Thanksgiving. If you do decide to feed your pet a small bite of turkey or other meat, it says to make sure it is boneless and fully cooked. Raw or undercooked turkey may contain salmonella, and poultry bones can be a major choking hazard. That pack notes that "pets" on this line means cats and dogs. This draft does not add a safe amount, a carcass habit for cats, or any food the pack did not check. Quote the live page again in a cat-turkey pack before this goes on screen. When in doubt, ask your vet.
+## YouTube Short — description
+
+Can cats eat turkey? The ASPCA first recommends sticking to a pet's normal diet on Thanksgiving (CT-F1). If you do decide to feed your pet a small bite of turkey or other meat, it says make sure it is boneless and fully cooked (CT-F1). Raw or undercooked turkey may contain salmonella, and poultry bones can be a major choking hazard (CT-F2). The AVMA says plain, boneless, and skinless turkey is generally safe for pets in small portions, but gravy, sauces, dressing, and meat or poultry fat or skin can be hard to digest, and sometimes even a small amount can cause pancreatitis; the bones themselves can cause choking or intestinal blockage (CT-F9). An AVMA household-hazards brochure says cooked turkey bones can splinter and damage a pet's mouth or digestive system (CT-F11). The AVMA also discourages raw or undercooked animal-sourced protein for dogs and cats (CT-F12). Onions, garlic and chives can cause gastrointestinal irritation and red blood cell damage; the ASPCA says cats are more susceptible (CT-F7). The FDA says not to give pets high-fat scraps such as skin from a roasted turkey, which can cause an upset stomach and can cause pancreatitis; in cats, the symptoms are less clear and harder to notice, such as decreased appetite and weight loss (CT-F13, CT-F14). The ASPCA also says small amounts of lean cooked turkey free of bones and seasoning are okay, and that snacks should be no more than five percent of daily calories — that is their guideline, not a measured serving size (CT-F5, CT-F6). The spoken Short itself states CT-F1 (normal diet; boneless and fully cooked if you share a small bite) and CT-F9 (plain, boneless, and skinless, generally safe in small portions); the other conditions are in this description and in the minute cut. When in doubt, ask your vet.
 
 #cancatseatturkey #turkeybones #thanksgivingpets #meatballmyths #shorts
 
-Sources: skills/oh-meatball/research/facts/dog-turkey.md (DOGT1, DOGT2) and research/facts/dog-turkey-check.md; ASPCA, Thanksgiving Safety Tips, https://www.aspca.org/pet-care/general-pet-care/thanksgiving-safety-tips (opened in that pack on 2026-11-12). General information, not veterinary advice.
+Sources: /workspace/drafts/facts/cats-turkey.md (CT-F1, CT-F2, CT-F5, CT-F6, CT-F7, CT-F9, CT-F11, CT-F12, CT-F13, CT-F14); ASPCA, Thanksgiving Safety Tips, Sharing is Caring, and People Foods to Avoid Feeding Your Pets; AVMA, Thanksgiving pet safety, raw-or-undercooked policy, and household-hazards brochure (2022); FDA, Keep Your Dogs and Cats Safe From Holiday Hazards. Pages opened 2026-11-15. General information, not veterinary advice.
 
-## Tags (10, each ≤30 characters, from `postkit.py kw`)
+Hashtags are 3 topic + `#meatballmyths` + `#shorts` last, matching the scripts. The draft script description did not cite fact IDs; packaging adds the IDs and keeps every condition.
 
-Keyword file: `/workspace/packaging/kw/kw-studio-assignments.csv` (run 2026-11-15, America/New_York). Every tag is a query this holding draft can actually answer (turkey, turkey meat, bones) or a series/brand tag. Processed-meat suggestions (ham, bacon, lunch meat, sausage, pepperoni, deli) are omitted until a pack covers them. `can cats eat turkey carcass` is omitted because the FDA carcass line is about dogs. `can cats eat turkey bones raw or cooked` is 39 characters and over the cap.
+## YouTube Short — tags (10, each ≤30 characters)
+
+These are the script tags. They match the earlier `postkit.py kw` set in `/workspace/packaging/kw/kw-studio-assignments.csv` (run 2026-11-15, America/New_York). Processed-meat suggestions are omitted. `can cats eat turkey carcass` is omitted because CT-F15 is framed around dogs.
 
 1. can cats eat turkey
 2. can cats have turkey
@@ -58,21 +39,45 @@ Keyword file: `/workspace/packaging/kw/kw-studio-assignments.csv` (run 2026-11-1
 9. things living in your house
 10. Meatball Myths
 
-Tag 8 stays only if the script repeats the ASPCA raw/undercooked line. If the cat pack later drops raw, drop the tag.
+Tag 8 is supported by the minute cut (CT-F2 / CT-F12 raw or undercooked). The YouTube Short states "boneless and fully cooked" but does not itself say "raw." "Turkey breast" is not named as a separate cut; it stays only as a search form of turkey meat under the same plain / boneless / skinless / fully cooked conditions.
 
-## TikTok caption (Studio shape; pending the hashtag decision)
+## YouTube Short — pinned comment
+
+What did your cat try to steal off the Thanksgiving table?
+
+Open question, not yes/no. No Related-video line unless this Short is on-topic to that week's long-form. On the open November/December dates as now scheduled, it is a pet house Short: Related video is the Things Living In Your House playlist.
+
+## TikTok minute cut — caption (MASTER_ORDERS / 11/15 template)
+
+Paste-ready wording is the final script caption. It already follows the 11/15 rule: searched phrase first, conditions kept, a question immediately before the hashtags, five topic hashtags, no brand tag. Fact IDs are listed under the caption, not in the posted text.
 
 ```
-can cats eat turkey?
-
-The ASPCA says to stick to your pet's normal diet, and if you share a small bite, make it boneless and fully cooked. Poultry bones can be a major choking hazard. This is a holding draft until a cat-turkey pack re-quotes the live page. What did your cat try to steal off the Thanksgiving table?
-#cancatseatturkey #turkeybones #thanksgivingpets #meatballmyths
+can cats eat turkey? 🐱 The ASPCA first recommends your pet's normal diet. If you share a small bite, make it boneless and fully cooked. The AVMA says plain, boneless, and skinless turkey is generally safe for pets in small portions. Bones can choke, block, or splinter. Skin and fat can be hard to digest and can sometimes cause pancreatitis. Meatball offered a plate to his cat, Sauce. Sauce walked off. His dog, Noodle, got the turkey. What did your cat try to steal off the Thanksgiving table?
+#cancatseatturkey #turkeybones #thanksgivingpets #catfoodsafety #bonelessturkey
 ```
 
-If MASTER_ORDERS wins the hashtag fight, drop `#meatballmyths` and add two topic tags the checked script actually answers.
+Fact IDs in that caption, with conditions kept: CT-F1 (ASPCA first recommends the normal diet; if you share a small bite, boneless and fully cooked); CT-F9 (AVMA: plain, boneless, and skinless, generally safe in small portions; fat or skin can be hard to digest, and sometimes even a small amount can cause pancreatitis; bones can choke or block); CT-F11 (cooked turkey bones can splinter); CT-F13 (FDA: don't give high-fat scraps such as skin). Spoken lines in the minute script also include raw or undercooked turkey may contain salmonella (CT-F2), the AVMA discourages raw or undercooked animal-sourced protein (CT-F12), onions, garlic and chives, with cats more susceptible (CT-F3, CT-F7), FDA cat pancreatitis signs less clear, such as decreased appetite and weight loss (CT-F14), and the ASPCA five-percent snack guideline, not a measured serving size (CT-F5, CT-F6). Jokes add no claim, number, danger, feeling, motive, or safety instruction.
 
-## Pinned comment
+## TikTok minute cut — pinned comment
 
-What did your cat try to steal off the Thanksgiving table? Full list in the Related video 👆
+What did your cat try to steal off the Thanksgiving table?
 
-Open question, not yes/no. Keep the Related-video line only if the Short is on-topic to that week's long-form (`related-video-rule.md`). If it is a holiday pet Short next to a bug or born-as wildlife long-form, point it at the Things Living In Your House playlist instead, or at a pet long-form if one is the week's lead.
+## Thumbnail concept (YouTube, 16:9)
+
+Updates `BONES OUT FIRST` in `thumbnail-concepts.md`. White or plain background. The card is a warning, not a "cats can eat this" claim. No Meatball. One red word, one arrow, readable at 168 px.
+
+- `_a` (Short and default): on-image `BONES OUT FIRST` (3 words), red word `BONES`. One huge drawn turkey bone (or a bone-in drumstick); arrow to the bone. Bones can choke (CT-F2), block (CT-F9), or splinter (CT-F11). No serving size, no gravy boat labeled safe or unsafe.
+- `_b` (long-form only): `CAN SPLINTER` (2 words), red word `SPLINTER` (CT-F11). Do not letter a cat-and-the-trash claim (CT-F15 is framed around dogs).
+- `_c` (long-form only): `NO TURKEY BONES` (3 words), red word `NO`. Supported by CT-F1, CT-F9, and CT-F11.
+
+Studio A/B is long-form only. If this stays a Short, shoot `_a` only.
+
+## Cover concept — TikTok only
+
+MASTER_ORDERS drops custom cover frames on YouTube Shorts. Do not upload a custom Shorts cover. Related video is a Studio field, not a frame.
+
+For the TikTok minute cut only, a 9:16 cover: white or plain field; the same huge turkey bone as the subject, no Meatball; hand-lettered `BONES OUT FIRST` with `BONES` in red; one arrow; still readable when the cover is small on a For You feed. Do not letter a serving size, "gravy is fine," or a guarantee on the cover.
+
+## Related video
+
+Things Living In Your House playlist, unless a same-week house long-form later makes this Short on-topic (Claude is confirming Saturday long-form order with Nolan). See `related-video-rule.md`.
