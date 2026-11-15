@@ -1,0 +1,504 @@
+{
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "+10%",
+  "pitch": "+3Hz",
+  "music": "detective",
+  "music_db": -13,
+  "captions": 66,
+  "caption_y": 1180,
+  "cut_whoosh": true,
+  "loop": true,
+  "photo_credits": [],
+  "cap_swap": {
+    "shit": "sh*t",
+    "shits": "sh*ts",
+    "shitty": "sh*tty",
+    "bullshit": "bullsh*t",
+    "fuck": "f**k",
+    "fucking": "f**king",
+    "fucker": "f**ker",
+    "fuckers": "f**kers"
+  },
+  "series": "Things Living In Your House",
+  "sources": [
+    "ASPCA, Thanksgiving Safety Tips (ASPCA Poison Control experts; opened 2026-11-15): \"While we recommend sticking to your pet's normal diet on Thanksgiving\"; \"If you do decide to feed your pet a small bite of turkey or other meat, make sure it's boneless and fully cooked. Raw or undercooked turkey may contain salmonella bacteria and poultry bones can be a major choking hazard.\"; \"Onions and garlic are both prevalent in a lot of Thanksgiving dishes and can be toxic to pets.\"; https://www.aspca.org/pet-care/general-pet-care/thanksgiving-safety-tips",
+    "ASPCA, Sharing is Caring: Foods You Can Safely Share with Your Pet (ASPCA Animal Poison Control Center; January 28, 2021; opened 2026-11-15): \"Snacks should equate to no more than five percent of their daily caloric intake, so keep portion sizes small.\"; \"too much fat or sugar can lead to inflammation of the pancreas (pancreatitis)\"; \"Small amounts of lean cooked chicken, turkey, beef or pork that are free of bones and seasoning are also okay.\"; https://www.aspca.org/news/sharing-caring-foods-you-can-safely-share-your-pet",
+    "ASPCA, People Foods to Avoid Feeding Your Pets (opened 2026-11-15): \"Onion, garlic and chives are members of the Allium species of vegetables. Allium species can cause gastrointestinal irritation and red blood cell damage, which can lead to anemia (low red blood cells). Although cats are more susceptible, dogs are also at risk depending on the amount ingested.\"; \"Raw meat and raw eggs can contain bacteria such as Salmonella and E. coli that can be harmful to pets and humans alike.\"; https://www.aspca.org/pet-care/aspca-poison-control/people-foods-avoid-feeding-your-pets",
+    "American Veterinary Medical Association, Thanksgiving pet safety (opened 2026-11-15): \"Plain, boneless, and skinless turkey is generally safe for pets in small portions, but other table scraps—including gravy, sauces, dressing, and meat or poultry fat or skin—can be hard for pets to digest, and sometimes even a small amount can cause pancreatitis. The bones themselves can cause choking or intestinal blockage.\"; https://www.avma.org/resources-tools/pet-owners/petcare/thanksgiving-pet-safety",
+    "American Veterinary Medical Association, Raw or undercooked animal-source protein in cat and dog diets (opened 2026-11-15): \"the AVMA discourages feeding any raw or undercooked animal-sourced proteins (e.g., meat, poultry, fish, egg, milk*) to dogs and cats because of their risk to human and animal health.\"; \"Apparently healthy dogs and cats can have subclinical infections with these organisms and pose a risk to other animals and people\"; https://www.avma.org/resources-tools/avma-policies/raw-or-undercooked-animal-source-protein-cat-and-dog-diets",
+    "American Veterinary Medical Association, Household Hazards client brochure (2022 filename; opened 2026-11-15): \"fatty, rich, or spicy foods can be too much for your pet's system to handle, causing vomiting, diarrhea, and pancreatitis. Cooked chicken, turkey, and other soft bones can splinter and damage your pet's mouth or digestive system.\"; https://ebusiness.avma.org/files/productdownloads/mcm-client-brochures-household-hazards-2022.pdf",
+    "U.S. Food and Drug Administration, Keep Your Dogs and Cats Safe From Holiday Hazards (opened 2026-11-15): \"Don't give your pet table scraps that are high in fat, such as fat trimmings from meat or skin from a roasted turkey or chicken. Not only can rich foods cause an upset stomach, but they can also cause a potentially life-threatening and painful disease called pancreatitis.\"; \"In cats, the symptoms are less clear and harder to notice, such as decreased appetite and weight loss.\"; The turkey-carcass trash warning on this page is framed as \"Dogs, especially\" and is not used as a cat fact in these cuts.; https://www.fda.gov/consumers/consumer-updates/keep-your-dogs-and-cats-safe-holiday-hazards"
+  ],
+  "stage": {
+    "creature": "cat",
+    "scene": "kitchen",
+    "scene_p": {
+      "time": "night"
+    },
+    "s": 0.62,
+    "creature_cfg": {
+      "plan": "mammal",
+      "label": "cat",
+      "color": "#e39a4a",
+      "dark": "#b06f2a",
+      "belly": "#f6e3c8",
+      "tail_color": "#e39a4a",
+      "length": 520,
+      "height": 250,
+      "leg_len": 150,
+      "leg_w": 30,
+      "ears": "pointed",
+      "tail": "thin",
+      "tail_w": 22,
+      "whiskers": true,
+      "mood": "smug"
+    }
+  },
+  "cap_key": [
+    "you",
+    "your",
+    "cat",
+    "cats",
+    "turkey",
+    "aspca",
+    "avma",
+    "fda",
+    "boneless",
+    "cooked",
+    "skinless",
+    "plain",
+    "bones",
+    "skin",
+    "fat",
+    "gravy",
+    "salmonella",
+    "pancreatitis",
+    "onions",
+    "garlic",
+    "chives",
+    "sauce",
+    "noodle",
+    "portions",
+    "generally"
+  ],
+  "title": "If Cats Eat Turkey: Boneless and Fully Cooked, Says the ASPCA 🐱 (Things Living In Your House)",
+  "description": "Can cats eat turkey? The ASPCA recommends sticking to your pet's normal diet on Thanksgiving. If you do decide to feed your pet a small bite of turkey or other meat, it says to make sure it is boneless and fully cooked. Raw or undercooked turkey may contain salmonella, and poultry bones can be a major choking hazard. The AVMA says plain, boneless, and skinless turkey is generally safe for pets in small portions, but other table scraps, including gravy, sauces, dressing, and meat or poultry fat or skin, can be hard to digest, and sometimes even a small amount can cause pancreatitis. The FDA says not to give high-fat scraps such as skin from a roasted turkey; in cats, pancreatitis symptoms are less clear, such as decreased appetite and weight loss. Onions, garlic and chives can damage red blood cells, and the ASPCA says cats are more susceptible. The ASPCA also says small amounts of lean cooked turkey free of bones and seasoning are okay, and that snacks should be no more than five percent of daily calories — that is their guideline, not a measured serving size. When in doubt, ask your vet.\n\n#cancatseatturkey #turkeybones #thanksgivingpets #meatballmyths #shorts\n\nSources: ASPCA, Thanksgiving Safety Tips, https://www.aspca.org/pet-care/general-pet-care/thanksgiving-safety-tips ; ASPCA, Sharing is Caring: Foods You Can Safely Share with Your Pet, https://www.aspca.org/news/sharing-caring-foods-you-can-safely-share-your-pet ; ASPCA, People Foods to Avoid Feeding Your Pets, https://www.aspca.org/pet-care/aspca-poison-control/people-foods-avoid-feeding-your-pets ; AVMA, Thanksgiving pet safety, https://www.avma.org/resources-tools/pet-owners/petcare/thanksgiving-pet-safety ; AVMA, Raw or undercooked animal-source protein in cat and dog diets, https://www.avma.org/resources-tools/avma-policies/raw-or-undercooked-animal-source-protein-cat-and-dog-diets ; AVMA, Household Hazards brochure (2022), https://ebusiness.avma.org/files/productdownloads/mcm-client-brochures-household-hazards-2022.pdf ; FDA, Keep Your Dogs and Cats Safe From Holiday Hazards, https://www.fda.gov/consumers/consumer-updates/keep-your-dogs-and-cats-safe-holiday-hazards. Pages opened 2026-11-15. General information, not veterinary advice.",
+  "tiktok_title": "Can Cats Eat Turkey? What the ASPCA and the AVMA Say",
+  "tiktok_caption": "can cats eat turkey? 🐱 The ASPCA first recommends your pet's normal diet. If you share a small bite, make it boneless and fully cooked. The AVMA says plain, boneless, and skinless turkey is generally safe for pets in small portions. Bones can choke, block, or splinter. Skin and fat can be hard to digest and can sometimes cause pancreatitis. Meatball offered a plate to his cat, Sauce. Sauce walked off. His dog, Noodle, got the turkey. What did your cat try to steal off the Thanksgiving table? #cancatseatturkey #turkeybones #thanksgivingpets #catfoodsafety #bonelessturkey",
+  "_note": "RULES-DEFAULT TikTok minute cut, draft 2026-11-15, written only from /workspace/drafts/facts/cats-turkey.md. Schema follows the newer pet minute cuts (tt-cat-sugar.json; also compared with tt-dog-guilty-look.json). 293 spoken words, runtime estimate 91.8s at 194.5 wpm plus 1.40s of listed pads. MASTER_ORDERS / Nolan 11/11: about one swear per line, 6–9 sweary jokes. Facts, credits and hedges ('generally,' 'may,' 'can,' 'sometimes even a small amount') are said clean, with the swear after. Hook is the searched question. Line 2 is the acted Meatball gag. His cat, Sauce (comma form) does the opposite and walks off (line 3); his dog, Noodle (comma form) ends up with the turkey (line 12 payoff). Safety lines carry their condition: plain / boneless / skinless / fully cooked / small portions; bones (choke, block, splinter); seasoning (onions, garlic, chives; cats more susceptible); skin and fat; cooked vs raw or undercooked. No gravy-is-safe line (AVMA groups gravy with fat and skin). No invented serving size (the five-percent figure is credited as the ASPCA's guideline). No dog-only FDA carcass claim applied to cats. FDA cat pancreatitis signs stay hedged and are not swapped for the dog list. Jokes add no claim, number, danger, feeling, motive or safety instruction. Auto acting is off on the safety beats so the cat does not chomp while hazards are named. Hashtags in the TikTok caption: five topic tags, no brand. Title has no episode number (none assigned). NOT yet checked by a second model and not rendered. No Sauce/Noodle character keys; Studio must draw the walk-off and the Noodle payoff.",
+  "_curse": "Rules-default / Nolan 11/11: about one swear per line; 6–9 sweary jokes (Fancy as fuck; like a fucking waiter; Fucking typical; Fucking souvenir; Fucking seasoning; Fucking raccoon energy; Fucking math class; Little fucking vacuum). Bare reactions sit after clean facts or hedges (Holy shit; Serious as fuck; Generally. Fucking generally; Fucking easy to miss; Be fucking honest). Facts, credits and safety hedges stay clean; the swear is after. Jokes add no claim. No insult uses 'you'.",
+  "beats": [
+    {
+      "m": "hook",
+      "gag": {
+        "mark": "shock"
+      },
+      "_f": [
+        "CT-F1"
+      ],
+      "say": "Can cats eat turkey? The ASPCA first recommends the normal diet. Holy shit.",
+      "card": {
+        "rows": [
+          [
+            "CAN CATS EAT TURKEY?",
+            "#ffd34d",
+            80
+          ],
+          [
+            "ASPCA: START WITH THE NORMAL DIET",
+            "#ffffff",
+            42,
+            true
+          ]
+        ],
+        "y": 470,
+        "at": "45%"
+      },
+      "open": "animal"
+    },
+    {
+      "m": "fact",
+      "gag": false,
+      "_f": [],
+      "say": "Meatball plated leftovers for his cat, Sauce. Fancy as fuck.",
+      "card": {
+        "rows": [
+          [
+            "LEFTOVERS, PLATED",
+            "#ffd34d",
+            90
+          ],
+          [
+            "FOR HIS CAT, SAUCE",
+            "#ffffff",
+            48,
+            true
+          ]
+        ],
+        "y": 470,
+        "at": "30%"
+      },
+      "scene": "kitchen",
+      "pad": 0.25
+    },
+    {
+      "m": "fact",
+      "gag": false,
+      "_f": [],
+      "say": "Sauce walked off. Meatball stood there like a fucking waiter.",
+      "card": {
+        "rows": [
+          [
+            "SAUCE WALKED OFF",
+            "#ffd34d",
+            100
+          ],
+          [
+            "MEATBALL, THE WAITER",
+            "#ffffff",
+            48,
+            true
+          ]
+        ],
+        "y": 470,
+        "at": "30%"
+      },
+      "scene": "bedroom",
+      "pad": 0.25,
+      "hero_moves": [
+        {
+          "at": "walked|8%",
+          "dur": 0.9,
+          "pos": [
+            1500,
+            1500
+          ],
+          "walk": true,
+          "face": 1
+        }
+      ]
+    },
+    {
+      "m": "fact",
+      "gag": false,
+      "_f": [
+        "CT-F1",
+        "CT-F2"
+      ],
+      "say": "If you share a small bite of turkey, the ASPCA says make it boneless and fully cooked. Fucking typical, Meatball.",
+      "card": {
+        "rows": [
+          [
+            "BONELESS + FULLY COOKED",
+            "#ffd34d",
+            80
+          ],
+          [
+            "ASPCA: IF YOU SHARE A SMALL BITE",
+            "#ffffff",
+            42,
+            true
+          ]
+        ],
+        "y": 470,
+        "at": "25%"
+      },
+      "scene": "study",
+      "acting": false
+    },
+    {
+      "m": "fact",
+      "gag": false,
+      "_f": [
+        "CT-F2",
+        "CT-F12"
+      ],
+      "say": "Raw or undercooked turkey may contain salmonella, the ASPCA says. The AVMA discourages raw or undercooked poultry for dogs and cats. Serious as fuck.",
+      "card": {
+        "rows": [
+          [
+            "RAW OR UNDERCOOKED",
+            "#ff4b3e",
+            80
+          ],
+          [
+            "MAY CONTAIN SALMONELLA (ASPCA)",
+            "#ffffff",
+            40,
+            true
+          ],
+          [
+            "AVMA DISCOURAGES RAW POULTRY",
+            "#ffffff",
+            40,
+            true
+          ]
+        ],
+        "y": 470,
+        "at": "20%"
+      },
+      "scene": "basement",
+      "acting": false
+    },
+    {
+      "m": "fact",
+      "gag": false,
+      "_f": [
+        "CT-F2",
+        "CT-F9",
+        "CT-F11"
+      ],
+      "say": "Poultry bones can be a major choking hazard, the ASPCA says. The AVMA says bones can choke or block, and cooked turkey bones can splinter. Fucking souvenir.",
+      "card": {
+        "rows": [
+          [
+            "BONES: CHOKE, BLOCK, SPLINTER",
+            "#ff4b3e",
+            64
+          ],
+          [
+            "ASPCA + AVMA, INCLUDING COOKED TURKEY BONES",
+            "#ffffff",
+            36,
+            true
+          ]
+        ],
+        "y": 470,
+        "at": "20%"
+      },
+      "scene": "bathroom",
+      "acting": false
+    },
+    {
+      "m": "fact",
+      "gag": false,
+      "_f": [
+        "CT-F3",
+        "CT-F7"
+      ],
+      "say": "Onions, garlic and chives can be toxic to pets, the ASPCA says, and can damage red blood cells. Cats are more susceptible. Fucking seasoning.",
+      "card": {
+        "rows": [
+          [
+            "ONIONS, GARLIC, CHIVES",
+            "#ff4b3e",
+            72
+          ],
+          [
+            "CAN DAMAGE RED BLOOD CELLS; CATS MORE SUSCEPTIBLE (ASPCA)",
+            "#ffffff",
+            32,
+            true
+          ]
+        ],
+        "y": 470,
+        "at": "20%"
+      },
+      "scene": "garden",
+      "acting": false
+    },
+    {
+      "m": "fact",
+      "gag": false,
+      "_f": [
+        "CT-F13"
+      ],
+      "say": "The FDA says don't give high-fat scraps such as fat trimmings or skin from a roasted turkey. They can cause an upset stomach, and they can also cause pancreatitis. Put the skin down, Meatball. Fucking hell.",
+      "card": {
+        "rows": [
+          [
+            "NO SKIN, NO FAT TRIMMINGS",
+            "#ff4b3e",
+            64
+          ],
+          [
+            "FDA: CAN UPSET THE STOMACH AND CAN CAUSE PANCREATITIS",
+            "#ffffff",
+            34,
+            true
+          ]
+        ],
+        "y": 470,
+        "at": "20%"
+      },
+      "scene": "kitchen",
+      "acting": false
+    },
+    {
+      "m": "scale",
+      "gag": false,
+      "_f": [
+        "CT-F9"
+      ],
+      "say": "The AVMA says plain, boneless, and skinless turkey is generally safe for pets in small portions. Gravy, sauces, dressing, and fat or skin can be hard to digest, and sometimes even a small amount can cause pancreatitis. Generally. Fucking generally.",
+      "card": {
+        "rows": [
+          [
+            "GENERALLY SAFE, IN SMALL PORTIONS",
+            "#7bd88f",
+            56
+          ],
+          [
+            "AVMA: PLAIN, BONELESS, AND SKINLESS",
+            "#ffffff",
+            40,
+            true
+          ],
+          [
+            "GRAVY, SAUCES, FAT OR SKIN: CAN BE HARD TO DIGEST",
+            "#ffffff",
+            34,
+            true
+          ]
+        ],
+        "y": 470,
+        "at": "18%"
+      },
+      "scene": "study",
+      "acting": false
+    },
+    {
+      "m": "fact",
+      "gag": false,
+      "_f": [
+        "CT-F5",
+        "CT-F6"
+      ],
+      "say": "The ASPCA also says small amounts of lean cooked turkey free of bones and seasoning are okay. Snacks should be no more than five percent of daily calories. That's their guideline. Fucking math class.",
+      "card": {
+        "rows": [
+          [
+            "SMALL AMOUNTS, LEAN, COOKED",
+            "#ffd34d",
+            64
+          ],
+          [
+            "FREE OF BONES AND SEASONING (ASPCA)",
+            "#ffffff",
+            40,
+            true
+          ],
+          [
+            "SNACKS: NO MORE THAN 5% — THEIR GUIDELINE",
+            "#ffffff",
+            36,
+            true
+          ]
+        ],
+        "y": 470,
+        "at": "20%"
+      },
+      "scene": "bedroom",
+      "acting": false
+    },
+    {
+      "m": "fact",
+      "gag": false,
+      "_f": [
+        "CT-F14"
+      ],
+      "say": "In cats, the FDA says pancreatitis symptoms are less clear, such as decreased appetite and weight loss. Not the dog list. Fucking easy to miss.",
+      "card": {
+        "rows": [
+          [
+            "IN CATS, SIGNS ARE LESS CLEAR",
+            "#ffd34d",
+            60
+          ],
+          [
+            "FDA: DECREASED APPETITE AND WEIGHT LOSS",
+            "#ffffff",
+            40,
+            true
+          ],
+          [
+            "NOT THE DOG SYMPTOM LIST",
+            "#ffffff",
+            40,
+            true
+          ]
+        ],
+        "y": 470,
+        "at": "20%"
+      },
+      "scene": "basement",
+      "acting": false
+    },
+    {
+      "m": "fact",
+      "gag": false,
+      "_f": [],
+      "say": "His dog, Noodle, already had the turkey. Little fucking vacuum.",
+      "card": {
+        "rows": [
+          [
+            "NOODLE HAD THE TURKEY",
+            "#ffd34d",
+            90
+          ],
+          [
+            "SAUCE WAS LONG GONE",
+            "#ffffff",
+            48,
+            true
+          ]
+        ],
+        "y": 470,
+        "at": "40%"
+      },
+      "scene": "garden"
+    },
+    {
+      "m": "punch",
+      "gag": {
+        "mark": "alarm"
+      },
+      "_f": [],
+      "say": "So can cats eat turkey? Only with those conditions. What did your cat try to steal off the Thanksgiving table? Be fucking honest. And",
+      "card": {
+        "rows": [
+          [
+            "WHAT DID YOUR CAT TRY TO STEAL OFF THE THANKSGIVING TABLE? COMMENT",
+            "#ffffff",
+            32,
+            true
+          ]
+        ],
+        "x": "right",
+        "y": 400,
+        "at": 0.0
+      },
+      "scene": "kitchen",
+      "pad": 0.9
+    }
+  ],
+  "search_top": {
+    "rows": [
+      [
+        "CAN CATS",
+        "#ffffff",
+        86
+      ],
+      [
+        "EAT TURKEY?",
+        "#ffd34d",
+        86
+      ]
+    ],
+    "y": 150,
+    "until": 2.5
+  },
+  "pinned_comment": "What did your cat try to steal off the Thanksgiving table?",
+  "tags": [
+    "can cats eat turkey",
+    "can cats have turkey",
+    "can cats eat turkey meat",
+    "can cats eat turkey breast",
+    "can cats eat turkey bones",
+    "do cats eat turkey bones",
+    "can cats eat bones",
+    "can cats eat raw turkey bones",
+    "things living in your house",
+    "Meatball Myths"
+  ]
+}
