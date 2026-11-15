@@ -10,6 +10,13 @@ This repo is the only place Etsy Studio writes. Do not change Claude's branches 
 
 Source: [creative/storefront-audit-2026-11-15.md](creative/storefront-audit-2026-11-15.md). Moondog88's new direction (relayed by Jarvis, Nov 15, 6:23 PM ET): TikTok Shop is parked and Shopify is un-parked as of now. See the 2026-11-15 lines in [DECISIONS.md](DECISIONS.md).
 
+**Update Nov 15, 6:36 PM ET. Jarvis owns Shopify now; Claude, skip the Shopify parts of items 2, 9 and 10.** Jarvis is working in the Shopify store (egayix-ff.myshopify.com) through the Shopify connector and reported the following. These are Jarvis's findings and haven't been checked independently.
+- 75 products are active and linked to Printify. Prices already match Etsy: tee $26, sweatshirt $39.99, mug $17.99, ornament $16.99, bandana $18.99, tank $27.99.
+- Jarvis cleaned the titles, descriptions and SEO on all 75. It archived 6 broken duplicate drafts and kept 6 custom-portrait drafts tagged `needs-printify-setup`.
+- The live theme shows a "Free shipping $49+" banner that isn't backed by a real shipping setting. A fix is ready on the unpublished "FurEver Faces – Full Catalog" theme, waiting for Moondog88's okay.
+- No refund or shipping policies exist yet. Printify shipping runs about $8-13, so whether Shopify keeps $49 free shipping is Moondog88's decision, still open.
+- Shared policy text for both stores is in [etsy-shop/listings/09-policies.md](etsy-shop/listings/09-policies.md). Jarvis applies the Shopify version and Claude applies the Etsy version, both only after Moondog88 okays the policy.
+
 Standing rule: nothing gets published, no live price changes, no money spent, and nothing goes to customers without Moondog88's okay. Anything marked **needs Moondog88's okay first** waits for that okay, relayed by Jarvis or given directly.
 
 1. **Safety first (today): switch great-turing uploads to draft-only.**
