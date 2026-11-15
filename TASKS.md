@@ -63,6 +63,13 @@ Source: [etsy-shop/listings/07-valentine-printables.md](etsy-shop/listings/07-va
 1. **Build these 3 Valentine printables with the etsy-factory pipeline** using those specs: a 24-puzzle word search (about 30 pages, answer key, Letter and A4 PDFs), bingo with 30 cards and 40 calling words, and "From the Dog" classroom cards (24 cards, 8 designs × 3, plus a blank-name version). Aim for drafts by Jan 5.
 2. **Keep the upload draft-only (`publish=no`).** Confirm the AI-art disclosure if any art is AI-generated.
 
+### Shop branding (draft)
+
+Source: [etsy-shop/listings/08-shop-branding.md](etsy-shop/listings/08-shop-branding.md).
+
+1. **Do not paste `08-shop-branding.md` into Etsy until Moondog88 okays it** and fills in the **[CONFIRM]** personal details (Mac's details, the shop origin story, the contact path).
+2. **Check whether the production and shipping times in `POLICIES_TO_PASTE.md`** (2–5 days production, 3–8 days shipping) also hold for Etsy orders. Then write the Etsy cancellation and refund rules for print-on-demand items, and add the size chart and materials for the tees, sweatshirts, bandanas, and tanks from Printify specs.
+
 ### Christmas pins and Dec 1–5 countdown
 
 Source: [etsy-shop/ads/christmas-pins.md](etsy-shop/ads/christmas-pins.md) and [etsy-shop/ads/christmas-countdown-dec1-5.md](etsy-shop/ads/christmas-countdown-dec1-5.md). Posting anything needs Moondog88's okay.
