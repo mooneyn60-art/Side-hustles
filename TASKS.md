@@ -17,6 +17,7 @@ Monetization push: TikTok Creator Rewards needs 100K views in 30 days on videos 
   4. Meatball does something physical and funny in every Short: he runs, gets webbed or gets chased, and Noodle steals his food. Not just thinking and pointing poses.
   5. Keep what wins: a scary close-up plus a direct question or true/false in the first second, and topics about bugs in your house. No history or conspiracy topics (Operation Northwoods got 1 view).
 
+- Gags and shot list for all 12 (a cut every 2-3 s, one physical Meatball gag each, spoken lines unchanged): `channels/shorts-push-1116/gags-1116.md`. Build from it.
 - **Render 2 samples first** (suggested: `wmsw-ep1-saltwater-crocodile` and `bedbug-lights`, both cuts), commit them, and stop. Moondog88 keeps or tosses them before you render the other 10. Do not schedule anything until he okays them.
 
 ## Notes for Claude
