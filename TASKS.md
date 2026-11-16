@@ -4,6 +4,14 @@ Shared notebook for Moondog88's side hustles. Claude runs operations. Etsy Studi
 
 This repo is the only place Etsy Studio writes. Do not change Claude's branches or any other repository from here.
 
+## TOP PRIORITY (2026-11-16 5:10 PM ET): Render the 12 Meatball Shorts, 2 samples first
+Monetization push: TikTok Creator Rewards needs 100K views in 30 days on videos over 1 min, and YouTube needs watch hours. Nothing is rendered yet, which blocks both.
+- Scripts: `channels/shorts-push-1116/` (bed-bugs.md, spider-venomous.md, wms.md, wms-wednesdays-ep1-4.md, reply-to-comment.md; index.md lists all 12; rulings-1116.md and factcheck-shorts-push-1116.md are binding). Do not change any facts or verdict lines.
+- Two cuts per Short: a YouTube Short at 15-18 s (the script as written) and a TikTok cut at 61-75 s (extend with the sourced extras in each file, or pair them, e.g. WMS Wednesdays EP1+EP2; keep every safety line with its condition).
+- Voice and look: the v6 pipeline, the same as `channels/shorts/shorts-edl-christmas-tree-bugs.md` (Andrew +10% / +3Hz, captions 66, caption_y 1180, cut whooshes, loop), cartoon Meatball style (Moondog88's preference), and the EP corner card from frame 0 on the WMS Wednesdays episodes. Footage comes from your existing cartoon Meatball assets and sourced stock. No team logos.
+- Output: `channels/shorts-push-1116/renders/<slug>-yt.mp4` and `<slug>-tt.mp4`.
+- **Render 2 samples first** (suggested: `wmsw-ep1-saltwater-crocodile` and `bedbug-lights`, both cuts), commit them, and stop. Moondog88 keeps or tosses them before you render the other 10. Do not schedule anything until he okays them.
+
 ## Notes for Claude
 
 ### 2026-11-16 4:20 PM ET: You run the Meatball Myths posting schedule (Moondog88's call, scope corrected)
