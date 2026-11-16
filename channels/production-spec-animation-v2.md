@@ -67,11 +67,27 @@ Data: `analytics/outliers-1115/` (CSV with views, subs, views per sub, length, a
 6. **Flat, clean, bright background:** 7 of the 9 hand-drawn outliers (white, yellow or a flat colour).
 7. **Length and pace:** 17 of 28 are 8 minutes or longer (median 8.4 min). The Short outliers (Sketching the Wild, 4.7M and 3.4M) change the picture every 0.5-1 s (3-4 pictures in the first 2.8 s) and use small 2-3 word captions. 12 of 28 are under a year old (the "What If You Were Born as" channel had 4 hits in Nov 2026 alone), so the format is still hot.
 
-## CTR: what's realistic (target 10%)
-- **Official (YouTube Help, "Impressions & CTR FAQs"):** half of all channels and videos sit between 2% and 10%. CTR is naturally lower when a video gets lots of Home (Browse) impressions and higher from channel-page traffic. Compare videos with the same traffic source over the long term. Don't judge before a video has substantial impressions. High CTR with low watch time reads as clickbait and gets fewer impressions.
-- **Community-observed (agency and creator benchmarks, not official):** Browse 2-5%, Suggested 3-8% (one 2025 agency report says 9.5%), Search 5-15% (12.5% in that report), External 1-3%.
-- **Our realistic targets (estimates):** long-form overall impressions CTR of 6-8% within about 3 months. 10% or more on Search-led bug titles and on subscriber or channel-page traffic. A 10% CTR across all Browse traffic at scale would put us in roughly the top tier. Aim for it, but don't expect it. Shorts in the feed have no thumbnail click, so their equivalent is viewed vs swiped away.
-- **Baseline needed:** Studio screenshots per long-form (Reach tab: impressions, CTR, traffic-source split since publish) and per Short (viewed vs swiped away).
+## CTR: what's realistic (target 10%), built on the Studio baseline from Nov 15
+- **Our real numbers (Studio, read Nov 15):**
+  - Long-form, last 28 days: 18.5K impressions, **2.8% CTR**, 946 views, average view duration (AVD) **1:30**.
+  - Traffic: Suggested 58%, Browse 35%, Search 2.8%.
+  - Lifetime CTR, bug lane: 3 Bugs Never Kill **5.44%** (1,856 impressions), Don't Kill the Spider **4.63%** (1,771), 3 More Bugs **4.37%** (1,510). Weighted **4.8%**. (6 Creatures shows 6.06%, but on only 33 impressions.)
+  - Lifetime CTR, other topics: weird facts 1.82%, extinct 2.53%, wolves 1.99%, house cat 1.95%, myths 1.25%, CIA under 1%. **About 2.0%.**
+  - **The bug lane gets about 2.4x the CTR.**
+  - Shorts, last 28 days: 81.8K views, 46.3% stayed vs 53.7% swiped, 93.6% from the Shorts feed. Studio doesn't show feed impressions per Short.
+  - Audience: 99.3% new viewers. US 20.5%, PH 9.9%, IE 9.6%, UK 9.3%. Ages 25-44. 61% mobile.
+- **Official (YouTube Help, "Impressions & CTR FAQs"):**
+  - Half of channels and videos sit between 2% and 10%.
+  - CTR falls as Home (Browse) impressions grow and is higher from channel pages.
+  - Compare like with like over time, and don't judge on small impression counts.
+  - High CTR with low watch time gets fewer impressions.
+- **Community-observed (not official):** Browse 2-5%, Suggested 3-8% (one 2025 agency report: 9.5%), Search 5-15%.
+- **Our traffic mix is 93% Suggested + Browse.** So 10% overall would put us in about the top tier. Realistic targets (estimates):
+  - Bug-lane long-forms: overall **6-7% within 60 days** (from 4.8%).
+  - Search traffic and the first 48 h from subscribers: **10%+**.
+  - Browse: **4-6%**.
+  - Shorts are judged on stayed vs swiped: **from 46% to 55-60% stayed**.
+  - AVD matters as much as CTR: **from 1:30 to 3:00** (40% or more of a 6-8 min video).
 
 ## Packaging checklist (every upload; Jarvis or Claude ticks it in the upload log)
 1. **Lane:** Would Meatball Survive? or Things Living In Your House (bugs, spiders). Anything else waits for Moondog88.
@@ -106,9 +122,21 @@ Data: `analytics/outliers-1115/` (CSV with views, subs, views per sub, length, a
 ## Monetization timeline (estimates; thresholds checked Nov 15 2026 on YouTube Help)
 - **Fan funding tier, available in the US:** 500 subscribers, 3 public uploads in 90 days, and either 3,000 public long-form watch hours in 12 months or 3M Shorts-feed views in 90 days. Unchanged after Feb 1, 2027.
 - **Ads tier:** 1,000 subscribers and either 4,000 hours in 12 months or 10M Shorts views in 90 days. **From Feb 1, 2027, for channels not yet in YPP: 8,000 hours or 20M Shorts views.** Getting in before Feb 1 locks in the current bar. Shorts-feed watch time never counts toward hours.
-- **Where we are (public data, Nov 15):** 1,010 subscribers. 89 public Shorts, all posted from Oct 22, with 77.8k views (about 3.1k a day, so about 0.28M per 90 days at this pace). 13 long-forms with 961 views, roughly 50 watch hours (an estimate assuming about 3 min average view duration; the real number is in Studio).
-- **A, current trajectory:** neither tier in 2027. Shorts reach about 0.28M per 90 days, and long-form adds about 700 hours a year.
-- **B, the plan works:** the Shorts median goes from 1k to 5k and a 250k breakout lands every 2 weeks, about 33k a day from mid-Dec. Bug and WMS long-forms twice a week at about 2k views and 3 min average view duration, about 28 hours a day. Result: the fan funding tier around **Mar 15, 2027** (via hours; Shorts stop just short of 3M) and the ads tier around **Sep 2027** (8,000 hours).
-- **C, upside:** one format hits, with a Shorts median of 20k plus a 1M+ breakout every 10 days (about 160k a day), and long-forms at about 10k views each (about 190 hours a day). Result: fan funding around **mid-Dec 2026** and the ads tier around **late Dec 2026**, both via hours and before the Feb 1 change.
-- **Takeaway:** long-form hours are the realistic path to the ads tier, because hours count over 12 months while Shorts only count over 90 days. Every week before Feb 1 counts.
+- **Where we are (Studio Earn tab, Nov 10):** 1,017 subscribers.
+  - **10 public watch hours**, about 24 by Nov 15 (estimate: 28-day views × AVD gives about 0.85 h a day).
+  - **26K qualifying Shorts views** in 90 days. That's about 40% of public Shorts views (an estimate). It lines up with the 46% stayed rate, so assume about 45% of public views count from now on.
+  - Studio shows **"Apply now" for the fan-funding tier**, but the Earn tab shows the thresholds not met. Moondog88 should check what that button covers before applying, and Jarvis won't apply.
+- **A, current trajectory** (about 2.9K public Shorts views a day, 0.85 h a day): neither tier reached. That's about 0.1M counted Shorts views per 90 days, and 3,000 hours would take about 9 years.
+- **B, the plan works:**
+  - Assumptions: by mid-Jan, Shorts average about 75K public views a day (median about 8K × 3 a day plus a 500K breakout every 2 weeks; bug Shorts top out at about 2K today). Long-forms reach 3K impressions a day × 5% CTR × 3:00 AVD, about 7 h a day.
+  - Fan-funding tier via Shorts around **Apr 2, 2027**.
+  - Ads tier not reached in 2027 (8,000 hours or 20M after Feb 1).
+- **C, upside:**
+  - Assumptions: a format hits, so Shorts reach about 250K public views a day by early Jan and long-forms about 40 h a day.
+  - Fan-funding tier around **Jan 3, 2027**. Ads tier via hours around **Jun 24, 2027** at the 8,000 bar.
+  - **With one bug long-form outlier by about Jan 10 (about 80K views at 3:00 AVD, which is 4,000 hours), the ads tier comes around Jan 11, 2027, under the old bar.**
+- **Takeaway:**
+  - The only realistic way into the ads tier before the bar doubles on **Feb 1, 2027** is one long-form outlier. At a 3:00 AVD it needs about 80K views; at today's 1:30 it needs 160K.
+  - So long-form packaging (CTR) and retention (AVD) are the levers. Hours count over 12 months, Shorts over 90 days.
+  - Shorts are the realistic path to the fan-funding tier (3M counted, about 33K counted or 75K public views a day).
 - **TikTok:** already in Creator Rewards (Moondog88). Videos must run over 1 minute with at least 1,000 For You views, and qualified views need 5 s or more (30 s or more from Search). Our TikToks run 64-92 s, so they qualify on length.
