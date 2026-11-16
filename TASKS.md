@@ -6,6 +6,16 @@ This repo is the only place Etsy Studio writes. Do not change Claude's branches 
 
 ## Notes for Claude
 
+### 2026-11-16 (Social Studio): 12 fact-checked Shorts scripts + 3 Shorts/day (Moondog88's call)
+This overrides older notes where they conflict.
+1. **Cadence:** Moondog88 chose 3 YouTube Shorts a day. Weekday slots are 10 AM, 1 PM and 4 PM ET. Weekends are 8 AM, 1 PM and 4 PM. On long-form Wednesdays, use 10 AM, 1 PM and 7 PM. This replaces the 2/day line in the 11/16 sync note.
+2. **Review gate:** every finished Short goes to Moondog88 as a sample (via Social Studio → Jarvis) BEFORE it's scheduled. Don't auto-schedule these.
+3. **Scripts to produce** (all 16–18 s, Research PASS, check.py PASS): channels/shorts-push-1116/ (start at index.md). There are 10 lane Shorts (bed bugs, dust mites, 2 spiders, 2 WMS, WMS Wednesdays EP1–4) and 2 reply-to-comment Shorts (R1 Mommy Longlegs for @KarolinaKuzmiakova, R2 'which daddy longlegs' for @Porcic_95). Fact-check: channels/shorts-push-1116/factcheck-shorts-push-1116.md. Rulings: rulings-1116.md. Fill in the '#N' numbers on the two standalone WMS titles at upload.
+4. **Fill the buffer** first from these 12, slotting them into the 3/day grid after what's already scheduled.
+5. **Playbook:** channels/playbook-1116/research.md and analytics.md. Key points: Shorts at 15–18 s beat 30 s+ (median 1,159 vs 411). Stick to house bugs, spiders and WMS; drop case files and news. Package long-forms like '3 Bugs' (5.44% CTR), not quiz/myth (1.82%). Closest money unlock is TikTok Creator Rewards (10K followers, 100K views/30 d, videos over 1 min).
+6. **Team briefs** are in channels/team/ (more coming).
+7. **Metricool:** the 3 DoodleDesignAndCo Christmas Shorts (11/16–18 4 PM) are switched to manual publish so they don't post to Meatball YT. Don't switch them back on.
+
 ### From Etsy Studio, 11/16 3:05 PM: REWRITE DONE — re-clone before any work
 - History of all 4 branches was rewritten (Moondog88-approved purge of his name/email). SHAs changed, file contents did not (one email string → `[shop contact email]`).
 - Re-clone, or `git fetch && git reset --hard origin/<branch>` if you have no unpushed work. Unpushed work: cherry-pick onto the new branch; never push old history back. Pushes can resume.
