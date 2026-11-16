@@ -1,0 +1,153 @@
+{
+  "id": "2026-11-20-which-ornament-is-your-doodle",
+  "post_date": "2026-11-20",
+  "post_time_et": "10:00",
+  "format": "F5 Which one is your doodle",
+  "product": "Ornaments: Santa Paws, Doodle Mom, Doodle Dad, Snow Day",
+  "hook": "Which one is your doodle? Be honest.",
+  "caption": "1 Santa Paws: nice list (pending). 2 Doodle Mom: curls, cuddles & chaos. 3 Doodle Dad: chief treat officer. 4 Snow Day: zoomies incoming. Tell us your number. 👇\n\nArt made with AI tools. Printed to order. Link in bio for our shop and Etsy.",
+  "hashtags": [
+    "#goldendoodle",
+    "#doodlesoftiktok",
+    "#christmasornament",
+    "#dogmom",
+    "#fureverfaces"
+  ],
+  "slides": [
+    {
+      "images": [
+        "@design/christmas/social/santa-ornament-tree-square-1080x1080.jpg",
+        "@design/christmas/ornaments/M-orn-mom.jpg",
+        "@design/christmas/ornaments/M-orn-dad.jpg",
+        "@design/christmas/ornaments/M-orn-snow.jpg"
+      ],
+      "labels": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "duration": 3.2,
+      "motion": "zoom_in",
+      "box": [
+        60,
+        470,
+        1020,
+        1350
+      ],
+      "texts": [
+        {
+          "text": "Which one is your doodle? Be honest.",
+          "style": "hook"
+        }
+      ]
+    },
+    {
+      "image": "@design/christmas/social/santa-ornament-tree-square-1080x1080.jpg",
+      "duration": 2.4,
+      "motion": "zoom_in",
+      "box": [
+        60,
+        360,
+        1020,
+        1240
+      ],
+      "texts": [
+        {
+          "text": "1. Santa Paws",
+          "style": "hook"
+        },
+        {
+          "text": "Nice list (pending).",
+          "style": "body",
+          "position": "bottom"
+        }
+      ]
+    },
+    {
+      "image": "@design/christmas/ornaments/M-orn-mom.jpg",
+      "duration": 2.4,
+      "motion": "zoom_in",
+      "box": [
+        60,
+        360,
+        1020,
+        1240
+      ],
+      "texts": [
+        {
+          "text": "2. Doodle Mom",
+          "style": "hook"
+        },
+        {
+          "text": "Curls, cuddles & chaos.",
+          "style": "body",
+          "position": "bottom"
+        }
+      ]
+    },
+    {
+      "image": "@design/christmas/ornaments/M-orn-dad.jpg",
+      "duration": 2.4,
+      "motion": "zoom_in",
+      "box": [
+        60,
+        360,
+        1020,
+        1240
+      ],
+      "texts": [
+        {
+          "text": "3. Doodle Dad",
+          "style": "hook"
+        },
+        {
+          "text": "Chief treat officer.",
+          "style": "body",
+          "position": "bottom"
+        }
+      ]
+    },
+    {
+      "image": "@design/christmas/ornaments/M-orn-snow.jpg",
+      "duration": 2.6,
+      "motion": "zoom_in",
+      "box": [
+        110,
+        360,
+        970,
+        1080
+      ],
+      "texts": [
+        {
+          "text": "4. Snow Day",
+          "style": "hook"
+        },
+        {
+          "text": "Zoomies incoming.",
+          "style": "body",
+          "position": "bottom"
+        },
+        {
+          "text": "Comment your number. Link in bio.",
+          "style": "cta",
+          "position": "bottom"
+        }
+      ]
+    }
+  ],
+  "footer": "FurEver Faces · art made with AI tools",
+  "fps": 30,
+  "transition": {
+    "type": "crossfade",
+    "duration": 0.4
+  },
+  "motion_scale": 1.08,
+  "output": "../../renders/2026-11-20-which-ornament-is-your-doodle.mp4",
+  "tiktok": {
+    "commercialContentOwnBrand": true,
+    "isAigc": true,
+    "privacyOption": "PUBLIC_TO_EVERYONE"
+  },
+  "caption_full": "1 Santa Paws: nice list (pending). 2 Doodle Mom: curls, cuddles & chaos. 3 Doodle Dad: chief treat officer. 4 Snow Day: zoomies incoming. Tell us your number. 👇\n\nArt made with AI tools. Printed to order. Link in bio for our shop and Etsy.\n\n#goldendoodle #doodlesoftiktok #christmasornament #dogmom #fureverfaces"
+}

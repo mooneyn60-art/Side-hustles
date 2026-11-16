@@ -1,0 +1,111 @@
+{
+  "id": "2026-11-21-santa-paws-mug",
+  "post_date": "2026-11-21",
+  "post_time_et": "10:00",
+  "format": "F1 Product mockup slideshow",
+  "product": "Santa Paws mug",
+  "hook": "He's on the nice list. Pending.",
+  "caption": "For the coffee you drink while your doodle eats the wrapping paper. The Santa Paws mug, 11 oz or 15 oz, dishwasher and microwave safe. Order by Dec 5 for Christmas delivery.\n\nArt made with AI tools. Printed to order. Link in bio for our shop and Etsy.",
+  "hashtags": [
+    "#goldendoodle",
+    "#dogmug",
+    "#stockingstuffers",
+    "#doodlesoftiktok",
+    "#fureverfaces"
+  ],
+  "slides": [
+    {
+      "image": "@assets/shopify/santa-paws-goldendoodle-christmas-mug-4.jpg",
+      "fit": "cover",
+      "focus": [
+        0.45,
+        0.5
+      ],
+      "duration": 3.0,
+      "motion": "zoom_in",
+      "texts": [
+        {
+          "text": "He's on the nice list. Pending.",
+          "style": "hook"
+        }
+      ]
+    },
+    {
+      "image": "@assets/shopify/santa-paws-goldendoodle-christmas-mug-1.jpg",
+      "duration": 2.8,
+      "motion": "zoom_out",
+      "box": [
+        60,
+        360,
+        1020,
+        1240
+      ],
+      "texts": [
+        {
+          "text": "Santa Paws mug",
+          "style": "hook"
+        },
+        {
+          "text": "11 oz or 15 oz",
+          "style": "body",
+          "position": "bottom"
+        }
+      ]
+    },
+    {
+      "image": "@assets/shopify/santa-paws-goldendoodle-christmas-mug-2.jpg",
+      "duration": 2.6,
+      "motion": "pan_left",
+      "box": [
+        60,
+        300,
+        1020,
+        1260
+      ],
+      "texts": [
+        {
+          "text": "Dishwasher and microwave safe.",
+          "style": "body",
+          "position": "bottom"
+        }
+      ]
+    },
+    {
+      "image": "@assets/shopify/santa-paws-goldendoodle-christmas-mug-3.jpg",
+      "duration": 3.0,
+      "motion": "zoom_in",
+      "box": [
+        60,
+        210,
+        1020,
+        1060
+      ],
+      "texts": [
+        {
+          "text": "Order by Dec 5 for Christmas delivery",
+          "style": "fact",
+          "position": "bottom"
+        },
+        {
+          "text": "Link in bio: our shop + Etsy",
+          "style": "cta",
+          "position": "bottom"
+        }
+      ]
+    }
+  ],
+  "footer": "FurEver Faces · art made with AI tools",
+  "fps": 30,
+  "transition": {
+    "type": "crossfade",
+    "duration": 0.4
+  },
+  "motion_scale": 1.08,
+  "output": "../../renders/2026-11-21-santa-paws-mug.mp4",
+  "tiktok": {
+    "commercialContentOwnBrand": true,
+    "isAigc": true,
+    "privacyOption": "PUBLIC_TO_EVERYONE"
+  },
+  "caption_full": "For the coffee you drink while your doodle eats the wrapping paper. The Santa Paws mug, 11 oz or 15 oz, dishwasher and microwave safe. Order by Dec 5 for Christmas delivery.\n\nArt made with AI tools. Printed to order. Link in bio for our shop and Etsy.\n\n#goldendoodle #dogmug #stockingstuffers #doodlesoftiktok #fureverfaces"
+}

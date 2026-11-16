@@ -1,0 +1,107 @@
+{
+  "id": "2026-11-17-santa-paws-ornament",
+  "post_date": "2026-11-17",
+  "post_time_et": "10:00",
+  "format": "F1 Product mockup slideshow",
+  "product": "Santa Paws ornament",
+  "hook": "Your doodle is going on the tree this year.",
+  "caption": "He's on the nice list. Pending. 🎄 The Santa Paws ornament: a cartoon doodle in a Santa hat, on a round ceramic ornament with a ribbon. Order by Dec 5 for Christmas delivery.\n\nArt made with AI tools. Printed to order. Link in bio for our shop and Etsy.",
+  "hashtags": [
+    "#goldendoodle",
+    "#doodlesoftiktok",
+    "#dogornament",
+    "#christmasgiftideas",
+    "#fureverfaces"
+  ],
+  "slides": [
+    {
+      "image": "@design/christmas/social/santa-ornament-tree-tiktok-1080x1920.jpg",
+      "fit": "cover",
+      "duration": 3.0,
+      "motion": "zoom_in",
+      "texts": [
+        {
+          "text": "Your doodle is going on the tree this year.",
+          "style": "hook"
+        }
+      ]
+    },
+    {
+      "image": "@assets/shopify/santa-paws-goldendoodle-christmas-ornament-1.jpg",
+      "duration": 2.8,
+      "motion": "zoom_out",
+      "box": [
+        60,
+        360,
+        1020,
+        1240
+      ],
+      "texts": [
+        {
+          "text": "Santa Paws ornament",
+          "style": "hook"
+        },
+        {
+          "text": "Nice list (pending).",
+          "style": "body",
+          "position": "bottom"
+        }
+      ]
+    },
+    {
+      "image": "@assets/shopify/santa-paws-goldendoodle-christmas-ornament-4.jpg",
+      "duration": 2.8,
+      "motion": "zoom_in",
+      "box": [
+        60,
+        300,
+        1020,
+        1260
+      ],
+      "texts": [
+        {
+          "text": "Round ceramic. Ribbon included.",
+          "style": "body",
+          "position": "bottom"
+        }
+      ]
+    },
+    {
+      "image": "@design/christmas/lifestyle/L-bundle-ornament-tree.jpg",
+      "duration": 3.2,
+      "motion": "zoom_in",
+      "box": [
+        60,
+        210,
+        1020,
+        1060
+      ],
+      "texts": [
+        {
+          "text": "Order by Dec 5 for Christmas delivery",
+          "style": "fact",
+          "position": "bottom"
+        },
+        {
+          "text": "Link in bio: our shop + Etsy",
+          "style": "cta",
+          "position": "bottom"
+        }
+      ]
+    }
+  ],
+  "footer": "FurEver Faces · art made with AI tools",
+  "fps": 30,
+  "transition": {
+    "type": "crossfade",
+    "duration": 0.4
+  },
+  "motion_scale": 1.08,
+  "output": "../../renders/2026-11-17-santa-paws-ornament.mp4",
+  "tiktok": {
+    "commercialContentOwnBrand": true,
+    "isAigc": true,
+    "privacyOption": "PUBLIC_TO_EVERYONE"
+  },
+  "caption_full": "He's on the nice list. Pending. 🎄 The Santa Paws ornament: a cartoon doodle in a Santa hat, on a round ceramic ornament with a ribbon. Order by Dec 5 for Christmas delivery.\n\nArt made with AI tools. Printed to order. Link in bio for our shop and Etsy.\n\n#goldendoodle #doodlesoftiktok #dogornament #christmasgiftideas #fureverfaces"
+}
