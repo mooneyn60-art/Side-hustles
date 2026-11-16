@@ -1,0 +1,2965 @@
+{
+  "_what": "Oh Meatball / Would Meatball Survive? born-as long-form draft. Bed bug, target Wed 12/23. Files only. Nothing posted, scheduled, or pushed.",
+  "titles": {
+    "working": "Your Life as a Bed Bug: 8 Things You Have to Get Through",
+    "alt_packaging_A": "Bed Bugs Can Travel Over 100 Feet in a Night (keep 'can' and the spoken 8-foot condition if used)"
+  },
+  "_titles_note": "Working title follows the born-as 8-things pattern used for crocodile, cockroach, and dust mite. Packaging Title A still needs 'can' and the spoken 8-foot condition if Social Studio picks it.",
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "+10%",
+  "pitch": "+3Hz",
+  "meter_start": 50,
+  "meter_labels": [
+    "RAW",
+    "SWEET"
+  ],
+  "segments": [
+    {
+      "chapter": "Day one",
+      "chip": "",
+      "_start": 0.0,
+      "lines": [
+        {
+          "id": "s0.l0",
+          "say": "Your bed: bed bugs can travel over 100 feet a night.",
+          "src": "BB1",
+          "source_tag": "CDC",
+          "vis": "Frame 0: a common bed bug in close-up, already walking a mattress seam; narration on it at 0.0 s / The same close-up holds; card, full CDC sentence from 0:00: BED BUGS CAN TRAVEL OVER 100 FEET IN A NIGHT BUT TEND TO LIVE WITHIN 8 FEET OF WHERE PEOPLE SLEEP / Card, under, the full official sentence: BED BUGS CAN TRAVEL OVER 100 FEET IN A NIGHT BUT TEND TO LIVE WITHIN 8 FEET OF WHERE PEOPLE SLEEP / Hedge chips: CAN; OVER 100 FEET; IN A NIGHT; TEND TO LIVE; WITHIN 8 FEET OF WHERE PEOPLE SLEEP",
+          "shots": [
+            {
+              "t": 0.0,
+              "dur": 1.7,
+              "vis": "Frame 0: a common bed bug in close-up, already walking a mattress seam; narration on it at 0.0 s; then The same close-up holds; card, full CDC sentence from 0:00: BED BUGS CAN TRAVEL OVER 100 FEET IN A NIGHT BUT TEND TO LIVE WITHIN 8 FEET OF WHERE PEOPLE SLEEP"
+            },
+            {
+              "t": 1.7,
+              "dur": 1.7,
+              "vis": "Card, under, the full official sentence: BED BUGS CAN TRAVEL OVER 100 FEET IN A NIGHT BUT TEND TO LIVE WITHIN 8 FEET OF WHERE PEOPLE SLEEP; then Hedge chips: CAN; OVER 100 FEET; IN A NIGHT; TEND TO LIVE; WITHIN 8 FEET OF WHERE PEOPLE SLEEP"
+            }
+          ],
+          "card": "BED BUGS CAN TRAVEL OVER 100 FEET IN A NIGHT BUT TEND TO LIVE WITHIN 8 FEET OF WHERE PEOPLE SLEEP",
+          "_t": 0.0,
+          "_dur": 3.39,
+          "_beats": "P"
+        },
+        {
+          "id": "s0.l1",
+          "say": "But they tend to live within 8 feet of where people sleep.",
+          "src": "BB1",
+          "source_tag": "CDC",
+          "vis": "The same bed bug on the seam / The full official sentence on the card, both halves together / Hedge chips: CAN; OVER 100 FEET; IN A NIGHT; TEND TO LIVE; WITHIN 8 FEET OF WHERE PEOPLE SLEEP / Tag stays CDC",
+          "shots": [
+            {
+              "t": 3.4,
+              "dur": 1.85,
+              "vis": "The same bed bug on the seam; then The full official sentence on the card, both halves together"
+            },
+            {
+              "t": 5.2,
+              "dur": 1.85,
+              "vis": "Hedge chips: CAN; OVER 100 FEET; IN A NIGHT; TEND TO LIVE; WITHIN 8 FEET OF WHERE PEOPLE SLEEP; then Tag stays CDC"
+            }
+          ],
+          "card": "BUT TEND TO LIVE WITHIN 8 FEET OF WHERE PEOPLE SLEEP",
+          "_t": 3.4,
+          "_dur": 3.7,
+          "_beats": "P"
+        },
+        {
+          "id": "s0.l2",
+          "say": "You were just born a bed bug. Here are eight things you have to get through.",
+          "vis": "Title card lands over the close-up: BORN A BED BUG / Eight numbered tiles slam in face down around the bug",
+          "shots": [
+            {
+              "t": 7.1,
+              "dur": 1.65,
+              "vis": "Title card lands over the close-up: BORN A BED BUG"
+            },
+            {
+              "t": 8.7,
+              "dur": 1.65,
+              "vis": "Title card lands over the close-up: BORN A BED BUG"
+            },
+            {
+              "t": 10.4,
+              "dur": 1.65,
+              "vis": "Eight numbered tiles slam in face down around the bug"
+            }
+          ],
+          "card": "BORN A BED BUG",
+          "_t": 7.1,
+          "_dur": 4.94,
+          "_beats": "P"
+        },
+        {
+          "id": "s0.l3",
+          "say": "You're the common bed bug.",
+          "vis": "Chip: COMMON BED BUG / Latin name Cimex lectularius stays on the card, not spoken",
+          "shots": [
+            {
+              "t": 12.0,
+              "dur": 1.54,
+              "vis": "Chip: COMMON BED BUG; then Latin name Cimex lectularius stays on the card, not spoken"
+            }
+          ],
+          "card": "THE COMMON BED BUG",
+          "_t": 12.0,
+          "_dur": 1.54,
+          "_beats": ""
+        },
+        {
+          "id": "s0.l4",
+          "say": "Meet the guy with the cardboard bug shell. That's Meatball. He's living all eight from the couch, with a rubber stamp.",
+          "vis": "Reveal: Meatball on the couch in a cardboard bug shell / Close on the cardboard shell / He holds up a rubber stamp: RAW on one side, SWEET on the other",
+          "shots": [
+            {
+              "t": 13.6,
+              "dur": 1.62,
+              "vis": "Reveal: Meatball on the couch in a cardboard bug shell"
+            },
+            {
+              "t": 15.2,
+              "dur": 1.62,
+              "vis": "Reveal: Meatball on the couch in a cardboard bug shell"
+            },
+            {
+              "t": 16.8,
+              "dur": 1.62,
+              "vis": "Close on the cardboard shell"
+            },
+            {
+              "t": 18.4,
+              "dur": 1.62,
+              "vis": "He holds up a rubber stamp: RAW on one side, SWEET on the other"
+            }
+          ],
+          "_t": 13.6,
+          "_dur": 6.48,
+          "_beats": "C"
+        },
+        {
+          "id": "s0.l5",
+          "say": "His dog, Noodle, is the stand-in. His cat, Sauce, is everybody else.",
+          "vis": "Noodle in the doorway, wagging (name tag pops) / Sauce on the armrest, unimpressed (name tag pops)",
+          "shots": [
+            {
+              "t": 20.1,
+              "dur": 1.85,
+              "vis": "Noodle in the doorway, wagging (name tag pops)"
+            },
+            {
+              "t": 21.9,
+              "dur": 1.85,
+              "vis": "Sauce on the armrest, unimpressed (name tag pops)"
+            }
+          ],
+          "_t": 20.1,
+          "_dur": 3.7,
+          "_beats": "C"
+        },
+        {
+          "id": "s0.l6",
+          "say": "Meatball put on a cardboard bug shell. It kept slipping off. Hell.",
+          "vis": "Meatball adjusts the cardboard bug shell / It slips off his shoulder",
+          "shots": [
+            {
+              "t": 23.8,
+              "dur": 1.85,
+              "vis": "Meatball adjusts the cardboard bug shell"
+            },
+            {
+              "t": 25.6,
+              "dur": 1.85,
+              "vis": "It slips off his shoulder"
+            }
+          ],
+          "_t": 23.8,
+          "_dur": 3.7,
+          "_beats": "CJS"
+        },
+        {
+          "id": "s0.l7",
+          "say": "They hit you in order. One of them is how far you walk, and one is a suitcase.",
+          "vis": "Tile 1 flips half-way: OVER 100 FEET / WITHIN 8 FEET / Tile 3 flips half-way: a suitcase seam; meter appears in the corner",
+          "shots": [
+            {
+              "t": 27.5,
+              "dur": 1.85,
+              "vis": "Tile 1 flips half-way: OVER 100 FEET / WITHIN 8 FEET"
+            },
+            {
+              "t": 29.3,
+              "dur": 1.85,
+              "vis": "Tile 1 flips half-way: OVER 100 FEET / WITHIN 8 FEET"
+            },
+            {
+              "t": 31.2,
+              "dur": 1.85,
+              "vis": "Tile 3 flips half-way: a suitcase seam; meter appears in the corner"
+            }
+          ],
+          "_t": 27.5,
+          "_dur": 5.55,
+          "_beats": "R"
+        }
+      ]
+    },
+    {
+      "chapter": "1. The walk",
+      "chip": "1 OF 8",
+      "_start": 33.3,
+      "lines": [
+        {
+          "id": "s1.l0",
+          "say": "Number one. The walk.",
+          "vis": "Voiced number card whips in over a bed bug walking a mattress seam (no silent hold)",
+          "shots": [
+            {
+              "t": 33.3,
+              "dur": 1.23,
+              "vis": "Voiced number card whips in over a bed bug walking a mattress seam (no silent hold)"
+            }
+          ],
+          "card": "1 OF 8: THE WALK",
+          "_t": 33.3,
+          "_dur": 1.23,
+          "_beats": ""
+        },
+        {
+          "id": "s1.l1",
+          "say": "Bed bugs can travel over 100 feet in a night but tend to live within 8 feet of where people sleep.",
+          "src": "BB1",
+          "source_tag": "CDC",
+          "vis": "A bed bug walks a long hallway path, over 100 feet / Then it stays within 8 feet of where people sleep / Chip: CAN; OVER 100 FEET; IN A NIGHT / Chip: TEND TO LIVE; WITHIN 8 FEET OF WHERE PEOPLE SLEEP / Both halves stay on the same card / Tag stays CDC",
+          "shots": [
+            {
+              "t": 34.5,
+              "dur": 1.08,
+              "vis": "A bed bug walks a long hallway path, over 100 feet"
+            },
+            {
+              "t": 35.6,
+              "dur": 1.08,
+              "vis": "Then it stays within 8 feet of where people sleep"
+            },
+            {
+              "t": 36.7,
+              "dur": 1.08,
+              "vis": "Chip: CAN; OVER 100 FEET; IN A NIGHT"
+            },
+            {
+              "t": 37.8,
+              "dur": 1.08,
+              "vis": "Chip: TEND TO LIVE; WITHIN 8 FEET OF WHERE PEOPLE SLEEP"
+            },
+            {
+              "t": 38.9,
+              "dur": 1.08,
+              "vis": "Both halves stay on the same card"
+            },
+            {
+              "t": 39.9,
+              "dur": 1.08,
+              "vis": "Tag stays CDC"
+            }
+          ],
+          "card": "CAN TRAVEL OVER 100 FEET IN A NIGHT BUT TEND TO LIVE WITHIN 8 FEET OF WHERE PEOPLE SLEEP",
+          "_t": 34.5,
+          "_dur": 6.48,
+          "_beats": "P"
+        },
+        {
+          "id": "s1.l2",
+          "say": "That 8-foot half is not the same as they never go farther.",
+          "src": "BB2",
+          "source_tag": "CDC",
+          "vis": "The WITHIN 8 FEET card stays up / A 'never go farther' idea is crossed out / Chip: TEND TO",
+          "shots": [
+            {
+              "t": 41.0,
+              "dur": 1.23,
+              "vis": "The WITHIN 8 FEET card stays up"
+            },
+            {
+              "t": 42.3,
+              "dur": 1.23,
+              "vis": "A 'never go farther' idea is crossed out"
+            },
+            {
+              "t": 43.5,
+              "dur": 1.23,
+              "vis": "Chip: TEND TO"
+            }
+          ],
+          "card": "TEND TO LIVE WITHIN 8 FEET, NOT 'NEVER GO FARTHER'",
+          "_t": 41.0,
+          "_dur": 3.7,
+          "_beats": "P"
+        },
+        {
+          "id": "s1.l3",
+          "say": "A different official page says bed bugs prefer to hide close to where they feed, but if necessary will crawl longer distances in search of a meal.",
+          "src": "BB3",
+          "source_tag": "University of Kentucky",
+          "vis": "A bug hides close to a bed, then crawls a longer path / Chip: PREFER TO HIDE CLOSE; IF NECESSARY, LONGER DISTANCES / Chip: THIS PAGE DOES NOT GIVE A 100-FOOT OR 8-FOOT FIGURE / Tag stays University of Kentucky",
+          "shots": [
+            {
+              "t": 44.7,
+              "dur": 1.67,
+              "vis": "A bug hides close to a bed, then crawls a longer path"
+            },
+            {
+              "t": 46.4,
+              "dur": 1.67,
+              "vis": "A bug hides close to a bed, then crawls a longer path"
+            },
+            {
+              "t": 48.1,
+              "dur": 1.67,
+              "vis": "Chip: PREFER TO HIDE CLOSE; IF NECESSARY, LONGER DISTANCES"
+            },
+            {
+              "t": 49.7,
+              "dur": 1.67,
+              "vis": "Chip: THIS PAGE DOES NOT GIVE A 100-FOOT OR 8-FOOT FIGURE"
+            },
+            {
+              "t": 51.4,
+              "dur": 1.67,
+              "vis": "Tag stays University of Kentucky"
+            }
+          ],
+          "card": "A DIFFERENT PAGE: PREFER TO HIDE CLOSE, BUT IF NECESSARY WILL CRAWL LONGER DISTANCES",
+          "_t": 44.7,
+          "_dur": 8.33,
+          "_beats": ""
+        },
+        {
+          "id": "s1.l4",
+          "say": "During the day, they tend to hide close to where people sleep.",
+          "src": "BB3",
+          "source_tag": "University of Kentucky",
+          "vis": "During the day, a bug hides close to where people sleep / Chip: TEND TO",
+          "shots": [
+            {
+              "t": 53.1,
+              "dur": 1.85,
+              "vis": "During the day, a bug hides close to where people sleep"
+            },
+            {
+              "t": 54.9,
+              "dur": 1.85,
+              "vis": "Chip: TEND TO"
+            }
+          ],
+          "card": "DURING THE DAY, THEY TEND TO HIDE CLOSE TO WHERE PEOPLE SLEEP",
+          "_t": 53.1,
+          "_dur": 3.7,
+          "_beats": ""
+        },
+        {
+          "id": "s1.l5",
+          "say": "Initially they tend to be concentrated around beds, sofas, and other sleeping and resting areas, but if infestations are allowed to persist, they may disperse elsewhere, making elimination more difficult.",
+          "src": "BB3",
+          "source_tag": "University of Kentucky",
+          "vis": "Bugs concentrated around a bed and a sofa / Then they disperse farther into the room / Chip: IF INFESTATIONS ARE ALLOWED TO PERSIST, THEY MAY DISPERSE ELSEWHERE",
+          "shots": [
+            {
+              "t": 56.8,
+              "dur": 1.85,
+              "vis": "Bugs concentrated around a bed and a sofa"
+            },
+            {
+              "t": 58.6,
+              "dur": 1.85,
+              "vis": "Bugs concentrated around a bed and a sofa"
+            },
+            {
+              "t": 60.5,
+              "dur": 1.85,
+              "vis": "Then they disperse farther into the room"
+            },
+            {
+              "t": 62.3,
+              "dur": 1.85,
+              "vis": "Then they disperse farther into the room"
+            },
+            {
+              "t": 64.2,
+              "dur": 1.85,
+              "vis": "Chip: IF INFESTATIONS ARE ALLOWED TO PERSIST, THEY MAY DISPERSE ELSEWHERE"
+            }
+          ],
+          "card": "INITIALLY CONCENTRATED AROUND BEDS AND SOFAS; IF INFESTATIONS PERSIST, THEY MAY DISPERSE",
+          "_t": 56.8,
+          "_dur": 9.25,
+          "_beats": ""
+        },
+        {
+          "id": "s1.l6",
+          "say": "Meatball measured a hallway. Noodle walked the other way.",
+          "vis": "Meatball holds a measuring tape down a hallway / Noodle walks the other way",
+          "shots": [
+            {
+              "t": 66.0,
+              "dur": 1.39,
+              "vis": "Meatball holds a measuring tape down a hallway"
+            },
+            {
+              "t": 67.4,
+              "dur": 1.39,
+              "vis": "Noodle walks the other way"
+            }
+          ],
+          "_t": 66.0,
+          "_dur": 2.78,
+          "_beats": "CJ"
+        }
+      ],
+      "_midroll_after": {
+        "type": "alt",
+        "at": 68.9,
+        "note": "Break in the 0.3 s gap after this chapter's last line, before the next voiced chapter line. Never mid-sentence, never on a safety line, never mid-joke."
+      }
+    },
+    {
+      "chapter": "2. The hide",
+      "chip": "2 OF 8",
+      "_start": 69.1,
+      "lines": [
+        {
+          "id": "s2.l0",
+          "say": "Number two. The hide.",
+          "vis": "Voiced number card over a mattress seam",
+          "shots": [
+            {
+              "t": 69.1,
+              "dur": 1.23,
+              "vis": "Voiced number card over a mattress seam"
+            }
+          ],
+          "card": "2 OF 8: THE HIDE",
+          "_t": 69.1,
+          "_dur": 1.23,
+          "_beats": ""
+        },
+        {
+          "id": "s2.l1",
+          "say": "Adult bed bugs are about three-sixteenths of an inch long and reddish-brown, with oval, flattened bodies.",
+          "src": "BB4",
+          "source_tag": "University of Kentucky",
+          "vis": "An adult common bed bug, reddish-brown, oval, flattened / Size bar: ABOUT 3/16 INCH / Chip: ABOUT, not exactly",
+          "shots": [
+            {
+              "t": 70.3,
+              "dur": 1.65,
+              "vis": "An adult common bed bug, reddish-brown, oval, flattened"
+            },
+            {
+              "t": 72.0,
+              "dur": 1.65,
+              "vis": "Size bar: ABOUT 3/16 INCH"
+            },
+            {
+              "t": 73.6,
+              "dur": 1.65,
+              "vis": "Chip: ABOUT, not exactly"
+            }
+          ],
+          "card": "ABOUT 3/16 INCH LONG; REDDISH-BROWN; OVAL, FLATTENED BODIES",
+          "_t": 70.3,
+          "_dur": 4.94,
+          "_beats": "P"
+        },
+        {
+          "id": "s2.l2",
+          "say": "Their coloration is similar to an apple seed, although their size is closer to a lentil.",
+          "src": "BB4",
+          "source_tag": "University of Kentucky",
+          "vis": "An apple seed for color, a lentil for size, side by side / Chip: COLOR: APPLE SEED; SIZE: CLOSER TO A LENTIL / The two similes stay on this one page, not mixed with a third",
+          "shots": [
+            {
+              "t": 75.3,
+              "dur": 1.65,
+              "vis": "An apple seed for color, a lentil for size, side by side"
+            },
+            {
+              "t": 76.9,
+              "dur": 1.65,
+              "vis": "Chip: COLOR: APPLE SEED; SIZE: CLOSER TO A LENTIL"
+            },
+            {
+              "t": 78.5,
+              "dur": 1.65,
+              "vis": "The two similes stay on this one page, not mixed with a third"
+            }
+          ],
+          "card": "COLOR LIKE AN APPLE SEED; SIZE CLOSER TO A LENTIL",
+          "_t": 75.3,
+          "_dur": 4.94,
+          "_beats": ""
+        },
+        {
+          "id": "s2.l3",
+          "say": "A different official page says adult bed bugs, in general, are about the size of an apple seed, three-sixteenths to one-quarter of an inch long.",
+          "src": "BB5, D1",
+          "source_tag": "EPA",
+          "vis": "A size range bar: 3/16 TO 1/4 INCH / Chip: IN GENERAL; ABOUT THE SIZE OF AN APPLE SEED / The UKY about-3/16 and lentil card stays separate, not averaged / Tag stays EPA / CDC's Lincoln's-head comparison stays off this card and out of speech",
+          "shots": [
+            {
+              "t": 80.2,
+              "dur": 1.54,
+              "vis": "A size range bar: 3/16 TO 1/4 INCH"
+            },
+            {
+              "t": 81.7,
+              "dur": 1.54,
+              "vis": "Chip: IN GENERAL; ABOUT THE SIZE OF AN APPLE SEED"
+            },
+            {
+              "t": 83.3,
+              "dur": 1.54,
+              "vis": "The UKY about-3/16 and lentil card stays separate, not averaged"
+            },
+            {
+              "t": 84.8,
+              "dur": 1.54,
+              "vis": "Tag stays EPA"
+            },
+            {
+              "t": 86.4,
+              "dur": 1.54,
+              "vis": "CDC's Lincoln's-head comparison stays off this card and out of speech"
+            }
+          ],
+          "card": "A DIFFERENT PAGE: IN GENERAL, ABOUT THE SIZE OF AN APPLE SEED; 3/16 TO 1/4 INCH",
+          "_t": 80.2,
+          "_dur": 7.71,
+          "_beats": ""
+        },
+        {
+          "id": "s2.l4",
+          "say": "They are flat and brown if not fed recently, and balloon-like, reddish-brown, and more elongated if fed recently.",
+          "src": "BB5",
+          "source_tag": "EPA",
+          "vis": "An unfed adult, flat and brown / A recently fed adult, balloon-like, reddish-brown, more elongated",
+          "shots": [
+            {
+              "t": 87.9,
+              "dur": 1.85,
+              "vis": "An unfed adult, flat and brown"
+            },
+            {
+              "t": 89.8,
+              "dur": 1.85,
+              "vis": "An unfed adult, flat and brown"
+            },
+            {
+              "t": 91.6,
+              "dur": 1.85,
+              "vis": "A recently fed adult, balloon-like, reddish-brown, more elongated"
+            }
+          ],
+          "card": "UNFED: FLAT AND BROWN; FED: BALLOON-LIKE, REDDISH-BROWN, MORE ELONGATED",
+          "_t": 87.9,
+          "_dur": 5.55,
+          "_beats": ""
+        },
+        {
+          "id": "s2.l5",
+          "say": "Their flattened bodies enable them to fit into tiny crevices no wider than a toothpick.",
+          "src": "BB7",
+          "source_tag": "University of Kentucky",
+          "vis": "A bed bug slips into a crevice no wider than a toothpick / A toothpick beside the gap / Chip: NO WIDER THAN A TOOTHPICK",
+          "shots": [
+            {
+              "t": 93.5,
+              "dur": 1.54,
+              "vis": "A bed bug slips into a crevice no wider than a toothpick"
+            },
+            {
+              "t": 95.0,
+              "dur": 1.54,
+              "vis": "A toothpick beside the gap"
+            },
+            {
+              "t": 96.5,
+              "dur": 1.54,
+              "vis": "Chip: NO WIDER THAN A TOOTHPICK"
+            }
+          ],
+          "card": "CREVICES NO WIDER THAN A TOOTHPICK",
+          "_t": 93.5,
+          "_dur": 4.63,
+          "_beats": "P"
+        },
+        {
+          "id": "s2.l6",
+          "say": "Bed bugs don't have nests like ants or bees, but do tend to congregate in habitual hiding places like mattresses, box springs, bed frames and headboards.",
+          "src": "BB7",
+          "source_tag": "University of Kentucky",
+          "vis": "No ant-style nest / Mattress, box spring, bed frame, headboard / Chip: TEND TO CONGREGATE",
+          "shots": [
+            {
+              "t": 98.1,
+              "dur": 1.6,
+              "vis": "No ant-style nest"
+            },
+            {
+              "t": 99.7,
+              "dur": 1.6,
+              "vis": "No ant-style nest"
+            },
+            {
+              "t": 101.3,
+              "dur": 1.6,
+              "vis": "Mattress, box spring, bed frame, headboard"
+            },
+            {
+              "t": 102.9,
+              "dur": 1.6,
+              "vis": "Mattress, box spring, bed frame, headboard"
+            },
+            {
+              "t": 104.5,
+              "dur": 1.6,
+              "vis": "Chip: TEND TO CONGREGATE"
+            }
+          ],
+          "card": "NO NESTS LIKE ANTS OR BEES; TEND TO CONGREGATE IN MATTRESSES, BOX SPRINGS, BED FRAMES, HEADBOARDS",
+          "_t": 98.1,
+          "_dur": 8.02,
+          "_beats": ""
+        },
+        {
+          "id": "s2.l7",
+          "say": "A different official page says they hide during the day in places on or around the bed, including the seams of mattresses, box springs, bed frames and headboards, dresser tables, inside cracks or crevices, and behind wallpaper.",
+          "src": "BB8",
+          "source_tag": "CDC",
+          "vis": "The UKY hide list stays on the left / Added sites: dresser tables, cracks or crevices, behind wallpaper / Tag stays CDC",
+          "shots": [
+            {
+              "t": 106.1,
+              "dur": 1.9,
+              "vis": "The UKY hide list stays on the left"
+            },
+            {
+              "t": 108.0,
+              "dur": 1.9,
+              "vis": "The UKY hide list stays on the left"
+            },
+            {
+              "t": 109.9,
+              "dur": 1.9,
+              "vis": "Added sites: dresser tables, cracks or crevices, behind wallpaper"
+            },
+            {
+              "t": 111.8,
+              "dur": 1.9,
+              "vis": "Added sites: dresser tables, cracks or crevices, behind wallpaper"
+            },
+            {
+              "t": 113.7,
+              "dur": 1.9,
+              "vis": "Tag stays CDC"
+            },
+            {
+              "t": 115.6,
+              "dur": 1.9,
+              "vis": "Tag stays CDC"
+            }
+          ],
+          "card": "A DIFFERENT PAGE ADDS DRESSER TABLES, CRACKS OR CREVICES, AND BEHIND WALLPAPER",
+          "_t": 106.1,
+          "_dur": 11.41,
+          "_beats": ""
+        },
+        {
+          "id": "s2.l8",
+          "say": "Their slim flat bodies allow them to fit into very small spaces.",
+          "src": "BB8",
+          "source_tag": "CDC",
+          "vis": "A slim flat body slipping into a small space / Chip: VERY SMALL SPACES",
+          "shots": [
+            {
+              "t": 117.5,
+              "dur": 1.85,
+              "vis": "A slim flat body slipping into a small space"
+            },
+            {
+              "t": 119.4,
+              "dur": 1.85,
+              "vis": "Chip: VERY SMALL SPACES"
+            }
+          ],
+          "card": "SLIM FLAT BODIES ALLOW THEM TO FIT INTO VERY SMALL SPACES",
+          "_t": 117.5,
+          "_dur": 3.7,
+          "_beats": ""
+        },
+        {
+          "id": "s2.l9",
+          "say": "Meatball held a toothpick to a seam. Sauce walked behind the headboard.",
+          "vis": "Meatball holds a toothpick next to a mattress seam / Sauce walks behind the headboard",
+          "shots": [
+            {
+              "t": 121.2,
+              "dur": 1.85,
+              "vis": "Meatball holds a toothpick next to a mattress seam"
+            },
+            {
+              "t": 123.1,
+              "dur": 1.85,
+              "vis": "Sauce walks behind the headboard"
+            }
+          ],
+          "_t": 121.2,
+          "_dur": 3.7,
+          "_beats": "CJ"
+        }
+      ],
+      "_midroll_after": {
+        "type": "alt",
+        "at": 125.1,
+        "note": "Break in the 0.3 s gap after this chapter's last line, before the next voiced chapter line. Never mid-sentence, never on a safety line, never mid-joke."
+      }
+    },
+    {
+      "chapter": "3. The hitchhike",
+      "chip": "3 OF 8",
+      "_start": 125.2,
+      "lines": [
+        {
+          "id": "s3.l0",
+          "say": "Number three. The hitchhike.",
+          "vis": "Voiced number card over a suitcase seam",
+          "shots": [
+            {
+              "t": 125.2,
+              "dur": 1.23,
+              "vis": "Voiced number card over a suitcase seam"
+            }
+          ],
+          "card": "3 OF 8: THE HITCHHIKE",
+          "_t": 125.2,
+          "_dur": 1.23,
+          "_beats": ""
+        },
+        {
+          "id": "s3.l1",
+          "say": "The bugs are efficient hitchhikers and are easily transported into dwellings on luggage, clothing, beds, furniture, and belongings.",
+          "src": "BB11",
+          "source_tag": "University of Kentucky",
+          "vis": "A suitcase, clothing, a bed, furniture, belongings / A bed bug in a luggage seam / Chip: EASILY TRANSPORTED",
+          "shots": [
+            {
+              "t": 126.5,
+              "dur": 1.85,
+              "vis": "A suitcase, clothing, a bed, furniture, belongings"
+            },
+            {
+              "t": 128.3,
+              "dur": 1.85,
+              "vis": "A bed bug in a luggage seam"
+            },
+            {
+              "t": 130.2,
+              "dur": 1.85,
+              "vis": "Chip: EASILY TRANSPORTED"
+            }
+          ],
+          "card": "EFFICIENT HITCHHIKERS; EASILY TRANSPORTED ON LUGGAGE, CLOTHING, BEDS, FURNITURE, AND BELONGINGS",
+          "_t": 126.5,
+          "_dur": 5.55,
+          "_beats": "P"
+        },
+        {
+          "id": "s3.l2",
+          "say": "Acquiring secondhand beds and furniture is another way they can be transported into buildings.",
+          "src": "BB11",
+          "source_tag": "University of Kentucky",
+          "vis": "A secondhand bed or a used piece of furniture coming in the door / Chip: CAN BE TRANSPORTED",
+          "shots": [
+            {
+              "t": 132.0,
+              "dur": 1.44,
+              "vis": "A secondhand bed or a used piece of furniture coming in the door"
+            },
+            {
+              "t": 133.4,
+              "dur": 1.44,
+              "vis": "A secondhand bed or a used piece of furniture coming in the door"
+            },
+            {
+              "t": 134.9,
+              "dur": 1.44,
+              "vis": "Chip: CAN BE TRANSPORTED"
+            }
+          ],
+          "card": "SECONDHAND BEDS AND FURNITURE ARE ANOTHER WAY THEY CAN BE TRANSPORTED",
+          "_t": 132.0,
+          "_dur": 4.32,
+          "_beats": ""
+        },
+        {
+          "id": "s3.l3",
+          "say": "They can also be inadvertently carried in on clothing, shoes, or a wheelchair.",
+          "src": "BB11",
+          "source_tag": "University of Kentucky",
+          "vis": "Clothing, shoes, a wheelchair / Chip: INADVERTENTLY",
+          "shots": [
+            {
+              "t": 136.3,
+              "dur": 1.34,
+              "vis": "Clothing, shoes, a wheelchair"
+            },
+            {
+              "t": 137.7,
+              "dur": 1.34,
+              "vis": "Clothing, shoes, a wheelchair"
+            },
+            {
+              "t": 139.0,
+              "dur": 1.34,
+              "vis": "Chip: INADVERTENTLY"
+            }
+          ],
+          "card": "INADVERTENTLY CARRIED IN ON CLOTHING, SHOES, OR A WHEELCHAIR",
+          "_t": 136.3,
+          "_dur": 4.01,
+          "_beats": ""
+        },
+        {
+          "id": "s3.l4",
+          "say": "A different official page says they spread by getting into the seams and folds of luggage, overnight bags, folded clothes, bedding, furniture, and anywhere else they can hide.",
+          "src": "BB12",
+          "source_tag": "CDC",
+          "vis": "Seams and folds of luggage, an overnight bag, folded clothes / Tag stays CDC / The page's 'infecting areas' wording stays off this card and out of speech",
+          "shots": [
+            {
+              "t": 140.3,
+              "dur": 1.73,
+              "vis": "Seams and folds of luggage, an overnight bag, folded clothes"
+            },
+            {
+              "t": 142.1,
+              "dur": 1.73,
+              "vis": "Seams and folds of luggage, an overnight bag, folded clothes"
+            },
+            {
+              "t": 143.8,
+              "dur": 1.73,
+              "vis": "Tag stays CDC"
+            },
+            {
+              "t": 145.5,
+              "dur": 1.73,
+              "vis": "Tag stays CDC"
+            },
+            {
+              "t": 147.2,
+              "dur": 1.73,
+              "vis": "The page's 'infecting areas' wording stays off this card and out of speech"
+            }
+          ],
+          "card": "A DIFFERENT PAGE: SEAMS AND FOLDS OF LUGGAGE, BAGS, FOLDED CLOTHES, BEDDING, FURNITURE",
+          "_t": 140.3,
+          "_dur": 8.64,
+          "_beats": ""
+        },
+        {
+          "id": "s3.l5",
+          "say": "Most people do not realize they are transporting bed bugs.",
+          "src": "BB12",
+          "source_tag": "CDC",
+          "vis": "Someone wheels a suitcase, unaware / Chip: MOST PEOPLE DO NOT REALIZE",
+          "shots": [
+            {
+              "t": 149.0,
+              "dur": 1.54,
+              "vis": "Someone wheels a suitcase, unaware"
+            },
+            {
+              "t": 150.5,
+              "dur": 1.54,
+              "vis": "Chip: MOST PEOPLE DO NOT REALIZE"
+            }
+          ],
+          "card": "MOST PEOPLE DO NOT REALIZE THEY ARE TRANSPORTING BED BUGS",
+          "_t": 149.0,
+          "_dur": 3.08,
+          "_beats": "P"
+        },
+        {
+          "id": "s3.l6",
+          "say": "Unlike cockroaches and flies that feed on filth, there is often no relationship between bed bugs and cleanliness.",
+          "src": "BB13",
+          "source_tag": "University of Kentucky",
+          "vis": "A clean, pristine room / Chip: OFTEN NO RELATIONSHIP / Chip: NOT 'ONLY DIRTY HOUSES'",
+          "shots": [
+            {
+              "t": 152.1,
+              "dur": 1.85,
+              "vis": "A clean, pristine room"
+            },
+            {
+              "t": 153.9,
+              "dur": 1.85,
+              "vis": "Chip: OFTEN NO RELATIONSHIP"
+            },
+            {
+              "t": 155.8,
+              "dur": 1.85,
+              "vis": "Chip: NOT 'ONLY DIRTY HOUSES'"
+            }
+          ],
+          "card": "OFTEN NO RELATIONSHIP BETWEEN BED BUGS AND CLEANLINESS",
+          "_t": 152.1,
+          "_dur": 5.55,
+          "_beats": "P"
+        },
+        {
+          "id": "s3.l7",
+          "say": "Since the bugs feed solely on blood, pristine dwellings can be as vulnerable to infestation as are places of squalor.",
+          "src": "BB13",
+          "source_tag": "University of Kentucky",
+          "vis": "A pristine dwelling next to a neglected one / Chip: CAN BE AS VULNERABLE / Chip: FEED SOLELY ON BLOOD",
+          "shots": [
+            {
+              "t": 157.6,
+              "dur": 1.54,
+              "vis": "A pristine dwelling next to a neglected one"
+            },
+            {
+              "t": 159.2,
+              "dur": 1.54,
+              "vis": "A pristine dwelling next to a neglected one"
+            },
+            {
+              "t": 160.7,
+              "dur": 1.54,
+              "vis": "Chip: CAN BE AS VULNERABLE"
+            },
+            {
+              "t": 162.2,
+              "dur": 1.54,
+              "vis": "Chip: FEED SOLELY ON BLOOD"
+            }
+          ],
+          "card": "THEY FEED SOLELY ON BLOOD; PRISTINE DWELLINGS CAN BE AS VULNERABLE",
+          "_t": 157.6,
+          "_dur": 6.17,
+          "_beats": ""
+        },
+        {
+          "id": "s3.l8",
+          "say": "A different official page says how clean a place is does not determine whether bed bugs are present, and that they are in five-star hotels and resorts.",
+          "src": "BB14",
+          "source_tag": "CDC",
+          "vis": "A five-star hotel hallway / Chip: HOW CLEAN A PLACE IS DOES NOT DETERMINE WHETHER BED BUGS ARE PRESENT / Chip: THEY ARE IN FIVE-STAR HOTELS AND RESORTS, not 'every hotel has them' / Tag stays CDC",
+          "shots": [
+            {
+              "t": 163.8,
+              "dur": 1.67,
+              "vis": "A five-star hotel hallway"
+            },
+            {
+              "t": 165.4,
+              "dur": 1.67,
+              "vis": "A five-star hotel hallway"
+            },
+            {
+              "t": 167.1,
+              "dur": 1.67,
+              "vis": "Chip: HOW CLEAN A PLACE IS DOES NOT DETERMINE WHETHER BED BUGS ARE PRESENT"
+            },
+            {
+              "t": 168.8,
+              "dur": 1.67,
+              "vis": "Chip: THEY ARE IN FIVE-STAR HOTELS AND RESORTS, not 'every hotel has them'"
+            },
+            {
+              "t": 170.4,
+              "dur": 1.67,
+              "vis": "Tag stays CDC"
+            }
+          ],
+          "card": "A DIFFERENT PAGE: HOW CLEAN A PLACE IS DOES NOT DETERMINE WHETHER THEY ARE PRESENT",
+          "_t": 163.8,
+          "_dur": 8.33,
+          "_beats": ""
+        },
+        {
+          "id": "s3.l9",
+          "say": "You are at higher risk of getting bed bugs if you travel frequently and share living and sleeping space where other people have previously slept.",
+          "src": "BB15",
+          "source_tag": "CDC",
+          "vis": "A frequent traveler, then a shared sleeping space / Chip: HIGHER RISK, not 'travelers always bring them home' / Chip: WHERE OTHER PEOPLE HAVE PREVIOUSLY SLEPT",
+          "shots": [
+            {
+              "t": 172.1,
+              "dur": 1.93,
+              "vis": "A frequent traveler, then a shared sleeping space"
+            },
+            {
+              "t": 174.0,
+              "dur": 1.93,
+              "vis": "A frequent traveler, then a shared sleeping space"
+            },
+            {
+              "t": 176.0,
+              "dur": 1.93,
+              "vis": "Chip: HIGHER RISK, not 'travelers always bring them home'"
+            },
+            {
+              "t": 177.9,
+              "dur": 1.93,
+              "vis": "Chip: WHERE OTHER PEOPLE HAVE PREVIOUSLY SLEPT"
+            }
+          ],
+          "card": "HIGHER RISK IF YOU TRAVEL FREQUENTLY AND SHARE SLEEPING SPACE WHERE OTHERS HAVE SLEPT",
+          "_t": 172.1,
+          "_dur": 7.71,
+          "_beats": ""
+        },
+        {
+          "id": "s3.l10",
+          "say": "Meatball zipped a suitcase. Noodle sat on the suitcase.",
+          "vis": "Meatball zips a suitcase / Noodle sits on the suitcase",
+          "shots": [
+            {
+              "t": 179.8,
+              "dur": 1.39,
+              "vis": "Meatball zips a suitcase"
+            },
+            {
+              "t": 181.2,
+              "dur": 1.39,
+              "vis": "Noodle sits on the suitcase"
+            }
+          ],
+          "_t": 179.8,
+          "_dur": 2.78,
+          "_beats": "CJ"
+        }
+      ],
+      "_midroll_after": {
+        "type": "primary",
+        "at": 182.7,
+        "note": "Break in the 0.3 s gap after this chapter's last line, before the next voiced chapter line. Never mid-sentence, never on a safety line, never mid-joke."
+      }
+    },
+    {
+      "chapter": "4. The bite",
+      "chip": "4 OF 8",
+      "_start": 182.9,
+      "lines": [
+        {
+          "id": "s4.l0",
+          "say": "Number four. The bite.",
+          "vis": "Voiced number card over a dark bedroom, no 4 a.m. clock",
+          "shots": [
+            {
+              "t": 182.9,
+              "dur": 1.23,
+              "vis": "Voiced number card over a dark bedroom, no 4 a.m. clock"
+            }
+          ],
+          "card": "4 OF 8: THE BITE",
+          "_t": 182.9,
+          "_dur": 1.23,
+          "_beats": ""
+        },
+        {
+          "id": "s4.l1",
+          "say": "Bed bugs are active mainly at night. During the day, they tend to hide close to where people sleep.",
+          "src": "BB16",
+          "source_tag": "University of Kentucky",
+          "vis": "At night, a bug leaves a seam / During the day it hides close to where people sleep / Chip: MAINLY AT NIGHT / Chip: TEND TO HIDE CLOSE / No 4 a.m. clock in the frame",
+          "shots": [
+            {
+              "t": 184.1,
+              "dur": 1.17,
+              "vis": "At night, a bug leaves a seam"
+            },
+            {
+              "t": 185.3,
+              "dur": 1.17,
+              "vis": "During the day it hides close to where people sleep"
+            },
+            {
+              "t": 186.5,
+              "dur": 1.17,
+              "vis": "Chip: MAINLY AT NIGHT"
+            },
+            {
+              "t": 187.6,
+              "dur": 1.17,
+              "vis": "Chip: TEND TO HIDE CLOSE"
+            },
+            {
+              "t": 188.8,
+              "dur": 1.17,
+              "vis": "No 4 a.m. clock in the frame"
+            }
+          ],
+          "card": "ACTIVE MAINLY AT NIGHT; DURING THE DAY THEY TEND TO HIDE CLOSE TO WHERE PEOPLE SLEEP",
+          "_t": 184.1,
+          "_dur": 5.86,
+          "_beats": "P"
+        },
+        {
+          "id": "s4.l2",
+          "say": "Bed bugs usually bite people at night while they are sleeping. Hungry bed bugs may also feed during the day, especially if this is when the occupant normally sleeps.",
+          "src": "BB16",
+          "source_tag": "University of Kentucky",
+          "vis": "A night bite, then a daytime sleep with a hungry bug / Chip: USUALLY / Chip: MAY ALSO FEED DURING THE DAY, WITH THAT CONDITION / Not 'they never bite in the day'",
+          "shots": [
+            {
+              "t": 190.0,
+              "dur": 1.79,
+              "vis": "A night bite, then a daytime sleep with a hungry bug"
+            },
+            {
+              "t": 191.8,
+              "dur": 1.79,
+              "vis": "A night bite, then a daytime sleep with a hungry bug"
+            },
+            {
+              "t": 193.6,
+              "dur": 1.79,
+              "vis": "Chip: USUALLY"
+            },
+            {
+              "t": 195.4,
+              "dur": 1.79,
+              "vis": "Chip: MAY ALSO FEED DURING THE DAY, WITH THAT CONDITION"
+            },
+            {
+              "t": 197.1,
+              "dur": 1.79,
+              "vis": "Not 'they never bite in the day'"
+            }
+          ],
+          "card": "USUALLY AT NIGHT; MAY ALSO FEED DURING THE DAY IF THAT IS WHEN THE OCCUPANT NORMALLY SLEEPS",
+          "_t": 190.0,
+          "_dur": 8.95,
+          "_beats": ""
+        },
+        {
+          "id": "s4.l3",
+          "say": "A different official page says bed bugs bite people and animals at night while they sleep, feeding on their blood.",
+          "src": "BB17",
+          "source_tag": "CDC",
+          "vis": "People and a pet, at night / Chip: CIMEX SPECIES stays on the tag, not as a spoken Latin line / Tag stays CDC",
+          "shots": [
+            {
+              "t": 198.9,
+              "dur": 1.54,
+              "vis": "People and a pet, at night"
+            },
+            {
+              "t": 200.5,
+              "dur": 1.54,
+              "vis": "People and a pet, at night"
+            },
+            {
+              "t": 202.0,
+              "dur": 1.54,
+              "vis": "Chip: CIMEX SPECIES stays on the tag, not as a spoken Latin line"
+            },
+            {
+              "t": 203.6,
+              "dur": 1.54,
+              "vis": "Tag stays CDC"
+            }
+          ],
+          "card": "A DIFFERENT PAGE: BITE PEOPLE AND ANIMALS AT NIGHT WHILE THEY SLEEP",
+          "_t": 198.9,
+          "_dur": 6.17,
+          "_beats": ""
+        },
+        {
+          "id": "s4.l4",
+          "say": "One of the easiest ways to identify a bed bug infestation is by bite marks on the face, neck, arms, hands, or any other body parts after sleeping.",
+          "src": "BB18",
+          "source_tag": "CDC",
+          "vis": "Simple marks on a face, neck, arm, hand after sleep / Chip: ONE OF THE EASIEST WAYS, not the only way",
+          "shots": [
+            {
+              "t": 205.1,
+              "dur": 1.73,
+              "vis": "Simple marks on a face, neck, arm, hand after sleep"
+            },
+            {
+              "t": 206.8,
+              "dur": 1.73,
+              "vis": "Simple marks on a face, neck, arm, hand after sleep"
+            },
+            {
+              "t": 208.6,
+              "dur": 1.73,
+              "vis": "Simple marks on a face, neck, arm, hand after sleep"
+            },
+            {
+              "t": 210.3,
+              "dur": 1.73,
+              "vis": "Chip: ONE OF THE EASIEST WAYS, not the only way"
+            },
+            {
+              "t": 212.0,
+              "dur": 1.73,
+              "vis": "Chip: ONE OF THE EASIEST WAYS, not the only way"
+            }
+          ],
+          "card": "BITE MARKS ON THE FACE, NECK, ARMS, HANDS, OR OTHER BODY PARTS AFTER SLEEPING",
+          "_t": 205.1,
+          "_dur": 8.64,
+          "_beats": ""
+        },
+        {
+          "id": "s4.l5",
+          "say": "However, these bite marks may take as long as 14 days to develop in some people.",
+          "src": "BB18",
+          "source_tag": "CDC",
+          "vis": "A 14-day bar / Chip: MAY; AS LONG AS 14 DAYS; IN SOME PEOPLE / Not 'up to 14 days' without those hedges / Not 'if you have no marks, you don't have bed bugs'",
+          "shots": [
+            {
+              "t": 213.7,
+              "dur": 1.23,
+              "vis": "A 14-day bar"
+            },
+            {
+              "t": 215.0,
+              "dur": 1.23,
+              "vis": "Chip: MAY; AS LONG AS 14 DAYS; IN SOME PEOPLE"
+            },
+            {
+              "t": 216.2,
+              "dur": 1.23,
+              "vis": "Not 'up to 14 days' without those hedges"
+            },
+            {
+              "t": 217.4,
+              "dur": 1.23,
+              "vis": "Not 'if you have no marks, you don't have bed bugs'"
+            }
+          ],
+          "card": "MAY TAKE AS LONG AS 14 DAYS TO DEVELOP IN SOME PEOPLE",
+          "_t": 213.7,
+          "_dur": 4.94,
+          "_beats": "P"
+        },
+        {
+          "id": "s4.l6",
+          "say": "They feed by piercing the skin with an elongated beak. Engorgement takes about three to 10 minutes, but because the bite is painless, people seldom realize they are being bitten.",
+          "src": "BB19",
+          "source_tag": "University of Kentucky",
+          "vis": "A beak pierces the skin, then the bug feeds / A 3-to-10-minute bar / Chip: ABOUT THREE TO 10 MINUTES / Chip: PAINLESS; SELDOM REALIZE / Not 'you'll feel the bite'",
+          "shots": [
+            {
+              "t": 218.7,
+              "dur": 1.85,
+              "vis": "A beak pierces the skin, then the bug feeds"
+            },
+            {
+              "t": 220.5,
+              "dur": 1.85,
+              "vis": "A 3-to-10-minute bar"
+            },
+            {
+              "t": 222.4,
+              "dur": 1.85,
+              "vis": "Chip: ABOUT THREE TO 10 MINUTES"
+            },
+            {
+              "t": 224.2,
+              "dur": 1.85,
+              "vis": "Chip: PAINLESS; SELDOM REALIZE"
+            },
+            {
+              "t": 226.1,
+              "dur": 1.85,
+              "vis": "Not 'you'll feel the bite'"
+            }
+          ],
+          "card": "ENGORGEMENT TAKES ABOUT 3 TO 10 MINUTES; THE BITE IS PAINLESS; PEOPLE SELDOM REALIZE",
+          "_t": 218.7,
+          "_dur": 9.25,
+          "_beats": ""
+        },
+        {
+          "id": "s4.l7",
+          "say": "Bed bugs normally do not reside on or attach to people like lice or ticks. Immediately after feeding they crawl to a secluded location to digest their meal.",
+          "src": "BB19",
+          "source_tag": "University of Kentucky",
+          "vis": "After feeding, the bug leaves the person and crawls to a secluded spot / Chip: NORMALLY DO NOT RESIDE ON OR ATTACH / A louse or tick comparison is crossed out as 'not like'",
+          "shots": [
+            {
+              "t": 227.9,
+              "dur": 1.73,
+              "vis": "After feeding, the bug leaves the person and crawls to a secluded spot"
+            },
+            {
+              "t": 229.7,
+              "dur": 1.73,
+              "vis": "After feeding, the bug leaves the person and crawls to a secluded spot"
+            },
+            {
+              "t": 231.4,
+              "dur": 1.73,
+              "vis": "Chip: NORMALLY DO NOT RESIDE ON OR ATTACH"
+            },
+            {
+              "t": 233.1,
+              "dur": 1.73,
+              "vis": "Chip: NORMALLY DO NOT RESIDE ON OR ATTACH"
+            },
+            {
+              "t": 234.8,
+              "dur": 1.73,
+              "vis": "A louse or tick comparison is crossed out as 'not like'"
+            }
+          ],
+          "card": "NORMALLY DO NOT RESIDE ON OR ATTACH TO PEOPLE; AFTER FEEDING THEY CRAWL TO A SECLUDED LOCATION",
+          "_t": 227.9,
+          "_dur": 8.64,
+          "_beats": "P"
+        },
+        {
+          "id": "s4.l8",
+          "say": "Meatball set a glass on the nightstand. Sauce sat in front of it.",
+          "vis": "Meatball sets a glass on the nightstand / Sauce sits in front of it",
+          "shots": [
+            {
+              "t": 236.6,
+              "dur": 1.34,
+              "vis": "Meatball sets a glass on the nightstand"
+            },
+            {
+              "t": 237.9,
+              "dur": 1.34,
+              "vis": "Meatball sets a glass on the nightstand"
+            },
+            {
+              "t": 239.2,
+              "dur": 1.34,
+              "vis": "Sauce sits in front of it"
+            }
+          ],
+          "_t": 236.6,
+          "_dur": 4.01,
+          "_beats": "CJ"
+        }
+      ],
+      "_midroll_after": {
+        "type": "alt",
+        "at": 240.7,
+        "note": "Break in the 0.3 s gap after this chapter's last line, before the next voiced chapter line. Never mid-sentence, never on a safety line, never mid-joke."
+      }
+    },
+    {
+      "chapter": "Halfway",
+      "chip": "",
+      "_start": 240.9,
+      "lines": [
+        {
+          "id": "s5.l0",
+          "say": "That's four things down, and four still ahead.",
+          "vis": "Four tiles stay face up; four stay face down",
+          "shots": [
+            {
+              "t": 240.9,
+              "dur": 1.23,
+              "vis": "Four tiles stay face up; four stay face down"
+            },
+            {
+              "t": 242.1,
+              "dur": 1.23,
+              "vis": "Four tiles stay face up; four stay face down"
+            }
+          ],
+          "_t": 240.9,
+          "_dur": 2.47,
+          "_beats": "R"
+        },
+        {
+          "id": "s5.l1",
+          "say": "You've had the walk they can take over 100 feet in a night but tend to live within 8 feet of where people sleep, the hide no wider than a toothpick, the suitcase, and a bite that may take as long as 14 days in some people.",
+          "src": "BB1, BB7, BB11, BB18",
+          "vis": "Four callback chips: OVER 100 FEET / WITHIN 8 FEET; NO WIDER THAN A TOOTHPICK; LUGGAGE; MAY TAKE AS LONG AS 14 DAYS IN SOME PEOPLE",
+          "shots": [
+            {
+              "t": 243.4,
+              "dur": 1.81,
+              "vis": "Four callback chips: OVER 100 FEET / WITHIN 8 FEET; NO WIDER THAN A TOOTHPICK; LUGGAGE; MAY TAKE AS LONG AS 14 DAYS IN SOME PEOPLE"
+            },
+            {
+              "t": 245.2,
+              "dur": 1.81,
+              "vis": "Four callback chips: OVER 100 FEET / WITHIN 8 FEET; NO WIDER THAN A TOOTHPICK; LUGGAGE; MAY TAKE AS LONG AS 14 DAYS IN SOME PEOPLE"
+            },
+            {
+              "t": 247.0,
+              "dur": 1.81,
+              "vis": "Four callback chips: OVER 100 FEET / WITHIN 8 FEET; NO WIDER THAN A TOOTHPICK; LUGGAGE; MAY TAKE AS LONG AS 14 DAYS IN SOME PEOPLE"
+            },
+            {
+              "t": 248.8,
+              "dur": 1.81,
+              "vis": "Four callback chips: OVER 100 FEET / WITHIN 8 FEET; NO WIDER THAN A TOOTHPICK; LUGGAGE; MAY TAKE AS LONG AS 14 DAYS IN SOME PEOPLE"
+            },
+            {
+              "t": 250.6,
+              "dur": 1.81,
+              "vis": "Four callback chips: OVER 100 FEET / WITHIN 8 FEET; NO WIDER THAN A TOOTHPICK; LUGGAGE; MAY TAKE AS LONG AS 14 DAYS IN SOME PEOPLE"
+            },
+            {
+              "t": 252.4,
+              "dur": 1.81,
+              "vis": "Four callback chips: OVER 100 FEET / WITHIN 8 FEET; NO WIDER THAN A TOOTHPICK; LUGGAGE; MAY TAKE AS LONG AS 14 DAYS IN SOME PEOPLE"
+            },
+            {
+              "t": 254.2,
+              "dur": 1.81,
+              "vis": "Four callback chips: OVER 100 FEET / WITHIN 8 FEET; NO WIDER THAN A TOOTHPICK; LUGGAGE; MAY TAKE AS LONG AS 14 DAYS IN SOME PEOPLE"
+            },
+            {
+              "t": 256.0,
+              "dur": 1.81,
+              "vis": "Four callback chips: OVER 100 FEET / WITHIN 8 FEET; NO WIDER THAN A TOOTHPICK; LUGGAGE; MAY TAKE AS LONG AS 14 DAYS IN SOME PEOPLE"
+            }
+          ],
+          "_t": 243.4,
+          "_dur": 14.5,
+          "_beats": "R"
+        },
+        {
+          "id": "s5.l2",
+          "say": "Meatball wants to know: which of the first four gets to you more? The walk, the hide, the suitcase, or the delayed bite? Drop the number in the comments.",
+          "vis": "Meatball looks at the camera / Comment prompt on screen: THE WALK, THE HIDE, THE SUITCASE, OR THE DELAYED BITE? DROP THE NUMBER",
+          "shots": [
+            {
+              "t": 257.8,
+              "dur": 1.79,
+              "vis": "Meatball looks at the camera"
+            },
+            {
+              "t": 259.6,
+              "dur": 1.79,
+              "vis": "Meatball looks at the camera"
+            },
+            {
+              "t": 261.4,
+              "dur": 1.79,
+              "vis": "Meatball looks at the camera"
+            },
+            {
+              "t": 263.2,
+              "dur": 1.79,
+              "vis": "Comment prompt on screen: THE WALK, THE HIDE, THE SUITCASE, OR THE DELAYED BITE? DROP THE NUMBER"
+            },
+            {
+              "t": 265.0,
+              "dur": 1.79,
+              "vis": "Comment prompt on screen: THE WALK, THE HIDE, THE SUITCASE, OR THE DELAYED BITE? DROP THE NUMBER"
+            }
+          ],
+          "_t": 257.8,
+          "_dur": 8.95,
+          "_beats": "CM"
+        },
+        {
+          "id": "s5.l3",
+          "say": "Next: the heat, the eggs, what not to do, and what actually helps.",
+          "vis": "Tile 5 flips half-way: A DRYER ON HIGH HEAT, 30 MINUTES / Tiles 6, 7, and 8 stay face down",
+          "shots": [
+            {
+              "t": 266.8,
+              "dur": 1.34,
+              "vis": "Tile 5 flips half-way: A DRYER ON HIGH HEAT, 30 MINUTES"
+            },
+            {
+              "t": 268.1,
+              "dur": 1.34,
+              "vis": "Tile 5 flips half-way: A DRYER ON HIGH HEAT, 30 MINUTES"
+            },
+            {
+              "t": 269.5,
+              "dur": 1.34,
+              "vis": "Tiles 6, 7, and 8 stay face down"
+            }
+          ],
+          "_t": 266.8,
+          "_dur": 4.01,
+          "_beats": "R"
+        }
+      ]
+    },
+    {
+      "chapter": "5. The heat",
+      "chip": "5 OF 8",
+      "_start": 271.1,
+      "lines": [
+        {
+          "id": "s6.l0",
+          "say": "Number five. The heat.",
+          "vis": "Voiced number card over bedding going into a dryer, not a thermostat",
+          "shots": [
+            {
+              "t": 271.1,
+              "dur": 1.23,
+              "vis": "Voiced number card over bedding going into a dryer, not a thermostat"
+            }
+          ],
+          "card": "5 OF 8: THE HEAT",
+          "_t": 271.1,
+          "_dur": 1.23,
+          "_beats": ""
+        },
+        {
+          "id": "s6.l1",
+          "say": "Put bedding and clothing in the dryer at high temperatures for 30 minutes to kill bed bugs. Just washing will generally not kill bed bugs.",
+          "src": "BB21",
+          "source_tag": "EPA",
+          "vis": "Bedding and clothing go into a dryer / Chip: HIGH TEMPERATURES; 30 MINUTES / Chip: JUST WASHING WILL GENERALLY NOT KILL BED BUGS / Tag stays EPA / No other pest's dryer time appears on screen",
+          "shots": [
+            {
+              "t": 272.3,
+              "dur": 1.54,
+              "vis": "Bedding and clothing go into a dryer"
+            },
+            {
+              "t": 273.9,
+              "dur": 1.54,
+              "vis": "Chip: HIGH TEMPERATURES; 30 MINUTES"
+            },
+            {
+              "t": 275.4,
+              "dur": 1.54,
+              "vis": "Chip: JUST WASHING WILL GENERALLY NOT KILL BED BUGS"
+            },
+            {
+              "t": 277.0,
+              "dur": 1.54,
+              "vis": "Tag stays EPA"
+            },
+            {
+              "t": 278.5,
+              "dur": 1.54,
+              "vis": "No other pest's dryer time appears on screen"
+            }
+          ],
+          "card": "DRYER AT HIGH TEMPERATURES FOR 30 MINUTES; JUST WASHING WILL GENERALLY NOT KILL BED BUGS",
+          "_t": 272.3,
+          "_dur": 7.71,
+          "_beats": "P"
+        },
+        {
+          "id": "s6.l2",
+          "say": "Heat infested articles, and areas, to at least 120 degrees Fahrenheit for 90 minutes to ensure that eggs are killed. That is often done using a heat-generating device or a specially constructed heating unit.",
+          "src": "BB22",
+          "source_tag": "EPA",
+          "vis": "Furniture or luggage in a special heating unit, tagged PROFESSIONAL / SPECIAL DEVICE / Chip: AT LEAST 120 F (ABOUT 49 C); 90 MINUTES / Chip: TO ENSURE THAT EGGS ARE KILLED / Chip: OFTEN A HEAT-GENERATING DEVICE OR SPECIALLY CONSTRUCTED HEATING UNIT / A home thermostat is not shown as this method / The 30-minute dryer card stays separate, not averaged with 120 F / 90 minutes",
+          "shots": [
+            {
+              "t": 280.1,
+              "dur": 1.75,
+              "vis": "Furniture or luggage in a special heating unit, tagged PROFESSIONAL / SPECIAL DEVICE"
+            },
+            {
+              "t": 281.8,
+              "dur": 1.75,
+              "vis": "Chip: AT LEAST 120 F (ABOUT 49 C); 90 MINUTES"
+            },
+            {
+              "t": 283.5,
+              "dur": 1.75,
+              "vis": "Chip: TO ENSURE THAT EGGS ARE KILLED"
+            },
+            {
+              "t": 285.3,
+              "dur": 1.75,
+              "vis": "Chip: OFTEN A HEAT-GENERATING DEVICE OR SPECIALLY CONSTRUCTED HEATING UNIT"
+            },
+            {
+              "t": 287.0,
+              "dur": 1.75,
+              "vis": "A home thermostat is not shown as this method"
+            },
+            {
+              "t": 288.8,
+              "dur": 1.75,
+              "vis": "The 30-minute dryer card stays separate, not averaged with 120 F / 90 minutes"
+            }
+          ],
+          "card": "INFESTED ARTICLES AND/OR AREAS: AT LEAST 120 F FOR 90 MINUTES, OFTEN A SPECIAL DEVICE",
+          "_t": 280.1,
+          "_dur": 10.49,
+          "_beats": "P"
+        },
+        {
+          "id": "s6.l3",
+          "say": "Do not try to kill bed bugs by increasing your indoor temperature with a thermostat, propane space heater, or fireplace. This does not work and is dangerous.",
+          "src": "BB23",
+          "source_tag": "EPA",
+          "vis": "A thermostat, a propane space heater, and a fireplace are crossed out / Card, large: THIS DOES NOT WORK AND IS DANGEROUS / Chip: NOT A DIY WHOLE-HOUSE HEAT JOB",
+          "shots": [
+            {
+              "t": 290.5,
+              "dur": 1.67,
+              "vis": "A thermostat, a propane space heater, and a fireplace are crossed out"
+            },
+            {
+              "t": 292.2,
+              "dur": 1.67,
+              "vis": "A thermostat, a propane space heater, and a fireplace are crossed out"
+            },
+            {
+              "t": 293.9,
+              "dur": 1.67,
+              "vis": "Card, large: THIS DOES NOT WORK AND IS DANGEROUS"
+            },
+            {
+              "t": 295.5,
+              "dur": 1.67,
+              "vis": "Card, large: THIS DOES NOT WORK AND IS DANGEROUS"
+            },
+            {
+              "t": 297.2,
+              "dur": 1.67,
+              "vis": "Chip: NOT A DIY WHOLE-HOUSE HEAT JOB"
+            }
+          ],
+          "card": "DO NOT TRY TO KILL BED BUGS WITH A THERMOSTAT, PROPANE SPACE HEATER, OR FIREPLACE; THIS DOES NOT WORK AND IS DANGEROUS",
+          "_t": 290.5,
+          "_dur": 8.33,
+          "_beats": "P"
+        },
+        {
+          "id": "s6.l4",
+          "say": "Professionals have access to more intensive and proven methods that can even treat whole houses with heat.",
+          "src": "BB23, BB24",
+          "source_tag": "EPA",
+          "vis": "A professional heat treatment, tagged PROFESSIONAL / Chip: PROFESSIONALS; WHOLE HOUSES WITH HEAT / Chip: CARE MUST BE TAKEN TO ENSURE THAT IT IS DONE PROPERLY, on the card",
+          "shots": [
+            {
+              "t": 298.9,
+              "dur": 1.75,
+              "vis": "A professional heat treatment, tagged PROFESSIONAL"
+            },
+            {
+              "t": 300.6,
+              "dur": 1.75,
+              "vis": "Chip: PROFESSIONALS; WHOLE HOUSES WITH HEAT"
+            },
+            {
+              "t": 302.4,
+              "dur": 1.75,
+              "vis": "Chip: CARE MUST BE TAKEN TO ENSURE THAT IT IS DONE PROPERLY, on the card"
+            }
+          ],
+          "card": "WHOLE-HOUSE HEAT IS A PROFESSIONAL METHOD, NOT A THERMOSTAT JOB",
+          "_t": 298.9,
+          "_dur": 5.24,
+          "_beats": ""
+        },
+        {
+          "id": "s6.l5",
+          "say": "Cold treatments below 0 degrees Fahrenheit for at least 4 days can eliminate some infestations. Home freezers may not be cold enough to reliably kill bed bugs. Always use a thermometer.",
+          "src": "BB25",
+          "source_tag": "EPA",
+          "vis": "A thermometer on a freezer / Chip: BELOW 0 F; AT LEAST 4 DAYS; SOME INFESTATIONS / Chip: HOME FREEZERS MAY NOT BE COLD ENOUGH / Chip: ALWAYS USE A THERMOMETER / A different official page's three-day figure stays off this card and out of speech, not blended",
+          "shots": [
+            {
+              "t": 304.1,
+              "dur": 1.91,
+              "vis": "A thermometer on a freezer"
+            },
+            {
+              "t": 306.0,
+              "dur": 1.91,
+              "vis": "Chip: BELOW 0 F; AT LEAST 4 DAYS; SOME INFESTATIONS"
+            },
+            {
+              "t": 307.9,
+              "dur": 1.91,
+              "vis": "Chip: HOME FREEZERS MAY NOT BE COLD ENOUGH"
+            },
+            {
+              "t": 309.9,
+              "dur": 1.91,
+              "vis": "Chip: ALWAYS USE A THERMOMETER"
+            },
+            {
+              "t": 311.8,
+              "dur": 1.91,
+              "vis": "A different official page's three-day figure stays off this card and out of speech, not blended"
+            }
+          ],
+          "card": "BELOW 0 F FOR AT LEAST 4 DAYS CAN ELIMINATE SOME INFESTATIONS; HOME FREEZERS MAY NOT BE COLD ENOUGH; ALWAYS USE A THERMOMETER",
+          "_t": 304.1,
+          "_dur": 9.56,
+          "_beats": "P"
+        },
+        {
+          "id": "s6.l6",
+          "say": "Meatball folded a shirt. Noodle sat on the shirt.",
+          "vis": "Meatball folds a shirt / Noodle sits on the shirt",
+          "shots": [
+            {
+              "t": 313.7,
+              "dur": 1.39,
+              "vis": "Meatball folds a shirt"
+            },
+            {
+              "t": 315.1,
+              "dur": 1.39,
+              "vis": "Noodle sits on the shirt"
+            }
+          ],
+          "_t": 313.7,
+          "_dur": 2.78,
+          "_beats": "CJ"
+        }
+      ]
+    },
+    {
+      "chapter": "6. The eggs",
+      "chip": "6 OF 8",
+      "_start": 316.8,
+      "lines": [
+        {
+          "id": "s7.l0",
+          "say": "Number six. The eggs.",
+          "vis": "Voiced number card over tiny pearl-white eggs in a secluded seam",
+          "shots": [
+            {
+              "t": 316.8,
+              "dur": 1.23,
+              "vis": "Voiced number card over tiny pearl-white eggs in a secluded seam"
+            }
+          ],
+          "card": "6 OF 8: THE EGGS",
+          "_t": 316.8,
+          "_dur": 1.23,
+          "_beats": ""
+        },
+        {
+          "id": "s7.l1",
+          "say": "Adult females lay their eggs in secluded places, depositing one, two or more per day, potentially hundreds during their lifetime.",
+          "src": "BB10",
+          "source_tag": "University of Kentucky",
+          "vis": "Eggs deposited in a secluded seam / Chip: ONE, TWO OR MORE PER DAY / Chip: POTENTIALLY HUNDREDS DURING THEIR LIFETIME, not hundreds a day",
+          "shots": [
+            {
+              "t": 318.0,
+              "dur": 1.54,
+              "vis": "Eggs deposited in a secluded seam"
+            },
+            {
+              "t": 319.5,
+              "dur": 1.54,
+              "vis": "Eggs deposited in a secluded seam"
+            },
+            {
+              "t": 321.1,
+              "dur": 1.54,
+              "vis": "Chip: ONE, TWO OR MORE PER DAY"
+            },
+            {
+              "t": 322.6,
+              "dur": 1.54,
+              "vis": "Chip: POTENTIALLY HUNDREDS DURING THEIR LIFETIME, not hundreds a day"
+            }
+          ],
+          "card": "ONE, TWO OR MORE EGGS PER DAY; POTENTIALLY HUNDREDS DURING THEIR LIFETIME",
+          "_t": 318.0,
+          "_dur": 6.17,
+          "_beats": "P"
+        },
+        {
+          "id": "s7.l2",
+          "say": "The eggs are tiny, about the size of a dust spec, whitish and hard to see without magnification, especially on light-colored materials.",
+          "src": "BB10",
+          "source_tag": "University of Kentucky",
+          "vis": "Tiny whitish eggs, about the size of a dust spec / Chip: ABOUT THE SIZE OF A DUST SPEC, the page's wording / Chip: HARD TO SEE WITHOUT MAGNIFICATION",
+          "shots": [
+            {
+              "t": 324.2,
+              "dur": 1.7,
+              "vis": "Tiny whitish eggs, about the size of a dust spec"
+            },
+            {
+              "t": 325.9,
+              "dur": 1.7,
+              "vis": "Tiny whitish eggs, about the size of a dust spec"
+            },
+            {
+              "t": 327.5,
+              "dur": 1.7,
+              "vis": "Chip: ABOUT THE SIZE OF A DUST SPEC, the page's wording"
+            },
+            {
+              "t": 329.2,
+              "dur": 1.7,
+              "vis": "Chip: HARD TO SEE WITHOUT MAGNIFICATION"
+            }
+          ],
+          "card": "ABOUT THE SIZE OF A DUST SPEC; HARD TO SEE WITHOUT MAGNIFICATION",
+          "_t": 324.2,
+          "_dur": 6.79,
+          "_beats": ""
+        },
+        {
+          "id": "s7.l3",
+          "say": "A different official page says bed bug eggs, in general, are tiny, the size of a pinhead, and pearl-white.",
+          "src": "BB9",
+          "source_tag": "EPA",
+          "vis": "A pinhead next to a pearl-white egg / Chip: IN GENERAL; THE SIZE OF A PINHEAD; PEARL-WHITE / The dust-spec card stays separate, not averaged / Tag stays EPA",
+          "shots": [
+            {
+              "t": 330.9,
+              "dur": 1.47,
+              "vis": "A pinhead next to a pearl-white egg"
+            },
+            {
+              "t": 332.4,
+              "dur": 1.47,
+              "vis": "Chip: IN GENERAL; THE SIZE OF A PINHEAD; PEARL-WHITE"
+            },
+            {
+              "t": 333.9,
+              "dur": 1.47,
+              "vis": "The dust-spec card stays separate, not averaged"
+            },
+            {
+              "t": 335.3,
+              "dur": 1.47,
+              "vis": "Tag stays EPA"
+            }
+          ],
+          "card": "A DIFFERENT PAGE: IN GENERAL, THE SIZE OF A PINHEAD, PEARL-WHITE",
+          "_t": 330.9,
+          "_dur": 5.86,
+          "_beats": ""
+        },
+        {
+          "id": "s7.l4",
+          "say": "At room temperature, bed bug eggs hatch in about a week. The newly emerged nymphs are straw-colored and no bigger than a pinhead.",
+          "src": "BB10",
+          "source_tag": "University of Kentucky",
+          "vis": "A one-week bar, tagged AT ROOM TEMPERATURE / A straw-colored nymph next to a pinhead / Chip: ABOUT A WEEK",
+          "shots": [
+            {
+              "t": 336.8,
+              "dur": 1.77,
+              "vis": "A one-week bar, tagged AT ROOM TEMPERATURE"
+            },
+            {
+              "t": 338.6,
+              "dur": 1.77,
+              "vis": "A one-week bar, tagged AT ROOM TEMPERATURE"
+            },
+            {
+              "t": 340.4,
+              "dur": 1.77,
+              "vis": "A straw-colored nymph next to a pinhead"
+            },
+            {
+              "t": 342.1,
+              "dur": 1.77,
+              "vis": "Chip: ABOUT A WEEK"
+            }
+          ],
+          "card": "AT ROOM TEMPERATURE, EGGS HATCH IN ABOUT A WEEK; NYMPHS NO BIGGER THAN A PINHEAD",
+          "_t": 336.8,
+          "_dur": 7.1,
+          "_beats": "P"
+        },
+        {
+          "id": "s7.l5",
+          "say": "A different official page says young bed bugs, in general, are smaller, translucent or whitish-yellow, and if not recently fed, can be nearly invisible to the naked eye.",
+          "src": "BB9",
+          "source_tag": "EPA",
+          "vis": "A translucent or whitish-yellow nymph / Chip: IN GENERAL; IF NOT RECENTLY FED; CAN BE NEARLY INVISIBLE / Tag stays EPA",
+          "shots": [
+            {
+              "t": 343.9,
+              "dur": 1.73,
+              "vis": "A translucent or whitish-yellow nymph"
+            },
+            {
+              "t": 345.6,
+              "dur": 1.73,
+              "vis": "A translucent or whitish-yellow nymph"
+            },
+            {
+              "t": 347.4,
+              "dur": 1.73,
+              "vis": "Chip: IN GENERAL; IF NOT RECENTLY FED; CAN BE NEARLY INVISIBLE"
+            },
+            {
+              "t": 349.1,
+              "dur": 1.73,
+              "vis": "Chip: IN GENERAL; IF NOT RECENTLY FED; CAN BE NEARLY INVISIBLE"
+            },
+            {
+              "t": 350.8,
+              "dur": 1.73,
+              "vis": "Tag stays EPA"
+            }
+          ],
+          "card": "A DIFFERENT PAGE: NYMPHS, IN GENERAL, CAN BE NEARLY INVISIBLE TO THE NAKED EYE IF NOT RECENTLY FED",
+          "_t": 343.9,
+          "_dur": 8.64,
+          "_beats": ""
+        },
+        {
+          "id": "s7.l6",
+          "say": "Bed bugs don't fly, or jump like fleas, but can crawl rapidly over floors, walls, ceilings and other surfaces.",
+          "src": "BB10",
+          "source_tag": "University of Kentucky",
+          "vis": "A bed bug crawls rapidly over a floor, then a wall, then a ceiling / Wings and a flea-jump are crossed out / Chip: DON'T FLY, OR JUMP LIKE FLEAS / Chip: CAN CRAWL RAPIDLY",
+          "shots": [
+            {
+              "t": 352.5,
+              "dur": 1.47,
+              "vis": "A bed bug crawls rapidly over a floor, then a wall, then a ceiling"
+            },
+            {
+              "t": 354.0,
+              "dur": 1.47,
+              "vis": "Wings and a flea-jump are crossed out"
+            },
+            {
+              "t": 355.5,
+              "dur": 1.47,
+              "vis": "Chip: DON'T FLY, OR JUMP LIKE FLEAS"
+            },
+            {
+              "t": 356.9,
+              "dur": 1.47,
+              "vis": "Chip: CAN CRAWL RAPIDLY"
+            }
+          ],
+          "card": "DON'T FLY OR JUMP LIKE FLEAS; CAN CRAWL RAPIDLY",
+          "_t": 352.5,
+          "_dur": 5.86,
+          "_beats": "P"
+        },
+        {
+          "id": "s7.l7",
+          "say": "Meatball set a cup on the table. Noodle lay down beside it. Damn.",
+          "vis": "Meatball sets a cup on the table / Noodle lies down beside it",
+          "shots": [
+            {
+              "t": 358.4,
+              "dur": 1.34,
+              "vis": "Meatball sets a cup on the table"
+            },
+            {
+              "t": 359.7,
+              "dur": 1.34,
+              "vis": "Meatball sets a cup on the table"
+            },
+            {
+              "t": 361.1,
+              "dur": 1.34,
+              "vis": "Noodle lies down beside it"
+            }
+          ],
+          "_t": 358.4,
+          "_dur": 4.01,
+          "_beats": "CJS"
+        }
+      ],
+      "_midroll_after": {
+        "type": "primary",
+        "at": 362.6,
+        "note": "Break in the 0.3 s gap after this chapter's last line, before the next voiced chapter line. Never mid-sentence, never on a safety line, never mid-joke."
+      }
+    },
+    {
+      "chapter": "7. What not to do",
+      "chip": "7 OF 8",
+      "_start": 362.7,
+      "lines": [
+        {
+          "id": "s8.l0",
+          "say": "Number seven. What not to do.",
+          "vis": "Voiced number card over a crossed-out outdoor spray, no scare typography",
+          "shots": [
+            {
+              "t": 362.7,
+              "dur": 1.85,
+              "vis": "Voiced number card over a crossed-out outdoor spray, no scare typography"
+            }
+          ],
+          "card": "7 OF 8: WHAT NOT TO DO",
+          "_t": 362.7,
+          "_dur": 1.85,
+          "_beats": ""
+        },
+        {
+          "id": "s8.l1",
+          "say": "When selecting and using pesticides, read and strictly follow the label directions. The label tells you if the pesticide is approved for use against bed bugs. Don't use it if it is not.",
+          "src": "BB29, BB30",
+          "source_tag": "EPA",
+          "vis": "A label is held up and read / Chip: READ AND STRICTLY FOLLOW THE LABEL DIRECTIONS / Chip: APPROVED FOR USE AGAINST BED BUGS; DON'T USE IT IF IT IS NOT",
+          "shots": [
+            {
+              "t": 364.6,
+              "dur": 1.7,
+              "vis": "A label is held up and read"
+            },
+            {
+              "t": 366.3,
+              "dur": 1.7,
+              "vis": "A label is held up and read"
+            },
+            {
+              "t": 368.0,
+              "dur": 1.7,
+              "vis": "Chip: READ AND STRICTLY FOLLOW THE LABEL DIRECTIONS"
+            },
+            {
+              "t": 369.6,
+              "dur": 1.7,
+              "vis": "Chip: READ AND STRICTLY FOLLOW THE LABEL DIRECTIONS"
+            },
+            {
+              "t": 371.3,
+              "dur": 1.7,
+              "vis": "Chip: APPROVED FOR USE AGAINST BED BUGS; DON'T USE IT IF IT IS NOT"
+            },
+            {
+              "t": 373.0,
+              "dur": 1.7,
+              "vis": "Chip: APPROVED FOR USE AGAINST BED BUGS; DON'T USE IT IF IT IS NOT"
+            }
+          ],
+          "card": "READ AND STRICTLY FOLLOW THE LABEL; THE PRODUCT MUST BE APPROVED FOR BED BUGS",
+          "_t": 364.6,
+          "_dur": 10.18,
+          "_beats": "P"
+        },
+        {
+          "id": "s8.l2",
+          "say": "Look for EPA-registered pesticides that have bed bugs listed on the label.",
+          "src": "BB30",
+          "source_tag": "EPA",
+          "vis": "A label with bed bugs listed / Chip: BED BUGS LISTED ON THE LABEL",
+          "shots": [
+            {
+              "t": 374.7,
+              "dur": 1.85,
+              "vis": "A label with bed bugs listed"
+            },
+            {
+              "t": 376.6,
+              "dur": 1.85,
+              "vis": "Chip: BED BUGS LISTED ON THE LABEL"
+            }
+          ],
+          "card": "EPA-REGISTERED PESTICIDES THAT HAVE BED BUGS LISTED ON THE LABEL",
+          "_t": 374.7,
+          "_dur": 3.7,
+          "_beats": ""
+        },
+        {
+          "id": "s8.l3",
+          "say": "Never use a pesticide indoors that is intended for outdoor use. It is very dangerous and won't solve your bed bug problem.",
+          "src": "BB29",
+          "source_tag": "EPA",
+          "vis": "An outdoor pesticide is stopped at the door / Card, large: NEVER; VERY DANGEROUS; WON'T SOLVE YOUR BED BUG PROBLEM",
+          "shots": [
+            {
+              "t": 378.4,
+              "dur": 1.7,
+              "vis": "An outdoor pesticide is stopped at the door"
+            },
+            {
+              "t": 380.1,
+              "dur": 1.7,
+              "vis": "An outdoor pesticide is stopped at the door"
+            },
+            {
+              "t": 381.8,
+              "dur": 1.7,
+              "vis": "Card, large: NEVER; VERY DANGEROUS; WON'T SOLVE YOUR BED BUG PROBLEM"
+            },
+            {
+              "t": 383.5,
+              "dur": 1.7,
+              "vis": "Card, large: NEVER; VERY DANGEROUS; WON'T SOLVE YOUR BED BUG PROBLEM"
+            }
+          ],
+          "card": "NEVER USE A PESTICIDE INDOORS THAT IS INTENDED FOR OUTDOOR USE; VERY DANGEROUS, AND IT WON'T SOLVE THE PROBLEM",
+          "_t": 378.4,
+          "_dur": 6.79,
+          "_beats": "P"
+        },
+        {
+          "id": "s8.l4",
+          "say": "Use foggers, or bug bombs, only with extreme care and only if bed bugs are listed on the label. Improper use can harm your health or cause a fire or explosion.",
+          "src": "BB31",
+          "source_tag": "EPA",
+          "vis": "A fogger, marked ONLY WITH EXTREME CARE / Chip: ONLY IF BED BUGS ARE LISTED ON THE LABEL / Chip: IMPROPER USE CAN HARM YOUR HEALTH OR CAUSE A FIRE OR EXPLOSION / No fogger demonstration",
+          "shots": [
+            {
+              "t": 385.2,
+              "dur": 1.91,
+              "vis": "A fogger, marked ONLY WITH EXTREME CARE"
+            },
+            {
+              "t": 387.1,
+              "dur": 1.91,
+              "vis": "A fogger, marked ONLY WITH EXTREME CARE"
+            },
+            {
+              "t": 389.1,
+              "dur": 1.91,
+              "vis": "Chip: ONLY IF BED BUGS ARE LISTED ON THE LABEL"
+            },
+            {
+              "t": 391.0,
+              "dur": 1.91,
+              "vis": "Chip: IMPROPER USE CAN HARM YOUR HEALTH OR CAUSE A FIRE OR EXPLOSION"
+            },
+            {
+              "t": 392.9,
+              "dur": 1.91,
+              "vis": "No fogger demonstration"
+            }
+          ],
+          "card": "FOGGERS ONLY WITH EXTREME CARE, AND ONLY IF BED BUGS ARE LISTED ON THE LABEL",
+          "_t": 385.2,
+          "_dur": 9.56,
+          "_beats": "P"
+        },
+        {
+          "id": "s8.l5",
+          "say": "Foggers should not be your only method of bed bug control. The spray will not reach the cracks and crevices where bed bugs hide.",
+          "src": "BB31",
+          "source_tag": "EPA",
+          "vis": "A fogger spray stops short of a crack / Chip: SHOULD NOT BE YOUR ONLY METHOD / Chip: WILL NOT REACH THE CRACKS AND CREVICES",
+          "shots": [
+            {
+              "t": 394.8,
+              "dur": 1.85,
+              "vis": "A fogger spray stops short of a crack"
+            },
+            {
+              "t": 396.6,
+              "dur": 1.85,
+              "vis": "A fogger spray stops short of a crack"
+            },
+            {
+              "t": 398.5,
+              "dur": 1.85,
+              "vis": "Chip: SHOULD NOT BE YOUR ONLY METHOD"
+            },
+            {
+              "t": 400.3,
+              "dur": 1.85,
+              "vis": "Chip: WILL NOT REACH THE CRACKS AND CREVICES"
+            }
+          ],
+          "card": "FOGGERS SHOULD NOT BE YOUR ONLY METHOD; THE SPRAY WILL NOT REACH THE CRACKS AND CREVICES",
+          "_t": 394.8,
+          "_dur": 7.4,
+          "_beats": "P"
+        },
+        {
+          "id": "s8.l6",
+          "say": "In temperature-controlled buildings, a more typical duration without feeding is about 1 to 4 months. It is usually impractical to leave homes unoccupied in hopes of starving an infestation.",
+          "src": "BB27",
+          "source_tag": "University of Kentucky",
+          "vis": "An empty house, crossed out as a starve-them plan / Chip: ABOUT 1 TO 4 MONTHS / Chip: IN TEMPERATURE-CONTROLLED BUILDINGS / Chip: USUALLY IMPRACTICAL / A 'just leave the house' idea is crossed out",
+          "shots": [
+            {
+              "t": 402.2,
+              "dur": 1.79,
+              "vis": "An empty house, crossed out as a starve-them plan"
+            },
+            {
+              "t": 404.0,
+              "dur": 1.79,
+              "vis": "Chip: ABOUT 1 TO 4 MONTHS"
+            },
+            {
+              "t": 405.8,
+              "dur": 1.79,
+              "vis": "Chip: IN TEMPERATURE-CONTROLLED BUILDINGS"
+            },
+            {
+              "t": 407.6,
+              "dur": 1.79,
+              "vis": "Chip: USUALLY IMPRACTICAL"
+            },
+            {
+              "t": 409.4,
+              "dur": 1.79,
+              "vis": "A 'just leave the house' idea is crossed out"
+            }
+          ],
+          "card": "ABOUT 1 TO 4 MONTHS WITHOUT FEEDING IN TEMPERATURE-CONTROLLED BUILDINGS; USUALLY IMPRACTICAL TO STARVE AN INFESTATION",
+          "_t": 402.2,
+          "_dur": 8.95,
+          "_beats": "P"
+        },
+        {
+          "id": "s8.l7",
+          "say": "When infested dwellings such as apartments are vacant, bed bugs often disperse to nearby units, or reduce their activity until the unit is reoccupied.",
+          "src": "BB27",
+          "source_tag": "University of Kentucky",
+          "vis": "Bugs moving toward a nearby apartment / Chip: OFTEN DISPERSE TO NEARBY UNITS",
+          "shots": [
+            {
+              "t": 411.1,
+              "dur": 1.85,
+              "vis": "Bugs moving toward a nearby apartment"
+            },
+            {
+              "t": 413.0,
+              "dur": 1.85,
+              "vis": "Bugs moving toward a nearby apartment"
+            },
+            {
+              "t": 414.8,
+              "dur": 1.85,
+              "vis": "Chip: OFTEN DISPERSE TO NEARBY UNITS"
+            },
+            {
+              "t": 416.7,
+              "dur": 1.85,
+              "vis": "Chip: OFTEN DISPERSE TO NEARBY UNITS"
+            }
+          ],
+          "card": "WHEN VACANT, THEY OFTEN DISPERSE TO NEARBY UNITS, OR REDUCE ACTIVITY UNTIL REOCCUPIED",
+          "_t": 411.1,
+          "_dur": 7.4,
+          "_beats": ""
+        },
+        {
+          "id": "s8.l8",
+          "say": "A different official page says they can live several months without a blood meal. That is not the same figure as about 1 to 4 months, and the two are not treated as one number.",
+          "src": "BB33, D3",
+          "source_tag": "CDC",
+          "vis": "Two cards stay separate: ABOUT 1 TO 4 MONTHS, and CAN LIVE SEVERAL MONTHS / A line between them / Tag stays CDC",
+          "shots": [
+            {
+              "t": 418.5,
+              "dur": 1.8,
+              "vis": "Two cards stay separate: ABOUT 1 TO 4 MONTHS, and CAN LIVE SEVERAL MONTHS"
+            },
+            {
+              "t": 420.3,
+              "dur": 1.8,
+              "vis": "Two cards stay separate: ABOUT 1 TO 4 MONTHS, and CAN LIVE SEVERAL MONTHS"
+            },
+            {
+              "t": 422.1,
+              "dur": 1.8,
+              "vis": "A line between them"
+            },
+            {
+              "t": 423.9,
+              "dur": 1.8,
+              "vis": "A line between them"
+            },
+            {
+              "t": 425.7,
+              "dur": 1.8,
+              "vis": "Tag stays CDC"
+            },
+            {
+              "t": 427.5,
+              "dur": 1.8,
+              "vis": "Tag stays CDC"
+            }
+          ],
+          "card": "A DIFFERENT PAGE: CAN LIVE SEVERAL MONTHS WITHOUT A BLOOD MEAL. NOT THE SAME FIGURE",
+          "_t": 418.5,
+          "_dur": 10.8,
+          "_beats": ""
+        },
+        {
+          "id": "s8.l9",
+          "say": "Sleeping with the lights on is also not likely to deter hungry bed bugs, as they will adjust their feeding cycle to the host's sleep patterns.",
+          "src": "BB32",
+          "source_tag": "University of Kentucky",
+          "vis": "Lights left on, a bug still feeds when the host sleeps / Chip: NOT LIKELY TO DETER / A 'just leave the lights on' idea is crossed out",
+          "shots": [
+            {
+              "t": 429.3,
+              "dur": 1.6,
+              "vis": "Lights left on, a bug still feeds when the host sleeps"
+            },
+            {
+              "t": 430.9,
+              "dur": 1.6,
+              "vis": "Lights left on, a bug still feeds when the host sleeps"
+            },
+            {
+              "t": 432.5,
+              "dur": 1.6,
+              "vis": "Chip: NOT LIKELY TO DETER"
+            },
+            {
+              "t": 434.2,
+              "dur": 1.6,
+              "vis": "Chip: NOT LIKELY TO DETER"
+            },
+            {
+              "t": 435.8,
+              "dur": 1.6,
+              "vis": "A 'just leave the lights on' idea is crossed out"
+            }
+          ],
+          "card": "SLEEPING WITH THE LIGHTS ON IS NOT LIKELY TO DETER HUNGRY BED BUGS",
+          "_t": 429.3,
+          "_dur": 8.02,
+          "_beats": ""
+        },
+        {
+          "id": "s8.l10",
+          "say": "Meatball set an empty bottle on the table. Noodle lay down beside it.",
+          "vis": "Meatball sets an empty bottle on the table / Noodle lies down beside it, not as a how-to",
+          "shots": [
+            {
+              "t": 437.4,
+              "dur": 1.34,
+              "vis": "Meatball sets an empty bottle on the table"
+            },
+            {
+              "t": 438.7,
+              "dur": 1.34,
+              "vis": "Meatball sets an empty bottle on the table"
+            },
+            {
+              "t": 440.0,
+              "dur": 1.34,
+              "vis": "Noodle lies down beside it, not as a how-to"
+            }
+          ],
+          "_t": 437.4,
+          "_dur": 4.01,
+          "_beats": "CJ"
+        }
+      ]
+    },
+    {
+      "chapter": "8. What actually helps",
+      "chip": "8 OF 8",
+      "_start": 441.7,
+      "lines": [
+        {
+          "id": "s9.l0",
+          "say": "Number eight. What actually helps.",
+          "vis": "Voiced number card over a mattress seam being checked, no scare typography",
+          "shots": [
+            {
+              "t": 441.7,
+              "dur": 1.54,
+              "vis": "Voiced number card over a mattress seam being checked, no scare typography"
+            }
+          ],
+          "card": "8 OF 8: WHAT ACTUALLY HELPS",
+          "_t": 441.7,
+          "_dur": 1.54,
+          "_beats": ""
+        },
+        {
+          "id": "s9.l1",
+          "say": "Bed bugs are not known to spread diseases to people.",
+          "src": "BB20, BB33",
+          "source_tag": "CDC",
+          "vis": "Card, large: NOT KNOWN TO SPREAD DISEASES TO PEOPLE / Chip: NOT KNOWN TO",
+          "shots": [
+            {
+              "t": 443.2,
+              "dur": 1.54,
+              "vis": "Card, large: NOT KNOWN TO SPREAD DISEASES TO PEOPLE"
+            },
+            {
+              "t": 444.8,
+              "dur": 1.54,
+              "vis": "Chip: NOT KNOWN TO"
+            }
+          ],
+          "card": "NOT KNOWN TO SPREAD DISEASES TO PEOPLE",
+          "_t": 443.2,
+          "_dur": 3.08,
+          "_beats": "P"
+        },
+        {
+          "id": "s9.l2",
+          "say": "Bites can cause itching, loss of sleep, and, rarely, allergic reactions.",
+          "src": "BB20",
+          "source_tag": "CDC",
+          "vis": "Simple icons: itching, loss of sleep, a rare allergic reaction / Chip: CAN; RARELY / The page typo 'loss off sleep' is not used",
+          "shots": [
+            {
+              "t": 446.3,
+              "dur": 1.13,
+              "vis": "Simple icons: itching, loss of sleep, a rare allergic reaction"
+            },
+            {
+              "t": 447.4,
+              "dur": 1.13,
+              "vis": "Chip: CAN; RARELY"
+            },
+            {
+              "t": 448.6,
+              "dur": 1.13,
+              "vis": "The page typo 'loss off sleep' is not used"
+            }
+          ],
+          "card": "BITES CAN CAUSE ITCHING, LOSS OF SLEEP, AND, RARELY, ALLERGIC REACTIONS",
+          "_t": 446.3,
+          "_dur": 3.39,
+          "_beats": "P"
+        },
+        {
+          "id": "s9.l3",
+          "say": "Allergic symptoms can include enlarged bite marks, painful swellings at the bite site, and, on rare occasions, anaphylaxis. If you think you are having an allergic reaction to bed bug bites, speak with your healthcare provider.",
+          "src": "BB20",
+          "source_tag": "CDC",
+          "vis": "Chip: CAN INCLUDE / Chip: ON RARE OCCASIONS, ANAPHYLAXIS / Card: IF YOU THINK YOU ARE HAVING AN ALLERGIC REACTION, SPEAK WITH YOUR HEALTHCARE PROVIDER / No diagnosis from the script",
+          "shots": [
+            {
+              "t": 449.7,
+              "dur": 1.85,
+              "vis": "Chip: CAN INCLUDE"
+            },
+            {
+              "t": 451.5,
+              "dur": 1.85,
+              "vis": "Chip: CAN INCLUDE"
+            },
+            {
+              "t": 453.4,
+              "dur": 1.85,
+              "vis": "Chip: ON RARE OCCASIONS, ANAPHYLAXIS"
+            },
+            {
+              "t": 455.2,
+              "dur": 1.85,
+              "vis": "Card: IF YOU THINK YOU ARE HAVING AN ALLERGIC REACTION, SPEAK WITH YOUR HEALTHCARE PROVIDER"
+            },
+            {
+              "t": 457.1,
+              "dur": 1.85,
+              "vis": "Card: IF YOU THINK YOU ARE HAVING AN ALLERGIC REACTION, SPEAK WITH YOUR HEALTHCARE PROVIDER"
+            },
+            {
+              "t": 458.9,
+              "dur": 1.85,
+              "vis": "No diagnosis from the script"
+            }
+          ],
+          "card": "CAN INCLUDE; ON RARE OCCASIONS, ANAPHYLAXIS; SPEAK WITH YOUR HEALTHCARE PROVIDER",
+          "_t": 449.7,
+          "_dur": 11.11,
+          "_beats": "P"
+        },
+        {
+          "id": "s9.l4",
+          "say": "Look for other clues too, including exoskeletons, bugs in folds, rusty-colored blood spots, and a sweet musty odor.",
+          "src": "BB18",
+          "source_tag": "CDC",
+          "vis": "Exoskeletons, bugs in a fold, rusty-colored blood spots / Chip: LOOK FOR OTHER CLUES TOO / A 'no marks means no bugs' idea is crossed out",
+          "shots": [
+            {
+              "t": 460.8,
+              "dur": 1.85,
+              "vis": "Exoskeletons, bugs in a fold, rusty-colored blood spots"
+            },
+            {
+              "t": 462.6,
+              "dur": 1.85,
+              "vis": "Chip: LOOK FOR OTHER CLUES TOO"
+            },
+            {
+              "t": 464.5,
+              "dur": 1.85,
+              "vis": "A 'no marks means no bugs' idea is crossed out"
+            }
+          ],
+          "card": "ALSO LOOK FOR EXOSKELETONS, BUGS IN FOLDS, RUSTY-COLORED BLOOD SPOTS, AND A SWEET MUSTY ODOR",
+          "_t": 460.8,
+          "_dur": 5.55,
+          "_beats": ""
+        },
+        {
+          "id": "s9.l5",
+          "say": "Prevent bed bugs by regularly looking for signs of infestation.",
+          "src": "BB33",
+          "source_tag": "CDC",
+          "vis": "Someone checks a mattress seam and a suitcase fold / Chip: REGULARLY LOOKING FOR SIGNS",
+          "shots": [
+            {
+              "t": 466.4,
+              "dur": 1.54,
+              "vis": "Someone checks a mattress seam and a suitcase fold"
+            },
+            {
+              "t": 467.9,
+              "dur": 1.54,
+              "vis": "Chip: REGULARLY LOOKING FOR SIGNS"
+            }
+          ],
+          "card": "PREVENT BED BUGS BY REGULARLY LOOKING FOR SIGNS OF INFESTATION",
+          "_t": 466.4,
+          "_dur": 3.08,
+          "_beats": ""
+        },
+        {
+          "id": "s9.l6",
+          "say": "Removal from dwellings can be expensive and inconvenient.",
+          "src": "BB33",
+          "source_tag": "CDC",
+          "vis": "Chip: CAN BE EXPENSIVE AND INCONVENIENT",
+          "shots": [
+            {
+              "t": 469.4,
+              "dur": 1.23,
+              "vis": "Chip: CAN BE EXPENSIVE AND INCONVENIENT"
+            },
+            {
+              "t": 470.7,
+              "dur": 1.23,
+              "vis": "Chip: CAN BE EXPENSIVE AND INCONVENIENT"
+            }
+          ],
+          "card": "REMOVAL FROM DWELLINGS CAN BE EXPENSIVE AND INCONVENIENT",
+          "_t": 469.4,
+          "_dur": 2.47,
+          "_beats": ""
+        },
+        {
+          "id": "s9.l7",
+          "say": "If needed, hire a pest management professional, or use pesticides carefully according to the label directions.",
+          "src": "BB30",
+          "source_tag": "EPA",
+          "vis": "A professional at a doorway, or a labeled product used carefully / Chip: IF NEEDED / Chip: ACCORDING TO THE LABEL DIRECTIONS",
+          "shots": [
+            {
+              "t": 471.9,
+              "dur": 1.65,
+              "vis": "A professional at a doorway, or a labeled product used carefully"
+            },
+            {
+              "t": 473.5,
+              "dur": 1.65,
+              "vis": "Chip: IF NEEDED"
+            },
+            {
+              "t": 475.2,
+              "dur": 1.65,
+              "vis": "Chip: ACCORDING TO THE LABEL DIRECTIONS"
+            }
+          ],
+          "card": "IF NEEDED, HIRE A PROFESSIONAL, OR USE PESTICIDES CAREFULLY ACCORDING TO THE LABEL",
+          "_t": 471.9,
+          "_dur": 4.94,
+          "_beats": "P"
+        },
+        {
+          "id": "s9.l8",
+          "say": "Heat treatments have no residual effects, so practices must be in place to avoid re-introducing bed bugs.",
+          "src": "BB24",
+          "source_tag": "EPA",
+          "vis": "After a professional heat treatment, a suitcase is still checked / Chip: NO RESIDUAL EFFECTS / Chip: AVOID RE-INTRODUCING / Not 'one treatment and you're done forever'",
+          "shots": [
+            {
+              "t": 476.8,
+              "dur": 1.31,
+              "vis": "After a professional heat treatment, a suitcase is still checked"
+            },
+            {
+              "t": 478.1,
+              "dur": 1.31,
+              "vis": "Chip: NO RESIDUAL EFFECTS"
+            },
+            {
+              "t": 479.5,
+              "dur": 1.31,
+              "vis": "Chip: AVOID RE-INTRODUCING"
+            },
+            {
+              "t": 480.8,
+              "dur": 1.31,
+              "vis": "Not 'one treatment and you're done forever'"
+            }
+          ],
+          "card": "HEAT TREATMENTS HAVE NO RESIDUAL EFFECTS; AVOID RE-INTRODUCING BED BUGS",
+          "_t": 476.8,
+          "_dur": 5.24,
+          "_beats": ""
+        },
+        {
+          "id": "s9.l9",
+          "say": "Meatball set a pillow on the couch. Sauce sat on the pillow.",
+          "vis": "Meatball sets a throw pillow on the couch / Sauce sits on the pillow",
+          "shots": [
+            {
+              "t": 482.1,
+              "dur": 1.85,
+              "vis": "Meatball sets a throw pillow on the couch"
+            },
+            {
+              "t": 483.9,
+              "dur": 1.85,
+              "vis": "Sauce sits on the pillow"
+            }
+          ],
+          "_t": 482.1,
+          "_dur": 3.7,
+          "_beats": "CJ"
+        }
+      ]
+    },
+    {
+      "chapter": "The verdict",
+      "chip": "",
+      "_start": 486.1,
+      "lines": [
+        {
+          "id": "s10.l0",
+          "say": "Here's the verdict, and it's an opinion.",
+          "vis": "Two columns appear: RAW and SWEET",
+          "shots": [
+            {
+              "t": 486.1,
+              "dur": 1.08,
+              "vis": "Two columns appear: RAW and SWEET"
+            },
+            {
+              "t": 487.2,
+              "dur": 1.08,
+              "vis": "Two columns appear: RAW and SWEET"
+            }
+          ],
+          "_t": 486.1,
+          "_dur": 2.16,
+          "_beats": "R"
+        },
+        {
+          "id": "s10.l1",
+          "say": "Raw, for you the bug: a dryer at high temperatures for 30 minutes, and people who follow the label.",
+          "src": "BB21, BB29",
+          "vis": "RAW column: DRYER, HIGH TEMPERATURES, 30 MINUTES chip / Follow-the-label chip",
+          "shots": [
+            {
+              "t": 488.2,
+              "dur": 1.95,
+              "vis": "RAW column: DRYER, HIGH TEMPERATURES, 30 MINUTES chip"
+            },
+            {
+              "t": 490.2,
+              "dur": 1.95,
+              "vis": "RAW column: DRYER, HIGH TEMPERATURES, 30 MINUTES chip"
+            },
+            {
+              "t": 492.2,
+              "dur": 1.95,
+              "vis": "Follow-the-label chip"
+            }
+          ],
+          "_t": 488.2,
+          "_dur": 5.86,
+          "_beats": ""
+        },
+        {
+          "id": "s10.l2",
+          "say": "Sweet: you can travel over 100 feet in a night, but tend to live within 8 feet of where people sleep, and most people do not realize they are transporting you.",
+          "src": "BB1, BB12",
+          "vis": "SWEET column: OVER 100 FEET / WITHIN 8 FEET chip / MOST PEOPLE DO NOT REALIZE chip",
+          "shots": [
+            {
+              "t": 494.1,
+              "dur": 1.91,
+              "vis": "SWEET column: OVER 100 FEET / WITHIN 8 FEET chip"
+            },
+            {
+              "t": 496.0,
+              "dur": 1.91,
+              "vis": "SWEET column: OVER 100 FEET / WITHIN 8 FEET chip"
+            },
+            {
+              "t": 497.9,
+              "dur": 1.91,
+              "vis": "SWEET column: OVER 100 FEET / WITHIN 8 FEET chip"
+            },
+            {
+              "t": 499.8,
+              "dur": 1.91,
+              "vis": "MOST PEOPLE DO NOT REALIZE chip"
+            },
+            {
+              "t": 501.8,
+              "dur": 1.91,
+              "vis": "MOST PEOPLE DO NOT REALIZE chip"
+            }
+          ],
+          "_t": 494.1,
+          "_dur": 9.56,
+          "_beats": ""
+        },
+        {
+          "id": "s10.l3",
+          "say": "Meatball pinned the cards to a suitcase strap. Sauce walked off with the strap. Damn.",
+          "vis": "Meatball pins the RAW and SWEET cards to a suitcase strap / Sauce walks off with the strap / The SWEET, WITH CONDITIONS tag stays on screen",
+          "shots": [
+            {
+              "t": 503.7,
+              "dur": 1.54,
+              "vis": "Meatball pins the RAW and SWEET cards to a suitcase strap"
+            },
+            {
+              "t": 505.2,
+              "dur": 1.54,
+              "vis": "Sauce walks off with the strap"
+            },
+            {
+              "t": 506.8,
+              "dur": 1.54,
+              "vis": "The SWEET, WITH CONDITIONS tag stays on screen"
+            }
+          ],
+          "card": "OUR VERDICT: SWEET, WITH CONDITIONS",
+          "meter": 75,
+          "_t": 503.7,
+          "_dur": 4.63,
+          "_beats": "CJS"
+        },
+        {
+          "id": "s10.l4",
+          "say": "Now think back to that bed. Your bed: bed bugs can travel over 100 feet a night.",
+          "src": "BB1",
+          "vis": "Callback: the same bed bug close-up walking a mattress seam from 0:00 / The full CDC hedge card returns, with both halves still on it",
+          "shots": [
+            {
+              "t": 508.3,
+              "dur": 1.75,
+              "vis": "Callback: the same bed bug close-up walking a mattress seam from 0:00"
+            },
+            {
+              "t": 510.0,
+              "dur": 1.75,
+              "vis": "Callback: the same bed bug close-up walking a mattress seam from 0:00"
+            },
+            {
+              "t": 511.8,
+              "dur": 1.75,
+              "vis": "The full CDC hedge card returns, with both halves still on it"
+            }
+          ],
+          "_t": 508.3,
+          "_dur": 5.24,
+          "_beats": "R"
+        },
+        {
+          "id": "s10.l5",
+          "say": "Meatball set the stamp on a luggage tag. Noodle lay down on the floor.",
+          "vis": "Meatball sets the stamp on a luggage tag and leaves it / Noodle lies down on the floor",
+          "shots": [
+            {
+              "t": 513.5,
+              "dur": 1.44,
+              "vis": "Meatball sets the stamp on a luggage tag and leaves it"
+            },
+            {
+              "t": 515.0,
+              "dur": 1.44,
+              "vis": "Meatball sets the stamp on a luggage tag and leaves it"
+            },
+            {
+              "t": 516.4,
+              "dur": 1.44,
+              "vis": "Noodle lies down on the floor"
+            }
+          ],
+          "_t": 513.5,
+          "_dur": 4.32,
+          "_beats": "CJ"
+        },
+        {
+          "id": "s10.l6",
+          "say": "3 Bugs You Should Never Kill is right here.",
+          "vis": "Meatball points at the camera / End screen: 3 Bugs in Your House You Should Never Kill video tile; Meatball points at it",
+          "shots": [
+            {
+              "t": 517.9,
+              "dur": 1.39,
+              "vis": "Meatball points at the camera"
+            },
+            {
+              "t": 519.2,
+              "dur": 1.39,
+              "vis": "End screen: 3 Bugs in Your House You Should Never Kill video tile; Meatball points at it"
+            }
+          ],
+          "_t": 517.9,
+          "_dur": 2.78,
+          "_beats": "CR"
+        }
+      ]
+    }
+  ],
+  "pinned_comment": "Meatball wants to know: which of the first four gets to you more? The walk, the hide, the suitcase, or the delayed bite? Drop the number in the comments.",
+  "mid_video_comment_prompt": {
+    "say": "Meatball wants to know: which of the first four gets to you more? The walk, the hide, the suitcase, or the delayed bite? Drop the number in the comments.",
+    "at": 257.8,
+    "id": "s5.l2"
+  },
+  "end_screen_video": "3 Bugs in Your House You Should Never Kill",
+  "sources_file": "/workspace/drafts/facts/bed-bugs.md",
+  "description": "Your bed: bed bugs can travel over 100 feet in a night but tend to live within 8 feet of where people sleep. This is a born-as guide to the common bed bug in a house: how far they walk, where they hide, how they hitch a ride, the delayed bite, heat that stays official, the eggs, what not to do, and what actually helps. Meatball lives all eight from the couch, with his dog, Noodle, as the stand-in and his cat, Sauce, as everybody else.\n\nChecked facts in this video:\n- Lead is the common bed bug (Cimex lectularius). EPA's appearance page is titled \"Appearance of Bed Bugs (Cimex lectularius L.).\" University of Kentucky ENTFACT-636 uses \"the common bed bug (Cimex lectularius).\" CDC About Bed Bugs says \"Bed bugs (Cimex species)\" and does not name lectularius or hemipterus on the extracted page. Distance, bite-delay, and other CDC lines stay tagged CDC and may be said of bed bugs generally with that tag. This video does not mix in the tropical bed bug (C. hemipterus).\n- CDC: \"Bed bugs can travel over 100 feet in a night but tend to live within 8 feet of where people sleep.\" Keep \"can,\" \"over 100 feet,\" \"in a night,\" \"tend to live,\" \"within 8 feet,\" and \"of where people sleep.\" The spoken hook is a tight 11-word line that keeps both distance halves, \"can,\" \"over,\" \"a night,\" \"within 8,\" and \"your bed.\" The official \"in a night,\" \"tend to live,\" and \"of where people sleep\" wording is on the hook card from 0:00 and is spoken in full right after the eight-things line, and again in chapter 1, with both halves on the same sentence.\n- That 8-foot half is not the same as they never go farther. A different official page (University of Kentucky) says they prefer to hide close to where they feed, but if necessary will crawl longer distances in search of a meal. During the day, they tend to hide close to where people sleep. That page does not give a 100-foot or 8-foot figure, and this video does not invent one for it. Initially they tend to be concentrated around beds, sofas, and other sleeping and resting areas, but if infestations are allowed to persist, they may disperse elsewhere, making elimination more difficult.\n- Adult bed bugs are about 3/16-inch long and reddish-brown, with oval, flattened bodies. Their coloration is similar to an apple seed although their size is closer to a lentil (University of Kentucky). Keep \"about.\" A different official page (EPA) says adult bed bugs, in general, are about the size of an apple seed (5-7 mm or 3/16-1/4 inch long); flat and brown if not fed recently; balloon-like, reddish-brown, and more elongated if fed recently. Those two size lines are not averaged. CDC's 1 mm to 7 mm range, roughly the size of Lincoln's head on a penny, covers nymphs through adults and is not stacked in speech with apple seed and lentil as one official simile (D1). It is kept here.\n- Their flattened bodies enable them to fit into tiny crevices no wider than a toothpick. Bed bugs don't have nests like ants or bees, but do tend to congregate in habitual hiding places like mattresses, box springs, bed frames and headboards (University of Kentucky). A different official page (CDC) says they hide during the day in places on or around the bed, and can hide in the seams of mattresses, box springs, bed frames and headboards, dresser tables, inside cracks or crevices, and behind wallpaper. Their slim flat bodies allow them to fit into very small spaces.\n- Adult females lay eggs in secluded places, depositing one, two or more per day, potentially hundreds during their lifetime. The eggs are tiny (about the size of a dust spec), whitish and hard to see without magnification, especially on light-colored materials. At room temperature, eggs hatch in about a week. Newly emerged nymphs are straw-colored and no bigger than a pinhead (University of Kentucky). The page typo \"dust spec\" is kept as the page's wording, not silently corrected. A different official page (EPA) says bed bug eggs, in general, are tiny, the size of a pinhead, pearl-white, and marked by an eye spot if more than five days old; young bed bugs (nymphs), in general, are smaller, translucent or whitish-yellow, and if not recently fed, can be nearly invisible to the naked eye. Bed bugs don't fly, or jump like fleas, but can crawl rapidly over floors, walls, ceilings and other surfaces.\n- The bugs are efficient hitchhikers and are easily transported into dwellings on luggage, clothing, beds, furniture, and belongings. Acquiring secondhand beds and furniture is another way they can be transported. They can also be inadvertently carried in on clothing, shoes, a wheelchair, backpacks, luggage, and other belongings (University of Kentucky). A different official page (CDC) says they spread by getting into the seams and folds of luggage, overnight bags, folded clothes, bedding, furniture, and anywhere else they can hide. Most people do not realize they are transporting bed bugs. That page also says \"infecting areas as they travel\"; \"infecting\" there means spreading the infestation, not spreading a disease, and that wording is not spoken in this video.\n- Unlike cockroaches and flies that feed on filth, there is often no relationship between bed bugs and cleanliness. Since the bugs feed solely on blood, pristine dwellings can be as vulnerable to infestation as are places of squalor (University of Kentucky). A different official page (CDC) says how clean a place is does not determine whether bed bugs are present, and that they are in five-star hotels and resorts. That is not \"every hotel has them.\" You can find bed bugs anywhere, from North and South America to Africa, Asia, and Europe (CDC). Everyone is at risk for getting bed bugs when visiting an infested area. You are at higher risk if you travel frequently and share living and sleeping space where other people have previously slept.\n- Bed bugs are active mainly at night. During the day, they tend to hide close to where people sleep. They usually bite people at night while they are sleeping. Hungry bed bugs may also feed during the day, especially if this is when the occupant normally sleeps (University of Kentucky). This video does not invent a 4 a.m. feeding clock. A different official page (CDC) says bed bugs bite people and animals at night while they sleep, feeding on their blood.\n- One of the easiest ways to identify a bed bug infestation is by bite marks on the face, neck, arms, hands, or any other body parts after sleeping. However, these bite marks may take as long as 14 days to develop in some people (CDC). Keep \"may,\" \"as long as 14 days,\" and \"in some people.\" Look for other clues too: exoskeletons, bugs in folds, rusty-colored blood spots, and a sweet musty odor. This is not \"if you have no marks, you don't have bed bugs.\"\n- They feed by piercing the skin with an elongated beak. Engorgement takes about three to 10 minutes, but because the bite is painless, people seldom realize they are being bitten. Bed bugs normally do not reside on or attach to people like lice or ticks; immediately after feeding they crawl to a secluded location to digest their meal (University of Kentucky).\n- Bites can cause itching, loss of sleep, and, rarely, allergic reactions. Bed bugs are not known to spread diseases to people. Allergic symptoms can include enlarged bite marks, painful swellings at the bite site, and, on rare occasions, anaphylaxis. If you think you are having an allergic reaction to bed bug bites, speak with your healthcare provider (CDC). Keep \"can,\" \"rarely,\" and \"not known to spread diseases.\" This video does not copy the live-page typo \"loss off sleep.\"\n- EPA IPM: put bedding and clothing in the dryer at high temperatures for 30 minutes to kill bed bugs (just washing will generally not kill bed bugs). Heat infested articles (furniture, luggage, items that can't go in a dryer) and/or areas (a room, or a whole house) to at least 120 F (about 49 C) for 90 minutes to ensure that eggs are killed. The higher the temperature, the shorter the time needed. This is often done using a heat-generating device or a specially constructed heating unit. Those two heat recipes stay separate and are not averaged. Whole-house heat on this page is that device method, not a home thermostat.\n- EPA DIY: you can use a clothes dryer on high heat. Do-it-yourself heat treatments might not work. Professionals have access to more intensive and proven methods that can even treat whole houses with heat. Do not try to kill bed bugs by increasing your indoor temperature with a thermostat, propane space heater, or fireplace — this does not work and is dangerous. The car-and-bags method on that page is hedged \"might not work\" / \"depends on your climate\" and is not recommended in this video as a sure trick. Professionals can treat an entire residence, but it must be done properly. Heat treatments have no residual effects, so practices must be in place to avoid re-introducing bed bugs.\n- EPA DIY steam: steam temperature must be at least 130 F but should not have a forceful airflow, or it may scatter bed bugs. Use a diffuser. That 130 F is steam on bed bugs, not a laundry wash, and it is not spoken in this video; it is kept here and is not mixed with any other pest's numbers.\n- Cold treatments: EPA IPM says below 0 F (about -19 C) for at least 4 days can eliminate some infestations. Home freezers may not be cold enough to reliably kill bed bugs. Always use a thermometer. A different official page (EPA DIY) says you must leave the items in a sealed bag in the freezer at 0 F for three days, and that many home refrigerator freezers are not cold enough; always use a thermometer. Those 4-day and 3-day figures are not blended (D2). The three-day line is not spoken in this video; it is kept here. This video does not copy the IPM typo \"may not cold be enough.\"\n- In temperature-controlled buildings, a more typical duration without feeding is about 1 to 4 months, and it is usually impractical to leave homes unoccupied in hopes of starving an infestation. When vacant apartments are empty, bed bugs often disperse to nearby units, or reduce their activity until the unit is reoccupied (University of Kentucky). A different official page (CDC) says they can live several months without a blood meal. Those are related, not identical, and are not treated as one number (D3). Sleeping with the lights on is not likely to deter hungry bed bugs; they will adjust their feeding cycle to the host's sleep patterns.\n- When selecting and using pesticides, read and strictly follow the label directions. The label tells you if the pesticide is approved for use against bed bugs (don't use it if it is not). Never use a pesticide indoors that is intended for outdoor use. It is very dangerous and won't solve your bed bug problem (EPA). If needed, hire a pest management professional or use pesticides carefully according to the label. Look for EPA-registered pesticides that have bed bugs listed on the label. Use foggers (bug bombs) only with extreme care and only if bed bugs are listed on the label. Improper use can harm your health or cause a fire or explosion. Foggers should not be your only method; the spray will not reach the cracks and crevices where bed bugs hide.\n- Prevent bed bugs by regularly looking for signs of infestation. Removal from dwellings can be expensive and inconvenient (CDC).\n\nSources, shown on screen as lower-thirds, never spoken as academic credits:\n- CDC, About Bed Bugs, page date Apr. 26, 2024: https://www.cdc.gov/bed-bugs/about/index.html\n- EPA, Controlling Bed Bugs Using Integrated Pest Management (IPM), last updated March 30, 2026: https://www.epa.gov/bedbugs/controlling-bed-bugs-using-integrated-pest-management-ipm ; Do It Yourself Bed Bug Control, last updated August 10, 2026: https://www.epa.gov/bedbugs/do-it-yourself-bed-bug-control ; Safety Issues in Controlling Bed Bugs, last updated September 8, 2026: https://www.epa.gov/bedbugs/safety-issues-controlling-bed-bugs ; Bed Bugs Appearance and Life Cycle, last updated January 6, 2026: https://www.epa.gov/bedbugs/bed-bugs-appearance-and-life-cycle\n- University of Kentucky ENTFACT-636, Bed Bugs, revised 3/26 (Potter): https://entomology.mgcafe.uky.edu/ef636\n\nWatch next: 3 Bugs in Your House You Should Never Kill.\nThis is entertainment and a sourced explainer, not medical advice and not a diagnosis.",
+  "art_needed": [
+    "Frame 0: a common bed bug in close-up, already walking a mattress seam; narration on it at 0.0 s.",
+    "Meatball on the couch in a cardboard bug shell, with a RAW / SWEET rubber stamp; his dog, Noodle; his cat, Sauce.",
+    "The 100-foot path and the 8-foot 'where people sleep' zone on the same card, with both halves always together.",
+    "Dryer at high temperatures for 30 minutes, and a separate professional 120 F / 90 minutes special-device card, never averaged. A crossed-out thermostat, propane space heater, and fireplace.",
+    "End screen 12 s: 3 Bugs in Your House You Should Never Kill video tile; Meatball points; tile pulses (animated, not a still)."
+  ],
+  "_changelog": [
+    "First bed-bug born-as draft, built from /workspace/drafts/facts/bed-bugs.md (BB1-BB36) and the dust-mite born-as generators copied into /workspace/drafts/.bedbug-build/. Channel rules and the 11/15 plan match the mite pass. Files only; nothing posted, scheduled, pushed, or committed; git untouched. Dust-mite and cockroach output files were left alone.",
+    "Hook is Social Studio's 100-foot / 8-foot CDC line, strictly under 12 words (11). 'Your bed: bed bugs can travel over 100 feet a night.' Both distance halves, 'can,' 'over,' 'a night,' 'within 8,' and 'your bed' are in the hook. The official 'in a night,' 'tend to live,' and 'of where people sleep' wording is on the hook card from 0:00 and is spoken in full, both halves together, right after the eight-things line, and again in chapter 1.",
+    "No DIY heat: the thermostat / propane space heater / fireplace ban is said clean. Whole-house heat is named as a professional method. Dryer is high temperatures for 30 minutes on bedding and clothing; article/area heat is at least 120 F for 90 minutes, often a special device. Those numbers stay separate and are not averaged. Heat numbers from any other pest are not in speech, on a card, or in the public description.",
+    "Disease-transmission wording is the pack's exact hedge: 'not known to spread diseases to people.' Pesticide lines keep read-and-follow-the-label, never use an outdoor pesticide indoors, and foggers only with extreme care, only if bed bugs are on the label, and not as the only method.",
+    "Chapter 5-style disagreements: one primary source and at most one tagged alternative in speech. Remaining alternatives (CDC Lincoln's-head size, EPA DIY three-day freezer, steam at least 130 F, car-and-bags, geography line) stay in the description.",
+    "Chapter 6, The eggs, is the non-safety chapter after the heat, so the second primary mid-roll can sit after it. The heat, what-not-to-do, and what-actually-helps chapters have no mid-roll.",
+    "Verdict jokes are new: 'Meatball pinned the cards to a suitcase strap. Sauce walked off with the strap. Damn.' and 'Meatball set the stamp on a luggage tag. Noodle lay down on the floor.' They do not reuse 'sweet deal' or any crocodile, cockroach, or dust-mite verdict line."
+  ],
+  "_resolved": [
+    "Both halves of the CDC 100-foot / 8-foot line are spoken together in the official sentence, in chapter 1, in the halfway recap, and in the verdict. The 11-word hook, 'Your bed: bed bugs can travel over 100 feet a night,' speaks the first half only; the full CDC sentence with both halves (in a night / tend to live within 8 feet of where people sleep) is on the hook card from 0:00. The second half is spoken immediately after as 'But they tend to live within 8 feet of where people sleep.' (s0.l1 long-form; line 2 of the 100feet teaser), so hook plus that line read as the CDC sentence back to back and 100 feet is not said twice in 6 seconds (Social Studio 11/15). It is the promise by 0:05.",
+    "Bite delay uses live CDC wording: may take as long as 14 days to develop in some people, not a bare 'up to 14 days.'",
+    "Dryer is 30 minutes at high temperatures; just washing will generally not kill bed bugs. Article/area heat is at least 120 F for 90 minutes, often a special device. The two are not averaged.",
+    "About 1 to 4 months and 'several months' stay on their own pages and are not treated as one number. Starving a vacant home is usually impractical.",
+    "'Not known to spread diseases to people' is said clearly. The CDC typo 'loss off sleep' is not spoken."
+  ],
+  "_open_questions": [
+    {
+      "line": "s0.l0 hook",
+      "question": "The mandated hook must stay under 12 words (11 max) and must speak both halves of the CDC line, with hedges kept, plus you or your home. The 11-word hook, 'Your bed: bed bugs can travel over 100 feet a night,' speaks the first half only; the full CDC sentence with both halves (in a night / tend to live within 8 feet of where people sleep) is on the hook card from 0:00. The second half is spoken immediately after as 'But they tend to live within 8 feet of where people sleep.' (s0.l1 long-form; line 2 of the 100feet teaser), so hook plus that line read as the CDC sentence back to back and 100 feet is not said twice in 6 seconds (Social Studio 11/15).",
+      "fallback": "Keep this 11-word hook and the official restatement. If Social Studio requires every official word in hook speech, the hook will go over 11 words and will fail the hook_w<12 assert."
+    },
+    {
+      "line": "s0.l0 / s0.l1 promise",
+      "question": "The hook is also the spoken promise, and it ends at 3.39 s, by 0:05. The born-as eight-things method line ends at 8.33 s, after 0:05. Allowed by this brief.",
+      "fallback": "Leave the hook as the promise by 0:05, and keep the eight-things line as the method beat."
+    },
+    {
+      "line": "working title vs Title A",
+      "question": "Working title follows the born-as '8 Things You Have to Get Through' pattern. Packaging Title A, 'Bed Bugs Can Travel Over 100 Feet in a Night,' still needs 'can' and the spoken 8-foot condition if it is used.",
+      "fallback": "Keep the 8-things working title unless Social Studio picks Title A with those hedges."
+    },
+    {
+      "line": "watch-next",
+      "question": "Watch-next is 3 Bugs in Your House You Should Never Kill, matching the cockroach and dust-mite born-as. The pack also allows Night Shift, which should be live by Wed 12/23, but this episode is not a remake of that hour and does not use a 4 a.m. clock.",
+      "fallback": "Switch the end tile to Night Shift only if Social Studio wants that link."
+    },
+    {
+      "line": "description-only hedges",
+      "question": "CDC Lincoln's-head size, EPA DIY three-day freezer (vs IPM at least 4 days), bed-bug steam at least 130 F, the car-and-bags method, and the CDC geography line stay out of speech this pass, following the one-primary-plus-one-alternative rule.",
+      "fallback": "Keep them in the description. Speak a tagged alternative only if Social Studio wants that disagreement in the video."
+    }
+  ],
+  "_for_claude": [
+    "No rules intro, no silent countdowns, voiced chapter cards only. A new picture every 1-2 s; no speech shot over 2.0 s. The 12 s end screen is the only longer hold.",
+    "Citations go on screen and in the description, never spoken as academic credits. 'A different official page' is a hedge, not a spoken source name.",
+    "TTS pronunciation check before render: '100 feet' and '8 feet'; '120 degrees Fahrenheit' and '90 minutes'; 'Cimex lectularius' and 'Cimex species' are card-only, not spoken. Add tts respellings in the build JSON if the Andrew voice misreads them; captions keep 'say'. No TTS or shot-set handoff until Social Studio forwards Jarvis's new production spec.",
+    "Shot rhythm: new 11/15 rule, a new picture every 1-2 s, no shot over 2.0 s except the 12 s end screen. The 0.3 s chapter gap is a cut, not a hold added to the last shot. Short voiced chapter cards may run under 1 s.",
+    "No spoken countdowns; every chapter card is a voiced 'Number X' line, except the cold open, halfway, and verdict; chapter gaps are 0.3 s.",
+    "Do not mix these dryer, article-heat, or freezer numbers with heat numbers from any other pest. Do not add a thermostat, space-heater, or fireplace as a treatment graphic, except as a crossed-out warning.",
+    "Watch-next tile is 3 Bugs in Your House You Should Never Kill. The spoken short name is '3 Bugs You Should Never Kill.' This episode is not a remake of Night Shift and has no 4 a.m. clock."
+  ],
+  "_masterorders_check": [
+    "Hook is you or your home plus a number or threat, strictly under 12 words (11). Both halves of the CDC distance line are on the hook; remaining official wording is on the card and in the official restatement.",
+    "Promise: the hook is also the spoken promise, ended by 0:05 (3.39 s). The eight-things method line ends after 0:05.",
+    "Facts only from the bed-bug pack; hedges kept. Lead is the common bed bug; CDC lines stay tagged CDC.",
+    "Both halves of 'over 100 feet in a night' and 'within 8 feet of where people sleep' are spoken together on the official line.",
+    "No thermostat, space-heater, fireplace, or DIY whole-house heat instructions. Whole-house heat is named as professional.",
+    "Heat numbers stay in their pack context, stay separate, and are not averaged. No heat numbers from any other pest.",
+    "Disease-transmission wording keeps the pack's exact hedge. Pesticide lines keep read and follow the label.",
+    "No invented winners. Jokes add no number, danger, feeling, motive, or instruction, and come after safety lines, never inside them.",
+    "Runtime is in the 8:30-9:15 band at 194.5 wpm, plus a 12 s end hold. Mild words are 3, never in the hook or a safety line.",
+    "Exactly one comment trigger, a debate prompt, near the midpoint.",
+    "Mid-rolls at least 2 minutes apart, in chapter gaps, never after or on a safety or instruction chapter, never mid-joke. Primaries sit after The hitchhike and after The eggs.",
+    "Watch-next is 3 Bugs in Your House You Should Never Kill.",
+    "Verdict jokes are fresh: no 'sweet deal,' and no crocodile, cockroach, or dust-mite verdict line.",
+    "Banned words (TRUE, FALSE, Myth, Believe, Cartoons, Lied, Did you know) are clean in speech.",
+    "Frame 0 is a bed bug in close-up, already walking a mattress seam, with narration on it at 0.0 s."
+  ],
+  "_notes": [
+    "Noodle lines (7): s0.l5, s1.l6, s3.l10, s6.l6, s7.l7, s8.l10, s10.l5. Planted at s0.l5 as 'his dog, Noodle.' He walks the other way down a hallway, sits on a suitcase, sits on a shirt, lies down beside a cup, lies down beside an empty bottle, and lies down on the floor at the verdict. He is never told to catch or kill a bed bug, and he is never used as a how-to.",
+    "Sauce lines (5): s0.l5, s2.l9, s4.l8, s9.l9, s10.l3. Planted at s0.l5 as 'his cat, Sauce.' She walks behind a headboard, sits in front of a glass on the nightstand, walks off with a suitcase strap, and sits on a pillow.",
+    "No joke on or right after: the official dryer, 120 F / 90 minutes, thermostat ban, professional whole-house, or freezer lines (s6.l1-s6.l5); the label, outdoor-pesticide, fogger, or starve-the-house lines (s8.l1-s8.l6, s8.l8); the disease, allergy, prevention, or professional/label lines (s9.l1-s9.l3, s9.l5, s9.l7-s9.l8). Jokes in those chapters come only after the last safety line.",
+    "Jokes never add a number, danger, feeling, motive, or instruction. No 4 a.m. gag. No thermostat or space-heater gag that teaches DIY heat. No fogger or pesticide how-to in a joke.",
+    "Unused or description-only rows are listed in the changelog and open questions."
+  ],
+  "_factcheck": "Not yet checked by a second model. Every fact line carries its BB ID in 'src'. Research & Fact-check built the pack on 2026-11-15.",
+  "builder": "Jarvis production / animation (no TTS or shot-set handoff until Social Studio forwards the new spec)",
+  "pause_lines": [
+    "s6.l1",
+    "s6.l2",
+    "s6.l3",
+    "s6.l5",
+    "s8.l1",
+    "s8.l3",
+    "s8.l4",
+    "s8.l5",
+    "s9.l1",
+    "s9.l3",
+    "s9.l7"
+  ],
+  "end_hold": 12.0,
+  "end_label": "3 Bugs in Your House You Should Never Kill",
+  "end_label_short": "3 BUGS YOU SHOULD NEVER KILL",
+  "_timing": {
+    "wpm": 194.5,
+    "words": 1678,
+    "chapter_gap_s": 0.3,
+    "speech_s": 520.6,
+    "runtime_s": 532.6,
+    "runtime": "8:52.6",
+    "hook": "Your bed: bed bugs can travel over 100 feet a night.",
+    "hook_words": 11,
+    "promise": "Your bed: bed bugs can travel over 100 feet a night.",
+    "promise_spoken_by_s": 3.39,
+    "eight_things_line": "But they tend to live within 8 feet of where people sleep.",
+    "eight_things_ends_s": 7.1,
+    "first_joke_s": 23.8,
+    "comment_prompt_s": 257.8,
+    "speech_midpoint_s": 260.3,
+    "mild_words": 3,
+    "mild_word_lines": [
+      {
+        "id": "s0.l6",
+        "say": "Meatball put on a cardboard bug shell. It kept slipping off. Hell."
+      },
+      {
+        "id": "s7.l7",
+        "say": "Meatball set a cup on the table. Noodle lay down beside it. Damn."
+      },
+      {
+        "id": "s10.l3",
+        "say": "Meatball pinned the cards to a suitcase strap. Sauce walked off with the strap. Damn."
+      }
+    ],
+    "longest_shot_hold_s": 1.95,
+    "longest_shot_hold_at": "s10.l1 shot 2",
+    "shots": 316,
+    "shots_under_2s": 316,
+    "shots_over_2s": 0,
+    "max_gap_s": {
+      "peak": 35.8,
+      "character": 79.0,
+      "retention": 219.3
+    }
+  }
+}
