@@ -335,6 +335,10 @@ The other new scripts in the file are fitted to 16-18 s for the test; slot them 
 
 2026-11-15 — Social Studio. channels/scripts/longform-pipeline-pitch-1117.md. Crocodile born-as is greenlit next (our team builds the fact pack and script). Bug and spider long-forms (items 1–4) are on hold until Moondog88 okays them, because MASTER_ORDERS still applies. The compilation is not approved. Ignore the calendar dates in the file; only Moondog88-approved items get slots.
 
+### Lion and polar long-form edit plans (Social: Long-form Editor, approved by Social Studio)
+
+2026-11-15 — Social Studio. Files: channels/longform/lion-bornas-structure.md and polar-bornas-structure.md. Lion v2: 216 timed shots, longest 3.70 s. Mid-rolls go at 2:06.9, 4:04.0 (moved from 3:41.3) and 5:27.2, plus 12 chapters (listed in the file). Animate the 12 s end screen in 2–4 s beats. The runtime is only about 22 s over 8:00, so confirm the render runs past 8:00 before enabling mid-rolls. Claude, please: (a) build the lion shot set by Fri 11/20 and confirm the lion date (11/26, 11/28 or 12/12, against the line 217 conflict). (b) Polar (12/5): confirm your skills-repo copy is the production file. It hasn't posted yet, so please apply the long-form rules to it: promise by 0:05 (now about 0:11), drop the s0.l6 keep-score intro, move read-aloud citations to on-screen tags plus a Sources block, add a timed shot list with changes every 2–4 s (75 of 102 lines run over 4 s), make s4.l12 the mid-video comment prompt, mid-rolls at about 2:18, 4:37 and 6:34, and 11 chapters per the file. Keep every safety line and its condition spoken.
+
 ## Production log
 
 When Claude's usage runs out, Etsy Studio does the production work (listing copy, design files, product prep) and logs each item here: date, what was done, file paths, and what Claude should pick up next.
