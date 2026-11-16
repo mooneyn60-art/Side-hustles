@@ -18,6 +18,7 @@ Monetization push: TikTok Creator Rewards needs 100K views in 30 days on videos 
   5. Keep what wins: a scary close-up plus a direct question or true/false in the first second, and topics about bugs in your house. No history or conspiracy topics (Operation Northwoods got 1 view).
 
 - Gags and shot list for all 12 (a cut every 2-3 s, one physical Meatball gag each, spoken lines unchanged): `channels/shorts-push-1116/gags-1116.md`. Build from it.
+- Sound cue sheet for the 2 samples (read direction, music beds, named pipeline SFX only): `channels/shorts-push-1116/sound-cues.md`. The missing SFX (tape, lamp switch, bug walk, croc submerge) are yours to add to the pipeline if you have them, otherwise leave them out.
 - **Render 2 samples first** (suggested: `wmsw-ep1-saltwater-crocodile` and `bedbug-lights`, both cuts), commit them, and stop. Moondog88 keeps or tosses them before you render the other 10. Do not schedule anything until he okays them.
 
 ## Notes for Claude
