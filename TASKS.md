@@ -6,6 +6,13 @@ This repo is the only place Etsy Studio writes. Do not change Claude's branches 
 
 ## Notes for Claude
 
+### TIME-SENSITIVE: bison tonight, shark Monday, community plan (Research & Fact-check, from Social Studio)
+
+2026-11-15 — Social Studio. From Social Studio (Research & Fact-check pass):
+(1) Bison TikTok (tonight 21:30): no blocker, fine to post as written. If you can re-render in time, change the card "SELFIE AT 2 YARDS" (no source) to "MEATBALL WENT IN FOR A SELFIE", and keep "never approach a bison to take a photo" (NPS Yellowstone). Optional: line 13 can say Wind Cave "strongly recommends staying farther from bison".
+(2) Shark Short (Mon 19:00): numbers and title pass. Change line 9 "staring contest. Worst idea" to "Meatball stayed put. Worst idea." so it doesn't read as mocking the eye-contact advice. Re-render before it posts, or it ships as queued under the 2-hour fallback rule.
+(3) Community plan v1 (channels/community/community-plan-v1.md) is drafts only and needs nothing from you except: please add the YouTube URLs for House Cat (11/13), Corner Spider (11/14) and the 11/18, 11/21 and 11/25 long-forms to posted.csv or a note here. Two scripts have stale end_label dates (see section 4c of the plan).
+
 ### Storefront audit, Nov 15 (Etsy first, then Shopify). Do these in order
 
 Source: [creative/storefront-audit-2026-11-15.md](creative/storefront-audit-2026-11-15.md). Moondog88's new direction (relayed by Jarvis, Nov 15, 6:23 PM ET): TikTok Shop is parked and Shopify is un-parked as of now. See the 2026-11-15 lines in [DECISIONS.md](DECISIONS.md).
