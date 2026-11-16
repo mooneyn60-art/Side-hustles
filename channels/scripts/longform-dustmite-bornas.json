@@ -1,0 +1,3086 @@
+{
+  "_what": "Oh Meatball / Would Meatball Survive? born-as long-form draft. Dust mite. Files only. Nothing posted, scheduled, or pushed.",
+  "titles": {
+    "working": "Your Life as a Dust Mite: 8 Things You Have to Get Through",
+    "alt_packaging_A": "Your Life as a Dust Mite: A 130 F Wash Can Kill You (keep 'at least' and 'can' if used)"
+  },
+  "_titles_note": "Working title follows the born-as 8-things pattern used for crocodile and cockroach. Packaging Title A still needs 'at least' and 'can' if Social Studio picks it.",
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "+10%",
+  "pitch": "+3Hz",
+  "meter_start": 50,
+  "meter_labels": [
+    "RAW",
+    "SWEET"
+  ],
+  "segments": [
+    {
+      "chapter": "Day one",
+      "chip": "",
+      "_start": 0.0,
+      "lines": [
+        {
+          "id": "s0.l0",
+          "say": "Your home: wash bedding in hot water, at least 130 F.",
+          "src": "DM20",
+          "source_tag": "Mayo Clinic",
+          "vis": "Frame 0: a house dust mite in close-up on a pillowcase fiber, with hot water rising; narration on it at 0.0 s / The same close-up holds; card: IN YOUR HOME, WASH BEDDING IN HOT WATER, AT LEAST 130 F / Chip: AT LEAST 130 F; HOT WATER; YOUR BEDDING / Card, under: WASH ALL SHEETS, BLANKETS, PILLOWCASES AND BEDCOVERS IN HOT WATER THAT IS AT LEAST 130 F (54.4 C) TO KILL DUST MITES AND REMOVE ALLERGENS",
+          "shots": [
+            {
+              "t": 0.0,
+              "dur": 1.7,
+              "vis": "Frame 0: a house dust mite in close-up on a pillowcase fiber, with hot water rising; narration on it at 0.0 s; then The same close-up holds; card: IN YOUR HOME, WASH BEDDING IN HOT WATER, AT LEAST 130 F"
+            },
+            {
+              "t": 1.7,
+              "dur": 1.7,
+              "vis": "Chip: AT LEAST 130 F; HOT WATER; YOUR BEDDING; then Card, under: WASH ALL SHEETS, BLANKETS, PILLOWCASES AND BEDCOVERS IN HOT WATER THAT IS AT LEAST 130 F (54.4 C) TO KILL DUST MITES AND REMOVE ALLERGENS"
+            }
+          ],
+          "card": "YOUR HOME: WASH BEDDING IN HOT WATER, AT LEAST 130 F",
+          "_t": 0.0,
+          "_dur": 3.39,
+          "_beats": "P"
+        },
+        {
+          "id": "s0.l1",
+          "say": "You were just born a dust mite. Here are eight things you have to get through.",
+          "vis": "Title card lands over the close-up: BORN A DUST MITE / Eight numbered tiles slam in face down around the mite",
+          "shots": [
+            {
+              "t": 3.4,
+              "dur": 1.65,
+              "vis": "Title card lands over the close-up: BORN A DUST MITE"
+            },
+            {
+              "t": 5.0,
+              "dur": 1.65,
+              "vis": "Title card lands over the close-up: BORN A DUST MITE"
+            },
+            {
+              "t": 6.7,
+              "dur": 1.65,
+              "vis": "Eight numbered tiles slam in face down around the mite"
+            }
+          ],
+          "card": "BORN A DUST MITE",
+          "_t": 3.4,
+          "_dur": 4.94,
+          "_beats": "P"
+        },
+        {
+          "id": "s0.l2",
+          "say": "You're a house dust mite. Adults are about 0.5 millimeters long, and the immatures are even smaller. They generally are visible only with a microscope.",
+          "src": "DM1",
+          "source_tag": "University of Kentucky",
+          "vis": "A house dust mite next to a 0.5 mm bar / Chip: ABOUT 0.5 MM, not 16 hundredths of an inch / An immature, even smaller / A microscope silhouette; card: GENERALLY VISIBLE ONLY WITH A MICROSCOPE",
+          "shots": [
+            {
+              "t": 8.3,
+              "dur": 1.93,
+              "vis": "A house dust mite next to a 0.5 mm bar"
+            },
+            {
+              "t": 10.3,
+              "dur": 1.93,
+              "vis": "Chip: ABOUT 0.5 MM, not 16 hundredths of an inch"
+            },
+            {
+              "t": 12.2,
+              "dur": 1.93,
+              "vis": "An immature, even smaller"
+            },
+            {
+              "t": 14.1,
+              "dur": 1.93,
+              "vis": "A microscope silhouette; card: GENERALLY VISIBLE ONLY WITH A MICROSCOPE"
+            }
+          ],
+          "card": "ADULTS ABOUT 0.5 MM; GENERALLY VISIBLE ONLY WITH A MICROSCOPE",
+          "_t": 8.3,
+          "_dur": 7.71,
+          "_beats": "P"
+        },
+        {
+          "id": "s0.l3",
+          "say": "You're globular, clear to creamy white, with hairs on your legs and body.",
+          "src": "DM1",
+          "source_tag": "University of Kentucky",
+          "vis": "A globular mite, clear to creamy white / Hairs visible on the legs and body",
+          "shots": [
+            {
+              "t": 16.0,
+              "dur": 1.34,
+              "vis": "A globular mite, clear to creamy white"
+            },
+            {
+              "t": 17.4,
+              "dur": 1.34,
+              "vis": "A globular mite, clear to creamy white"
+            },
+            {
+              "t": 18.7,
+              "dur": 1.34,
+              "vis": "Hairs visible on the legs and body"
+            }
+          ],
+          "card": "GLOBULAR; CLEAR TO CREAMY WHITE; HAIRS ON LEGS AND BODY",
+          "_t": 16.0,
+          "_dur": 4.01,
+          "_beats": ""
+        },
+        {
+          "id": "s0.l4",
+          "say": "There are two common species in the United States: the North American house dust mite, and the European house dust mite.",
+          "src": "DM2",
+          "source_tag": "University of Kentucky",
+          "vis": "Two species cards: NORTH AMERICAN HOUSE DUST MITE and EUROPEAN HOUSE DUST MITE / Latin names D. farinae and D. pteronyssinus stay on the cards, not spoken",
+          "shots": [
+            {
+              "t": 20.1,
+              "dur": 1.62,
+              "vis": "Two species cards: NORTH AMERICAN HOUSE DUST MITE and EUROPEAN HOUSE DUST MITE"
+            },
+            {
+              "t": 21.7,
+              "dur": 1.62,
+              "vis": "Two species cards: NORTH AMERICAN HOUSE DUST MITE and EUROPEAN HOUSE DUST MITE"
+            },
+            {
+              "t": 23.3,
+              "dur": 1.62,
+              "vis": "Latin names D. farinae and D. pteronyssinus stay on the cards, not spoken"
+            },
+            {
+              "t": 24.9,
+              "dur": 1.62,
+              "vis": "Latin names D. farinae and D. pteronyssinus stay on the cards, not spoken"
+            }
+          ],
+          "card": "TWO COMMON U.S. SPECIES: NORTH AMERICAN AND EUROPEAN",
+          "_t": 20.1,
+          "_dur": 6.48,
+          "_beats": ""
+        },
+        {
+          "id": "s0.l5",
+          "say": "The North American one is the lead here. The life-cycle figures later are for house dust mites generally, not one species only.",
+          "src": "DM2",
+          "source_tag": "University of Kentucky",
+          "vis": "The North American card steps forward as the lead / Chip: LIFE-CYCLE FIGURES ARE FOR HOUSE DUST MITES GENERALLY, NOT ONE SPECIES ONLY",
+          "shots": [
+            {
+              "t": 26.5,
+              "dur": 1.7,
+              "vis": "The North American card steps forward as the lead"
+            },
+            {
+              "t": 28.2,
+              "dur": 1.7,
+              "vis": "The North American card steps forward as the lead"
+            },
+            {
+              "t": 29.9,
+              "dur": 1.7,
+              "vis": "Chip: LIFE-CYCLE FIGURES ARE FOR HOUSE DUST MITES GENERALLY, NOT ONE SPECIES ONLY"
+            },
+            {
+              "t": 31.6,
+              "dur": 1.7,
+              "vis": "Chip: LIFE-CYCLE FIGURES ARE FOR HOUSE DUST MITES GENERALLY, NOT ONE SPECIES ONLY"
+            }
+          ],
+          "card": "LEAD: NORTH AMERICAN; LIFE-CYCLE FIGURES: HOUSE DUST MITES GENERALLY",
+          "_t": 26.5,
+          "_dur": 6.79,
+          "_beats": "P"
+        },
+        {
+          "id": "s0.l6",
+          "say": "Meet the guy with the cardboard mite legs. That's Meatball. He's living all eight from the couch, with a rubber stamp.",
+          "vis": "Reveal: Meatball on the couch in cardboard mite legs / Close on the cardboard legs / He holds up a rubber stamp: RAW on one side, SWEET on the other",
+          "shots": [
+            {
+              "t": 33.3,
+              "dur": 1.62,
+              "vis": "Reveal: Meatball on the couch in cardboard mite legs"
+            },
+            {
+              "t": 34.9,
+              "dur": 1.62,
+              "vis": "Reveal: Meatball on the couch in cardboard mite legs"
+            },
+            {
+              "t": 36.6,
+              "dur": 1.62,
+              "vis": "Close on the cardboard legs"
+            },
+            {
+              "t": 38.2,
+              "dur": 1.62,
+              "vis": "He holds up a rubber stamp: RAW on one side, SWEET on the other"
+            }
+          ],
+          "_t": 33.3,
+          "_dur": 6.48,
+          "_beats": "C"
+        },
+        {
+          "id": "s0.l7",
+          "say": "His dog, Noodle, is the stand-in. His cat, Sauce, is everybody else.",
+          "vis": "Noodle in the doorway, wagging (name tag pops) / Sauce on the armrest, unimpressed (name tag pops)",
+          "shots": [
+            {
+              "t": 39.8,
+              "dur": 1.85,
+              "vis": "Noodle in the doorway, wagging (name tag pops)"
+            },
+            {
+              "t": 41.6,
+              "dur": 1.85,
+              "vis": "Sauce on the armrest, unimpressed (name tag pops)"
+            }
+          ],
+          "_t": 39.8,
+          "_dur": 3.7,
+          "_beats": "C"
+        },
+        {
+          "id": "s0.l8",
+          "say": "Meatball put on cardboard mite legs. They kept sliding off. Hell.",
+          "vis": "Meatball adjusts the cardboard mite legs / They slide off his shin",
+          "shots": [
+            {
+              "t": 43.5,
+              "dur": 1.7,
+              "vis": "Meatball adjusts the cardboard mite legs"
+            },
+            {
+              "t": 45.2,
+              "dur": 1.7,
+              "vis": "They slide off his shin"
+            }
+          ],
+          "_t": 43.5,
+          "_dur": 3.39,
+          "_beats": "CJS"
+        },
+        {
+          "id": "s0.l9",
+          "say": "They hit you in order. One of them is the bed, and one is a wash at least 130 F.",
+          "vis": "Tile 1 flips half-way: a pillow and a mattress / Tile 5 flips half-way: a wash card, AT LEAST 130 F; meter appears in the corner",
+          "shots": [
+            {
+              "t": 46.9,
+              "dur": 1.54,
+              "vis": "Tile 1 flips half-way: a pillow and a mattress"
+            },
+            {
+              "t": 48.4,
+              "dur": 1.54,
+              "vis": "Tile 1 flips half-way: a pillow and a mattress"
+            },
+            {
+              "t": 50.0,
+              "dur": 1.54,
+              "vis": "Tile 5 flips half-way: a wash card, AT LEAST 130 F; meter appears in the corner"
+            },
+            {
+              "t": 51.5,
+              "dur": 1.54,
+              "vis": "Tile 5 flips half-way: a wash card, AT LEAST 130 F; meter appears in the corner"
+            }
+          ],
+          "_t": 46.9,
+          "_dur": 6.17,
+          "_beats": "R"
+        }
+      ]
+    },
+    {
+      "chapter": "1. Born in the bed",
+      "chip": "1 OF 8",
+      "_start": 53.4,
+      "lines": [
+        {
+          "id": "s1.l0",
+          "say": "Number one. Born in the bed.",
+          "vis": "Voiced number card whips in over a bed, close on the pillow (no silent hold)",
+          "shots": [
+            {
+              "t": 53.4,
+              "dur": 1.85,
+              "vis": "Voiced number card whips in over a bed, close on the pillow (no silent hold)"
+            }
+          ],
+          "card": "1 OF 8: BORN IN THE BED",
+          "_t": 53.4,
+          "_dur": 1.85,
+          "_beats": ""
+        },
+        {
+          "id": "s1.l1",
+          "say": "People and pets regularly shed small flakes of skin as the skin continually renews itself.",
+          "src": "DM3",
+          "source_tag": "University of Kentucky",
+          "vis": "Skin flakes shed from a person sitting on a sofa, then a pet on a rug / Chip: AS THE SKIN CONTINUALLY RENEWS ITSELF",
+          "shots": [
+            {
+              "t": 55.2,
+              "dur": 1.54,
+              "vis": "Skin flakes shed from a person sitting on a sofa, then a pet on a rug"
+            },
+            {
+              "t": 56.8,
+              "dur": 1.54,
+              "vis": "Skin flakes shed from a person sitting on a sofa, then a pet on a rug"
+            },
+            {
+              "t": 58.3,
+              "dur": 1.54,
+              "vis": "Chip: AS THE SKIN CONTINUALLY RENEWS ITSELF"
+            }
+          ],
+          "card": "PEOPLE AND PETS REGULARLY SHED SMALL FLAKES OF SKIN",
+          "_t": 55.2,
+          "_dur": 4.63,
+          "_beats": ""
+        },
+        {
+          "id": "s1.l2",
+          "say": "Since the greatest fallout occurs in areas of human and pet activity, the mites tend to be most numerous in beds, overstuffed sofas and chairs, and adjacent carpeted areas.",
+          "src": "DM3",
+          "source_tag": "University of Kentucky",
+          "vis": "A bed, then an overstuffed sofa and chair / Adjacent carpet / Chip: TEND TO BE MOST NUMEROUS, not 'only live in your bed' / Chip: BEDS ARE ONE OF SEVERAL SITES",
+          "shots": [
+            {
+              "t": 59.8,
+              "dur": 1.79,
+              "vis": "A bed, then an overstuffed sofa and chair"
+            },
+            {
+              "t": 61.6,
+              "dur": 1.79,
+              "vis": "A bed, then an overstuffed sofa and chair"
+            },
+            {
+              "t": 63.4,
+              "dur": 1.79,
+              "vis": "Adjacent carpet"
+            },
+            {
+              "t": 65.2,
+              "dur": 1.79,
+              "vis": "Chip: TEND TO BE MOST NUMEROUS, not 'only live in your bed'"
+            },
+            {
+              "t": 67.0,
+              "dur": 1.79,
+              "vis": "Chip: BEDS ARE ONE OF SEVERAL SITES"
+            }
+          ],
+          "card": "TEND TO BE MOST NUMEROUS IN BEDS, SOFAS, CHAIRS, AND ADJACENT CARPET",
+          "_t": 59.8,
+          "_dur": 8.95,
+          "_beats": "P"
+        },
+        {
+          "id": "s1.l3",
+          "say": "Relative humidity also tends to be higher in these areas, because people perspire and exhale water vapor where they sleep and lounge.",
+          "src": "DM4",
+          "source_tag": "University of Kentucky",
+          "vis": "A person sleeping, then someone sitting on a sofa / Chip: PERSPIRE AND EXHALE WATER VAPOR / No invented humidity percentage on the mattress",
+          "shots": [
+            {
+              "t": 68.8,
+              "dur": 1.7,
+              "vis": "A person sleeping, then someone sitting on a sofa"
+            },
+            {
+              "t": 70.5,
+              "dur": 1.7,
+              "vis": "A person sleeping, then someone sitting on a sofa"
+            },
+            {
+              "t": 72.2,
+              "dur": 1.7,
+              "vis": "Chip: PERSPIRE AND EXHALE WATER VAPOR"
+            },
+            {
+              "t": 73.9,
+              "dur": 1.7,
+              "vis": "No invented humidity percentage on the mattress"
+            }
+          ],
+          "card": "HUMIDITY TENDS TO BE HIGHER WHERE PEOPLE SLEEP AND LOUNGE",
+          "_t": 68.8,
+          "_dur": 6.79,
+          "_beats": ""
+        },
+        {
+          "id": "s1.l4",
+          "say": "Mattresses, sofas, carpet, and other soft furnishings trap and accumulate dust, dander, and moisture, making them ideal microhabitats for mite development.",
+          "src": "DM4",
+          "source_tag": "University of Kentucky",
+          "vis": "Dust and dander settling into a mattress, a sofa, and carpet / Chip: TRAP AND ACCUMULATE DUST, DANDER, AND MOISTURE",
+          "shots": [
+            {
+              "t": 75.6,
+              "dur": 1.62,
+              "vis": "Dust and dander settling into a mattress, a sofa, and carpet"
+            },
+            {
+              "t": 77.2,
+              "dur": 1.62,
+              "vis": "Dust and dander settling into a mattress, a sofa, and carpet"
+            },
+            {
+              "t": 78.8,
+              "dur": 1.62,
+              "vis": "Chip: TRAP AND ACCUMULATE DUST, DANDER, AND MOISTURE"
+            },
+            {
+              "t": 80.4,
+              "dur": 1.62,
+              "vis": "Chip: TRAP AND ACCUMULATE DUST, DANDER, AND MOISTURE"
+            }
+          ],
+          "card": "MATTRESSES, SOFAS, CARPET: IDEAL MICROHABITATS",
+          "_t": 75.6,
+          "_dur": 6.48,
+          "_beats": ""
+        },
+        {
+          "id": "s1.l5",
+          "say": "Dust mites can live in bedding, mattresses, upholstered furniture, carpets and curtains.",
+          "src": "DM5",
+          "source_tag": "American Lung Association",
+          "vis": "Icons: bedding, a mattress, a chair, a carpet, a curtain / Chip: CAN LIVE / Tag stays American Lung Association",
+          "shots": [
+            {
+              "t": 82.0,
+              "dur": 1.23,
+              "vis": "Icons: bedding, a mattress, a chair, a carpet, a curtain"
+            },
+            {
+              "t": 83.3,
+              "dur": 1.23,
+              "vis": "Chip: CAN LIVE"
+            },
+            {
+              "t": 84.5,
+              "dur": 1.23,
+              "vis": "Tag stays American Lung Association"
+            }
+          ],
+          "card": "CAN LIVE IN BEDDING, MATTRESSES, UPHOLSTERED FURNITURE, CARPETS AND CURTAINS",
+          "_t": 82.0,
+          "_dur": 3.7,
+          "_beats": ""
+        },
+        {
+          "id": "s1.l6",
+          "say": "A different official page adds pillows, clothes, stuffed toys, fabric, and fabric-covered items.",
+          "src": "DM6",
+          "source_tag": "EPA",
+          "vis": "Icons added: a pillow, clothes, a stuffed toy, fabric / The ALA list stays on the left, not merged into one official list / Tag stays EPA",
+          "shots": [
+            {
+              "t": 85.7,
+              "dur": 1.34,
+              "vis": "Icons added: a pillow, clothes, a stuffed toy, fabric"
+            },
+            {
+              "t": 87.1,
+              "dur": 1.34,
+              "vis": "The ALA list stays on the left, not merged into one official list"
+            },
+            {
+              "t": 88.4,
+              "dur": 1.34,
+              "vis": "Tag stays EPA"
+            }
+          ],
+          "card": "A DIFFERENT PAGE ALSO LISTS PILLOWS, CLOTHES, STUFFED TOYS, AND FABRIC",
+          "_t": 85.7,
+          "_dur": 4.01,
+          "_beats": ""
+        },
+        {
+          "id": "s1.l7",
+          "say": "Dust mites are tiny bugs that are too small to see.",
+          "src": "DM6",
+          "source_tag": "EPA",
+          "vis": "A mite stays below the scale of a naked-eye view / Chip: TOO SMALL TO SEE; EPA'S WORDING / The 0.5 mm / microscope card stays nearby, tagged University of Kentucky, not treated as a fight",
+          "shots": [
+            {
+              "t": 89.8,
+              "dur": 1.13,
+              "vis": "A mite stays below the scale of a naked-eye view"
+            },
+            {
+              "t": 90.9,
+              "dur": 1.13,
+              "vis": "Chip: TOO SMALL TO SEE; EPA'S WORDING"
+            },
+            {
+              "t": 92.0,
+              "dur": 1.13,
+              "vis": "The 0.5 mm / microscope card stays nearby, tagged University of Kentucky, not treated as a fight"
+            }
+          ],
+          "card": "TOO SMALL TO SEE",
+          "_t": 89.8,
+          "_dur": 3.39,
+          "_beats": ""
+        },
+        {
+          "id": "s1.l8",
+          "say": "Meatball patted a pillow. Noodle took the pillow.",
+          "vis": "Meatball pats a throw pillow / Noodle walks off with the pillow",
+          "shots": [
+            {
+              "t": 93.2,
+              "dur": 1.23,
+              "vis": "Meatball pats a throw pillow"
+            },
+            {
+              "t": 94.4,
+              "dur": 1.23,
+              "vis": "Noodle walks off with the pillow"
+            }
+          ],
+          "_t": 93.2,
+          "_dur": 2.47,
+          "_beats": "CJ"
+        }
+      ],
+      "_midroll_after": {
+        "type": "alt",
+        "at": 95.8,
+        "note": "Break in the 0.3 s gap after this chapter's last line, before the next voiced chapter line. Never mid-sentence, never on a safety line, never mid-joke."
+      }
+    },
+    {
+      "chapter": "2. What you eat",
+      "chip": "2 OF 8",
+      "_start": 95.9,
+      "lines": [
+        {
+          "id": "s2.l0",
+          "say": "Number two. What you eat.",
+          "vis": "Voiced number card over house dust on a mattress",
+          "shots": [
+            {
+              "t": 95.9,
+              "dur": 1.54,
+              "vis": "Voiced number card over house dust on a mattress"
+            }
+          ],
+          "card": "2 OF 8: WHAT YOU EAT",
+          "_t": 95.9,
+          "_dur": 1.54,
+          "_beats": ""
+        },
+        {
+          "id": "s2.l1",
+          "say": "Your primary food is skin scales, or dander, contained in house dust.",
+          "src": "DM7",
+          "source_tag": "University of Kentucky",
+          "vis": "Skin scales in house dust on a mattress / Chip: PRIMARY FOOD, not 'they eat you'",
+          "shots": [
+            {
+              "t": 97.5,
+              "dur": 1.85,
+              "vis": "Skin scales in house dust on a mattress"
+            },
+            {
+              "t": 99.3,
+              "dur": 1.85,
+              "vis": "Chip: PRIMARY FOOD, not 'they eat you'"
+            }
+          ],
+          "card": "PRIMARY FOOD: SKIN SCALES (DANDER) IN HOUSE DUST",
+          "_t": 97.5,
+          "_dur": 3.7,
+          "_beats": "P"
+        },
+        {
+          "id": "s2.l2",
+          "say": "House dust mites are typically found on the floors, mattresses, rugs, or infesting dried stored products, where they feed on micro molds that develop on skin scales and foods.",
+          "src": "DM7",
+          "source_tag": "University of Kentucky",
+          "vis": "A floor, a mattress, a rug, then a dried stored product / Micro molds on skin scales and on foods / Chip: MICRO MOLDS THAT DEVELOP ON SKIN SCALES AND FOODS, not 'they only eat mold'",
+          "shots": [
+            {
+              "t": 101.2,
+              "dur": 1.79,
+              "vis": "A floor, a mattress, a rug, then a dried stored product"
+            },
+            {
+              "t": 103.0,
+              "dur": 1.79,
+              "vis": "A floor, a mattress, a rug, then a dried stored product"
+            },
+            {
+              "t": 104.7,
+              "dur": 1.79,
+              "vis": "Micro molds on skin scales and on foods"
+            },
+            {
+              "t": 106.5,
+              "dur": 1.79,
+              "vis": "Micro molds on skin scales and on foods"
+            },
+            {
+              "t": 108.3,
+              "dur": 1.79,
+              "vis": "Chip: MICRO MOLDS THAT DEVELOP ON SKIN SCALES AND FOODS, not 'they only eat mold'"
+            }
+          ],
+          "card": "THEY FEED ON MICRO MOLDS THAT DEVELOP ON SKIN SCALES AND FOODS",
+          "_t": 101.2,
+          "_dur": 8.95,
+          "_beats": ""
+        },
+        {
+          "id": "s2.l3",
+          "say": "They are not parasitic, and they are not capable of biting or stinging humans.",
+          "src": "DM8",
+          "source_tag": "University of Kentucky",
+          "vis": "Card, large: THEY DO NOT BITE / Chip: NOT PARASITIC; NOT CAPABLE OF BITING OR STINGING / No other-pest or face-mite imagery",
+          "shots": [
+            {
+              "t": 110.1,
+              "dur": 1.44,
+              "vis": "Card, large: THEY DO NOT BITE"
+            },
+            {
+              "t": 111.6,
+              "dur": 1.44,
+              "vis": "Chip: NOT PARASITIC; NOT CAPABLE OF BITING OR STINGING"
+            },
+            {
+              "t": 113.0,
+              "dur": 1.44,
+              "vis": "No other-pest or face-mite imagery"
+            }
+          ],
+          "card": "NOT PARASITIC; NOT CAPABLE OF BITING OR STINGING HUMANS",
+          "_t": 110.1,
+          "_dur": 4.32,
+          "_beats": "P"
+        },
+        {
+          "id": "s2.l4",
+          "say": "A different official page says they are not parasites that bite, sting, or burrow into our bodies.",
+          "src": "DM9",
+          "source_tag": "American Lung Association",
+          "vis": "Card: NOT PARASITES THAT BITE, STING, OR BURROW INTO OUR BODIES / Tag stays American Lung Association / Chip: DO NOT UPGRADE 'INSECT-LIKE' TO 'INSECTS' if that wording appears on a card",
+          "shots": [
+            {
+              "t": 114.4,
+              "dur": 1.75,
+              "vis": "Card: NOT PARASITES THAT BITE, STING, OR BURROW INTO OUR BODIES"
+            },
+            {
+              "t": 116.2,
+              "dur": 1.75,
+              "vis": "Tag stays American Lung Association"
+            },
+            {
+              "t": 117.9,
+              "dur": 1.75,
+              "vis": "Chip: DO NOT UPGRADE 'INSECT-LIKE' TO 'INSECTS' if that wording appears on a card"
+            }
+          ],
+          "card": "A DIFFERENT PAGE: NOT PARASITES THAT BITE, STING, OR BURROW",
+          "_t": 114.4,
+          "_dur": 5.24,
+          "_beats": "P"
+        },
+        {
+          "id": "s2.l5",
+          "say": "Their significance as pests is due to the powerful allergens contained in the mites, their cast skins, fecal material and secretions.",
+          "src": "DM8",
+          "source_tag": "University of Kentucky",
+          "vis": "Icons: a mite, a cast skin, fecal material, secretions / Chip: SIGNIFICANCE AS PESTS IS THE ALLERGENS",
+          "shots": [
+            {
+              "t": 119.7,
+              "dur": 1.62,
+              "vis": "Icons: a mite, a cast skin, fecal material, secretions"
+            },
+            {
+              "t": 121.3,
+              "dur": 1.62,
+              "vis": "Icons: a mite, a cast skin, fecal material, secretions"
+            },
+            {
+              "t": 122.9,
+              "dur": 1.62,
+              "vis": "Chip: SIGNIFICANCE AS PESTS IS THE ALLERGENS"
+            },
+            {
+              "t": 124.5,
+              "dur": 1.62,
+              "vis": "Chip: SIGNIFICANCE AS PESTS IS THE ALLERGENS"
+            }
+          ],
+          "card": "THE ALLERGENS ARE IN THE MITES, CAST SKINS, FECAL MATERIAL AND SECRETIONS",
+          "_t": 119.7,
+          "_dur": 6.48,
+          "_beats": ""
+        },
+        {
+          "id": "s2.l6",
+          "say": "People who are allergic are reacting to inhaling proteins in dust that comes from dust mite feces, urine, or decaying bodies.",
+          "src": "DM9",
+          "source_tag": "American Lung Association",
+          "vis": "Airborne dust being inhaled / Chip: PEOPLE WHO ARE ALLERGIC / Chip: FECES, URINE, OR DECAYING BODIES",
+          "shots": [
+            {
+              "t": 126.2,
+              "dur": 1.62,
+              "vis": "Airborne dust being inhaled"
+            },
+            {
+              "t": 127.8,
+              "dur": 1.62,
+              "vis": "Airborne dust being inhaled"
+            },
+            {
+              "t": 129.4,
+              "dur": 1.62,
+              "vis": "Chip: PEOPLE WHO ARE ALLERGIC"
+            },
+            {
+              "t": 131.0,
+              "dur": 1.62,
+              "vis": "Chip: FECES, URINE, OR DECAYING BODIES"
+            }
+          ],
+          "card": "PEOPLE WHO ARE ALLERGIC: PROTEINS IN DUST FROM FECES, URINE, OR DECAYING BODIES",
+          "_t": 126.2,
+          "_dur": 6.48,
+          "_beats": ""
+        },
+        {
+          "id": "s2.l7",
+          "say": "A different official page calls them microscopic animals that feed on human skin scales, and live in bedding, carpets, stuffed furniture, old clothing and stuffed toys.",
+          "src": "DM10",
+          "source_tag": "National Jewish Health",
+          "vis": "Tag stays National Jewish Health / Chip: MICROSCOPIC ANIMALS / Icons: bedding, carpets, stuffed furniture, old clothing, stuffed toys / No National Jewish egg count on this card",
+          "shots": [
+            {
+              "t": 132.6,
+              "dur": 1.6,
+              "vis": "Tag stays National Jewish Health"
+            },
+            {
+              "t": 134.2,
+              "dur": 1.6,
+              "vis": "Tag stays National Jewish Health"
+            },
+            {
+              "t": 135.8,
+              "dur": 1.6,
+              "vis": "Chip: MICROSCOPIC ANIMALS"
+            },
+            {
+              "t": 137.4,
+              "dur": 1.6,
+              "vis": "Icons: bedding, carpets, stuffed furniture, old clothing, stuffed toys"
+            },
+            {
+              "t": 139.0,
+              "dur": 1.6,
+              "vis": "No National Jewish egg count on this card"
+            }
+          ],
+          "card": "A DIFFERENT PAGE: MICROSCOPIC ANIMALS; BEDDING, CARPETS, STUFFED FURNITURE, OLD CLOTHING, STUFFED TOYS",
+          "_t": 132.6,
+          "_dur": 8.02,
+          "_beats": ""
+        },
+        {
+          "id": "s2.l8",
+          "say": "Meatball brushed the couch. Sauce was already on the cushion.",
+          "vis": "Meatball brushes the couch cushion / Sauce is already sitting on it",
+          "shots": [
+            {
+              "t": 140.7,
+              "dur": 1.54,
+              "vis": "Meatball brushes the couch cushion"
+            },
+            {
+              "t": 142.2,
+              "dur": 1.54,
+              "vis": "Sauce is already sitting on it"
+            }
+          ],
+          "_t": 140.7,
+          "_dur": 3.08,
+          "_beats": "CJ"
+        }
+      ],
+      "_midroll_after": {
+        "type": "alt",
+        "at": 143.9,
+        "note": "Break in the 0.3 s gap after this chapter's last line, before the next voiced chapter line. Never mid-sentence, never on a safety line, never mid-joke."
+      }
+    },
+    {
+      "chapter": "3. Heat and humidity",
+      "chip": "3 OF 8",
+      "_start": 144.0,
+      "lines": [
+        {
+          "id": "s3.l0",
+          "say": "Number three. Heat and humidity.",
+          "vis": "Voiced number card over a warm, humid bedroom, no thermostat-treatment graphic",
+          "shots": [
+            {
+              "t": 144.0,
+              "dur": 1.54,
+              "vis": "Voiced number card over a warm, humid bedroom, no thermostat-treatment graphic"
+            }
+          ],
+          "card": "3 OF 8: HEAT AND HUMIDITY",
+          "_t": 144.0,
+          "_dur": 1.54,
+          "_beats": ""
+        },
+        {
+          "id": "s3.l1",
+          "say": "The mites tend to be most numerous in warm homes with high humidity.",
+          "src": "DM11",
+          "source_tag": "University of Kentucky",
+          "vis": "A warm home, condensation on a window / Chip: TEND TO BE MOST NUMEROUS",
+          "shots": [
+            {
+              "t": 145.6,
+              "dur": 1.34,
+              "vis": "A warm home, condensation on a window"
+            },
+            {
+              "t": 146.9,
+              "dur": 1.34,
+              "vis": "A warm home, condensation on a window"
+            },
+            {
+              "t": 148.3,
+              "dur": 1.34,
+              "vis": "Chip: TEND TO BE MOST NUMEROUS"
+            }
+          ],
+          "card": "TEND TO BE MOST NUMEROUS IN WARM HOMES WITH HIGH HUMIDITY",
+          "_t": 145.6,
+          "_dur": 4.01,
+          "_beats": ""
+        },
+        {
+          "id": "s3.l2",
+          "say": "Optimum conditions for growth and development are around 75 to 80 degrees Fahrenheit, and 70 to 80 percent relative humidity.",
+          "src": "DM11",
+          "source_tag": "University of Kentucky",
+          "vis": "A temperature band: AROUND 75 TO 80 F / A humidity band: 70 TO 80 PERCENT RH / Chip: OPTIMUM; AROUND, not a single fixed temperature",
+          "shots": [
+            {
+              "t": 149.6,
+              "dur": 1.54,
+              "vis": "A temperature band: AROUND 75 TO 80 F"
+            },
+            {
+              "t": 151.1,
+              "dur": 1.54,
+              "vis": "A temperature band: AROUND 75 TO 80 F"
+            },
+            {
+              "t": 152.7,
+              "dur": 1.54,
+              "vis": "A humidity band: 70 TO 80 PERCENT RH"
+            },
+            {
+              "t": 154.2,
+              "dur": 1.54,
+              "vis": "Chip: OPTIMUM; AROUND, not a single fixed temperature"
+            }
+          ],
+          "card": "OPTIMUM: AROUND 75 TO 80 F, AND 70 TO 80 PERCENT RH",
+          "_t": 149.6,
+          "_dur": 6.17,
+          "_beats": "P"
+        },
+        {
+          "id": "s3.l3",
+          "say": "House dust mites absorb and lose moisture through their skin, and are very vulnerable to dehydration.",
+          "src": "DM11",
+          "source_tag": "University of Kentucky",
+          "vis": "Moisture moving through a mite's skin / Chip: VERY VULNERABLE TO DEHYDRATION",
+          "shots": [
+            {
+              "t": 155.8,
+              "dur": 1.65,
+              "vis": "Moisture moving through a mite's skin"
+            },
+            {
+              "t": 157.4,
+              "dur": 1.65,
+              "vis": "Moisture moving through a mite's skin"
+            },
+            {
+              "t": 159.0,
+              "dur": 1.65,
+              "vis": "Chip: VERY VULNERABLE TO DEHYDRATION"
+            }
+          ],
+          "card": "ABSORB AND LOSE MOISTURE THROUGH THEIR SKIN; VERY VULNERABLE TO DEHYDRATION",
+          "_t": 155.8,
+          "_dur": 4.94,
+          "_beats": ""
+        },
+        {
+          "id": "s3.l4",
+          "say": "Some species of house dust mites require a high relative humidity ranging from 70 to 80 percent, whereas others can survive in lower levels, between 50 and 60 percent.",
+          "src": "DM12",
+          "source_tag": "University of Kentucky",
+          "vis": "Two species bars: 70 TO 80 PERCENT, and CAN SURVIVE 50 TO 60 PERCENT / Chip: SOME SPECIES; OTHERS CAN SURVIVE / This is why 50 percent is a hedge, not a hard kill switch",
+          "shots": [
+            {
+              "t": 160.7,
+              "dur": 1.79,
+              "vis": "Two species bars: 70 TO 80 PERCENT, and CAN SURVIVE 50 TO 60 PERCENT"
+            },
+            {
+              "t": 162.5,
+              "dur": 1.79,
+              "vis": "Two species bars: 70 TO 80 PERCENT, and CAN SURVIVE 50 TO 60 PERCENT"
+            },
+            {
+              "t": 164.3,
+              "dur": 1.79,
+              "vis": "Chip: SOME SPECIES; OTHERS CAN SURVIVE"
+            },
+            {
+              "t": 166.1,
+              "dur": 1.79,
+              "vis": "Chip: SOME SPECIES; OTHERS CAN SURVIVE"
+            },
+            {
+              "t": 167.9,
+              "dur": 1.79,
+              "vis": "This is why 50 percent is a hedge, not a hard kill switch"
+            }
+          ],
+          "card": "SOME SPECIES: 70 TO 80 PERCENT; OTHERS CAN SURVIVE 50 TO 60 PERCENT",
+          "_t": 160.7,
+          "_dur": 8.95,
+          "_beats": "P"
+        },
+        {
+          "id": "s3.l5",
+          "say": "Dust mites cannot survive well at relative humidities below 50 percent.",
+          "src": "DM12",
+          "source_tag": "University of Kentucky",
+          "vis": "Card, large: CANNOT SURVIVE WELL / Chip: BELOW 50 PERCENT / Chip: NOT 'ALL DIE AT 50 PERCENT'",
+          "shots": [
+            {
+              "t": 169.6,
+              "dur": 1.13,
+              "vis": "Card, large: CANNOT SURVIVE WELL"
+            },
+            {
+              "t": 170.8,
+              "dur": 1.13,
+              "vis": "Chip: BELOW 50 PERCENT"
+            },
+            {
+              "t": 171.9,
+              "dur": 1.13,
+              "vis": "Chip: NOT 'ALL DIE AT 50 PERCENT'"
+            }
+          ],
+          "card": "CANNOT SURVIVE WELL AT RELATIVE HUMIDITIES BELOW 50 PERCENT",
+          "_t": 169.6,
+          "_dur": 3.39,
+          "_beats": "P"
+        },
+        {
+          "id": "s3.l6",
+          "say": "House dust mites have a difficult time surviving when the relative humidity is below 50 percent.",
+          "src": "DM12",
+          "source_tag": "University of Kentucky",
+          "vis": "Chip: HAVE A DIFFICULT TIME SURVIVING, the same page's other wording / Chip: BELOW 50 PERCENT",
+          "shots": [
+            {
+              "t": 173.0,
+              "dur": 1.65,
+              "vis": "Chip: HAVE A DIFFICULT TIME SURVIVING, the same page's other wording"
+            },
+            {
+              "t": 174.7,
+              "dur": 1.65,
+              "vis": "Chip: HAVE A DIFFICULT TIME SURVIVING, the same page's other wording"
+            },
+            {
+              "t": 176.3,
+              "dur": 1.65,
+              "vis": "Chip: BELOW 50 PERCENT"
+            }
+          ],
+          "card": "HAVE A DIFFICULT TIME SURVIVING WHEN RELATIVE HUMIDITY IS BELOW 50 PERCENT",
+          "_t": 173.0,
+          "_dur": 4.94,
+          "_beats": ""
+        },
+        {
+          "id": "s3.l7",
+          "say": "Although mite populations tend to be low in dry climates, most homes throughout the United States are capable of supporting dust mites.",
+          "src": "DM13",
+          "source_tag": "University of Kentucky",
+          "vis": "A dry-climate house with a low population bar / Most U.S. homes, capable of supporting dust mites / Chip: TEND TO BE LOW IN DRY CLIMATES, not 'dry states have none'",
+          "shots": [
+            {
+              "t": 178.0,
+              "dur": 1.7,
+              "vis": "A dry-climate house with a low population bar"
+            },
+            {
+              "t": 179.7,
+              "dur": 1.7,
+              "vis": "A dry-climate house with a low population bar"
+            },
+            {
+              "t": 181.4,
+              "dur": 1.7,
+              "vis": "Most U.S. homes, capable of supporting dust mites"
+            },
+            {
+              "t": 183.1,
+              "dur": 1.7,
+              "vis": "Chip: TEND TO BE LOW IN DRY CLIMATES, not 'dry states have none'"
+            }
+          ],
+          "card": "MOST U.S. HOMES ARE CAPABLE OF SUPPORTING DUST MITES",
+          "_t": 178.0,
+          "_dur": 6.79,
+          "_beats": ""
+        },
+        {
+          "id": "s3.l8",
+          "say": "A different official page says dust mites do not drink water. Instead, they absorb moisture from the air.",
+          "src": "DM15",
+          "source_tag": "American Lung Association",
+          "vis": "No drinking droplet; moisture moves in from the air / Tag stays American Lung Association",
+          "shots": [
+            {
+              "t": 184.8,
+              "dur": 1.85,
+              "vis": "No drinking droplet; moisture moves in from the air"
+            },
+            {
+              "t": 186.6,
+              "dur": 1.85,
+              "vis": "No drinking droplet; moisture moves in from the air"
+            },
+            {
+              "t": 188.5,
+              "dur": 1.85,
+              "vis": "Tag stays American Lung Association"
+            }
+          ],
+          "card": "THEY DO NOT DRINK WATER; THEY ABSORB MOISTURE FROM THE AIR",
+          "_t": 184.8,
+          "_dur": 5.55,
+          "_beats": ""
+        },
+        {
+          "id": "s3.l9",
+          "say": "When indoor air is very dry, dust mites cannot survive.",
+          "src": "DM15",
+          "source_tag": "American Lung Association",
+          "vis": "Very dry indoor air / Chip: VERY DRY is not given as a percentage on this page / The below-50-percent action line stays a separate official line",
+          "shots": [
+            {
+              "t": 190.3,
+              "dur": 1.03,
+              "vis": "Very dry indoor air"
+            },
+            {
+              "t": 191.3,
+              "dur": 1.03,
+              "vis": "Chip: VERY DRY is not given as a percentage on this page"
+            },
+            {
+              "t": 192.4,
+              "dur": 1.03,
+              "vis": "The below-50-percent action line stays a separate official line"
+            }
+          ],
+          "card": "WHEN INDOOR AIR IS VERY DRY, DUST MITES CANNOT SURVIVE",
+          "_t": 190.3,
+          "_dur": 3.08,
+          "_beats": ""
+        },
+        {
+          "id": "s3.l10",
+          "say": "Meatball watched a humidity gauge. Sauce sat in front of it. Damn.",
+          "vis": "Meatball looks at a small humidity gauge / Sauce sits down in front of it",
+          "shots": [
+            {
+              "t": 193.4,
+              "dur": 1.85,
+              "vis": "Meatball looks at a small humidity gauge"
+            },
+            {
+              "t": 195.2,
+              "dur": 1.85,
+              "vis": "Sauce sits down in front of it"
+            }
+          ],
+          "_t": 193.4,
+          "_dur": 3.7,
+          "_beats": "CJS"
+        }
+      ],
+      "_midroll_after": {
+        "type": "primary",
+        "at": 197.2,
+        "note": "Break in the 0.3 s gap after this chapter's last line, before the next voiced chapter line. Never mid-sentence, never on a safety line, never mid-joke."
+      }
+    },
+    {
+      "chapter": "4. The eggs",
+      "chip": "4 OF 8",
+      "_start": 197.4,
+      "lines": [
+        {
+          "id": "s4.l0",
+          "say": "Number four. The eggs.",
+          "vis": "Voiced number card over dust-mite eggs, not labeled as 'in your bed'",
+          "shots": [
+            {
+              "t": 197.4,
+              "dur": 1.23,
+              "vis": "Voiced number card over dust-mite eggs, not labeled as 'in your bed'"
+            }
+          ],
+          "card": "4 OF 8: THE EGGS",
+          "_t": 197.4,
+          "_dur": 1.23,
+          "_beats": ""
+        },
+        {
+          "id": "s4.l1",
+          "say": "House dust mites go through five major life stages: egg, larva, protonymph, tritonymph, and adult.",
+          "src": "DM17",
+          "source_tag": "University of Kentucky",
+          "vis": "Five stage tiles land in order / Chip: HOUSE DUST MITES, not a farinae-only count / Protonymph and tritonymph stay on the card",
+          "shots": [
+            {
+              "t": 198.6,
+              "dur": 1.54,
+              "vis": "Five stage tiles land in order"
+            },
+            {
+              "t": 200.2,
+              "dur": 1.54,
+              "vis": "Chip: HOUSE DUST MITES, not a farinae-only count"
+            },
+            {
+              "t": 201.7,
+              "dur": 1.54,
+              "vis": "Protonymph and tritonymph stay on the card"
+            }
+          ],
+          "card": "FIVE MAJOR LIFE STAGES: EGG, LARVA, PROTONYMPH, TRITONYMPH, ADULT",
+          "_t": 198.6,
+          "_dur": 4.63,
+          "_beats": "P"
+        },
+        {
+          "id": "s4.l2",
+          "say": "Between life stages the mites molt, shedding their outer skin.",
+          "src": "DM17",
+          "source_tag": "University of Kentucky",
+          "vis": "A mite shedding its outer skin",
+          "shots": [
+            {
+              "t": 203.3,
+              "dur": 1.54,
+              "vis": "A mite shedding its outer skin"
+            },
+            {
+              "t": 204.8,
+              "dur": 1.54,
+              "vis": "A mite shedding its outer skin"
+            }
+          ],
+          "card": "BETWEEN STAGES THEY MOLT, SHEDDING THEIR OUTER SKIN",
+          "_t": 203.3,
+          "_dur": 3.08,
+          "_beats": ""
+        },
+        {
+          "id": "s4.l3",
+          "say": "When temperature and humidity are optimum, development from egg to adult takes about one month.",
+          "src": "DM17",
+          "source_tag": "University of Kentucky",
+          "vis": "A one-month bar / Chip: WHEN TEMPERATURE AND HUMIDITY ARE OPTIMUM / Chip: ABOUT ONE MONTH, not 'they grow up in a month' without the condition",
+          "shots": [
+            {
+              "t": 206.3,
+              "dur": 1.54,
+              "vis": "A one-month bar"
+            },
+            {
+              "t": 207.9,
+              "dur": 1.54,
+              "vis": "Chip: WHEN TEMPERATURE AND HUMIDITY ARE OPTIMUM"
+            },
+            {
+              "t": 209.4,
+              "dur": 1.54,
+              "vis": "Chip: ABOUT ONE MONTH, not 'they grow up in a month' without the condition"
+            }
+          ],
+          "card": "EGG TO ADULT: ABOUT ONE MONTH, WHEN TEMPERATURE AND HUMIDITY ARE OPTIMUM",
+          "_t": 206.3,
+          "_dur": 4.63,
+          "_beats": "P"
+        },
+        {
+          "id": "s4.l4",
+          "say": "Adults live approximately one to two months, and the females lay about 50 eggs.",
+          "src": "DM18",
+          "source_tag": "University of Kentucky",
+          "vis": "An adult lifespan bar: APPROXIMATELY 1 TO 2 MONTHS / Chip: ABOUT 50 EGGS, not exactly 50 / Chip: HOUSE DUST MITES GENERALLY, not a named farinae-only count / No 'in your bed' on this card",
+          "shots": [
+            {
+              "t": 211.0,
+              "dur": 1.08,
+              "vis": "An adult lifespan bar: APPROXIMATELY 1 TO 2 MONTHS"
+            },
+            {
+              "t": 212.0,
+              "dur": 1.08,
+              "vis": "Chip: ABOUT 50 EGGS, not exactly 50"
+            },
+            {
+              "t": 213.1,
+              "dur": 1.08,
+              "vis": "Chip: HOUSE DUST MITES GENERALLY, not a named farinae-only count"
+            },
+            {
+              "t": 214.2,
+              "dur": 1.08,
+              "vis": "No 'in your bed' on this card"
+            }
+          ],
+          "card": "ADULTS: APPROXIMATELY 1 TO 2 MONTHS; FEMALES LAY ABOUT 50 EGGS",
+          "_t": 211.0,
+          "_dur": 4.32,
+          "_beats": "P"
+        },
+        {
+          "id": "s4.l5",
+          "say": "That egg count is not a sentence about where they live. The beds, sofas, chairs, and adjacent carpet are a different line.",
+          "src": "DM18, DM3",
+          "source_tag": "University of Kentucky",
+          "vis": "The ABOUT 50 EGGS card stays on the left / The TEND TO BE MOST NUMEROUS IN BEDS, SOFAS, CHAIRS, AND ADJACENT CARPET card stays on the right / A line between them",
+          "shots": [
+            {
+              "t": 215.3,
+              "dur": 1.7,
+              "vis": "The ABOUT 50 EGGS card stays on the left"
+            },
+            {
+              "t": 217.0,
+              "dur": 1.7,
+              "vis": "The ABOUT 50 EGGS card stays on the left"
+            },
+            {
+              "t": 218.7,
+              "dur": 1.7,
+              "vis": "The TEND TO BE MOST NUMEROUS IN BEDS, SOFAS, CHAIRS, AND ADJACENT CARPET card stays on the right"
+            },
+            {
+              "t": 220.4,
+              "dur": 1.7,
+              "vis": "A line between them"
+            }
+          ],
+          "card": "DO NOT MERGE ABOUT 50 EGGS WITH 'MOST NUMEROUS IN BEDS'",
+          "_t": 215.3,
+          "_dur": 6.79,
+          "_beats": "P"
+        },
+        {
+          "id": "s4.l6",
+          "say": "Those life-cycle figures are for house dust mites generally, not one species only.",
+          "src": "DM2, DM18",
+          "source_tag": "University of Kentucky",
+          "vis": "Chip: HOUSE DUST MITES GENERALLY, NOT ONE SPECIES ONLY",
+          "shots": [
+            {
+              "t": 222.1,
+              "dur": 1.34,
+              "vis": "Chip: HOUSE DUST MITES GENERALLY, NOT ONE SPECIES ONLY"
+            },
+            {
+              "t": 223.4,
+              "dur": 1.34,
+              "vis": "Chip: HOUSE DUST MITES GENERALLY, NOT ONE SPECIES ONLY"
+            },
+            {
+              "t": 224.7,
+              "dur": 1.34,
+              "vis": "Chip: HOUSE DUST MITES GENERALLY, NOT ONE SPECIES ONLY"
+            }
+          ],
+          "card": "LIFE-CYCLE FIGURES: HOUSE DUST MITES GENERALLY",
+          "_t": 222.1,
+          "_dur": 4.01,
+          "_beats": ""
+        },
+        {
+          "id": "s4.l7",
+          "say": "Every home has dust mites.",
+          "src": "DM6",
+          "source_tag": "EPA",
+          "vis": "Card: EVERY HOME HAS DUST MITES / Tag stays EPA / This line stays alone, not blended with almost every home or 4 out of 5",
+          "shots": [
+            {
+              "t": 226.1,
+              "dur": 1.54,
+              "vis": "Card: EVERY HOME HAS DUST MITES; then Tag stays EPA; then This line stays alone, not blended with almost every home or 4 out of 5"
+            }
+          ],
+          "card": "EVERY HOME HAS DUST MITES",
+          "_t": 226.1,
+          "_dur": 1.54,
+          "_beats": "P"
+        },
+        {
+          "id": "s4.l8",
+          "say": "A different official page says dust mites are common and can be found in almost every home.",
+          "src": "DM5",
+          "source_tag": "American Lung Association",
+          "vis": "Card: ALMOST EVERY HOME / Tag stays American Lung Association / The EPA 'every home' card stays separate",
+          "shots": [
+            {
+              "t": 227.6,
+              "dur": 1.75,
+              "vis": "Card: ALMOST EVERY HOME"
+            },
+            {
+              "t": 229.4,
+              "dur": 1.75,
+              "vis": "Tag stays American Lung Association"
+            },
+            {
+              "t": 231.1,
+              "dur": 1.75,
+              "vis": "The EPA 'every home' card stays separate"
+            }
+          ],
+          "card": "A DIFFERENT PAGE: ALMOST EVERY HOME",
+          "_t": 227.6,
+          "_dur": 5.24,
+          "_beats": ""
+        },
+        {
+          "id": "s4.l9",
+          "say": "About 4 out of 5 homes in the United States have dust mite allergens in at least one bed.",
+          "src": "DM5",
+          "source_tag": "American Lung Association",
+          "vis": "Chip: ABOUT 4 OUT OF 5 HOMES / Chip: ALLERGENS IN AT LEAST ONE BED, not '80 percent of beds are infested' / Tag stays American Lung Association",
+          "shots": [
+            {
+              "t": 232.9,
+              "dur": 1.95,
+              "vis": "Chip: ABOUT 4 OUT OF 5 HOMES"
+            },
+            {
+              "t": 234.8,
+              "dur": 1.95,
+              "vis": "Chip: ALLERGENS IN AT LEAST ONE BED, not '80 percent of beds are infested'"
+            },
+            {
+              "t": 236.8,
+              "dur": 1.95,
+              "vis": "Tag stays American Lung Association"
+            }
+          ],
+          "card": "ABOUT 4 OUT OF 5 U.S. HOMES: ALLERGENS IN AT LEAST ONE BED",
+          "_t": 232.9,
+          "_dur": 5.86,
+          "_beats": "P"
+        },
+        {
+          "id": "s4.l10",
+          "say": "It is not uncommon to find thousands of mites in a single gram of house dust. A gram is about the weight of a paperclip.",
+          "src": "DM19",
+          "source_tag": "University of Kentucky",
+          "vis": "A small pile of house dust next to a paperclip / Chip: NOT UNCOMMON; THOUSANDS; A SINGLE GRAM / Chip: ABOUT THE WEIGHT OF A PAPERCLIP",
+          "shots": [
+            {
+              "t": 238.7,
+              "dur": 1.93,
+              "vis": "A small pile of house dust next to a paperclip"
+            },
+            {
+              "t": 240.7,
+              "dur": 1.93,
+              "vis": "A small pile of house dust next to a paperclip"
+            },
+            {
+              "t": 242.6,
+              "dur": 1.93,
+              "vis": "Chip: NOT UNCOMMON; THOUSANDS; A SINGLE GRAM"
+            },
+            {
+              "t": 244.5,
+              "dur": 1.93,
+              "vis": "Chip: ABOUT THE WEIGHT OF A PAPERCLIP"
+            }
+          ],
+          "card": "THOUSANDS IN A SINGLE GRAM OF HOUSE DUST; A GRAM IS ABOUT THE WEIGHT OF A PAPERCLIP",
+          "_t": 238.7,
+          "_dur": 7.71,
+          "_beats": "P"
+        },
+        {
+          "id": "s4.l11",
+          "say": "An infested mattress can contain millions of dust mites.",
+          "src": "DM19",
+          "source_tag": "University of Kentucky",
+          "vis": "Card, large: AN INFESTED MATTRESS CAN CONTAIN MILLIONS / Chip: INFESTED; CAN CONTAIN, not every mattress",
+          "shots": [
+            {
+              "t": 246.4,
+              "dur": 1.39,
+              "vis": "Card, large: AN INFESTED MATTRESS CAN CONTAIN MILLIONS"
+            },
+            {
+              "t": 247.8,
+              "dur": 1.39,
+              "vis": "Chip: INFESTED; CAN CONTAIN, not every mattress"
+            }
+          ],
+          "card": "AN INFESTED MATTRESS CAN CONTAIN MILLIONS",
+          "_t": 246.4,
+          "_dur": 2.78,
+          "_beats": "P"
+        },
+        {
+          "id": "s4.l12",
+          "say": "Those thousands and millions lines stay on house dust, and on an infested mattress.",
+          "src": "DM19",
+          "source_tag": "University of Kentucky",
+          "vis": "The paperclip / gram card and the infested-mattress card stay in frame / Chip: NOT EVERY MATTRESS",
+          "shots": [
+            {
+              "t": 249.2,
+              "dur": 1.44,
+              "vis": "The paperclip / gram card and the infested-mattress card stay in frame"
+            },
+            {
+              "t": 250.7,
+              "dur": 1.44,
+              "vis": "The paperclip / gram card and the infested-mattress card stay in frame"
+            },
+            {
+              "t": 252.1,
+              "dur": 1.44,
+              "vis": "Chip: NOT EVERY MATTRESS"
+            }
+          ],
+          "card": "THOUSANDS IN HOUSE DUST; MILLIONS IN AN INFESTED MATTRESS",
+          "_t": 249.2,
+          "_dur": 4.32,
+          "_beats": ""
+        },
+        {
+          "id": "s4.l13",
+          "say": "Meatball set a notepad on the armrest. Sauce sat on it.",
+          "vis": "Meatball sets a notepad on the armrest / Sauce sits on the notepad",
+          "shots": [
+            {
+              "t": 253.5,
+              "dur": 1.7,
+              "vis": "Meatball sets a notepad on the armrest"
+            },
+            {
+              "t": 255.2,
+              "dur": 1.7,
+              "vis": "Sauce sits on the notepad"
+            }
+          ],
+          "_t": 253.5,
+          "_dur": 3.39,
+          "_beats": "CJ"
+        }
+      ],
+      "_midroll_after": {
+        "type": "alt",
+        "at": 257.1,
+        "note": "Break in the 0.3 s gap after this chapter's last line, before the next voiced chapter line. Never mid-sentence, never on a safety line, never mid-joke."
+      }
+    },
+    {
+      "chapter": "Halfway",
+      "chip": "",
+      "_start": 257.2,
+      "lines": [
+        {
+          "id": "s5.l0",
+          "say": "That's four things down, and four still ahead.",
+          "vis": "Four tiles stay face up; four stay face down",
+          "shots": [
+            {
+              "t": 257.2,
+              "dur": 1.23,
+              "vis": "Four tiles stay face up; four stay face down"
+            },
+            {
+              "t": 258.5,
+              "dur": 1.23,
+              "vis": "Four tiles stay face up; four stay face down"
+            }
+          ],
+          "_t": 257.2,
+          "_dur": 2.47,
+          "_beats": "R"
+        },
+        {
+          "id": "s5.l1",
+          "say": "You've had the bed they tend to be most numerous in, the diet that does not include a bite, the damp they cannot survive well in below 50 percent, and about 50 eggs.",
+          "src": "DM3, DM8, DM12, DM18",
+          "vis": "Four callback chips: TEND TO BE MOST NUMEROUS; DO NOT BITE; CANNOT SURVIVE WELL BELOW 50 PERCENT; ABOUT 50 EGGS",
+          "shots": [
+            {
+              "t": 259.7,
+              "dur": 1.7,
+              "vis": "Four callback chips: TEND TO BE MOST NUMEROUS; DO NOT BITE; CANNOT SURVIVE WELL BELOW 50 PERCENT; ABOUT 50 EGGS"
+            },
+            {
+              "t": 261.4,
+              "dur": 1.7,
+              "vis": "Four callback chips: TEND TO BE MOST NUMEROUS; DO NOT BITE; CANNOT SURVIVE WELL BELOW 50 PERCENT; ABOUT 50 EGGS"
+            },
+            {
+              "t": 263.1,
+              "dur": 1.7,
+              "vis": "Four callback chips: TEND TO BE MOST NUMEROUS; DO NOT BITE; CANNOT SURVIVE WELL BELOW 50 PERCENT; ABOUT 50 EGGS"
+            },
+            {
+              "t": 264.8,
+              "dur": 1.7,
+              "vis": "Four callback chips: TEND TO BE MOST NUMEROUS; DO NOT BITE; CANNOT SURVIVE WELL BELOW 50 PERCENT; ABOUT 50 EGGS"
+            },
+            {
+              "t": 266.5,
+              "dur": 1.7,
+              "vis": "Four callback chips: TEND TO BE MOST NUMEROUS; DO NOT BITE; CANNOT SURVIVE WELL BELOW 50 PERCENT; ABOUT 50 EGGS"
+            },
+            {
+              "t": 268.2,
+              "dur": 1.7,
+              "vis": "Four callback chips: TEND TO BE MOST NUMEROUS; DO NOT BITE; CANNOT SURVIVE WELL BELOW 50 PERCENT; ABOUT 50 EGGS"
+            }
+          ],
+          "_t": 259.7,
+          "_dur": 10.18,
+          "_beats": "R"
+        },
+        {
+          "id": "s5.l2",
+          "say": "Meatball wants to know: which of the first four bothers you more? The bed, the diet, the damp, or the eggs? Drop the number in the comments.",
+          "vis": "Meatball looks at the camera / Comment prompt on screen: THE BED, THE DIET, THE DAMP, OR THE EGGS? DROP THE NUMBER",
+          "shots": [
+            {
+              "t": 269.9,
+              "dur": 1.67,
+              "vis": "Meatball looks at the camera"
+            },
+            {
+              "t": 271.5,
+              "dur": 1.67,
+              "vis": "Meatball looks at the camera"
+            },
+            {
+              "t": 273.2,
+              "dur": 1.67,
+              "vis": "Meatball looks at the camera"
+            },
+            {
+              "t": 274.9,
+              "dur": 1.67,
+              "vis": "Comment prompt on screen: THE BED, THE DIET, THE DAMP, OR THE EGGS? DROP THE NUMBER"
+            },
+            {
+              "t": 276.5,
+              "dur": 1.67,
+              "vis": "Comment prompt on screen: THE BED, THE DIET, THE DAMP, OR THE EGGS? DROP THE NUMBER"
+            }
+          ],
+          "_t": 269.9,
+          "_dur": 8.33,
+          "_beats": "CM"
+        },
+        {
+          "id": "s5.l3",
+          "say": "Next: a wash at least 130 F, you never really leave, the allergens, and what actually helps.",
+          "vis": "Tile 5 flips half-way: AT LEAST 130 F / Tiles 6, 7, and 8 stay face down",
+          "shots": [
+            {
+              "t": 278.2,
+              "dur": 1.75,
+              "vis": "Tile 5 flips half-way: AT LEAST 130 F"
+            },
+            {
+              "t": 280.0,
+              "dur": 1.75,
+              "vis": "Tile 5 flips half-way: AT LEAST 130 F"
+            },
+            {
+              "t": 281.7,
+              "dur": 1.75,
+              "vis": "Tiles 6, 7, and 8 stay face down"
+            }
+          ],
+          "_t": 278.2,
+          "_dur": 5.24,
+          "_beats": "R"
+        }
+      ]
+    },
+    {
+      "chapter": "5. The wash at least 130 F",
+      "chip": "5 OF 8",
+      "_start": 283.8,
+      "lines": [
+        {
+          "id": "s6.l0",
+          "say": "Number five. The wash at least 130 F.",
+          "vis": "Voiced number card over bedding going into a wash, with AT LEAST 130 F on the card",
+          "shots": [
+            {
+              "t": 283.8,
+              "dur": 1.23,
+              "vis": "Voiced number card over bedding going into a wash, with AT LEAST 130 F on the card"
+            },
+            {
+              "t": 285.0,
+              "dur": 1.23,
+              "vis": "Voiced number card over bedding going into a wash, with AT LEAST 130 F on the card"
+            }
+          ],
+          "card": "5 OF 8: THE WASH AT LEAST 130 F",
+          "_t": 283.8,
+          "_dur": 2.47,
+          "_beats": ""
+        },
+        {
+          "id": "s6.l1",
+          "say": "Wash all sheets, blankets, pillowcases and bedcovers in hot water that is at least 130 degrees Fahrenheit, 54.4 degrees Celsius, to kill dust mites and remove allergens.",
+          "src": "DM20",
+          "source_tag": "Mayo Clinic",
+          "vis": "Sheets, blankets, pillowcases, and bedcovers go into a wash / Chip: HOT WATER; AT LEAST 130 F (54.4 C) / Chip: TO KILL DUST MITES AND REMOVE ALLERGENS / Tag stays Mayo Clinic / No 'just wash the sheets' in cold or warm water",
+          "shots": [
+            {
+              "t": 286.2,
+              "dur": 1.67,
+              "vis": "Sheets, blankets, pillowcases, and bedcovers go into a wash"
+            },
+            {
+              "t": 287.9,
+              "dur": 1.67,
+              "vis": "Chip: HOT WATER; AT LEAST 130 F (54.4 C)"
+            },
+            {
+              "t": 289.6,
+              "dur": 1.67,
+              "vis": "Chip: TO KILL DUST MITES AND REMOVE ALLERGENS"
+            },
+            {
+              "t": 291.2,
+              "dur": 1.67,
+              "vis": "Tag stays Mayo Clinic"
+            },
+            {
+              "t": 292.9,
+              "dur": 1.67,
+              "vis": "No 'just wash the sheets' in cold or warm water"
+            }
+          ],
+          "card": "WASH ALL SHEETS, BLANKETS, PILLOWCASES AND BEDCOVERS IN HOT WATER THAT IS AT LEAST 130 F (54.4 C) TO KILL DUST MITES AND REMOVE ALLERGENS",
+          "_t": 286.2,
+          "_dur": 8.33,
+          "_beats": "P"
+        },
+        {
+          "id": "s6.l2",
+          "say": "If bedding can't be washed hot, put the items in the dryer for at least 15 minutes at a temperature above 130 degrees Fahrenheit to kill the mites.",
+          "src": "DM21",
+          "source_tag": "Mayo Clinic",
+          "vis": "Items that can't be washed hot go into a dryer / Chip: AT LEAST 15 MINUTES, not 20 minutes / Chip: ABOVE 130 F (54.4 C) / Chip: TO KILL THE MITES",
+          "shots": [
+            {
+              "t": 294.6,
+              "dur": 1.73,
+              "vis": "Items that can't be washed hot go into a dryer"
+            },
+            {
+              "t": 296.3,
+              "dur": 1.73,
+              "vis": "Items that can't be washed hot go into a dryer"
+            },
+            {
+              "t": 298.0,
+              "dur": 1.73,
+              "vis": "Chip: AT LEAST 15 MINUTES, not 20 minutes"
+            },
+            {
+              "t": 299.7,
+              "dur": 1.73,
+              "vis": "Chip: ABOVE 130 F (54.4 C)"
+            },
+            {
+              "t": 301.5,
+              "dur": 1.73,
+              "vis": "Chip: TO KILL THE MITES"
+            }
+          ],
+          "card": "IF BEDDING CAN'T BE WASHED HOT: DRYER AT LEAST 15 MINUTES ABOVE 130 F, TO KILL THE MITES",
+          "_t": 294.6,
+          "_dur": 8.64,
+          "_beats": "P"
+        },
+        {
+          "id": "s6.l3",
+          "say": "Then wash and dry the bedding to remove allergens.",
+          "src": "DM21",
+          "source_tag": "Mayo Clinic",
+          "vis": "After the dryer, the bedding is washed and dried / Chip: THEN WASH AND DRY TO REMOVE ALLERGENS / Chip: KILLING MITES AND REMOVING ALLERGENS ARE SEPARATE STEPS",
+          "shots": [
+            {
+              "t": 303.2,
+              "dur": 1.39,
+              "vis": "After the dryer, the bedding is washed and dried; then Chip: THEN WASH AND DRY TO REMOVE ALLERGENS"
+            },
+            {
+              "t": 304.6,
+              "dur": 1.39,
+              "vis": "Chip: KILLING MITES AND REMOVING ALLERGENS ARE SEPARATE STEPS"
+            }
+          ],
+          "card": "THEN WASH AND DRY THE BEDDING TO REMOVE ALLERGENS; KILLING MITES AND REMOVING ALLERGENS ARE SEPARATE STEPS",
+          "_t": 303.2,
+          "_dur": 2.78,
+          "_beats": "P"
+        },
+        {
+          "id": "s6.l4",
+          "say": "Freezing items for 24 hours if they can't be washed also can kill dust mites. But this won't remove the allergens.",
+          "src": "DM22",
+          "source_tag": "Mayo Clinic",
+          "vis": "An item that can't be washed goes into a freezer for 24 hours / Chip: CAN KILL / Chip: WON'T REMOVE THE ALLERGENS / No 'just freeze your pillows and you're done'",
+          "shots": [
+            {
+              "t": 306.0,
+              "dur": 1.62,
+              "vis": "An item that can't be washed goes into a freezer for 24 hours"
+            },
+            {
+              "t": 307.6,
+              "dur": 1.62,
+              "vis": "Chip: CAN KILL"
+            },
+            {
+              "t": 309.2,
+              "dur": 1.62,
+              "vis": "Chip: WON'T REMOVE THE ALLERGENS"
+            },
+            {
+              "t": 310.8,
+              "dur": 1.62,
+              "vis": "No 'just freeze your pillows and you're done'"
+            }
+          ],
+          "card": "FREEZING 24 HOURS CAN KILL MITES; THIS WON'T REMOVE THE ALLERGENS",
+          "_t": 306.0,
+          "_dur": 6.48,
+          "_beats": "P"
+        },
+        {
+          "id": "s6.l5",
+          "say": "Another official page says wash bedding in hot water, at least 120 degrees Fahrenheit, once a week. That is not the same as at least 130, and the two are not averaged.",
+          "src": "DM23, D1",
+          "source_tag": "American Lung Association",
+          "vis": "Two temperature cards stay separate: MAYO AT LEAST 130 F, and ALA AT LEAST 120 F ONCE A WEEK / A line between them / Chip: NOT AVERAGED / Tag stays American Lung Association",
+          "shots": [
+            {
+              "t": 312.4,
+              "dur": 1.97,
+              "vis": "Two temperature cards stay separate: MAYO AT LEAST 130 F, and ALA AT LEAST 120 F ONCE A WEEK"
+            },
+            {
+              "t": 314.4,
+              "dur": 1.97,
+              "vis": "Two temperature cards stay separate: MAYO AT LEAST 130 F, and ALA AT LEAST 120 F ONCE A WEEK"
+            },
+            {
+              "t": 316.4,
+              "dur": 1.97,
+              "vis": "A line between them"
+            },
+            {
+              "t": 318.4,
+              "dur": 1.97,
+              "vis": "Chip: NOT AVERAGED"
+            },
+            {
+              "t": 320.3,
+              "dur": 1.97,
+              "vis": "Tag stays American Lung Association"
+            }
+          ],
+          "card": "A DIFFERENT PAGE: AT LEAST 120 F, ONCE A WEEK. NOT AVERAGED WITH AT LEAST 130",
+          "_t": 312.4,
+          "_dur": 9.87,
+          "_beats": "P"
+        },
+        {
+          "id": "s6.l6",
+          "say": "These heat numbers are for laundry, and for the dryer and freezer alternatives, not a way to heat the whole house, and not a thermostat or space-heater trick.",
+          "src": "W6",
+          "source_tag": "Mayo Clinic",
+          "vis": "The wash, dryer, and freezer cards stay in frame / A whole-house thermostat and a space heater are crossed out / Chip: NOT A WAY TO HEAT THE WHOLE HOUSE / Chip: NOT A THERMOSTAT OR SPACE-HEATER TRICK / No heat numbers from any other pest appear on screen",
+          "shots": [
+            {
+              "t": 322.3,
+              "dur": 1.73,
+              "vis": "The wash, dryer, and freezer cards stay in frame"
+            },
+            {
+              "t": 324.0,
+              "dur": 1.73,
+              "vis": "A whole-house thermostat and a space heater are crossed out"
+            },
+            {
+              "t": 325.8,
+              "dur": 1.73,
+              "vis": "Chip: NOT A WAY TO HEAT THE WHOLE HOUSE"
+            },
+            {
+              "t": 327.5,
+              "dur": 1.73,
+              "vis": "Chip: NOT A THERMOSTAT OR SPACE-HEATER TRICK"
+            },
+            {
+              "t": 329.2,
+              "dur": 1.73,
+              "vis": "No heat numbers from any other pest appear on screen"
+            }
+          ],
+          "card": "LAUNDRY, DRYER, AND FREEZER NUMBERS; NOT A WHOLE-HOUSE OR THERMOSTAT TREATMENT",
+          "_t": 322.3,
+          "_dur": 8.64,
+          "_beats": "P"
+        },
+        {
+          "id": "s6.l7",
+          "say": "Meatball folded a towel. Noodle sat on the fold.",
+          "vis": "Meatball folds a towel / Noodle sits on the fold",
+          "shots": [
+            {
+              "t": 331.0,
+              "dur": 1.39,
+              "vis": "Meatball folds a towel"
+            },
+            {
+              "t": 332.3,
+              "dur": 1.39,
+              "vis": "Noodle sits on the fold"
+            }
+          ],
+          "_t": 331.0,
+          "_dur": 2.78,
+          "_beats": "CJ"
+        }
+      ]
+    },
+    {
+      "chapter": "6. You never really leave",
+      "chip": "6 OF 8",
+      "_start": 334.0,
+      "lines": [
+        {
+          "id": "s7.l0",
+          "say": "Number six. You never really leave.",
+          "vis": "Voiced number card over a house in summer and in winter",
+          "shots": [
+            {
+              "t": 334.0,
+              "dur": 1.85,
+              "vis": "Voiced number card over a house in summer and in winter"
+            }
+          ],
+          "card": "6 OF 8: YOU NEVER REALLY LEAVE",
+          "_t": 334.0,
+          "_dur": 1.85,
+          "_beats": ""
+        },
+        {
+          "id": "s7.l1",
+          "say": "House dust mites and their allergenic particles are present within homes year-round, but people tend to have fewer symptoms during the summer, perhaps because they spend more time outdoors.",
+          "src": "DM33",
+          "source_tag": "University of Kentucky",
+          "vis": "A house in winter, then the same house in summer / Chip: PRESENT WITHIN HOMES YEAR-ROUND / Chip: TEND TO HAVE FEWER SYMPTOMS DURING THE SUMMER / Chip: PERHAPS BECAUSE THEY SPEND MORE TIME OUTDOORS / Not 'they disappear in summer'",
+          "shots": [
+            {
+              "t": 335.9,
+              "dur": 1.79,
+              "vis": "A house in winter, then the same house in summer"
+            },
+            {
+              "t": 337.7,
+              "dur": 1.79,
+              "vis": "Chip: PRESENT WITHIN HOMES YEAR-ROUND"
+            },
+            {
+              "t": 339.5,
+              "dur": 1.79,
+              "vis": "Chip: TEND TO HAVE FEWER SYMPTOMS DURING THE SUMMER"
+            },
+            {
+              "t": 341.2,
+              "dur": 1.79,
+              "vis": "Chip: PERHAPS BECAUSE THEY SPEND MORE TIME OUTDOORS"
+            },
+            {
+              "t": 343.0,
+              "dur": 1.79,
+              "vis": "Not 'they disappear in summer'"
+            }
+          ],
+          "card": "PRESENT YEAR-ROUND; FEWER SYMPTOMS IN SUMMER, PERHAPS BECAUSE PEOPLE SPEND MORE TIME OUTDOORS",
+          "_t": 335.9,
+          "_dur": 8.95,
+          "_beats": "P"
+        },
+        {
+          "id": "s7.l2",
+          "say": "Adults live approximately one to two months. That is not the same as they're gone in two months.",
+          "src": "DM33, DM18",
+          "source_tag": "University of Kentucky",
+          "vis": "The 1-to-2-month adult bar / Chip: APPROXIMATELY / A 'gone in two months' idea is crossed out",
+          "shots": [
+            {
+              "t": 344.8,
+              "dur": 1.85,
+              "vis": "The 1-to-2-month adult bar"
+            },
+            {
+              "t": 346.7,
+              "dur": 1.85,
+              "vis": "Chip: APPROXIMATELY"
+            },
+            {
+              "t": 348.5,
+              "dur": 1.85,
+              "vis": "A 'gone in two months' idea is crossed out"
+            }
+          ],
+          "card": "APPROXIMATELY 1 TO 2 MONTHS, NOT 'GONE IN TWO MONTHS'",
+          "_t": 344.8,
+          "_dur": 5.55,
+          "_beats": ""
+        },
+        {
+          "id": "s7.l3",
+          "say": "Meatball opened the front door. Sauce stayed on the armrest.",
+          "vis": "Meatball opens the front door / Sauce stays on the armrest",
+          "shots": [
+            {
+              "t": 350.4,
+              "dur": 1.54,
+              "vis": "Meatball opens the front door"
+            },
+            {
+              "t": 351.9,
+              "dur": 1.54,
+              "vis": "Sauce stays on the armrest"
+            }
+          ],
+          "_t": 350.4,
+          "_dur": 3.08,
+          "_beats": "CJ"
+        }
+      ],
+      "_midroll_after": {
+        "type": "primary",
+        "at": 353.6,
+        "note": "Break in the 0.3 s gap after this chapter's last line, before the next voiced chapter line. Never mid-sentence, never on a safety line, never mid-joke."
+      }
+    },
+    {
+      "chapter": "7. What the allergens can do",
+      "chip": "7 OF 8",
+      "_start": 353.8,
+      "lines": [
+        {
+          "id": "s8.l0",
+          "say": "Number seven. What the allergens can do.",
+          "vis": "Voiced number card over still indoor air, no scare typography",
+          "shots": [
+            {
+              "t": 353.8,
+              "dur": 1.08,
+              "vis": "Voiced number card over still indoor air, no scare typography"
+            },
+            {
+              "t": 354.8,
+              "dur": 1.08,
+              "vis": "Voiced number card over still indoor air, no scare typography"
+            }
+          ],
+          "card": "7 OF 8: WHAT THE ALLERGENS CAN DO",
+          "_t": 353.8,
+          "_dur": 2.16,
+          "_beats": ""
+        },
+        {
+          "id": "s8.l1",
+          "say": "The allergenic proteins responsible for causing symptoms are contained within the mites themselves, alive or dead, their shed skins, and especially in their feces.",
+          "src": "DM27",
+          "source_tag": "University of Kentucky",
+          "vis": "Icons: a live mite, a dead mite, a shed skin, feces / Chip: ALIVE OR DEAD / Chip: ESPECIALLY IN THEIR FECES / No 'only live mites cause allergies'",
+          "shots": [
+            {
+              "t": 355.9,
+              "dur": 1.85,
+              "vis": "Icons: a live mite, a dead mite, a shed skin, feces"
+            },
+            {
+              "t": 357.8,
+              "dur": 1.85,
+              "vis": "Chip: ALIVE OR DEAD"
+            },
+            {
+              "t": 359.6,
+              "dur": 1.85,
+              "vis": "Chip: ESPECIALLY IN THEIR FECES"
+            },
+            {
+              "t": 361.5,
+              "dur": 1.85,
+              "vis": "No 'only live mites cause allergies'"
+            }
+          ],
+          "card": "ALLERGENS ARE IN THE MITES (ALIVE OR DEAD), SHED SKINS, AND ESPECIALLY FECES",
+          "_t": 355.9,
+          "_dur": 7.4,
+          "_beats": "P"
+        },
+        {
+          "id": "s8.l2",
+          "say": "Routine human activity such as housecleaning, walking or playing on carpeting, or making the bed, causes the tiny fecal particles to become airborne and inhaled.",
+          "src": "DM27",
+          "source_tag": "University of Kentucky",
+          "vis": "Someone walks on a carpet, then makes a bed / Tiny particles become airborne / Chip: ROUTINE HUMAN ACTIVITY / No 'making the bed is dangerous' scare typography",
+          "shots": [
+            {
+              "t": 363.3,
+              "dur": 1.93,
+              "vis": "Someone walks on a carpet, then makes a bed"
+            },
+            {
+              "t": 365.3,
+              "dur": 1.93,
+              "vis": "Tiny particles become airborne"
+            },
+            {
+              "t": 367.2,
+              "dur": 1.93,
+              "vis": "Chip: ROUTINE HUMAN ACTIVITY"
+            },
+            {
+              "t": 369.1,
+              "dur": 1.93,
+              "vis": "No 'making the bed is dangerous' scare typography"
+            }
+          ],
+          "card": "ROUTINE ACTIVITY CAN MAKE TINY FECAL PARTICLES AIRBORNE AND INHALED",
+          "_t": 363.3,
+          "_dur": 7.71,
+          "_beats": ""
+        },
+        {
+          "id": "s8.l3",
+          "say": "Symptoms of a house dust mite allergy include stuffy or runny nose, sneezing, coughing, or watery eyes.",
+          "src": "DM28",
+          "source_tag": "University of Kentucky",
+          "vis": "Simple symptom icons: stuffy or runny nose, sneezing, coughing, watery eyes / No death typography",
+          "shots": [
+            {
+              "t": 371.0,
+              "dur": 1.75,
+              "vis": "Simple symptom icons: stuffy or runny nose, sneezing, coughing, watery eyes"
+            },
+            {
+              "t": 372.8,
+              "dur": 1.75,
+              "vis": "Simple symptom icons: stuffy or runny nose, sneezing, coughing, watery eyes"
+            },
+            {
+              "t": 374.5,
+              "dur": 1.75,
+              "vis": "No death typography"
+            }
+          ],
+          "card": "STUFFY OR RUNNY NOSE, SNEEZING, COUGHING, OR WATERY EYES",
+          "_t": 371.0,
+          "_dur": 5.24,
+          "_beats": ""
+        },
+        {
+          "id": "s8.l4",
+          "say": "Inhalation of dust mite allergens by hypersensitive individuals can result in acute attacks of bronchial asthma, accompanied by wheezing and shortness of breath.",
+          "src": "DM28",
+          "source_tag": "University of Kentucky",
+          "vis": "Card: CAN / Chip: HYPERSENSITIVE INDIVIDUALS / Chip: ACCOMPANIED BY WHEEZING AND SHORTNESS OF BREATH / The page's 'perhaps even death' wording stays out of speech and off this card",
+          "shots": [
+            {
+              "t": 376.3,
+              "dur": 1.77,
+              "vis": "Card: CAN"
+            },
+            {
+              "t": 378.1,
+              "dur": 1.77,
+              "vis": "Chip: HYPERSENSITIVE INDIVIDUALS"
+            },
+            {
+              "t": 379.8,
+              "dur": 1.77,
+              "vis": "Chip: ACCOMPANIED BY WHEEZING AND SHORTNESS OF BREATH"
+            },
+            {
+              "t": 381.6,
+              "dur": 1.77,
+              "vis": "The page's 'perhaps even death' wording stays out of speech and off this card"
+            }
+          ],
+          "card": "HYPERSENSITIVE INDIVIDUALS: CAN RESULT IN ACUTE ATTACKS OF BRONCHIAL ASTHMA",
+          "_t": 376.3,
+          "_dur": 7.1,
+          "_beats": "P"
+        },
+        {
+          "id": "s8.l5",
+          "say": "Recent studies suggest that at least 45 percent of young people with asthma are allergic to house dust mites.",
+          "src": "DM29",
+          "source_tag": "University of Kentucky",
+          "vis": "Chip: RECENT STUDIES SUGGEST / Chip: AT LEAST 45 PERCENT / Chip: YOUNG PEOPLE WITH ASTHMA / No named study on the page; not '45 percent of people'",
+          "shots": [
+            {
+              "t": 383.4,
+              "dur": 1.47,
+              "vis": "Chip: RECENT STUDIES SUGGEST"
+            },
+            {
+              "t": 384.8,
+              "dur": 1.47,
+              "vis": "Chip: AT LEAST 45 PERCENT"
+            },
+            {
+              "t": 386.3,
+              "dur": 1.47,
+              "vis": "Chip: YOUNG PEOPLE WITH ASTHMA"
+            },
+            {
+              "t": 387.8,
+              "dur": 1.47,
+              "vis": "No named study on the page; not '45 percent of people'"
+            }
+          ],
+          "card": "RECENT STUDIES SUGGEST: AT LEAST 45 PERCENT OF YOUNG PEOPLE WITH ASTHMA",
+          "_t": 383.4,
+          "_dur": 5.86,
+          "_beats": "P"
+        },
+        {
+          "id": "s8.l6",
+          "say": "A different official page says up to 85 percent of individuals with asthma have an allergic reaction to dust mites that make their asthma worse. That is not the same claim, and the two are not averaged.",
+          "src": "DM30, D3",
+          "source_tag": "American Lung Association",
+          "vis": "Two cards stay separate: AT LEAST 45 PERCENT OF YOUNG PEOPLE WITH ASTHMA, and UP TO 85 PERCENT OF INDIVIDUALS WITH ASTHMA / A line between them / Chip: CAN; UP TO 85 PERCENT / Chip: NOT AVERAGED / Tag stays American Lung Association",
+          "shots": [
+            {
+              "t": 389.2,
+              "dur": 1.9,
+              "vis": "Two cards stay separate: AT LEAST 45 PERCENT OF YOUNG PEOPLE WITH ASTHMA, and UP TO 85 PERCENT OF INDIVIDUALS WITH ASTHMA"
+            },
+            {
+              "t": 391.1,
+              "dur": 1.9,
+              "vis": "Two cards stay separate: AT LEAST 45 PERCENT OF YOUNG PEOPLE WITH ASTHMA, and UP TO 85 PERCENT OF INDIVIDUALS WITH ASTHMA"
+            },
+            {
+              "t": 393.0,
+              "dur": 1.9,
+              "vis": "A line between them"
+            },
+            {
+              "t": 394.9,
+              "dur": 1.9,
+              "vis": "Chip: CAN; UP TO 85 PERCENT"
+            },
+            {
+              "t": 396.8,
+              "dur": 1.9,
+              "vis": "Chip: NOT AVERAGED"
+            },
+            {
+              "t": 398.7,
+              "dur": 1.9,
+              "vis": "Tag stays American Lung Association"
+            }
+          ],
+          "card": "A DIFFERENT PAGE: UP TO 85 PERCENT OF INDIVIDUALS WITH ASTHMA. NOT AVERAGED WITH 45 PERCENT",
+          "_t": 389.2,
+          "_dur": 11.41,
+          "_beats": "P"
+        },
+        {
+          "id": "s8.l7",
+          "say": "Another official page says almost everyone is exposed to dust mites, but not everyone is sensitive to them.",
+          "src": "DM31",
+          "source_tag": "National Jewish Health",
+          "vis": "Chip: NOT EVERYONE IS SENSITIVE / Tag stays National Jewish Health",
+          "shots": [
+            {
+              "t": 400.7,
+              "dur": 1.85,
+              "vis": "Chip: NOT EVERYONE IS SENSITIVE"
+            },
+            {
+              "t": 402.5,
+              "dur": 1.85,
+              "vis": "Chip: NOT EVERYONE IS SENSITIVE"
+            },
+            {
+              "t": 404.4,
+              "dur": 1.85,
+              "vis": "Tag stays National Jewish Health"
+            }
+          ],
+          "card": "ALMOST EVERYONE IS EXPOSED; NOT EVERYONE IS SENSITIVE",
+          "_t": 400.7,
+          "_dur": 5.55,
+          "_beats": ""
+        },
+        {
+          "id": "s8.l8",
+          "say": "Most significantly, children allergic to dust mites are five times more likely to develop asthma.",
+          "src": "DM31",
+          "source_tag": "National Jewish Health",
+          "vis": "Card: CHILDREN ALLERGIC TO DUST MITES / Chip: FIVE TIMES MORE LIKELY TO DEVELOP ASTHMA / Not 'dust mites make kids five times more likely' without already-allergic",
+          "shots": [
+            {
+              "t": 406.2,
+              "dur": 1.54,
+              "vis": "Card: CHILDREN ALLERGIC TO DUST MITES"
+            },
+            {
+              "t": 407.7,
+              "dur": 1.54,
+              "vis": "Chip: FIVE TIMES MORE LIKELY TO DEVELOP ASTHMA"
+            },
+            {
+              "t": 409.3,
+              "dur": 1.54,
+              "vis": "Not 'dust mites make kids five times more likely' without already-allergic"
+            }
+          ],
+          "card": "CHILDREN ALLERGIC TO DUST MITES ARE FIVE TIMES MORE LIKELY TO DEVELOP ASTHMA",
+          "_t": 406.2,
+          "_dur": 4.63,
+          "_beats": "P"
+        },
+        {
+          "id": "s8.l9",
+          "say": "A different official page says body parts and droppings from dust mites can trigger asthma in individuals with allergies to dust mites.",
+          "src": "DM32",
+          "source_tag": "EPA",
+          "vis": "Card: CAN TRIGGER ASTHMA / Chip: IN INDIVIDUALS WITH ALLERGIES TO DUST MITES / Tag stays EPA",
+          "shots": [
+            {
+              "t": 410.8,
+              "dur": 1.7,
+              "vis": "Card: CAN TRIGGER ASTHMA"
+            },
+            {
+              "t": 412.5,
+              "dur": 1.7,
+              "vis": "Card: CAN TRIGGER ASTHMA"
+            },
+            {
+              "t": 414.2,
+              "dur": 1.7,
+              "vis": "Chip: IN INDIVIDUALS WITH ALLERGIES TO DUST MITES"
+            },
+            {
+              "t": 415.9,
+              "dur": 1.7,
+              "vis": "Tag stays EPA"
+            }
+          ],
+          "card": "CAN TRIGGER ASTHMA IN INDIVIDUALS WITH ALLERGIES TO DUST MITES",
+          "_t": 410.8,
+          "_dur": 6.79,
+          "_beats": "P"
+        },
+        {
+          "id": "s8.l10",
+          "say": "That same page says exposure to dust mites can cause asthma in children who have not previously exhibited asthma symptoms. That is a separate line.",
+          "src": "DM32, D3",
+          "source_tag": "EPA",
+          "vis": "Card: CAN CAUSE ASTHMA IN CHILDREN WHO HAVE NOT PREVIOUSLY EXHIBITED ASTHMA SYMPTOMS / The five-times card stays separate, tagged National Jewish Health / Chip: A SEPARATE LINE, NOT THE FIVE-TIMES CLAIM / Tag stays EPA",
+          "shots": [
+            {
+              "t": 417.6,
+              "dur": 1.93,
+              "vis": "Card: CAN CAUSE ASTHMA IN CHILDREN WHO HAVE NOT PREVIOUSLY EXHIBITED ASTHMA SYMPTOMS"
+            },
+            {
+              "t": 419.5,
+              "dur": 1.93,
+              "vis": "The five-times card stays separate, tagged National Jewish Health"
+            },
+            {
+              "t": 421.5,
+              "dur": 1.93,
+              "vis": "Chip: A SEPARATE LINE, NOT THE FIVE-TIMES CLAIM"
+            },
+            {
+              "t": 423.4,
+              "dur": 1.93,
+              "vis": "Tag stays EPA"
+            }
+          ],
+          "card": "CAN CAUSE ASTHMA IN CHILDREN WHO HAVE NOT PREVIOUSLY EXHIBITED ASTHMA SYMPTOMS; A SEPARATE LINE, NOT THE FIVE-TIMES CLAIM",
+          "_t": 417.6,
+          "_dur": 7.71,
+          "_beats": "P"
+        },
+        {
+          "id": "s8.l11",
+          "say": "Meatball picked up a tissue box. Sauce walked behind it.",
+          "vis": "Meatball picks up a tissue box / Sauce walks behind the box",
+          "shots": [
+            {
+              "t": 425.3,
+              "dur": 1.54,
+              "vis": "Meatball picks up a tissue box"
+            },
+            {
+              "t": 426.9,
+              "dur": 1.54,
+              "vis": "Sauce walks behind the box"
+            }
+          ],
+          "_t": 425.3,
+          "_dur": 3.08,
+          "_beats": "CJ"
+        }
+      ]
+    },
+    {
+      "chapter": "8. What actually helps",
+      "chip": "8 OF 8",
+      "_start": 428.7,
+      "lines": [
+        {
+          "id": "s9.l0",
+          "say": "Number eight. What actually helps.",
+          "vis": "Voiced number card over a clean bedroom, no scare typography",
+          "shots": [
+            {
+              "t": 428.7,
+              "dur": 1.54,
+              "vis": "Voiced number card over a clean bedroom, no scare typography"
+            }
+          ],
+          "card": "8 OF 8: WHAT ACTUALLY HELPS",
+          "_t": 428.7,
+          "_dur": 1.54,
+          "_beats": ""
+        },
+        {
+          "id": "s9.l1",
+          "say": "If you think you have dust mite allergy, take steps to reduce house dust, mainly in your bedroom. That is not a diagnosis.",
+          "src": "DM36",
+          "source_tag": "Mayo Clinic",
+          "vis": "Chip: IF YOU THINK YOU HAVE DUST MITE ALLERGY / Chip: MAINLY IN YOUR BEDROOM / Card: NOT A DIAGNOSIS",
+          "shots": [
+            {
+              "t": 430.3,
+              "dur": 1.77,
+              "vis": "Chip: IF YOU THINK YOU HAVE DUST MITE ALLERGY"
+            },
+            {
+              "t": 432.0,
+              "dur": 1.77,
+              "vis": "Chip: IF YOU THINK YOU HAVE DUST MITE ALLERGY"
+            },
+            {
+              "t": 433.8,
+              "dur": 1.77,
+              "vis": "Chip: MAINLY IN YOUR BEDROOM"
+            },
+            {
+              "t": 435.6,
+              "dur": 1.77,
+              "vis": "Card: NOT A DIAGNOSIS"
+            }
+          ],
+          "card": "IF YOU THINK YOU HAVE DUST MITE ALLERGY; NOT A DIAGNOSIS",
+          "_t": 430.3,
+          "_dur": 7.1,
+          "_beats": "P"
+        },
+        {
+          "id": "s9.l2",
+          "say": "Keep your bedroom clean, remove dust-collecting clutter, and wash bedding in hot water that is at least 130 degrees Fahrenheit.",
+          "src": "DM36",
+          "source_tag": "Mayo Clinic",
+          "vis": "A bedroom is cleaned; clutter comes off a dresser / Bedding goes into a hot wash / Chip: AT LEAST 130 F (54.4 C) / Tag stays Mayo Clinic",
+          "shots": [
+            {
+              "t": 437.4,
+              "dur": 1.54,
+              "vis": "A bedroom is cleaned; clutter comes off a dresser"
+            },
+            {
+              "t": 438.9,
+              "dur": 1.54,
+              "vis": "Bedding goes into a hot wash"
+            },
+            {
+              "t": 440.4,
+              "dur": 1.54,
+              "vis": "Chip: AT LEAST 130 F (54.4 C)"
+            },
+            {
+              "t": 442.0,
+              "dur": 1.54,
+              "vis": "Tag stays Mayo Clinic"
+            }
+          ],
+          "card": "KEEP THE BEDROOM CLEAN; REMOVE DUST-COLLECTING CLUTTER; WASH BEDDING IN HOT WATER THAT IS AT LEAST 130 F",
+          "_t": 437.4,
+          "_dur": 6.17,
+          "_beats": "P"
+        },
+        {
+          "id": "s9.l3",
+          "say": "Encase mattress, box springs, and pillows in allergen-impermeable covers.",
+          "src": "DM25",
+          "source_tag": "University of Kentucky",
+          "vis": "A mattress, box springs, and pillows get allergen-impermeable covers",
+          "shots": [
+            {
+              "t": 443.5,
+              "dur": 1.39,
+              "vis": "A mattress, box springs, and pillows get allergen-impermeable covers"
+            },
+            {
+              "t": 444.9,
+              "dur": 1.39,
+              "vis": "A mattress, box springs, and pillows get allergen-impermeable covers"
+            }
+          ],
+          "card": "ENCASE MATTRESS, BOX SPRINGS, AND PILLOWS IN ALLERGEN-IMPERMEABLE COVERS",
+          "_t": 443.5,
+          "_dur": 2.78,
+          "_beats": ""
+        },
+        {
+          "id": "s9.l4",
+          "say": "Keep humidity low. Maintain a relative humidity below 50 percent in your home.",
+          "src": "DM14",
+          "source_tag": "Mayo Clinic",
+          "vis": "A humidity reading stays below 50 percent / Chip: KEEP HUMIDITY LOW / This is consistent with cannot survive well, if 'well' stays",
+          "shots": [
+            {
+              "t": 446.3,
+              "dur": 1.34,
+              "vis": "A humidity reading stays below 50 percent"
+            },
+            {
+              "t": 447.6,
+              "dur": 1.34,
+              "vis": "Chip: KEEP HUMIDITY LOW"
+            },
+            {
+              "t": 449.0,
+              "dur": 1.34,
+              "vis": "This is consistent with cannot survive well, if 'well' stays"
+            }
+          ],
+          "card": "KEEP HUMIDITY LOW; MAINTAIN A RELATIVE HUMIDITY BELOW 50 PERCENT IN YOUR HOME",
+          "_t": 446.3,
+          "_dur": 4.01,
+          "_beats": "P"
+        },
+        {
+          "id": "s9.l5",
+          "say": "Vacuuming and cleaning activities have not shown much benefit in reducing mite populations, or removing their allergenic materials.",
+          "src": "DM35",
+          "source_tag": "University of Kentucky",
+          "vis": "Someone vacuums a carpet / Chip: HAVE NOT SHOWN MUCH BENEFIT / Not 'vacuuming is useless' and not 'vacuuming wipes them out'",
+          "shots": [
+            {
+              "t": 450.3,
+              "dur": 1.85,
+              "vis": "Someone vacuums a carpet"
+            },
+            {
+              "t": 452.2,
+              "dur": 1.85,
+              "vis": "Chip: HAVE NOT SHOWN MUCH BENEFIT"
+            },
+            {
+              "t": 454.0,
+              "dur": 1.85,
+              "vis": "Not 'vacuuming is useless' and not 'vacuuming wipes them out'"
+            }
+          ],
+          "card": "VACUUMING HAS NOT SHOWN MUCH BENEFIT IN REDUCING MITE POPULATIONS OR ALLERGENS",
+          "_t": 450.3,
+          "_dur": 5.55,
+          "_beats": ""
+        },
+        {
+          "id": "s9.l6",
+          "say": "Routine, thorough vacuuming can, however, help to remove dust, dander, and a small percentage of mites.",
+          "src": "DM35",
+          "source_tag": "University of Kentucky",
+          "vis": "Dust and dander lift into a vacuum / Chip: CAN HELP / Chip: A SMALL PERCENTAGE OF MITES",
+          "shots": [
+            {
+              "t": 455.9,
+              "dur": 1.65,
+              "vis": "Dust and dander lift into a vacuum"
+            },
+            {
+              "t": 457.5,
+              "dur": 1.65,
+              "vis": "Chip: CAN HELP"
+            },
+            {
+              "t": 459.2,
+              "dur": 1.65,
+              "vis": "Chip: A SMALL PERCENTAGE OF MITES"
+            }
+          ],
+          "card": "THOROUGH VACUUMING CAN HELP REMOVE DUST, DANDER, AND A SMALL PERCENTAGE OF MITES",
+          "_t": 455.9,
+          "_dur": 4.94,
+          "_beats": ""
+        },
+        {
+          "id": "s9.l7",
+          "say": "When vacuuming is performed, it's important to use a vacuum cleaner equipped with a HEPA filtration system, so that the microscopic allergens are retained within the vacuum bag.",
+          "src": "DM35",
+          "source_tag": "University of Kentucky",
+          "vis": "A vacuum with a HEPA filtration mark / Chip: HEPA FILTRATION SYSTEM / A machine without that filtration is crossed out, with recirculating particles",
+          "shots": [
+            {
+              "t": 460.8,
+              "dur": 1.73,
+              "vis": "A vacuum with a HEPA filtration mark"
+            },
+            {
+              "t": 462.5,
+              "dur": 1.73,
+              "vis": "A vacuum with a HEPA filtration mark"
+            },
+            {
+              "t": 464.3,
+              "dur": 1.73,
+              "vis": "Chip: HEPA FILTRATION SYSTEM"
+            },
+            {
+              "t": 466.0,
+              "dur": 1.73,
+              "vis": "Chip: HEPA FILTRATION SYSTEM"
+            },
+            {
+              "t": 467.7,
+              "dur": 1.73,
+              "vis": "A machine without that filtration is crossed out, with recirculating particles"
+            }
+          ],
+          "card": "USE A HEPA VACUUM SO MICROSCOPIC ALLERGENS STAY IN THE BAG",
+          "_t": 460.8,
+          "_dur": 8.64,
+          "_beats": "P"
+        },
+        {
+          "id": "s9.l8",
+          "say": "Although benzyl benzoate will kill dust mites, clinical trials are lacking that show much improvement in allergy symptoms. The same is true of products containing tannic acid, which are designed to denature dust mite allergens.",
+          "src": "DM34",
+          "source_tag": "University of Kentucky",
+          "vis": "Two generic, unlabeled bottles, no brand names / Chip: CLINICAL TRIALS ARE LACKING THAT SHOW MUCH IMPROVEMENT / No brand endorsement",
+          "shots": [
+            {
+              "t": 469.4,
+              "dur": 1.8,
+              "vis": "Two generic, unlabeled bottles, no brand names"
+            },
+            {
+              "t": 471.2,
+              "dur": 1.8,
+              "vis": "Two generic, unlabeled bottles, no brand names"
+            },
+            {
+              "t": 473.0,
+              "dur": 1.8,
+              "vis": "Chip: CLINICAL TRIALS ARE LACKING THAT SHOW MUCH IMPROVEMENT"
+            },
+            {
+              "t": 474.8,
+              "dur": 1.8,
+              "vis": "Chip: CLINICAL TRIALS ARE LACKING THAT SHOW MUCH IMPROVEMENT"
+            },
+            {
+              "t": 476.6,
+              "dur": 1.8,
+              "vis": "No brand endorsement"
+            },
+            {
+              "t": 478.4,
+              "dur": 1.8,
+              "vis": "No brand endorsement"
+            }
+          ],
+          "card": "BENZYL BENZOATE WILL KILL MITES, BUT CLINICAL TRIALS ARE LACKING",
+          "_t": 469.4,
+          "_dur": 10.8,
+          "_beats": "P"
+        },
+        {
+          "id": "s9.l9",
+          "say": "Treatment with either should be considered only as a supplement to encasement of bedding and removal of dust-laden furnishings.",
+          "src": "DM34",
+          "source_tag": "University of Kentucky",
+          "vis": "The chemical bottles sit behind encasement and removal / Chip: ONLY AS A SUPPLEMENT / Card also: TREATMENT OF THE PREMISES WITH EITHER OF THESE CHEMICALS SHOULD BE CONSIDERED ONLY AS A SUPPLEMENT TO MORE IMPORTANT ALLERGY-REDUCING MEASURES",
+          "shots": [
+            {
+              "t": 480.2,
+              "dur": 1.95,
+              "vis": "The chemical bottles sit behind encasement and removal"
+            },
+            {
+              "t": 482.2,
+              "dur": 1.95,
+              "vis": "Chip: ONLY AS A SUPPLEMENT"
+            },
+            {
+              "t": 484.1,
+              "dur": 1.95,
+              "vis": "Card also: TREATMENT OF THE PREMISES WITH EITHER OF THESE CHEMICALS SHOULD BE CONSIDERED ONLY AS A SUPPLEMENT TO MORE IMPORTANT ALLERGY-REDUCING MEASURES"
+            }
+          ],
+          "card": "SUPPLEMENT ONLY TO ENCASEMENT AND REMOVAL OF DUST-LADEN FURNISHINGS",
+          "_t": 480.2,
+          "_dur": 5.86,
+          "_beats": "P"
+        },
+        {
+          "id": "s9.l10",
+          "say": "Always read and follow label directions for safe use of any pesticide.",
+          "src": "DM34",
+          "source_tag": "University of Kentucky",
+          "vis": "A label is held up and read / Card, large: ALWAYS READ AND FOLLOW LABEL DIRECTIONS",
+          "shots": [
+            {
+              "t": 486.1,
+              "dur": 1.85,
+              "vis": "A label is held up and read"
+            },
+            {
+              "t": 487.9,
+              "dur": 1.85,
+              "vis": "Card, large: ALWAYS READ AND FOLLOW LABEL DIRECTIONS"
+            }
+          ],
+          "card": "ALWAYS READ AND FOLLOW LABEL DIRECTIONS FOR SAFE USE OF ANY PESTICIDE",
+          "_t": 486.1,
+          "_dur": 3.7,
+          "_beats": "P"
+        },
+        {
+          "id": "s9.l11",
+          "say": "Meatball set a basket on the floor. Noodle lay down beside it.",
+          "vis": "Meatball sets a basket on the floor / Noodle lies down beside it, not in it as a how-to",
+          "shots": [
+            {
+              "t": 489.8,
+              "dur": 1.85,
+              "vis": "Meatball sets a basket on the floor"
+            },
+            {
+              "t": 491.6,
+              "dur": 1.85,
+              "vis": "Noodle lies down beside it, not in it as a how-to"
+            }
+          ],
+          "_t": 489.8,
+          "_dur": 3.7,
+          "_beats": "CJ"
+        }
+      ]
+    },
+    {
+      "chapter": "The verdict",
+      "chip": "",
+      "_start": 493.8,
+      "lines": [
+        {
+          "id": "s10.l0",
+          "say": "Here's the verdict, and it's an opinion.",
+          "vis": "Two columns appear: RAW and SWEET",
+          "shots": [
+            {
+              "t": 493.8,
+              "dur": 1.08,
+              "vis": "Two columns appear: RAW and SWEET"
+            },
+            {
+              "t": 494.9,
+              "dur": 1.08,
+              "vis": "Two columns appear: RAW and SWEET"
+            }
+          ],
+          "_t": 493.8,
+          "_dur": 2.16,
+          "_beats": "R"
+        },
+        {
+          "id": "s10.l1",
+          "say": "Raw, for you the mite: a wash in hot water that is at least 130 degrees Fahrenheit, and air you cannot survive well in, below 50 percent humidity.",
+          "src": "DM20, DM12",
+          "vis": "RAW column: AT LEAST 130 F wash chip / CANNOT SURVIVE WELL BELOW 50 PERCENT chip",
+          "shots": [
+            {
+              "t": 496.0,
+              "dur": 1.73,
+              "vis": "RAW column: AT LEAST 130 F wash chip"
+            },
+            {
+              "t": 497.7,
+              "dur": 1.73,
+              "vis": "RAW column: AT LEAST 130 F wash chip"
+            },
+            {
+              "t": 499.4,
+              "dur": 1.73,
+              "vis": "RAW column: AT LEAST 130 F wash chip"
+            },
+            {
+              "t": 501.1,
+              "dur": 1.73,
+              "vis": "CANNOT SURVIVE WELL BELOW 50 PERCENT chip"
+            },
+            {
+              "t": 502.9,
+              "dur": 1.73,
+              "vis": "CANNOT SURVIVE WELL BELOW 50 PERCENT chip"
+            }
+          ],
+          "_t": 496.0,
+          "_dur": 8.64,
+          "_beats": ""
+        },
+        {
+          "id": "s10.l2",
+          "say": "Sweet: you do not bite, and an infested mattress can contain millions of you.",
+          "src": "DM8, DM19",
+          "vis": "SWEET column: DO NOT BITE chip / AN INFESTED MATTRESS CAN CONTAIN MILLIONS chip",
+          "shots": [
+            {
+              "t": 504.6,
+              "dur": 1.44,
+              "vis": "SWEET column: DO NOT BITE chip"
+            },
+            {
+              "t": 506.0,
+              "dur": 1.44,
+              "vis": "SWEET column: DO NOT BITE chip"
+            },
+            {
+              "t": 507.5,
+              "dur": 1.44,
+              "vis": "AN INFESTED MATTRESS CAN CONTAIN MILLIONS chip"
+            }
+          ],
+          "_t": 504.6,
+          "_dur": 4.32,
+          "_beats": ""
+        },
+        {
+          "id": "s10.l3",
+          "say": "Meatball stacked the cards on the armrest. Noodle nosed them onto the floor. Damn.",
+          "vis": "Meatball stacks the RAW and SWEET cards on the armrest / Noodle noses them onto the floor / The SWEET, WITH CONDITIONS tag stays on screen",
+          "shots": [
+            {
+              "t": 508.9,
+              "dur": 1.44,
+              "vis": "Meatball stacks the RAW and SWEET cards on the armrest"
+            },
+            {
+              "t": 510.4,
+              "dur": 1.44,
+              "vis": "Noodle noses them onto the floor"
+            },
+            {
+              "t": 511.8,
+              "dur": 1.44,
+              "vis": "The SWEET, WITH CONDITIONS tag stays on screen"
+            }
+          ],
+          "card": "OUR VERDICT: SWEET, WITH CONDITIONS",
+          "meter": 75,
+          "_t": 508.9,
+          "_dur": 4.32,
+          "_beats": "CJS"
+        },
+        {
+          "id": "s10.l4",
+          "say": "Now think back to that bedding. In your home, wash bedding in hot water, at least 130 F.",
+          "src": "DM20",
+          "vis": "Callback: the same mite close-up on a pillowcase fiber from 0:00, with hot water rising / The AT LEAST 130 F card returns, with the hedges still on it",
+          "shots": [
+            {
+              "t": 513.2,
+              "dur": 1.85,
+              "vis": "Callback: the same mite close-up on a pillowcase fiber from 0:00, with hot water rising"
+            },
+            {
+              "t": 515.1,
+              "dur": 1.85,
+              "vis": "Callback: the same mite close-up on a pillowcase fiber from 0:00, with hot water rising"
+            },
+            {
+              "t": 516.9,
+              "dur": 1.85,
+              "vis": "The AT LEAST 130 F card returns, with the hedges still on it"
+            }
+          ],
+          "_t": 513.2,
+          "_dur": 5.55,
+          "_beats": "R"
+        },
+        {
+          "id": "s10.l5",
+          "say": "Meatball left the stamp on the table. Sauce walked across the card.",
+          "vis": "Meatball sets the stamp down on the table and leaves it / Sauce walks across the SWEET card",
+          "shots": [
+            {
+              "t": 518.8,
+              "dur": 1.85,
+              "vis": "Meatball sets the stamp down on the table and leaves it"
+            },
+            {
+              "t": 520.6,
+              "dur": 1.85,
+              "vis": "Sauce walks across the SWEET card"
+            }
+          ],
+          "_t": 518.8,
+          "_dur": 3.7,
+          "_beats": "CJ"
+        },
+        {
+          "id": "s10.l6",
+          "say": "3 Bugs You Should Never Kill is right here.",
+          "vis": "Meatball points at the camera / End screen: 3 Bugs in Your House You Should Never Kill video tile; Meatball points at it",
+          "shots": [
+            {
+              "t": 522.5,
+              "dur": 1.39,
+              "vis": "Meatball points at the camera"
+            },
+            {
+              "t": 523.9,
+              "dur": 1.39,
+              "vis": "End screen: 3 Bugs in Your House You Should Never Kill video tile; Meatball points at it"
+            }
+          ],
+          "_t": 522.5,
+          "_dur": 2.78,
+          "_beats": "CR"
+        }
+      ]
+    }
+  ],
+  "pinned_comment": "Meatball wants to know: which of the first four bothers you more? The bed, the diet, the damp, or the eggs? Drop the number in the comments.",
+  "mid_video_comment_prompt": {
+    "say": "Meatball wants to know: which of the first four bothers you more? The bed, the diet, the damp, or the eggs? Drop the number in the comments.",
+    "at": 269.9,
+    "id": "s5.l2"
+  },
+  "end_screen_video": "3 Bugs in Your House You Should Never Kill",
+  "sources_file": "/workspace/drafts/facts/dust-mite-bornas.md",
+  "description": "In your home, wash bedding in hot water that is at least 130 F to kill dust mites and remove allergens. This is a born-as guide to house dust mites in a house: the bed, what they eat, heat and humidity, the eggs, a wash at least 130 F, the fact they never really leave, what the allergens can do, and what actually helps. Meatball lives all eight from the couch, with his dog, Noodle, as the stand-in and his cat, Sauce, as everybody else.\n\nChecked facts in this video:\n- Lead is the North American house dust mite (Dermatophagoides farinae). There are two common species in the United States: the North American house dust mite and the European house dust mite (D. pteronyssinus) (University of Kentucky ENTFACT-646). Life-cycle figures later on that page are for house dust mites generally, not a farinae-only count. This video does not mix in Demodex or any other mite.\n- House dust mite adults are about 0.5 mm long; immatures are even smaller. They generally are visible only with a microscope. They are globular, clear to creamy white, with hairs on their legs and body (University of Kentucky). A thin University of Maine page says they measure, on average, just 16 hundredths of an inch; that length is not used and is not spoken (D5).\n- Their primary food is skin scales, or dander, contained in house dust. People and pets regularly shed small flakes of skin as the skin continually renews itself. Since the greatest fallout occurs in areas of human and pet activity, the mites tend to be most numerous in beds, overstuffed sofas and chairs, and adjacent carpeted areas (University of Kentucky). Keep \"tend to be most numerous.\" Beds are one of several sites. This is not \"they only live in your bed.\"\n- Relative humidity also tends to be higher in these areas, because people perspire and exhale water vapor where they sleep and lounge. Mattresses, sofas, carpet, and other soft furnishings trap and accumulate dust, dander, and moisture, making them ideal microhabitats for mite development (University of Kentucky).\n- Dust mites can live in bedding, mattresses, upholstered furniture, carpets and curtains (American Lung Association). A different official page (EPA) adds pillows, clothes, stuffed toys, fabric, and fabric-covered items, and says dust mites are tiny bugs that are too small to see. Those lists are not merged into one official list.\n- House dust mites are typically found on the floors, mattresses, rugs, or infesting dried stored products, where they feed on micro molds that develop on skin scales and foods (University of Kentucky). Keep the \"micro molds that develop on skin scales and foods\" hedge. They do not \"eat you.\" A different official page (National Jewish Health) calls them microscopic animals that feed on human skin scales, and live in bedding, carpets, stuffed furniture, old clothing and stuffed toys.\n- House dust mites are not parasitic, and they are not capable of biting or stinging humans. Their significance as pests is due to the powerful allergens contained in the mites, their cast skins, fecal material and secretions (University of Kentucky). A different official page (American Lung Association) says they are not parasites that bite, sting, or burrow into our bodies. People who are allergic are reacting to inhaling proteins in dust that comes from dust mite feces, urine, or decaying bodies. This video does not call them insects. If \"insect-like\" appears on a page, it is not upgraded to \"insects.\"\n- Optimum conditions for growth and development are around 75 to 80 degrees Fahrenheit, and 70 to 80 percent relative humidity. House dust mites absorb and lose moisture through their skin, and are very vulnerable to dehydration. The mites tend to be most numerous in warm homes with high humidity (University of Kentucky). Keep \"around\" and \"optimum.\"\n- Some species of house dust mites require a high relative humidity ranging from 70 to 80 percent, whereas others can survive in lower levels, between 50 and 60 percent. Dust mites cannot survive well at relative humidities below 50 percent. The same page also says house dust mites have a difficult time surviving when the relative humidity is below 50 percent (University of Kentucky). Keep \"cannot survive well\" / \"difficult time,\" not \"all die at 50 percent.\" The 50 to 60 percent survival line is why 50 percent is a hedge, not a hard kill switch.\n- Although mite populations tend to be low in dry climates, most homes throughout the United States are capable of supporting dust mites (University of Kentucky). A different official page (American Lung Association) says dust mites do not drink water; instead, they absorb moisture from the air. When indoor air is very dry, dust mites cannot survive. \"Very dry\" is not given as a percentage on that page; this video does not invent one.\n- Mayo Clinic: keep humidity low; maintain a relative humidity below 50 percent in your home. American Lung Association: keep your home below 50 percent humidity. Those action lines stay consistent with \"cannot survive well\" if \"well\" stays. A different official page (National Jewish Health) says dust mites don't survive when the humidity is below 50 percent, and that humidity should be below 40 percent, with 40 to 50 percent \"marginal\" and 50 to 60 percent \"can be bothersome.\" That wording is stronger. It is not spoken in this video, is not blended with \"cannot survive well,\" and is not averaged into one unofficial target (D2).\n- House dust mites go through five major life stages: egg, larva, protonymph, tritonymph, and adult. Between life stages the mites molt, shedding their outer skin. When temperature and humidity are optimum, development from egg to adult takes about one month (University of Kentucky). Keep the optimum condition. Adults live approximately 1 to 2 months, and the females lay about 50 eggs (University of Kentucky). Keep \"approximately,\" \"about,\" and \"house dust mites generally.\" Do not add \"in your bed\" to the egg-count sentence. That merge is cut (M1).\n- Every home has dust mites (EPA). A different official page says dust mites are common and can be found in almost every home (American Lung Association). Those are related, not identical, and are not spoken as one sentence (D4). About 4 out of 5 homes in the United States have dust mite allergens in at least one bed (American Lung Association). Keep \"about,\" \"allergens,\" and \"at least one bed.\" This is not \"80 percent of beds are infested.\"\n- It is not uncommon to find thousands of mites in a single gram of house dust (a gram is about the weight of a paperclip). An infested mattress can contain millions of dust mites (University of Kentucky). Keep \"not uncommon,\" \"thousands,\" \"an infested mattress,\" and \"can contain millions.\" Not every mattress.\n- Mayo Clinic: wash all sheets, blankets, pillowcases and bedcovers in hot water that is at least 130 F (54.4 C) to kill dust mites and remove allergens. Keep \"at least.\" This is the pitch-locked wash. If bedding can't be washed hot, put the items in the dryer for at least 15 minutes at a temperature above 130 F (54.4 C) to kill the mites. Then wash and dry the bedding to remove allergens. Killing mites and removing allergens are separate steps. This is not a 20-minute dryer cycle (M2). Freezing items for 24 hours if they can't be washed also can kill dust mites. But this won't remove the allergens.\n- Wash-temperature disagreement (D1): a different official page (American Lung Association) says wash bedding in hot water (at least 120 degrees F) once a week to kill and wash away dust mites, with the same 120 F line for stuffed animals. That is not the same as at least 130, and the two are not averaged. University of Kentucky says use only washable bed spreads, sheets and blankets, and launder bedding weekly in hot water, with no degree on that page. EPA says wash bedding in hot water once a week, and dry completely, also with no degree on this live page. Do not hang 130 F on University of Kentucky or this EPA page. National Jewish Health says washing all bedding in hot (130 F) water weekly; that page supports 130, but it does not say \"at least,\" and it does not give the dryer alternative. These are description-only except the American Lung Association line, which is spoken. Weekly cadence is spoken only with that line, not hung on the Mayo \"at least 130 F\" sentence, which does not say weekly.\n- These heat numbers are for laundry, and for the dryer and freezer alternatives. They are not a way to heat the whole house, and they are not a thermostat or space-heater trick (W6). This video does not use heat numbers from any other pest, and it does not offer a folk killer or a \"safe\" amount of mites.\n- House dust mites and their allergenic particles are present within homes year-round, but people tend to have fewer symptoms during the summer, perhaps because they spend more time outdoors (University of Kentucky). Keep \"perhaps.\" Adults living approximately 1 to 2 months is not the same as they're gone in two months, and they do not disappear in summer.\n- The allergenic proteins responsible for causing symptoms are contained within the mites themselves (alive or dead), their shed skins, and especially in their feces. Routine human activity such as housecleaning, walking or playing on carpeting, or making the bed, causes the tiny fecal particles to become airborne and inhaled (University of Kentucky). This is not a \"making the bed is dangerous\" scare line. Symptoms of a house dust mite allergy include stuffy or runny nose, sneezing, coughing or watery eyes. Inhalation of dust mite allergens by hypersensitive individuals can result in acute attacks of bronchial asthma, accompanied by wheezing and shortness of breath (University of Kentucky). Keep \"hypersensitive individuals\" and \"can.\" The same page also says \"perhaps even death\"; that wording is not used as a hook and is not spoken in this video (W5).\n- Asthma-share disagreement (D3): recent studies suggest that at least 45 percent of young people with asthma are allergic to house dust mites (University of Kentucky). Keep \"recent studies suggest,\" \"at least 45 percent,\" and \"young people with asthma.\" No named study is on the page. A different official page (American Lung Association) says up to 85 percent of individuals with asthma have an allergic reaction to dust mites that make their asthma worse. Keep \"up to 85 percent,\" \"individuals with asthma,\" and \"can\" on that page's other asthma lines. Those are not the same claim, and the two are not averaged. Another official page (National Jewish Health) says almost everyone is exposed, but not everyone is sensitive, and that children allergic to dust mites are five times more likely to develop asthma. Keep \"children allergic to dust mites\" (already allergic). If droppings of dust mites are inhaled or come in contact with the skin, they may cause allergic symptoms and aggravate asthma and/or eczema (National Jewish Health). That droppings/eczema line is not spoken in this video; it is kept here. A different official page (EPA) says body parts and droppings from dust mites can trigger asthma in individuals with allergies to dust mites, and, as a separate line, exposure to dust mites can cause asthma in children who have not previously exhibited asthma symptoms. Keep \"can,\" and do not merge the second EPA sentence into the five-times claim.\n- If you think you have dust mite allergy, take steps to reduce house dust, mainly in your bedroom. That is not a diagnosis. Keep your bedroom clean, remove dust-collecting clutter, and wash bedding in hot water that is at least 130 F (Mayo Clinic). Encase mattress, box springs, and pillows in allergen-impermeable covers (University of Kentucky). A different official page (EPA) says use dust-proof covers on pillows and mattresses; that wording is not spoken in this video and is not treated as a second official list spoken as one sentence.\n- Vacuuming and cleaning activities have not shown much benefit in reducing mite populations, or removing their allergenic materials. Routine, thorough vacuuming can, however, help to remove dust, dander, and a small percentage of mites. When vacuuming is performed, it's important to use a vacuum cleaner equipped with a HEPA filtration system, so that the microscopic allergens are retained within the vacuum bag (University of Kentucky). This is not \"vacuuming is useless\" and not \"vacuuming wipes them out.\" EPA and National Jewish Health still recommend vacuuming as a step; this video does not invent a fight between pages.\n- Although benzyl benzoate will kill dust mites, clinical trials are lacking that show much improvement in allergy symptoms. The same is true of products containing tannic acid (e.g., Allergy Control Solution), which are designed to denature dust mite allergens so that they no longer cause symptoms. Treatment of the premises with either of these chemicals should be considered only as a supplement to more important allergy-reducing measures, such as encasement of bedding and removal of dust-laden furnishings. ALWAYS READ AND FOLLOW LABEL DIRECTIONS FOR SAFE USE OF ANY PESTICIDE (University of Kentucky). The brand example is not spoken and is not an endorsement. Spoken lines keep the kill / clinical-trials / supplement / label hedges; the full \"treatment of the premises\" sentence is on the card.\n\nSources, shown on screen as lower-thirds, never spoken as academic credits:\n- University of Kentucky ENTFACT-646, House Dust Mites, revised 3/26 (Principato, Potter, DeVries): https://entomology.mgcafe.uky.edu/ef646\n- Mayo Clinic, Dust mite allergy: diagnosis and treatment, byline 12 Sept 2025: https://www.mayoclinic.org/diseases-conditions/dust-mites/diagnosis-treatment/drc-20352178\n- American Lung Association, Dust Mites: https://www.lung.org/clean-air/indoor-air/indoor-air-pollutants/dust-mites\n- National Jewish Health, Dust Mite Allergy, reviewed/approved Carah Santos, MD (12/6/2022): https://www.nationaljewish.org/conditions/allergy/overview/allergens/dust-mite\n- EPA, Asthma Triggers: Gain Control, last updated July 6, 2026: https://www.epa.gov/asthma/asthma-triggers-gain-control\n\nWatch next: 3 Bugs in Your House You Should Never Kill.\nThis is entertainment and a sourced explainer, not medical advice and not a diagnosis.",
+  "art_needed": [
+    "Frame 0: a house dust mite in close-up on a pillowcase fiber, with hot water rising; narration on it at 0.0 s.",
+    "Meatball on the couch in cardboard mite legs, with a RAW / SWEET rubber stamp; his dog, Noodle; his cat, Sauce.",
+    "Wash, dryer, and freezer cards with AT LEAST 130 F / AT LEAST 15 MINUTES ABOVE 130 F / 24 HOURS, and a crossed-out thermostat and space heater.",
+    "Separate 45 percent, 85 percent, and five-times cards, never blended.",
+    "End screen 12 s: 3 Bugs in Your House You Should Never Kill video tile; Meatball points; tile pulses (animated, not a still)."
+  ],
+  "_changelog": [
+    "First dust-mite born-as draft, built from /workspace/drafts/facts/dust-mite-bornas.md (DM1-DM38) and the cockroach born-as generators copied into /workspace/drafts/.mite-build/. Channel rules and the 11/15 plan match the cockroach pass. Files only; nothing posted, scheduled, pushed, or committed; git untouched.",
+    "Hook is Social Studio's wash-at-least-130-F line, with you + your home + a number, at 11 words (Moondog88's rule is under 12; the 12-word 'In your home,' version was cut to 'Your home:'): 'Your home: wash bedding in hot water, at least 130 F.' 'Bedding' is Mayo's own DM36 wording. The full Mayo item list (sheets, blankets, pillowcases and bedcovers) and 'to kill dust mites and remove allergens' stay on the hook card and are spoken in chapter 5. Weekly is not on the Mayo 130 sentence, so it is not hung on Mayo in the hook; weekly is spoken only with the American Lung Association 120 F line in chapter 5; the University of Kentucky, EPA, and National Jewish Health weekly lines are description-only (Social Studio 11/15 cut).",
+    "They do not bite is said clearly (University of Kentucky and American Lung Association). Allergy and asthma lines stay 'can.' No thermostat, space-heater, or DIY whole-house heat. Heat numbers from any other pest are not mentioned in speech, on a card, or in the public description.",
+    "Chapter 6, You never really leave, is the non-safety chapter after the wash, so the second primary mid-roll can sit after it. The wash, allergen, and 'what actually helps' chapters have no mid-roll.",
+    "Verdict jokes are new: 'Meatball stacked the cards on the armrest. Noodle nosed them onto the floor. Damn.' and 'Meatball left the stamp on the table. Sauce walked across the card.' They do not reuse 'sweet deal,' 'Hell of a sweet deal, with conditions,' the mug line, or 'Meatball's final stamp: sweet, with conditions. Sauce's stamp: she used it as a stepping stool.'",
+    "Description-only this pass: National Jewish Health 'don't survive' / below 40 percent (D2); 'perhaps even death' (W5); National Jewish Health droppings / eczema line (DM31); EPA dust-proof-cover wording (DM26); University of Maine size (D5); the Allergy Control Solution brand example (DM34)."
+  ],
+  "_resolved": [
+    "Hook uses 'at least,' 'hot water,' and 'your' bedding / home, at 12 words. The full Mayo wash sentence is spoken in chapter 5 with 54.4 C.",
+    "Dryer is at least 15 minutes above 130 F, then wash and dry to remove allergens, not 20 minutes.",
+    "'Females lay about 50 eggs' is kept separate from 'tend to be most numerous in beds.'",
+    "Title 3C uses 'cannot survive well' / 'difficult time,' plus the 50 to 60 percent survival hedge.",
+    "'Every home has dust mites' and 'almost every home' and 'about 4 out of 5 homes... allergens in at least one bed' stay separate claims.",
+    "45 percent, 85 percent, and five times stay on their own pages and are not averaged."
+  ],
+  "_open_questions": [
+    {
+      "line": "s0.l0 / s0.l1 promise",
+      "question": "The hook is also the spoken promise, and it ends at 3.70 s, by 0:05. The born-as eight-things method line ends at 8.64 s, after 0:05. Same pattern as the cockroach pass.",
+      "fallback": "Leave the hook as the promise by 0:05, and keep the eight-things line as the method beat."
+    },
+    {
+      "line": "working title vs Title A",
+      "question": "Working title follows the born-as '8 Things You Have to Get Through' pattern. Packaging Title A, 'Your Life as a Dust Mite: A 130 F Wash Can Kill You,' still needs 'at least' and 'can' if it is used.",
+      "fallback": "Keep the 8-things working title unless Social Studio picks Title A with those hedges."
+    },
+    {
+      "line": "target date",
+      "question": "Target Wed 12/16 (Social Studio). Teaser slots still TBD.",
+      "fallback": "Do not book or post from this pass. Flag teasers until the long-form is live."
+    },
+    {
+      "line": "description-only hedges",
+      "question": "National Jewish Health 'don't survive' / below 40 percent, the droppings/eczema line, 'perhaps even death,' EPA dust-proof covers, and the tannic-acid brand example stay out of speech this pass.",
+      "fallback": "Keep them in the description. Speak a tagged National Jewish Health 40-percent line only if Social Studio wants that disagreement in the video."
+    },
+    {
+      "line": "s9.l9 supplement wording",
+      "question": "The spoken supplement line is shortened to 'Treatment with either should be considered only as a supplement to encasement of bedding and removal of dust-laden furnishings.' The full 'treatment of the premises... more important allergy-reducing measures' sentence is on the card.",
+      "fallback": "Restore the full University of Kentucky sentence in speech if needed."
+    }
+  ],
+  "_for_claude": [
+    "No rules intro, no silent countdowns, voiced chapter cards only. A new picture every 1-2 s; no speech shot over 2.0 s. The 12 s end screen is the only longer hold.",
+    "Citations go on screen and in the description, never spoken as academic credits. 'A different official page' is a hedge, not a spoken source name.",
+    "TTS pronunciation check before render: '130 F' in the hook and callback should be read 'one hundred thirty degrees Fahrenheit'; '54.4 degrees Celsius' as 'fifty-four point four degrees Celsius'; '0.5 millimeters'; 'protonymph' and 'tritonymph'; 'HEPA' as 'HEP-uh' or letter-by-letter if Andrew misreads it; 'benzyl benzoate' and 'tannic acid.' Dermatophagoides farinae and D. pteronyssinus are card-only, not spoken. Add tts respellings in the build JSON if the Andrew voice misreads them; captions keep 'say'. No TTS or shot-set handoff until Social Studio forwards Jarvis's new production spec.",
+    "Shot rhythm: new 11/15 rule, a new picture every 1-2 s, no shot over 2.0 s except the 12 s end screen. The 0.3 s chapter gap is a cut, not a hold added to the last shot. Short voiced chapter cards may run under 1 s.",
+    "No spoken countdowns; every chapter card is a voiced 'Number X' line, except the cold open, halfway, and verdict; chapter gaps are 0.3 s.",
+    "Do not mix these laundry, dryer, or freezer numbers with heat numbers from any other pest. Do not add a thermostat, space-heater, or whole-house heat graphic as a treatment.",
+    "Watch-next tile is 3 Bugs in Your House You Should Never Kill. The spoken short name is '3 Bugs You Should Never Kill.'"
+  ],
+  "_masterorders_check": [
+    "Hook is you + your home + a number or threat. This hook is 11 words, with 'at least,' 'hot water,' and 'your home' / bedding. The full Mayo item list is spoken in chapter 5; weekly is spoken only on the American Lung Association line.",
+    "Promise: the hook is also the spoken promise, ended by 0:05 (3.70 s). The eight-things method line ends after 0:05.",
+    "Facts only from the dust-mite pack; hedges kept. Lead is North American house dust mite; life-cycle figures stay general.",
+    "They do not bite is said clearly. Allergy and asthma stay 'can.'",
+    "No thermostat or space-heater tricks, and no DIY whole-house heat.",
+    "No heat numbers from any other pest in speech, on a card, or in the public description.",
+    "No invented winners. Jokes add no number, danger, feeling, motive, or instruction, and come after safety lines, never inside them.",
+    "Runtime is in the 8:30-9:15 band at 194.5 wpm, plus a 12 s end hold. Mild words are 3, never in the hook or a safety line.",
+    "Exactly one comment trigger, a debate prompt, near the midpoint.",
+    "Mid-rolls at least 2 minutes apart, in chapter gaps, never on a safety line or mid-joke. Primaries sit after Heat and humidity and after You never really leave.",
+    "Watch-next is 3 Bugs in Your House You Should Never Kill.",
+    "Verdict jokes are fresh: no 'sweet deal,' and no crocodile or cockroach verdict line.",
+    "Banned words (TRUE, FALSE, Myth, Believe, Cartoons, Lied, Did you know) are clean in speech except one: s9.l8 now speaks University of Kentucky's verbatim 'The same is true of products containing tannic acid, which are designed to denature dust mite allergens,' as Social Studio required after fact-check 11/16. 'True' there is the source's wording, not a verdict label. Flagged for Social Studio.",
+    "Frame 0 is the mite in close-up on a pillowcase fiber, with hot water rising, and narration on it at 0.0 s."
+  ],
+  "_notes": [
+    "Noodle lines (5): s0.l7, s1.l8, s6.l7, s9.l11, s10.l3. Planted at s0.l7 as 'his dog, Noodle.' He takes a pillow, sits on a towel fold, noses the verdict cards onto the floor, and lies down beside a basket. He is never told to catch or kill a mite, and he is never used as a how-to.",
+    "Sauce lines (7): s0.l7, s2.l8, s3.l10, s4.l13, s7.l3, s8.l11, s10.l5. Planted at s0.l7 as 'his cat, Sauce.' She is already on the cushion, sits in front of a humidity gauge, sits on a notepad, stays on the armrest, walks behind a tissue box, and walks across the verdict card.",
+    "No joke on or right after: the official wash, dryer, freeze, 120-vs-130, or whole-house-heat lines (s6.l1-s6.l6); the asthma and allergen 'can' lines (s8.l4-s8.l10); the bedroom, encase, humidity, vacuum/HEPA, chemical-supplement, or label lines (s9.l1-s9.l10). Jokes in those chapters come only after the last safety line.",
+    "Jokes never add a number, danger, feeling, motive, or instruction. No biting gag. No 'millions in every bed.' No thermostat or space-heater gag. No wash how-to in a joke.",
+    "Unused or description-only rows are listed in the changelog and open questions."
+  ],
+  "_factcheck": "Not yet checked by a second model. Every fact line carries its DM ID in 'src'. Research & Fact-check built the pack on 2026-11-15.",
+  "builder": "Jarvis production / animation (no TTS or shot-set handoff until Social Studio forwards the new spec)",
+  "pause_lines": [
+    "s6.l1",
+    "s6.l2",
+    "s6.l3",
+    "s6.l4",
+    "s6.l6",
+    "s8.l4",
+    "s8.l9",
+    "s8.l10",
+    "s9.l1",
+    "s9.l4",
+    "s9.l7",
+    "s9.l10"
+  ],
+  "end_hold": 12.0,
+  "end_label": "3 Bugs in Your House You Should Never Kill",
+  "end_label_short": "3 BUGS YOU SHOULD NEVER KILL",
+  "_timing": {
+    "wpm": 194.5,
+    "words": 1693,
+    "chapter_gap_s": 0.3,
+    "speech_s": 525.3,
+    "runtime_s": 537.3,
+    "runtime": "8:57.3",
+    "hook": "Your home: wash bedding in hot water, at least 130 F.",
+    "hook_words": 11,
+    "promise": "Your home: wash bedding in hot water, at least 130 F.",
+    "promise_spoken_by_s": 3.39,
+    "eight_things_line": "You were just born a dust mite. Here are eight things you have to get through.",
+    "eight_things_ends_s": 8.33,
+    "first_joke_s": 43.5,
+    "comment_prompt_s": 269.9,
+    "speech_midpoint_s": 262.6,
+    "mild_words": 3,
+    "mild_word_lines": [
+      {
+        "id": "s0.l8",
+        "say": "Meatball put on cardboard mite legs. They kept sliding off. Hell."
+      },
+      {
+        "id": "s3.l10",
+        "say": "Meatball watched a humidity gauge. Sauce sat in front of it. Damn."
+      },
+      {
+        "id": "s10.l3",
+        "say": "Meatball stacked the cards on the armrest. Noodle nosed them onto the floor. Damn."
+      }
+    ],
+    "longest_shot_hold_s": 1.97,
+    "longest_shot_hold_at": "s6.l5 shot 4",
+    "shots": 319,
+    "shots_under_2s": 319,
+    "shots_over_2s": 0,
+    "max_gap_s": {
+      "peak": 33.3,
+      "character": 75.0,
+      "retention": 215.6
+    }
+  }
+}
