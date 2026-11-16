@@ -30,14 +30,29 @@ Takeaway: **motion isn't our problem. Picture change, readability and character 
 9. **Loop:** the last shot returns to the frame-0 composition, so the cut to the replay is seamless.
 10. **Whip transitions:** 3-frame white smear on cuts; whoosh SFX only on location changes (audio spec §4).
 
-## Which style
-- **A, Rig v2 (procedural):** $0, fully consistent, fastest. The art is simpler than the outliers.
-- **B, Illustrated panels:** closest to what the 4.6M Short looks like, and the strongest picture. Each Short needs about 6-8 generated images plus a reference sheet to keep Meatball on-model. Risk: Meatball drifts slightly between images (visible in the samples), and YouTube/TikTok AI-content disclosure applies (the AI label is already ON per standing orders).
-- **C, Hybrid:** the style clash between flat rig and painted panels is visible. Recommend against unless the rig is restyled to match.
-- **Jarvis recommendation:** B for the hook and payoff shots on WMS and pet Shorts, A for in-between action and for volume days. Then upgrade the rig art toward B's line weight so C stops clashing. Test before locking: alternate A and B on the same series for 6 Shorts each, judged on viewed-vs-swiped and average % viewed at 48 h.
+## House style: C v2 "unified hybrid" (Moondog88, Nov 15 2026)
+**Decided:** keep C (hybrid). A-only and B-only are tossed as standalone styles. Reference render: `06_C_v2_unified_grizzly.mp4` (Jarvis's box; code `production/mb2/render.py hybrid2`).
+- **Panels** carry the money shots: frame 0 (hook), the decision beat (play dead / squish it / run), the fight or payoff, and the loop shot. **Rig** carries the action beats between them (chase, race, gag, reaction close-up).
+- **One reference sheet, every time:** `production/mb2/art/meatball_ref_sheet_v1.jpg` is passed as the first reference image on every panel generation, plus one existing panel for the location and lighting. Never generate Meatball without it. A panel where Meatball drifts (cap shape, eye size, limb style) is regenerated, not used.
+- **Rig matched to the panels:** silhouette ink line 11 px on screen and interior lines 7 px, constant at any zoom (`characters.ow()`). Ink is #1A1410. Meatball palette is #6E3D22 body, #4A2715 shadow, #8F5534 light, sauce #D42A22 to #9A1A14 with a white gloss. The bear is #6B4428 with #4A2E1A shadow, a #A87347 muzzle, and no pale belly. Shading is a soft painted gradient with one shadow tone, and fur-tuft edges on furry animals.
+- **Same world:** rig shots stand on a painted plate generated in the panel style for that location (one plate per location, mirror-tiled for scrolling). No flat procedural skies or snow when a panel shows a different place.
+- **One finish over everything:** shared grade (slightly warm), paper grain (overlay, 50%), and a 0.8 px soften on rig layers so vectors match the upscaled panels.
+- **Matched transitions:** every panel<->rig cut is a diagonal ink-brush wipe (0.24 s) with a whoosh. Rig<->rig and panel<->panel cuts keep the 3-frame white whip. The loop shot ends on frame 0's framing.
+- **AI label ON** (panels are generated images), per standing orders.
+
+## Topic lane and cadence (Moondog88, Nov 15 2026)
+- **Lane:** Would Meatball Survive? (big dangerous animals) plus house bugs and spiders (Things Living In Your House). **Paused:** news, CIA/nukes, pets.
+- **Bug long-forms are allowed** again. This overrides the MASTER_ORDERS 11/11 "no new bug videos" rule.
+- **Cadence:** 3 Shorts a day, unchanged.
+
+## Thumbnails (Moondog88, Nov 15 2026)
+- **Kept directions:** "TOO SLOW" (chase) and "PLAY DEAD?" (question). **Tossed:** "DON'T RUN".
+- **v2 rules** (samples in `channels/packaging/thumbs-v2/`, plus `*_168.png` phone checks): one huge Meatball face with one clear emotion, one dominant threat, a flat clean background (yellow, teal, red), 2 words in Anton with 28-30 px black outline, exactly one red word, and words kept out of the bottom-right timestamp zone. The art comes from the same reference sheet. Every thumbnail must read at 168x94. These follow `packaging/thumbnail-spec-two-styles-1115.md` on main, except that PLAY DEAD? uses a flat teal field instead of white (white reads weaker at 168 px). Moondog88 decides which spec wins.
+- `thumb_v2_3_dont-move.png` is a third candidate in the PLAY DEAD? family, for keep-or-toss.
 
 ## Render gate additions (postkit)
 - Shots/min ≥ 30 on Shorts (planned shots from the timeline, not frame diff).
 - No framing held over 2.5 s on Shorts.
 - Frame 0 motion > 0 and the subject's face visible (manual check on the contact sheet).
-- Loudness -14 ±0.5 LUFS, TP ≤ -1.0 (audio spec §5).
+- Loudness -14 ±0.5 LUFS, TP ≤ -1.5 dBTP, measured on the final encoded file (audio spec §5). mb2 lands -14.1 / -2.0.
+- Panel art: Meatball matches the reference sheet (manual check on the contact sheet).

@@ -1,3 +1,4 @@
+import re, os
 """mb2 audio: assemble per-line TTS into one voice track with planned gaps, synthesize SFX and a
 procedural music bed (no licences), duck the music under the voice (production-spec-audio-v2 §1),
 and give the renderer a mouth-open envelope for lip flap."""
@@ -115,13 +116,24 @@ def mix(voice, sfx_events, dur, music=True, duck_db=-8, music_under_db=-20):
         i = int(t0*SR)
         if i < n: out[i:i+len(s)] += s[:n-i] * (1 - 0.5*talk[i:i+len(s)][:n-i])
     return out
-def master(wav_in, video_in, out_mp4):
-    """Two-pass linear loudnorm to -14 LUFS / -1.5 dBTP (spec §5), H.264 high, yuv420p, faststart."""
-    m = subprocess.run(['ffmpeg', '-hide_banner', '-i', wav_in, '-af', 'alimiter=limit=0.79,loudnorm=I=-13.4:TP=-1.5:LRA=11:print_format=json', '-f', 'null', '-'],
-                       capture_output=True, text=True).stderr
-    j = json.loads(m[m.rindex('{'):m.rindex('}')+1])
-    af = (f"alimiter=limit=0.79,loudnorm=I=-13.4:TP=-1.5:LRA=11:measured_I={j['input_i']}:measured_TP={j['input_tp']}:"
-          f"measured_LRA={j['input_lra']}:measured_thresh={j['input_thresh']}:offset={j['target_offset']}:linear=true,aresample=48000")
-    subprocess.run(['ffmpeg', '-v', 'error', '-y', '-i', video_in, '-i', wav_in, '-map', '0:v', '-map', '1:a', '-af', af,
-                    '-c:v', 'libx264', '-profile:v', 'high', '-pix_fmt', 'yuv420p', '-crf', '20', '-preset', 'medium',
-                    '-c:a', 'aac', '-b:a', '192k', '-movflags', '+faststart', '-shortest', out_mp4], check=True)
+def measure(f):
+    """Integrated loudness (LUFS) and true peak (dBTP) of a file's audio, via ffmpeg ebur128."""
+    e = subprocess.run(['ffmpeg', '-hide_banner', '-nostats', '-i', f, '-map', 'a:0', '-af', 'ebur128=peak=true', '-f', 'null', '-'], capture_output=True, text=True).stderr
+    summ = e[e.rindex('Summary:'):]
+    I = float(re.search(r'I:\s+(-?[\d.]+) LUFS', summ).group(1)); TP = float(re.search(r'Peak:\s+(-?[\d.]+) dBFS', summ).group(1))
+    return I, TP
+def master(wav_in, video_in, out_mp4, target=-14.0, tp_max=-1.5, copy_video=False):
+    """v2 mastering (spec §5): gain -> 4x-oversampled limiter (true-peak safe) -> 48 k, measured on the ENCODED AAC and
+    iterated until integrated = -14.0 +/-0.2 LUFS and true peak <= -1.5 dBTP. (v1 used loudnorm: the peak cap held it at -14.6.)"""
+    g = target - measure(wav_in)[0]; lim = 0.76; tmp = out_mp4 + '.a.m4a'
+    for it in range(8):
+        af = f"volume={g:.2f}dB,aresample=192000,alimiter=limit={lim:.3f}:attack=2:release=80:level=false,aresample=48000"
+        subprocess.run(['ffmpeg', '-v', 'error', '-y', '-i', wav_in, '-af', af, '-c:a', 'aac', '-b:a', '192k', tmp], check=True)
+        I, TP = measure(tmp); print(f'master pass {it + 1}: gain {g:+.2f} dB, limit {lim:.3f} -> {I:.2f} LUFS, {TP:.2f} dBTP')
+        if abs(I - target) <= 0.1 and TP <= tp_max: break
+        if TP > tp_max: lim *= 10**((tp_max - TP - 0.3)/20)
+        else: g += (target - I)*1.6
+    vc = ['-c:v', 'copy'] if copy_video else ['-c:v', 'libx264', '-profile:v', 'high', '-pix_fmt', 'yuv420p', '-crf', '20', '-preset', 'medium']
+    subprocess.run(['ffmpeg', '-v', 'error', '-y', '-i', video_in, '-i', tmp, '-map', '0:v', '-map', '1:a', *vc,
+                    '-c:a', 'copy', '-movflags', '+faststart', '-shortest', out_mp4], check=True)
+    os.remove(tmp)

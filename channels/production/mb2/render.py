@@ -3,6 +3,8 @@
   rig     fully procedural vector (Meatball puppet rig + species rigs, parallax, camera, FX)
   panels  illustrated key-art panels with motion (Ken Burns, punch-ins, shake, flashes)
   hybrid  panels for the money shots, rig animation for the action beats
+  hybrid2 HOUSE STYLE (v2 unified): hybrid with panels regenerated from art/meatball_ref_sheet_v1.jpg, rig restyled to the
+          panel line weight/palette/shading, painted plate backgrounds, one shared grade + grain, ink-wipe panel<->rig transitions
 Usage: render.py STYLE OUT.mp4 [--label TEXT] [--frames N]   (episode: Would Meatball Survive? #3, grizzly)
 Audio follows channels/production-spec-audio-v2.md (wpm ~200, ducked bed, -14 LUFS two-pass)."""
 import json, math, os, subprocess, sys
@@ -40,7 +42,20 @@ class TL:
     def b1(self, i): return self.spans[i][1] if i < len(self.spans) else self.dur
 
 # ------------------------------------------------------------------ backgrounds (rig)
+V2 = False   # set by render() for hybrid2
+_plate = {}
+def bg_plate(cv, camx, tint=None):
+    """Painted forest plate (art/bg_forest_plate.jpg, generated in the panel style) scrolled with camx, mirror-tiled."""
+    if 'sh' not in _plate:
+        im = np.array(Image.open(os.path.join(HERE, 'art', 'bg_forest_plate.jpg')).convert('RGBA'))
+        _plate['img'] = skia.Image.fromarray(im, colorType=skia.kRGBA_8888_ColorType)
+    img = _plate['img']; sc = 3.2   # dirt path lands at y~1280-1660, where rig feet are
+    m = skia.Matrix(); m.setScale(sc, sc); m.postTranslate(-(camx % (img.width()*sc*2)) - 900, 0)
+    sh = img.makeShader(skia.TileMode.kMirror, skia.TileMode.kClamp, skia.SamplingOptions(skia.FilterMode.kLinear), m)
+    cv.drawPaint(skia.Paint(Shader=sh))
+    if tint: cv.drawPaint(fill(tint))
 def bg_forest(cv, camx, t, tint=None, snow=False):
+    if V2: return bg_plate(cv, camx, tint)
     sky = skia.GradientShader.MakeLinear([(0, 0), (0, H)], [C('#bfe3f2') if not snow else C('#dfe9f2'), C('#f3f0d8') if not snow else C('#ffffff')])
     cv.drawPaint(skia.Paint(Shader=sky))
     # far mountains
@@ -109,6 +124,8 @@ def panel(name):
         im = Image.open(os.path.join(HERE, 'art', name)).convert('RGBA')
         if name == 'p1_roar.jpg':  # bottom 28% of this one is blank: keep the drawn part
             im = im.crop((0, 0, im.width, int(im.height*0.715)))
+        if name == 'p1_roar_v2.jpg':
+            im = im.crop((0, 0, im.width, int(im.height*0.735)))
         a = np.array(im); _imgs[name] = skia.Image.fromarray(a, colorType=skia.kRGBA_8888_ColorType)
     return _imgs[name]
 def draw_panel(cv, name, u, z0, z1, c0, c1, rot=0.0):
@@ -116,6 +133,8 @@ def draw_panel(cv, name, u, z0, z1, c0, c1, rot=0.0):
     img = panel(name); iw, ih = img.width(), img.height()
     k = ease_in_out(u); z = lerp(z0, z1, k); cx = lerp(c0[0], c1[0], k)*iw; cy = lerp(c0[1], c1[1], k)*ih
     base = max(W/iw, H/ih); s = base*z
+    hw, hh = W/2/s, H/2/s   # keep the panel covering the frame (no black edges)
+    cx = clamp(cx, hw, iw - hw) if hw*2 < iw else iw/2; cy = clamp(cy, hh, ih - hh) if hh*2 < ih else ih/2
     cv.save(); cv.translate(W/2, H/2); cv.rotate(rot); cv.scale(s, s); cv.translate(-cx, -cy)
     cv.drawImage(img, 0, 0, skia.SamplingOptions(skia.FilterMode.kLinear, skia.MipmapMode.kLinear)); cv.restore()
 
@@ -190,6 +209,31 @@ def shots(tl):
         (Wd(4, 'Nothing'), tl.dur + 0.01, 'roar_cu', ('p1_roar.jpg', 1.32, 1.18, (0.5, 0.40), (0.5, 0.42)), True),
     ]
 
+PANELS_V2 = {  # shot index -> v2 panel framing (only the hybrid panel shots); 13 ends on shot 0's first frame (loop)
+    0: ('p1_roar_v2.jpg', 1.12, 1.30, (0.5, 0.45), (0.5, 0.40)),
+    9: ('p4_playdead_v2.jpg', 1.05, 1.20, (0.42, 0.58), (0.40, 0.60)),
+    10: ('p5_fight_v2.jpg', 1.9, 1.15, (0.42, 0.20), (0.5, 0.42)),
+    11: ('p5_fight_v2.jpg', 1.2, 1.45, (0.48, 0.72), (0.48, 0.76)),
+    13: ('p1_roar_v2.jpg', 1.30, 1.12, (0.5, 0.40), (0.5, 0.45)),
+}
+def grain_tiles(n=6):
+    rs = np.random.default_rng(3); out = []
+    for i in range(n):
+        g = np.clip(rs.normal(128, 16, (H//2, W//2)), 0, 255).astype(np.uint8)
+        a = np.dstack([g, g, g, np.full_like(g, 255)])
+        out.append(skia.Image.fromarray(a, colorType=skia.kRGBA_8888_ColorType))
+    return out
+GRADE = skia.ColorFilters.Matrix([1.04, 0.02, 0, 0, 0.01,  0.01, 1.0, 0.01, 0, 0.005,  0, 0.02, 0.93, 0, 0,  0, 0, 0, 1, 0])
+def ink_wipe(cv, k, draw_out):
+    """Shared panel<->rig transition: a diagonal ink brush stroke sweeps across; the outgoing shot stays on its far side."""
+    p = lerp(-300, W + 0.55*H + 300, ease_in_out(k))
+    far = path_poly([(p, 0), (W + 2000, 0), (W + 2000, H), (p - 0.55*H, H)])
+    cv.save(); cv.clipPath(far, doAntiAlias=True); draw_out(); cv.restore()
+    band = skia.Path(); band.moveTo(p + 60, -40); band.lineTo(p - 0.55*H - 22 + 60, H + 40)
+    bp = stroke(INK, 120); bp.setPathEffect(skia.DiscretePathEffect.Make(22, 9, 11)); cv.drawPath(band, bp)
+    rs = np.random.default_rng(int(k*6))
+    for _ in range(9):
+        yy = rs.uniform(0, H); cv.drawCircle(p - 0.55*yy + rs.uniform(90, 200), yy, rs.uniform(6, 20), fill(INK))
 def rig_shot(cv, name, t, u, d, mouth, tl):
     """t = global time, u = time into the shot, d = shot length."""
     blink = 1.0 if (t % 3.1) < 0.09 else 0.0
@@ -222,12 +266,12 @@ def rig_shot(cv, name, t, u, d, mouth, tl):
         meatball(cv, 540, 1180, 1.75, {'face': 'scared', 'run': u*38, 'mouth': mouth, 'sweat': True, 'lean': 14, 'look': (1, 0)})
         for k in range(4): cv.drawCircle(300 - k*60 - (u*200 % 60), 1470 - k*10, 30 - k*5, fill(C('#d9c7a0', 200 - k*40)))
     elif name == 'eye_cu':
-        cv.drawPaint(fill('#4f3220'))
+        cv.drawPaint(fill('#4a2e1a' if V2 else '#4f3220'))
         cv.save(); z = lerp(1.0, 1.15, u/d); cv.translate(W/2, H/2); cv.scale(z, z)
         cv.drawOval(skia.Rect(-330, -170, 330, 170), fill('#ffffff')); cv.drawOval(skia.Rect(-330, -170, 330, 170), stroke(INK, 18))
         pr = lerp(120, 70, clamp(u/0.4)); cv.drawCircle(0, 0, pr, fill(INK)); cv.drawCircle(-30, -40, 24, fill('#ffffff'))
         lid = clamp(u/0.35)*120
-        cv.drawRect(skia.Rect(-360, -220, 360, -170 + lid), fill('#4f3220'))
+        cv.drawRect(skia.Rect(-360, -220, 360, -170 + lid), fill('#4a2e1a' if V2 else '#4f3220'))
         cv.drawLine(-360, -150 + lid*0.4, 320, -230 + lid, stroke(INK, 30))
         cv.restore(); radial_lines(cv, t, W/2, H/2, 90)
     elif name == 'chase':
@@ -275,6 +319,8 @@ def rig_shot(cv, name, t, u, d, mouth, tl):
         meatball(cv, 540, 1180, 1.8, {'face': 'happy', 'bandage': True, 'mouth': mouth, 'arms': (14, -14), 'blink': blink, 'lean': 6*math.sin(u*3)})
 
 def render(style, out, label_text='', max_frames=None):
+    global V2
+    V2 = style == 'hybrid2'
     os.makedirs(os.path.dirname(os.path.abspath(out)), exist_ok=True)
     lines = [(p + '.mp3', p + '.words.json') for p in EP['lines']]
     voice, words, spans = audio.assemble(lines, EP['gaps'])
@@ -291,24 +337,27 @@ def render(style, out, label_text='', max_frames=None):
            (tl.w(1, 'is') + 0.25, 'scratch', -10), (tl.w(1, 'Bears'), 'heart', -8), (tl.w(1, 'like') - 0.1, 'whoosh', -8),
            (tl.w(2, 'knocks'), 'impact', -3), (tl.w(2, 'play'), 'ding', -12), (tl.b0(3), 'heart', -6),
            (tl.w(3, 'fight'), 'impact', -4), (tl.w(3, 'fight') + 0.3, 'pop', -6), (tl.w(4, 'Nothing') - 0.1, 'whoosh', -8), (tl.dur - 0.9, 'roar', -6)]
+    if V2: sfx += [(tl.b0(4) - 0.08, 'whoosh', -10)]  # ink wipe fight -> lived gets the same whoosh as the others
     mixw = audio.mix(voice, sfx, dur); audio.save(out + '.mix.wav', mixw)
+    if os.environ.get('REMASTER'):  # audio-only redo: keep the rendered picture, re-master the sound
+        src = out + '.src.mp4'; os.replace(out, src); audio.master(out + '.mix.wav', src, out, copy_video=True)
+        for f in (src, tmp, tmp + '.p.wav', out + '.mix.wav'): os.remove(f)
+        print('remastered', out); return
     n = int(dur*FPS) if not max_frames else max_frames
     enc = subprocess.Popen(['ffmpeg', '-v', 'error', '-y', '-f', 'rawvideo', '-pix_fmt', 'bgra', '-s', f'{W}x{H}', '-r', str(FPS), '-i', '-',
                             '-c:v', 'libx264', '-preset', 'veryfast', '-crf', '16', '-pix_fmt', 'yuv420p', out + '.video.mp4'], stdin=subprocess.PIPE)
     surf = skia.Surface(W, H); cv = surf.getCanvas()
-    cuts = []
-    for fi in range(n):
-        t = fi/FPS; mouth = float(env[fi]) if fi < len(env) else 0.0
-        for si, (a, b, rname, pnl, hyb) in enumerate(sh):
-            if a <= t < b: break
-        u, d = t - a, b - a
-        cv.clear(C('#000000'))
-        use_panel = style == 'panels' or (style == 'hybrid' and hyb)
-        if use_panel:
-            name, z0, z1, c0, c1 = pnl
+    grain = grain_tiles() if V2 else None
+    soft = skia.Paint(ImageFilter=skia.ImageFilters.Blur(0.8, 0.8))   # rig vectors -> same softness as upscaled panels
+    gradep = skia.Paint(ColorFilter=GRADE)
+    _gp = skia.Paint(BlendMode=skia.BlendMode.kOverlay); _gp.setAlphaf(0.5)
+    def is_panel(si): return style == 'panels' or (style in ('hybrid', 'hybrid2') and sh[si][4])
+    def draw_shot(si, t, mouth):
+        a, b, rname, pnl, hyb = sh[si]; u, d = t - a, b - a
+        if is_panel(si):
+            name, z0, z1, c0, c1 = PANELS_V2[si] if V2 else pnl
             cv.save()
-            shk = 0
-            if rname in ('roar_cu', 'knock', 'fight'): shk = 16*math.exp(-u*3)
+            shk = 16*math.exp(-u*3) if rname in ('roar_cu', 'knock', 'fight') else 0
             cv.translate(wobble(t, 7, shk, 12), wobble(t, 8, shk, 12))
             draw_panel(cv, name, clamp(u/max(d, 0.01)), z0, z1, c0, c1, rot=wobble(t, 9, 0.6, 0.8))
             cv.restore()
@@ -317,17 +366,35 @@ def render(style, out, label_text='', max_frames=None):
             if rname == 'surprise' and u > 0.15: mark(cv, 600, 640, 0.9, '!', u - 0.15)
             if rname == 'knock' and u < 0.07: cv.drawPaint(fill(C('#ffffff', 230)))
         else:
+            if V2: cv.saveLayer(None, soft)
             rig_shot(cv, rname, t, u, d, mouth, tl)
-        # whip transition: 3-frame directional smear on every cut
-        if u < 0.1 and si > 0:
+            if V2: cv.restore()
+    TR = 0.24
+    stills = [int(float(x)*FPS) for x in os.environ.get('STILLS', '').split(',') if x]
+    for fi in (stills or range(n)):
+        t = fi/FPS; mouth = float(env[fi]) if fi < len(env) else 0.0
+        for si, (a, b, rname, pnl, hyb) in enumerate(sh):
+            if a <= t < b: break
+        u, d = t - a, b - a
+        cv.clear(C('#000000'))
+        if V2: cv.saveLayer(None, gradep)
+        draw_shot(si, t, mouth)
+        wiping = V2 and si > 0 and u < TR and is_panel(si) != is_panel(si - 1)
+        if wiping: ink_wipe(cv, u/TR, lambda: draw_shot(si - 1, t, 0.0))
+        if V2: cv.restore()
+        if V2: cv.drawImageRect(grain[fi % len(grain)], skia.Rect(0, 0, W, H), skia.SamplingOptions(skia.FilterMode.kLinear), _gp)
+        # whip transition: 3-frame white smear on every same-type cut
+        if u < 0.1 and si > 0 and not wiping:
             k = 1 - u/0.1; cv.drawPaint(fill(C('#ffffff', int(70*k))))
         cards(cv, tl, t, EP['cards'])
         captions(cv, tl, t, EP['cap_key'])
         # top series tag for the first 1.8 s
         if t < 1.8: text_outlined(cv, 'WOULD MEATBALL SURVIVE? #3', W/2, 150, 54, '#ffffff', '#000', 10, alpha=int(255*clamp((1.8 - t)/0.3)))
         label(cv, label_text)
+        if stills: Image.fromarray(surf.makeImageSnapshot().toarray()[:, :, [2, 1, 0]]).save(f'{out}.still_{t:05.2f}.png'); continue
         enc.stdin.write(surf.makeImageSnapshot().tobytes())
     enc.stdin.close(); enc.wait()
+    if stills: return
     audio.master(out + '.mix.wav', out + '.video.mp4', out)
     for f in (tmp, tmp + '.p.wav', out + '.mix.wav', out + '.video.mp4'):
         try: os.remove(f)

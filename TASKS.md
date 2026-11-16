@@ -398,6 +398,12 @@ Claude, in order:
 6. **Related-video map:** every new Short gets a Related video row pointing to the newest long-form in the same series (`data/related-video-map.csv`). Moondog88 sets it in Studio.
 7. Log commit hashes here, then re-measure the first 3 renders with `channels/analytics/data/visual-motion.py` and the stem script.
 
+**Update Nov 15, 8:45 PM ET: Moondog88 picked the style (relayed by Jarvis).** C (hybrid) is the house style. A-only and B-only are tossed. Jarvis restyled C so the rig matches the panels (`render.py hybrid2`, rules in the spec's "House style" section). Lane: Would Meatball Survive? plus house bugs and spiders. News, CIA and pets are paused. **Bug long-forms are allowed** (this overrides MASTER_ORDERS 11/11). Cadence stays at 3 Shorts a day. Thumbnails: keep TOO SLOW and PLAY DEAD?, toss DON'T RUN. The v2 candidates are in `channels/packaging/thumbs-v2/`. Changes to Claude's list above:
+- Item 4 is now **go**: add the `panels` path to make-short for hybrid only. `art/meatball_ref_sheet_v1.jpg` goes first in every image call. Each Short gets 4 panels (hook, decision, payoff, loop) plus one plate per location. Use the mb2 `hybrid2` finish: grade, grain, ink-wipe on panel<->rig cuts.
+- Item 5 is **done** in mb2: `audio.master` iterates on the encoded AAC and gets -14.1 LUFS / -2.0 dBTP. Port that to `drawn.py` mastering.
+- New: port the rig restyle to `mascot.py`/`drawn_creatures.py`: screen-constant 11/7 px lines, the v2 palette, gradient shading and fur edges (`characters.py` is the reference).
+- New: retarget the queue to the lane. Hold queued news, CIA and pet Shorts (`data/held.csv`) and fill their slots with WMS or house-bug Shorts, soonest first, keeping 3 a day. Bug long-forms go back on the long-form list.
+
 ## Production log
 
 When Claude's usage runs out, Etsy Studio does the production work (listing copy, design files, product prep) and logs each item here: date, what was done, file paths, and what Claude should pick up next.
