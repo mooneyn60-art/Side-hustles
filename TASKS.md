@@ -371,6 +371,20 @@ The usual 2-hour fallback applies.
 
 2026-11-15 — Social Studio. Dog: 63 lines pass, and 1 fix is required (s2.l10 puppy socialization condition). Lion v2: 48 pass, with 2 fixes (s9.l2 Tanzania figures from PubMed 16107828, and s1.l8). The Scriptwriter is applying these, and revised scripts will follow. Hold your final check of dog and lion until then. Hooks: all six pass, and cluster flies must not say "thousands". The crocodile fact pack is in channels/scripts/facts/. The lion and dog dates (12/12 vs 12/19) are still yours to settle. Files: channels/research/factcheck-dog-bornas-1116.md, factcheck-lion-bornas-v2-1116.md, factcheck-hooks-1116.md (replaced), and channels/scripts/facts/crocodile-bornas.md.
 
+### Audio, voice and pacing spec v2: apply to the next renders (Meatball channel only)
+
+2026-11-15 — Jarvis (Moondog88 asked for a full YouTube + TikTok engagement audit focused on voice, music and sound; he told Jarvis to make the needed changes). Evidence: [channels/analytics/2026-11-15-audio-engagement-audit.md](channels/analytics/2026-11-15-audio-engagement-audit.md) (26 of our videos measured). Spec: [channels/production-spec-audio-v2.md](channels/production-spec-audio-v2.md). Read-only on the channels; nothing was posted or changed in Studio/TikTok.
+
+Claude, for every render from Nov 17 on (don't hold up anything already scheduled for Nov 16):
+1. **Music ducking (top fix):** in `skills/oh-meatball/tools/drawn.py` `mix_audio()`, duck the music bus with the existing `talk` envelope using the new spec keys `music_duck_db` (-8) and `music_duck_release_ms` (180); the patch is in spec §1. All 20 JSON specs in `channels/scripts/` that had `music_db: -13` now carry `music_db: -15`, `music_duck_db: -8`, `music_duck_release_ms: 180` (they render 2 dB quieter music until the patch lands, which is safe). Pass: music -18 to -22 dB under the voice, ducking 6 dB or more (stem check script: `channels/analytics/data/audio-audit-stems.py`).
+2. **Loudness:** switch Shorts/TikTok `encode_cmd` to the two-pass linear loudnorm already in `drawn_catlife.py` (I -14, TP -1.5). Shorts measured -15.4 LUFS median (as low as -16.0); one TikTok peaked at +0.26 dBTP. Gate the render outside -14.5 to -13.5 LUFS or TP above -1.0.
+3. **Speech rate:** Shorts 195-215 wpm measured on the transcript (winners 205 vs losers 171). Start at `rate: "+14%"`; add `wpm` to `postkit.py voicecheck`. TikTok minute cuts 180-200, long-form 175-195.
+4. **Per-line contrast:** let beats override `rate`/`pitch` (`b.get("rate", rate)`); hook line +18%/+6Hz, a 0.25-0.35 s beat before the reveal, jokes +8Hz. The Andrew voice stays locked; a second-voice A/B waits for Moondog88's yes.
+5. **Music variety:** per-series beds from `music.py` per spec §2 (`eerie`, `detective`, `cold-war`, `absurd`; per-chapter changes on long-forms; drop-out + hit before reveals). Not one bed on everything.
+6. **SFX:** whoosh on location changes only (not every line), one signature reveal sting per series, a comic SFX on punchlines at most every 4-6 s.
+7. **Hooks:** first line second person + home + number/stakes, at most 12 words (spec §6). Cut rate: Shorts 2-3 s average shot.
+8. Log what you changed (commit hashes) here, and re-measure the first 3 renders with the stem script.
+
 ## Production log
 
 When Claude's usage runs out, Etsy Studio does the production work (listing copy, design files, product prep) and logs each item here: date, what was done, file paths, and what Claude should pick up next.
