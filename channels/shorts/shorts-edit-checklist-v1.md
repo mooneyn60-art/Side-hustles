@@ -1,42 +1,59 @@
 # Shorts edit checklist v1
 
+## Changelog, 11/15 8:30 PM ET
+
+SPEC CHANGE ONLY. No renders, no pipeline changes, no commits. Matches the "Script and edit rules" in `plan-update-1115.md` (Moondog88's decisions, relayed through Jarvis and Social Studio). Existing grades were not re-run.
+
+- Frame 0 item is now "the threat in close-up" (was: creature mid-action in the hook room). It is still the loop target.
+- Hook checks: you + your home + a number or threat, and hook word count under 12; hedges stay where a fact needs one. The claim card stays on at 0.00 s.
+- Pace item is now a new picture every 1–2 s, with no gap between picture changes over 2.0 s (replaces 1–3 s, and the 2–4 s long-form note).
+- Comment item is now one comment trigger per script, phrased as a debate prompt (replaces one open comment question).
+- New check: the Short speaks a long-form promise that points to the matching long-form, and that line has to fit inside the 16–18 s Nov 16–29 budget (length is unchanged). This is a tension to resolve, not a solved policy. A 3–5 word promise inside the loop line is a suggestion only, not a rule.
+- New standing-rule checks: sourced facts; safety lines keep their condition; no team logos or betting; titles name the creature or carry the series tag; 3 Shorts a day, at least 3 h apart.
+- Grading note added: the existing grades predate these rules; a count of which of the six hooks are 12 words or more, and which have no spoken long-form promise, is listed there from the actual hooks-bank text. Scripts were not re-graded.
+- Animation style is noted in `shorts-edit-spec.md` only (illustrated panels plus the code-drawn rig; Jarvis owns it; current renders stay as they are). This checklist does not restyle or re-render anything.
+
 Status: **draft only**, Sunday, Nov 15, 2026, 7:20 PM ET (America/New_York). Written to `/workspace/drafts/` for Social Studio to commit. No repo edit, no render, no schedule, no post, no channel-settings change. Claude re-renders; this file only grades and proposes trims.
 
 Primary due: Monday, Nov 16, 2026, 4:45 PM ET.
 
-Companion files: `shorts-edit-spec.md` (full templates), `shorts-edl-carpet-beetle-window.md`, `shorts-edl-christmas-tree-bugs.md`. Hook source: `/workspace/drafts/shorts-hooks-1s-1115.md` (same text as `channels/scripts/shorts-hooks-1s-1115.md`).
+Companion files: `shorts-edit-spec.md` (full templates), `plan-update-1115.md` (script and edit rules, 11/15), `shorts-edl-carpet-beetle-window.md`, `shorts-edl-christmas-tree-bugs.md`. Hook source: `/workspace/drafts/shorts-hooks-1s-1115.md` (same text as `channels/scripts/shorts-hooks-1s-1115.md`).
 
 Runtime math used throughout: **194.5 wpm**, the house rate from the posted moose minute cut (289 words in 89.13 s on Andrew at +10%), as used in the hooks bank and current v6 script notes. A word is a token with letters or digits; contractions, hyphenated words, and numerals count as one. Where a script lists a `pad`, it is added after spoken time. **No queued mp4 or TTS file was on this box**, so render duration is not independently measured here. Packaging's bug-shorts lint pass also noted that `--mp4` was not run because the sparse clone excluded episode media.
 
-Proven vs guideline is marked on each checklist item. See `shorts-edit-spec.md` for the fuller templates (16–18 s YouTube, 65–90 s TikTok Creator Rewards, long-form cutdowns).
+Proven vs guideline is marked on each checklist item. See `shorts-edit-spec.md` for the fuller templates (16–18 s YouTube, 65–90 s TikTok Creator Rewards, long-form cutdowns). Script and edit rules follow `plan-update-1115.md`.
 
 ---
 
 ## Checklist (use on every test Short)
 
-### 1. Frame 0 is the hook visual, and it is the loop target
+### 1. Frame 0 shows the threat in close-up, and it is the loop target
 
-**Proven as a house order; first-second "chose to view" is the missing signal the packaging plan names, but we do not have stayed-to-watch per Short in the export.**
+**House order (plan update 11/15). First-second "chose to view" is still the missing signal the packaging plan names, but we do not have stayed-to-watch per Short in the export.**
 
-- [ ] First frame: the creature is already mid-action in the hook room. No logo, no establishing shot, no Meatball, no countdown.
-- [ ] Last shot returns to that same room and the same mid-action creature, so the loop joins picture as well as words.
+- [ ] First frame: the threat is in close-up. No logo, no establishing shot, no Meatball, no countdown.
+- [ ] Last shot returns to that same close-up of the threat, so the loop joins picture as well as words.
 - Pass / Flag: ____
 
-### 2. On-screen text in the first second
+### 2. Hook and on-screen text in the first second
 
-**Partly proven (best openers state the twist immediately; textbook lines in 0:04–0:06 dropped 15–24% in Studio AI reads). The 3–5-word card vs 6–8-word hedged hook is a resolved house compromise in the hooks bank, not a tested card length.**
+**House order (plan update 11/15) plus the existing first-second card rule.** Best openers state the twist immediately; textbook lines in 0:04–0:06 dropped 15–24% in Studio AI reads. The claim card stays on at 0.00 s. A hook under 12 words can still run past 1.00 s at 194.5 wpm; the card, not a faster read, carries the claim in the first second.
 
+- [ ] Spoken hook is you + your home + a number or threat.
+- [ ] Hook word count is under 12 (a word is a token with letters or digits; contractions, hyphenated words, and numerals count as one).
+- [ ] Hedges stay where a fact needs one (`about`, `typically`, `can`, `may`, `up to`), in the voice and on the card.
 - [ ] A claim card is on at 0.00 s and stays readable through the first second.
-- [ ] The card matches the spoken hook in meaning, including hedges (`about`, `typically`, `can`, `may`, `up to`).
+- [ ] The card matches the spoken hook in meaning, including those hedges.
 - [ ] No spoken study name, year, or sample size in the hook. Sources stay on the tag or in the description.
 - Pass / Flag: ____
 
-### 3. Cut pace — a visual change every 1–3 s
+### 3. Cut pace — a new picture every 1–2 s
 
-**Guideline.** Long-form review asked for a change every 2–4 s. This tighter Shorts cadence is a working rule, not a finding from our Shorts table.
+**House order (plan update 11/15).** This replaces the old 1–3 s Shorts cadence and the 2–4 s long-form note. It is not a finding from our Shorts table.
 
-- [ ] Every 1–3 s: a new scene, camera move, card, Meatball entrance, or creature action.
-- [ ] Lines longer than 3 s (especially the loop line) have mid-line visual changes. A still must not hold past 3 s.
+- [ ] A new picture every 1–2 s: a new scene, camera move, card, Meatball entrance, or creature action.
+- [ ] No gap between picture changes over 2.0 s.
+- [ ] Lines longer than 2.0 s (especially the loop line) have mid-line visual changes. A still must not hold past 2.0 s.
 - Pass / Flag: ____
 
 ### 4. Caption safe zones (YouTube Shorts and TikTok)
@@ -68,22 +85,59 @@ House working placement (pipeline, not official):
 **House order. Looping improves % viewed in our table but did not break the ~1K view ceiling (n=7 at >110% viewed, median 1,153).**
 
 - [ ] Last spoken word is "And," and it runs grammatically into line 1.
-- [ ] The open question is spoken before "And," and is the same as the pill and the pinned comment.
-- [ ] Last picture is the hook room, mid-action, matching frame 0. No end card, no Subscribe, no new room.
+- [ ] Exactly one comment trigger, phrased as a debate prompt, is spoken before "And," and is the same as the pill and the pinned comment. (This replaces the old "one open comment question" rule.)
+- [ ] Last picture is the same close-up of the threat as frame 0. No end card, no Subscribe, no new room.
 - [ ] At most ~0.08 s loop pad, and only if the cut is still ≤ 18.0 s.
 - Pass / Flag: ____
 
 ### 6. Length check — 16–18 s for the Nov 16–29 test
 
-**Proven band:** Shorts ≤17 s had median 1,187 views at 90% viewed (n=20); 35 s+ had median 285 (n=5). Standing lint window remains 15.0–20.05 s; the test uses 16.0–18.0 s.
+**Proven band:** Shorts ≤17 s had median 1,187 views at 90% viewed (n=20); 35 s+ had median 285 (n=5). Standing lint window remains 15.0–20.05 s; the test uses 16.0–18.0 s. The plan update does not change length.
 
 - [ ] Spoken + listed pads + allowed 0.08 s loop pad land between 16.0 and 18.0 s at 194.5 wpm, then confirmed on the render (or a TTS file) before schedule.
+- [ ] The spoken long-form promise fits inside that 16.0–18.0 s budget. This is a tension to resolve, not a solved policy: do not add runtime past 18.0 s to make room, and do not treat a placement as locked. One suggestion, not a rule, is a 3–5 word promise inside the loop line.
 - [ ] No extra silence from leftover queued pads.
+- Pass / Flag: ____
+
+### 7. Spoken long-form promise
+
+**House order (plan update 11/15).** Every Short speaks a long-form promise that points to the matching long-form. Where that line sits is not locked (see item 6).
+
+- [ ] The voice speaks a long-form promise, and it points to the matching long-form (not a generic "watch more").
+- [ ] That line is inside the same 16.0–18.0 s cut as the rest of the Short.
+- Pass / Flag: ____
+
+### 8. Standing rules (unchanged, still in force)
+
+**House orders, restated in the plan update.**
+
+- [ ] Every spoken fact is sourced. No invented numbers, study names, or hedges.
+- [ ] Every safety line keeps its condition (do not leave a bare instruction or cut the "if / when / under" clause).
+- [ ] No team logos or betting appear in the picture, the captions, or the title.
+- [ ] The title names the creature or carries the series tag.
+- [ ] Cadence: at most 3 Shorts that day, and this slot is at least 3 hours from the others.
 - Pass / Flag: ____
 
 ---
 
 ## Grading: six test scripts in the 1-second hooks bank
+
+**These grades predate the 11/15 8:30 PM ET script and edit rules** (frame-0 close-up of the threat; hook is you + your home + a number or threat, under 12 words; a new picture every 1–2 s; one debate-prompt comment trigger; a spoken long-form promise inside 16–18 s). They were not re-run against those rules. The table and the "what will not edit to spec" list below are left as written.
+
+Counted from the actual spoken text in `/workspace/drafts/shorts-hooks-1s-1115.md`, including the §4 clothes-moth refit. A word is a token with letters or digits; contractions, hyphenated words, and numerals count as one.
+
+**Hooks 12 words or more:** none of the six current hooks-bank scripts.
+
+- `dust-mites` — 7 words: "Female dust mites lay about 50 eggs."
+- `carpet-beetle-window` — 7 words: "Varied carpet beetles typically lay 40 eggs."
+- `christmas-tree-bugs` — 8 words: "Christmas trees can hide about 100 mantis eggs."
+- `pantry-vs-clothes-moth` — 7 words: "Adult clothes moths never eat. Babies do."
+- `cluster-flies` — 7 words: "Cluster flies can wake in your walls."
+- `booklice-cupboard` — 6 words: "Booklice eat mold in your cupboards."
+
+The pre-refit clothes-moth hook still quoted in the older grade notes below, "The moth in your closet never eats. Its babies eat your sweaters.", is 12 words. The current §4 hook is the 7-word line above.
+
+**No spoken long-form promise:** all six. None of the spoken scripts points to a matching long-form.
 
 Scripts graded: the six full Shorts in `/workspace/drafts/shorts-hooks-1s-1115.md` (dust mites 11/16, carpet beetle 11/17, Christmas-tree bugs 11/18, clothes moth and cluster flies 11/19, booklice 11/20). These are draft rewrites, status "re-render needed, Claude's call after fact-check." Dust mites is expected to ship as queued unless Social Studio changes that; it is still graded here as written in the hooks bank.
 
