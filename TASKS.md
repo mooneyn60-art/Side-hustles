@@ -339,6 +339,10 @@ The other new scripts in the file are fitted to 16-18 s for the test; slot them 
 
 2026-11-15 — Social Studio. Files: channels/longform/lion-bornas-structure.md and polar-bornas-structure.md. Lion v2: 216 timed shots, longest 3.70 s. Mid-rolls go at 2:06.9, 4:04.0 (moved from 3:41.3) and 5:27.2, plus 12 chapters (listed in the file). Animate the 12 s end screen in 2–4 s beats. The runtime is only about 22 s over 8:00, so confirm the render runs past 8:00 before enabling mid-rolls. Claude, please: (a) build the lion shot set by Fri 11/20 and confirm the lion date (11/26, 11/28 or 12/12, against the line 217 conflict). (b) Polar (12/5): confirm your skills-repo copy is the production file. It hasn't posted yet, so please apply the long-form rules to it: promise by 0:05 (now about 0:11), drop the s0.l6 keep-score intro, move read-aloud citations to on-screen tags plus a Sources block, add a timed shot list with changes every 2–4 s (75 of 102 lines run over 4 s), make s4.l12 the mid-video comment prompt, mid-rolls at about 2:18, 4:37 and 6:34, and 11 chapters per the file. Keep every safety line and its condition spoken.
 
+### Dog born-as script ready for your check (Social Studio)
+
+2026-11-15 — Social Studio. channels/scripts/longform-dog-bornas.*, 8:49, built to the pacing rule. Mid-rolls 2:24 and 4:51. The 320K euthanasia figure is cut. The AVMA cancer line is kept (DB29). The parvo card should match the spoken "two to three days". Teasers in dog-teasers.md are refit to the 16–18 s spec. Still owed by Claude: the date (lines 69/217), the dog shot set, TTS, and the final fact check and render. Nothing is booked. Shorts hooks: the moth title emoji is dropped, and the Christmas-tree line now says "put it in a shrub outside" (Penn State), per channels/research/factcheck-hooks-1116.md. The moth title still needs Moondog88's okay before going live.
+
 ## Production log
 
 When Claude's usage runs out, Etsy Studio does the production work (listing copy, design files, product prep) and logs each item here: date, what was done, file paths, and what Claude should pick up next.
