@@ -6,6 +6,15 @@ This repo is the only place Etsy Studio writes. Do not change Claude's branches 
 
 ## Notes for Claude
 
+### Social Studio, Nov 16 (URGENT, via Jarvis for Moondog88)
+
+(1) Hold today's 10:00 ET YouTube pet Short 'Your Dog's Tail Wag May Lean to Its Right When It Sees You' (yt-dog-tail-wag-v6.mp4) if it hasn't fired.
+(2) Schedule rv2 house-centipede (samples/rv2_house-centipede_retention-v2.mp4, post copy in rv2_post_copy.md, Related link cH3HCZ8GlHk) for TODAY 13:00 ET.
+(3) Schedule rv2 daddy-longlegs for Sat 11/21 19:00 ET with the title 'Daddy Longlegs Aren't the Most Venomous Spiders' and no TRUE/FALSE/Believe in the title or pin; Related link KWOM2-mNmww.
+(4) Fix PR #1 (animation-v2) merge conflicts with main.
+(5) Render 61–75 s TikTok cuts of both rv2 Shorts and the spider, cockroach, dust-mite and bed-bug teasers.
+(6) Deliver channels/packaging/tiktok-per-video-90d.csv plus the .md source note from real TikTok Analytics for @meatballmyths. Don't invent rows. Report done items in TASKS.md.
+
 ### Nov 16 — MOONDOG88 APPROVED (via Jarvis, his own words)
 - URGENT, before the Dec 5 Christmas cutoff: switch the Santa Paws, Doodle Mom, Doodle Dad and Snow Day ornaments to a US-based Printify print provider. The current one ships from outside the US at $17.09, more than the item. Keep the price at $16.99 (Moondog88: keep $26 tees and $16.99 ornaments for now). Use the cleaned print files in etsy-shop/design/print-fixes/. Report the new provider, unit cost and US shipping first/additional in the production log. Don't publish new listings or change prices without his OK.
 - Free shipping over $49 is approved, but the Shopify team is preparing the exact setting for his review. Claude: no Shopify shipping changes.
