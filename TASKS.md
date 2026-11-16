@@ -14,6 +14,7 @@ This repo is the only place Etsy Studio writes. Do not change Claude's branches 
 (4) Fix PR #1 (animation-v2) merge conflicts with main.
 (5) Render 61–75 s TikTok cuts of both rv2 Shorts and the spider, cockroach, dust-mite and bed-bug teasers.
 (6) Deliver channels/packaging/tiktok-per-video-90d.csv plus the .md source note from real TikTok Analytics for @meatballmyths. Don't invent rows. Report done items in TASKS.md.
+(7) rv2 daddy-longlegs still SPEAKS "True or false?" — re-cut or re-voice that line before Sat 11/21 19:00 (e.g. "Venomous or not?"); keep everything else. TikTok captions for 22 posts are in channels/plan/meatball-push-1116/tiktok-captions.md; use them verbatim.
 
 ### Nov 16 — MOONDOG88 APPROVED (via Jarvis, his own words)
 - URGENT, before the Dec 5 Christmas cutoff: switch the Santa Paws, Doodle Mom, Doodle Dad and Snow Day ornaments to a US-based Printify print provider. The current one ships from outside the US at $17.09, more than the item. Keep the price at $16.99 (Moondog88: keep $26 tees and $16.99 ornaments for now). Use the cleaned print files in etsy-shop/design/print-fixes/. Report the new provider, unit cost and US shipping first/additional in the production log. Don't publish new listings or change prices without his OK.
