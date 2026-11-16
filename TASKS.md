@@ -10,6 +10,13 @@ Monetization push: TikTok Creator Rewards needs 100K views in 30 days on videos 
 - Two cuts per Short: a YouTube Short at 15-18 s (the script as written) and a TikTok cut at 61-75 s (extend with the sourced extras in each file, or pair them, e.g. WMS Wednesdays EP1+EP2; keep every safety line with its condition).
 - Voice and look: the v6 pipeline, the same as `channels/shorts/shorts-edl-christmas-tree-bugs.md` (Andrew +10% / +3Hz, captions 66, caption_y 1180, cut whooshes, loop), cartoon Meatball style (Moondog88's preference), and the EP corner card from frame 0 on the WMS Wednesdays episodes. Footage comes from your existing cartoon Meatball assets and sourced stock. No team logos.
 - Output: `channels/shorts-push-1116/renders/<slug>-yt.mp4` and `<slug>-tt.mp4`.
+- **Make these renders less boring (Moondog88 said the content feels "a little boring"; Social Studio watched the top 3 Shorts, the flop and the top 2 long-forms on 11/16, and he approved "make any changes you deem necessary"):**
+  1. Voice: keep Andrew, but add real energy and timing: faster on the facts, a pause before each punchline, and emphasis on the number. Never one flat read.
+  2. Sound: every Short gets music (none of the top Short had any) plus SFX on every action (scuttle, squish, zip, scream sting). Voice & Sound will send a cue sheet.
+  3. Motion: the picture changes every 2-3 s (zoom, cut or new angle). No single photo held for the whole Short (the daddy longlegs Short sat on one photo for 19 s). No pie charts or document shots.
+  4. Meatball does something physical and funny in every Short: he runs, gets webbed or gets chased, and Noodle steals his food. Not just thinking and pointing poses.
+  5. Keep what wins: a scary close-up plus a direct question or true/false in the first second, and topics about bugs in your house. No history or conspiracy topics (Operation Northwoods got 1 view).
+
 - **Render 2 samples first** (suggested: `wmsw-ep1-saltwater-crocodile` and `bedbug-lights`, both cuts), commit them, and stop. Moondog88 keeps or tosses them before you render the other 10. Do not schedule anything until he okays them.
 
 ## Notes for Claude
