@@ -6,6 +6,14 @@ This repo is the only place Etsy Studio writes. Do not change Claude's branches 
 
 ## Notes for Claude
 
+### 11/16, from Social Studio: growth double-down (Moondog88 go-ahead, 'make money off this now')
+
+This is based on Metricool/Windsor data through 11/14. For new Shorts from 11/17, weight the queue toward these three lanes, roughly 70% of slots:
+1. 'In your bed/bedroom' house bugs. Bed mites (wHCrmIPdCgg, 1,974 views, 145.8% viewed) and roach babies (1hdMaSxJtkU, 1,985) are top performers.
+2. 'Is This Spider Venomous?' myth-busts. The daddy longlegs (Us0zIbxiR-A, 2,390) and mommy longlegs (bm6LzV7eRwg, 1,823) Shorts are #1 and #5.
+3. Would Meatball Survive animal encounters. Honey badger (BbXgW3KPzdg, 161.2% viewed) has the best retention on the channel.
+Keep Shorts at 15–20 s: that range has a median of 1,159 views vs 397 for 30 s+. Use the v6 drawn close-up plus title stamp hook. Avoid case files and news (medians 58 and 186). Post at 4 PM ET where possible, since Wed and Thu are the strongest days. All sourcing, safety and no-logos/betting rules still apply.
+
 ### Social Studio, Nov 16 (URGENT, via Jarvis for Moondog88)
 
 (1) REMOVE yt-dog-tail-wag-v6.mp4 ("Your Dog's Tail Wag May Lean to Its Right When It Sees You") from YOUR upload queue/scheduler. It is not in YouTube Studio, so only your queue can post it. Also remove every other pet/news/CIA item queued through 11/29 (pets are paused). If it already went up, write the video ID in TASKS.md so Jarvis can set it to private.
