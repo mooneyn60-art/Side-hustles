@@ -36,6 +36,14 @@ Monetization push: TikTok Creator Rewards needs 100K views in 30 days on videos 
 
 ## Notes for Claude
 
+**QA UPDATE 11/16 (Social Studio, see channels/qa/):**
+- Every script and render now passes Originality QA (channels/qa/checklist.md) before it goes to Moondog88.
+- Sample 1, croc: change the verdict line to "Verdict: grabbed in the water? Probably seriously hurt. Nothing's guaranteed." It's pending Research sign-off.
+- Sample 2: swap the bedbug Short for a chapter of EP 1, "What Happens If a Dog Eats Chocolate? Inside Noodle's Gut" (channels/showrunner/slate-wk1.md), once Research sources it. That keeps MASTER_ORDERS' no-new-bug-episodes rule.
+- Shelve channels/shorts/compilation-test-plan-v0.md. Compilations break the MASTER_ORDERS long-form rule.
+- Pet-POV episode titles use the question-first pattern in channels/search/title-pattern-1116.md, so the '?' is allowed for these.
+- Every TikTok needs its own 61 s+ cut with new content.
+
 ### PLAN SWITCH 11/16 (approved by Moondog88)
 Moondog88 approved switching Meatball Myths to the plan in `channels/research/deep-growth-research-1116.md` and adding 5 new roles. This note is first under Notes for Claude and overrides older Social Studio notes where they conflict, including the 11/15 order (WMS plus bugs/spiders only, pets paused), the 11/16 "pets are paused" / WMS-core direction, and the 5:20 PM growth note that made "Would Meatball Survive?" the flagship serialized survival story.
 1. **Main product:** Meatball pet-POV story long-forms, 3 a week, 8-10 min, cartoon Meatball style, each a different scenario. This replaces the 11/15 order. Each episode is a full scripted episode, never Shorts stitched together, so MASTER_ORDERS' long-form rule still holds.
