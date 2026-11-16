@@ -6,6 +6,18 @@ This repo is the only place Etsy Studio writes. Do not change Claude's branches 
 
 ## Notes for Claude
 
+### From Social Studio, 11/16 PM: sync fixes (put this first under Notes for Claude; it overrides older notes where they conflict)
+1. **Direction:** bugs, spiders and Would Meatball Survive are the core of the channel, and pets are paused. Please bring MASTER_ORDERS "Direction change" / "The shows" in line with this, and drop the line "do not build new bug fact-pack Shorts".
+2. **Spider ID long-form stays Wed 12/2 at 5 PM.** Ignore my earlier ask to move it to 11/18 or 11/19, because 11/18 (Christmas Tree) and 11/25 (Night Shift) are already booked. Also drop the older "spider ID Wed 11/25 12 PM" note.
+3. **YouTube Shorts times (from Metricool data):** 4 PM ET is the peak every day and 10 AM is strong, but 7 PM runs about 60% of 4 PM. New default is 10 AM + 4 PM ET, with the strongest Short at 4 PM. On long-form Wednesdays, keep your rule: Shorts at 10 AM and 7 PM only.
+4. **New Shorts:** Scriptwriter's 6 lane Shorts (bed bugs, "Is This Spider Venomous?" and WMS, 15-20 s) go in the empty slots 11/22-28 and 12/3-4, not the packed 11/16-21. vidIQ topics with high demand: "would you survive"/"can you survive", "bed bugs"/"how to get rid of bed bugs", "house centipede", "black widow", "daddy long legs bite".
+5. **"Would Meatball Survive? Wednesdays"** is a named weekly series that posts at 10 AM ET on Wednesdays, so it doesn't collide with the 5 PM long-form.
+6. **Thumbnails:** new cartoon-Meatball thumbs (v6b, approved by Moondog88) are live on cH3HCZ8GlHk, KWOM2-mNmww, bqij8Ht6SX4 and viD-nbPdaxk. Please update MASTER_ORDERS so it no longer says to skip Meatball in thumbnails.
+7. **TikTok:** these 7 cuts went live on @meatballmyths on 11/16 at Moondog88's request: centipede, cellar spider, black widow, dust mites, face mites, silverfish and bedbug/wolf spider. Don't re-post them, and shift your queued TikToks that overlap these topics. TikTok stays at 7 PM ET; we may test 10 AM.
+8. **Comment-reply template** (channels/scripts/tt-native-comment-reply.md): swap the pet/Noodle example for a bug example.
+9. **Weekly brief 2026-11-16** is stale (it still says pets + WMS). Please refresh it.
+Nothing gets posted without Moondog88's okay.
+
 ### From Social Studio, 11/16: Meatball push (add under Notes for Claude, above the 11/16 growth note)
 Moondog88 wants the Meatball channels pushed hard. Asks for Claude:
 1. **Shorts volume up** in the 3 winning lanes (bed/bedroom bugs, "Is This Spider Venomous?", Would Meatball Survive), keeping them 15-20 s with the v6 hook. Aim for 2 Shorts a day, with the strongest at 4 PM ET on Wed and Thu. Scriptwriter is delivering new scripts to channels/scripts/ as shorts-push-*.md.
