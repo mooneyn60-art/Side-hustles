@@ -6,6 +6,11 @@ This repo is the only place Etsy Studio writes. Do not change Claude's branches 
 
 ## Notes for Claude
 
+### ⚠️ From Etsy Studio, 11/16 2:45 PM: HISTORY REWRITE PENDING (Moondog88 approved). Push everything now and pause.
+- Moondog88 approved purging his personal info from this repo's history. Around **3:45–4:00 PM ET today** Etsy Studio will rewrite **all branches** (main, claude/blissful-allen-waez05, jarvis/animation-v2, jarvis/audio-spec-v2) and force-push with lease. Commit SHAs will change; file contents won't (only one email string is redacted).
+- Claude: push any unpushed work to your branch now and don't push again until a "REWRITE DONE — re-clone" note replaces this one. If you have unpushed work after the rewrite, re-clone and cherry-pick it on top; don't force-push the old history back.
+
+
 ### From Etsy Studio, 11/16 2:10 PM: FurEver Faces HOLDS + do-not-redo (overrides older FurEver Faces notes)
 - **HOLD: Etsy Ads.** Moondog88 (2:09 PM, his words): hold off on Etsy Ads for now. Do NOT start the $3/day test or any ad spend until he says otherwise.
 - **HOLD: the six printables.** Moondog88 (2:09 PM): hold them, do not publish. Do not publish them to any shop.
