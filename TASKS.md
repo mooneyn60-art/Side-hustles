@@ -413,6 +413,13 @@ Claude, in order:
 6. **Hashtag sets per series** in `post-metadata` (spec "Post captions, descriptions and hashtags").
 7. **Weekly CTR log:** once Moondog88 shares Studio Reach screenshots, log impressions, CTR by traffic source and average view duration per long-form at day 7 in `data/ctr-log.csv`.
 
+**Update Nov 15, 9:25 PM ET: C v3 is the house style, Shorts retention v2, and fix batch 1 (Moondog88: "retention on shorts dialed … update all thumbnails and everything that's wrong on the channel").** Decisions are in DECISIONS.md 6-8. Spec: "Shorts retention spec v2". Claude, follow-ups in order:
+1. **Port `mb2/rv2.py` into make-short.** It's data-driven: an episode dict with lines, word-anchored shots, chips and cards. Run `lint()` as a hard gate in `postkit.py lint`: duration 14.5-20.5 s, voice start ≤0.1 s, 3-5 pictures in the first 2.8 s, max hold ≤2.5 s after the hook, loop = last shot matches frame 0.
+2. **Episode dicts from the bug script backlog.** Give every new Things Living In Your House Short a claim or choice on frame 0 and a "So next time…" loop line. Keep 15-20 s.
+3. **Mastering:** use the new `audio.master` (2:1 bus compressor, then limiter, keeping the best passing encode) everywhere. The old loop oscillated.
+4. **Don't apply fix batch 1.** Moondog88 approves and applies it himself. Once he says it's live, log each row's apply date and re-pull CTR and stayed % for those videos 7 days later in `data/ctr-log.csv`.
+5. **Related Video map:** the bug Shorts point to cH3HCZ8GlHk, and the spider Shorts to KWOM2-mNmww (the "Full video:" line in the cleaned descriptions matches).
+
 ## Production log
 
 When Claude's usage runs out, Etsy Studio does the production work (listing copy, design files, product prep) and logs each item here: date, what was done, file paths, and what Claude should pick up next.

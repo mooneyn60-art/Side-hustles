@@ -30,7 +30,17 @@ Takeaway: **motion isn't our problem. Picture change, readability and character 
 9. **Loop:** the last shot returns to the frame-0 composition, so the cut to the replay is seamless.
 10. **Whip transitions:** 3-frame white smear on cuts; whoosh SFX only on location changes (audio spec §4).
 
-## House style: C v2 "unified hybrid" (Moondog88, Nov 15 2026)
+## House style: C v3 replaces C v2 (Moondog88, Nov 15 2026, 9 PM ET)
+C v3 (`samples/v3_C_grizzly_outlier-hook.mp4`, `render.py hybrid3`; generic version `rv2.py`) is the house style. In practice that means the C v2 look (below) plus:
+- the outlier hook: "You" + situation + stakes in the first 3 s
+- 3-4 pictures in the first 2.8 s
+- choice chips that work as the comment trigger
+- a loop back to frame 0
+- no series tag on screen
+
+Every new Short follows the "Shorts retention spec v2" below.
+
+## House style: C v2 "unified hybrid" (Moondog88, Nov 15 2026; superseded by C v3 above)
 **Decided:** keep C (hybrid). A-only and B-only are tossed as standalone styles. Reference render: `06_C_v2_unified_grizzly.mp4` (Jarvis's box; code `production/mb2/render.py hybrid2`).
 - **Panels** carry the money shots: frame 0 (hook), the decision beat (play dead / squish it / run), the fight or payoff, and the loop shot. **Rig** carries the action beats between them (chase, race, gag, reaction close-up).
 - **One reference sheet, every time:** `production/mb2/art/meatball_ref_sheet_v1.jpg` is passed as the first reference image on every panel generation, plus one existing panel for the location and lighting. Never generate Meatball without it. A panel where Meatball drifts (cap shape, eye size, limb style) is regenerated, not used.
@@ -44,6 +54,16 @@ Takeaway: **motion isn't our problem. Picture change, readability and character 
 - **Lane:** Would Meatball Survive? (big dangerous animals) plus house bugs and spiders (Things Living In Your House). **Paused:** news, CIA/nukes, pets.
 - **Bug long-forms are allowed** again. This overrides the MASTER_ORDERS 11/11 "no new bug videos" rule.
 - **Cadence:** 3 Shorts a day, unchanged.
+
+## Thumbnail direction: DON'T MOVE is the template (Nov 15 2026, 9 PM ET)
+Moondog88's girlfriend picked `v3_thumb_3_dont-move` as the best thumbnail, and it's now the baseline:
+- an extreme close-up of Meatball's face filling more than half the frame
+- the threat touching or engulfing him
+- one flat saturated background colour
+- 1-2 huge words on the empty left side, white plus one accent word in yellow or red
+- nothing in the bottom-right timestamp zone
+
+Challengers in fix batch 1 (`fix1_dontmove_A/B/C`) test a tighter crop, a single word and a blue background. A challenger replaces the baseline only after a Studio Test & Compare win.
 
 ## Thumbnails (Moondog88, Nov 15 2026)
 - **Kept directions:** "TOO SLOW" (chase) and "PLAY DEAD?" (question). **Tossed:** "DON'T RUN".
@@ -140,3 +160,29 @@ Data: `analytics/outliers-1115/` (CSV with views, subs, views per sub, length, a
   - So long-form packaging (CTR) and retention (AVD) are the levers. Hours count over 12 months, Shorts over 90 days.
   - Shorts are the realistic path to the fan-funding tier (3M counted, about 33K counted or 75K public views a day).
 - **TikTok:** already in Creator Rewards (Moondog88). Videos must run over 1 minute with at least 1,000 For You views, and qualified views need 5 s or more (30 s or more from Search). Our TikToks run 64-92 s, so they qualify on length.
+
+## Shorts retention spec v2 (Nov 15 2026; target: 55-60% stayed, up from 46.3%)
+**Evidence:** the Studio 90-day export (87 Meatball-era Shorts) joined with opening measurements for 49 of them (`analytics/retention-1115/`). APV = average percentage viewed. Studio only gives the stayed/swiped split for one Short, so APV stands in for it. These are correlations with small samples, not proof.
+
+| Finding | Number |
+|---|---|
+| Length matters most | 16-20 s: median APV 83.0%. 20-25 s: 68.5%. 25-40 s: 55.8%. 40 s+: 44.9%. Correlation of length with APV: -0.48 |
+| "You" in the first 3 s | APV 81.8% (n=27) vs 65.9% (n=22) |
+| A number in the first 3 s | 81.8% (n=19) vs 67.8% (n=30) |
+| 9+ words in the first 3 s | 75.3% (n=40) vs 66.4% (n=9) |
+| Pictures hold too long | Median: one cut every 4.7 s; first cut at 3.7 s. Only 11 of 49 cut in the first 3 s. Correlation of cut rate with APV: +0.29 |
+| No dead air at the start | Voice starts at 0.0 s on all 49, so that isn't the problem |
+| Frame 0 states the claim | Daddy longlegs, the only Short with a per-Short split: 53.7% stayed vs 46.3% for the channel. Its frame 0 was a "TRUE OR FALSE? DADDY LONGLEGS: MOST VENOMOUS SPIDER" card |
+| Lane | Bug Shorts: median APV 78%. WMS: 63%. Other: 58.5% |
+| Endings | Many end on a "full list in the video linked above" call to action instead of looping |
+| Views barely vary | About 1.1K median for every pattern: most Shorts stop after the first test audience, so stayed % is the lever |
+
+**Rules** (`rv2.py lint()` enforces them and prints a RETENTION LINT line):
+1. **Frame 0:** the threat and Meatball in one picture, the threat big and close. State the claim or question on screen from frame 0 ("TRUE OR FALSE?", a choice). No intro, logo, series tag or title card.
+2. **Hook in under 1 s:** the voice starts by 0.1 s. The first words are "You…" plus the situation. The stakes or choice land within 3 s, with 10-16 words in the first 3 s and a sourced number by 5 s.
+3. **Pictures:** 3-4 different pictures in the first 2.8 s (a new composition or a hard punch-in counts). After that, a new picture every 1.2-2.5 s and never a hold over 2.5 s. Every shot moves (push-in, pan, shake on hits).
+4. **Captions:** Anton 112 px with keywords at 124 px. The word being spoken is yellow at 1.08×, in 1-3 word groups clamped to 820 px, centred at y 1430, inside x 90-900 and y 1180-1500. Fact cards go in y 260-700.
+5. **Comment trigger:** choice chips (RUN / PLAY DEAD / FIGHT, SQUISH / LET IT LIVE, TRUE / FALSE) pop on as they're spoken. The wrong one gets struck through when the answer lands.
+6. **Ending:** the last shot reuses frame 0's framing, and the last line runs into the first line ("So next time…" → "You find this…"). No call-to-action ending: the Related Video link does that job.
+7. **Length:** 15-20 s (lint allows 14.5-20.5).
+8. **Audio:** -14 LUFS, true peak -1.5 dBTP or lower. The master now has a gentle 2:1 bus compressor before the limiter, so it converges in 3-5 passes.

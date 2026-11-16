@@ -60,3 +60,14 @@ The shop is still TBD, pending Moondog88.
 2026-11-15, TikTok Shop is parked (Moondog88, relayed by Jarvis, 6:23 PM ET). It's blocked on the TikTok Seller Center login and the Printify Seller Shipping/$0 template step. Claude's task to build the 8 unpublished Printify drafts in the "Forever faces" store stays in TASKS.md but is not urgent, and nobody pushes on it. Etsy Studio still owns the channel, and nothing gets published or priced there without Moondog88's okay.
 
 2026-11-15, Shopify is un-parked as of 6:23 PM ET (Moondog88, relayed by Jarvis). This supersedes the earlier line "Shopify is parked until after Christmas". Storefront work starts now, Etsy FurEver Faces first and then Shopify, through Claude and the notebook. Moondog88 is connecting the Shopify connector. Publishing products or a theme, price changes, removing the store password, turning on payments, paid apps and deletions still need Moondog88's okay. The $49 free / $5.99 shipping rule and the "custom photo art paused" decision still stand.
+
+## 2026-11-15, Meatball Myths (YouTube), relayed by Jarvis
+
+### 6. House style: C v3
+Decided by Moondog88 (about 9 PM ET). `v3_C_grizzly_outlier-hook` (mb2 `render.py hybrid3`, generic `rv2.py`) is the house style for every new Short. Rules are in channels/production-spec-animation-v2.md, under "House style: C v3" and "Shorts retention spec v2". C v2 is superseded.
+
+### 7. Thumbnail template: DON'T MOVE
+Picked by Moondog88's girlfriend, accepted by Moondog88. `v3_thumb_3_dont-move` is the baseline and the template direction: a huge face plus the threat touching him, a flat field, and 1-2 huge words. Challengers A, B and C are in the fix batch and replace it only after a Test & Compare win.
+
+### 8. Fix batch 1: one approval
+The title and thumbnail pairs, the description cleanup, hashtags, pinned comments and the channel About, keywords, banner and layout all go to Moondog88 as one batch: channels/packaging/fix-batch-1/fix1_changes.csv. Nothing changes in Studio and nothing is posted until he approves. He applies the changes himself in Studio.

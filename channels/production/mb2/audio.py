@@ -1,3 +1,4 @@
+import glob
 import re, os
 """mb2 audio: assemble per-line TTS into one voice track with planned gaps, synthesize SFX and a
 procedural music bed (no licences), duck the music under the voice (production-spec-audio-v2 §1),
@@ -126,14 +127,21 @@ def measure(f):
 def master(wav_in, video_in, out_mp4, target=-14.0, tp_max=-1.5, copy_video=False):
     """v2 mastering (spec §5): gain -> 4x-oversampled limiter (true-peak safe) -> 48 k, measured on the ENCODED AAC and
     iterated until integrated = -14.0 +/-0.2 LUFS and true peak <= -1.5 dBTP. (v1 used loudnorm: the peak cap held it at -14.6.)"""
-    g = target - measure(wav_in)[0]; lim = 0.76; tmp = out_mp4 + '.a.m4a'
-    for it in range(8):
+    pre = out_mp4 + '.c.wav'   # v2.2: gentle 2:1 bus compressor first, so the limiter does ~3 dB, not 6+ (stops the TP oscillation)
+    subprocess.run(['ffmpeg', '-v', 'error', '-y', '-i', wav_in, '-af', 'acompressor=threshold=0.0316:ratio=2:attack=5:release=100', pre], check=True)
+    wav_in = pre; g = target - measure(wav_in)[0]; lim = 0.70; tmp = out_mp4 + '.a.m4a'; best = None
+    for it in range(12):   # v2.1: gentle gain steps, keep the best passing encode (AAC overshoot made v2 oscillate)
         af = f"volume={g:.2f}dB,aresample=192000,alimiter=limit={lim:.3f}:attack=2:release=80:level=false,aresample=48000"
-        subprocess.run(['ffmpeg', '-v', 'error', '-y', '-i', wav_in, '-af', af, '-c:a', 'aac', '-b:a', '192k', tmp], check=True)
-        I, TP = measure(tmp); print(f'master pass {it + 1}: gain {g:+.2f} dB, limit {lim:.3f} -> {I:.2f} LUFS, {TP:.2f} dBTP')
-        if abs(I - target) <= 0.1 and TP <= tp_max: break
-        if TP > tp_max: lim *= 10**((tp_max - TP - 0.3)/20)
-        else: g += (target - I)*1.6
+        cand = f'{tmp}.{it}.m4a'
+        subprocess.run(['ffmpeg', '-v', 'error', '-y', '-i', wav_in, '-af', af, '-c:a', 'aac', '-b:a', '192k', cand], check=True)
+        I, TP = measure(cand); print(f'master pass {it + 1}: gain {g:+.2f} dB, limit {lim:.3f} -> {I:.2f} LUFS, {TP:.2f} dBTP')
+        if TP <= tp_max and (best is None or abs(I - target) < abs(best[1] - target)): best = (cand, I, TP)
+        if best and abs(best[1] - target) <= 0.1: break
+        if TP > tp_max: lim *= 10**((tp_max - TP - 0.5)/20)
+        else: g += (target - I)*0.9
+    if best is None: raise RuntimeError('master: no pass met the true-peak ceiling')
+    os.replace(best[0], tmp)
+    for f in glob.glob(tmp + '.*.m4a') + [pre]: os.remove(f)
     vc = ['-c:v', 'copy'] if copy_video else ['-c:v', 'libx264', '-profile:v', 'high', '-pix_fmt', 'yuv420p', '-crf', '20', '-preset', 'medium']
     subprocess.run(['ffmpeg', '-v', 'error', '-y', '-i', video_in, '-i', tmp, '-map', '0:v', '-map', '1:a', *vc,
                     '-c:a', 'copy', '-movflags', '+faststart', '-shortest', out_mp4], check=True)

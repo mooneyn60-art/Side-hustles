@@ -1,0 +1,100 @@
+[
+ {
+  "file": "fix1_dontmove_0_baseline.png",
+  "kind": "long",
+  "video": null,
+  "current_title": "(new WMS long-form)",
+  "proposed_title": "Would You Survive a Grizzly Attack? (Meatball Tried)"
+ },
+ {
+  "file": "fix1_dontmove_A_tighter.png",
+  "kind": "long",
+  "video": null,
+  "current_title": "",
+  "proposed_title": "Would You Survive a Grizzly Attack? (Meatball Tried)"
+ },
+ {
+  "file": "fix1_dontmove_B_one-word.png",
+  "kind": "long",
+  "video": null,
+  "current_title": "",
+  "proposed_title": "Would You Survive a Grizzly Attack? (Meatball Tried)"
+ },
+ {
+  "file": "fix1_dontmove_C_contrast.png",
+  "kind": "long",
+  "video": null,
+  "current_title": "",
+  "proposed_title": "Would You Survive a Grizzly Attack? (Meatball Tried)"
+ },
+ {
+  "file": "fix1_lf_cH3HCZ8GlHk_3-bugs-never-kill.png",
+  "kind": "long",
+  "video": "cH3HCZ8GlHk",
+  "current_title": "3 Bugs in Your House You Should Never Kill (And 4 You Must)",
+  "proposed_title": "3 Bugs in Your House You Should Never Kill (And 4 You Must)"
+ },
+ {
+  "file": "fix1_lf_KWOM2-mNmww_corner-spider.png",
+  "kind": "long",
+  "video": "KWOM2-mNmww",
+  "current_title": "Don't Kill the Spider in Your Corner. It Eats Bigger Spiders",
+  "proposed_title": "Your Life as the Skinny Spider in Your Ceiling Corner"
+ },
+ {
+  "file": "fix1_lf_xeAsg5ECpgw_3-more-bugs.png",
+  "kind": "long",
+  "video": "xeAsg5ECpgw",
+  "current_title": "3 More Bugs in Your House You Should Never Kill (And 5 You Must)",
+  "proposed_title": "3 More Bugs in Your House You Should Never Kill (And 5 You Must)"
+ },
+ {
+  "file": "fix1_lf_Lid8JXhg1Q4_6-creatures.png",
+  "kind": "long",
+  "video": "Lid8JXhg1Q4",
+  "current_title": "6 Creatures Living In Your House Right Now (You Never See Them)",
+  "proposed_title": "6 Creatures Living in Your House Right Now (You Never See Them)"
+ },
+ {
+  "file": "fix1_lf_bqij8Ht6SX4_every-bug-ranked.png",
+  "kind": "long",
+  "video": "bqij8Ht6SX4",
+  "current_title": "Every Bug in Your House, Ranked From Harmless to Nightmare \ud83d\udc1b",
+  "proposed_title": "Every Bug in Your House, Ranked From Harmless to Nightmare"
+ },
+ {
+  "file": "fix1_sh_Us0zIbxiR-A_daddy-longlegs.png",
+  "kind": "short",
+  "video": "Us0zIbxiR-A",
+  "current_title": "Are Daddy Longlegs the Most Venomous Spiders? \ud83d\udd77\ufe0f",
+  "proposed_title": "Are Daddy Longlegs the Most Venomous Spiders? \ud83d\udd77\ufe0f"
+ },
+ {
+  "file": "fix1_sh_EPimwC5VMgo_house-centipede.png",
+  "kind": "short",
+  "video": "EPimwC5VMgo",
+  "current_title": "The House Centipede You Squish Is Protecting You \ud83d\udc1b (Things Living In Your House)",
+  "proposed_title": "The House Centipede You Squish Is Protecting You \ud83d\udc1b"
+ },
+ {
+  "file": "fix1_sh_1hdMaSxJtkU_roach-babies.png",
+  "kind": "short",
+  "video": "1hdMaSxJtkU",
+  "current_title": "Your Roach Has 40 Babies \ud83e\udeb3 (Things Living In Your House #N)",
+  "proposed_title": "Your Roach Has 40 Babies \ud83e\udeb3"
+ },
+ {
+  "file": "fix1_sh_wHCrmIPdCgg_bed-mites.png",
+  "kind": "short",
+  "video": "wHCrmIPdCgg",
+  "current_title": "Your Bed Mites Die at 130\u00b0F \ud83d\ude2c (Things Living In Your House #N)",
+  "proposed_title": "Your Bed Mites Die at 130\u00b0F \ud83d\ude2c"
+ },
+ {
+  "file": "fix1_sh_bm6LzV7eRwg_mommy-longlegs.png",
+  "kind": "short",
+  "video": "bm6LzV7eRwg",
+  "current_title": "3 'Mommy Longlegs' in Your Home \ud83d\udd77\ufe0f (Is This Spider Venomous? #N)",
+  "proposed_title": "3 'Mommy Longlegs' in Your Home \ud83d\udd77\ufe0f"
+ }
+]
