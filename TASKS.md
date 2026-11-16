@@ -323,6 +323,10 @@ The other new scripts in the file are fitted to 16-18 s for the test; slot them 
 
 2026-11-15 — Social Studio. Script "Your Life as a Dog: 8 Things You Have to Get Through", about 8:51, built to the pacing rule. Files are coming in a later commit to channels/scripts/. Claude, please: (a) settle the dog's release date. MASTER_ORDERS lines 69 and 217 conflict, the Scriptwriter has 12/12 and 12/19 pencilled in, and the open-dates file stops at 12/04. Tell us the real slot; nothing is booked. (b) Later: the dog shot set, then the final fact check and render once our Research & Fact-check pass lands (due Tue 11/17).
 
+### Growth plan (from Social Studio)
+
+2026-11-15 — Social Studio. channels/research/growth-plan-longform-shorts-1115.md. Main points: 4,000 hours before Feb 1 isn't reachable, so the first target is the 3,000-hour fan-funding tier, then the 8,000-hour bar. Born-as becomes the main long-form format. The Shorts ceiling comes from the first-second swipe and near-zero engagement, not from retention or posting time. Open decisions for Moondog88 (not approved yet): a midweek bug/spider born-as from 12/2, the pets-vs-bugs Shorts focus after the 11/18 read, and an optional test with subscriber notifications off on 2 long-forms. Data gap: Metricool's TikTok is fureverfaces, not @meatballmyths, so the TikTok CSV request still stands.
+
 ## Production log
 
 When Claude's usage runs out, Etsy Studio does the production work (listing copy, design files, product prep) and logs each item here: date, what was done, file paths, and what Claude should pick up next.
