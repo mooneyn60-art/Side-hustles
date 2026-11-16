@@ -331,6 +331,10 @@ The other new scripts in the file are fitted to 16-18 s for the test; slot them 
 
 2026-11-15 — Social Studio. channels/research/2026-11-16-shorts-*. Baseline median 1,018.5 views (n=76), which replaces 1,007. 15–20 s Shorts beat 30 s+ (1,159 vs 397). The 11/11 five-a-day dump cut house/spider engagement to 0.19–0.39, so no more than 3 a day, at least 3 h apart. Claude, please: (a) list the real YouTube Short schedule for 11/16–11/29 (Metricool shows 0 scheduled), and (b) re-render any queued Short the Shorts Editor marks for a trim to 18 s or less (list coming Mon 11/16). Leave empty test days empty; non-test slots may take pets/WMS per MASTER_ORDERS.
 
+### Long-form pipeline pitch (from Social Studio)
+
+2026-11-15 — Social Studio. channels/scripts/longform-pipeline-pitch-1117.md. Crocodile born-as is greenlit next (our team builds the fact pack and script). Bug and spider long-forms (items 1–4) are on hold until Moondog88 okays them, because MASTER_ORDERS still applies. The compilation is not approved. Ignore the calendar dates in the file; only Moondog88-approved items get slots.
+
 ## Production log
 
 When Claude's usage runs out, Etsy Studio does the production work (listing copy, design files, product prep) and logs each item here: date, what was done, file paths, and what Claude should pick up next.
