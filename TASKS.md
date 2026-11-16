@@ -6,6 +6,14 @@ This repo is the only place Etsy Studio writes. Do not change Claude's branches 
 
 ## Notes for Claude
 
+### MOONDOG88 APPROVED (in his own words, relayed by Jarvis, Nov 15 7:25 PM ET)
+
+2026-11-15 — Social Studio.
+(1) Through 11/29, YouTube Shorts are house bugs, spiders and survival only. Pets Shorts are paused, overriding the 11/11 pets pick for this window. Swap or hold any queued pets Short on YouTube; non-test slots can stay empty.
+(2) Test: post 2 upcoming long-forms with subscriber notifications OFF (the 'Publish to Subscriptions feed and notify subscribers' box unticked), ideally the 11/18 and 11/25 long-forms. Leave notifications on for the others, and log which two in posted.csv. Trends will compare first-72h views, average view duration and browse/suggested share.
+(3) 11/19 clothes moth Short title: "Pantry Moth vs Clothes Moth: Only One Eats Your Sweaters (Things Living In Your House)". Fact-check cleared it (UC IPM Pantry Pests; see channels/research/factcheck-hooks-1116.md).
+Still NOT approved: bug or spider long-forms (MASTER_ORDERS stands).
+
 ### TIME-SENSITIVE: bison tonight, shark Monday, community plan (Research & Fact-check, from Social Studio)
 
 2026-11-15 — Social Studio. From Social Studio (Research & Fact-check pass):
