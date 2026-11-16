@@ -122,7 +122,127 @@ Safe-zone column is flagged for all six because the hooks bank specifies cards a
 
 ---
 
-## Trims (house and spider Shorts queued 11/16–11/20)
+## Trims (measured, 11/15 7:30 PM ET)
+
+Source for the six YouTube house Shorts queued 11/16 16:00–11/20 16:00 ET: ffprobe `format.duration` on the Metricool mp4s linked from `data/post-ids.csv` lines 25–30, saved under `/workspace/scratch/queued-renders/`. Times match `/workspace/research/2026-11-16-queued-shorts-lengths.csv` exactly (19.133, 18.233, 19.500, 18.233, 20.000, 19.767 s). Video is 1080×1920 h264 30 fps; audio is AAC 48 kHz mono. The earlier spoken+pad Trims section is kept below and marked superseded. Claude re-renders; do not render from this checklist. Nothing here is approved to post or schedule.
+
+Social Studio rulings for this pass: the claim card is on at 0.00 s; Shorts under 16 s no longer "ship as they are" for these six (all are over 18 s); `dust-mites` keeps the queued file unless a trim is safe; `carpet-beetle-window` and `christmas-tree-bugs` switch to the new-hook EDLs; `pantry-vs-clothes-moth` uses the Scriptwriter refit in `shorts-hooks-1s-1115.md` §4 (the queued 18.233 s file is the old script). Hook, loop back to frame 0, and every safety line with its condition must survive. A trim that would hurt the Short is marked **ship as is, off-spec** with the reason.
+
+### Why spoken+pad math undercounted
+
+There is no separate title-stamp intro and no end card after the voice on these six files. Frame 0 already shows the creature and the first caption (`YOUR BED'S`, `YOUR WINDOW BUG`, `YOUR CHRISTMAS`, `YOUR CLOSET`, `THOUSANDS OF`, `1-MILLIMETER`). The last frame still shows the last spoken word (`BECAUSE`, `AND`, `RIGHT NOW`, `50 PERCENT OR`) plus the comment pill. `ffmpeg silencedetect` at −35 dB found no silent spans because the music bed fills the gaps.
+
+`tools/drawn.py` `plan()` sets each beat to `dur = speech + b.get("pad", 0.08)` after `trim_air` (keeps 0.01 s lead and 0.03 s tail). `LOOP_LAND` (0.6 s) and `recut` only move the camera inside that duration; `ffmpeg -shortest` and loudnorm do not add a measured intro or tail card. The 1.6–4.6 s gap versus 194.5 wpm math is therefore:
+
+- **Actual Andrew TTS**, including period pauses inside a beat (word-count math ignores them). Queued rates are not uniform: `dust-mites-v6-yt.json` is `rate: +0%`; `carpet-beetle-window` is `+8%`; the other four are `+10%`. The 194.5 wpm house rate was taken from the moose minute cut on Andrew at **+10%**.
+- **Default `pad` 0.08 s on every beat that omits the key**, not only the last-beat 0.08 that the superseded math counted.
+- **Explicit pads** where the JSON sets them: christmas-tree beats 2–5 `pad: 0.5` and beat 6 `pad: 0.4` (2.4 s listed); pantry beats 2–5 `pad: 0.3` (1.2 s listed). Caption holds with no new words match those pads (for example christmas-tree has no caption at 6.00 s and 12.20 s, just before the next scene cut).
+- Inter-beat remaining air after `trim_air` ran larger than 0.08 s on the files we could word-align (dust-mites gaps about 0.21–0.42 s).
+
+On the two +10% files that already had large listed pads, spoken+pad math was close: pantry 16.66 + 1.2 + 0.16 default ≈ 18.02 vs measured 18.233 (0.21 s over); christmas 17.58 + 2.4 + 0.16 default ≈ 20.14 vs measured 19.500 (0.64 s under). Do not reuse the 3–4 s gaps from the +0% / +8% / no-explicit-pad files as a pipeline constant on a new render.
+
+Hook cards in the queued JSON use `card.at: "45%"` of beat 1 (visible on the mp4s around 1.5 s, not at 0.00 s). A duration trim of a queued file does not move that card. Re-renders must set the claim card at 0.00 s.
+
+Beat in/out times below are scene cuts (`ffmpeg` `select=gt(scene,0.18)`) confirmed against burned-in captions and, for dust-mites and cluster-flies, against a word-level transcript of the first-pass VO. Timecodes are seconds on the measured render.
+
+### Summary
+
+| Slot (ET) | Slug | Measured (ffprobe) | Cut | New length |
+|---|---|---|---|---|
+| Mon 11/16 16:00 | `dust-mites` | **19.133 s** | Queued file, drop beat 4 tag `12.54–13.74` | **17.933 s** |
+| Mon 11/16 19:00 | `stinkbug-explainer` | unmeasured, no file | — | — |
+| Tue 11/17 10:00 | `fungus-gnats` | unmeasured, no file | — | — |
+| Tue 11/17 16:00 | `carpet-beetle-window` | **18.233 s** (old hook) | Re-render from the new-hook EDL | **16.74 s** est. (16.66 spoken + 0.08 loop pad) |
+| Tue 11/17 19:00 | `earwig-hook` | unmeasured, no file | — | — |
+| Wed 11/18 10:00 | `carpenter-ant-hook` | unmeasured, no file | — | — |
+| Wed 11/18 19:00 | `christmas-tree-bugs` | **19.500 s** (old hook) | Re-render from the new-hook EDL | **17.36 s** est. (17.28 spoken + 0.08 loop pad) |
+| Thu 11/19 10:00 | `housefly-hook` | unmeasured, no file | — | — |
+| Thu 11/19 16:00 | `pantry-vs-clothes-moth` | **18.233 s** (old script) | Re-render from the §4 refit | **16.43 s** est. (16.35 spoken + 0.08 loop pad) |
+| Thu 11/19 19:00 | `cluster-flies` | **20.000 s** | Queued file, drop both Meatball tags `5.76–7.20` and `11.28–12.46` | **17.38 s** |
+| Fri 11/20 10:00 | `fruitfly-explainer` | unmeasured, no file | — | — |
+| Fri 11/20 16:00 | `booklice-cupboard` | **19.767 s** | Queued file, drop beat 4 tag + post-pipes pause `12.933–14.967` | **17.733 s** |
+| Fri 11/20 19:00 | `clothesmoth-explainer` | unmeasured, no file | — | — |
+| Mon 11/16 10:00 | `dog-tail-wag` | unmeasured, no file | — | — |
+
+Time every new mp4 with ffprobe before locking a slot. The three re-render estimates assume 194.5 wpm plus only the overhead listed in each row, with `pad: 0` on earlier beats so `drawn.py`'s default 0.08 does not stack. If those keys are omitted, add 0.08 s × number of beats instead (carpet 5 beats → 17.06 s; christmas depends on beat count, still under 18 s at typical 4–7 beats; pantry 6 beats → 16.83 s). Residual TTS vs word math on the two measured +10% padded files was under 0.7 s. Do not invent a larger constant.
+
+### Per-Short measured trims
+
+Beat ids are 1-based `beats[]` in the queued v6 JSON, with the beat's `m` key.
+
+#### Mon 11/16 16:00 — `dust-mites` (queued; trim is safe)
+
+Measured **19.133 s**. JSON: 6 beats, `rate: +0%`, `pad` omitted on beats 1–5 (default 0.08), beat 6 `pad: 0.08`. Scene cuts at 3.367, 6.533, 9.933, 14.133, 17.467 (plus mid-line recuts at 16.233 and 18.567). VO (word times):
+
+- Beat 1 `hook` 0.000–3.367: "Your bed's female mites lay about 50 eggs." (VO 0.00–3.14)
+- Beat 2 `fact` 3.367–6.533: "Meatball hasn't washed his damn sheets since March." (3.46–6.16)
+- Beat 3 `xray` 6.533–9.933: "In ideal conditions, eggs are adults in about a month." (6.58–9.68; period pause 7.48–8.18)
+- Beat 4 `tiny` 9.933–14.133: "Adults live about one to two months. Longer than Meatball's diets." (10.08–13.74; period pause 11.96–12.54; tag 12.54–13.74)
+- Beat 5 `calm` 14.133–17.467: "Keep humidity under 50 percent, and mites struggle." (14.10–17.26) — **safety, keep the condition**
+- Beat 6 (loop) 17.467–19.133: "Dry air matters, because" (17.52–18.82, then ~0.31 s hold)
+
+**Cut:** drop the second sentence of beat 4 only. Render in/out **12.54–13.74** (1.20 s). JSON: delete ` Longer than Meatball's diets.` from `beats[4].say` (1-based beat 4, `m: tiny`). New length **17.933 s**. Hook, loop back to frame 0, and the humidity condition all stay. Do not cut beat 5 or beat 6.
+
+Remaining off-spec if this trimmed queued file ships (do not "fix" them with a deeper cut): the claim card is still `card.at: "45%"` of beat 1, not 0.00 s; the last line is still "because" with no "And" and no spoken question. Moving the card to 0.00 s takes a re-render of the same script, not a duration trim.
+
+#### Tue 11/17 16:00 — `carpet-beetle-window` (switch to the new-hook EDL)
+
+Measured **18.233 s** (old hook). JSON: 5 beats, `rate: +8%`, default pads on beats 1–4, beat 5 `pad: 0.08`. Scene cuts at 2.167, 6.900, 12.367, 14.733. Captions: hook still on "EGGS" at 2.10; vest gag "MEATBALL'S" at 10.12, "A DAMN VEST" at 12.20; beat 4 "THEY LEAVE" at 12.36; loop "AND" at 17.90. A vest-gag only trim (10.12–12.367 = 2.247 s) would land at **15.986 s**, under the 16.0 s floor, so do not trim the queued file.
+
+**Cut:** re-render from `/workspace/drafts/shorts-edl-carpet-beetle-window.md` (hooks-bank 54 words, 16.66 s at 194.5 wpm, no queued pads, claim card at 0.00 s, loop back to the sill with the question and "And"). **Assumed overhead:** 0.08 s last-beat / loop pad only, with `pad: 0` on earlier beats. New length **16.74 s** estimated. If every `pad` key is omitted, drawn.py adds 0.08 × 5 = 0.40 s → **17.06 s**. Time the new mp4. Do not reuse this file's 18.233 − 15.12 = 3.11 s gap; the EDL uses +10%, not the queued +8%.
+
+#### Wed 11/18 19:00 — `christmas-tree-bugs` (switch to the new-hook EDL)
+
+Measured **19.500 s** (old hook). JSON: 7 beats, `rate: +10%`, beats 2–5 `pad: 0.5`, beat 6 `pad: 0.4`, beats 1 and 7 default 0.08. Scene cuts at 2.667, 6.067, 8.633, 12.433, 14.667, 17.600. Captions: "SCREAMED" at 5.50, no caption at 6.00 (pad before 6.067); "CRAWL OUT" at 8.20, "WITH NO FOOD" at 8.63; "MERRY DAMN" at 10.92, "CHRISTMAS" at 11.50, no caption at 12.20 (pad before 12.433); "OUTSIDE" at 16.90; "CHECK EACH TWIG" at 17.60; "BECAUSE" at 19.20. Last shot is the kitchen, so the picture does not loop to frame 0. Pad-only surgery on this file would not restage that loop.
+
+**Cut:** re-render from `/workspace/drafts/shorts-edl-christmas-tree-bugs.md` (56 words, 17.28 s at 194.5 wpm, no 2.4 s pads, clip-and-tuck condition kept, cannibalism line out, loop on the twig, card at 0.00 s). **Assumed overhead:** 0.08 s last-beat / loop pad only, with `pad: 0` on earlier beats. New length **17.36 s** estimated. If pad keys are omitted, add 0.08 s × N beats; at 4–7 beats that is 17.60–17.84 s, still under 18.0 s. Time the new mp4. The queued +10% file was 0.64 s *shorter* than spoken + listed pads, so do not add a 3–4 s fudge.
+
+#### Thu 11/19 16:00 — `pantry-vs-clothes-moth` (Scriptwriter refit; queued file is the old script)
+
+Measured **18.233 s** on the old 54-word script (hook "Your closet moths lay 40 to 50 eggs," beats 2–5 `pad: 0.3`). Captions: "TO 50 EGGS" at 2.80; "THE LARVAE DO" at 9.20; "MEATBALL EATS" at 10.00; "FOR BOTH" at 10.72; "PACKAGE OF" at 14.40; "AND" at 18.00. Do not trim this render.
+
+**Cut:** re-render from the §4 refit in `shorts-hooks-1s-1115.md`: 53 words, **16.35 s** spoken, no pads, hook "Adult clothes moths never eat. Babies do.", loop "Check your wool. What's in your closet right now? And", card at 0.00 s. Six spoken lines. **Assumed overhead:** 0.08 s loop pad only, with `pad: 0` explicitly set on beats 1–5 (otherwise drawn.py adds 0.08 × 6 = 0.48 s). New length **16.43 s** estimated (16.83 s if the default pads are left to fire). Time the new mp4. The old +10% file was only 0.21 s over spoken + pads, which is why this estimate is not padded with the old 18.233 s gap.
+
+#### Thu 11/19 19:00 — `cluster-flies` (queued trim)
+
+Measured **20.000 s**. JSON: 6 beats, `rate: +10%`, no explicit pads (default 0.08 each). Scene cuts at 2.933, 7.600, 12.700, 14.233, 17.267 (plus a mid-line recut at 9.300). Captions / first-pass VO:
+
+- Beat 1 `hook` 0.000–2.933: "Thousands of flies can sleep inside your walls." (VO 0.00–2.70; "WALLS" at 2.80)
+- Beat 2 `chase` 2.933–7.600: "One warm day wakes them. They crawl out. Meatball needs three alarms." ("THEY CRAWL OUT" at 5.30; tag **5.76–7.20**, "THREE ALARMS" still up at 7.20)
+- Beat 3 `scale` 7.600–12.700: "Flies crowd your sunny windows, dazed and sluggish. Meatball, every Monday." ("SLUGGISH" at 11.20; tag **11.28–12.46**, "EVERY MONDAY" at 12.46)
+- Beat 4 `fact` 12.700–14.233: "They can't breed in your house." ("THEY CAN'T" at 12.70; "HOUSE" at 14.00) — **safety, keep**
+- Beat 5 `tiny` 14.233–17.267: "Their babies grow inside earthworms, outdoors." ("THEIR BABIES" at 14.40; "OUTDOORS" still held at 16.50 and 17.20)
+- Beat 6 `punch` 17.267–20.000: "They're just lost, not nesting. Right now," ("NOT NESTING" at 18.50; "RIGHT NOW" at 19.50) — **loop, keep**
+
+**Cut:** drop both Meatball tags only. Render in/out **5.76–7.20** (1.44 s) and **11.28–12.46** (1.18 s). JSON: delete ` Meatball needs three alarms.` from beat 2 `m: chase` and ` Meatball, every Monday.` from beat 3 `m: scale`. Leave the 7.20–7.600 and 12.46–12.700 holds as pads into the next beat. New length **17.38 s**. Hook, "They can't breed in your house," and the "Right now," loop all stay. This trim does not change the "Thousands" hook or the earthworm wording; those are rewrite issues, already drafted at 56 words / 17.28 s spoken in the hooks bank. If Claude is cleared to swap to that script instead, use the same overhead rule as the EDLs (17.28 + 0.08 = 17.36 s estimated, with `pad: 0` on earlier beats) and time the new mp4.
+
+#### Fri 11/20 16:00 — `booklice-cupboard` (queued trim)
+
+Measured **19.767 s**. JSON: 6 beats, `rate: +10%`, default pads on beats 1–5, beat 6 `pad: 0.08`. Scene cuts at 2.933, 4.533, 7.767, 10.567, 12.933, 14.967, 17.167, and loop-land at 19.200. Captions:
+
+- Beat 1 `hook` 0.000–2.933: "1-millimeter bugs are eating mold in your cupboards." ("CUPBOARDS" at 2.80)
+- Beat 2 `fact` 2.933–7.767: "And flour, cereal, and dried fruit. Meatball's cereal expired years ago." (recut 4.533, "AND DRIED" at 4.50; "YEARS AGO" at 7.60)
+- Beat 3 `tiny` 7.767–10.567: "They like 75 to 90 percent humidity." ("HUMIDITY" at 10.50) — **keep**
+- Beat 4 `escalate` 10.567–14.967: "They gather around leaking, sweating pipes. Meatball calls it a water feature." ("SWEATING PIPES" still held at 12.50 and 12.93; tag starts "MEATBALL CALLS" at 13.30, "IT A WATER" at 14.20, "FEATURE" at 14.90)
+- Beat 5 `calm` 14.967–17.167: "Dry air can wipe them out within weeks." ("WITHIN WEEKS" at 16.30 and 17.10) — **keep**
+- Beat 6 (loop) 17.167–19.767: "Keep humidity under 50 percent, or" ("50 PERCENT OR" at 19.00 and at the last frame) — **safety condition + loop, keep**
+
+**Cut:** drop the second sentence of beat 4 and the post-"pipes." hold that leads into it. Render in/out **12.933–14.967** (2.034 s), from the 12.933 recut (caption still `SWEATING PIPES`) to the beat 5 in-point. JSON: delete ` Meatball calls it a water feature.` from `beats[4].say` (`m: escalate`). New length **17.733 s**. Keep "They gather around leaking, sweating pipes." Keep all three humidity / dry-air lines, with the "under 50 percent" condition attached. Hook and the "or" loop stay.
+
+A gag-only in-point at first "MEATBALL CALLS" caption (13.30–14.967 = 1.667 s) would leave **18.100 s**, still over 18.0 s, so that tighter cut is not enough. The cereal gag on beat 2 is not required if the 12.933–14.967 cut is used.
+
+Remaining off-spec if this trimmed queued file ships: claim card still at 45% of beat 1; last line is still "or" with no "And" and no spoken question. Those are rewrite issues (hooks bank 54 words / 16.66 s spoken). Do not cut the humidity condition to chase them.
+
+#### Unmeasured, no file (8 Shorts)
+
+No Metricool mp4 was pulled for these, and this pass does not guess a runtime from JSON or a 3D header. Leave them as **unmeasured, no file** until a render is timed: `fungus-gnats` (Tue 11/17 10:00); `stinkbug-explainer` (Mon 11/16 19:00); `fruitfly-explainer` (Fri 11/20 10:00); `clothesmoth-explainer` (Fri 11/20 19:00); `earwig-hook` (Tue 11/17 19:00); `carpenter-ant-hook` (Wed 11/18 10:00); `housefly-hook` (Thu 11/19 10:00); `dog-tail-wag` (Mon 11/16 10:00).
+
+---
+
+## Trims (house and spider Shorts queued 11/16–11/20) — superseded, 11/15 spoken+pad math
+
+**Superseded** by **Trims (measured, 11/15 7:30 PM ET)** above. Left in place as the spoken-word audit trail. Do not use these runtimes or the ship-as-is calls for the six measured files.
+
 
 Trends reported that only 2 queued Shorts fit 16–18 s and that the rest run 18.2–20.0 s. **This draft could not find Trends' measurement table, and no queued mp4 or TTS duration field was on the box**, so the times below are not those 18.2–20.0 figures. They are spoken-word estimates at 194.5 wpm plus any `pad` in the v6 JSON, or the duration written in a 3D explainer source header. If a render is truly 18.2–20.0 s, start with the pad and joke cuts below (they are the only slack that does not touch the hook, the loop join, or a safety condition) and re-time the file. Do not invent new wording. Claude re-renders; do not render from this checklist.
 
@@ -225,3 +345,15 @@ Queued source: `booklice-cupboard-v6-yt.json`. 52 words, 16.04 s spoken, last-be
 - Transcript check against the approved script, including "And," hedges, and safety conditions.
 - Device check of captions, cards, and the comment pill against the real Shorts and TikTok UI.
 - Nothing in this folder is approved to post or schedule.
+
+---
+
+## Update, Sun 11/15/2026, 7:23 PM ET: clothes-moth refit (`pantry-vs-clothes-moth`, Thu 11/19 16:00 ET)
+
+Scriptwriter refit §4 of `/workspace/drafts/shorts-hooks-1s-1115.md`. It's 53 words, 16.35 s at 194.5 wpm, with no pads, so it's in the 16–18 s band.
+
+- **Hook:** "Adult clothes moths never eat. Babies do." It's 7 words, about 2.16 s. Flag 2 (the 3.70 s hook) is resolved. The frame-0 card carries the claim at 0.00 s (now the rule): CLOSET MOTH: NEVER EATS / ITS BABIES EAT YOUR SWEATERS.
+- **Pace:** Line 2 ("Clothes moth larvae eat your wool sweaters, fur, and silk.") runs past 3 s. Meatball's hop-in at about 2.3 s gives the visual change. Add a second change (for example, a larvae close-up on the sweater) if line 2 runs past about 5.3 s.
+- **Gag:** it moved to line 3 (5.2–6.8 s).
+- **Loop:** it ends "...What's in your closet right now? And" and loops back to the hook in the same closet.
+- **Owed:** Claude's fact check on lines 1, 2 and 5 (UKY ENTFACT-609; UC IPM 7435; UC IPM Pantry Pests), then re-render and transcript check. Nothing is approved to post.
