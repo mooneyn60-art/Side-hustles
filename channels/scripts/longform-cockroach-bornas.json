@@ -1,0 +1,3059 @@
+{
+  "_what": "Cockroach born-as long-form for Wed 12/9, written to the 11/15 plan-update rules (frame 0 threat close-up, hook of you + home + a number, hedges kept, a new picture every 1–2 s, one debate comment prompt, citations on screen and in the description) and Social Studio's direction (lead German, 30,000 hook with hedges, American facts tagged, no foggers, baits away from kids and pets, asthma stays 'can'). Format reference: the crocodile born-as. Facts: /workspace/drafts/facts/cockroach-bornas.md (CR1–CR42).",
+  "titles": [
+    "Your Life as a Cockroach: 8 Things You Have to Get Through"
+  ],
+  "_titles_note": "Working title is the locked born-as format. Packaging may retitle it (Title A American 1/10-inch squeeze, Title B about 30 in the egg case). If Title A is used, it must say American. Series tag last if added. Single title, no A/B set in this draft.",
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "+10%",
+  "pitch": "+3Hz",
+  "meter_start": 50,
+  "meter_labels": [
+    "RAW",
+    "SWEET"
+  ],
+  "segments": [
+    {
+      "chapter": "Day one",
+      "chip": "",
+      "_start": 0.0,
+      "lines": [
+        {
+          "id": "s0.l0",
+          "say": "Your kitchen: one German female's family can make over 30,000 yearly.",
+          "src": "CR22",
+          "source_tag": "UC IPM",
+          "vis": "Frame 0: a German cockroach in close-up on a kitchen counter, face-on; narration on it at 0.0 s / The same close-up holds; card: YOUR KITCHEN: ONE GERMAN FEMALE'S FAMILY CAN MAKE OVER 30,000 YEARLY / Chip: GERMAN COCKROACH; A FEMALE AND HER OFFSPRING; OVER 30,000; IN A YEAR",
+          "shots": [
+            {
+              "t": 0.0,
+              "dur": 1.13,
+              "vis": "Frame 0: a German cockroach in close-up on a kitchen counter, face-on; narration on it at 0.0 s"
+            },
+            {
+              "t": 1.1,
+              "dur": 1.13,
+              "vis": "The same close-up holds; card: YOUR KITCHEN: ONE GERMAN FEMALE'S FAMILY CAN MAKE OVER 30,000 YEARLY"
+            },
+            {
+              "t": 2.3,
+              "dur": 1.13,
+              "vis": "Chip: GERMAN COCKROACH; A FEMALE AND HER OFFSPRING; OVER 30,000; IN A YEAR"
+            }
+          ],
+          "card": "YOUR KITCHEN: ONE GERMAN FEMALE'S FAMILY CAN MAKE OVER 30,000 YEARLY",
+          "_t": 0.0,
+          "_dur": 3.39,
+          "_beats": "P"
+        },
+        {
+          "id": "s0.l1",
+          "say": "You were just born a German cockroach. Here are eight things you have to get through.",
+          "vis": "Title card lands over the close-up: BORN A GERMAN COCKROACH / Eight numbered tiles slam in face down around the roach",
+          "shots": [
+            {
+              "t": 3.4,
+              "dur": 1.65,
+              "vis": "Title card lands over the close-up: BORN A GERMAN COCKROACH"
+            },
+            {
+              "t": 5.0,
+              "dur": 1.65,
+              "vis": "Title card lands over the close-up: BORN A GERMAN COCKROACH"
+            },
+            {
+              "t": 6.7,
+              "dur": 1.65,
+              "vis": "Eight numbered tiles slam in face down around the roach"
+            }
+          ],
+          "card": "BORN A GERMAN COCKROACH",
+          "_t": 3.4,
+          "_dur": 4.94,
+          "_beats": "P"
+        },
+        {
+          "id": "s0.l2",
+          "say": "The German cockroach is the most common indoor species in California, and perhaps worldwide, especially in multi-unit housing.",
+          "src": "CR1",
+          "source_tag": "UC IPM",
+          "vis": "A kitchen in a multi-unit building / Chip: IN CALIFORNIA, AND PERHAPS WORLDWIDE / The 'perhaps' hedge stays on screen",
+          "shots": [
+            {
+              "t": 8.3,
+              "dur": 1.85,
+              "vis": "A kitchen in a multi-unit building"
+            },
+            {
+              "t": 10.2,
+              "dur": 1.85,
+              "vis": "Chip: IN CALIFORNIA, AND PERHAPS WORLDWIDE"
+            },
+            {
+              "t": 12.0,
+              "dur": 1.85,
+              "vis": "The 'perhaps' hedge stays on screen"
+            }
+          ],
+          "card": "MOST COMMON INDOOR SPECIES IN CALIFORNIA, AND PERHAPS WORLDWIDE",
+          "_t": 8.3,
+          "_dur": 5.55,
+          "_beats": "P"
+        },
+        {
+          "id": "s0.l3",
+          "say": "You prefer kitchens and bathrooms, favoring warm, seventy to seventy-five degree Fahrenheit, humid areas close to food, water, and dark areas for harborage.",
+          "src": "CR2",
+          "source_tag": "UC IPM",
+          "vis": "A warm kitchen, then a bathroom / Chip: 70 TO 75°F, HUMID / Food, a drip of water, a dark gap at the baseboard",
+          "shots": [
+            {
+              "t": 13.9,
+              "dur": 1.77,
+              "vis": "A warm kitchen, then a bathroom"
+            },
+            {
+              "t": 15.7,
+              "dur": 1.77,
+              "vis": "A warm kitchen, then a bathroom"
+            },
+            {
+              "t": 17.4,
+              "dur": 1.77,
+              "vis": "Chip: 70 TO 75°F, HUMID"
+            },
+            {
+              "t": 19.2,
+              "dur": 1.77,
+              "vis": "Food, a drip of water, a dark gap at the baseboard"
+            }
+          ],
+          "card": "KITCHENS AND BATHROOMS; 70 TO 75°F",
+          "_t": 13.9,
+          "_dur": 7.1,
+          "_beats": ""
+        },
+        {
+          "id": "s0.l4",
+          "say": "German and brownbanded cockroaches live and breed entirely indoors. American, Oriental, and Turkestan cockroaches live outdoors and can temporarily invade indoor spaces.",
+          "src": "CR3",
+          "source_tag": "UC IPM",
+          "vis": "Chip: GERMAN AND BROWNBANDED: LIVE AND BREED ENTIRELY INDOORS / Card: AMERICAN, ORIENTAL, AND TURKESTAN: OUTDOORS, CAN TEMPORARILY INVADE / An outdoor American cockroach at a door, tagged AMERICAN, not mixed with the German kitchen scene",
+          "shots": [
+            {
+              "t": 21.0,
+              "dur": 1.7,
+              "vis": "Chip: GERMAN AND BROWNBANDED: LIVE AND BREED ENTIRELY INDOORS"
+            },
+            {
+              "t": 22.7,
+              "dur": 1.7,
+              "vis": "Chip: GERMAN AND BROWNBANDED: LIVE AND BREED ENTIRELY INDOORS"
+            },
+            {
+              "t": 24.4,
+              "dur": 1.7,
+              "vis": "Card: AMERICAN, ORIENTAL, AND TURKESTAN: OUTDOORS, CAN TEMPORARILY INVADE"
+            },
+            {
+              "t": 26.1,
+              "dur": 1.7,
+              "vis": "An outdoor American cockroach at a door, tagged AMERICAN, not mixed with the German kitchen scene"
+            }
+          ],
+          "card": "GERMAN: ENTIRELY INDOORS; AMERICAN: OUTDOORS, CAN INVADE",
+          "_t": 21.0,
+          "_dur": 6.79,
+          "_beats": ""
+        },
+        {
+          "id": "s0.l5",
+          "say": "Of the cockroach species in California, the German cockroach is the most persistent and troublesome, and it may pose health concerns from food contamination and indoor allergens.",
+          "src": "CR4",
+          "source_tag": "UC IPM",
+          "vis": "A California kitchen, food on a counter / Chip: MOST PERSISTENT AND TROUBLESOME, IN CALIFORNIA / Card: MAY POSE HEALTH CONCERNS; FOOD CONTAMINATION AND INDOOR ALLERGENS",
+          "shots": [
+            {
+              "t": 27.8,
+              "dur": 1.67,
+              "vis": "A California kitchen, food on a counter"
+            },
+            {
+              "t": 29.4,
+              "dur": 1.67,
+              "vis": "A California kitchen, food on a counter"
+            },
+            {
+              "t": 31.1,
+              "dur": 1.67,
+              "vis": "Chip: MOST PERSISTENT AND TROUBLESOME, IN CALIFORNIA"
+            },
+            {
+              "t": 32.8,
+              "dur": 1.67,
+              "vis": "Chip: MOST PERSISTENT AND TROUBLESOME, IN CALIFORNIA"
+            },
+            {
+              "t": 34.4,
+              "dur": 1.67,
+              "vis": "Card: MAY POSE HEALTH CONCERNS; FOOD CONTAMINATION AND INDOOR ALLERGENS"
+            }
+          ],
+          "card": "MAY POSE HEALTH CONCERNS",
+          "_t": 27.8,
+          "_dur": 8.33,
+          "_beats": ""
+        },
+        {
+          "id": "s0.l6",
+          "say": "They are commonly found in homes, apartments, condominiums, and commercial food establishments.",
+          "src": "CR9",
+          "source_tag": "Texas A&M Urban Entomology",
+          "vis": "Icons: a house, an apartment, a condo, a restaurant kitchen / Tag stays Texas A&M",
+          "shots": [
+            {
+              "t": 36.1,
+              "dur": 1.85,
+              "vis": "Icons: a house, an apartment, a condo, a restaurant kitchen"
+            },
+            {
+              "t": 37.9,
+              "dur": 1.85,
+              "vis": "Tag stays Texas A&M"
+            }
+          ],
+          "card": "HOMES, APARTMENTS, CONDOS, FOOD BUSINESSES",
+          "_t": 36.1,
+          "_dur": 3.7,
+          "_beats": ""
+        },
+        {
+          "id": "s0.l7",
+          "say": "Meet the guy with the cardboard antennae. That's Meatball. He's living all eight from the couch, with a rubber stamp.",
+          "vis": "Reveal: Meatball on the couch in cardboard antennae / Close on the antennae / He holds up a rubber stamp: RAW on one side, SWEET on the other",
+          "shots": [
+            {
+              "t": 39.8,
+              "dur": 1.54,
+              "vis": "Reveal: Meatball on the couch in cardboard antennae"
+            },
+            {
+              "t": 41.3,
+              "dur": 1.54,
+              "vis": "Reveal: Meatball on the couch in cardboard antennae"
+            },
+            {
+              "t": 42.9,
+              "dur": 1.54,
+              "vis": "Close on the antennae"
+            },
+            {
+              "t": 44.4,
+              "dur": 1.54,
+              "vis": "He holds up a rubber stamp: RAW on one side, SWEET on the other"
+            }
+          ],
+          "_t": 39.8,
+          "_dur": 6.17,
+          "_beats": "C"
+        },
+        {
+          "id": "s0.l8",
+          "say": "His dog, Noodle, is the stand-in. His cat, Sauce, is everybody else.",
+          "vis": "Noodle in the doorway, wagging (name tag pops) / Sauce on the armrest, unimpressed (name tag pops)",
+          "shots": [
+            {
+              "t": 46.0,
+              "dur": 1.85,
+              "vis": "Noodle in the doorway, wagging (name tag pops)"
+            },
+            {
+              "t": 47.8,
+              "dur": 1.85,
+              "vis": "Sauce on the armrest, unimpressed (name tag pops)"
+            }
+          ],
+          "_t": 46.0,
+          "_dur": 3.7,
+          "_beats": "C"
+        },
+        {
+          "id": "s0.l9",
+          "say": "Meatball put on cardboard antennae. They kept sliding down. Hell.",
+          "vis": "Meatball adjusts the antennae / They slide down his forehead",
+          "shots": [
+            {
+              "t": 49.7,
+              "dur": 1.54,
+              "vis": "Meatball adjusts the antennae"
+            },
+            {
+              "t": 51.2,
+              "dur": 1.54,
+              "vis": "They slide down his forehead"
+            }
+          ],
+          "_t": 49.7,
+          "_dur": 3.08,
+          "_beats": "CJS"
+        },
+        {
+          "id": "s0.l10",
+          "say": "They hit you in order. One of them is a crack, and one is how fast a kitchen gets crowded.",
+          "vis": "Tile 2 flips half-way: a 1/16-inch crack, tagged GERMAN HIDE / Tile 4 flips half-way: a crowd card, OVER 30,000; meter appears in the corner",
+          "shots": [
+            {
+              "t": 52.8,
+              "dur": 1.54,
+              "vis": "Tile 2 flips half-way: a 1/16-inch crack, tagged GERMAN HIDE"
+            },
+            {
+              "t": 54.3,
+              "dur": 1.54,
+              "vis": "Tile 2 flips half-way: a 1/16-inch crack, tagged GERMAN HIDE"
+            },
+            {
+              "t": 55.8,
+              "dur": 1.54,
+              "vis": "Tile 4 flips half-way: a crowd card, OVER 30,000; meter appears in the corner"
+            },
+            {
+              "t": 57.4,
+              "dur": 1.54,
+              "vis": "Tile 4 flips half-way: a crowd card, OVER 30,000; meter appears in the corner"
+            }
+          ],
+          "_t": 52.8,
+          "_dur": 6.17,
+          "_beats": "R"
+        }
+      ]
+    },
+    {
+      "chapter": "1. The egg case",
+      "chip": "1 OF 8",
+      "_start": 59.2,
+      "lines": [
+        {
+          "id": "s1.l0",
+          "say": "Number one. The egg case.",
+          "vis": "Voiced number card whips in over a light beige German egg case (no silent hold)",
+          "shots": [
+            {
+              "t": 59.2,
+              "dur": 1.54,
+              "vis": "Voiced number card whips in over a light beige German egg case (no silent hold)"
+            }
+          ],
+          "card": "1 OF 8: THE EGG CASE",
+          "_t": 59.2,
+          "_dur": 1.54,
+          "_beats": ""
+        },
+        {
+          "id": "s1.l1",
+          "say": "The female carries around a light beige egg case, about one-quarter inch long, until one to two days before it hatches, when she drops it.",
+          "src": "CR5",
+          "source_tag": "UC IPM",
+          "vis": "A German female carries a light beige egg case / Size chip: ABOUT 1/4 IN / A 1-to-2-day bar; she drops the case / Chip: ABOUT; 1 TO 2 DAYS",
+          "shots": [
+            {
+              "t": 60.8,
+              "dur": 1.93,
+              "vis": "A German female carries a light beige egg case"
+            },
+            {
+              "t": 62.7,
+              "dur": 1.93,
+              "vis": "Size chip: ABOUT 1/4 IN"
+            },
+            {
+              "t": 64.6,
+              "dur": 1.93,
+              "vis": "A 1-to-2-day bar; she drops the case"
+            },
+            {
+              "t": 66.5,
+              "dur": 1.93,
+              "vis": "Chip: ABOUT; 1 TO 2 DAYS"
+            }
+          ],
+          "card": "ABOUT 1/4 IN; DROPPED 1 TO 2 DAYS BEFORE HATCHING",
+          "_t": 60.8,
+          "_dur": 7.71,
+          "_beats": "P"
+        },
+        {
+          "id": "s1.l2",
+          "say": "Sometimes the egg case hatches while it is still being carried by the female.",
+          "src": "CR5",
+          "source_tag": "UC IPM",
+          "vis": "Nymphs emerge while the case is still on the female / Chip: SOMETIMES",
+          "shots": [
+            {
+              "t": 68.5,
+              "dur": 1.44,
+              "vis": "Nymphs emerge while the case is still on the female"
+            },
+            {
+              "t": 69.9,
+              "dur": 1.44,
+              "vis": "Nymphs emerge while the case is still on the female"
+            },
+            {
+              "t": 71.4,
+              "dur": 1.44,
+              "vis": "Chip: SOMETIMES"
+            }
+          ],
+          "card": "SOMETIMES IT HATCHES WHILE SHE IS STILL CARRYING IT",
+          "_t": 68.5,
+          "_dur": 4.32,
+          "_beats": ""
+        },
+        {
+          "id": "s1.l3",
+          "say": "A different official page describes the egg case as a tiny, brown, purse-shaped capsule.",
+          "src": "CR7, D2",
+          "source_tag": "UF/IFAS",
+          "vis": "The purse-shaped case, tagged UF/IFAS / The UC IPM light-beige, about-1/4-inch card stays separate / The 8 mm / about-1/3-inch figure stays out of speech and off this card",
+          "shots": [
+            {
+              "t": 72.8,
+              "dur": 1.44,
+              "vis": "The purse-shaped case, tagged UF/IFAS"
+            },
+            {
+              "t": 74.2,
+              "dur": 1.44,
+              "vis": "The UC IPM light-beige, about-1/4-inch card stays separate"
+            },
+            {
+              "t": 75.7,
+              "dur": 1.44,
+              "vis": "The 8 mm / about-1/3-inch figure stays out of speech and off this card"
+            }
+          ],
+          "card": "A DIFFERENT PAGE: A TINY, BROWN, PURSE-SHAPED CAPSULE",
+          "_t": 72.8,
+          "_dur": 4.32,
+          "_beats": ""
+        },
+        {
+          "id": "s1.l4",
+          "say": "Each egg case contains about thirty young, and a female may produce a new egg case every few weeks.",
+          "src": "CR6",
+          "source_tag": "UC IPM",
+          "vis": "About 30 nymphs from one case / Chip: ABOUT 30, not 40, not a blended range / Chip: MAY; EVERY FEW WEEKS",
+          "shots": [
+            {
+              "t": 77.1,
+              "dur": 1.95,
+              "vis": "About 30 nymphs from one case"
+            },
+            {
+              "t": 79.1,
+              "dur": 1.95,
+              "vis": "Chip: ABOUT 30, not 40, not a blended range"
+            },
+            {
+              "t": 81.0,
+              "dur": 1.95,
+              "vis": "Chip: MAY; EVERY FEW WEEKS"
+            }
+          ],
+          "card": "ABOUT 30 YOUNG; A NEW CASE EVERY FEW WEEKS",
+          "_t": 77.1,
+          "_dur": 5.86,
+          "_beats": "P"
+        },
+        {
+          "id": "s1.l5",
+          "say": "This pest thrives in the presence of humans but does not occur outdoors.",
+          "src": "CR8",
+          "source_tag": "University of Kentucky",
+          "vis": "The German roach stays in the kitchen / An outdoor yard stays empty of this species / Card: DOES NOT OCCUR OUTDOORS",
+          "shots": [
+            {
+              "t": 83.0,
+              "dur": 1.34,
+              "vis": "The German roach stays in the kitchen"
+            },
+            {
+              "t": 84.3,
+              "dur": 1.34,
+              "vis": "An outdoor yard stays empty of this species"
+            },
+            {
+              "t": 85.6,
+              "dur": 1.34,
+              "vis": "Card: DOES NOT OCCUR OUTDOORS"
+            }
+          ],
+          "card": "DOES NOT OCCUR OUTDOORS",
+          "_t": 83.0,
+          "_dur": 4.01,
+          "_beats": ""
+        },
+        {
+          "id": "s1.l6",
+          "say": "Adults are light brown and about half an inch long, with two dark stripes running along the shield behind the head.",
+          "src": "CR8",
+          "source_tag": "University of Kentucky",
+          "vis": "An adult, light brown, about half an inch / Two dark stripes on the pronotum / Chip: ABOUT HALF AN INCH",
+          "shots": [
+            {
+              "t": 87.0,
+              "dur": 1.62,
+              "vis": "An adult, light brown, about half an inch"
+            },
+            {
+              "t": 88.6,
+              "dur": 1.62,
+              "vis": "An adult, light brown, about half an inch"
+            },
+            {
+              "t": 90.2,
+              "dur": 1.62,
+              "vis": "Two dark stripes on the pronotum"
+            },
+            {
+              "t": 91.8,
+              "dur": 1.62,
+              "vis": "Chip: ABOUT HALF AN INCH"
+            }
+          ],
+          "card": "ABOUT 1/2 IN; TWO DARK STRIPES",
+          "_t": 87.0,
+          "_dur": 6.48,
+          "_beats": ""
+        },
+        {
+          "id": "s1.l7",
+          "say": "A different official page puts adult bodies at one-half to five-eighths of an inch.",
+          "src": "CR9, D5",
+          "source_tag": "Texas A&M Urban Entomology",
+          "vis": "Two size bars stay side by side: ABOUT 1/2 IN, and 1/2 TO 5/8 IN / They are not averaged",
+          "shots": [
+            {
+              "t": 93.5,
+              "dur": 1.44,
+              "vis": "Two size bars stay side by side: ABOUT 1/2 IN, and 1/2 TO 5/8 IN"
+            },
+            {
+              "t": 94.9,
+              "dur": 1.44,
+              "vis": "Two size bars stay side by side: ABOUT 1/2 IN, and 1/2 TO 5/8 IN"
+            },
+            {
+              "t": 96.3,
+              "dur": 1.44,
+              "vis": "They are not averaged"
+            }
+          ],
+          "card": "A DIFFERENT PAGE: 1/2 TO 5/8 IN",
+          "_t": 93.5,
+          "_dur": 4.32,
+          "_beats": ""
+        },
+        {
+          "id": "s1.l8",
+          "say": "Adults are fully winged but rarely fly.",
+          "src": "CR9",
+          "source_tag": "Texas A&M Urban Entomology",
+          "vis": "Wings visible on an adult / Card: RARELY FLY, not 'cannot fly'",
+          "shots": [
+            {
+              "t": 97.8,
+              "dur": 1.08,
+              "vis": "Wings visible on an adult"
+            },
+            {
+              "t": 98.9,
+              "dur": 1.08,
+              "vis": "Card: RARELY FLY, not 'cannot fly'"
+            }
+          ],
+          "card": "FULLY WINGED, BUT RARELY FLY",
+          "_t": 97.8,
+          "_dur": 2.16,
+          "_beats": ""
+        },
+        {
+          "id": "s1.l9",
+          "say": "Meatball taped a beige cardboard case to a spoon. Sauce knocked the spoon under the couch.",
+          "vis": "Meatball tapes a small beige cardboard case to a spoon / Sauce knocks the spoon under the couch",
+          "shots": [
+            {
+              "t": 99.9,
+              "dur": 1.65,
+              "vis": "Meatball tapes a small beige cardboard case to a spoon"
+            },
+            {
+              "t": 101.6,
+              "dur": 1.65,
+              "vis": "Meatball tapes a small beige cardboard case to a spoon"
+            },
+            {
+              "t": 103.2,
+              "dur": 1.65,
+              "vis": "Sauce knocks the spoon under the couch"
+            }
+          ],
+          "_t": 99.9,
+          "_dur": 4.94,
+          "_beats": "CJ"
+        }
+      ],
+      "_midroll_after": {
+        "type": "alt",
+        "at": 105.0,
+        "note": "Break in the 0.3 s gap after this chapter's last line, before the next voiced chapter line. Never mid-sentence, never on a safety line, never mid-joke."
+      }
+    },
+    {
+      "chapter": "2. The crack",
+      "chip": "2 OF 8",
+      "_start": 105.2,
+      "lines": [
+        {
+          "id": "s2.l0",
+          "say": "Number two. The crack.",
+          "vis": "Voiced number card over a baseboard crack",
+          "shots": [
+            {
+              "t": 105.2,
+              "dur": 1.23,
+              "vis": "Voiced number card over a baseboard crack"
+            }
+          ],
+          "card": "2 OF 8: THE CRACK",
+          "_t": 105.2,
+          "_dur": 1.23,
+          "_beats": ""
+        },
+        {
+          "id": "s2.l1",
+          "say": "Adult German cockroaches can hide in a crack one-sixteenth of an inch wide.",
+          "src": "CR10",
+          "source_tag": "UC IPM",
+          "vis": "An adult German cockroach slips into a 1/16-inch crack / Card: ADULT GERMAN; HIDE, NOT SQUISH / Chip: 1/16 INCH, NOT 1/10 INCH",
+          "shots": [
+            {
+              "t": 106.4,
+              "dur": 1.34,
+              "vis": "An adult German cockroach slips into a 1/16-inch crack"
+            },
+            {
+              "t": 107.7,
+              "dur": 1.34,
+              "vis": "Card: ADULT GERMAN; HIDE, NOT SQUISH"
+            },
+            {
+              "t": 109.1,
+              "dur": 1.34,
+              "vis": "Chip: 1/16 INCH, NOT 1/10 INCH"
+            }
+          ],
+          "card": "ADULT GERMAN: CAN HIDE IN A 1/16-INCH CRACK",
+          "_t": 106.4,
+          "_dur": 4.01,
+          "_beats": "P"
+        },
+        {
+          "id": "s2.l2",
+          "say": "Immature cockroaches tend to stay in even smaller cracks, where they are well protected.",
+          "src": "CR10",
+          "source_tag": "UC IPM",
+          "vis": "Smaller nymphs in tighter cracks / Chip: EVEN SMALLER",
+          "shots": [
+            {
+              "t": 110.4,
+              "dur": 1.44,
+              "vis": "Smaller nymphs in tighter cracks"
+            },
+            {
+              "t": 111.9,
+              "dur": 1.44,
+              "vis": "Smaller nymphs in tighter cracks"
+            },
+            {
+              "t": 113.3,
+              "dur": 1.44,
+              "vis": "Chip: EVEN SMALLER"
+            }
+          ],
+          "card": "IMMATURES: EVEN SMALLER CRACKS",
+          "_t": 110.4,
+          "_dur": 4.32,
+          "_beats": ""
+        },
+        {
+          "id": "s2.l3",
+          "say": "That hide is not the same as a body squeeze. The squeeze number belongs to a different cockroach.",
+          "src": "CR16",
+          "source_tag": "UC IPM; UC Berkeley News",
+          "vis": "The German 1/16-inch hide card stays on the left / A blank squeeze card waits on the right, not yet filled / Card: DIFFERENT SPECIES, DIFFERENT MEASUREMENT",
+          "shots": [
+            {
+              "t": 114.7,
+              "dur": 1.85,
+              "vis": "The German 1/16-inch hide card stays on the left"
+            },
+            {
+              "t": 116.6,
+              "dur": 1.85,
+              "vis": "A blank squeeze card waits on the right, not yet filled"
+            },
+            {
+              "t": 118.4,
+              "dur": 1.85,
+              "vis": "Card: DIFFERENT SPECIES, DIFFERENT MEASUREMENT"
+            }
+          ],
+          "card": "DO NOT MIX THE TWO FIGURES",
+          "_t": 114.7,
+          "_dur": 5.55,
+          "_beats": "P"
+        },
+        {
+          "id": "s2.l4",
+          "say": "American cockroaches can squish their bodies to one-tenth of an inch, the height of two stacked pennies.",
+          "src": "CR13, CR14",
+          "source_tag": "UC Berkeley News",
+          "vis": "Card, large: AMERICAN COCKROACH ONLY / An American cockroach, tagged Periplaneta americana on the card, not spoken as a Latin line / It compresses to one-tenth of an inch beside two stacked pennies / No dime anywhere in the frame",
+          "shots": [
+            {
+              "t": 120.3,
+              "dur": 1.31,
+              "vis": "Card, large: AMERICAN COCKROACH ONLY"
+            },
+            {
+              "t": 121.6,
+              "dur": 1.31,
+              "vis": "An American cockroach, tagged Periplaneta americana on the card, not spoken as a Latin line"
+            },
+            {
+              "t": 122.9,
+              "dur": 1.31,
+              "vis": "It compresses to one-tenth of an inch beside two stacked pennies"
+            },
+            {
+              "t": 124.2,
+              "dur": 1.31,
+              "vis": "No dime anywhere in the frame"
+            }
+          ],
+          "card": "AMERICAN COCKROACH ONLY: SQUISH TO 1/10 IN, TWO STACKED PENNIES",
+          "_t": 120.3,
+          "_dur": 5.24,
+          "_beats": "P"
+        },
+        {
+          "id": "s2.l5",
+          "say": "They could slip through slits of one-tenth of an inch if highly motivated. They're about half an inch tall when they run freely.",
+          "src": "CR13, CR14",
+          "source_tag": "UC Berkeley News",
+          "vis": "Chip: IF HIGHLY MOTIVATED stays on the tight slit / The same American cockroach running freely, about half an inch tall / The free-running height is not treated as the gap they can fit",
+          "shots": [
+            {
+              "t": 125.5,
+              "dur": 1.77,
+              "vis": "Chip: IF HIGHLY MOTIVATED stays on the tight slit"
+            },
+            {
+              "t": 127.3,
+              "dur": 1.77,
+              "vis": "Chip: IF HIGHLY MOTIVATED stays on the tight slit"
+            },
+            {
+              "t": 129.1,
+              "dur": 1.77,
+              "vis": "The same American cockroach running freely, about half an inch tall"
+            },
+            {
+              "t": 130.9,
+              "dur": 1.77,
+              "vis": "The free-running height is not treated as the gap they can fit"
+            }
+          ],
+          "card": "AMERICAN: IF HIGHLY MOTIVATED; ABOUT 1/2 IN TALL WHEN RUNNING FREELY",
+          "_t": 125.5,
+          "_dur": 7.1,
+          "_beats": ""
+        },
+        {
+          "id": "s2.l6",
+          "say": "Do not mix those two figures. The one-sixteenth-inch hide is German. The one-tenth-inch squeeze is American.",
+          "src": "CR16",
+          "source_tag": "UC IPM; UC Berkeley News",
+          "vis": "Two cards stay separate: GERMAN 1/16-IN HIDE and AMERICAN 1/10-IN SQUEEZE / A line between them / No blended 'a cockroach' figure",
+          "shots": [
+            {
+              "t": 132.6,
+              "dur": 1.65,
+              "vis": "Two cards stay separate: GERMAN 1/16-IN HIDE and AMERICAN 1/10-IN SQUEEZE"
+            },
+            {
+              "t": 134.3,
+              "dur": 1.65,
+              "vis": "A line between them"
+            },
+            {
+              "t": 135.9,
+              "dur": 1.65,
+              "vis": "No blended 'a cockroach' figure"
+            }
+          ],
+          "card": "GERMAN 1/16-IN HIDE; AMERICAN 1/10-IN SQUEEZE",
+          "_t": 132.6,
+          "_dur": 4.94,
+          "_beats": "P"
+        },
+        {
+          "id": "s2.l7",
+          "say": "Even clean homes can become infested. The German cockroach is often introduced in infested grocery bags, beverage cartons, or furniture.",
+          "src": "CR11",
+          "source_tag": "University of Kentucky",
+          "vis": "A clean kitchen / A grocery bag, a carton, a piece of furniture coming in the door / Card: EVEN CLEAN HOMES CAN BECOME INFESTED",
+          "shots": [
+            {
+              "t": 137.6,
+              "dur": 1.54,
+              "vis": "A clean kitchen"
+            },
+            {
+              "t": 139.1,
+              "dur": 1.54,
+              "vis": "A clean kitchen"
+            },
+            {
+              "t": 140.7,
+              "dur": 1.54,
+              "vis": "A grocery bag, a carton, a piece of furniture coming in the door"
+            },
+            {
+              "t": 142.2,
+              "dur": 1.54,
+              "vis": "Card: EVEN CLEAN HOMES CAN BECOME INFESTED"
+            }
+          ],
+          "card": "EVEN CLEAN HOMES; OFTEN IN GROCERY BAGS, CARTONS, OR FURNITURE",
+          "_t": 137.6,
+          "_dur": 6.17,
+          "_beats": "P"
+        },
+        {
+          "id": "s2.l8",
+          "say": "They can gain entry by concealing themselves in groceries or luggage. Prevention is possible by inspecting boxes and bags as they are brought into a structure.",
+          "src": "CR12",
+          "source_tag": "Texas A&M Urban Entomology",
+          "vis": "A roach concealed in a grocery bag or a suitcase / Someone inspects a box and a bag at the door / Chip: PREVENTION IS POSSIBLE, not a guarantee",
+          "shots": [
+            {
+              "t": 143.7,
+              "dur": 1.6,
+              "vis": "A roach concealed in a grocery bag or a suitcase"
+            },
+            {
+              "t": 145.3,
+              "dur": 1.6,
+              "vis": "A roach concealed in a grocery bag or a suitcase"
+            },
+            {
+              "t": 146.9,
+              "dur": 1.6,
+              "vis": "Someone inspects a box and a bag at the door"
+            },
+            {
+              "t": 148.5,
+              "dur": 1.6,
+              "vis": "Someone inspects a box and a bag at the door"
+            },
+            {
+              "t": 150.2,
+              "dur": 1.6,
+              "vis": "Chip: PREVENTION IS POSSIBLE, not a guarantee"
+            }
+          ],
+          "card": "PREVENTION IS POSSIBLE BY INSPECTING BOXES AND BAGS",
+          "_t": 143.7,
+          "_dur": 8.02,
+          "_beats": ""
+        },
+        {
+          "id": "s2.l9",
+          "say": "Meatball held a credit card next to the baseboard. Noodle pushed the card under the fridge.",
+          "vis": "Meatball holds a credit card against a baseboard gap / Noodle noses the card under the fridge",
+          "shots": [
+            {
+              "t": 151.8,
+              "dur": 1.65,
+              "vis": "Meatball holds a credit card against a baseboard gap"
+            },
+            {
+              "t": 153.4,
+              "dur": 1.65,
+              "vis": "Meatball holds a credit card against a baseboard gap"
+            },
+            {
+              "t": 155.0,
+              "dur": 1.65,
+              "vis": "Noodle noses the card under the fridge"
+            }
+          ],
+          "_t": 151.8,
+          "_dur": 4.94,
+          "_beats": "CJ"
+        }
+      ],
+      "_midroll_after": {
+        "type": "alt",
+        "at": 156.8,
+        "note": "Break in the 0.3 s gap after this chapter's last line, before the next voiced chapter line. Never mid-sentence, never on a safety line, never mid-joke."
+      }
+    },
+    {
+      "chapter": "3. The kitchen at night",
+      "chip": "3 OF 8",
+      "_start": 157.0,
+      "lines": [
+        {
+          "id": "s3.l0",
+          "say": "Number three. The kitchen at night.",
+          "vis": "Voiced number card over a dark kitchen counter",
+          "shots": [
+            {
+              "t": 157.0,
+              "dur": 1.85,
+              "vis": "Voiced number card over a dark kitchen counter"
+            }
+          ],
+          "card": "3 OF 8: THE KITCHEN AT NIGHT",
+          "_t": 157.0,
+          "_dur": 1.85,
+          "_beats": ""
+        },
+        {
+          "id": "s3.l1",
+          "say": "During the day, roaches hide in warm, dark, moist areas. They come out at night to feed.",
+          "src": "CR17",
+          "source_tag": "UC IPM",
+          "vis": "Roaches hidden in a warm, dark, moist gap / Night: they come out onto a kitchen counter / Chip: SPECIES-GENERAL, not tagged German-only",
+          "shots": [
+            {
+              "t": 158.8,
+              "dur": 1.75,
+              "vis": "Roaches hidden in a warm, dark, moist gap"
+            },
+            {
+              "t": 160.6,
+              "dur": 1.75,
+              "vis": "Night: they come out onto a kitchen counter"
+            },
+            {
+              "t": 162.3,
+              "dur": 1.75,
+              "vis": "Chip: SPECIES-GENERAL, not tagged German-only"
+            }
+          ],
+          "card": "DAY: HIDE; NIGHT: COME OUT TO FEED",
+          "_t": 158.8,
+          "_dur": 5.24,
+          "_beats": "P"
+        },
+        {
+          "id": "s3.l2",
+          "say": "Almost all cockroaches are nocturnal. They have a tendency to scatter when disturbed.",
+          "src": "CR18",
+          "source_tag": "UC IPM",
+          "vis": "Chip: ALMOST ALL, not every cockroach / A light goes on; they scatter",
+          "shots": [
+            {
+              "t": 164.1,
+              "dur": 1.34,
+              "vis": "Chip: ALMOST ALL, not every cockroach"
+            },
+            {
+              "t": 165.4,
+              "dur": 1.34,
+              "vis": "Chip: ALMOST ALL, not every cockroach"
+            },
+            {
+              "t": 166.8,
+              "dur": 1.34,
+              "vis": "A light goes on; they scatter"
+            }
+          ],
+          "card": "ALMOST ALL ARE NOCTURNAL; THEY TEND TO SCATTER",
+          "_t": 164.1,
+          "_dur": 4.01,
+          "_beats": ""
+        },
+        {
+          "id": "s3.l3",
+          "say": "During the day, they generally remain hidden in cracks and other dark, secluded areas. At night, they leave their hiding places and search for food.",
+          "src": "CR19",
+          "source_tag": "University of Kentucky",
+          "vis": "Day: hidden in a crack / Night: they leave and search",
+          "shots": [
+            {
+              "t": 168.1,
+              "dur": 1.93,
+              "vis": "Day: hidden in a crack"
+            },
+            {
+              "t": 170.0,
+              "dur": 1.93,
+              "vis": "Day: hidden in a crack"
+            },
+            {
+              "t": 172.0,
+              "dur": 1.93,
+              "vis": "Night: they leave and search"
+            },
+            {
+              "t": 173.9,
+              "dur": 1.93,
+              "vis": "Night: they leave and search"
+            }
+          ],
+          "card": "DAY: GENERALLY HIDDEN; NIGHT: SEARCH FOR FOOD",
+          "_t": 168.1,
+          "_dur": 7.71,
+          "_beats": ""
+        },
+        {
+          "id": "s3.l4",
+          "say": "Severe infestations may spread to other parts of buildings.",
+          "src": "CR2",
+          "source_tag": "UC IPM",
+          "vis": "A kitchen cluster / Rooms beyond the kitchen light up faintly / Chip: MAY SPREAD",
+          "shots": [
+            {
+              "t": 175.8,
+              "dur": 1.39,
+              "vis": "A kitchen cluster; then Rooms beyond the kitchen light up faintly"
+            },
+            {
+              "t": 177.2,
+              "dur": 1.39,
+              "vis": "Chip: MAY SPREAD"
+            }
+          ],
+          "card": "SEVERE INFESTATIONS MAY SPREAD",
+          "_t": 175.8,
+          "_dur": 2.78,
+          "_beats": ""
+        },
+        {
+          "id": "s3.l5",
+          "say": "Cockroaches will eat all human foods, plus many other items such as soap, toothpaste, glue, hair, excrement, and decaying organic matter.",
+          "src": "CR20",
+          "source_tag": "University of Kentucky",
+          "vis": "A full list on screen, not trimmed to a joke menu / Icons: food, soap, toothpaste, glue, hair, excrement, decaying matter / Chip: SPECIES-GENERAL",
+          "shots": [
+            {
+              "t": 178.6,
+              "dur": 1.62,
+              "vis": "A full list on screen, not trimmed to a joke menu"
+            },
+            {
+              "t": 180.2,
+              "dur": 1.62,
+              "vis": "A full list on screen, not trimmed to a joke menu"
+            },
+            {
+              "t": 181.8,
+              "dur": 1.62,
+              "vis": "Icons: food, soap, toothpaste, glue, hair, excrement, decaying matter"
+            },
+            {
+              "t": 183.4,
+              "dur": 1.62,
+              "vis": "Chip: SPECIES-GENERAL"
+            }
+          ],
+          "card": "ALL HUMAN FOODS, PLUS SOAP, TOOTHPASTE, GLUE, HAIR, AND MORE",
+          "_t": 178.6,
+          "_dur": 6.48,
+          "_beats": "P"
+        },
+        {
+          "id": "s3.l6",
+          "say": "The German cockroach is omnivorous, eating table scraps, pet food, and even book bindings.",
+          "src": "CR21",
+          "source_tag": "UF/IFAS",
+          "vis": "Table scraps, a pet-food bowl, a book binding / Chip: GERMAN COCKROACH",
+          "shots": [
+            {
+              "t": 185.1,
+              "dur": 1.44,
+              "vis": "Table scraps, a pet-food bowl, a book binding"
+            },
+            {
+              "t": 186.5,
+              "dur": 1.44,
+              "vis": "Table scraps, a pet-food bowl, a book binding"
+            },
+            {
+              "t": 187.9,
+              "dur": 1.44,
+              "vis": "Chip: GERMAN COCKROACH"
+            }
+          ],
+          "card": "GERMAN: TABLE SCRAPS, PET FOOD, EVEN BOOK BINDINGS",
+          "_t": 185.1,
+          "_dur": 4.32,
+          "_beats": ""
+        },
+        {
+          "id": "s3.l7",
+          "say": "Meatball left a toothpaste cap on the counter. Sauce walked off with the cap.",
+          "vis": "A toothpaste cap sits on the counter / Sauce walks off with the cap",
+          "shots": [
+            {
+              "t": 189.4,
+              "dur": 1.44,
+              "vis": "A toothpaste cap sits on the counter"
+            },
+            {
+              "t": 190.8,
+              "dur": 1.44,
+              "vis": "A toothpaste cap sits on the counter"
+            },
+            {
+              "t": 192.3,
+              "dur": 1.44,
+              "vis": "Sauce walks off with the cap"
+            }
+          ],
+          "_t": 189.4,
+          "_dur": 4.32,
+          "_beats": "CJ"
+        }
+      ],
+      "_midroll_after": {
+        "type": "primary",
+        "at": 193.9,
+        "note": "Break in the 0.3 s gap after this chapter's last line, before the next voiced chapter line. Never mid-sentence, never on a safety line, never mid-joke."
+      }
+    },
+    {
+      "chapter": "4. The crowd",
+      "chip": "4 OF 8",
+      "_start": 194.0,
+      "lines": [
+        {
+          "id": "s4.l0",
+          "say": "Number four. How fast a kitchen gets crowded.",
+          "vis": "Voiced number card over a kitchen that starts to fill",
+          "shots": [
+            {
+              "t": 194.0,
+              "dur": 1.23,
+              "vis": "Voiced number card over a kitchen that starts to fill"
+            },
+            {
+              "t": 195.2,
+              "dur": 1.23,
+              "vis": "Voiced number card over a kitchen that starts to fill"
+            }
+          ],
+          "card": "4 OF 8: THE CROWD",
+          "_t": 194.0,
+          "_dur": 2.47,
+          "_beats": ""
+        },
+        {
+          "id": "s4.l1",
+          "say": "This species has the fastest reproductive cycle of all the common pest cockroaches.",
+          "src": "CR22",
+          "source_tag": "UC IPM",
+          "vis": "Chip: THIS SPECIES, GERMAN / A cycle card: FASTEST OF THE COMMON PEST COCKROACHES",
+          "shots": [
+            {
+              "t": 196.5,
+              "dur": 1.34,
+              "vis": "Chip: THIS SPECIES, GERMAN"
+            },
+            {
+              "t": 197.8,
+              "dur": 1.34,
+              "vis": "Chip: THIS SPECIES, GERMAN"
+            },
+            {
+              "t": 199.1,
+              "dur": 1.34,
+              "vis": "A cycle card: FASTEST OF THE COMMON PEST COCKROACHES"
+            }
+          ],
+          "card": "FASTEST REPRODUCTIVE CYCLE OF THE COMMON PEST COCKROACHES",
+          "_t": 196.5,
+          "_dur": 4.01,
+          "_beats": "P"
+        },
+        {
+          "id": "s4.l2",
+          "say": "A single female and her offspring can produce over thirty thousand individuals in a year.",
+          "src": "CR22",
+          "source_tag": "UC IPM",
+          "vis": "The hook card returns, now with the official wording: PRODUCE; INDIVIDUALS / Chip: GERMAN; A SINGLE FEMALE AND HER OFFSPRING; OVER 30,000; IN A YEAR / Not 'one female' alone, and not 'a cockroach'",
+          "shots": [
+            {
+              "t": 200.5,
+              "dur": 1.54,
+              "vis": "The hook card returns, now with the official wording: PRODUCE; INDIVIDUALS"
+            },
+            {
+              "t": 202.0,
+              "dur": 1.54,
+              "vis": "Chip: GERMAN; A SINGLE FEMALE AND HER OFFSPRING; OVER 30,000; IN A YEAR"
+            },
+            {
+              "t": 203.6,
+              "dur": 1.54,
+              "vis": "Not 'one female' alone, and not 'a cockroach'"
+            }
+          ],
+          "card": "A SINGLE FEMALE AND HER OFFSPRING: OVER 30,000 IN A YEAR",
+          "_t": 200.5,
+          "_dur": 4.63,
+          "_beats": "P"
+        },
+        {
+          "id": "s4.l3",
+          "say": "American cockroaches are different. Each egg case contains about twelve young, and a female and her offspring can produce over eight hundred cockroaches in one year.",
+          "src": "CR25",
+          "source_tag": "UC IPM",
+          "vis": "Card, large: AMERICAN COCKROACH ONLY / About-12 young from an American egg case / A separate over-800 bar, tagged AMERICAN, not merged with 30,000",
+          "shots": [
+            {
+              "t": 205.1,
+              "dur": 1.6,
+              "vis": "Card, large: AMERICAN COCKROACH ONLY"
+            },
+            {
+              "t": 206.7,
+              "dur": 1.6,
+              "vis": "Card, large: AMERICAN COCKROACH ONLY"
+            },
+            {
+              "t": 208.3,
+              "dur": 1.6,
+              "vis": "About-12 young from an American egg case"
+            },
+            {
+              "t": 209.9,
+              "dur": 1.6,
+              "vis": "About-12 young from an American egg case"
+            },
+            {
+              "t": 211.5,
+              "dur": 1.6,
+              "vis": "A separate over-800 bar, tagged AMERICAN, not merged with 30,000"
+            }
+          ],
+          "card": "AMERICAN ONLY: ABOUT 12 YOUNG; OVER 800 IN ONE YEAR",
+          "_t": 205.1,
+          "_dur": 8.02,
+          "_beats": "P"
+        },
+        {
+          "id": "s4.l4",
+          "say": "The American cockroach prefers warm and humid environments, usually with temperatures above eighty-two degrees.",
+          "src": "CR25",
+          "source_tag": "UC IPM",
+          "vis": "Card: AMERICAN COCKROACH ONLY / A temperature mark above 82°F / This card stays off the German kitchen scene",
+          "shots": [
+            {
+              "t": 213.1,
+              "dur": 1.44,
+              "vis": "Card: AMERICAN COCKROACH ONLY"
+            },
+            {
+              "t": 214.6,
+              "dur": 1.44,
+              "vis": "A temperature mark above 82°F"
+            },
+            {
+              "t": 216.0,
+              "dur": 1.44,
+              "vis": "This card stays off the German kitchen scene"
+            }
+          ],
+          "card": "AMERICAN ONLY: USUALLY ABOVE 82°F",
+          "_t": 213.1,
+          "_dur": 4.32,
+          "_beats": ""
+        },
+        {
+          "id": "s4.l5",
+          "say": "A different official page says a single mated female can produce thousands of new cockroaches in less than a year. That is not the same claim as over thirty thousand.",
+          "src": "CR23, D3",
+          "source_tag": "University of Kentucky; UC IPM",
+          "vis": "Two separate cards: UC IPM OVER 30,000 IN A YEAR, and UKY THOUSANDS IN LESS THAN A YEAR / A line between them / They are not averaged or upgraded",
+          "shots": [
+            {
+              "t": 217.4,
+              "dur": 1.85,
+              "vis": "Two separate cards: UC IPM OVER 30,000 IN A YEAR, and UKY THOUSANDS IN LESS THAN A YEAR"
+            },
+            {
+              "t": 219.3,
+              "dur": 1.85,
+              "vis": "Two separate cards: UC IPM OVER 30,000 IN A YEAR, and UKY THOUSANDS IN LESS THAN A YEAR"
+            },
+            {
+              "t": 221.1,
+              "dur": 1.85,
+              "vis": "A line between them"
+            },
+            {
+              "t": 223.0,
+              "dur": 1.85,
+              "vis": "A line between them"
+            },
+            {
+              "t": 224.9,
+              "dur": 1.85,
+              "vis": "They are not averaged or upgraded"
+            }
+          ],
+          "card": "UKY: THOUSANDS, IN LESS THAN A YEAR; NOT THE SAME CLAIM",
+          "_t": 217.4,
+          "_dur": 9.25,
+          "_beats": ""
+        },
+        {
+          "id": "s4.l6",
+          "say": "The entire German life cycle is completed in about one hundred days, but temperature, nutrition, and strain can change that.",
+          "src": "CR24",
+          "source_tag": "UF/IFAS",
+          "vis": "A life-cycle bar of about 100 days / Chip: ABOUT / Icons: temperature, nutrition, strain, pulling the bar longer or shorter",
+          "shots": [
+            {
+              "t": 226.7,
+              "dur": 1.54,
+              "vis": "A life-cycle bar of about 100 days"
+            },
+            {
+              "t": 228.2,
+              "dur": 1.54,
+              "vis": "A life-cycle bar of about 100 days"
+            },
+            {
+              "t": 229.8,
+              "dur": 1.54,
+              "vis": "Chip: ABOUT"
+            },
+            {
+              "t": 231.3,
+              "dur": 1.54,
+              "vis": "Icons: temperature, nutrition, strain, pulling the bar longer or shorter"
+            }
+          ],
+          "card": "ABOUT 100 DAYS; TEMPERATURE, NUTRITION, AND STRAIN CAN CHANGE THAT",
+          "_t": 226.7,
+          "_dur": 6.17,
+          "_beats": ""
+        },
+        {
+          "id": "s4.l7",
+          "say": "They breed continuously with overlapping generations. Under ideal conditions, population growth has been shown to be exponential.",
+          "src": "CR24",
+          "source_tag": "UF/IFAS",
+          "vis": "Overlapping generations on a timeline / Chip: UNDER IDEAL CONDITIONS / An exponential curve, tagged not 'always'",
+          "shots": [
+            {
+              "t": 232.9,
+              "dur": 1.75,
+              "vis": "Overlapping generations on a timeline"
+            },
+            {
+              "t": 234.6,
+              "dur": 1.75,
+              "vis": "Chip: UNDER IDEAL CONDITIONS"
+            },
+            {
+              "t": 236.4,
+              "dur": 1.75,
+              "vis": "An exponential curve, tagged not 'always'"
+            }
+          ],
+          "card": "UNDER IDEAL CONDITIONS: EXPONENTIAL GROWTH",
+          "_t": 232.9,
+          "_dur": 5.24,
+          "_beats": "P"
+        },
+        {
+          "id": "s4.l8",
+          "say": "Actively growing field populations are about eighty percent nymphs and twenty percent adults.",
+          "src": "CR24",
+          "source_tag": "UF/IFAS",
+          "vis": "An 80/20 bar / Chip: ACTIVELY GROWING FIELD POPULATIONS / Not labelled as 'your kitchen'",
+          "shots": [
+            {
+              "t": 238.1,
+              "dur": 1.34,
+              "vis": "An 80/20 bar"
+            },
+            {
+              "t": 239.5,
+              "dur": 1.34,
+              "vis": "Chip: ACTIVELY GROWING FIELD POPULATIONS"
+            },
+            {
+              "t": 240.8,
+              "dur": 1.34,
+              "vis": "Not labelled as 'your kitchen'"
+            }
+          ],
+          "card": "ACTIVELY GROWING FIELD POPULATIONS: ABOUT 80% NYMPHS",
+          "_t": 238.1,
+          "_dur": 4.01,
+          "_beats": ""
+        },
+        {
+          "id": "s4.l9",
+          "say": "Meatball started drawing tick marks. He flipped the paper over. Damn.",
+          "vis": "Meatball fills a page with tick marks / He flips the paper over",
+          "shots": [
+            {
+              "t": 242.1,
+              "dur": 1.7,
+              "vis": "Meatball fills a page with tick marks"
+            },
+            {
+              "t": 243.8,
+              "dur": 1.7,
+              "vis": "He flips the paper over"
+            }
+          ],
+          "_t": 242.1,
+          "_dur": 3.39,
+          "_beats": "CJS"
+        }
+      ],
+      "_midroll_after": {
+        "type": "alt",
+        "at": 245.7,
+        "note": "Break in the 0.3 s gap after this chapter's last line, before the next voiced chapter line. Never mid-sentence, never on a safety line, never mid-joke."
+      }
+    },
+    {
+      "chapter": "Halfway",
+      "chip": "",
+      "_start": 245.8,
+      "lines": [
+        {
+          "id": "s5.l0",
+          "say": "Halfway. You're out of the egg case, you've found a crack, and you've seen the night kitchen and the crowd.",
+          "vis": "Tiles 1 to 4 flip face up / A kitchen at night, starting to look crowded",
+          "shots": [
+            {
+              "t": 245.8,
+              "dur": 1.54,
+              "vis": "Tiles 1 to 4 flip face up"
+            },
+            {
+              "t": 247.4,
+              "dur": 1.54,
+              "vis": "Tiles 1 to 4 flip face up"
+            },
+            {
+              "t": 248.9,
+              "dur": 1.54,
+              "vis": "A kitchen at night, starting to look crowded"
+            },
+            {
+              "t": 250.4,
+              "dur": 1.54,
+              "vis": "A kitchen at night, starting to look crowded"
+            }
+          ],
+          "card": "HALFWAY",
+          "_t": 245.8,
+          "_dur": 6.17,
+          "_beats": "R"
+        },
+        {
+          "id": "s5.l1",
+          "say": "Meatball wants to know: which of the first four gets your kitchen? The egg case, the crack, the night kitchen, or the crowd? Drop the number in the comments.",
+          "vis": "Meatball holds up four fingers / Comment pill pops bottom right: 1, 2, 3 OR 4 / The four tiles light up in turn / Meatball points at the comment pill",
+          "shots": [
+            {
+              "t": 252.0,
+              "dur": 1.79,
+              "vis": "Meatball holds up four fingers"
+            },
+            {
+              "t": 253.8,
+              "dur": 1.79,
+              "vis": "Meatball holds up four fingers"
+            },
+            {
+              "t": 255.6,
+              "dur": 1.79,
+              "vis": "Comment pill pops bottom right: 1, 2, 3 OR 4"
+            },
+            {
+              "t": 257.4,
+              "dur": 1.79,
+              "vis": "The four tiles light up in turn"
+            },
+            {
+              "t": 259.1,
+              "dur": 1.79,
+              "vis": "Meatball points at the comment pill"
+            }
+          ],
+          "card": "COMMENT: WHICH ONE GETS YOUR KITCHEN? 1, 2, 3 OR 4",
+          "_t": 252.0,
+          "_dur": 8.95,
+          "_beats": "CM"
+        },
+        {
+          "id": "s5.l2",
+          "say": "Because the next four are the ones that decide what actually happens in a house. Starting with what actually hurts you.",
+          "vis": "Tiles 5 to 8 still face down / Tile 5 flips",
+          "shots": [
+            {
+              "t": 260.9,
+              "dur": 1.62,
+              "vis": "Tiles 5 to 8 still face down"
+            },
+            {
+              "t": 262.6,
+              "dur": 1.62,
+              "vis": "Tiles 5 to 8 still face down"
+            },
+            {
+              "t": 264.2,
+              "dur": 1.62,
+              "vis": "Tile 5 flips"
+            },
+            {
+              "t": 265.8,
+              "dur": 1.62,
+              "vis": "Tile 5 flips"
+            }
+          ],
+          "_t": 260.9,
+          "_dur": 6.48,
+          "_beats": "RP"
+        }
+      ]
+    },
+    {
+      "chapter": "5. What actually hurts you",
+      "chip": "5 OF 8",
+      "_start": 267.7,
+      "lines": [
+        {
+          "id": "s6.l0",
+          "say": "Number five. What actually hurts you.",
+          "vis": "Voiced number card, plain background",
+          "shots": [
+            {
+              "t": 267.7,
+              "dur": 1.85,
+              "vis": "Voiced number card, plain background"
+            }
+          ],
+          "card": "5 OF 8: WHAT ACTUALLY HURTS YOU",
+          "_t": 267.7,
+          "_dur": 1.85,
+          "_beats": ""
+        },
+        {
+          "id": "s6.l1",
+          "say": "Good sanitation and exclusion are important for effective control. Pesticides alone will not solve cockroach problems.",
+          "src": "CR26",
+          "source_tag": "UC IPM",
+          "vis": "Icons: sanitation, sealing cracks / A spray can alone is not enough / Card: PESTICIDES ALONE WILL NOT SOLVE COCKROACH PROBLEMS",
+          "shots": [
+            {
+              "t": 269.6,
+              "dur": 1.65,
+              "vis": "Icons: sanitation, sealing cracks"
+            },
+            {
+              "t": 271.2,
+              "dur": 1.65,
+              "vis": "A spray can alone is not enough"
+            },
+            {
+              "t": 272.9,
+              "dur": 1.65,
+              "vis": "Card: PESTICIDES ALONE WILL NOT SOLVE COCKROACH PROBLEMS"
+            }
+          ],
+          "card": "PESTICIDES ALONE WILL NOT SOLVE COCKROACH PROBLEMS",
+          "_t": 269.6,
+          "_dur": 4.94,
+          "_beats": "P"
+        },
+        {
+          "id": "s6.l2",
+          "say": "When using insecticides, baits provide better control than sprays.",
+          "src": "CR26",
+          "source_tag": "UC IPM",
+          "vis": "A bait station beside a crossed-out spray / Card: BAITS, BETTER CONTROL THAN SPRAYS",
+          "shots": [
+            {
+              "t": 274.5,
+              "dur": 1.39,
+              "vis": "A bait station beside a crossed-out spray"
+            },
+            {
+              "t": 275.9,
+              "dur": 1.39,
+              "vis": "Card: BAITS, BETTER CONTROL THAN SPRAYS"
+            }
+          ],
+          "card": "BAITS PROVIDE BETTER CONTROL THAN SPRAYS",
+          "_t": 274.5,
+          "_dur": 2.78,
+          "_beats": ""
+        },
+        {
+          "id": "s6.l3",
+          "say": "Avoid using foggers, bombs, or aerosol sprays. These products can be hazardous and may repel and disperse cockroaches to other areas without actually killing them.",
+          "src": "CR27",
+          "source_tag": "UC IPM",
+          "vis": "A fogger, a bomb, and an aerosol can, each marked AVOID / They can be hazardous / Roaches scatter to other rooms, still alive / No product is demonstrated",
+          "shots": [
+            {
+              "t": 277.3,
+              "dur": 1.93,
+              "vis": "A fogger, a bomb, and an aerosol can, each marked AVOID"
+            },
+            {
+              "t": 279.2,
+              "dur": 1.93,
+              "vis": "They can be hazardous"
+            },
+            {
+              "t": 281.1,
+              "dur": 1.93,
+              "vis": "Roaches scatter to other rooms, still alive"
+            },
+            {
+              "t": 283.1,
+              "dur": 1.93,
+              "vis": "No product is demonstrated"
+            }
+          ],
+          "card": "AVOID FOGGERS, BOMBS, OR AEROSOL SPRAYS",
+          "_t": 277.3,
+          "_dur": 7.71,
+          "_beats": "P"
+        },
+        {
+          "id": "s6.l4",
+          "say": "Insecticide sprays do not provide long-term control.",
+          "src": "CR27",
+          "source_tag": "UC IPM",
+          "vis": "Card: SPRAYS DO NOT PROVIDE LONG-TERM CONTROL",
+          "shots": [
+            {
+              "t": 285.0,
+              "dur": 1.08,
+              "vis": "Card: SPRAYS DO NOT PROVIDE LONG-TERM CONTROL"
+            },
+            {
+              "t": 286.1,
+              "dur": 1.08,
+              "vis": "Card: SPRAYS DO NOT PROVIDE LONG-TERM CONTROL"
+            }
+          ],
+          "card": "SPRAYS DO NOT PROVIDE LONG-TERM CONTROL",
+          "_t": 285.0,
+          "_dur": 2.16,
+          "_beats": ""
+        },
+        {
+          "id": "s6.l5",
+          "say": "Insecticide gels and bait stations placed near cockroach hiding areas can also be effective if sources of food and water are removed.",
+          "src": "CR28",
+          "source_tag": "UC IPM",
+          "vis": "A bait station near a hiding crack / Food and water sources are removed / Chip: CAN BE EFFECTIVE IF...",
+          "shots": [
+            {
+              "t": 287.1,
+              "dur": 1.7,
+              "vis": "A bait station near a hiding crack"
+            },
+            {
+              "t": 288.8,
+              "dur": 1.7,
+              "vis": "A bait station near a hiding crack"
+            },
+            {
+              "t": 290.5,
+              "dur": 1.7,
+              "vis": "Food and water sources are removed"
+            },
+            {
+              "t": 292.2,
+              "dur": 1.7,
+              "vis": "Chip: CAN BE EFFECTIVE IF..."
+            }
+          ],
+          "card": "BAITS NEAR HIDING AREAS, IF FOOD AND WATER ARE REMOVED",
+          "_t": 287.1,
+          "_dur": 6.79,
+          "_beats": ""
+        },
+        {
+          "id": "s6.l6",
+          "say": "It may take seven days or longer before you see fewer cockroaches.",
+          "src": "CR28",
+          "source_tag": "UC IPM",
+          "vis": "A seven-day-or-longer bar / Card: NOT OVERNIGHT",
+          "shots": [
+            {
+              "t": 293.9,
+              "dur": 1.85,
+              "vis": "A seven-day-or-longer bar"
+            },
+            {
+              "t": 295.8,
+              "dur": 1.85,
+              "vis": "Card: NOT OVERNIGHT"
+            }
+          ],
+          "card": "7 DAYS OR LONGER",
+          "_t": 293.9,
+          "_dur": 3.7,
+          "_beats": ""
+        },
+        {
+          "id": "s6.l7",
+          "say": "Female cockroaches with egg cases do very little feeding, so they are less likely to be immediately affected by a bait.",
+          "src": "CR28",
+          "source_tag": "UC IPM",
+          "vis": "A female still carrying an egg case, not at the bait / Chip: DO VERY LITTLE FEEDING / Card: LESS LIKELY TO BE IMMEDIATELY AFFECTED",
+          "shots": [
+            {
+              "t": 297.6,
+              "dur": 1.62,
+              "vis": "A female still carrying an egg case, not at the bait"
+            },
+            {
+              "t": 299.3,
+              "dur": 1.62,
+              "vis": "A female still carrying an egg case, not at the bait"
+            },
+            {
+              "t": 300.9,
+              "dur": 1.62,
+              "vis": "Chip: DO VERY LITTLE FEEDING"
+            },
+            {
+              "t": 302.5,
+              "dur": 1.62,
+              "vis": "Card: LESS LIKELY TO BE IMMEDIATELY AFFECTED"
+            }
+          ],
+          "card": "EGG-CASE FEMALES: LESS LIKELY TO BE IMMEDIATELY AFFECTED",
+          "_t": 297.6,
+          "_dur": 6.48,
+          "_beats": ""
+        },
+        {
+          "id": "s6.l8",
+          "say": "Although good housekeeping is helpful, insecticides are usually necessary to eliminate infestations, especially of German cockroaches, which are highly prolific.",
+          "src": "CR29",
+          "source_tag": "University of Kentucky",
+          "vis": "Housekeeping icons, then an insecticide-as-directed icon / Chip: USUALLY NECESSARY, ESPECIALLY GERMAN",
+          "shots": [
+            {
+              "t": 304.1,
+              "dur": 1.54,
+              "vis": "Housekeeping icons, then an insecticide-as-directed icon"
+            },
+            {
+              "t": 305.7,
+              "dur": 1.54,
+              "vis": "Housekeeping icons, then an insecticide-as-directed icon"
+            },
+            {
+              "t": 307.2,
+              "dur": 1.54,
+              "vis": "Chip: USUALLY NECESSARY, ESPECIALLY GERMAN"
+            },
+            {
+              "t": 308.7,
+              "dur": 1.54,
+              "vis": "Chip: USUALLY NECESSARY, ESPECIALLY GERMAN"
+            }
+          ],
+          "card": "INSECTICIDES ARE USUALLY NECESSARY, ESPECIALLY FOR GERMAN",
+          "_t": 304.1,
+          "_dur": 6.17,
+          "_beats": ""
+        },
+        {
+          "id": "s6.l9",
+          "say": "Always read and follow label directions for the product you are using.",
+          "src": "CR29",
+          "source_tag": "University of Kentucky",
+          "vis": "A product label, held and read / Card: ALWAYS READ AND FOLLOW LABEL DIRECTIONS",
+          "shots": [
+            {
+              "t": 310.3,
+              "dur": 1.85,
+              "vis": "A product label, held and read"
+            },
+            {
+              "t": 312.1,
+              "dur": 1.85,
+              "vis": "Card: ALWAYS READ AND FOLLOW LABEL DIRECTIONS"
+            }
+          ],
+          "card": "ALWAYS READ AND FOLLOW LABEL DIRECTIONS",
+          "_t": 310.3,
+          "_dur": 3.7,
+          "_beats": ""
+        },
+        {
+          "id": "s6.l10",
+          "say": "Traps, bait stations, and other pesticide products can be used with low risk of exposure as long as they are kept out of reach of children and pets and used according to label directions.",
+          "src": "CR33",
+          "source_tag": "EPA",
+          "vis": "A bait station on a high, out-of-reach spot / Child and pet silhouettes stay away from it / Card: OUT OF REACH OF CHILDREN AND PETS / Card: USED ACCORDING TO LABEL DIRECTIONS / Chip: LOW RISK OF EXPOSURE, WITH THOSE CONDITIONS, not 'safe'",
+          "shots": [
+            {
+              "t": 314.0,
+              "dur": 1.75,
+              "vis": "A bait station on a high, out-of-reach spot"
+            },
+            {
+              "t": 315.7,
+              "dur": 1.75,
+              "vis": "A bait station on a high, out-of-reach spot"
+            },
+            {
+              "t": 317.5,
+              "dur": 1.75,
+              "vis": "Child and pet silhouettes stay away from it"
+            },
+            {
+              "t": 319.2,
+              "dur": 1.75,
+              "vis": "Card: OUT OF REACH OF CHILDREN AND PETS"
+            },
+            {
+              "t": 321.0,
+              "dur": 1.75,
+              "vis": "Card: USED ACCORDING TO LABEL DIRECTIONS"
+            },
+            {
+              "t": 322.7,
+              "dur": 1.75,
+              "vis": "Chip: LOW RISK OF EXPOSURE, WITH THOSE CONDITIONS, not 'safe'"
+            }
+          ],
+          "card": "KEEP BAITS OUT OF REACH OF CHILDREN AND PETS; FOLLOW THE LABEL",
+          "_t": 314.0,
+          "_dur": 10.49,
+          "_beats": "P"
+        },
+        {
+          "id": "s6.l11",
+          "say": "Controlling German cockroaches begins with sanitation. Removal of food, water, and harborage allows for a more successful treatment.",
+          "src": "CR30",
+          "source_tag": "Texas A&M Urban Entomology",
+          "vis": "Food put away, water wiped, hiding gaps sealed / Chip: GERMAN / Card: BEGINS WITH SANITATION",
+          "shots": [
+            {
+              "t": 324.5,
+              "dur": 1.85,
+              "vis": "Food put away, water wiped, hiding gaps sealed"
+            },
+            {
+              "t": 326.3,
+              "dur": 1.85,
+              "vis": "Chip: GERMAN"
+            },
+            {
+              "t": 328.2,
+              "dur": 1.85,
+              "vis": "Card: BEGINS WITH SANITATION"
+            }
+          ],
+          "card": "CONTROL BEGINS WITH SANITATION",
+          "_t": 324.5,
+          "_dur": 5.55,
+          "_beats": ""
+        },
+        {
+          "id": "s6.l12",
+          "say": "Exterior application of pesticides is unneeded, as these are interior-infesting cockroaches.",
+          "src": "CR30",
+          "source_tag": "Texas A&M Urban Entomology",
+          "vis": "An outdoor perimeter spray is crossed out / Chip: GERMAN, INTERIOR-INFESTING",
+          "shots": [
+            {
+              "t": 330.0,
+              "dur": 1.7,
+              "vis": "An outdoor perimeter spray is crossed out"
+            },
+            {
+              "t": 331.7,
+              "dur": 1.7,
+              "vis": "Chip: GERMAN, INTERIOR-INFESTING"
+            }
+          ],
+          "card": "NO EXTERIOR SPRAY NEEDED FOR THIS INDOOR SPECIES",
+          "_t": 330.0,
+          "_dur": 3.39,
+          "_beats": ""
+        },
+        {
+          "id": "s6.l13",
+          "say": "Bait stations should be used in situations where tamper-resistant stations are needed.",
+          "src": "CR30",
+          "source_tag": "Texas A&M Urban Entomology",
+          "vis": "A tamper-resistant bait station / Chip: WHERE TAMPER-RESISTANT STATIONS ARE NEEDED",
+          "shots": [
+            {
+              "t": 333.4,
+              "dur": 1.85,
+              "vis": "A tamper-resistant bait station"
+            },
+            {
+              "t": 335.3,
+              "dur": 1.85,
+              "vis": "Chip: WHERE TAMPER-RESISTANT STATIONS ARE NEEDED"
+            }
+          ],
+          "card": "USE TAMPER-RESISTANT STATIONS WHERE THEY ARE NEEDED",
+          "_t": 333.4,
+          "_dur": 3.7,
+          "_beats": ""
+        },
+        {
+          "id": "s6.l14",
+          "say": "Although roaches can live up to one month without food, without water roaches can die in a week's time. That is a reason to drain dish water, wipe spills, and fix leaks. It is not a way to wipe out an infestation by itself.",
+          "src": "CR31, D6, W5",
+          "source_tag": "EPA",
+          "vis": "Chip: EPA, ON ROACHES, not a German-only figure / Always drain dish water, wipe spills, fix leaks / A 'just starve them / just dry them' idea is crossed out / Card: NOT A WAY TO WIPE OUT AN INFESTATION BY ITSELF",
+          "shots": [
+            {
+              "t": 337.1,
+              "dur": 1.94,
+              "vis": "Chip: EPA, ON ROACHES, not a German-only figure"
+            },
+            {
+              "t": 339.1,
+              "dur": 1.94,
+              "vis": "Chip: EPA, ON ROACHES, not a German-only figure"
+            },
+            {
+              "t": 341.0,
+              "dur": 1.94,
+              "vis": "Always drain dish water, wipe spills, fix leaks"
+            },
+            {
+              "t": 342.9,
+              "dur": 1.94,
+              "vis": "Always drain dish water, wipe spills, fix leaks"
+            },
+            {
+              "t": 344.9,
+              "dur": 1.94,
+              "vis": "A 'just starve them / just dry them' idea is crossed out"
+            },
+            {
+              "t": 346.8,
+              "dur": 1.94,
+              "vis": "A 'just starve them / just dry them' idea is crossed out"
+            },
+            {
+              "t": 348.8,
+              "dur": 1.94,
+              "vis": "Card: NOT A WAY TO WIPE OUT AN INFESTATION BY ITSELF"
+            }
+          ],
+          "card": "EPA, ON ROACHES: UP TO 1 MONTH WITHOUT FOOD; A WEEK WITHOUT WATER. SANITATION, NOT A FOLK KILLER",
+          "_t": 337.1,
+          "_dur": 13.57,
+          "_beats": "P"
+        },
+        {
+          "id": "s6.l15",
+          "say": "Seal up boxes and bags of food. Roaches love cardboard boxes and can climb into them with ease.",
+          "src": "CR32",
+          "source_tag": "EPA",
+          "vis": "Food bags and boxes are sealed / A roach climbs a cardboard box with ease",
+          "shots": [
+            {
+              "t": 350.7,
+              "dur": 1.85,
+              "vis": "Food bags and boxes are sealed"
+            },
+            {
+              "t": 352.5,
+              "dur": 1.85,
+              "vis": "Food bags and boxes are sealed"
+            },
+            {
+              "t": 354.4,
+              "dur": 1.85,
+              "vis": "A roach climbs a cardboard box with ease"
+            }
+          ],
+          "card": "SEAL UP BOXES AND BAGS OF FOOD",
+          "_t": 350.7,
+          "_dur": 5.55,
+          "_beats": ""
+        },
+        {
+          "id": "s6.l16",
+          "say": "Meatball stacked the empty cardboard boxes. Noodle sat on the stack.",
+          "vis": "Meatball stacks empty cardboard boxes / Noodle sits on the stack",
+          "shots": [
+            {
+              "t": 356.2,
+              "dur": 1.7,
+              "vis": "Meatball stacks empty cardboard boxes"
+            },
+            {
+              "t": 357.9,
+              "dur": 1.7,
+              "vis": "Noodle sits on the stack"
+            }
+          ],
+          "_t": 356.2,
+          "_dur": 3.39,
+          "_beats": "CJ"
+        }
+      ]
+    },
+    {
+      "chapter": "6. The force in the crack",
+      "chip": "6 OF 8",
+      "_start": 359.9,
+      "lines": [
+        {
+          "id": "s7.l0",
+          "say": "Number six. The force in the crack.",
+          "vis": "Voiced number card over a German cockroach in a hairline crack, tagged GERMAN",
+          "shots": [
+            {
+              "t": 359.9,
+              "dur": 1.08,
+              "vis": "Voiced number card over a German cockroach in a hairline crack, tagged GERMAN"
+            },
+            {
+              "t": 361.0,
+              "dur": 1.08,
+              "vis": "Voiced number card over a German cockroach in a hairline crack, tagged GERMAN"
+            }
+          ],
+          "card": "6 OF 8: THE FORCE IN THE CRACK",
+          "_t": 359.9,
+          "_dur": 2.16,
+          "_beats": ""
+        },
+        {
+          "id": "s7.l1",
+          "say": "The one-sixteenth-inch hide is German.",
+          "src": "CR10, CR16",
+          "source_tag": "UC IPM",
+          "vis": "You, the German roach, tucked into a 1/16-inch crack, tagged GERMAN",
+          "shots": [
+            {
+              "t": 362.1,
+              "dur": 1.54,
+              "vis": "You, the German roach, tucked into a 1/16-inch crack, tagged GERMAN"
+            }
+          ],
+          "card": "GERMAN: 1/16-IN HIDE",
+          "_t": 362.1,
+          "_dur": 1.54,
+          "_beats": "P"
+        },
+        {
+          "id": "s7.l2",
+          "say": "This next figure belongs to the American cockroach, not the German one.",
+          "src": "CR15, CR16",
+          "source_tag": "UC Berkeley News; UC IPM",
+          "vis": "Card, large: AMERICAN COCKROACH, NOT GERMAN / The German 1/16-inch hide card stays off to the side, dimmed",
+          "shots": [
+            {
+              "t": 363.6,
+              "dur": 1.85,
+              "vis": "Card, large: AMERICAN COCKROACH, NOT GERMAN"
+            },
+            {
+              "t": 365.5,
+              "dur": 1.85,
+              "vis": "The German 1/16-inch hide card stays off to the side, dimmed"
+            }
+          ],
+          "card": "AMERICAN COCKROACH, NOT GERMAN",
+          "_t": 363.6,
+          "_dur": 3.7,
+          "_beats": "P"
+        },
+        {
+          "id": "s7.l3",
+          "say": "In a study of American cockroaches, they withstood forces nearly nine hundred times their body weight without injury.",
+          "src": "CR15",
+          "source_tag": "UC Berkeley News; PNAS 2016",
+          "vis": "Card: AMERICAN COCKROACH STUDY / A 900-times body-weight bar / Chip: WITHOUT INJURY, the study's wording / Chip: NEARLY, A MAXIMUM IN COMPRESSION TESTS / No crush demo, no stepping-on stunt",
+          "shots": [
+            {
+              "t": 367.3,
+              "dur": 1.11,
+              "vis": "Card: AMERICAN COCKROACH STUDY"
+            },
+            {
+              "t": 368.5,
+              "dur": 1.11,
+              "vis": "A 900-times body-weight bar"
+            },
+            {
+              "t": 369.6,
+              "dur": 1.11,
+              "vis": "Chip: WITHOUT INJURY, the study's wording"
+            },
+            {
+              "t": 370.7,
+              "dur": 1.11,
+              "vis": "Chip: NEARLY, A MAXIMUM IN COMPRESSION TESTS"
+            },
+            {
+              "t": 371.8,
+              "dur": 1.11,
+              "vis": "No crush demo, no stepping-on stunt"
+            }
+          ],
+          "card": "AMERICAN STUDY: NEARLY 900 TIMES BODY WEIGHT, WITHOUT INJURY",
+          "_t": 367.3,
+          "_dur": 5.55,
+          "_beats": "P"
+        },
+        {
+          "id": "s7.l4",
+          "say": "That nearly-nine-hundred-times figure is American, and without injury is the study's wording.",
+          "src": "CR15",
+          "source_tag": "UC Berkeley News",
+          "vis": "The 900x bar stays tagged AMERICAN / Chip: THE STUDY'S WORDING",
+          "shots": [
+            {
+              "t": 372.9,
+              "dur": 1.85,
+              "vis": "The 900x bar stays tagged AMERICAN"
+            },
+            {
+              "t": 374.7,
+              "dur": 1.85,
+              "vis": "Chip: THE STUDY'S WORDING"
+            }
+          ],
+          "card": "AMERICAN; WITHOUT INJURY IS THE STUDY'S WORDING",
+          "_t": 372.9,
+          "_dur": 3.7,
+          "_beats": ""
+        },
+        {
+          "id": "s7.l5",
+          "say": "The same American-cockroach study found they can squish themselves into one-tenth-of-an-inch crevices, and once inside they can run at high speed even when flattened in half.",
+          "src": "CR13",
+          "source_tag": "UC Berkeley News",
+          "vis": "Card: AMERICAN COCKROACH STUDY / An American cockroach enters a 1/10-inch crevice / Once inside, it runs while flattened in half / No dime in the frame",
+          "shots": [
+            {
+              "t": 376.6,
+              "dur": 1.6,
+              "vis": "Card: AMERICAN COCKROACH STUDY"
+            },
+            {
+              "t": 378.2,
+              "dur": 1.6,
+              "vis": "Card: AMERICAN COCKROACH STUDY"
+            },
+            {
+              "t": 379.8,
+              "dur": 1.6,
+              "vis": "An American cockroach enters a 1/10-inch crevice"
+            },
+            {
+              "t": 381.4,
+              "dur": 1.6,
+              "vis": "Once inside, it runs while flattened in half"
+            },
+            {
+              "t": 383.0,
+              "dur": 1.6,
+              "vis": "No dime in the frame"
+            }
+          ],
+          "card": "AMERICAN: RUN AT HIGH SPEED EVEN WHEN FLATTENED IN HALF",
+          "_t": 376.6,
+          "_dur": 8.02,
+          "_beats": "P"
+        },
+        {
+          "id": "s7.l6",
+          "say": "They can penetrate the tightest joints and seams in less than a second.",
+          "src": "CR13",
+          "source_tag": "UC Berkeley News",
+          "vis": "An American cockroach slips through a tight joint in less than a second / Chip: AMERICAN; IN LESS THAN A SECOND",
+          "shots": [
+            {
+              "t": 384.6,
+              "dur": 1.34,
+              "vis": "An American cockroach slips through a tight joint in less than a second"
+            },
+            {
+              "t": 386.0,
+              "dur": 1.34,
+              "vis": "An American cockroach slips through a tight joint in less than a second"
+            },
+            {
+              "t": 387.3,
+              "dur": 1.34,
+              "vis": "Chip: AMERICAN; IN LESS THAN A SECOND"
+            }
+          ],
+          "card": "AMERICAN: TIGHTEST JOINTS AND SEAMS IN LESS THAN A SECOND",
+          "_t": 384.6,
+          "_dur": 4.01,
+          "_beats": ""
+        },
+        {
+          "id": "s7.l7",
+          "say": "They're about half an inch tall when they run freely, but they can squish their bodies to one-tenth of an inch, the height of two stacked pennies, if highly motivated.",
+          "src": "CR13, CR14",
+          "source_tag": "UC Berkeley News",
+          "vis": "Free-running height, about half an inch / Compression to one-tenth of an inch beside two stacked pennies / Chip: IF HIGHLY MOTIVATED / The free-running height is not treated as the gap they can fit",
+          "shots": [
+            {
+              "t": 388.6,
+              "dur": 1.85,
+              "vis": "Free-running height, about half an inch"
+            },
+            {
+              "t": 390.5,
+              "dur": 1.85,
+              "vis": "Free-running height, about half an inch"
+            },
+            {
+              "t": 392.3,
+              "dur": 1.85,
+              "vis": "Compression to one-tenth of an inch beside two stacked pennies"
+            },
+            {
+              "t": 394.2,
+              "dur": 1.85,
+              "vis": "Chip: IF HIGHLY MOTIVATED"
+            },
+            {
+              "t": 396.0,
+              "dur": 1.85,
+              "vis": "The free-running height is not treated as the gap they can fit"
+            }
+          ],
+          "card": "AMERICAN: ABOUT 1/2 IN TALL FREELY; 1/10 IN IF HIGHLY MOTIVATED",
+          "_t": 388.6,
+          "_dur": 9.25,
+          "_beats": ""
+        },
+        {
+          "id": "s7.l8",
+          "say": "The height comparison is two stacked pennies, not a dime.",
+          "src": "CR13, CR14",
+          "source_tag": "UC Berkeley News",
+          "vis": "Two stacked pennies stay in frame / A dime is crossed out",
+          "shots": [
+            {
+              "t": 397.9,
+              "dur": 1.54,
+              "vis": "Two stacked pennies stay in frame"
+            },
+            {
+              "t": 399.4,
+              "dur": 1.54,
+              "vis": "A dime is crossed out"
+            }
+          ],
+          "card": "TWO STACKED PENNIES, NOT A DIME",
+          "_t": 397.9,
+          "_dur": 3.08,
+          "_beats": ""
+        },
+        {
+          "id": "s7.l9",
+          "say": "Do not mix them up. The hide is German. The squeeze, the flattened run, and the nine-hundred-times figure are American.",
+          "src": "CR16, CR15, CR13",
+          "source_tag": "UC IPM; UC Berkeley News",
+          "vis": "Two separate cards: GERMAN 1/16-IN HIDE, and AMERICAN SQUEEZE / 900x / A line between them",
+          "shots": [
+            {
+              "t": 401.0,
+              "dur": 1.54,
+              "vis": "Two separate cards: GERMAN 1/16-IN HIDE, and AMERICAN SQUEEZE / 900x"
+            },
+            {
+              "t": 402.5,
+              "dur": 1.54,
+              "vis": "Two separate cards: GERMAN 1/16-IN HIDE, and AMERICAN SQUEEZE / 900x"
+            },
+            {
+              "t": 404.1,
+              "dur": 1.54,
+              "vis": "A line between them"
+            },
+            {
+              "t": 405.6,
+              "dur": 1.54,
+              "vis": "A line between them"
+            }
+          ],
+          "card": "GERMAN HIDE VS AMERICAN SQUEEZE AND 900x",
+          "_t": 401.0,
+          "_dur": 6.17,
+          "_beats": "P"
+        },
+        {
+          "id": "s7.l10",
+          "say": "Meatball set a book on the table. Sauce walked around it.",
+          "vis": "Meatball sets a book on the table / Sauce walks a wide circle around it",
+          "shots": [
+            {
+              "t": 407.1,
+              "dur": 1.7,
+              "vis": "Meatball sets a book on the table"
+            },
+            {
+              "t": 408.8,
+              "dur": 1.7,
+              "vis": "Sauce walks a wide circle around it"
+            }
+          ],
+          "_t": 407.1,
+          "_dur": 3.39,
+          "_beats": "CJ"
+        }
+      ],
+      "_midroll_after": {
+        "type": "primary",
+        "at": 410.7,
+        "note": "Break in the 0.3 s gap after this chapter's last line, before the next voiced chapter line. Never mid-sentence, never on a safety line, never mid-joke."
+      }
+    },
+    {
+      "chapter": "7. The air in your house",
+      "chip": "7 OF 8",
+      "_start": 410.8,
+      "lines": [
+        {
+          "id": "s8.l0",
+          "say": "Number seven. The air in your house.",
+          "vis": "Voiced number card over still indoor air, no scare typography",
+          "shots": [
+            {
+              "t": 410.8,
+              "dur": 1.08,
+              "vis": "Voiced number card over still indoor air, no scare typography"
+            },
+            {
+              "t": 411.9,
+              "dur": 1.08,
+              "vis": "Voiced number card over still indoor air, no scare typography"
+            }
+          ],
+          "card": "7 OF 8: THE AIR IN YOUR HOUSE",
+          "_t": 410.8,
+          "_dur": 2.16,
+          "_beats": ""
+        },
+        {
+          "id": "s8.l1",
+          "say": "Indoor infestations of cockroaches are important sources of allergens and have been identified as risk factors for development of asthma in children, especially in multi-unit housing.",
+          "src": "CR36",
+          "source_tag": "UC IPM",
+          "vis": "An indoor infestation, not a single roach in a clean house / Card: RISK FACTORS, not 'will give a child asthma' / Chip: ESPECIALLY IN MULTI-UNIT HOUSING",
+          "shots": [
+            {
+              "t": 413.0,
+              "dur": 1.6,
+              "vis": "An indoor infestation, not a single roach in a clean house"
+            },
+            {
+              "t": 414.6,
+              "dur": 1.6,
+              "vis": "An indoor infestation, not a single roach in a clean house"
+            },
+            {
+              "t": 416.2,
+              "dur": 1.6,
+              "vis": "Card: RISK FACTORS, not 'will give a child asthma'"
+            },
+            {
+              "t": 417.8,
+              "dur": 1.6,
+              "vis": "Card: RISK FACTORS, not 'will give a child asthma'"
+            },
+            {
+              "t": 419.4,
+              "dur": 1.6,
+              "vis": "Chip: ESPECIALLY IN MULTI-UNIT HOUSING"
+            }
+          ],
+          "card": "RISK FACTORS FOR ASTHMA IN CHILDREN, ESPECIALLY IN MULTI-UNIT HOUSING",
+          "_t": 413.0,
+          "_dur": 8.02,
+          "_beats": "P"
+        },
+        {
+          "id": "s8.l2",
+          "say": "Allergen levels have been correlated with cockroach density and with conditions that contribute to heavy infestations.",
+          "src": "CR36",
+          "source_tag": "UC IPM",
+          "vis": "A density bar beside an allergen bar / Chip: CORRELATED WITH DENSITY AND CONDITIONS",
+          "shots": [
+            {
+              "t": 421.0,
+              "dur": 1.65,
+              "vis": "A density bar beside an allergen bar"
+            },
+            {
+              "t": 422.7,
+              "dur": 1.65,
+              "vis": "A density bar beside an allergen bar"
+            },
+            {
+              "t": 424.3,
+              "dur": 1.65,
+              "vis": "Chip: CORRELATED WITH DENSITY AND CONDITIONS"
+            }
+          ],
+          "card": "ALLERGEN LEVELS TRACK DENSITY AND HEAVY-INFESTATION CONDITIONS",
+          "_t": 421.0,
+          "_dur": 4.94,
+          "_beats": ""
+        },
+        {
+          "id": "s8.l3",
+          "say": "Droppings or body parts of cockroaches and other pests can trigger asthma.",
+          "src": "CR37",
+          "source_tag": "EPA",
+          "vis": "Card: CAN TRIGGER ASTHMA / Chip: DROPPINGS OR BODY PARTS; COCKROACHES AND OTHER PESTS / The word CAN stays large",
+          "shots": [
+            {
+              "t": 425.9,
+              "dur": 1.23,
+              "vis": "Card: CAN TRIGGER ASTHMA"
+            },
+            {
+              "t": 427.2,
+              "dur": 1.23,
+              "vis": "Chip: DROPPINGS OR BODY PARTS; COCKROACHES AND OTHER PESTS"
+            },
+            {
+              "t": 428.4,
+              "dur": 1.23,
+              "vis": "The word CAN stays large"
+            }
+          ],
+          "card": "CAN TRIGGER ASTHMA",
+          "_t": 425.9,
+          "_dur": 3.7,
+          "_beats": "P"
+        },
+        {
+          "id": "s8.l4",
+          "say": "Proteins in cockroach feces and saliva can cause allergic reactions or trigger asthma symptoms in some individuals.",
+          "src": "CR37",
+          "source_tag": "EPA",
+          "vis": "Card: CAN CAUSE ALLERGIC REACTIONS OR TRIGGER ASTHMA SYMPTOMS / Chip: IN SOME INDIVIDUALS / No 'will make you sick'",
+          "shots": [
+            {
+              "t": 429.6,
+              "dur": 1.75,
+              "vis": "Card: CAN CAUSE ALLERGIC REACTIONS OR TRIGGER ASTHMA SYMPTOMS"
+            },
+            {
+              "t": 431.4,
+              "dur": 1.75,
+              "vis": "Chip: IN SOME INDIVIDUALS"
+            },
+            {
+              "t": 433.1,
+              "dur": 1.75,
+              "vis": "No 'will make you sick'"
+            }
+          ],
+          "card": "CAN, IN SOME INDIVIDUALS",
+          "_t": 429.6,
+          "_dur": 5.24,
+          "_beats": "P"
+        },
+        {
+          "id": "s8.l5",
+          "say": "Cockroaches and other pests are often found where food is eaten and crumbs are left behind.",
+          "src": "CR38",
+          "source_tag": "CDC",
+          "vis": "A table with crumbs / Chip: COCKROACHES AND OTHER PESTS",
+          "shots": [
+            {
+              "t": 434.9,
+              "dur": 1.65,
+              "vis": "A table with crumbs"
+            },
+            {
+              "t": 436.5,
+              "dur": 1.65,
+              "vis": "A table with crumbs"
+            },
+            {
+              "t": 438.2,
+              "dur": 1.65,
+              "vis": "Chip: COCKROACHES AND OTHER PESTS"
+            }
+          ],
+          "card": "OFTEN WHERE FOOD IS EATEN AND CRUMBS ARE LEFT BEHIND",
+          "_t": 434.9,
+          "_dur": 4.94,
+          "_beats": ""
+        },
+        {
+          "id": "s8.l6",
+          "say": "To control pests in your home, start with removing water and food, cleaning, and sealing cracks.",
+          "src": "CR38",
+          "source_tag": "CDC",
+          "vis": "Icons: remove water, remove food, clean, seal cracks / Chip: TO CONTROL PESTS IN YOUR HOME",
+          "shots": [
+            {
+              "t": 439.8,
+              "dur": 1.65,
+              "vis": "Icons: remove water, remove food, clean, seal cracks"
+            },
+            {
+              "t": 441.5,
+              "dur": 1.65,
+              "vis": "Icons: remove water, remove food, clean, seal cracks"
+            },
+            {
+              "t": 443.1,
+              "dur": 1.65,
+              "vis": "Chip: TO CONTROL PESTS IN YOUR HOME"
+            }
+          ],
+          "card": "REMOVE WATER AND FOOD, CLEAN, SEAL CRACKS",
+          "_t": 439.8,
+          "_dur": 4.94,
+          "_beats": ""
+        },
+        {
+          "id": "s8.l7",
+          "say": "Insecticides and pesticides can harm people too. Try to use pest management methods that pose less of a risk.",
+          "src": "CR37",
+          "source_tag": "EPA",
+          "vis": "Card: CAN HARM PEOPLE TOO / Lower-risk methods sit in front of a pesticide bottle",
+          "shots": [
+            {
+              "t": 444.8,
+              "dur": 1.95,
+              "vis": "Card: CAN HARM PEOPLE TOO"
+            },
+            {
+              "t": 446.7,
+              "dur": 1.95,
+              "vis": "Card: CAN HARM PEOPLE TOO"
+            },
+            {
+              "t": 448.7,
+              "dur": 1.95,
+              "vis": "Lower-risk methods sit in front of a pesticide bottle"
+            }
+          ],
+          "card": "INSECTICIDES AND PESTICIDES CAN HARM PEOPLE TOO",
+          "_t": 444.8,
+          "_dur": 5.86,
+          "_beats": ""
+        },
+        {
+          "id": "s8.l8",
+          "say": "Avoid using sprays and foggers, as these can cause asthma attacks.",
+          "src": "CR38",
+          "source_tag": "CDC",
+          "vis": "A spray and a fogger, marked AVOID / Card: THESE CAN CAUSE ASTHMA ATTACKS",
+          "shots": [
+            {
+              "t": 450.6,
+              "dur": 1.7,
+              "vis": "A spray and a fogger, marked AVOID"
+            },
+            {
+              "t": 452.3,
+              "dur": 1.7,
+              "vis": "Card: THESE CAN CAUSE ASTHMA ATTACKS"
+            }
+          ],
+          "card": "AVOID SPRAYS AND FOGGERS; THESE CAN CAUSE ASTHMA ATTACKS",
+          "_t": 450.6,
+          "_dur": 3.39,
+          "_beats": "P"
+        },
+        {
+          "id": "s8.l9",
+          "say": "Meatball opened a window. Sauce sat on the sill.",
+          "vis": "Meatball opens a window / Sauce sits on the sill",
+          "shots": [
+            {
+              "t": 454.0,
+              "dur": 1.39,
+              "vis": "Meatball opens a window"
+            },
+            {
+              "t": 455.4,
+              "dur": 1.39,
+              "vis": "Sauce sits on the sill"
+            }
+          ],
+          "_t": 454.0,
+          "_dur": 2.78,
+          "_beats": "CJ"
+        }
+      ]
+    },
+    {
+      "chapter": "8. People",
+      "chip": "8 OF 8",
+      "_start": 457.1,
+      "lines": [
+        {
+          "id": "s9.l0",
+          "say": "Number eight. People.",
+          "vis": "Voiced number card over a kitchen doorway",
+          "shots": [
+            {
+              "t": 457.1,
+              "dur": 0.93,
+              "vis": "Voiced number card over a kitchen doorway"
+            }
+          ],
+          "card": "8 OF 8: PEOPLE",
+          "_t": 457.1,
+          "_dur": 0.93,
+          "_beats": ""
+        },
+        {
+          "id": "s9.l1",
+          "say": "Even clean homes can become infested, and German cockroaches often arrive in grocery bags, cartons, or furniture.",
+          "src": "CR11",
+          "source_tag": "University of Kentucky",
+          "vis": "A clean home / Bags, cartons, and furniture at the door / Callback to the chapter-2 entry line",
+          "shots": [
+            {
+              "t": 458.0,
+              "dur": 1.75,
+              "vis": "A clean home"
+            },
+            {
+              "t": 459.8,
+              "dur": 1.75,
+              "vis": "Bags, cartons, and furniture at the door"
+            },
+            {
+              "t": 461.5,
+              "dur": 1.75,
+              "vis": "Callback to the chapter-2 entry line"
+            }
+          ],
+          "card": "EVEN CLEAN HOMES; OFTEN IN BAGS, CARTONS, OR FURNITURE",
+          "_t": 458.0,
+          "_dur": 5.24,
+          "_beats": "P"
+        },
+        {
+          "id": "s9.l2",
+          "say": "Meatball made a tape line across the kitchen door. Noodle sat on the tape.",
+          "vis": "Meatball tapes a line across the kitchen doorway / Noodle sits on the tape",
+          "shots": [
+            {
+              "t": 463.3,
+              "dur": 1.44,
+              "vis": "Meatball tapes a line across the kitchen doorway"
+            },
+            {
+              "t": 464.7,
+              "dur": 1.44,
+              "vis": "Meatball tapes a line across the kitchen doorway"
+            },
+            {
+              "t": 466.1,
+              "dur": 1.44,
+              "vis": "Noodle sits on the tape"
+            }
+          ],
+          "_t": 463.3,
+          "_dur": 4.32,
+          "_beats": "CJR"
+        }
+      ]
+    },
+    {
+      "chapter": "The verdict",
+      "chip": "",
+      "_start": 467.9,
+      "lines": [
+        {
+          "id": "s10.l0",
+          "say": "Here's the verdict, and it's an opinion.",
+          "vis": "Two columns appear: RAW and SWEET",
+          "shots": [
+            {
+              "t": 467.9,
+              "dur": 1.08,
+              "vis": "Two columns appear: RAW and SWEET"
+            },
+            {
+              "t": 469.0,
+              "dur": 1.08,
+              "vis": "Two columns appear: RAW and SWEET"
+            }
+          ],
+          "_t": 467.9,
+          "_dur": 2.16,
+          "_beats": "R"
+        },
+        {
+          "id": "s10.l1",
+          "say": "Raw, for you the roach: baits, sanitation, and people who follow the label.",
+          "src": "CR26, CR28, CR29",
+          "vis": "RAW column: baits chip / Sanitation chip / Follow-the-label chip",
+          "shots": [
+            {
+              "t": 470.0,
+              "dur": 1.34,
+              "vis": "RAW column: baits chip"
+            },
+            {
+              "t": 471.4,
+              "dur": 1.34,
+              "vis": "Sanitation chip"
+            },
+            {
+              "t": 472.7,
+              "dur": 1.34,
+              "vis": "Follow-the-label chip"
+            }
+          ],
+          "_t": 470.0,
+          "_dur": 4.01,
+          "_beats": ""
+        },
+        {
+          "id": "s10.l2",
+          "say": "Sweet: you can hide in a one-sixteenth-inch crack, and a single female and her offspring can produce over thirty thousand individuals in a year.",
+          "src": "CR10, CR22",
+          "vis": "SWEET column: 1/16-inch hide chip, tagged GERMAN / Over-30,000 chip, tagged A FEMALE AND HER OFFSPRING, IN A YEAR",
+          "shots": [
+            {
+              "t": 474.1,
+              "dur": 1.85,
+              "vis": "SWEET column: 1/16-inch hide chip, tagged GERMAN"
+            },
+            {
+              "t": 475.9,
+              "dur": 1.85,
+              "vis": "SWEET column: 1/16-inch hide chip, tagged GERMAN"
+            },
+            {
+              "t": 477.8,
+              "dur": 1.85,
+              "vis": "Over-30,000 chip, tagged A FEMALE AND HER OFFSPRING, IN A YEAR"
+            },
+            {
+              "t": 479.6,
+              "dur": 1.85,
+              "vis": "Over-30,000 chip, tagged A FEMALE AND HER OFFSPRING, IN A YEAR"
+            }
+          ],
+          "_t": 474.1,
+          "_dur": 7.4,
+          "_beats": ""
+        },
+        {
+          "id": "s10.l3",
+          "say": "Meatball leaned both cards on a mug. Sauce knocked the raw one flat. Damn.",
+          "vis": "Meatball leans the RAW and SWEET cards against a mug / Sauce paws the RAW card flat; SWEET stays up / The SWEET, WITH CONDITIONS tag stays on screen",
+          "shots": [
+            {
+              "t": 481.5,
+              "dur": 1.44,
+              "vis": "Meatball leans the RAW and SWEET cards against a mug"
+            },
+            {
+              "t": 482.9,
+              "dur": 1.44,
+              "vis": "Sauce paws the RAW card flat; SWEET stays up"
+            },
+            {
+              "t": 484.3,
+              "dur": 1.44,
+              "vis": "The SWEET, WITH CONDITIONS tag stays on screen"
+            }
+          ],
+          "card": "OUR VERDICT: SWEET, WITH CONDITIONS",
+          "meter": 75,
+          "_t": 481.5,
+          "_dur": 4.32,
+          "_beats": "CJS"
+        },
+        {
+          "id": "s10.l4",
+          "say": "Now think back to that kitchen. One German female's family can make over 30,000 in a year.",
+          "src": "CR22",
+          "vis": "Callback: the same German cockroach close-up from 0:00 / The 30,000 card returns, with the hedges still on it",
+          "shots": [
+            {
+              "t": 485.8,
+              "dur": 1.75,
+              "vis": "Callback: the same German cockroach close-up from 0:00"
+            },
+            {
+              "t": 487.5,
+              "dur": 1.75,
+              "vis": "Callback: the same German cockroach close-up from 0:00"
+            },
+            {
+              "t": 489.3,
+              "dur": 1.75,
+              "vis": "The 30,000 card returns, with the hedges still on it"
+            }
+          ],
+          "_t": 485.8,
+          "_dur": 5.24,
+          "_beats": "R"
+        },
+        {
+          "id": "s10.l5",
+          "say": "Meatball's final stamp: sweet, with conditions. Sauce's stamp: she used it as a stepping stool.",
+          "vis": "Meatball stamps SWEET, then adds a small WITH CONDITIONS / Sauce steps on the pad to get to the couch",
+          "shots": [
+            {
+              "t": 491.0,
+              "dur": 1.54,
+              "vis": "Meatball stamps SWEET, then adds a small WITH CONDITIONS"
+            },
+            {
+              "t": 492.6,
+              "dur": 1.54,
+              "vis": "Meatball stamps SWEET, then adds a small WITH CONDITIONS"
+            },
+            {
+              "t": 494.1,
+              "dur": 1.54,
+              "vis": "Sauce steps on the pad to get to the couch"
+            }
+          ],
+          "_t": 491.0,
+          "_dur": 4.63,
+          "_beats": "CJ"
+        },
+        {
+          "id": "s10.l6",
+          "say": "3 Bugs You Should Never Kill is right here.",
+          "vis": "Meatball points at the camera / End screen: 3 Bugs in Your House You Should Never Kill video tile; Meatball points at it",
+          "shots": [
+            {
+              "t": 495.6,
+              "dur": 1.39,
+              "vis": "Meatball points at the camera"
+            },
+            {
+              "t": 497.0,
+              "dur": 1.39,
+              "vis": "End screen: 3 Bugs in Your House You Should Never Kill video tile; Meatball points at it"
+            }
+          ],
+          "_t": 495.6,
+          "_dur": 2.78,
+          "_beats": "CR"
+        }
+      ]
+    }
+  ],
+  "pinned_comment": "Which of the first four gets your kitchen? The egg case (1), the crack (2), the night kitchen (3), or the crowd (4)? Drop the number. Meatball's stamp: sweet, with conditions.",
+  "mid_video_comment_prompt": {
+    "id": "s5.l1",
+    "t": 252.0,
+    "say": "Meatball wants to know: which of the first four gets your kitchen? The egg case, the crack, the night kitchen, or the crowd? Drop the number in the comments.",
+    "on_screen": "COMMENT: WHICH ONE GETS YOUR KITCHEN? 1, 2, 3 OR 4"
+  },
+  "end_screen_video": "3 Bugs in Your House You Should Never Kill (posted). Spoken end line uses the short name '3 Bugs You Should Never Kill.' Tile should carry the posted title. Target date for this cockroach episode is Wed 12/9.",
+  "sources_file": "/workspace/drafts/facts/cockroach-bornas.md",
+  "description": "In your kitchen, a German female and her offspring can make over 30,000 cockroaches in a year. This is a born-as guide to the German cockroach (Blattella germanica) in a house: the egg case, the crack, the night kitchen, how fast a kitchen gets crowded, what actually works against them, the force in a crack, the air in your house, and what people are told to do. Meatball lives all eight from the couch, with his dog, Noodle, as the stand-in and his cat, Sauce, as everybody else.\n\nChecked facts in this video:\n- Lead species is the German cockroach. German numbers stay on German. American cockroach (Periplaneta americana) numbers stay on American, and are tagged American in speech, on a card, or both. A line that says 'roaches' uses a species-general source and keeps that hedge.\n- The German cockroach is the most common indoor species in California (and perhaps worldwide), especially in multi-unit housing (UC IPM). Keep 'perhaps.' It prefers kitchens and bathrooms, favoring warm (70° to 75°F), humid areas close to food, water, and dark areas for harborage. Severe infestations may spread to other parts of buildings. Of the cockroach species in California, it is the most persistent and troublesome, and may pose health concerns from food contamination and indoor allergens (UC IPM). They are commonly found in homes, apartments, condominiums, and commercial food establishments (Texas A&M).\n- German and brownbanded cockroaches live and breed entirely indoors. American, Oriental, and Turkestan cockroaches live outdoors and can temporarily invade indoor spaces (UC IPM). This pest thrives in the presence of humans but does not occur outdoors (University of Kentucky). Adults are fully winged but rarely fly (Texas A&M). This video does not say they cannot fly.\n- The female carries a light beige egg case, about 1/4 inch long, until 1 to 2 days before it hatches, when she drops it. Sometimes the egg case hatches while it is still being carried by the female. Each egg case contains about 30 young, and a female may produce a new egg case every few weeks (UC IPM). This is the spoken egg-case count. A different official page (UF/IFAS) describes the case as a tiny, brown, purse-shaped capsule, and gives a typical count of 30 to 40 eggs and a length of about 8 mm (~1/3 in). Those figures are not blended with UC IPM's 'about 30' and 'about 1/4 inch' in speech. University of Kentucky's 'up to 40' is also kept here, not spoken as one official number.\n- Adults are light brown and about 1/2 inch long, with two dark stripes on the shield behind the head (University of Kentucky). A different official page puts adult bodies at 1/2 to 5/8 inches (Texas A&M). The two sizes are not averaged.\n- Adult German cockroaches can hide in a crack 1/16 inch wide. Immature cockroaches tend to stay in even smaller cracks (UC IPM). That is a hide, not a body squeeze, and it is German-only.\n- American cockroaches can squish their bodies to one-tenth of an inch, the height of two stacked pennies, and could slip through slits of one-tenth of an inch if highly motivated. They are about half an inch tall when they run freely. Not only can they squish themselves into one-tenth-of-an-inch crevices, but once inside they can run at high speed even when flattened in half. They can penetrate the tightest joints and seams in less than a second. In the study, American cockroaches withstood forces nearly 900 times their body weight without injury (Jayaram and Full, PNAS 2016, Periplaneta americana; also UC Berkeley News, 8 February 2016). Nearly 900 times is a maximum from compression tests, not the force of squeezing through a crevice. 'Without injury' is the study's wording, not a stunt. No dime comparison. The 1/16-inch German hide and the American squeeze, flattened run, and 900-times figure are not mixed.\n- Even clean homes can become infested. The German cockroach is often introduced in infested grocery bags, beverage cartons, or furniture (University of Kentucky). They can gain entry by concealing themselves in groceries or luggage. Prevention is possible by inspecting boxes and bags as they are brought into a structure (Texas A&M). That is not a guarantee.\n- During the day, roaches hide in warm, dark, moist areas. They come out at night to feed (UC IPM, species-general). Almost all cockroaches are nocturnal and tend to scatter when disturbed (UC IPM). Keep 'almost all.' At night they leave hiding places and search for food (University of Kentucky). Cockroaches will eat all human foods, plus many other items such as soap, toothpaste, glue, hair, excrement, and decaying organic matter (University of Kentucky). The German cockroach is omnivorous, eating table scraps, pet food, and even book bindings (UF/IFAS).\n- The German cockroach has the fastest reproductive cycle of the common pest cockroaches: a single female and her offspring can produce over 30,000 individuals in a year (UC IPM). Keep German; female and her offspring; over 30,000; in a year. A different official page says a single mated female can produce thousands of new cockroaches in less than a year, and that German cockroaches are capable of producing several thousand offspring in less than a year (University of Kentucky). That is not the same claim, and it is not upgraded to 30,000.\n- American cockroaches prefer warm and humid environments, usually with temperatures above 82°F. Each egg case contains about 12 young; a female and her offspring can produce over 800 cockroaches in one year (UC IPM). Those figures stay on American.\n- The entire German life cycle is completed in about 100 days, but temperature, nutrition, and strain can change that. They breed continuously with overlapping generations. Under ideal conditions, population growth has been shown to be exponential. Actively growing field populations are about 80% nymphs and 20% adults (UF/IFAS).\n- Good sanitation and exclusion are important; pesticides alone will not solve cockroach problems. When using insecticides, baits provide better control than sprays (UC IPM). Avoid foggers, bombs, or aerosol sprays: they can be hazardous and may repel and disperse cockroaches without actually killing them. Insecticide sprays do not provide long-term control (UC IPM). CDC also says to avoid sprays and foggers, as these can cause asthma attacks.\n- Insecticide gels and bait stations placed near hiding areas can be effective if sources of food and water are removed. It may take 7 days or longer before you see fewer cockroaches. Female cockroaches with egg cases do very little feeding, so they are less likely to be immediately affected by a bait (UC IPM). Although good housekeeping is helpful, insecticides are usually necessary to eliminate infestations, especially of German cockroaches (University of Kentucky). Always read and follow label directions.\n- Traps, bait stations, and other pesticide products can be used with low risk of exposure as long as they are kept out of reach of children and pets and used according to label directions (EPA). This video does not call baits safe. Controlling German cockroaches begins with sanitation. Exterior application of pesticides is unneeded for this indoor species. Bait stations should be used when tamper-resistant stations are needed (Texas A&M).\n- EPA, on roaches, not as a German-only figure: although roaches can live up to one month without food, without water roaches can die in a week's time. That is a reason to drain dish water, wipe spills, and fix leaks. It is not a way to wipe out an infestation by itself. Seal up boxes and bags of food; roaches love cardboard boxes and can climb into them with ease (EPA).\n\n- Indoor infestations of cockroaches are important sources of allergens and have been identified as risk factors for development of asthma in children, especially in multi-unit housing. Allergen levels have been correlated with cockroach density and with conditions that contribute to heavy infestations (UC IPM). Droppings or body parts of cockroaches and other pests can trigger asthma. Proteins in cockroach feces and saliva can cause allergic reactions or trigger asthma symptoms in some individuals (EPA). Keep 'can,' 'other pests,' and 'in some individuals.' Insecticides and pesticides can harm people too; try methods that pose less of a risk (EPA).\n- Cockroaches and other pests are often found where food is eaten and crumbs are left behind. To control pests in your home, start with removing water and food, cleaning, and sealing cracks. Avoid using sprays and foggers, as these can cause asthma attacks (CDC).\n- Not spoken in this video, kept here with their hedges: in extremely heavy infestations, German cockroaches have been reported to bite humans and feed on food residues on the faces of sleeping humans (UF/IFAS; not a casual hook). German cockroaches are believed to be capable of transmitting numerous disease-causing organisms such as Staphylococcus, Streptococcus, hepatitis virus, and coliform bacteria, and have been implicated in the spread of typhoid and dysentery (UC IPM). Keep 'believed to be capable' and 'implicated.'\n\nGeneral information, not a treatment plan for a specific house or a medical diagnosis. Follow the label. Keep products out of reach of children and pets. If asthma or an allergic reaction is a concern, follow official public-health guidance and your clinician.\n\nSources:\n- UC IPM Pest Notes: Cockroaches, UC ANR Publication 7467: https://ipm.ucanr.edu/home-and-landscape/cockroaches/\n- University of Kentucky ENTFACT-614, Cockroach Elimination in Homes & Apartments, revised 3/26: https://entomology.mgcafe.uky.edu/ef614\n- Texas A&M Urban Entomology, German Cockroach: https://urbanentomology.tamu.edu/cockroaches/german-cockroach/\n- UF/IFAS EENY-002 / IN128, German Cockroach, revised December 2024: https://ask.ifas.ufl.edu/publication/IN128/pdf\n- UC Berkeley News, Robert Sanders, 8 February 2016, \"Cockroach inspires robot that squeezes through cracks\": https://news.berkeley.edu/2016/02/08/cockroach-inspires-robot-that-squeezes-through-cracks/\n- EPA, Asthma Triggers: Gain Control: https://www.epa.gov/asthma/asthma-triggers-gain-control ; Do you really need to use a pesticide?: https://www.epa.gov/safepestcontrol/do-you-really-need-use-pesticide ; Smart Pest Control to Protect Your Health: https://www.epa.gov/pesticides/smart-pest-control-protect-your-health\n- CDC, Help Your Patients Gain Control Over Asthma: https://www.cdc.gov/asthma/control/index.html\n\n#germancockroach #cockroach #kitchenbugs #meatballmyths",
+  "art_needed": [
+    "Frame 0: German cockroach in close-up on a kitchen counter, face-on; narration on it at 0.0 s. Callback at the verdict with the same close-up and the 30,000 hedge card (s0.l0, s10.l5).",
+    "Eight numbered tiles; Meatball on the couch with cardboard antennae and a RAW / SWEET stamp; his dog, Noodle; his cat, Sauce.",
+    "Multi-unit kitchen and bathroom, 70 to 75°F; German entirely indoors vs American / Oriental / Turkestan tagged as outdoor invaders (s0.*).",
+    "Light beige German egg case, about 1/4 inch, carried, then dropped 1 to 2 days before hatching; sometimes hatching on the female; about 30 young; a separate UF purse-shaped card, not merged with the 1/4-inch card; two dark stripes; 1/2 in vs 1/2 to 5/8 in bars kept side by side (s1.*).",
+    "Adult German hiding in a 1/16-inch crack (hide, not squish). Separate American-only squeeze to 1/10 inch beside two stacked pennies, if highly motivated; no dime anywhere. Two cards stay separate. Grocery bags, cartons, furniture, luggage (s2.*).",
+    "Night kitchen: hide by day, come out at night to feed, scatter when disturbed, full diet list not trimmed to a joke menu (s3.*).",
+    "Crowd: over-30,000 bar tagged German, a female and her offspring, in a year; separate American over-800 and about-12 cards; UKY thousands card not merged; about-100-days bar with temperature / nutrition / strain; under-ideal-conditions exponential curve; 80/20 field-population bar, not labelled 'your kitchen' (s4.*).",
+    "Sanitation and exclusion; baits better than sprays; foggers, bombs, and aerosols marked AVOID, no product demo; 7-days-or-longer bar; egg-case female not at the bait; label held and read; bait station out of reach of children and pets; outdoor perimeter spray crossed out; tamper-resistant station; EPA roaches month/week card marked not a folk killer; sealed food boxes (s6.*).",
+    "American force-in-the-crack chapter: 900-times body-weight bar tagged AMERICAN STUDY / WITHOUT INJURY; flattened-in-half run inside a 1/10-inch crevice; tight joints in less than a second; two stacked pennies, a dime crossed out; German hide card kept separate. No crush demo, no stepping-on stunt (s7.*).",
+    "Asthma and allergens: risk-factors card, especially multi-unit housing; CAN TRIGGER ASTHMA; IN SOME INDIVIDUALS; avoid sprays and foggers, these can cause asthma attacks (s8.*).",
+    "End screen: 3 Bugs in Your House You Should Never Kill video tile; Meatball points; tile pulses (animated, not a still)."
+  ],
+  "_changelog": [
+    "Revision pass of the cockroach born-as long-form for Wed 12/9: chapter 6 is now the unused American 900-times force figure (CR15), not the cut chapter; the People and verdict safety recaps are trimmed so each required condition is said once, in full, in chapter 5 or 7; the borrowed crocodile verdict sting is replaced with a fresh Meatball joke. Direction still stands: lead German, 30,000 hook with hedges, American facts tagged, no foggers, baits away from kids and pets, asthma stays 'can'.",
+    "Runtime 8:30.4 at 194.5 wpm, 1606 words. Two primary mid-rolls, after the night-kitchen chapter at 3:13.9 and after the force-in-the-crack chapter at 6:50.7, 3:36.8 apart. Alternates after the egg-case chapter, the crack chapter, and the crowd chapter. No mid-roll after What actually hurts you, The air in your house, or People, because those are the safety and instruction clusters.",
+    "Description-only this pass: CR39 (extremely heavy infestations, reported bites / faces of sleeping humans); CR40 ('believed to be capable' / 'implicated' disease wording); UF 30 to 40 and about 8 mm (~1/3 in); UKY 'up to 40.' CR15 is now spoken in chapter 6, tagged American.",
+    "Revision pass, 2026-11-15 evening ET, Social Studio. Cut chapter 6 entirely from speech, cards, description, and teasers. Replaced it with a non-safety chapter on the unused American 900-times force figure (CR15) plus unused same-study lines (CR13). Trimmed repeated safety recaps in People and the verdict; each required condition still appears once, in full, in chapter 5 or 7. Replaced the borrowed crocodile verdict sting with a fresh Meatball joke.",
+    "Facts: /workspace/drafts/facts/cockroach-bornas.md (CR1–CR42). Lead species: German cockroach (Blattella germanica).",
+    "Mid-rolls: two primaries, after 3. The kitchen at night at 3:13.9 and after 6. The force in the crack at 6:50.7. Those two are 3:36.8 apart. Alternates after 1. The egg case, 2. The crack, and 4. The crowd.",
+    "Target: Wed 12/9. Nothing posted, scheduled, or pushed. Teasers in /workspace/drafts/cockroach-teasers.md, slots TBD, long-form promise flagged until 12/9."
+  ],
+  "_resolved": [
+    "Lead species is the German cockroach. Hook is Social Studio's 30,000 crowding line, with the pack's hedges kept: German, a female and her offspring, can, over 30,000, in a year, plus 'your kitchen.' Frame 0 is a German cockroach in close-up on a kitchen counter.",
+    "Every American-only fact is tagged American in speech, on a card, or both: outdoor invasion (CR3); 1/10-inch squeeze, two stacked pennies, if highly motivated, about half an inch tall when running freely (CR13–CR14); about 12 young and over 800 in a year, and usually above 82°F (CR25); and the 900-times body-weight figure, the flattened run, and the tightest-joints line from the same American study (CR13–CR15).",
+    "The 1/16-inch figure is a German adult hide, not a squeeze. The 1/10-inch figure is an American body squeeze. They are never mixed. No dime comparison.",
+    "The 900-times body-weight figure is spoken only as an American-cockroach study result, with 'without injury' kept as the study's wording. It is not used as a stunt, and it is not hung on German cockroaches.",
+    "No foggers, bombs, or aerosol sprays as advice. The script tells viewers to avoid them, and keeps the hazardous / scatter and asthma-attack conditions.",
+    "Every bait line keeps 'out of reach of children and pets' and the label. Baits are not called safe. 'Low risk of exposure' keeps its conditions.",
+    "Asthma wording stays 'can,' plus 'in some individuals,' 'risk factors,' and 'especially in multi-unit housing.' No 'will make you sick.'",
+    "EPA's month-without-food / week-without-water line is spoken as EPA 'roaches,' as sanitation, not as a German-only figure and not as a way to wipe out an infestation by itself.",
+    "Egg-case spoken count is UC IPM 'about 30.' UKY 'thousands' is flagged as a different claim from over 30,000.",
+    "Safety lines keep their conditions. Jokes come after, never inside them. No mid-roll on a safety line or mid-joke. Primary mid-rolls sit after the night-kitchen joke and after the force-in-the-crack joke.",
+    "Exactly one comment trigger, phrased as a debate prompt: 'which of the first four gets your kitchen? The egg case, the crack, the night kitchen, or the crowd? Drop the number in the comments.'",
+    "Citations are in on-screen tags and the description, never spoken, except hedges that have to name a page ('a different official page,' 'in a study of American cockroaches').",
+    "No rules intro, no silent countdowns, voiced chapter cards only. A new picture every 1–2 s; no speech shot over 2.0 s. The 12 s end screen is the only longer hold.",
+    "Target date is Wed 12/9, as assigned. Nothing is posted, scheduled, or pushed from this pass. Teaser slots are TBD. The teaser promise 'Full cockroach video linked.' is flagged until 12/9."
+  ],
+  "_open_questions": [
+    {
+      "line": "s0.l0 / s10.l4 (CR22)",
+      "question": "Hook is 'Your kitchen: one German female's family can make over 30,000 yearly.' (11 words, under Moondog88's under-12 rule). Social Studio 11/16 asked for '...can make over 30,000 a year', which counts 12 words, so 'a year' became 'yearly' to stay under 12. It keeps can, over, and the one-year window. 'Family' carries 'and her offspring' (pack CR22 bars 'one female' alone). The card chip A FEMALE AND HER OFFSPRING; IN A YEAR stays on screen, and the description keeps UC IPM's full sentence. The verdict callback matches.",
+      "fallback": "If 'yearly' reads stiff, use 'Your kitchen: one German female's family makes over 30,000 a year' (11), but that drops 'can'."
+    },
+    {
+      "line": "s7.* (CR15, CR13, CR14, CR16)",
+      "question": "Chapter 6 is now the unused American-study force figure: American cockroaches withstood forces nearly 900 times their body weight without injury (CR15, PNAS wording; not tied to crevice traversal, per fact-check 11/16), plus unused lines from the same study (run at high speed even when flattened in half; tightest joints and seams in less than a second). Every line is tagged American. 'Without injury' stays the study's wording, and there is no crush or step-on demo.",
+      "fallback": "Shorten the chapter to the 900-times line only, or swap in another unused pack row."
+    },
+    {
+      "line": "s0.l0 vs s4.l2 (CR22)",
+      "question": "The hook uses Social Studio's 'can make over 30,000.' Chapter 4 restates the official UC IPM sentence: 'can produce over thirty thousand individuals in a year.'",
+      "fallback": "Use 'produce' and 'individuals' in the hook as well, or keep this split."
+    },
+    {
+      "line": "s1.l3 / s1.l4 / s1.l7 (D1, D2, D5)",
+      "question": "Egg-case count, egg-case length, and adult body length each have a disagreement. Speech prefers UC IPM 'about 30' and 'about 1/4 inch,' and UKY 'about half an inch,' then flags UF's purse-shaped description and Texas A&M's 1/2 to 5/8 inch as different official pages. UF's 30 to 40 and about 8 mm (~1/3 in), and UKY's 'up to 40,' stay in the description.",
+      "fallback": "Speak the UF or UKY range as well, clearly as a disagreement, and trim a non-safety line."
+    },
+    {
+      "line": "s4.l5 (CR23, D3)",
+      "question": "UKY's 'thousands' / 'several thousand' / 'in less than a year' is spoken as a different claim, not blended with UC IPM's over 30,000.",
+      "fallback": "Move the UKY wording to the description only."
+    },
+    {
+      "line": "description-only (CR39, CR40)",
+      "question": "To avoid a casual face-bite hook and a disease-list scare, these stay in the description with their hedges: UF's 'in extremely heavy infestations have been reported to bite… faces of sleeping humans' (CR39); and UC IPM's 'believed to be capable' / 'implicated' disease wording (CR40).",
+      "fallback": "Put any of those into speech with every hedge, and trim a non-safety line."
+    },
+    {
+      "line": "end screen",
+      "question": "Watch-next points to 3 Bugs in Your House You Should Never Kill, as this brief required. The spoken line uses the short name '3 Bugs You Should Never Kill.' The tile should carry the posted title.",
+      "fallback": "If packaging wants the full posted title spoken, swap the line to '3 Bugs in Your House You Should Never Kill is right here.'"
+    },
+    {
+      "line": "titles",
+      "question": "The working title is the locked born-as format, 'Your Life as a Cockroach: 8 Things You Have to Get Through.' Packaging also has Title A (American 1/10-inch squeeze) and Title B (about 30 in the egg case). If Title A is used, the title or a subtitle must say American.",
+      "fallback": "Packaging picks A, B, or the locked format. Do not put the 1/10-inch squeeze on a title that reads as German or as 'a cockroach.'"
+    }
+  ],
+  "_for_claude": [
+    "TTS pronunciation check before render: '30,000' in the hook and callback should be read 'thirty thousand'; 'seventy to seventy-five degree Fahrenheit'; 'one-sixteenth,' 'one-tenth'; 'harborage'; 'excrement'; 'condominiums'; 'Periplaneta americana' and 'Blattella germanica' are card-only, not spoken. Add tts respellings in the build JSON if the Andrew voice misreads them; captions keep 'say'. No TTS or shot-set handoff until Social Studio forwards Jarvis's new production spec.",
+    "Shot rhythm: new 11/15 rule, a new picture every 1–2 s, no shot over 2.0 s except the 12 s end screen. The 0.3 s chapter gap is a cut, not a hold added to the last shot. Short voiced chapter cards may run under 1 s.",
+    "Source tags: 'source_tag' is a small lower-third on the line's first shot (about 2 s), never spoken. Lines with two sources show both. Any American-only card should read AMERICAN or AMERICAN COCKROACH ONLY in plain type.",
+    "Second-model check of the jokes and safety lines, as for every long-form. Research & Fact-check built the pack; they should also check this draft's American tags, the hook 'make' vs 'produce' split, the American 900-times line (CR15) and its species tag, and the description-only moves (CR39, CR40, UF 30–40 / 1/3 in, UKY up to 40).",
+    "Builder and shot set: German cockroach close-up on a kitchen counter for frame 0 and the callback; light beige egg case; 1/16-inch German hide vs American 1/10-inch squeeze with two stacked pennies and no dime; grocery bags; night kitchen; 30,000 and 800 bars kept separate; bait stations out of reach of children and pets; no fogger demo; American 900-times bar and flattened-in-half run, no crush or step-on demo; Meatball, Noodle, Sauce. Jarvis owns production and animation; no shot-set handoff until the new spec is forwarded."
+  ],
+  "_masterorders_check": [
+    "Title: working title is the locked born-as format: 'Your Life as a Cockroach: 8 Things You Have to Get Through.' Packaging may retitle it. If Title A is used, it must say American. No banned words. Series tag last if added.",
+    "Date: assigned target Wed 12/9. Nothing is booked, posted, or scheduled from this pass. Teaser slots stay TBD. The teaser Related link is flagged until 12/9.",
+    "Spoken sourcing: citations in on-screen tags and the description only. 'A different official page' and 'in a study of American cockroaches' are hedges, not spoken academic credits.",
+    "Shot rhythm: 1–2 s rule replaces the old 2–4 s test. Longest speech hold is under 2.0 s. Voiced chapter cards may run under 1 s. The 12 s end screen is the only longer hold.",
+    "Hook and promise: hook 11 words, ends 3.39 s; this hook is also the spoken promise. The eight-things line ends 8.33 s.",
+    "No joke, intro or comment ask before 0:25: first joke 0:49.7, comment prompt 4:12.0.",
+    "No spoken countdowns; every chapter card is a voiced 'Number X' line, except the cold open, halfway, and verdict; chapter gaps are 0.3 s.",
+    "Pinned comment matches the debate prompt.",
+    "Banned words: no TRUE, FALSE, Myth, Believe, Cartoons, Lied, or 'Did you know' as claims.",
+    "Length: 8:30.4 at 194.5 wpm, inside the 8:30–9:15 aim, above 8:00; about 9:10.3 at ~180 wpm."
+  ],
+  "_notes": [
+    "Noodle lines (4): s0.l8, s2.l9, s6.l16, s9.l2. Planted at s0.l8 as 'his dog, Noodle.' He pushes a card under the fridge, sits on a box stack, and sits on a tape line. He is never told to catch or kill a cockroach, and he is never placed next to a bait.",
+    "Sauce lines (7): s0.l8, s1.l9, s3.l7, s7.l10, s8.l9, s10.l3, s10.l5. Planted at s0.l8 as 'his cat, Sauce.' She knocks a spoon under the couch, walks off with a toothpaste cap, walks around a book, sits on a windowsill, walks behind the verdict cards, and uses the stamp pad as a stepping stool.",
+    "No joke on or right after: the fogger / bomb / aerosol lines (s6.l3, s6.l4, s8.l8); the label line (s6.l9); the children-and-pets bait line (s6.l10); the EPA month/week sanitation line (s6.l14); the asthma and allergen lines (s8.l1–s8.l4, s8.l7–s8.l8). Jokes in those chapters come only after the last safety line.",
+    "Jokes never add a number, danger, feeling, motive, or instruction. No dime joke. No crush or step-on stunt in a joke. No '30,000 in your sink tonight.' No fogger or bait how-to in a joke. No advice to handle a cockroach.",
+    "Unused or description-only rows are listed in the changelog and open questions."
+  ],
+  "_factcheck": "Not yet checked by a second model. Every fact line carries its CR ID in 'src'. Research & Fact-check built the pack on 2026-11-15.",
+  "builder": "Jarvis production / animation (no TTS or shot-set handoff until Social Studio forwards the new spec)",
+  "pause_lines": [
+    "s6.l3",
+    "s6.l9",
+    "s6.l10",
+    "s6.l14",
+    "s8.l3",
+    "s8.l4",
+    "s8.l8"
+  ],
+  "end_hold": 12.0,
+  "end_label": "3 Bugs in Your House You Should Never Kill",
+  "end_label_short": "3 BUGS YOU SHOULD NEVER KILL",
+  "_timing": {
+    "wpm": 194.5,
+    "words": 1606,
+    "chapter_gap_s": 0.3,
+    "speech_s": 498.4,
+    "runtime_s": 510.4,
+    "runtime": "8:30.4",
+    "hook": "Your kitchen: one German female's family can make over 30,000 yearly.",
+    "hook_words": 11,
+    "promise": "Your kitchen: one German female's family can make over 30,000 yearly.",
+    "promise_spoken_by_s": 3.39,
+    "eight_things_line": "You were just born a German cockroach. Here are eight things you have to get through.",
+    "eight_things_ends_s": 8.33,
+    "first_joke_s": 49.7,
+    "comment_prompt_s": 252.0,
+    "speech_midpoint_s": 249.2,
+    "mild_words": 3,
+    "mild_word_lines": [
+      {
+        "id": "s0.l9",
+        "say": "Meatball put on cardboard antennae. They kept sliding down. Hell."
+      },
+      {
+        "id": "s4.l9",
+        "say": "Meatball started drawing tick marks. He flipped the paper over. Damn."
+      },
+      {
+        "id": "s10.l3",
+        "say": "Meatball leaned both cards on a mug. Sauce knocked the raw one flat. Damn."
+      }
+    ],
+    "longest_shot_hold_s": 1.95,
+    "longest_shot_hold_at": "s8.l7 shot 2",
+    "shots": 309,
+    "shots_under_2s": 309,
+    "shots_over_2s": 0,
+    "max_gap_s": {
+      "peak": 41.3,
+      "character": 104.3,
+      "retention": 202.3
+    }
+  }
+}
