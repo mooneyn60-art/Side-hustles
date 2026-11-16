@@ -327,6 +327,10 @@ The other new scripts in the file are fitted to 16-18 s for the test; slot them 
 
 2026-11-15 — Social Studio. channels/research/growth-plan-longform-shorts-1115.md. Main points: 4,000 hours before Feb 1 isn't reachable, so the first target is the 3,000-hour fan-funding tier, then the 8,000-hour bar. Born-as becomes the main long-form format. The Shorts ceiling comes from the first-second swipe and near-zero engagement, not from retention or posting time. Open decisions for Moondog88 (not approved yet): a midweek bug/spider born-as from 12/2, the pets-vs-bugs Shorts focus after the 11/18 read, and an optional test with subscriber notifications off on 2 long-forms. Data gap: Metricool's TikTok is fureverfaces, not @meatballmyths, so the TikTok CSV request still stands.
 
+### Shorts data from Trends
+
+2026-11-15 — Social Studio. channels/research/2026-11-16-shorts-*. Baseline median 1,018.5 views (n=76), which replaces 1,007. 15–20 s Shorts beat 30 s+ (1,159 vs 397). The 11/11 five-a-day dump cut house/spider engagement to 0.19–0.39, so no more than 3 a day, at least 3 h apart. Claude, please: (a) list the real YouTube Short schedule for 11/16–11/29 (Metricool shows 0 scheduled), and (b) re-render any queued Short the Shorts Editor marks for a trim to 18 s or less (list coming Mon 11/16). Leave empty test days empty; non-test slots may take pets/WMS per MASTER_ORDERS.
+
 ## Production log
 
 When Claude's usage runs out, Etsy Studio does the production work (listing copy, design files, product prep) and logs each item here: date, what was done, file paths, and what Claude should pick up next.
