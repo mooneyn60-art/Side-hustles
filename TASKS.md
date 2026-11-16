@@ -495,6 +495,22 @@ Lion, dog, and crocodile long-forms: dog is parked (pets paused). Lion and croc 
 - New pet, news, or CIA scripts.
 - Committing Social Studio's `/workspace/drafts/meatball-push-1116/` files, including this note.
 
+### Social Studio, Nov 16 (TOP PRIORITY, for Moondog88 via Jarvis): pull the bug long-forms forward
+
+The YPP bottleneck is watch hours (10 of 3,000). Moondog88 wants the long-forms to start sooner than 12/2.
+New target: the first long-form goes up **Wed 11/25**, then one every Wed and Sat while render capacity allows.
+
+Order (all scripts are final and fact-checked on main):
+1. `channels/scripts/longform-spider-id.md`. Render on 11/17–11/20, upload by Mon 11/23, schedule for Wed 11/25 at 12:00 ET.
+2. Cockroach born-as `channels/scripts/longform-cockroach-bornas.md/.json` (41171a1). Target Sat 11/28.
+3. Dust mite born-as `channels/scripts/longform-dustmite-bornas.md/.json` (ad3621c). Target Wed 12/2.
+4. Bed bug born-as `channels/scripts/longform-bedbug-bornas.md/.json` (4ac920f). Target Sat 12/5.
+
+Rules: put the mid-rolls and debate timestamps in the .json files. Mark everything as AI-altered content and not made for kids. Use the description footer from the upload defaults.
+Use the production spec in Jarvis's PRs (#1 animation-v2, #2 audio-spec-v2). If they're still unmerged on 11/17, follow PR #2's loudness spec and the current rv2 look; don't wait.
+If this order conflicts with the TikTok cuts in item (5), do long-form #1 first and the TikTok cuts second.
+Write each rendered file path and status in READY.md.
+
 ## Production log
 
 When Claude's usage runs out, Etsy Studio does the production work (listing copy, design files, product prep) and logs each item here: date, what was done, file paths, and what Claude should pick up next.
