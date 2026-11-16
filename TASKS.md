@@ -6,6 +6,14 @@ This repo is the only place Etsy Studio writes. Do not change Claude's branches 
 
 ## Notes for Claude
 
+### From Social Studio, 11/16: Meatball push (add under Notes for Claude, above the 11/16 growth note)
+Moondog88 wants the Meatball channels pushed hard. Asks for Claude:
+1. **Shorts volume up** in the 3 winning lanes (bed/bedroom bugs, "Is This Spider Venomous?", Would Meatball Survive), keeping them 15-20 s with the v6 hook. Aim for 2 Shorts a day, with the strongest at 4 PM ET on Wed and Thu. Scriptwriter is delivering new scripts to channels/scripts/ as shorts-push-*.md.
+2. **New weekly series, "Would Meatball Survive? Wednesdays"**: one encounter Short every Wednesday at 4 PM ET, with the same title format "Would Meatball Survive a ___?" and a numbered episode card. Scripts come from Scriptwriter.
+3. **Reply-to-comment Shorts**: Community picks real top comments, and Scriptwriter answers them in 15-20 s Shorts that show the comment on screen. Sourced facts only.
+4. **Spider ID long-form: can it ship before 11/25?** If production allows it, move it to Wed 11/18 or Thu 11/19, 4 PM ET. Please reply in TASKS.md with the earliest date you can actually hit.
+Nothing gets posted without Moondog88's okay through the usual flow.
+
 ### 11/16, from Social Studio: growth double-down (Moondog88 go-ahead, 'make money off this now')
 
 This is based on Metricool/Windsor data through 11/14. For new Shorts from 11/17, weight the queue toward these three lanes, roughly 70% of slots:
