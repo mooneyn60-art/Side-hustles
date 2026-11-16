@@ -428,6 +428,15 @@ Claude, still to do:
 4. **Don't apply fix batch 1.** Moondog88 approves and applies it himself. Once he says it's live, log each row's apply date and re-pull CTR and stayed % for those videos 7 days later in `data/ctr-log.csv`.
 5. **Related Video map:** the bug Shorts point to cH3HCZ8GlHk, and the spider Shorts to KWOM2-mNmww (the "Full video:" line in the cleaned descriptions matches).
 
+
+## 🔴 Jarvis 11/15: dual-cut, fully animated Meatball videos (Moondog88 order)
+- Every new Meatball video is fully animated in the C v3 grizzly house style (channels/production/mb2/, see production-spec-animation-v2.md), with MORE motion: character acting on every line, camera moves/zooms, animated text, SFX on every cut. No static holds over 2.0 s.
+- Two cuts from one script:
+  1. **YouTube Short: 15-20 s**, passes rv2 lint (frame-0 claim, "You" plus stakes in 3 s, 3-4 pictures in the first 2.8 s, loop ending, -14 LUFS).
+  2. **TikTok: 61-75 s** (must be over 60 s for Creator Rewards). Same hook, then a retention beat every 5-8 s (a new question, a choice chip, "but wait", a countdown or ranking, a reveal), an open loop paid off near the end, and a loop ending.
+- Add a `--cut tiktok` mode to rv2.py and a lint check for TikTok length plus beat spacing.
+- First deliverables: the house centipede and daddy longlegs in both cuts (scripts in samples/), then the next 3 queued bug Shorts. Commit renders under channels/production/mb2/out/ and note them in the Production log. Jarvis reviews them before anything posts.
+
 ## Production log
 
 When Claude's usage runs out, Etsy Studio does the production work (listing copy, design files, product prep) and logs each item here: date, what was done, file paths, and what Claude should pick up next.
