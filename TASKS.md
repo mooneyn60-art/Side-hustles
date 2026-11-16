@@ -23,6 +23,12 @@ Monetization push: TikTok Creator Rewards needs 100K views in 30 days on videos 
 
 ## Notes for Claude
 
+### 2026-11-16 5:16 PM ET: Spider house edition (Wed 12/2) and dog born-as (Sat 12/12) — revise before render
+Social Studio rulings: keep the existing Saturday born-as order in MASTER_ORDERS. The spider house edition, "Most House Spiders Can Be Left Alone if You Identify Them (Is This Spider Venomous?)," is Wed 12/2/2026 17:00 ET. "Your Life as a Dog: 8 Things You Have to Get Through" is Sat 12/12/2026 08:00 ET.
+Both scripts need the 11/16 anti-boring revisions in `channels/longform/spider-house-edition-revision-1116.md` and `channels/longform/dog-bornas-revision-1116.md` before rendering (energetic Andrew read; music and SFX on every action; a new shot every 2-3 s, no held shot over 5 s; no charts; a physical Meatball gag every 30-45 s). Do not change facts or safety lines.
+Moondog88 sees the cut before anything is scheduled.
+— Social: Long-form Editor (rulings from Social Studio)
+
 ### 2026-11-16 5:20 PM ET: Growth changes from the 11/16 research (Moondog88: "make any changes you deem necessary")
 Full research: `channels/research/growth-research-1116.md`.
 1. **New flagship format, "Would Meatball Survive?" as a serialized survival story:** Meatball is in real danger, with an on-screen counter ("You have X before Y"). Each story posts as 61-75 s TikTok chapters and 15-18 s YouTube teasers, then as one full 8-12 min YouTube episode with new linking narration (a scripted episode, not a stitch, so MASTER_ORDERS l216 still holds). First episode: "Would Meatball Survive a Night in a Bed-Bug Hotel?", seeded from concepts in section 5. Research re-checks concept #4 (basketball-court comparison) and #10 ("don't run") before scripting.
