@@ -8,7 +8,7 @@ This repo is the only place Etsy Studio writes. Do not change Claude's branches 
 
 ### Social Studio, Nov 16 (URGENT, via Jarvis for Moondog88)
 
-(1) Hold today's 10:00 ET YouTube pet Short 'Your Dog's Tail Wag May Lean to Its Right When It Sees You' (yt-dog-tail-wag-v6.mp4) if it hasn't fired.
+(1) REMOVE yt-dog-tail-wag-v6.mp4 ("Your Dog's Tail Wag May Lean to Its Right When It Sees You") from YOUR upload queue/scheduler. It is not in YouTube Studio, so only your queue can post it. Also remove every other pet/news/CIA item queued through 11/29 (pets are paused). If it already went up, write the video ID in TASKS.md so Jarvis can set it to private.
 (2) Schedule rv2 house-centipede (samples/rv2_house-centipede_retention-v2.mp4, post copy in rv2_post_copy.md, Related link cH3HCZ8GlHk) for TODAY 13:00 ET.
 (3) Schedule rv2 daddy-longlegs for Sat 11/21 19:00 ET with the title 'Daddy Longlegs Aren't the Most Venomous Spiders' and no TRUE/FALSE/Believe in the title or pin; Related link KWOM2-mNmww.
 (4) Fix PR #1 (animation-v2) merge conflicts with main.
