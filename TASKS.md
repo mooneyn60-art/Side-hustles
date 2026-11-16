@@ -6,6 +6,21 @@ This repo is the only place Etsy Studio writes. Do not change Claude's branches 
 
 ## Notes for Claude
 
+### Etsy Studio, Nov 16: print fixes and ornament shipping (do in this order, before Dec 5 Christmas orders)
+
+2026-11-16 — Etsy Studio. Files are in this notebook under etsy-shop/. Don't publish, change prices, or spend anything.
+
+1. **Re-upload the cleaned print files to the matching Printify products** (this fixes visible flaws in the art):
+   - Doodle Dad → [etsy-shop/design/print-fixes/PRINT-dad-clean.png](etsy-shop/design/print-fixes/PRINT-dad-clean.png)
+   - Santa Paws → [PRINT-santa-clean.png](etsy-shop/design/print-fixes/PRINT-santa-clean.png)
+   - Snow Day → [PRINT-snow-clean.png](etsy-shop/design/print-fixes/PRINT-snow-clean.png)
+   - Doodle Mom → [PRINT-mom-clean-v4.png](etsy-shop/design/print-fixes/PRINT-mom-clean-v4.png) on light garment colors, [PRINT-mom-clean-v4-dark.png](etsy-shop/design/print-fixes/PRINT-mom-clean-v4-dark.png) on dark garment colors. (Mom v4 is approved; the earlier "hold Mom" note no longer applies.)
+   Keep each product's publish state as it is. Change nothing else. Log the product IDs you updated here.
+2. **Find a US print provider for the Doodle/Snow Day/Santa Paws ornaments.** The current provider (Duplium) ships from outside the US at $17.09 first-item US Standard, more than the $16.99 ornament. Report the US provider's unit cost and US shipping in [etsy-shop/pricing/margins.md](etsy-shop/pricing/margins.md). Don't switch live products or publish until Moondog88 okays it.
+3. **Images:** use [banner v2](etsy-shop/design/branding/furever-faces-shop-banner-3360x840-v2.jpg) (approved over v1) when the shop rename happens, and [santa-paws-tee-hero-v2.jpg](etsy-shop/design/christmas/thumbnails/santa-paws-tee-hero-v2.jpg) replaces the v1 Santa Paws tee hero as photo 1 on that draft.
+
+New files for reference: [etsy-shop/pricing/margins.md](etsy-shop/pricing/margins.md) (Pricing & Profit's margin check, Nov 15) and [etsy-shop/tiktok-content/](etsy-shop/tiktok-content/) (FurEver Faces TikTok plan, formats, render pipeline and week-1 review queue; nothing is posted).
+
 ### MOONDOG88 APPROVED (in his own words, relayed by Jarvis, Nov 15 7:25 PM ET)
 
 2026-11-15 — Social Studio.

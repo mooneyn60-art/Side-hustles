@@ -1,0 +1,107 @@
+{
+  "id": "2026-11-18-doodle-mom-tee",
+  "post_date": "2026-11-18",
+  "post_time_et": "18:00",
+  "format": "F2 Gift-for-the-doodle-mom POV",
+  "product": "Doodle Mom tee",
+  "hook": "POV: she says she doesn't need anything for Christmas.",
+  "caption": "She doesn't need anything. She has a doodle. She needs this. The Doodle Mom tee: curls, cuddles & chaos, on a unisex cotton tee, S to 2XL.\n\nArt made with AI tools. Printed to order. Link in bio for our shop and Etsy.",
+  "hashtags": [
+    "#doodlemom",
+    "#goldendoodle",
+    "#dogmomgift",
+    "#giftsforher",
+    "#fureverfaces"
+  ],
+  "slides": [
+    {
+      "image": "@design/christmas/social/doodle-mom-tee-tiktok-1080x1920.jpg",
+      "fit": "cover",
+      "duration": 3.2,
+      "motion": "zoom_in",
+      "texts": [
+        {
+          "text": "POV: she says she doesn't need anything for Christmas.",
+          "style": "hook"
+        }
+      ]
+    },
+    {
+      "image": "@design/christmas/thumbnails/doodle-mom-tee-hero.jpg",
+      "duration": 2.8,
+      "motion": "zoom_out",
+      "box": [
+        60,
+        210,
+        1020,
+        1170
+      ],
+      "texts": [
+        {
+          "text": "She has a doodle. She needs this.",
+          "style": "body",
+          "position": "bottom"
+        }
+      ]
+    },
+    {
+      "image": "@assets/shopify/doodle-mom-t-shirt-2.jpg",
+      "duration": 2.8,
+      "motion": "zoom_in",
+      "box": [
+        60,
+        360,
+        1020,
+        1240
+      ],
+      "texts": [
+        {
+          "text": "Doodle Mom",
+          "style": "hook"
+        },
+        {
+          "text": "Curls, cuddles & chaos.",
+          "style": "body",
+          "position": "bottom"
+        }
+      ]
+    },
+    {
+      "image": "@assets/shopify/doodle-mom-t-shirt-3.jpg",
+      "duration": 3.0,
+      "motion": "zoom_in",
+      "box": [
+        60,
+        210,
+        1020,
+        1110
+      ],
+      "texts": [
+        {
+          "text": "For people owned by a doodle.",
+          "style": "body",
+          "position": "bottom"
+        },
+        {
+          "text": "Link in bio: our shop + Etsy",
+          "style": "cta",
+          "position": "bottom"
+        }
+      ]
+    }
+  ],
+  "footer": "FurEver Faces · art made with AI tools",
+  "fps": 30,
+  "transition": {
+    "type": "crossfade",
+    "duration": 0.4
+  },
+  "motion_scale": 1.08,
+  "output": "../../renders/2026-11-18-doodle-mom-tee.mp4",
+  "tiktok": {
+    "commercialContentOwnBrand": true,
+    "isAigc": true,
+    "privacyOption": "PUBLIC_TO_EVERYONE"
+  },
+  "caption_full": "She doesn't need anything. She has a doodle. She needs this. The Doodle Mom tee: curls, cuddles & chaos, on a unisex cotton tee, S to 2XL.\n\nArt made with AI tools. Printed to order. Link in bio for our shop and Etsy.\n\n#doodlemom #goldendoodle #dogmomgift #giftsforher #fureverfaces"
+}

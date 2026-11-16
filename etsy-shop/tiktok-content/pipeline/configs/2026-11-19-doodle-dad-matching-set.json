@@ -1,0 +1,115 @@
+{
+  "id": "2026-11-19-doodle-dad-matching-set",
+  "post_date": "2026-11-19",
+  "post_time_et": "10:00",
+  "format": "F3 Matching set reveal",
+  "product": "Doodle Dad tee + Dad's Best Friend bandana",
+  "hook": "Matching with the dog. On purpose.",
+  "caption": "His: Doodle Dad, chief treat officer. The dog's: Dad's Best Friend. Sold separately, worn together, judged by the neighbors.\n\nArt made with AI tools. Printed to order. Link in bio for our shop and Etsy.",
+  "hashtags": [
+    "#doodledad",
+    "#goldendoodle",
+    "#matchingwithmydog",
+    "#dogdadgift",
+    "#fureverfaces"
+  ],
+  "slides": [
+    {
+      "image": "@design/christmas/thumbnails/doodle-dad-tee-hero.jpg",
+      "duration": 3.0,
+      "motion": "zoom_in",
+      "box": [
+        60,
+        470,
+        1020,
+        1350
+      ],
+      "texts": [
+        {
+          "text": "Matching with the dog. On purpose.",
+          "style": "hook"
+        }
+      ]
+    },
+    {
+      "image": "@assets/shopify/doodle-dad-t-shirt-1.jpg",
+      "duration": 2.8,
+      "motion": "zoom_out",
+      "box": [
+        60,
+        360,
+        1020,
+        1240
+      ],
+      "texts": [
+        {
+          "text": "His: Doodle Dad",
+          "style": "hook"
+        },
+        {
+          "text": "Chief treat officer.",
+          "style": "body",
+          "position": "bottom"
+        }
+      ]
+    },
+    {
+      "image": "@assets/shopify/dads-best-friend-dog-bandana-1.jpg",
+      "duration": 2.8,
+      "motion": "zoom_in",
+      "box": [
+        60,
+        360,
+        1020,
+        1240
+      ],
+      "texts": [
+        {
+          "text": "The dog's: Dad's Best Friend",
+          "style": "hook"
+        },
+        {
+          "text": "Pet bandana",
+          "style": "body",
+          "position": "bottom"
+        }
+      ]
+    },
+    {
+      "images": [
+        "@assets/shopify/doodle-dad-t-shirt-1.jpg",
+        "@assets/shopify/dads-best-friend-dog-bandana-1.jpg"
+      ],
+      "layout": "col",
+      "duration": 3.0,
+      "motion": "zoom_in",
+      "box": [
+        190,
+        210,
+        870,
+        1150
+      ],
+      "texts": [
+        {
+          "text": "Sold separately. Link in bio.",
+          "style": "cta",
+          "position": "bottom"
+        }
+      ]
+    }
+  ],
+  "footer": "FurEver Faces · art made with AI tools",
+  "fps": 30,
+  "transition": {
+    "type": "crossfade",
+    "duration": 0.4
+  },
+  "motion_scale": 1.08,
+  "output": "../../renders/2026-11-19-doodle-dad-matching-set.mp4",
+  "tiktok": {
+    "commercialContentOwnBrand": true,
+    "isAigc": true,
+    "privacyOption": "PUBLIC_TO_EVERYONE"
+  },
+  "caption_full": "His: Doodle Dad, chief treat officer. The dog's: Dad's Best Friend. Sold separately, worn together, judged by the neighbors.\n\nArt made with AI tools. Printed to order. Link in bio for our shop and Etsy.\n\n#doodledad #goldendoodle #matchingwithmydog #dogdadgift #fureverfaces"
+}

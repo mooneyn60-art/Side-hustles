@@ -1,0 +1,107 @@
+{
+  "id": "2026-11-23-order-by-dec-5-snow-day",
+  "post_date": "2026-11-23",
+  "post_time_et": "18:00",
+  "format": "F4 Christmas order-by reminder",
+  "product": "Snow Day ornament, tee and mug",
+  "hook": "Christmas order-by date: Dec 5.",
+  "caption": "Plain facts: everything is printed to order, so order by Dec 5 for Christmas delivery. After that we still make and ship it, it just may arrive after the 25th. Snow Day: zoomies incoming.\n\nArt made with AI tools. Printed to order. Link in bio for our shop and Etsy.",
+  "hashtags": [
+    "#goldendoodle",
+    "#christmasshopping",
+    "#doodlesoftiktok",
+    "#giftsfordoglovers",
+    "#fureverfaces"
+  ],
+  "slides": [
+    {
+      "image": "@design/christmas/social/snow-day-ornament-tiktok-1080x1920.jpg",
+      "fit": "cover",
+      "duration": 3.0,
+      "motion": "zoom_in",
+      "texts": [
+        {
+          "text": "Christmas order-by date: Dec 5.",
+          "style": "hook"
+        }
+      ]
+    },
+    {
+      "image": "@assets/shopify/snow-day-goldendoodle-winter-t-shirt-1.jpg",
+      "duration": 2.8,
+      "motion": "zoom_out",
+      "box": [
+        60,
+        360,
+        1020,
+        1240
+      ],
+      "texts": [
+        {
+          "text": "Everything is printed to order.",
+          "style": "hook"
+        },
+        {
+          "text": "Snow Day: zoomies incoming.",
+          "style": "body",
+          "position": "bottom"
+        }
+      ]
+    },
+    {
+      "image": "@assets/shopify/snow-day-goldendoodle-coffee-mug-4.jpg",
+      "duration": 2.8,
+      "motion": "zoom_in",
+      "box": [
+        60,
+        300,
+        1020,
+        1200
+      ],
+      "texts": [
+        {
+          "text": "After Dec 5 we still make and ship it. It may just land after the 25th.",
+          "style": "body",
+          "position": "bottom"
+        }
+      ]
+    },
+    {
+      "image": "@assets/shopify/snow-day-goldendoodle-christmas-ornament-4.jpg",
+      "duration": 3.0,
+      "motion": "zoom_in",
+      "box": [
+        60,
+        210,
+        1020,
+        1060
+      ],
+      "texts": [
+        {
+          "text": "Order by Dec 5 for Christmas delivery",
+          "style": "fact",
+          "position": "bottom"
+        },
+        {
+          "text": "Link in bio: our shop + Etsy",
+          "style": "cta",
+          "position": "bottom"
+        }
+      ]
+    }
+  ],
+  "footer": "FurEver Faces · art made with AI tools",
+  "fps": 30,
+  "transition": {
+    "type": "crossfade",
+    "duration": 0.4
+  },
+  "motion_scale": 1.08,
+  "output": "../../renders/2026-11-23-order-by-dec-5-snow-day.mp4",
+  "tiktok": {
+    "commercialContentOwnBrand": true,
+    "isAigc": true,
+    "privacyOption": "PUBLIC_TO_EVERYONE"
+  },
+  "caption_full": "Plain facts: everything is printed to order, so order by Dec 5 for Christmas delivery. After that we still make and ship it, it just may arrive after the 25th. Snow Day: zoomies incoming.\n\nArt made with AI tools. Printed to order. Link in bio for our shop and Etsy.\n\n#goldendoodle #christmasshopping #doodlesoftiktok #giftsfordoglovers #fureverfaces"
+}

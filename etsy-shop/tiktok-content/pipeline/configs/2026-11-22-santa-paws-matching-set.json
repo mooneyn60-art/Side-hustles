@@ -1,0 +1,133 @@
+{
+  "id": "2026-11-22-santa-paws-matching-set",
+  "post_date": "2026-11-22",
+  "post_time_et": "10:00",
+  "format": "F3 Matching set reveal",
+  "product": "Santa Paws tee + Santa's Favorite bandana + Santa Paws ornament",
+  "hook": "The whole family made the list this year.",
+  "caption": "Yours: the Santa Paws tee. Theirs: the Santa's Favorite bandana. One for the tree: the Santa Paws ornament. Each sold separately. Order by Dec 5 for Christmas delivery.\n\nArt made with AI tools. Printed to order. Link in bio for our shop and Etsy.",
+  "hashtags": [
+    "#goldendoodle",
+    "#matchingwithmydog",
+    "#dogchristmas",
+    "#christmasgiftideas",
+    "#fureverfaces"
+  ],
+  "slides": [
+    {
+      "image": "@design/christmas/lifestyle/L-bundle-flatlay.jpg",
+      "duration": 3.0,
+      "motion": "zoom_in",
+      "box": [
+        40,
+        470,
+        1040,
+        1380
+      ],
+      "texts": [
+        {
+          "text": "The whole family made the list this year.",
+          "style": "hook"
+        }
+      ]
+    },
+    {
+      "image": "@design/christmas/thumbnails/santa-paws-tee-hero.jpg",
+      "duration": 2.6,
+      "motion": "zoom_out",
+      "box": [
+        60,
+        360,
+        1020,
+        1240
+      ],
+      "texts": [
+        {
+          "text": "Yours: Santa Paws tee",
+          "style": "hook"
+        },
+        {
+          "text": "Nice list (pending).",
+          "style": "body",
+          "position": "bottom"
+        }
+      ]
+    },
+    {
+      "image": "@assets/shopify/santas-favorite-dog-bandana-1.jpg",
+      "duration": 2.6,
+      "motion": "zoom_in",
+      "box": [
+        60,
+        360,
+        1020,
+        1240
+      ],
+      "texts": [
+        {
+          "text": "Theirs: Santa's Favorite bandana",
+          "style": "hook"
+        }
+      ]
+    },
+    {
+      "image": "@assets/shopify/santa-paws-goldendoodle-christmas-ornament-4.jpg",
+      "duration": 2.6,
+      "motion": "zoom_in",
+      "box": [
+        60,
+        360,
+        1020,
+        1240
+      ],
+      "texts": [
+        {
+          "text": "One for the tree",
+          "style": "hook"
+        },
+        {
+          "text": "Santa Paws ornament",
+          "style": "body",
+          "position": "bottom"
+        }
+      ]
+    },
+    {
+      "image": "@design/christmas/lifestyle/L-bundle-unboxing.jpg",
+      "duration": 2.6,
+      "motion": "zoom_in",
+      "box": [
+        60,
+        210,
+        1020,
+        1060
+      ],
+      "texts": [
+        {
+          "text": "Each sold separately",
+          "style": "fact",
+          "position": "bottom"
+        },
+        {
+          "text": "Link in bio: our shop + Etsy",
+          "style": "cta",
+          "position": "bottom"
+        }
+      ]
+    }
+  ],
+  "footer": "FurEver Faces · art made with AI tools",
+  "fps": 30,
+  "transition": {
+    "type": "crossfade",
+    "duration": 0.4
+  },
+  "motion_scale": 1.08,
+  "output": "../../renders/2026-11-22-santa-paws-matching-set.mp4",
+  "tiktok": {
+    "commercialContentOwnBrand": true,
+    "isAigc": true,
+    "privacyOption": "PUBLIC_TO_EVERYONE"
+  },
+  "caption_full": "Yours: the Santa Paws tee. Theirs: the Santa's Favorite bandana. One for the tree: the Santa Paws ornament. Each sold separately. Order by Dec 5 for Christmas delivery.\n\nArt made with AI tools. Printed to order. Link in bio for our shop and Etsy.\n\n#goldendoodle #matchingwithmydog #dogchristmas #christmasgiftideas #fureverfaces"
+}
