@@ -4,6 +4,19 @@ Shared notebook for Moondog88's side hustles. Claude runs operations. Etsy Studi
 
 This repo is the only place Etsy Studio writes. Do not change Claude's branches or any other repository from here.
 
+## TOP PRIORITY (2026-11-16 6:43 PM ET): Plan switch — Meatball pet-POV story long-forms (Moondog88 approved)
+Moondog88 approved the plan in `channels/research/deep-growth-research-1116.md` and adding 5 new roles. This is the new top order. It replaces the 11/15 plan (WMS plus bugs/spiders only, pets paused). Full standing rules are in the PLAN SWITCH note under Notes for Claude.
+- **Main product:** Meatball pet-POV story long-forms, 3 a week, 8-10 min, cartoon Meatball style, each a different scenario. Each episode is a full scripted episode, never Shorts stitched together (MASTER_ORDERS long-form rule still holds).
+- **Openings:** every video opens with "you" plus a clock.
+- **Shorts and TikToks** (TikTok 61-75 s) become chapters of that week's episode and point to it. 3 Shorts a day stays. Post 2-3 TikToks a day, spread out, never in batches.
+- **Titles:** one title pattern, no series tags.
+- **Originality:** no repetitive animal-in-peril scenarios. Originality QA checks every video before it goes to Moondog88.
+- **Deadline:** the real YPP deadline is 1/31/2027 (not end of this month).
+- **Amazon is dropped.** Do not add Amazon affiliate spots.
+- **Renders:** finish the 2 already-queued samples (croc, bedbug) for Moondog88. Do not render the other 10 until the Showrunner's first episode slate lands. The 12/2 and 12/12 long-forms are on hold pending that slate.
+- **New team** (report to Social Studio; write in the notebook): Showrunner `channels/showrunner/`, Retention Analyst `channels/retention/`, Search Strategist `channels/search/`, Originality QA `channels/qa/`, Animator `channels/animation/`. Roster: `channels/team/roster.md`.
+- Nothing gets scheduled or posted without Moondog88's approval.
+
 ## TOP PRIORITY (2026-11-16 5:10 PM ET): Render the 12 Meatball Shorts, 2 samples first
 Monetization push: TikTok Creator Rewards needs 100K views in 30 days on videos over 1 min, and YouTube needs watch hours. Nothing is rendered yet, which blocks both.
 - Scripts: `channels/shorts-push-1116/` (bed-bugs.md, spider-venomous.md, wms.md, wms-wednesdays-ep1-4.md, reply-to-comment.md; index.md lists all 12; rulings-1116.md and factcheck-shorts-push-1116.md are binding). Do not change any facts or verdict lines.
@@ -22,6 +35,20 @@ Monetization push: TikTok Creator Rewards needs 100K views in 30 days on videos 
 - **Render 2 samples first** (suggested: `wmsw-ep1-saltwater-crocodile` and `bedbug-lights`, both cuts), commit them, and stop. Moondog88 keeps or tosses them before you render the other 10. Do not schedule anything until he okays them.
 
 ## Notes for Claude
+
+### PLAN SWITCH 11/16 (approved by Moondog88)
+Moondog88 approved switching Meatball Myths to the plan in `channels/research/deep-growth-research-1116.md` and adding 5 new roles. This note is first under Notes for Claude and overrides older Social Studio notes where they conflict, including the 11/15 order (WMS plus bugs/spiders only, pets paused), the 11/16 "pets are paused" / WMS-core direction, and the 5:20 PM growth note that made "Would Meatball Survive?" the flagship serialized survival story.
+1. **Main product:** Meatball pet-POV story long-forms, 3 a week, 8-10 min, cartoon Meatball style, each a different scenario. This replaces the 11/15 order. Each episode is a full scripted episode, never Shorts stitched together, so MASTER_ORDERS' long-form rule still holds.
+2. **Openings:** every video opens with "you" plus a clock.
+3. **Shorts and TikToks:** they become chapters of that week's episode and point to it. TikTok cuts stay 61-75 s. Post 2-3 TikToks a day, spread out, never in batches. 3 Shorts a day stays.
+4. **Titles:** one title pattern, no series tags. Patterns in the research: "Meatball's [Organ] When He [everyday thing]" and "What Happens If You [do X] to a [house bug]?". Series tags like "(Things Living In Your House #51)" go in the description or playlist, not the title.
+5. **Originality guardrails:** no repetitive animal-in-peril scenarios. Meatball doesn't always "nearly die"; no more than 1 in 3 episodes uses peril; most outcomes are comedic or curious. Retire the fixed WMS template as a daily series (occasional special only). Every scene has movement; no still-image slideshows.
+6. **YPP deadline:** the real deadline is 1/31/2027. From Feb 1, new applicants need 8,000 watch hours instead of 4,000. End-of-month monetization is not the target.
+7. **Amazon is dropped.** Do not add Amazon Associates spots or wait on an Amazon sign-in.
+8. **Renders and holds:** the 2 sample renders already queued (croc, bedbug) still get finished as samples for Moondog88. Do not render the other 10 until the Showrunner's first episode slate lands. The 12/2 spider house edition and 12/12 dog born-as long-forms are on hold pending that slate.
+9. **New team members** report to Social Studio and write in the notebook: Showrunner `channels/showrunner/`, Retention Analyst `channels/retention/`, Search Strategist `channels/search/`, Originality QA `channels/qa/` (checks every video before it goes to Moondog88), Animator `channels/animation/`. Roster: `channels/team/roster.md`.
+10. Nothing gets scheduled or posted without Moondog88's approval.
+— Social Studio
 
 ### 2026-11-16 5:16 PM ET: Spider house edition (Wed 12/2) and dog born-as (Sat 12/12) — revise before render
 Social Studio rulings: keep the existing Saturday born-as order in MASTER_ORDERS. The spider house edition, "Most House Spiders Can Be Left Alone if You Identify Them (Is This Spider Venomous?)," is Wed 12/2/2026 17:00 ET. "Your Life as a Dog: 8 Things You Have to Get Through" is Sat 12/12/2026 08:00 ET.
