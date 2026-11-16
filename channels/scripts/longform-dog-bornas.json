@@ -612,36 +612,36 @@
         },
         {
           "id": "s2.l10",
-          "say": "So puppy class can start as early as seven to eight weeks, as long as you've had at least one set of shots a week before.",
+          "say": "So puppy class can start as early as seven to eight weeks, as long as you've had at least one set of shots a week before, and a first deworming.",
           "src": "DB9",
           "source_tag": "AVSAB",
-          "vis": "Puppy class: six puppies on mats / Vaccine card with one stamp / Calendar: 7 DAYS circled / A trainer's hand with a treat",
+          "vis": "Puppy class: six puppies on mats / Vaccine card with one stamp and a first-deworming note / Calendar: 7 DAYS circled / A trainer's hand with a treat",
           "shots": [
             {
               "t": 127.4,
-              "dur": 2.01,
+              "dur": 2.31,
               "vis": "Puppy class: six puppies on mats"
             },
             {
-              "t": 129.4,
-              "dur": 2.01,
-              "vis": "Vaccine card with one stamp"
+              "t": 129.7,
+              "dur": 2.31,
+              "vis": "Vaccine card with one stamp and a first-deworming note"
             },
             {
-              "t": 131.4,
-              "dur": 2.01,
+              "t": 132.0,
+              "dur": 2.31,
               "vis": "Calendar: 7 DAYS circled"
             },
             {
-              "t": 133.4,
-              "dur": 2.01,
+              "t": 134.3,
+              "dur": 2.31,
               "vis": "A trainer's hand with a treat"
             }
           ],
-          "card": "1 SET OF SHOTS, 7 DAYS BEFORE",
+          "card": "1 SET OF SHOTS A WEEK BEFORE + FIRST DEWORMING",
           "meter": 50,
           "_t": 127.4,
-          "_dur": 8.02,
+          "_dur": 9.25,
           "_beats": "R"
         },
         {
@@ -652,22 +652,22 @@
           "vis": "Two weights on a scale: INFECTION and BEHAVIOR / The BEHAVIOR side drops / Puppy at class, sitting for a treat",
           "shots": [
             {
-              "t": 135.4,
+              "t": 136.6,
               "dur": 2.26,
               "vis": "Two weights on a scale: INFECTION and BEHAVIOR"
             },
             {
-              "t": 137.7,
+              "t": 138.9,
               "dur": 2.26,
               "vis": "The BEHAVIOR side drops"
             },
             {
-              "t": 139.9,
+              "t": 141.2,
               "dur": 2.26,
               "vis": "Puppy at class, sitting for a treat"
             }
           ],
-          "_t": 135.4,
+          "_t": 136.6,
           "_dur": 6.79,
           "_beats": ""
         },
@@ -677,26 +677,26 @@
           "vis": "Tile 3 flips half-way: a syringe icon",
           "shots": [
             {
-              "t": 142.2,
+              "t": 143.4,
               "dur": 2.15,
               "vis": "Tile 3 flips half-way: a syringe icon"
             }
           ],
-          "_t": 142.2,
+          "_t": 143.4,
           "_dur": 1.85,
           "_beats": "R"
         }
       ],
       "_midroll_after": {
         "type": "primary",
-        "at": 144.2,
+        "at": 145.4,
         "note": "Break in the 0.3 s gap after this chapter's last line, before the next voiced number line. Never mid-sentence."
       }
     },
     {
       "chapter": "3. The shots",
       "chip": "3 OF 8",
-      "_start": 144.3,
+      "_start": 145.6,
       "lines": [
         {
           "id": "s3.l0",
@@ -704,13 +704,13 @@
           "vis": "Voiced number card over a vet exam table",
           "shots": [
             {
-              "t": 144.3,
+              "t": 145.6,
               "dur": 1.23,
               "vis": "Voiced number card over a vet exam table"
             }
           ],
           "card": "3 OF 8: THE SHOTS",
-          "_t": 144.3,
+          "_t": 145.6,
           "_dur": 1.23,
           "_beats": ""
         },
@@ -722,17 +722,17 @@
           "vis": "Puppy nursing; a soft shield glows around it / The shield fades / An empty gap between two bars: MOTHER'S MILK and OWN IMMUNITY",
           "shots": [
             {
-              "t": 145.6,
+              "t": 146.8,
               "dur": 2.47,
               "vis": "Puppy nursing; a soft shield glows around it; then The shield fades"
             },
             {
-              "t": 148.0,
+              "t": 149.3,
               "dur": 2.47,
               "vis": "An empty gap between two bars: MOTHER'S MILK and OWN IMMUNITY"
             }
           ],
-          "_t": 145.6,
+          "_t": 146.8,
           "_dur": 4.94,
           "_beats": ""
         },
@@ -744,36 +744,36 @@
           "vis": "Drawn virus particles drift into the gap",
           "shots": [
             {
-              "t": 150.5,
+              "t": 151.7,
               "dur": 2.16,
               "vis": "Drawn virus particles drift into the gap"
             }
           ],
           "card": "PARVOVIRUS",
-          "_t": 150.5,
+          "_t": 151.7,
           "_dur": 2.16,
           "_beats": "P"
         },
         {
           "id": "s3.l3",
-          "say": "Puppies under four months, and dogs that aren't fully vaccinated, are at increased risk.",
+          "say": "Puppies under four months, and dogs that aren't adequately vaccinated, are at increased risk.",
           "src": "DB10, DB11",
           "source_tag": "AVMA; Merck Veterinary Manual",
           "vis": "Calendar: UNDER 4 MONTHS / Vaccine card with empty boxes / Puppy sniffing a sidewalk",
           "shots": [
             {
-              "t": 152.7,
+              "t": 153.9,
               "dur": 2.16,
               "vis": "Calendar: UNDER 4 MONTHS; then Vaccine card with empty boxes"
             },
             {
-              "t": 154.8,
+              "t": 156.1,
               "dur": 2.16,
               "vis": "Puppy sniffing a sidewalk"
             }
           ],
-          "card": "UNDER 4 MONTHS OR NOT VACCINATED",
-          "_t": 152.7,
+          "card": "UNDER 4 MONTHS OR NOT ADEQUATELY VACCINATED",
+          "_t": 153.9,
           "_dur": 4.32,
           "_beats": "P"
         },
@@ -785,17 +785,17 @@
           "vis": "Puppy ignoring a full bowl / Thermometer icon / Puppy curled up, flat, on a towel",
           "shots": [
             {
-              "t": 157.0,
+              "t": 158.2,
               "dur": 2.16,
               "vis": "Puppy ignoring a full bowl; then Thermometer icon"
             },
             {
-              "t": 159.2,
+              "t": 160.4,
               "dur": 2.16,
               "vis": "Puppy curled up, flat, on a towel"
             }
           ],
-          "_t": 157.0,
+          "_t": 158.2,
           "_dur": 4.32,
           "_beats": ""
         },
@@ -807,24 +807,24 @@
           "vis": "Plain card: 48 TO 72 HOURS AFTER SIGNS START / Phone icon: CALL YOUR VET / Owner carrying a puppy through a clinic door / Meter dips toward RAW",
           "shots": [
             {
-              "t": 161.3,
+              "t": 162.5,
               "dur": 2.57,
               "vis": "Plain card: 48 TO 72 HOURS AFTER SIGNS START; then Phone icon: CALL YOUR VET"
             },
             {
-              "t": 163.9,
+              "t": 165.1,
               "dur": 2.57,
               "vis": "Owner carrying a puppy through a clinic door"
             },
             {
-              "t": 166.5,
+              "t": 167.7,
               "dur": 2.57,
               "vis": "Meter dips toward RAW"
             }
           ],
           "card": "SIGNS? CALL YOUR VET",
           "meter": 30,
-          "_t": 161.3,
+          "_t": 162.5,
           "_dur": 7.71,
           "_beats": "P"
         },
@@ -836,24 +836,24 @@
           "vis": "Puppy on a drip, tail moving / Chip: OVER 90% IN HOSPITAL / Chip: ABOUT 80% OUTPATIENT",
           "shots": [
             {
-              "t": 169.0,
+              "t": 170.3,
               "dur": 2.06,
               "vis": "Puppy on a drip, tail moving"
             },
             {
-              "t": 171.1,
+              "t": 172.3,
               "dur": 2.06,
               "vis": "Chip: OVER 90% IN HOSPITAL"
             },
             {
-              "t": 173.1,
+              "t": 174.4,
               "dur": 2.06,
               "vis": "Chip: ABOUT 80% OUTPATIENT"
             }
           ],
           "card": "OVER 90% IN HOSPITAL",
           "meter": 45,
-          "_t": 169.0,
+          "_t": 170.3,
           "_dur": 6.17,
           "_beats": ""
         },
@@ -863,17 +863,17 @@
           "vis": "Meatball on the exam table, sleeve rolled up / Meatball reaches for Noodle's paw / Noodle has his head in the treat bag",
           "shots": [
             {
-              "t": 175.2,
+              "t": 176.4,
               "dur": 2.62,
               "vis": "Meatball on the exam table, sleeve rolled up; then Meatball reaches for Noodle's paw"
             },
             {
-              "t": 177.8,
+              "t": 179.0,
               "dur": 2.62,
               "vis": "Noodle has his head in the treat bag"
             }
           ],
-          "_t": 175.2,
+          "_t": 176.4,
           "_dur": 5.24,
           "_beats": "CJ"
         },
@@ -885,38 +885,38 @@
           "vis": "Puppy class again, puppies tumbling / Wipes being used on mats / Vaccine card: one stamp / Meter climbs past the middle",
           "shots": [
             {
-              "t": 180.4,
+              "t": 181.7,
               "dur": 2.47,
               "vis": "Puppy class again, puppies tumbling; then Wipes being used on mats"
             },
             {
-              "t": 182.9,
+              "t": 184.1,
               "dur": 2.47,
               "vis": "Vaccine card: one stamp"
             },
             {
-              "t": 185.4,
+              "t": 186.6,
               "dur": 2.77,
               "vis": "Meter climbs past the middle"
             }
           ],
           "card": "AT LEAST 1 VACCINE + GOOD PRACTICES",
           "meter": 55,
-          "_t": 180.4,
+          "_t": 181.7,
           "_dur": 7.4,
           "_beats": "R"
         }
       ],
       "_midroll_after": {
         "type": "alt",
-        "at": 188.0,
+        "at": 189.2,
         "note": "Break in the 0.3 s gap after this chapter's last line, before the next voiced number line. Never mid-sentence."
       }
     },
     {
       "chapter": "4. Where you end up",
       "chip": "4 OF 8",
-      "_start": 188.1,
+      "_start": 189.4,
       "lines": [
         {
           "id": "s4.l0",
@@ -924,13 +924,13 @@
           "vis": "Voiced number card over a map of tiny houses",
           "shots": [
             {
-              "t": 188.1,
+              "t": 189.4,
               "dur": 1.85,
               "vis": "Voiced number card over a map of tiny houses"
             }
           ],
           "card": "4 OF 8: WHERE YOU END UP",
-          "_t": 188.1,
+          "_t": 189.4,
           "_dur": 1.85,
           "_beats": ""
         },
@@ -940,12 +940,12 @@
           "vis": "A couch, empty / A shelter kennel, empty",
           "shots": [
             {
-              "t": 190.0,
+              "t": 191.2,
               "dur": 2.47,
               "vis": "A couch, empty; then A shelter kennel, empty"
             }
           ],
-          "_t": 190.0,
+          "_t": 191.2,
           "_dur": 2.47,
           "_beats": ""
         },
@@ -957,19 +957,19 @@
           "vis": "Plain counter climbs to 2.8 MILLION / Shelter intake desk, a line of leashes",
           "shots": [
             {
-              "t": 192.5,
+              "t": 193.7,
               "dur": 2.01,
               "vis": "Plain counter climbs to 2.8 MILLION"
             },
             {
-              "t": 194.5,
+              "t": 195.7,
               "dur": 2.01,
               "vis": "Shelter intake desk, a line of leashes"
             }
           ],
           "card": "2.8 MILLION DOGS (US, 2025)",
           "meter": 35,
-          "_t": 192.5,
+          "_t": 193.7,
           "_dur": 4.01,
           "_beats": "P"
         },
@@ -981,17 +981,17 @@
           "vis": "Big dog in a kennel, sitting / Calendar pages flipping / Same kennel, same dog, later",
           "shots": [
             {
-              "t": 196.5,
+              "t": 197.7,
               "dur": 2.62,
               "vis": "Big dog in a kennel, sitting; then Calendar pages flipping"
             },
             {
-              "t": 199.1,
+              "t": 200.3,
               "dur": 2.62,
               "vis": "Same kennel, same dog, later"
             }
           ],
-          "_t": 196.5,
+          "_t": 197.7,
           "_dur": 5.24,
           "_beats": ""
         },
@@ -1003,17 +1003,17 @@
           "vis": "Plain bars: ADOPTED ABOUT 2M / RETURNED 542K",
           "shots": [
             {
-              "t": 201.7,
+              "t": 202.9,
               "dur": 2.31,
               "vis": "Plain bars: ADOPTED ABOUT 2M"
             },
             {
-              "t": 204.0,
+              "t": 205.3,
               "dur": 2.31,
               "vis": "RETURNED 542K"
             }
           ],
-          "_t": 201.7,
+          "_t": 202.9,
           "_dur": 4.63,
           "_beats": ""
         },
@@ -1025,13 +1025,13 @@
           "vis": "The ADOPTED bar glows / A dog hopping into the back seat of a family car, door wide open",
           "shots": [
             {
-              "t": 206.3,
+              "t": 207.6,
               "dur": 3.39,
               "vis": "The ADOPTED bar glows; then A dog hopping into the back seat of a family car, door wide open"
             }
           ],
           "meter": 50,
-          "_t": 206.3,
+          "_t": 207.6,
           "_dur": 3.39,
           "_beats": "R"
         },
@@ -1041,12 +1041,12 @@
           "vis": "Meatball signing a form, Noodle at his feet / Sauce in Meatball's chair, not moving",
           "shots": [
             {
-              "t": 209.7,
+              "t": 211.0,
               "dur": 2.16,
               "vis": "Meatball signing a form, Noodle at his feet; then Sauce in Meatball's chair, not moving"
             }
           ],
-          "_t": 209.7,
+          "_t": 211.0,
           "_dur": 2.16,
           "_beats": "CJ"
         },
@@ -1058,27 +1058,27 @@
           "vis": "Counter: 3 MILLION CATS / Sauce glances at the counter",
           "shots": [
             {
-              "t": 211.9,
+              "t": 213.1,
               "dur": 3.69,
               "vis": "Counter: 3 MILLION CATS; then Sauce glances at the counter"
             }
           ],
           "card": "CATS: 3 MILLION",
-          "_t": 211.9,
+          "_t": 213.1,
           "_dur": 3.39,
           "_beats": ""
         }
       ],
       "_midroll_after": {
         "type": "alt",
-        "at": 215.4,
+        "at": 216.7,
         "note": "Break in the 0.3 s gap after this chapter's last line, before the next voiced number line. Never mid-sentence."
       }
     },
     {
       "chapter": "Halfway",
       "chip": "",
-      "_start": 215.6,
+      "_start": 216.8,
       "lines": [
         {
           "id": "s5.l0",
@@ -1086,18 +1086,18 @@
           "vis": "Tiles 1 to 4 flip face up / Puppy, bigger, on a couch",
           "shots": [
             {
-              "t": 215.6,
+              "t": 216.8,
               "dur": 2.16,
               "vis": "Tiles 1 to 4 flip face up"
             },
             {
-              "t": 217.7,
+              "t": 219.0,
               "dur": 2.16,
               "vis": "Puppy, bigger, on a couch"
             }
           ],
           "card": "HALFWAY",
-          "_t": 215.6,
+          "_t": 216.8,
           "_dur": 4.32,
           "_beats": "R"
         },
@@ -1107,28 +1107,28 @@
           "vis": "Meatball holds up four fingers / Comment pill pops bottom right: 1, 2, 3 OR 4 / The four tiles light up in turn / Meatball points at the comment pill",
           "shots": [
             {
-              "t": 219.9,
+              "t": 221.1,
               "dur": 2.24,
               "vis": "Meatball holds up four fingers"
             },
             {
-              "t": 222.1,
+              "t": 223.4,
               "dur": 2.24,
               "vis": "Comment pill pops bottom right: 1, 2, 3 OR 4"
             },
             {
-              "t": 224.4,
+              "t": 225.6,
               "dur": 2.24,
               "vis": "The four tiles light up in turn"
             },
             {
-              "t": 226.6,
+              "t": 227.8,
               "dur": 2.24,
               "vis": "Meatball points at the comment pill"
             }
           ],
           "card": "COMMENT: WHICH ONE GETS YOU? 1, 2, 3 OR 4",
-          "_t": 219.9,
+          "_t": 221.1,
           "_dur": 8.95,
           "_beats": "CM"
         },
@@ -1138,17 +1138,17 @@
           "vis": "Tiles 5 to 8 still face down / Camera rushes down a hallway / Into the kitchen; tile 5 flips",
           "shots": [
             {
-              "t": 228.9,
+              "t": 230.1,
               "dur": 2.47,
               "vis": "Tiles 5 to 8 still face down; then Camera rushes down a hallway"
             },
             {
-              "t": 231.3,
+              "t": 232.6,
               "dur": 2.77,
               "vis": "Into the kitchen; tile 5 flips"
             }
           ],
-          "_t": 228.9,
+          "_t": 230.1,
           "_dur": 4.94,
           "_beats": "RP"
         }
@@ -1157,7 +1157,7 @@
     {
       "chapter": "5. The kitchen",
       "chip": "5 OF 8",
-      "_start": 234.1,
+      "_start": 235.3,
       "lines": [
         {
           "id": "s6.l0",
@@ -1165,13 +1165,13 @@
           "vis": "Voiced number card slides over the counter",
           "shots": [
             {
-              "t": 234.1,
+              "t": 235.3,
               "dur": 1.23,
               "vis": "Voiced number card slides over the counter"
             }
           ],
           "card": "5 OF 8: THE KITCHEN",
-          "_t": 234.1,
+          "_t": 235.3,
           "_dur": 1.23,
           "_beats": ""
         },
@@ -1183,13 +1183,13 @@
           "vis": "A chocolate bar on the counter; dog's nose at the edge",
           "shots": [
             {
-              "t": 235.3,
+              "t": 236.6,
               "dur": 1.54,
               "vis": "A chocolate bar on the counter; dog's nose at the edge"
             }
           ],
           "card": "CHOCOLATE: TOXIC TO DOGS",
-          "_t": 235.3,
+          "_t": 236.6,
           "_dur": 1.54,
           "_beats": "P"
         },
@@ -1201,24 +1201,24 @@
           "vis": "Molecule chip: THEOBROMINE / Scale: a small dog and a big dog / Chip: MILD 9 MG/LB / Chip: SEVERE ABOUT 18 MG/LB",
           "shots": [
             {
-              "t": 236.9,
+              "t": 238.1,
               "dur": 2.57,
               "vis": "Molecule chip: THEOBROMINE; then Scale: a small dog and a big dog"
             },
             {
-              "t": 239.4,
+              "t": 240.7,
               "dur": 2.57,
               "vis": "Chip: MILD 9 MG/LB"
             },
             {
-              "t": 242.0,
+              "t": 243.2,
               "dur": 2.57,
               "vis": "Chip: SEVERE ABOUT 18 MG/LB"
             }
           ],
           "card": "MILD: AS LOW AS 9 MG PER LB",
           "meter": 28,
-          "_t": 236.9,
+          "_t": 238.1,
           "_dur": 7.71,
           "_beats": "P"
         },
@@ -1230,23 +1230,23 @@
           "vis": "Milk, semi-sweet and dark bars in a row / Dark bar's bar-chart shoots up / Chips: 227 vs 57 PER OUNCE",
           "shots": [
             {
-              "t": 244.6,
+              "t": 245.8,
               "dur": 2.06,
               "vis": "Milk, semi-sweet and dark bars in a row"
             },
             {
-              "t": 246.6,
+              "t": 247.9,
               "dur": 2.06,
               "vis": "Dark bar's bar-chart shoots up"
             },
             {
-              "t": 248.7,
+              "t": 249.9,
               "dur": 2.06,
               "vis": "Chips: 227 vs 57 PER OUNCE"
             }
           ],
           "card": "DARK ~227 MG/OZ, MILK ~57",
-          "_t": 244.6,
+          "_t": 245.8,
           "_dur": 6.17,
           "_beats": ""
         },
@@ -1256,17 +1256,17 @@
           "vis": "Meatball on tiptoes, sliding the bar onto the top shelf / Later: Meatball on tiptoes again, can't reach / He gives up",
           "shots": [
             {
-              "t": 250.7,
+              "t": 252.0,
               "dur": 2.31,
               "vis": "Meatball on tiptoes, sliding the bar onto the top shelf; then Later: Meatball on tiptoes again, can't reach"
             },
             {
-              "t": 253.1,
+              "t": 254.3,
               "dur": 2.31,
               "vis": "He gives up"
             }
           ],
-          "_t": 250.7,
+          "_t": 252.0,
           "_dur": 4.63,
           "_beats": "CJS"
         },
@@ -1278,18 +1278,18 @@
           "vis": "Gum pack, label zooms: XYLITOL / Candy and a muffin / Toothpaste tube",
           "shots": [
             {
-              "t": 255.4,
+              "t": 256.6,
               "dur": 2.16,
               "vis": "Gum pack, label zooms: XYLITOL; then Candy and a muffin"
             },
             {
-              "t": 257.5,
+              "t": 258.8,
               "dur": 2.16,
               "vis": "Toothpaste tube"
             }
           ],
           "card": "XYLITOL",
-          "_t": 255.4,
+          "_t": 256.6,
           "_dur": 4.32,
           "_beats": ""
         },
@@ -1301,24 +1301,24 @@
           "vis": "Blood-sugar line drops off a cliff / Clock: 10 TO 60 MINUTES / Plain card: CAN BE LIFE-THREATENING / Meter dips hard toward RAW",
           "shots": [
             {
-              "t": 259.7,
+              "t": 260.9,
               "dur": 2.37,
               "vis": "Blood-sugar line drops off a cliff; then Clock: 10 TO 60 MINUTES"
             },
             {
-              "t": 262.1,
+              "t": 263.3,
               "dur": 2.37,
               "vis": "Plain card: CAN BE LIFE-THREATENING"
             },
             {
-              "t": 264.4,
+              "t": 265.7,
               "dur": 2.37,
               "vis": "Meter dips hard toward RAW"
             }
           ],
           "card": "10 TO 60 MINUTES",
           "meter": 22,
-          "_t": 259.7,
+          "_t": 260.9,
           "_dur": 7.1,
           "_beats": "P"
         },
@@ -1330,36 +1330,41 @@
           "vis": "Bunch of grapes, then raisins / Kidney icon / Onion, garlic, chives",
           "shots": [
             {
-              "t": 266.8,
+              "t": 268.0,
               "dur": 2.62,
               "vis": "Bunch of grapes, then raisins; then Kidney icon"
             },
             {
-              "t": 269.4,
+              "t": 270.6,
               "dur": 2.62,
               "vis": "Onion, garlic, chives"
             }
           ],
-          "_t": 266.8,
+          "_t": 268.0,
           "_dur": 5.24,
           "_beats": ""
         },
         {
           "id": "s6.l8",
-          "say": "Onions are even riskier for cats. That one's for Sauce.",
+          "say": "Onions are even riskier for cats. Dogs are also at risk depending on the amount. That one's for Sauce.",
           "src": "DB20",
           "source_tag": "ASPCA",
-          "vis": "Onion slides away from Sauce's bowl / Sauce, unimpressed",
+          "vis": "Onion slides away from Sauce's bowl; chip: DOGS ALSO AT RISK, DEPENDING ON THE AMOUNT / Sauce, unimpressed",
           "shots": [
             {
-              "t": 272.0,
-              "dur": 3.08,
-              "vis": "Onion slides away from Sauce's bowl; then Sauce, unimpressed"
+              "t": 273.3,
+              "dur": 2.93,
+              "vis": "Onion slides away from Sauce's bowl; chip: DOGS ALSO AT RISK, DEPENDING ON THE AMOUNT"
+            },
+            {
+              "t": 276.2,
+              "dur": 2.93,
+              "vis": "Sauce, unimpressed"
             }
           ],
-          "card": "CATS: MORE SUSCEPTIBLE",
-          "_t": 272.0,
-          "_dur": 3.08,
+          "card": "CATS: MORE SUSCEPTIBLE; DOGS: DEPENDING ON THE AMOUNT",
+          "_t": 273.3,
+          "_dur": 5.86,
           "_beats": "C"
         },
         {
@@ -1370,23 +1375,23 @@
           "vis": "Hand writing HOW MUCH on a sticky note / Phone dialling / On screen: ASPCA Animal Poison Control (888) 426-4435",
           "shots": [
             {
-              "t": 275.1,
+              "t": 279.1,
               "dur": 2.47,
               "vis": "Hand writing HOW MUCH on a sticky note"
             },
             {
-              "t": 277.6,
+              "t": 281.6,
               "dur": 2.47,
               "vis": "Phone dialling"
             },
             {
-              "t": 280.1,
+              "t": 284.1,
               "dur": 2.47,
               "vis": "On screen: ASPCA Animal Poison Control (888) 426-4435"
             }
           ],
           "card": "CALL YOUR VET OR POISON CONTROL: (888) 426-4435",
-          "_t": 275.1,
+          "_t": 279.1,
           "_dur": 7.4,
           "_beats": ""
         },
@@ -1396,17 +1401,17 @@
           "vis": "Meatball tapes NOT FOR DOGS to a cupboard / Sauce on the counter, one paw / The sign floats to the floor",
           "shots": [
             {
-              "t": 282.5,
+              "t": 286.5,
               "dur": 2.16,
               "vis": "Meatball tapes NOT FOR DOGS to a cupboard; then Sauce on the counter, one paw"
             },
             {
-              "t": 284.7,
+              "t": 288.7,
               "dur": 2.16,
               "vis": "The sign floats to the floor"
             }
           ],
-          "_t": 282.5,
+          "_t": 286.5,
           "_dur": 4.32,
           "_beats": "CJS"
         },
@@ -1416,31 +1421,31 @@
           "vis": "Camera pulls out through the front door / Tile 6 flips: the parked car",
           "shots": [
             {
-              "t": 286.8,
+              "t": 290.8,
               "dur": 2.01,
               "vis": "Camera pulls out through the front door"
             },
             {
-              "t": 288.8,
+              "t": 292.9,
               "dur": 2.31,
               "vis": "Tile 6 flips: the parked car"
             }
           ],
-          "_t": 286.8,
+          "_t": 290.8,
           "_dur": 4.01,
           "_beats": "R"
         }
       ],
       "_midroll_after": {
         "type": "primary",
-        "at": 291.0,
+        "at": 295.0,
         "note": "Break in the 0.3 s gap after this chapter's last line, before the next voiced number line. Never mid-sentence."
       }
     },
     {
       "chapter": "6. The parked car",
       "chip": "6 OF 8",
-      "_start": 291.1,
+      "_start": 295.2,
       "lines": [
         {
           "id": "s7.l0",
@@ -1448,13 +1453,13 @@
           "vis": "Voiced number card over a car in a parking lot",
           "shots": [
             {
-              "t": 291.1,
+              "t": 295.2,
               "dur": 1.54,
               "vis": "Voiced number card over a car in a parking lot"
             }
           ],
           "card": "6 OF 8: THE PARKED CAR",
-          "_t": 291.1,
+          "_t": 295.2,
           "_dur": 1.54,
           "_beats": ""
         },
@@ -1466,23 +1471,23 @@
           "vis": "Mild day, car parked, a thermometer inside / Thermometer climbs: +20 IN 10 MIN / Clock jumps: +30 IN 20 MIN / Heat shimmer on the dashboard",
           "shots": [
             {
-              "t": 292.7,
+              "t": 296.7,
               "dur": 2.47,
               "vis": "Mild day, car parked, a thermometer inside; then Thermometer climbs: +20 IN 10 MIN"
             },
             {
-              "t": 295.2,
+              "t": 299.2,
               "dur": 2.47,
               "vis": "Clock jumps: +30 IN 20 MIN"
             },
             {
-              "t": 297.6,
+              "t": 301.6,
               "dur": 2.47,
               "vis": "Heat shimmer on the dashboard"
             }
           ],
           "card": "+20°F IN 10 MIN",
-          "_t": 292.7,
+          "_t": 296.7,
           "_dur": 7.4,
           "_beats": "P"
         },
@@ -1494,24 +1499,24 @@
           "vis": "Split screen: 70° OUTSIDE / 110°+ INSIDE / Steering wheel heat shimmer / Meter drops to its lowest",
           "shots": [
             {
-              "t": 300.1,
+              "t": 304.1,
               "dur": 2.57,
               "vis": "Split screen: 70° OUTSIDE; then 110°+ INSIDE"
             },
             {
-              "t": 302.7,
+              "t": 306.7,
               "dur": 2.57,
               "vis": "Steering wheel heat shimmer"
             },
             {
-              "t": 305.2,
+              "t": 309.2,
               "dur": 2.57,
               "vis": "Meter drops to its lowest"
             }
           ],
           "card": "70° OUT, 110°+ IN",
           "meter": 20,
-          "_t": 300.1,
+          "_t": 304.1,
           "_dur": 7.71,
           "_beats": "P"
         },
@@ -1523,18 +1528,18 @@
           "vis": "Two cars, one in spring, one in summer / Both thermometers climb together",
           "shots": [
             {
-              "t": 307.8,
+              "t": 311.8,
               "dur": 2.01,
               "vis": "Two cars, one in spring, one in summer"
             },
             {
-              "t": 309.8,
+              "t": 313.8,
               "dur": 2.01,
               "vis": "Both thermometers climb together"
             }
           ],
           "card": "SAME CLIMB AT 70° OR 110°",
-          "_t": 307.8,
+          "_t": 311.8,
           "_dur": 4.01,
           "_beats": ""
         },
@@ -1546,18 +1551,18 @@
           "vis": "Car under a tree; thermometer still climbs / Window cracked an inch; thermometer still climbs",
           "shots": [
             {
-              "t": 311.8,
+              "t": 315.8,
               "dur": 2.16,
               "vis": "Car under a tree; thermometer still climbs"
             },
             {
-              "t": 314.0,
+              "t": 318.0,
               "dur": 2.16,
               "vis": "Window cracked an inch; thermometer still climbs"
             }
           ],
           "card": "SHADE AND CRACKED WINDOWS: NO DIFFERENCE",
-          "_t": 311.8,
+          "_t": 315.8,
           "_dur": 4.32,
           "_beats": ""
         },
@@ -1567,17 +1572,17 @@
           "vis": "Meatball tapes a temperature chart to the dash / He reads it, lips moving / Noodle in the house window, watching",
           "shots": [
             {
-              "t": 316.1,
+              "t": 320.1,
               "dur": 2.47,
               "vis": "Meatball tapes a temperature chart to the dash; then He reads it, lips moving"
             },
             {
-              "t": 318.6,
+              "t": 322.6,
               "dur": 2.47,
               "vis": "Noodle in the house window, watching"
             }
           ],
-          "_t": 316.1,
+          "_t": 320.1,
           "_dur": 4.94,
           "_beats": "CJ"
         },
@@ -1589,23 +1594,23 @@
           "vis": "Plain card: NEVER ALONE IN A PARKED CAR / Owner walking away from a car, dog at their side / Shop door; the dog goes in or stays home / Card: NO MATTER THE TEMPERATURE",
           "shots": [
             {
-              "t": 321.1,
+              "t": 325.1,
               "dur": 2.26,
               "vis": "Plain card: NEVER ALONE IN A PARKED CAR; then Owner walking away from a car, dog at their side"
             },
             {
-              "t": 323.3,
+              "t": 327.3,
               "dur": 2.26,
               "vis": "Shop door; the dog goes in or stays home"
             },
             {
-              "t": 325.6,
+              "t": 329.6,
               "dur": 2.26,
               "vis": "Card: NO MATTER THE TEMPERATURE"
             }
           ],
           "card": "NEVER ALONE IN A PARKED CAR",
-          "_t": 321.1,
+          "_t": 325.1,
           "_dur": 6.79,
           "_beats": ""
         },
@@ -1617,32 +1622,32 @@
           "vis": "Frosty windshield / Snow on the car roof",
           "shots": [
             {
-              "t": 327.9,
+              "t": 331.9,
               "dur": 2.16,
               "vis": "Frosty windshield"
             },
             {
-              "t": 330.0,
+              "t": 334.0,
               "dur": 2.46,
               "vis": "Snow on the car roof"
             }
           ],
           "card": "COLD CARS TOO",
-          "_t": 327.9,
+          "_t": 331.9,
           "_dur": 4.32,
           "_beats": ""
         }
       ],
       "_midroll_after": {
         "type": "alt",
-        "at": 332.3,
+        "at": 336.3,
         "note": "Break in the 0.3 s gap after this chapter's last line, before the next voiced number line. Never mid-sentence."
       }
     },
     {
       "chapter": "7. The food bowl",
       "chip": "7 OF 8",
-      "_start": 332.5,
+      "_start": 336.5,
       "lines": [
         {
           "id": "s8.l0",
@@ -1650,13 +1655,13 @@
           "vis": "Voiced number card drops into a dog bowl / Bowl slowly overfills",
           "shots": [
             {
-              "t": 332.5,
+              "t": 336.5,
               "dur": 3.39,
               "vis": "Voiced number card drops into a dog bowl; then Bowl slowly overfills"
             }
           ],
           "card": "7 OF 8: THE FOOD BOWL",
-          "_t": 332.5,
+          "_t": 336.5,
           "_dur": 3.39,
           "_beats": "R"
         },
@@ -1668,28 +1673,28 @@
           "vis": "Two Labrador puppies side by side, two bowls / One bowl a quarter smaller / Pairs multiply into a grid of 48 / Calendar: FROM 8 WEEKS",
           "shots": [
             {
-              "t": 335.9,
+              "t": 339.9,
               "dur": 2.31,
               "vis": "Two Labrador puppies side by side, two bowls"
             },
             {
-              "t": 338.2,
+              "t": 342.2,
               "dur": 2.31,
               "vis": "One bowl a quarter smaller"
             },
             {
-              "t": 340.5,
+              "t": 344.5,
               "dur": 2.31,
               "vis": "Pairs multiply into a grid of 48"
             },
             {
-              "t": 342.8,
+              "t": 346.8,
               "dur": 2.31,
               "vis": "Calendar: FROM 8 WEEKS"
             }
           ],
           "card": "48 LABS, 25% LESS FOOD",
-          "_t": 335.9,
+          "_t": 339.9,
           "_dur": 9.25,
           "_beats": "P"
         },
@@ -1701,19 +1706,19 @@
           "vis": "The lean Lab still running, grey muzzle / The other Lab lying down / Meter climbs past the middle",
           "shots": [
             {
-              "t": 345.1,
+              "t": 349.1,
               "dur": 2.31,
               "vis": "The lean Lab still running, grey muzzle; then The other Lab lying down"
             },
             {
-              "t": 347.4,
+              "t": 351.4,
               "dur": 2.31,
               "vis": "Meter climbs past the middle"
             }
           ],
           "card": "LEANER: LONGER MEDIAN LIFE",
           "meter": 60,
-          "_t": 345.1,
+          "_t": 349.1,
           "_dur": 4.63,
           "_beats": ""
         },
@@ -1725,18 +1730,18 @@
           "vis": "Twelve breed icons in a row / Each icon gets a shorter bar / Chip: 50,787 DOGS",
           "shots": [
             {
-              "t": 349.8,
+              "t": 353.8,
               "dur": 2.78,
               "vis": "Twelve breed icons in a row; then Each icon gets a shorter bar"
             },
             {
-              "t": 352.5,
+              "t": 356.5,
               "dur": 2.78,
               "vis": "Chip: 50,787 DOGS"
             }
           ],
           "card": "SHORTER IN ALL 12 BREEDS",
-          "_t": 349.8,
+          "_t": 353.8,
           "_dur": 5.55,
           "_beats": "P"
         },
@@ -1748,18 +1753,18 @@
           "vis": "Two Yorkies, one rounder / Two bars: 13.7 and 16.2 / Gap highlighted",
           "shots": [
             {
-              "t": 355.3,
+              "t": 359.3,
               "dur": 2.47,
               "vis": "Two Yorkies, one rounder; then Two bars: 13.7 and 16.2"
             },
             {
-              "t": 357.8,
+              "t": 361.8,
               "dur": 2.47,
               "vis": "Gap highlighted"
             }
           ],
           "card": "YORKIE: 13.7 vs 16.2",
-          "_t": 355.3,
+          "_t": 359.3,
           "_dur": 4.94,
           "_beats": ""
         },
@@ -1771,18 +1776,18 @@
           "vis": "Two German Shepherds / Two bars almost the same",
           "shots": [
             {
-              "t": 360.2,
+              "t": 364.3,
               "dur": 2.01,
               "vis": "Two German Shepherds"
             },
             {
-              "t": 362.2,
+              "t": 366.3,
               "dur": 2.01,
               "vis": "Two bars almost the same"
             }
           ],
           "card": "GSD: 12.1 vs 12.5",
-          "_t": 360.2,
+          "_t": 364.3,
           "_dur": 4.01,
           "_beats": ""
         },
@@ -1792,12 +1797,12 @@
           "vis": "Meatball pushes his plate a few inches away / Noodle's head enters frame; the plate is empty",
           "shots": [
             {
-              "t": 364.3,
+              "t": 368.3,
               "dur": 2.78,
               "vis": "Meatball pushes his plate a few inches away; then Noodle's head enters frame; the plate is empty"
             }
           ],
-          "_t": 364.3,
+          "_t": 368.3,
           "_dur": 2.78,
           "_beats": "CJS"
         },
@@ -1808,17 +1813,17 @@
           "vis": "Vet putting a dog on a scale / Vet and owner looking at a body-shape chart",
           "shots": [
             {
-              "t": 367.0,
+              "t": 371.0,
               "dur": 2.62,
               "vis": "Vet putting a dog on a scale"
             },
             {
-              "t": 369.6,
+              "t": 373.7,
               "dur": 2.92,
               "vis": "Vet and owner looking at a body-shape chart"
             }
           ],
-          "_t": 367.0,
+          "_t": 371.0,
           "_dur": 5.24,
           "_beats": ""
         }
@@ -1827,7 +1832,7 @@
     {
       "chapter": "8. Time",
       "chip": "8 OF 8",
-      "_start": 372.6,
+      "_start": 376.6,
       "lines": [
         {
           "id": "s9.l0",
@@ -1835,13 +1840,13 @@
           "vis": "Voiced number card over a clock face",
           "shots": [
             {
-              "t": 372.6,
+              "t": 376.6,
               "dur": 0.93,
               "vis": "Voiced number card over a clock face"
             }
           ],
           "card": "8 OF 8: TIME",
-          "_t": 372.6,
+          "_t": 376.6,
           "_dur": 0.93,
           "_beats": ""
         },
@@ -1853,24 +1858,24 @@
           "vis": "Dog yawns; camera pushes in on the teeth / Gumline glows red at the edge / Toothbrush icon",
           "shots": [
             {
-              "t": 373.5,
+              "t": 377.5,
               "dur": 2.16,
               "vis": "Dog yawns; camera pushes in on the teeth"
             },
             {
-              "t": 375.7,
+              "t": 379.7,
               "dur": 2.16,
               "vis": "Gumline glows red at the edge"
             },
             {
-              "t": 377.8,
+              "t": 381.8,
               "dur": 2.16,
               "vis": "Toothbrush icon"
             }
           ],
           "card": "BY AGE 3: VERY LIKELY",
           "meter": 45,
-          "_t": 373.5,
+          "_t": 377.5,
           "_dur": 6.48,
           "_beats": ""
         },
@@ -1882,23 +1887,23 @@
           "vis": "Grey-muzzled dog; gumline redder / Vet lifting a dog's lip / Calendar: ONCE A YEAR",
           "shots": [
             {
-              "t": 380.0,
+              "t": 384.0,
               "dur": 2.37,
               "vis": "Grey-muzzled dog; gumline redder"
             },
             {
-              "t": 382.3,
+              "t": 386.4,
               "dur": 2.37,
               "vis": "Vet lifting a dog's lip"
             },
             {
-              "t": 384.7,
+              "t": 388.7,
               "dur": 2.37,
               "vis": "Calendar: ONCE A YEAR"
             }
           ],
           "card": "TEETH CHECKED AT LEAST YEARLY",
-          "_t": 380.0,
+          "_t": 384.0,
           "_dur": 7.1,
           "_beats": ""
         },
@@ -1910,12 +1915,12 @@
           "vis": "Small, medium, large and giant dogs line up by height / Clock hands spin over them",
           "shots": [
             {
-              "t": 387.1,
+              "t": 391.1,
               "dur": 3.39,
               "vis": "Small, medium, large and giant dogs line up by height; then Clock hands spin over them"
             }
           ],
-          "_t": 387.1,
+          "_t": 391.1,
           "_dur": 3.39,
           "_beats": "R"
         },
@@ -1927,28 +1932,28 @@
           "vis": "Timeline bar; the last quarter shades grey / Small dog: SENIOR AT 8 TO 11 / Giant dog: SENIOR AT 6 TO 7 / Both dogs, grey muzzles",
           "shots": [
             {
-              "t": 390.5,
+              "t": 394.5,
               "dur": 2.01,
               "vis": "Timeline bar; the last quarter shades grey"
             },
             {
-              "t": 392.5,
+              "t": 396.5,
               "dur": 2.01,
               "vis": "Small dog: SENIOR AT 8 TO 11"
             },
             {
-              "t": 394.5,
+              "t": 398.5,
               "dur": 2.01,
               "vis": "Giant dog: SENIOR AT 6 TO 7"
             },
             {
-              "t": 396.5,
+              "t": 400.5,
               "dur": 2.01,
               "vis": "Both dogs, grey muzzles"
             }
           ],
           "card": "SENIOR: SMALL 8-11, GIANT 6-7",
-          "_t": 390.5,
+          "_t": 394.5,
           "_dur": 8.02,
           "_beats": "P"
         },
@@ -1960,12 +1965,12 @@
           "vis": "Great Dane lying on a rug, grey muzzle / Slow push in",
           "shots": [
             {
-              "t": 398.5,
+              "t": 402.5,
               "dur": 3.7,
               "vis": "Great Dane lying on a rug, grey muzzle; then Slow push in"
             }
           ],
-          "_t": 398.5,
+          "_t": 402.5,
           "_dur": 3.7,
           "_beats": "S"
         },
@@ -1977,28 +1982,28 @@
           "vis": "Giant dog's bar shorter than a terrier's / Map of the UK fills with dots / Counter: 584,734 DOGS / Chip: ABOUT 12.5 YEARS",
           "shots": [
             {
-              "t": 402.2,
+              "t": 406.2,
               "dur": 2.24,
               "vis": "Giant dog's bar shorter than a terrier's"
             },
             {
-              "t": 404.4,
+              "t": 408.4,
               "dur": 2.24,
               "vis": "Map of the UK fills with dots"
             },
             {
-              "t": 406.7,
+              "t": 410.7,
               "dur": 2.24,
               "vis": "Counter: 584,734 DOGS"
             },
             {
-              "t": 408.9,
+              "t": 412.9,
               "dur": 2.24,
               "vis": "Chip: ABOUT 12.5 YEARS"
             }
           ],
           "card": "ABOUT 12.5 YEARS (UK)",
-          "_t": 402.2,
+          "_t": 406.2,
           "_dur": 8.95,
           "_beats": ""
         },
@@ -2010,18 +2015,18 @@
           "vis": "Two breed cards slide apart: 5.4 and 15.4 / The range bar stretches between them",
           "shots": [
             {
-              "t": 411.1,
+              "t": 415.1,
               "dur": 2.31,
               "vis": "Two breed cards slide apart: 5.4 and 15.4"
             },
             {
-              "t": 413.4,
+              "t": 417.5,
               "dur": 2.31,
               "vis": "The range bar stretches between them"
             }
           ],
           "card": "5.4 TO 15.4 BY BREED",
-          "_t": 411.1,
+          "_t": 415.1,
           "_dur": 4.63,
           "_beats": ""
         },
@@ -2033,23 +2038,23 @@
           "vis": "Big 1 = 7 card / It cracks in half / A curved line draws itself / Labrador beside the curve",
           "shots": [
             {
-              "t": 415.8,
+              "t": 419.8,
               "dur": 2.47,
               "vis": "Big 1 = 7 card; then It cracks in half"
             },
             {
-              "t": 418.2,
+              "t": 422.2,
               "dur": 2.47,
               "vis": "A curved line draws itself"
             },
             {
-              "t": 420.7,
+              "t": 424.7,
               "dur": 2.47,
               "vis": "Labrador beside the curve"
             }
           ],
           "card": "NOT 7 TO 1",
-          "_t": 415.8,
+          "_t": 419.8,
           "_dur": 7.4,
           "_beats": "RP"
         },
@@ -2059,12 +2064,12 @@
           "vis": "Meatball counting on his fingers / He borrows Noodle's paw / He gives up",
           "shots": [
             {
-              "t": 423.2,
+              "t": 427.2,
               "dur": 3.7,
               "vis": "Meatball counting on his fingers; then He borrows Noodle's paw; then He gives up"
             }
           ],
-          "_t": 423.2,
+          "_t": 427.2,
           "_dur": 3.7,
           "_beats": "CJ"
         },
@@ -2076,38 +2081,38 @@
           "vis": "Plain card on a dimmed background: ALMOST HALF OF DOGS OVER 10 / Grey-muzzled dog on a vet table, calm / Calendar with two circled visits",
           "shots": [
             {
-              "t": 426.9,
+              "t": 430.9,
               "dur": 2.78,
               "vis": "Plain card on a dimmed background: ALMOST HALF OF DOGS OVER 10"
             },
             {
-              "t": 429.6,
+              "t": 433.7,
               "dur": 2.78,
               "vis": "Grey-muzzled dog on a vet table, calm"
             },
             {
-              "t": 432.4,
+              "t": 436.4,
               "dur": 3.08,
               "vis": "Calendar with two circled visits"
             }
           ],
           "card": "ALMOST HALF OF DOGS OVER 10",
           "meter": 30,
-          "_t": 426.9,
+          "_t": 430.9,
           "_dur": 8.33,
           "_beats": ""
         }
       ],
       "_midroll_after": {
         "type": "alt",
-        "at": 435.3,
+        "at": 439.4,
         "note": "Break in the 0.3 s gap after this chapter's last line, before the next voiced number line. Never mid-sentence."
       }
     },
     {
       "chapter": "What you got",
       "chip": "",
-      "_start": 435.5,
+      "_start": 439.5,
       "lines": [
         {
           "id": "s10.l0",
@@ -2115,12 +2120,12 @@
           "vis": "Tiles 1 to 8 face up; they slide aside",
           "shots": [
             {
-              "t": 435.5,
+              "t": 439.5,
               "dur": 2.47,
               "vis": "Tiles 1 to 8 face up; they slide aside"
             }
           ],
-          "_t": 435.5,
+          "_t": 439.5,
           "_dur": 2.47,
           "_beats": "R"
         },
@@ -2132,24 +2137,24 @@
           "vis": "Extreme close-up: wet nose, nostrils flaring / Chip: PEOPLE 5-6 MILLION / Chip: DOGS UP TO 100 MILLION+ / Scent trails glow across the room",
           "shots": [
             {
-              "t": 438.0,
+              "t": 442.0,
               "dur": 2.37,
               "vis": "Extreme close-up: wet nose, nostrils flaring; then Chip: PEOPLE 5-6 MILLION"
             },
             {
-              "t": 440.3,
+              "t": 444.3,
               "dur": 2.37,
               "vis": "Chip: DOGS UP TO 100 MILLION+"
             },
             {
-              "t": 442.7,
+              "t": 446.7,
               "dur": 2.37,
               "vis": "Scent trails glow across the room"
             }
           ],
           "card": "UP TO 100 MILLION+",
           "meter": 65,
-          "_t": 438.0,
+          "_t": 442.0,
           "_dur": 7.1,
           "_beats": "P"
         },
@@ -2161,13 +2166,13 @@
           "vis": "Bloodhound, ears dragging, nose down",
           "shots": [
             {
-              "t": 445.1,
+              "t": 449.1,
               "dur": 1.85,
               "vis": "Bloodhound, ears dragging, nose down"
             }
           ],
           "card": "BLOODHOUND: 300 MILLION",
-          "_t": 445.1,
+          "_t": 449.1,
           "_dur": 1.85,
           "_beats": ""
         },
@@ -2179,18 +2184,18 @@
           "vis": "Two drawn brains side by side / The smell area on the dog brain swells / Chip: 40X",
           "shots": [
             {
-              "t": 446.9,
+              "t": 450.9,
               "dur": 2.31,
               "vis": "Two drawn brains side by side; then The smell area on the dog brain swells"
             },
             {
-              "t": 449.2,
+              "t": 453.2,
               "dur": 2.31,
               "vis": "Chip: 40X"
             }
           ],
           "card": "40X BIGGER",
-          "_t": 446.9,
+          "_t": 450.9,
           "_dur": 4.63,
           "_beats": ""
         },
@@ -2200,22 +2205,22 @@
           "vis": "Meatball on all fours, sniffing the couch / He finds a plate / Empty plate; Noodle licking his lips",
           "shots": [
             {
-              "t": 451.5,
+              "t": 455.5,
               "dur": 2.06,
               "vis": "Meatball on all fours, sniffing the couch"
             },
             {
-              "t": 453.6,
+              "t": 457.6,
               "dur": 2.06,
               "vis": "He finds a plate"
             },
             {
-              "t": 455.6,
+              "t": 459.7,
               "dur": 2.06,
               "vis": "Empty plate; Noodle licking his lips"
             }
           ],
-          "_t": 451.5,
+          "_t": 455.5,
           "_dur": 6.17,
           "_beats": "CJ"
         },
@@ -2227,24 +2232,24 @@
           "vis": "Dog looking up at its owner / Owner looking back; a soft glow / Chip: OXYTOCIN UP / Tame wolf looking away",
           "shots": [
             {
-              "t": 457.7,
+              "t": 461.7,
               "dur": 2.26,
               "vis": "Dog looking up at its owner; then Owner looking back; a soft glow"
             },
             {
-              "t": 460.0,
+              "t": 464.0,
               "dur": 2.26,
               "vis": "Chip: OXYTOCIN UP"
             },
             {
-              "t": 462.2,
+              "t": 466.2,
               "dur": 2.26,
               "vis": "Tame wolf looking away"
             }
           ],
           "card": "DOGS, NOT WOLVES",
           "meter": 75,
-          "_t": 457.7,
+          "_t": 461.7,
           "_dur": 6.79,
           "_beats": "P"
         },
@@ -2256,23 +2261,23 @@
           "vis": "Cave-painting style: early people and a dog / Big question mark stamps over it / Back to the dog and owner",
           "shots": [
             {
-              "t": 464.5,
+              "t": 468.5,
               "dur": 2.16,
               "vis": "Cave-painting style: early people and a dog"
             },
             {
-              "t": 466.7,
+              "t": 470.7,
               "dur": 2.16,
               "vis": "Big question mark stamps over it"
             },
             {
-              "t": 468.8,
+              "t": 472.8,
               "dur": 2.16,
               "vis": "Back to the dog and owner"
             }
           ],
           "card": "MAY HAVE HELPED",
-          "_t": 464.5,
+          "_t": 468.5,
           "_dur": 6.48,
           "_beats": ""
         },
@@ -2284,23 +2289,23 @@
           "vis": "Dog licks a hand / Card: GREETING / Same dog licking again and again / Card: MAY BE ANXIOUS",
           "shots": [
             {
-              "t": 471.0,
+              "t": 475.0,
               "dur": 2.37,
               "vis": "Dog licks a hand; then Card: GREETING"
             },
             {
-              "t": 473.3,
+              "t": 477.3,
               "dur": 2.37,
               "vis": "Same dog licking again and again"
             },
             {
-              "t": 475.7,
+              "t": 479.7,
               "dur": 2.67,
               "vis": "Card: MAY BE ANXIOUS"
             }
           ],
           "card": "A GREETING, NOT A KISS",
-          "_t": 471.0,
+          "_t": 475.0,
           "_dur": 7.1,
           "_beats": ""
         }
@@ -2309,7 +2314,7 @@
     {
       "chapter": "The verdict",
       "chip": "",
-      "_start": 478.4,
+      "_start": 482.4,
       "lines": [
         {
           "id": "s11.l0",
@@ -2317,12 +2322,12 @@
           "vis": "Two columns appear: RAW and SWEET",
           "shots": [
             {
-              "t": 478.4,
+              "t": 482.4,
               "dur": 2.16,
               "vis": "Two columns appear: RAW and SWEET"
             }
           ],
-          "_t": 478.4,
+          "_t": 482.4,
           "_dur": 2.16,
           "_beats": "R"
         },
@@ -2333,22 +2338,22 @@
           "vis": "RAW column: day-8 chip drops in / Stopwatch chip / Chocolate chip / Parked-car chip",
           "shots": [
             {
-              "t": 480.5,
+              "t": 484.5,
               "dur": 2.16,
               "vis": "RAW column: day-8 chip drops in; then Stopwatch chip"
             },
             {
-              "t": 482.7,
+              "t": 486.7,
               "dur": 2.16,
               "vis": "Chocolate chip"
             },
             {
-              "t": 484.8,
+              "t": 488.9,
               "dur": 2.16,
               "vis": "Parked-car chip"
             }
           ],
-          "_t": 480.5,
+          "_t": 484.5,
           "_dur": 6.48,
           "_beats": ""
         },
@@ -2359,17 +2364,17 @@
           "vis": "SWEET column: nose chip / Stare chip / Owner looking back",
           "shots": [
             {
-              "t": 487.0,
+              "t": 491.0,
               "dur": 2.62,
               "vis": "SWEET column: nose chip; then Stare chip"
             },
             {
-              "t": 489.6,
+              "t": 493.6,
               "dur": 2.62,
               "vis": "Owner looking back"
             }
           ],
-          "_t": 487.0,
+          "_t": 491.0,
           "_dur": 5.24,
           "_beats": ""
         },
@@ -2379,29 +2384,29 @@
           "vis": "Meter swings to RAW / Then climbs / Past the middle / Lands deep in SWEET",
           "shots": [
             {
-              "t": 492.2,
+              "t": 496.3,
               "dur": 2.24,
               "vis": "Meter swings to RAW"
             },
             {
-              "t": 494.5,
+              "t": 498.5,
               "dur": 2.24,
               "vis": "Then climbs"
             },
             {
-              "t": 496.7,
+              "t": 500.7,
               "dur": 2.24,
               "vis": "Past the middle"
             },
             {
-              "t": 499.0,
+              "t": 503.0,
               "dur": 2.24,
               "vis": "Lands deep in SWEET"
             }
           ],
           "card": "OUR VERDICT: SWEET, IF YOU LAND WELL",
           "meter": 80,
-          "_t": 492.2,
+          "_t": 496.3,
           "_dur": 8.95,
           "_beats": "RPS"
         },
@@ -2412,17 +2417,17 @@
           "vis": "Callback: the same newborn shot from 0:00 / Slow push on the sealed eyes",
           "shots": [
             {
-              "t": 501.2,
+              "t": 505.2,
               "dur": 2.62,
               "vis": "Callback: the same newborn shot from 0:00"
             },
             {
-              "t": 503.8,
+              "t": 507.8,
               "dur": 2.62,
               "vis": "Slow push on the sealed eyes"
             }
           ],
-          "_t": 501.2,
+          "_t": 505.2,
           "_dur": 5.24,
           "_beats": "R"
         },
@@ -2432,12 +2437,12 @@
           "vis": "Noodle trots past, carrying a dinner roll / Meatball's empty plate",
           "shots": [
             {
-              "t": 506.4,
+              "t": 510.4,
               "dur": 2.78,
               "vis": "Noodle trots past, carrying a dinner roll; then Meatball's empty plate"
             }
           ],
-          "_t": 506.4,
+          "_t": 510.4,
           "_dur": 2.78,
           "_beats": "CJ"
         },
@@ -2447,12 +2452,12 @@
           "vis": "Meatball stamps SWEET / Sauce asleep on the stamp pad, paw prints everywhere",
           "shots": [
             {
-              "t": 509.2,
+              "t": 513.2,
               "dur": 3.39,
               "vis": "Meatball stamps SWEET; then Sauce asleep on the stamp pad, paw prints everywhere"
             }
           ],
-          "_t": 509.2,
+          "_t": 513.2,
           "_dur": 3.39,
           "_beats": "CJ"
         },
@@ -2462,17 +2467,17 @@
           "vis": "Sauce sits up, looks at camera / End screen: house cat video tile; Meatball points at it",
           "shots": [
             {
-              "t": 512.6,
+              "t": 516.6,
               "dur": 2.01,
               "vis": "Sauce sits up, looks at camera"
             },
             {
-              "t": 514.6,
+              "t": 518.6,
               "dur": 2.01,
               "vis": "End screen: house cat video tile; Meatball points at it"
             }
           ],
-          "_t": 512.6,
+          "_t": 516.6,
           "_dur": 4.01,
           "_beats": "CR"
         }
@@ -2482,13 +2487,13 @@
   "pinned_comment": "Meatball wants to know: which of the 8 gets you? Drop the number. Meatball's stamp: sweet. Sauce's: asleep on the pad.",
   "mid_video_comment_prompt": {
     "id": "s5.l1",
-    "t": 219.9,
+    "t": 221.1,
     "say": "Meatball wants to know which of the first four gets you. The box, the clock, the shots, or the shelter. Pick a number and put it in the comments.",
     "on_screen": "COMMENT: WHICH ONE GETS YOU? 1, 2, 3 OR 4"
   },
   "end_screen_video": "Your Life as a House Cat: 8 Ways It Goes Wrong (posted.csv: YouTube, Fri 11/13 17:00 ET, live).",
   "sources_file": "/workspace/drafts/facts/dog-bornas.md (box draft; would become research/<next>-dog-life-factpack.md if approved)",
-  "description": "What is life like for a dog? This is your whole life as one, from eyes shut in a litter of about five to a grey muzzle: 8 things you have to get through, then the verdict. Meatball tried all eight at home, with his dog, Noodle, as the real dog and his cat, Sauce, as everybody else.\n\nChecked facts in this video:\n- Puppies are born with their eyes and ears closed; they open at about 13 to 19 days (Merck Veterinary Manual).\n- In Norwegian purebred records, 8% of puppies died before 8 days old (Tønnessen et al. 2012).\n- Behavior problems are the number one reason dogs are given up to shelters (AVSAB).\n- Parvovirus: puppies under 4 months and dogs not fully vaccinated are at increased risk. If your puppy shows signs (no appetite, vomiting, fever, severe or bloody diarrhea), call your veterinarian right away (AVMA).\n- Chocolate is toxic to dogs; theobromine can cause mild signs at doses as low as 9 mg per pound of body weight (FDA).\n- Xylitol can drop a dog's blood sugar within 10 to 60 minutes. If you think your dog ate xylitol, chocolate, grapes, raisins, onions or garlic, note how much and call your vet, an emergency clinic, or animal poison control right away (FDA, ASPCA). ASPCA Animal Poison Control: (888) 426-4435.\n- Never leave a dog alone in a parked car, no matter the outdoor temperature or how long you'll be gone. A car can rise about 20°F in 10 minutes (AVMA).\n- Overweight dogs had a shorter median life in all 12 breeds studied (Salt et al. 2019).\n- Dogs don't age 7 human years per dog year (AVMA).\n\nGeneral information, not veterinary advice. Ask your vet about your own dog.\n\nSources:\n- Merck Veterinary Manual, Social Behavior of Dogs: https://www.merckvetmanual.com/behavior/behavior-of-dogs/social-behavior-of-dogs ; Canine Parvovirus Infection: https://www.merckvetmanual.com/digestive-system/infectious-diseases-of-the-gastrointestinal-tract-in-small-animals/canine-parvovirus-infection-parvoviral-enteritis-in-dogs\n- Merck Veterinary Manual (dog owners), Normal Social Behavior in Dogs: https://www.merckvetmanual.com/dog-owners/behavior-of-dogs/normal-social-behavior-in-dogs\n- Borge KS, Tønnessen R, Nødtvedt A, Indrebø A (2011) Litter size at birth in purebred dogs: a retrospective study of 224 breeds. Theriogenology 75:911-919. https://pubmed.ncbi.nlm.nih.gov/21196028/\n- Tønnessen R, Borge KS, Nødtvedt A, Indrebø A (2012) Canine perinatal mortality: a cohort study of 224 breeds. Theriogenology 77:1788-1801. https://pubmed.ncbi.nlm.nih.gov/22365700/\n- American Veterinary Society of Animal Behavior, Position Statement on Puppy Socialization: https://avsab.org/wp-content/uploads/2024/12/Puppy-Socialization-Position-Statement-FINAL.pdf\n- AVMA: Canine parvovirus brochure https://ebusiness.avma.org/files/productdownloads/MCM-ClientBrochures-20-CanineParvovirus.pdf ; Pet safety in vehicles https://www.avma.org/resources-tools/pet-owners/petcare/pets-vehicles ; Pet dental care https://www.avma.org/resources-tools/pet-owners/petcare/pet-dental-care ; Senior pets https://www.avma.org/resources-tools/pet-owners/petcare/senior-pets\n- ASPCA, Pet Statistics (2025 shelter estimates): https://www.aspca.org/helping-people-pets/shelter-intake-and-surrender/pet-statistics ; People Foods to Avoid Feeding Your Pets: https://www.aspca.org/pet-care/aspca-poison-control/people-foods-avoid-feeding-your-pets\n- ASPCA Animal Poison Control Center, (888) 426-4435\n- FDA, Leave Chocolate Out of Rover's Celebrations: https://www.fda.gov/animal-veterinary/animal-health-literacy/leave-chocolate-out-rovers-celebrations ; Paws Off Xylitol; It's Dangerous for Dogs: https://www.fda.gov/consumers/consumer-updates/paws-xylitol-its-dangerous-dogs\n- Kealy RD et al. (2002) Effects of diet restriction on life span and age-related changes in dogs. JAVMA 220:1315-1320. https://pubmed.ncbi.nlm.nih.gov/11991408/\n- Salt C et al. (2019) Association between life span and body condition in neutered client-owned dogs. J Vet Intern Med 33:89-99. https://pmc.ncbi.nlm.nih.gov/articles/PMC6335446/\n- McMillan KM et al. (2024) Longevity of companion dog breeds: those at risk from early death. Scientific Reports 14:531. https://pmc.ncbi.nlm.nih.gov/articles/PMC10834484/\n- Wang T et al. (2020) Quantitative translation of dog-to-human aging by conserved remodeling of the DNA methylome. Cell Systems 11:176-185. https://pmc.ncbi.nlm.nih.gov/articles/PMC7484147/\n- American Kennel Club, Why Does My Dog Sniff Everything?: https://www.akc.org/expert-advice/training/why-does-my-dog-sniff-everything/\n- Nagasawa M et al. (2015) Oxytocin-gaze positive loop and the coevolution of human-dog bonds. Science 348:333-336. https://pubmed.ncbi.nlm.nih.gov/25883356/\n- Fiset S, Plourde V (2015) Commentary: Oxytocin-gaze positive loop and the coevolution of human-dog bonds. Frontiers in Psychology 6:1845. https://pmc.ncbi.nlm.nih.gov/articles/PMC4663257/\n- Penn Vet, Dog Body Language Basics: https://www.vet.upenn.edu/wp-content/uploads/2024/12/dogbodylanguagebasics-pdf.pdf\n\n#dog #puppy #dogfacts #meatballmyths",
+  "description": "What is life like for a dog? This is your whole life as one, from eyes shut in a litter of about five to a grey muzzle: 8 things you have to get through, then the verdict. Meatball tried all eight at home, with his dog, Noodle, as the real dog and his cat, Sauce, as everybody else.\n\nChecked facts in this video:\n- Puppies are born with their eyes and ears closed; they open at about 13 to 19 days (Merck Veterinary Manual).\n- In Norwegian purebred records, 8% of puppies died before 8 days old (Tønnessen et al. 2012).\n- Behavior problems are the number one reason dogs are given up to shelters (AVSAB).\n- Parvovirus: puppies under 4 months and dogs not adequately vaccinated are at increased risk. If your puppy shows signs (no appetite, vomiting, fever, severe or bloody diarrhea), call your veterinarian right away (AVMA).\n- Chocolate is toxic to dogs; theobromine can cause mild signs at doses as low as 9 mg per pound of body weight (FDA).\n- Xylitol can drop a dog's blood sugar within 10 to 60 minutes. If you think your dog ate xylitol, chocolate, grapes, raisins, onions or garlic, note how much and call your vet, an emergency clinic, or animal poison control right away (FDA, ASPCA). ASPCA Animal Poison Control: (888) 426-4435.\n- Never leave a dog alone in a parked car, no matter the outdoor temperature or how long you'll be gone. A car can rise about 20°F in 10 minutes (AVMA).\n- Overweight dogs had a shorter median life in all 12 breeds studied (Salt et al. 2019).\n- Dogs don't age 7 human years per dog year (AVMA).\n\nGeneral information, not veterinary advice. Ask your vet about your own dog.\n\nSources:\n- Merck Veterinary Manual, Social Behavior of Dogs: https://www.merckvetmanual.com/behavior/behavior-of-dogs/social-behavior-of-dogs ; Canine Parvovirus Infection: https://www.merckvetmanual.com/digestive-system/infectious-diseases-of-the-gastrointestinal-tract-in-small-animals/canine-parvovirus-infection-parvoviral-enteritis-in-dogs\n- Merck Veterinary Manual (dog owners), Normal Social Behavior in Dogs: https://www.merckvetmanual.com/dog-owners/behavior-of-dogs/normal-social-behavior-in-dogs\n- Borge KS, Tønnessen R, Nødtvedt A, Indrebø A (2011) Litter size at birth in purebred dogs: a retrospective study of 224 breeds. Theriogenology 75:911-919. https://pubmed.ncbi.nlm.nih.gov/21196028/\n- Tønnessen R, Borge KS, Nødtvedt A, Indrebø A (2012) Canine perinatal mortality: a cohort study of 224 breeds. Theriogenology 77:1788-1801. https://pubmed.ncbi.nlm.nih.gov/22365700/\n- American Veterinary Society of Animal Behavior, Position Statement on Puppy Socialization: https://avsab.org/wp-content/uploads/2024/12/Puppy-Socialization-Position-Statement-FINAL.pdf\n- AVMA: Canine parvovirus brochure https://ebusiness.avma.org/files/productdownloads/MCM-ClientBrochures-20-CanineParvovirus.pdf ; Pet safety in vehicles https://www.avma.org/resources-tools/pet-owners/petcare/pets-vehicles ; Pet dental care https://www.avma.org/resources-tools/pet-owners/petcare/pet-dental-care ; Senior pets https://www.avma.org/resources-tools/pet-owners/petcare/senior-pets\n- ASPCA, Pet Statistics (2025 shelter estimates): https://www.aspca.org/helping-people-pets/shelter-intake-and-surrender/pet-statistics ; People Foods to Avoid Feeding Your Pets: https://www.aspca.org/pet-care/aspca-poison-control/people-foods-avoid-feeding-your-pets\n- ASPCA Animal Poison Control Center, (888) 426-4435\n- FDA, Leave Chocolate Out of Rover's Celebrations: https://www.fda.gov/animal-veterinary/animal-health-literacy/leave-chocolate-out-rovers-celebrations ; Paws Off Xylitol; It's Dangerous for Dogs: https://www.fda.gov/consumers/consumer-updates/paws-xylitol-its-dangerous-dogs\n- Kealy RD et al. (2002) Effects of diet restriction on life span and age-related changes in dogs. JAVMA 220:1315-1320. https://pubmed.ncbi.nlm.nih.gov/11991408/\n- Salt C et al. (2019) Association between life span and body condition in neutered client-owned dogs. J Vet Intern Med 33:89-99. https://pmc.ncbi.nlm.nih.gov/articles/PMC6335446/\n- McMillan KM et al. (2024) Longevity of companion dog breeds: those at risk from early death. Scientific Reports 14:531. https://pmc.ncbi.nlm.nih.gov/articles/PMC10834484/\n- Wang T et al. (2020) Quantitative translation of dog-to-human aging by conserved remodeling of the DNA methylome. Cell Systems 11:176-185. https://pmc.ncbi.nlm.nih.gov/articles/PMC7484147/\n- American Kennel Club, Why Does My Dog Sniff Everything?: https://www.akc.org/expert-advice/training/why-does-my-dog-sniff-everything/\n- Nagasawa M et al. (2015) Oxytocin-gaze positive loop and the coevolution of human-dog bonds. Science 348:333-336. https://pubmed.ncbi.nlm.nih.gov/25883356/\n- Fiset S, Plourde V (2015) Commentary: Oxytocin-gaze positive loop and the coevolution of human-dog bonds. Frontiers in Psychology 6:1845. https://pmc.ncbi.nlm.nih.gov/articles/PMC4663257/\n- Penn Vet, Dog Body Language Basics: https://www.vet.upenn.edu/wp-content/uploads/2024/12/dogbodylanguagebasics-pdf.pdf\n\n#dog #puppy #dogfacts #meatballmyths",
   "art_needed": [
     "Newborn puppy and litter of five with mother; eyes sealed (DB1). Lines: s0.*, s1.*, s11.l4.",
     "Puppy at about two weeks with eyes opening; puppy class with mats; trainer's hand. Lines: s1.l5, s2.*, s3.l8.",
@@ -2526,7 +2531,7 @@
   "_changelog": [
     "Cut the 320,000 euthanized figure (and the 530,000 transferred clause) from s4.l4. Used the written fallback: 'About two million of those dogs were adopted, and 542,000 went back to their owners.' Re-timed the chapter; shots stay in the 2-4 s test (short voiced number cards excepted).",
     "Kept the cancer line at s9.l10. DB29 quotes AVMA (senior-pets page): 'Cancer is the cause of death in almost half of dogs and about a third of cats over 10 years old.' The spoken line keeps the dog half of that wording. On-screen tag is AVMA. The twice-a-year vet-checkup line (DB36) follows in the same spoken line. Card: ALMOST HALF OF DOGS OVER 10.",
-    "Mid-rolls: kept the primary after chapter 2 (The clock) at 2:24.2. Moved the old 3:38 primary (after chapter 4, Where you end up) to the later alternate after chapter 5 (The kitchen) at 4:51.0. Those two are 2:26.8 apart. Demoted the mid-roll after chapter 6 (The parked car) to alt so a third primary would not sit ~41 s later, and because that break followed the parked-car safety lines. The alt after chapter 8 (Time) stays alt; it follows the cancer pause line. Each primary sits in the 0.3 s chapter gap, not mid-joke and not on a safety line.",
+    "Mid-rolls: kept the primary after chapter 2 (The clock) at 2:25.4. Moved the old 3:38 primary (after chapter 4, Where you end up) to the later alternate after chapter 5 (The kitchen) at 4:55.0. Those two are 2:29.6 apart. Demoted the mid-roll after chapter 6 (The parked car) to alt so a third primary would not sit ~41 s later, and because that break followed the parked-car safety lines. The alt after chapter 8 (Time) stays alt; it follows the cancer pause line. Each primary sits in the 0.3 s chapter gap, not mid-joke and not on a safety line.",
     "Dates: 12/12 vs 12/19 is pending a decision. Do not book either date yet. Ready by Wed 12/9.",
     "Teasers were refit to the Shorts test spec in `/workspace/drafts/dog-teasers.md`: 16-18 s, 1-second hook (searched question fused with the payoff), open comment question, loop on 'And,' no spoken source credit."
   ],
@@ -2549,7 +2554,7 @@
     },
     {
       "line": "mid-video prompt s5.l1",
-      "question": "The comment prompt lands at 3:39.9, at the halfway re-hook, about 38 s before the speech midpoint (4:18.3), because chapters 5 to 8 run longer. Social Studio did not rule on moving it this pass.",
+      "question": "The comment prompt lands at 3:41.1, at the halfway re-hook, about 39 s before the speech midpoint (4:20.3), because chapters 5 to 8 run longer. Social Studio did not rule on moving it this pass.",
       "fallback": "Move the Halfway segment after chapter 5 (kitchen) if Social Studio wants it nearer the clock midpoint; the prompt would then list five tiles."
     }
   ],
@@ -2563,14 +2568,14 @@
   "_masterorders_check": [
     "Title: MASTER_ORDERS, posted.csv and the topic CSV (research/data/100-longform-topic-candidates.csv, row 2 'dog', shape S6) do not name a dog title; the CSV's SERP phrase is 'why it sucks to be born as a dog'. The given title is used.",
     "Date: 12/12 vs 12/19 is pending a decision. MASTER_ORDERS line 217 still says 'dog 12/12, wolf 12/19' and line 69 says 'dog and wolf by the data's rank ... on 12/19 and 12/26'; Side-hustles packaging/related-video-rule.md has the dog on Sat 12/19 08:00. Social Studio is putting that conflict to Claude in TASKS.md. Ready by Wed 12/9. Do not book either date yet.",
-    "Spoken sourcing: MASTER_ORDERS does not require spoken credits in long-forms (same reading as lion v2). Each safety line keeps its condition aloud: 'if your puppy shows any of them, call your vet right away'; 'if you think your dog ate any of these, note how much, and call your vet or an animal poison control line right away'; 'never leave a dog alone in a parked car, no matter the outdoor temperature or how long you think you'll be'.",
+    "Spoken sourcing: MASTER_ORDERS does not require spoken credits in long-forms (same reading as lion v2). Each safety line keeps its condition aloud: 'if your puppy shows any of them, call your vet right away'; 'if you think your dog ate any of these, note how much, and call your vet or an animal poison control line right away'; 'never leave a dog alone in a parked car, no matter the outdoor temperature or how long you think you'll be'; puppy class 'as long as you've had at least one set of shots a week before, and a first deworming'; onions 'dogs are also at risk depending on the amount'.",
     "Shot rhythm: research 100 (MASTER_ORDERS line 269) found opening cut rate made no measurable difference; the 2-4 s rule is a test per Social Studio. Not a blocker.",
     "Count and order in the first 15 s: 'eight things' by 4.6 s; 'They hit you in order' at 0:14.8.",
-    "No joke, intro or comment ask before 0:25: first joke 0:40.1, comment prompt 3:39.9.",
+    "No joke, intro or comment ask before 0:25: first joke 0:40.1, comment prompt 3:41.1.",
     "No spoken countdowns; every number card is a voiced 'Number X' line; chapter gaps are 0.3 s.",
     "Pinned comment (open question, not yes/no): matches the pick-a-number prompt, the style Social Studio approved.",
     "Overlap with queued Shorts: open-dates-1121-1204.md has a dog-years Short (Tue 11/24, Wang 2020) and a dog-chocolate Short (Tue 12/01, FDA). The long-form uses the same facts in passing; no conflict, and the teasers avoid both topics.",
-    "Length: 8:48.6 at 194.5 wpm, above 8:00 with about 49 s of margin; about 9:30.0 at the ~180 wpm the polar render ran."
+    "Length: 8:52.6 at 194.5 wpm, above 8:00 with about 53 s of margin; about 9:34.3 at the ~180 wpm the polar render ran."
   ],
   "_notes": [
     "Noodle lines (6): s1.l3, s3.l7, s4.l6, s8.l6, s10.l4, s11.l5. Planted at s1.l3; he ends up with Meatball's sock, treat bag, plate, sandwich and dinner roll. No toxic food or cooked bone is ever shown with Noodle.",
@@ -2578,7 +2583,7 @@
     "No joke on or right after the parvo-death line (s3.l5), the shelter outcomes (s4.l4, euthanasia figure cut) or the cancer line (s9.l10, kept with AVMA tag).",
     "Reused: chocolate.md (CH-F1, F3, F4, F10 -> DB15, DB16, DB21), dogs-lick.md (DL-F1 -> DB35), skills repo dog-stare.md (DOGS1, DOGS5, DOGS6 -> DB34). No dog born-as script, outline or pack existed."
   ],
-  "_factcheck": "Not yet checked by a second model. Every fact line carries its DB ID in 'src'.",
+  "_factcheck": "Fact-check applied 2026-11-15 evening ET from /workspace/drafts/factcheck-dog-bornas-1116.md: s2.l10 deworming restored; s3.l3 'adequately vaccinated'; s6.l8 'depending on the amount'. s0.l1 left unchanged (optional hedge; would blur Borge 2011 with Tønnessen 2012). Every fact line carries its DB ID in 'src'.",
   "builder": "drawn_polarlife (assumed; a dog shot set like tools/drawn_pb_shots.py would be needed)",
   "pause_lines": [
     "s3.l5",
@@ -2590,23 +2595,23 @@
   "end_label_short": "YOUR LIFE AS A HOUSE CAT",
   "_timing": {
     "wpm": 194.5,
-    "words": 1664,
+    "words": 1677,
     "chapter_gap_s": 0.3,
-    "speech_s": 516.6,
-    "runtime_s": 528.6,
-    "runtime": "8:48.6",
+    "speech_s": 520.6,
+    "runtime_s": 532.6,
+    "runtime": "8:52.6",
     "promise_spoken_by_s": 4.63,
     "first_joke_s": 40.1,
-    "comment_prompt_s": 219.9,
-    "speech_midpoint_s": 258.3,
+    "comment_prompt_s": 221.1,
+    "speech_midpoint_s": 260.3,
     "mild_words": 7,
     "longest_shot_hold_s": 3.7,
     "longest_shot_hold_at": "s9.l9 shot 0",
-    "shots": 218,
+    "shots": 219,
     "shots_under_2s": 10,
     "max_gap_s": {
       "peak": 34.5,
-      "character": 75.0,
+      "character": 76.2,
       "retention": 67.9
     }
   }
