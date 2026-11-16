@@ -336,20 +336,20 @@
         },
         {
           "id": "s1.l8",
-          "say": "Lionesses nurse each other's cubs, mostly among close relatives.",
+          "say": "Lionesses nurse each other's cubs.",
           "src": "LB7",
           "source_tag": "San Diego Zoo Wildlife Alliance fact sheet",
           "vis": "Two lionesses lying together, cubs feeding from both",
           "shots": [
             {
               "t": 67.5,
-              "dur": 2.78,
+              "dur": 1.54,
               "vis": "Two lionesses lying together, cubs feeding from both"
             }
           ],
           "meter": 56,
           "_t": 67.5,
-          "_dur": 2.78,
+          "_dur": 1.54,
           "_beats": ""
         },
         {
@@ -360,17 +360,17 @@
           "vis": "An older cub sneaks in among the small ones / Lioness side-eyes him",
           "shots": [
             {
-              "t": 70.3,
+              "t": 69.1,
               "dur": 2.16,
               "vis": "An older cub sneaks in among the small ones"
             },
             {
-              "t": 72.5,
+              "t": 71.3,
               "dur": 2.16,
               "vis": "Lioness side-eyes him"
             }
           ],
-          "_t": 70.3,
+          "_t": 69.1,
           "_dur": 4.32,
           "_beats": ""
         },
@@ -380,17 +380,17 @@
           "vis": "Meatball crouched at the dog bowl / Noodle stares, tilts head",
           "shots": [
             {
-              "t": 74.6,
+              "t": 73.4,
               "dur": 1.7,
               "vis": "Meatball crouched at the dog bowl"
             },
             {
-              "t": 76.3,
+              "t": 75.1,
               "dur": 1.7,
               "vis": "Noodle stares, tilts head"
             }
           ],
-          "_t": 74.6,
+          "_t": 73.4,
           "_dur": 3.39,
           "_beats": "CJ"
         },
@@ -402,19 +402,19 @@
           "vis": "Big cubs shoulder in at feeding time / Smallest cub pushed to the edge of the pile; meter dips",
           "shots": [
             {
-              "t": 78.0,
+              "t": 76.8,
               "dur": 2.93,
               "vis": "Big cubs shoulder in at feeding time"
             },
             {
-              "t": 81.0,
+              "t": 79.7,
               "dur": 2.93,
               "vis": "Smallest cub pushed to the edge of the pile; meter dips"
             }
           ],
           "card": "YOUNGEST: HIGHEST MORTALITY",
           "meter": 46,
-          "_t": 78.0,
+          "_t": 76.8,
           "_dur": 5.86,
           "_beats": "P"
         },
@@ -424,31 +424,31 @@
           "vis": "Stamp slams down: RAW / Whip-pan to an empty savanna at dusk",
           "shots": [
             {
-              "t": 83.9,
+              "t": 82.7,
               "dur": 1.39,
               "vis": "Stamp slams down: RAW"
             },
             {
-              "t": 85.3,
+              "t": 84.1,
               "dur": 1.69,
               "vis": "Whip-pan to an empty savanna at dusk"
             }
           ],
-          "_t": 83.9,
+          "_t": 82.7,
           "_dur": 2.78,
           "_beats": "CR"
         }
       ],
       "_midroll_after": {
         "type": "alt",
-        "at": 86.8,
+        "at": 85.6,
         "note": "Break in the 0.3 s gap after this chapter's last line, before the next voiced number line. Never mid-sentence."
       }
     },
     {
       "chapter": "2. The odds",
       "chip": "2 OF 8",
-      "_start": 87.0,
+      "_start": 85.7,
       "lines": [
         {
           "id": "s2.l0",
@@ -456,13 +456,13 @@
           "vis": "Voiced number card",
           "shots": [
             {
-              "t": 87.0,
+              "t": 85.7,
               "dur": 1.23,
               "vis": "Voiced number card"
             }
           ],
           "card": "2 OF 8: THE ODDS",
-          "_t": 87.0,
+          "_t": 85.7,
           "_dur": 1.23,
           "_beats": ""
         },
@@ -474,24 +474,24 @@
           "vis": "Split screen: left bar fills to UP TO 80%, AGE 2 / Right bar fills to AVG 60%, YEAR 1 / Both bars pulse; cub silhouettes thin out beneath them",
           "shots": [
             {
-              "t": 88.2,
+              "t": 87.0,
               "dur": 2.47,
               "vis": "Split screen: left bar fills to UP TO 80%, AGE 2"
             },
             {
-              "t": 90.7,
+              "t": 89.4,
               "dur": 2.47,
               "vis": "Right bar fills to AVG 60%, YEAR 1"
             },
             {
-              "t": 93.1,
+              "t": 91.9,
               "dur": 2.47,
               "vis": "Both bars pulse; cub silhouettes thin out beneath them"
             }
           ],
           "card": "UP TO 80% BY 2 / AVG 60% IN YEAR 1",
           "meter": 34,
-          "_t": 88.2,
+          "_t": 87.0,
           "_dur": 7.4,
           "_beats": "P"
         },
@@ -503,12 +503,12 @@
           "vis": "Map of Africa; pins drop on the Serengeti and Kruger",
           "shots": [
             {
-              "t": 95.6,
+              "t": 94.4,
               "dur": 3.08,
               "vis": "Map of Africa; pins drop on the Serengeti and Kruger"
             }
           ],
-          "_t": 95.6,
+          "_t": 94.4,
           "_dur": 3.08,
           "_beats": ""
         },
@@ -518,17 +518,17 @@
           "vis": "Meatball at the kitchen table, reading / Slowly buckles a bike helmet",
           "shots": [
             {
-              "t": 98.7,
+              "t": 97.5,
               "dur": 2.01,
               "vis": "Meatball at the kitchen table, reading"
             },
             {
-              "t": 100.7,
+              "t": 99.5,
               "dur": 2.01,
               "vis": "Slowly buckles a bike helmet"
             }
           ],
-          "_t": 98.7,
+          "_t": 97.5,
           "_dur": 4.01,
           "_beats": "CJS"
         },
@@ -540,17 +540,17 @@
           "vis": "Icon 1 and 2 drop in / Icons 3 and 4 drop in",
           "shots": [
             {
-              "t": 102.7,
+              "t": 101.5,
               "dur": 1.7,
               "vis": "Icon 1 and 2 drop in"
             },
             {
-              "t": 104.4,
+              "t": 103.2,
               "dur": 1.7,
               "vis": "Icons 3 and 4 drop in"
             }
           ],
-          "_t": 102.7,
+          "_t": 101.5,
           "_dur": 3.39,
           "_beats": ""
         },
@@ -562,12 +562,12 @@
           "vis": "Buffalo herd thunders past at low angle",
           "shots": [
             {
-              "t": 106.1,
+              "t": 104.9,
               "dur": 2.47,
               "vis": "Buffalo herd thunders past at low angle"
             }
           ],
-          "_t": 106.1,
+          "_t": 104.9,
           "_dur": 2.47,
           "_beats": "P"
         },
@@ -579,13 +579,13 @@
           "vis": "Three silhouettes slide in: leopard, hyena, lion",
           "shots": [
             {
-              "t": 108.6,
+              "t": 107.3,
               "dur": 2.78,
               "vis": "Three silhouettes slide in: leopard, hyena, lion"
             }
           ],
           "meter": 30,
-          "_t": 108.6,
+          "_t": 107.3,
           "_dur": 2.78,
           "_beats": ""
         },
@@ -597,19 +597,19 @@
           "vis": "Year-old cub, bigger, spots fading / Meter swings up toward SWEET",
           "shots": [
             {
-              "t": 111.3,
+              "t": 110.1,
               "dur": 2.16,
               "vis": "Year-old cub, bigger, spots fading"
             },
             {
-              "t": 113.5,
+              "t": 112.3,
               "dur": 2.16,
               "vis": "Meter swings up toward SWEET"
             }
           ],
           "card": "AFTER YEAR 1: UNDER 20%",
           "meter": 40,
-          "_t": 111.3,
+          "_t": 110.1,
           "_dur": 4.32,
           "_beats": "R"
         },
@@ -619,22 +619,22 @@
           "vis": "Party table, one candle / Noodle in the party hat / Empty plate, frosting on Noodle's nose",
           "shots": [
             {
-              "t": 115.7,
+              "t": 114.4,
               "dur": 1.75,
               "vis": "Party table, one candle"
             },
             {
-              "t": 117.4,
+              "t": 116.2,
               "dur": 1.75,
               "vis": "Noodle in the party hat"
             },
             {
-              "t": 119.2,
+              "t": 117.9,
               "dur": 1.75,
               "vis": "Empty plate, frosting on Noodle's nose"
             }
           ],
-          "_t": 115.7,
+          "_t": 114.4,
           "_dur": 5.24,
           "_beats": "CJ"
         },
@@ -645,31 +645,31 @@
           "vis": "Ridge at dusk: one big male / A second and third step up beside him",
           "shots": [
             {
-              "t": 120.9,
+              "t": 119.7,
               "dur": 2.93,
               "vis": "Ridge at dusk: one big male"
             },
             {
-              "t": 123.8,
+              "t": 122.6,
               "dur": 3.23,
               "vis": "A second and third step up beside him"
             }
           ],
-          "_t": 120.9,
+          "_t": 119.7,
           "_dur": 5.86,
           "_beats": "R"
         }
       ],
       "_midroll_after": {
         "type": "primary",
-        "at": 126.9,
+        "at": 125.7,
         "note": "Break in the 0.3 s gap after this chapter's last line, before the next voiced number line. Never mid-sentence."
       }
     },
     {
       "chapter": "3. The takeover",
       "chip": "3 OF 8",
-      "_start": 127.1,
+      "_start": 125.8,
       "lines": [
         {
           "id": "s3.l0",
@@ -677,13 +677,13 @@
           "vis": "Voiced number card",
           "shots": [
             {
-              "t": 127.1,
+              "t": 125.8,
               "dur": 1.23,
               "vis": "Voiced number card"
             }
           ],
           "card": "3 OF 8: THE TAKEOVER",
-          "_t": 127.1,
+          "_t": 125.8,
           "_dur": 1.23,
           "_beats": ""
         },
@@ -695,23 +695,23 @@
           "vis": "Old males resting by the pride / Timer bar runs to ~2 YEARS / New males watching from the long grass",
           "shots": [
             {
-              "t": 128.3,
+              "t": 127.1,
               "dur": 2.47,
               "vis": "Old males resting by the pride"
             },
             {
-              "t": 130.8,
+              "t": 129.5,
               "dur": 2.47,
               "vis": "Timer bar runs to ~2 YEARS"
             },
             {
-              "t": 133.2,
+              "t": 132.0,
               "dur": 2.47,
               "vis": "New males watching from the long grass"
             }
           ],
           "card": "ABOUT 2 YEARS",
-          "_t": 128.3,
+          "_t": 127.1,
           "_dur": 7.4,
           "_beats": ""
         },
@@ -723,19 +723,19 @@
           "vis": "Hard cut: the new males walk in / Cubs freeze; screen dims (no gore, nothing shown)",
           "shots": [
             {
-              "t": 135.7,
+              "t": 134.5,
               "dur": 2.47,
               "vis": "Hard cut: the new males walk in"
             },
             {
-              "t": 138.2,
+              "t": 136.9,
               "dur": 2.47,
               "vis": "Cubs freeze; screen dims (no gore, nothing shown)"
             }
           ],
           "card": "CUBS THAT CAN'T RUN",
           "meter": 16,
-          "_t": 135.7,
+          "_t": 134.5,
           "_dur": 4.94,
           "_beats": "P"
         },
@@ -747,18 +747,18 @@
           "vis": "Serengeti pin; four cub silhouettes, one fades / Cutaway: Meatball quietly takes off the cardboard mane",
           "shots": [
             {
-              "t": 140.6,
+              "t": 139.4,
               "dur": 2.31,
               "vis": "Serengeti pin; four cub silhouettes, one fades"
             },
             {
-              "t": 143.0,
+              "t": 141.7,
               "dur": 2.31,
               "vis": "Cutaway: Meatball quietly takes off the cardboard mane"
             }
           ],
           "card": "SERENGETI: OVER 1 IN 4",
-          "_t": 140.6,
+          "_t": 139.4,
           "_dur": 4.63,
           "_beats": "PC"
         },
@@ -768,22 +768,22 @@
           "vis": "Handwritten sign taped to the flap / Sauce pushes through without slowing / Sign flaps in the wind",
           "shots": [
             {
-              "t": 145.3,
+              "t": 144.0,
               "dur": 2.06,
               "vis": "Handwritten sign taped to the flap"
             },
             {
-              "t": 147.3,
+              "t": 146.1,
               "dur": 2.06,
               "vis": "Sauce pushes through without slowing"
             },
             {
-              "t": 149.4,
+              "t": 148.1,
               "dur": 2.06,
               "vis": "Sign flaps in the wind"
             }
           ],
-          "_t": 145.3,
+          "_t": 144.0,
           "_dur": 6.17,
           "_beats": "CJS"
         },
@@ -793,31 +793,31 @@
           "vis": "Stamp: RAW / Zebra herd grazing; lionesses' ears in the grass",
           "shots": [
             {
-              "t": 151.4,
+              "t": 150.2,
               "dur": 2.47,
               "vis": "Stamp: RAW"
             },
             {
-              "t": 153.9,
+              "t": 152.7,
               "dur": 2.77,
               "vis": "Zebra herd grazing; lionesses' ears in the grass"
             }
           ],
-          "_t": 151.4,
+          "_t": 150.2,
           "_dur": 4.94,
           "_beats": "CR"
         }
       ],
       "_midroll_after": {
         "type": "alt",
-        "at": 156.5,
+        "at": 155.3,
         "note": "Break in the 0.3 s gap after this chapter's last line, before the next voiced number line. Never mid-sentence."
       }
     },
     {
       "chapter": "4. Hunting school",
       "chip": "4 OF 8",
-      "_start": 156.7,
+      "_start": 155.4,
       "lines": [
         {
           "id": "s4.l0",
@@ -825,13 +825,13 @@
           "vis": "Voiced number card",
           "shots": [
             {
-              "t": 156.7,
+              "t": 155.4,
               "dur": 1.23,
               "vis": "Voiced number card"
             }
           ],
           "card": "4 OF 8: HUNTING SCHOOL",
-          "_t": 156.7,
+          "_t": 155.4,
           "_dur": 1.23,
           "_beats": ""
         },
@@ -843,28 +843,28 @@
           "vis": "Lionesses with cubs, then rising to go / Overhead: three lionesses fan out toward a herd / Distance ring shrinks to ~100 FT / Burst: the attack starts",
           "shots": [
             {
-              "t": 157.9,
+              "t": 156.7,
               "dur": 2.08,
               "vis": "Lionesses with cubs, then rising to go"
             },
             {
-              "t": 160.0,
+              "t": 158.8,
               "dur": 2.08,
               "vis": "Overhead: three lionesses fan out toward a herd"
             },
             {
-              "t": 162.1,
+              "t": 160.8,
               "dur": 2.08,
               "vis": "Distance ring shrinks to ~100 FT"
             },
             {
-              "t": 164.2,
+              "t": 162.9,
               "dur": 2.08,
               "vis": "Burst: the attack starts"
             }
           ],
           "card": "ABOUT 100 FT",
-          "_t": 157.9,
+          "_t": 156.7,
           "_dur": 8.33,
           "_beats": "P"
         },
@@ -874,22 +874,22 @@
           "vis": "Meatball crawls behind the couch / Angle-two pop-up label / Empty plate; Noodle chewing",
           "shots": [
             {
-              "t": 166.2,
+              "t": 165.0,
               "dur": 1.54,
               "vis": "Meatball crawls behind the couch"
             },
             {
-              "t": 167.8,
+              "t": 166.5,
               "dur": 1.54,
               "vis": "Angle-two pop-up label"
             },
             {
-              "t": 169.3,
+              "t": 168.1,
               "dur": 1.54,
               "vis": "Empty plate; Noodle chewing"
             }
           ],
-          "_t": 166.2,
+          "_t": 165.0,
           "_dur": 4.63,
           "_beats": "CJ"
         },
@@ -901,22 +901,22 @@
           "vis": "Big male lying in the shade while lionesses hunt / Gauge: 3-4% OF HUNTS / Second gauge: UNDER 10% OF THE TIME",
           "shots": [
             {
-              "t": 170.9,
+              "t": 169.6,
               "dur": 2.67,
               "vis": "Big male lying in the shade while lionesses hunt"
             },
             {
-              "t": 173.5,
+              "t": 172.3,
               "dur": 2.67,
               "vis": "Gauge: 3-4% OF HUNTS"
             },
             {
-              "t": 176.2,
+              "t": 175.0,
               "dur": 2.67,
               "vis": "Second gauge: UNDER 10% OF THE TIME"
             }
           ],
-          "_t": 170.9,
+          "_t": 169.6,
           "_dur": 8.02,
           "_beats": ""
         },
@@ -928,22 +928,22 @@
           "vis": "Young lioness charges too early; herd scatters / Older lioness waits, then goes / Same young lioness, older, makes it",
           "shots": [
             {
-              "t": 178.9,
+              "t": 177.7,
               "dur": 1.95,
               "vis": "Young lioness charges too early; herd scatters"
             },
             {
-              "t": 180.8,
+              "t": 179.6,
               "dur": 1.95,
               "vis": "Older lioness waits, then goes"
             },
             {
-              "t": 182.8,
+              "t": 181.6,
               "dur": 1.95,
               "vis": "Same young lioness, older, makes it"
             }
           ],
-          "_t": 178.9,
+          "_t": 177.7,
           "_dur": 5.86,
           "_beats": ""
         },
@@ -955,28 +955,28 @@
           "vis": "Lioness sprint, slow motion / Speed dial swings to 33, then 37 / Distance bar fills to 100-200 M and stops / Cutaway: Meatball sprints down the hallway, stops after three steps",
           "shots": [
             {
-              "t": 184.7,
+              "t": 183.5,
               "dur": 2.31,
               "vis": "Lioness sprint, slow motion"
             },
             {
-              "t": 187.1,
+              "t": 185.8,
               "dur": 2.31,
               "vis": "Speed dial swings to 33, then 37"
             },
             {
-              "t": 189.4,
+              "t": 188.1,
               "dur": 2.31,
               "vis": "Distance bar fills to 100-200 M and stops"
             },
             {
-              "t": 191.7,
+              "t": 190.5,
               "dur": 2.31,
               "vis": "Cutaway: Meatball sprints down the hallway, stops after three steps"
             }
           ],
           "card": "UP TO 33-37 MPH",
-          "_t": 184.7,
+          "_t": 183.5,
           "_dur": 9.25,
           "_beats": "PC"
         },
@@ -988,29 +988,29 @@
           "vis": "Lioness misses; dust settles / Bar 1: KALAHARI 38% / Bar 2: SERENGETI 23% / Bar 3: ETOSHA 15%",
           "shots": [
             {
-              "t": 194.0,
+              "t": 192.8,
               "dur": 1.77,
               "vis": "Lioness misses; dust settles"
             },
             {
-              "t": 195.8,
+              "t": 194.5,
               "dur": 1.77,
               "vis": "Bar 1: KALAHARI 38%"
             },
             {
-              "t": 197.5,
+              "t": 196.3,
               "dur": 1.77,
               "vis": "Bar 2: SERENGETI 23%"
             },
             {
-              "t": 199.3,
+              "t": 198.1,
               "dur": 1.77,
               "vis": "Bar 3: ETOSHA 15%"
             }
           ],
           "card": "HUNTS THAT WORKED: 15 TO 38%",
           "meter": 26,
-          "_t": 194.0,
+          "_t": 192.8,
           "_dur": 7.1,
           "_beats": "P"
         },
@@ -1022,17 +1022,17 @@
           "vis": "Single lioness, failing / Group of four, closing in",
           "shots": [
             {
-              "t": 201.1,
+              "t": 199.9,
               "dur": 2.16,
               "vis": "Single lioness, failing"
             },
             {
-              "t": 203.3,
+              "t": 202.0,
               "dur": 2.16,
               "vis": "Group of four, closing in"
             }
           ],
-          "_t": 201.1,
+          "_t": 199.9,
           "_dur": 4.32,
           "_beats": "R"
         },
@@ -1044,24 +1044,24 @@
           "vis": "Buffalo going down under three lionesses / Giraffe silhouette towers over a lion silhouette / Scale: 1 lion vs 2x block",
           "shots": [
             {
-              "t": 205.4,
+              "t": 204.2,
               "dur": 2.67,
               "vis": "Buffalo going down under three lionesses"
             },
             {
-              "t": 208.1,
+              "t": 206.9,
               "dur": 2.67,
               "vis": "Giraffe silhouette towers over a lion silhouette"
             },
             {
-              "t": 210.8,
+              "t": 209.5,
               "dur": 2.67,
               "vis": "Scale: 1 lion vs 2x block"
             }
           ],
           "card": "UP TO 2X ITS WEIGHT",
           "meter": 36,
-          "_t": 205.4,
+          "_t": 204.2,
           "_dur": 8.02,
           "_beats": "P"
         },
@@ -1073,18 +1073,18 @@
           "vis": "Dust cloud / A buffalo turns and lowers its horns",
           "shots": [
             {
-              "t": 213.4,
+              "t": 212.2,
               "dur": 1.85,
               "vis": "Dust cloud"
             },
             {
-              "t": 215.3,
+              "t": 214.1,
               "dur": 1.85,
               "vis": "A buffalo turns and lowers its horns"
             }
           ],
           "meter": 30,
-          "_t": 213.4,
+          "_t": 212.2,
           "_dur": 3.7,
           "_beats": ""
         },
@@ -1094,31 +1094,26 @@
           "vis": "Meatball charges the giant beanbag / Face-down, mane bent",
           "shots": [
             {
-              "t": 217.1,
+              "t": 215.9,
               "dur": 2.01,
               "vis": "Meatball charges the giant beanbag"
             },
             {
-              "t": 219.1,
+              "t": 217.9,
               "dur": 2.31,
               "vis": "Face-down, mane bent"
             }
           ],
-          "_t": 217.1,
+          "_t": 215.9,
           "_dur": 4.01,
           "_beats": "CJS"
         }
-      ],
-      "_midroll_after": {
-        "type": "primary",
-        "at": 221.3,
-        "note": "Break in the 0.3 s gap after this chapter's last line, before the next voiced number line. Never mid-sentence."
-      }
+      ]
     },
     {
       "chapter": "Halfway",
       "chip": "",
-      "_start": 221.4,
+      "_start": 220.2,
       "lines": [
         {
           "id": "s5.l0",
@@ -1126,18 +1121,18 @@
           "vis": "Four stamped tiles slide into a row / Close on the bent mane tile",
           "shots": [
             {
-              "t": 221.4,
+              "t": 220.2,
               "dur": 1.85,
               "vis": "Four stamped tiles slide into a row"
             },
             {
-              "t": 223.3,
+              "t": 222.1,
               "dur": 1.85,
               "vis": "Close on the bent mane tile"
             }
           ],
           "card": "HALFWAY",
-          "_t": 221.4,
+          "_t": 220.2,
           "_dur": 3.7,
           "_beats": "CR"
         },
@@ -1147,28 +1142,28 @@
           "vis": "Meatball holds up four fingers / Tile 1 and 2 light up as named / Tiles 3 and 4 light up / Comment pill slides up: WHICH ONE GETS YOU?",
           "shots": [
             {
-              "t": 225.2,
+              "t": 223.9,
               "dur": 2.01,
               "vis": "Meatball holds up four fingers"
             },
             {
-              "t": 227.2,
+              "t": 225.9,
               "dur": 2.01,
               "vis": "Tile 1 and 2 light up as named"
             },
             {
-              "t": 229.2,
+              "t": 227.9,
               "dur": 2.01,
               "vis": "Tiles 3 and 4 light up"
             },
             {
-              "t": 231.2,
+              "t": 229.9,
               "dur": 2.01,
               "vis": "Comment pill slides up: WHICH ONE GETS YOU?"
             }
           ],
           "card": "COMMENT: WHICH ONE GETS YOU? 1, 2, 3 OR 4",
-          "_t": 225.2,
+          "_t": 223.9,
           "_dur": 8.02,
           "_beats": "CRM"
         },
@@ -1180,23 +1175,23 @@
           "vis": "Split screen appears / Left: lioness with her sisters / Right: young male walking off alone",
           "shots": [
             {
-              "t": 233.2,
+              "t": 231.9,
               "dur": 2.67,
               "vis": "Split screen appears"
             },
             {
-              "t": 235.8,
+              "t": 234.6,
               "dur": 2.67,
               "vis": "Left: lioness with her sisters"
             },
             {
-              "t": 238.5,
+              "t": 237.3,
               "dur": 2.67,
               "vis": "Right: young male walking off alone"
             }
           ],
           "card": "IT SPLITS HERE",
-          "_t": 233.2,
+          "_t": 231.9,
           "_dur": 8.02,
           "_beats": "RP"
         },
@@ -1206,12 +1201,12 @@
           "vis": "Lions on a kill; hyena eyes glow in the dark behind them",
           "shots": [
             {
-              "t": 241.2,
+              "t": 240.0,
               "dur": 3.08,
               "vis": "Lions on a kill; hyena eyes glow in the dark behind them"
             }
           ],
-          "_t": 241.2,
+          "_t": 240.0,
           "_dur": 2.78,
           "_beats": "R"
         }
@@ -1220,7 +1215,7 @@
     {
       "chapter": "5. The neighbours",
       "chip": "5 OF 8",
-      "_start": 244.3,
+      "_start": 243.0,
       "lines": [
         {
           "id": "s6.l0",
@@ -1228,13 +1223,13 @@
           "vis": "Voiced number card",
           "shots": [
             {
-              "t": 244.3,
+              "t": 243.0,
               "dur": 1.23,
               "vis": "Voiced number card"
             }
           ],
           "card": "5 OF 8: THE NEIGHBOURS",
-          "_t": 244.3,
+          "_t": 243.0,
           "_dur": 1.23,
           "_beats": ""
         },
@@ -1246,22 +1241,22 @@
           "vis": "Lion chases a leopard off a kill / Hyena group circles a lioness / Lioness backs off the carcass",
           "shots": [
             {
-              "t": 245.5,
+              "t": 244.3,
               "dur": 1.95,
               "vis": "Lion chases a leopard off a kill"
             },
             {
-              "t": 247.5,
+              "t": 246.2,
               "dur": 1.95,
               "vis": "Hyena group circles a lioness"
             },
             {
-              "t": 249.4,
+              "t": 248.2,
               "dur": 1.95,
               "vis": "Lioness backs off the carcass"
             }
           ],
-          "_t": 245.5,
+          "_t": 244.3,
           "_dur": 5.86,
           "_beats": "P"
         },
@@ -1273,29 +1268,29 @@
           "vis": "Pie chart: whole kill / Slice 1 pulled away: HYENAS UP TO 20% / Slice 2 pulled away: OTHER LIONS 17% / Empty spot where the males should be",
           "shots": [
             {
-              "t": 251.4,
+              "t": 250.1,
               "dur": 2.24,
               "vis": "Pie chart: whole kill"
             },
             {
-              "t": 253.6,
+              "t": 252.4,
               "dur": 2.24,
               "vis": "Slice 1 pulled away: HYENAS UP TO 20%"
             },
             {
-              "t": 255.8,
+              "t": 254.6,
               "dur": 2.24,
               "vis": "Slice 2 pulled away: OTHER LIONS 17%"
             },
             {
-              "t": 258.1,
+              "t": 256.8,
               "dur": 2.24,
               "vis": "Empty spot where the males should be"
             }
           ],
           "card": "UP TO 20% TO HYENAS",
           "meter": 22,
-          "_t": 251.4,
+          "_t": 250.1,
           "_dur": 8.95,
           "_beats": "P"
         },
@@ -1307,13 +1302,13 @@
           "vis": "Big male arrives; hyenas back off a step",
           "shots": [
             {
-              "t": 260.3,
+              "t": 259.1,
               "dur": 2.16,
               "vis": "Big male arrives; hyenas back off a step"
             }
           ],
           "meter": 28,
-          "_t": 260.3,
+          "_t": 259.1,
           "_dur": 2.16,
           "_beats": ""
         },
@@ -1323,27 +1318,27 @@
           "vis": "Steak sizzling / Standoff: spatula vs Noodle / Sneeze / Noodle trotting off with the steak",
           "shots": [
             {
-              "t": 262.5,
+              "t": 261.2,
               "dur": 1.39,
               "vis": "Steak sizzling"
             },
             {
-              "t": 263.9,
+              "t": 262.6,
               "dur": 1.39,
               "vis": "Standoff: spatula vs Noodle"
             },
             {
-              "t": 265.2,
+              "t": 264.0,
               "dur": 1.39,
               "vis": "Sneeze"
             },
             {
-              "t": 266.6,
+              "t": 265.4,
               "dur": 1.39,
               "vis": "Noodle trotting off with the steak"
             }
           ],
-          "_t": 262.5,
+          "_t": 261.2,
           "_dur": 5.55,
           "_beats": "CJ"
         },
@@ -1355,23 +1350,23 @@
           "vis": "Lion feeding on a carcass it didn't kill / Dry scrub: 5% gauge / Open plain: 53% gauge",
           "shots": [
             {
-              "t": 268.0,
+              "t": 266.8,
               "dur": 2.67,
               "vis": "Lion feeding on a carcass it didn't kill"
             },
             {
-              "t": 270.7,
+              "t": 269.5,
               "dur": 2.67,
               "vis": "Dry scrub: 5% gauge"
             },
             {
-              "t": 273.4,
+              "t": 272.1,
               "dur": 2.67,
               "vis": "Open plain: 53% gauge"
             }
           ],
           "card": "SCAVENGED: 5% TO 53%",
-          "_t": 268.0,
+          "_t": 266.8,
           "_dur": 8.02,
           "_beats": "P"
         },
@@ -1381,12 +1376,12 @@
           "vis": "Quick montage: hyena, lion, vulture each grabbing",
           "shots": [
             {
-              "t": 276.0,
+              "t": 274.8,
               "dur": 2.78,
               "vis": "Quick montage: hyena, lion, vulture each grabbing"
             }
           ],
-          "_t": 276.0,
+          "_t": 274.8,
           "_dur": 2.78,
           "_beats": "JS"
         },
@@ -1396,31 +1391,31 @@
           "vis": "Stamp: RAW / Young male sitting at the edge of the pride",
           "shots": [
             {
-              "t": 278.8,
+              "t": 277.6,
               "dur": 2.01,
               "vis": "Stamp: RAW"
             },
             {
-              "t": 280.8,
+              "t": 279.6,
               "dur": 2.31,
               "vis": "Young male sitting at the edge of the pride"
             }
           ],
-          "_t": 278.8,
+          "_t": 277.6,
           "_dur": 4.01,
           "_beats": "CR"
         }
       ],
       "_midroll_after": {
         "type": "alt",
-        "at": 283.0,
+        "at": 281.7,
         "note": "Break in the 0.3 s gap after this chapter's last line, before the next voiced number line. Never mid-sentence."
       }
     },
     {
       "chapter": "6. Kicked out",
       "chip": "6 OF 8",
-      "_start": 283.1,
+      "_start": 281.9,
       "lines": [
         {
           "id": "s7.l0",
@@ -1428,18 +1423,18 @@
           "vis": "Voiced number card / Young male's ears flatten",
           "shots": [
             {
-              "t": 283.1,
+              "t": 281.9,
               "dur": 1.39,
               "vis": "Voiced number card"
             },
             {
-              "t": 284.5,
+              "t": 283.3,
               "dur": 1.39,
               "vis": "Young male's ears flatten"
             }
           ],
           "card": "6 OF 8: KICKED OUT",
-          "_t": 283.1,
+          "_t": 281.9,
           "_dur": 2.78,
           "_beats": ""
         },
@@ -1451,23 +1446,23 @@
           "vis": "Resident male charges / Young male runs / Age dial 2 to 4",
           "shots": [
             {
-              "t": 285.9,
+              "t": 284.7,
               "dur": 2.26,
               "vis": "Resident male charges"
             },
             {
-              "t": 288.2,
+              "t": 286.9,
               "dur": 2.26,
               "vis": "Young male runs"
             },
             {
-              "t": 290.4,
+              "t": 289.2,
               "dur": 2.26,
               "vis": "Age dial 2 to 4"
             }
           ],
           "card": "OUT AT ABOUT 2 TO 4",
-          "_t": 285.9,
+          "_t": 284.7,
           "_dur": 6.79,
           "_beats": "P"
         },
@@ -1479,17 +1474,17 @@
           "vis": "Lionesses lying together, same rock / Seasons pass on the same rock",
           "shots": [
             {
-              "t": 292.7,
+              "t": 291.5,
               "dur": 2.01,
               "vis": "Lionesses lying together, same rock"
             },
             {
-              "t": 294.7,
+              "t": 293.5,
               "dur": 2.01,
               "vis": "Seasons pass on the same rock"
             }
           ],
-          "_t": 292.7,
+          "_t": 291.5,
           "_dur": 4.01,
           "_beats": ""
         },
@@ -1501,23 +1496,23 @@
           "vis": "Wildebeest herd on the move / Two young males trailing it across open plain / Cutaway: Meatball dragging a suitcase down the sidewalk",
           "shots": [
             {
-              "t": 296.7,
+              "t": 295.5,
               "dur": 1.95,
               "vis": "Wildebeest herd on the move"
             },
             {
-              "t": 298.7,
+              "t": 297.4,
               "dur": 1.95,
               "vis": "Two young males trailing it across open plain"
             },
             {
-              "t": 300.6,
+              "t": 299.4,
               "dur": 1.95,
               "vis": "Cutaway: Meatball dragging a suitcase down the sidewalk"
             }
           ],
           "card": "NOMAD",
-          "_t": 296.7,
+          "_t": 295.5,
           "_dur": 5.86,
           "_beats": "C"
         },
@@ -1529,12 +1524,12 @@
           "vis": "Young male alone at dusk, sniffing a carcass",
           "shots": [
             {
-              "t": 302.6,
+              "t": 301.3,
               "dur": 2.16,
               "vis": "Young male alone at dusk, sniffing a carcass"
             }
           ],
-          "_t": 302.6,
+          "_t": 301.3,
           "_dur": 2.16,
           "_beats": ""
         },
@@ -1545,12 +1540,12 @@
           "vis": "Flash back to the lone-hunter shot from number four",
           "shots": [
             {
-              "t": 304.7,
+              "t": 303.5,
               "dur": 3.39,
               "vis": "Flash back to the lone-hunter shot from number four"
             }
           ],
-          "_t": 304.7,
+          "_t": 303.5,
           "_dur": 3.39,
           "_beats": "R"
         },
@@ -1562,14 +1557,14 @@
           "vis": "Long shot: small figure, huge empty landscape; meter drops",
           "shots": [
             {
-              "t": 308.1,
+              "t": 306.9,
               "dur": 2.16,
               "vis": "Long shot: small figure, huge empty landscape; meter drops"
             }
           ],
           "card": "HIGH NATURAL MORTALITY",
           "meter": 18,
-          "_t": 308.1,
+          "_t": 306.9,
           "_dur": 2.16,
           "_beats": "P"
         },
@@ -1581,22 +1576,22 @@
           "vis": "Map: long arrow for males / Short arrow for females / Kruger pin: arrows stay short",
           "shots": [
             {
-              "t": 310.3,
+              "t": 309.0,
               "dur": 2.06,
               "vis": "Map: long arrow for males"
             },
             {
-              "t": 312.3,
+              "t": 311.1,
               "dur": 2.06,
               "vis": "Short arrow for females"
             },
             {
-              "t": 314.4,
+              "t": 313.2,
               "dur": 2.06,
               "vis": "Kruger pin: arrows stay short"
             }
           ],
-          "_t": 310.3,
+          "_t": 309.0,
           "_dur": 6.17,
           "_beats": ""
         },
@@ -1606,22 +1601,22 @@
           "vis": "Front door shuts on Meatball / Through the window: Sauce in his chair / Meatball on the curb with a juice box",
           "shots": [
             {
-              "t": 316.4,
+              "t": 315.2,
               "dur": 2.06,
               "vis": "Front door shuts on Meatball"
             },
             {
-              "t": 318.5,
+              "t": 317.3,
               "dur": 2.06,
               "vis": "Through the window: Sauce in his chair"
             },
             {
-              "t": 320.6,
+              "t": 319.3,
               "dur": 2.06,
               "vis": "Meatball on the curb with a juice box"
             }
           ],
-          "_t": 316.4,
+          "_t": 315.2,
           "_dur": 6.17,
           "_beats": "CJS"
         },
@@ -1633,31 +1628,31 @@
           "vis": "Three young males fall in step / They crest a hill toward a distant pride",
           "shots": [
             {
-              "t": 322.6,
+              "t": 321.4,
               "dur": 2.31,
               "vis": "Three young males fall in step"
             },
             {
-              "t": 324.9,
+              "t": 323.7,
               "dur": 2.61,
               "vis": "They crest a hill toward a distant pride"
             }
           ],
-          "_t": 322.6,
+          "_t": 321.4,
           "_dur": 4.63,
           "_beats": "R"
         }
       ],
       "_midroll_after": {
         "type": "primary",
-        "at": 327.4,
+        "at": 326.2,
         "note": "Break in the 0.3 s gap after this chapter's last line, before the next voiced number line. Never mid-sentence."
       }
     },
     {
       "chapter": "7. Taking a pride",
       "chip": "7 OF 8",
-      "_start": 327.5,
+      "_start": 326.3,
       "lines": [
         {
           "id": "s8.l0",
@@ -1665,13 +1660,13 @@
           "vis": "Voiced number card",
           "shots": [
             {
-              "t": 327.5,
+              "t": 326.3,
               "dur": 2.47,
               "vis": "Voiced number card"
             }
           ],
           "card": "7 OF 8: TAKING A PRIDE",
-          "_t": 327.5,
+          "_t": 326.3,
           "_dur": 2.47,
           "_beats": ""
         },
@@ -1683,23 +1678,23 @@
           "vis": "Two males walking / Four males in a line / Eight silhouettes flash",
           "shots": [
             {
-              "t": 330.0,
+              "t": 328.8,
               "dur": 1.85,
               "vis": "Two males walking"
             },
             {
-              "t": 331.9,
+              "t": 330.6,
               "dur": 1.85,
               "vis": "Four males in a line"
             },
             {
-              "t": 333.7,
+              "t": 332.5,
               "dur": 1.85,
               "vis": "Eight silhouettes flash"
             }
           ],
           "card": "GROUPS OF 2 TO 4 (UP TO 8)",
-          "_t": 330.0,
+          "_t": 328.8,
           "_dur": 5.55,
           "_beats": ""
         },
@@ -1711,17 +1706,17 @@
           "vis": "Two males rear up, dust / One turns and runs",
           "shots": [
             {
-              "t": 335.6,
+              "t": 334.3,
               "dur": 2.93,
               "vis": "Two males rear up, dust"
             },
             {
-              "t": 338.5,
+              "t": 337.3,
               "dur": 2.93,
               "vis": "One turns and runs"
             }
           ],
-          "_t": 335.6,
+          "_t": 334.3,
           "_dur": 5.86,
           "_beats": "P"
         },
@@ -1733,17 +1728,17 @@
           "vis": "One male vs a coalition, timeline bars / Coalition bar doubles",
           "shots": [
             {
-              "t": 341.4,
+              "t": 340.2,
               "dur": 3.24,
               "vis": "One male vs a coalition, timeline bars"
             },
             {
-              "t": 344.7,
+              "t": 343.4,
               "dur": 3.24,
               "vis": "Coalition bar doubles"
             }
           ],
-          "_t": 341.4,
+          "_t": 340.2,
           "_dur": 6.48,
           "_beats": ""
         },
@@ -1755,18 +1750,18 @@
           "vis": "Small pride on a rock / Pull back: a huge pride, 40 dots counted",
           "shots": [
             {
-              "t": 347.9,
+              "t": 346.7,
               "dur": 2.31,
               "vis": "Small pride on a rock"
             },
             {
-              "t": 350.2,
+              "t": 349.0,
               "dur": 2.31,
               "vis": "Pull back: a huge pride, 40 dots counted"
             }
           ],
           "card": "PRIDE: SEVERAL TO 40",
-          "_t": 347.9,
+          "_t": 346.7,
           "_dur": 4.63,
           "_beats": ""
         },
@@ -1776,47 +1771,47 @@
           "vis": "Meatball holds out a paw-shake / Sauce turns and leaves",
           "shots": [
             {
-              "t": 352.5,
+              "t": 351.3,
               "dur": 2.16,
               "vis": "Meatball holds out a paw-shake"
             },
             {
-              "t": 354.7,
+              "t": 353.5,
               "dur": 2.16,
               "vis": "Sauce turns and leaves"
             }
           ],
-          "_t": 352.5,
+          "_t": 351.3,
           "_dur": 4.32,
           "_beats": "CJ"
         },
         {
           "id": "s8.l6",
-          "say": "Win, and you roar. Males and females both mark territory that way, and it carries up to three to five miles, depending on the source.",
+          "say": "Win, and you roar. Males and females both mark territory that way, and it carries up to three to five miles under some conditions, depending on the source.",
           "src": "LB33",
           "source_tag": "Smithsonian's National Zoo (5 mi); San Diego Zoo (3 mi); San Diego Zoo Wildlife Alliance fact sheet (5 km)",
           "vis": "Male roaring at dawn / Lioness roaring back / Sound rings spread across a map to 3, then 5 miles",
           "shots": [
             {
-              "t": 356.8,
-              "dur": 2.57,
+              "t": 355.6,
+              "dur": 2.88,
               "vis": "Male roaring at dawn"
             },
             {
-              "t": 359.4,
-              "dur": 2.57,
+              "t": 358.5,
+              "dur": 2.88,
               "vis": "Lioness roaring back"
             },
             {
-              "t": 362.0,
-              "dur": 2.57,
+              "t": 361.4,
+              "dur": 2.88,
               "vis": "Sound rings spread across a map to 3, then 5 miles"
             }
           ],
           "card": "ROAR: UP TO 3 TO 5 MILES",
           "meter": 50,
-          "_t": 356.8,
-          "_dur": 7.71,
+          "_t": 355.6,
+          "_dur": 8.64,
           "_beats": "P"
         },
         {
@@ -1827,24 +1822,24 @@
           "vis": "Hourglass over a resting male / Bar: 2-3 YEARS PER PRIDE / Bar: ABOUT 6 YEARS, WHOLE LIFE",
           "shots": [
             {
-              "t": 364.6,
+              "t": 364.3,
               "dur": 3.08,
               "vis": "Hourglass over a resting male"
             },
             {
-              "t": 367.6,
+              "t": 367.3,
               "dur": 3.08,
               "vis": "Bar: 2-3 YEARS PER PRIDE"
             },
             {
-              "t": 370.7,
+              "t": 370.4,
               "dur": 3.08,
               "vis": "Bar: ABOUT 6 YEARS, WHOLE LIFE"
             }
           ],
           "card": "ABOUT 6 YEARS, ALL LIFE",
           "meter": 34,
-          "_t": 364.6,
+          "_t": 364.3,
           "_dur": 9.25,
           "_beats": "P"
         },
@@ -1854,12 +1849,12 @@
           "vis": "Meatball counting on his fingers, stops at six",
           "shots": [
             {
-              "t": 373.8,
+              "t": 373.5,
               "dur": 2.47,
               "vis": "Meatball counting on his fingers, stops at six"
             }
           ],
-          "_t": 373.8,
+          "_t": 373.5,
           "_dur": 2.47,
           "_beats": "CJS"
         },
@@ -1869,26 +1864,26 @@
           "vis": "Tile 8 flips half-way",
           "shots": [
             {
-              "t": 376.3,
+              "t": 376.0,
               "dur": 2.77,
               "vis": "Tile 8 flips half-way"
             }
           ],
-          "_t": 376.3,
+          "_t": 376.0,
           "_dur": 2.47,
           "_beats": "R"
         }
       ],
       "_midroll_after": {
         "type": "alt",
-        "at": 378.9,
+        "at": 378.6,
         "note": "Break in the 0.3 s gap after this chapter's last line, before the next voiced number line. Never mid-sentence."
       }
     },
     {
       "chapter": "8. Time, and people",
       "chip": "8 OF 8",
-      "_start": 379.0,
+      "_start": 378.7,
       "lines": [
         {
           "id": "s9.l0",
@@ -1896,13 +1891,13 @@
           "vis": "Voiced number card",
           "shots": [
             {
-              "t": 379.0,
+              "t": 378.7,
               "dur": 1.54,
               "vis": "Voiced number card"
             }
           ],
           "card": "8 OF 8: TIME, AND PEOPLE",
-          "_t": 379.0,
+          "_t": 378.7,
           "_dur": 1.54,
           "_beats": ""
         },
@@ -1914,52 +1909,52 @@
           "vis": "Old lioness, grey muzzle / Old male, torn ear / Second card slides under: OTHER SOURCE: HIGHER",
           "shots": [
             {
-              "t": 380.6,
+              "t": 380.3,
               "dur": 2.26,
               "vis": "Old lioness, grey muzzle"
             },
             {
-              "t": 382.9,
+              "t": 382.5,
               "dur": 2.26,
               "vis": "Old male, torn ear"
             },
             {
-              "t": 385.1,
+              "t": 384.8,
               "dur": 2.26,
               "vis": "Second card slides under: OTHER SOURCE: HIGHER"
             }
           ],
           "card": "LIONESS UP TO ~16, MALES RARELY PAST 12",
-          "_t": 380.6,
+          "_t": 380.3,
           "_dur": 6.79,
           "_beats": ""
         },
         {
           "id": "s9.l2",
-          "say": "People are the other part. In Tanzania, lions killed more than 563 people from 1990 on, and injured at least 308. Attacks peaked at harvest time.",
+          "say": "People are the other part. In Tanzania, a mid-2000s count found lions had killed more than 563 people since 1990, and injured at least 308. Attacks peaked at harvest time.",
           "src": "LB39",
-          "source_tag": "Packer et al. 2005, Nature",
-          "vis": "Plain card on black, no music sting / Second plain card: AT LEAST 308 INJURED / Crop field at dusk, still frame, slow push",
+          "source_tag": "PubMed 16107828, Packer et al. 2005, Nature",
+          "vis": "Plain card on black, no music sting: MID-2000s COUNT / Second plain card: AT LEAST 308 INJURED / Crop field at dusk, still frame, slow push",
           "shots": [
             {
-              "t": 387.4,
-              "dur": 2.67,
-              "vis": "Plain card on black, no music sting"
+              "t": 387.1,
+              "dur": 3.08,
+              "vis": "Plain card on black, no music sting: MID-2000s COUNT"
             },
             {
-              "t": 390.1,
-              "dur": 2.67,
+              "t": 390.2,
+              "dur": 3.08,
               "vis": "Second plain card: AT LEAST 308 INJURED"
             },
             {
-              "t": 392.7,
-              "dur": 2.67,
+              "t": 393.2,
+              "dur": 3.08,
               "vis": "Crop field at dusk, still frame, slow push"
             }
           ],
           "card": "TANZANIA: OVER 563 KILLED SINCE 1990",
-          "_t": 387.4,
-          "_dur": 8.02,
+          "_t": 387.1,
+          "_dur": 9.25,
           "_beats": "P"
         },
         {
@@ -1970,28 +1965,28 @@
           "vis": "Safari vehicle on a road, windows up / Lioness walks past the door / Close on a closed door and window / Wide: the vehicle in a designated picnic site, people out",
           "shots": [
             {
-              "t": 395.4,
+              "t": 396.3,
               "dur": 2.54,
               "vis": "Safari vehicle on a road, windows up"
             },
             {
-              "t": 397.9,
+              "t": 398.9,
               "dur": 2.54,
               "vis": "Lioness walks past the door"
             },
             {
-              "t": 400.5,
+              "t": 401.4,
               "dur": 2.54,
               "vis": "Close on a closed door and window"
             },
             {
-              "t": 403.0,
+              "t": 404.0,
               "dur": 2.54,
               "vis": "Wide: the vehicle in a designated picnic site, people out"
             }
           ],
           "card": "KRUGER: STAY IN THE VEHICLE",
-          "_t": 395.4,
+          "_t": 396.3,
           "_dur": 10.18,
           "_beats": ""
         },
@@ -2003,17 +1998,17 @@
           "vis": "Noodle at the window with his suitcase / Meatball waving from a taxi",
           "shots": [
             {
-              "t": 405.6,
+              "t": 406.5,
               "dur": 2.31,
               "vis": "Noodle at the window with his suitcase"
             },
             {
-              "t": 407.9,
+              "t": 408.8,
               "dur": 2.31,
               "vis": "Meatball waving from a taxi"
             }
           ],
-          "_t": 405.6,
+          "_t": 406.5,
           "_dur": 4.63,
           "_beats": "CJ"
         },
@@ -2025,24 +2020,24 @@
           "vis": "Red List style card: VULNERABLE / Counter ticks to 23,000 / Trend arrow points down",
           "shots": [
             {
-              "t": 410.2,
+              "t": 411.1,
               "dur": 1.75,
               "vis": "Red List style card: VULNERABLE"
             },
             {
-              "t": 412.0,
+              "t": 412.9,
               "dur": 1.75,
               "vis": "Counter ticks to 23,000"
             },
             {
-              "t": 413.7,
+              "t": 414.6,
               "dur": 1.75,
               "vis": "Trend arrow points down"
             }
           ],
           "card": "VULNERABLE: ABOUT 23,000",
           "meter": 30,
-          "_t": 410.2,
+          "_t": 411.1,
           "_dur": 5.24,
           "_beats": "P"
         },
@@ -2052,17 +2047,17 @@
           "vis": "Meatball with a clipboard, counting / The cardboard mane on a hook: 1",
           "shots": [
             {
-              "t": 415.5,
+              "t": 416.4,
               "dur": 1.7,
               "vis": "Meatball with a clipboard, counting"
             },
             {
-              "t": 417.1,
+              "t": 418.1,
               "dur": 1.7,
               "vis": "The cardboard mane on a hook: 1"
             }
           ],
-          "_t": 415.5,
+          "_t": 416.4,
           "_dur": 3.39,
           "_beats": "CJ"
         },
@@ -2074,17 +2069,17 @@
           "vis": "Africa map, all dim / Four countries light up one by one",
           "shots": [
             {
-              "t": 418.8,
+              "t": 419.8,
               "dur": 2.31,
               "vis": "Africa map, all dim"
             },
             {
-              "t": 421.2,
+              "t": 422.1,
               "dur": 2.31,
               "vis": "Four countries light up one by one"
             }
           ],
-          "_t": 418.8,
+          "_t": 419.8,
           "_dur": 4.63,
           "_beats": ""
         },
@@ -2094,17 +2089,17 @@
           "vis": "Stamp: RAW / All eight tiles flip face up",
           "shots": [
             {
-              "t": 423.5,
+              "t": 424.4,
               "dur": 2.16,
               "vis": "Stamp: RAW"
             },
             {
-              "t": 425.6,
+              "t": 426.6,
               "dur": 2.46,
               "vis": "All eight tiles flip face up"
             }
           ],
-          "_t": 423.5,
+          "_t": 424.4,
           "_dur": 4.32,
           "_beats": "CR"
         }
@@ -2113,7 +2108,7 @@
     {
       "chapter": "What you got",
       "chip": "",
-      "_start": 428.1,
+      "_start": 429.0,
       "lines": [
         {
           "id": "s10.l0",
@@ -2123,14 +2118,14 @@
           "vis": "Whole pride piled together in the shade",
           "shots": [
             {
-              "t": 428.1,
+              "t": 429.0,
               "dur": 2.16,
               "vis": "Whole pride piled together in the shade"
             }
           ],
           "card": "MOST SOCIAL CATS",
           "meter": 40,
-          "_t": 428.1,
+          "_t": 429.0,
           "_dur": 2.16,
           "_beats": "P"
         },
@@ -2142,23 +2137,23 @@
           "vis": "Three generations of lionesses grooming / Cubs climbing on an adult male / Lioness and her mother side by side",
           "shots": [
             {
-              "t": 430.2,
+              "t": 431.2,
               "dur": 2.67,
               "vis": "Three generations of lionesses grooming"
             },
             {
-              "t": 432.9,
+              "t": 433.8,
               "dur": 2.67,
               "vis": "Cubs climbing on an adult male"
             },
             {
-              "t": 435.6,
+              "t": 436.5,
               "dur": 2.67,
               "vis": "Lioness and her mother side by side"
             }
           ],
           "meter": 48,
-          "_t": 430.2,
+          "_t": 431.2,
           "_dur": 8.02,
           "_beats": ""
         },
@@ -2170,14 +2165,14 @@
           "vis": "Lion on its back, paws in the air",
           "shots": [
             {
-              "t": 438.3,
+              "t": 439.2,
               "dur": 3.39,
               "vis": "Lion on its back, paws in the air"
             }
           ],
           "card": "UP TO 21 HOURS OF REST",
           "meter": 54,
-          "_t": 438.3,
+          "_t": 439.2,
           "_dur": 3.39,
           "_beats": "P"
         },
@@ -2187,12 +2182,12 @@
           "vis": "Sauce asleep in the chair, upside down",
           "shots": [
             {
-              "t": 441.7,
+              "t": 442.6,
               "dur": 3.39,
               "vis": "Sauce asleep in the chair, upside down"
             }
           ],
-          "_t": 441.7,
+          "_t": 442.6,
           "_dur": 3.39,
           "_beats": "CJ"
         },
@@ -2204,14 +2199,14 @@
           "vis": "Pride on a rock at sunset",
           "shots": [
             {
-              "t": 445.1,
+              "t": 446.0,
               "dur": 3.38,
               "vis": "Pride on a rock at sunset"
             }
           ],
           "card": "TOP OF THE FOOD CHAIN",
           "meter": 58,
-          "_t": 445.1,
+          "_t": 446.0,
           "_dur": 3.08,
           "_beats": ""
         }
@@ -2220,7 +2215,7 @@
     {
       "chapter": "The verdict",
       "chip": "",
-      "_start": 448.4,
+      "_start": 449.4,
       "lines": [
         {
           "id": "s11.l0",
@@ -2228,12 +2223,12 @@
           "vis": "Two columns appear: RAW and SWEET",
           "shots": [
             {
-              "t": 448.4,
+              "t": 449.4,
               "dur": 0.93,
               "vis": "Two columns appear: RAW and SWEET"
             }
           ],
-          "_t": 448.4,
+          "_t": 449.4,
           "_dur": 0.93,
           "_beats": "R"
         },
@@ -2245,22 +2240,22 @@
           "vis": "RAW column: 80% chip drops in / New males chip / Hyena chip, then the road chip",
           "shots": [
             {
-              "t": 449.4,
+              "t": 450.3,
               "dur": 2.47,
               "vis": "RAW column: 80% chip drops in"
             },
             {
-              "t": 451.8,
+              "t": 452.8,
               "dur": 2.47,
               "vis": "New males chip"
             },
             {
-              "t": 454.3,
+              "t": 455.2,
               "dur": 2.47,
               "vis": "Hyena chip, then the road chip"
             }
           ],
-          "_t": 449.4,
+          "_t": 450.3,
           "_dur": 7.4,
           "_beats": ""
         },
@@ -2272,17 +2267,17 @@
           "vis": "SWEET column: pride chip / Top-of-food-chain chip",
           "shots": [
             {
-              "t": 456.8,
+              "t": 457.7,
               "dur": 3.39,
               "vis": "SWEET column: pride chip"
             },
             {
-              "t": 460.2,
+              "t": 461.1,
               "dur": 3.39,
               "vis": "Top-of-food-chain chip"
             }
           ],
-          "_t": 456.8,
+          "_t": 457.7,
           "_dur": 6.79,
           "_beats": ""
         },
@@ -2292,24 +2287,24 @@
           "vis": "Meter swings hard to RAW / Then creeps past the middle / Lands just past the middle on SWEET",
           "shots": [
             {
-              "t": 463.6,
+              "t": 464.5,
               "dur": 2.98,
               "vis": "Meter swings hard to RAW"
             },
             {
-              "t": 466.5,
+              "t": 467.5,
               "dur": 2.98,
               "vis": "Then creeps past the middle"
             },
             {
-              "t": 469.5,
+              "t": 470.4,
               "dur": 2.98,
               "vis": "Lands just past the middle on SWEET"
             }
           ],
           "card": "OUR VERDICT: RAW START, SWEETER FOR LIONESSES",
           "meter": 55,
-          "_t": 463.6,
+          "_t": 464.5,
           "_dur": 8.95,
           "_beats": "RP"
         },
@@ -2321,17 +2316,17 @@
           "vis": "Callback: the same newborn shot from 0:00 / Slow push on the spots",
           "shots": [
             {
-              "t": 472.5,
+              "t": 473.4,
               "dur": 2.47,
               "vis": "Callback: the same newborn shot from 0:00"
             },
             {
-              "t": 475.0,
+              "t": 475.9,
               "dur": 2.47,
               "vis": "Slow push on the spots"
             }
           ],
-          "_t": 472.5,
+          "_t": 473.4,
           "_dur": 4.94,
           "_beats": "R"
         },
@@ -2341,17 +2336,17 @@
           "vis": "Noodle in the crown / Carrying a drumstick",
           "shots": [
             {
-              "t": 477.4,
+              "t": 478.4,
               "dur": 2.01,
               "vis": "Noodle in the crown"
             },
             {
-              "t": 479.4,
+              "t": 480.4,
               "dur": 2.01,
               "vis": "Carrying a drumstick"
             }
           ],
-          "_t": 477.4,
+          "_t": 478.4,
           "_dur": 4.01,
           "_beats": "CJ"
         },
@@ -2361,12 +2356,12 @@
           "vis": "Two stamps: RAW, and a paw print",
           "shots": [
             {
-              "t": 481.4,
+              "t": 482.4,
               "dur": 2.16,
               "vis": "Two stamps: RAW, and a paw print"
             }
           ],
-          "_t": 481.4,
+          "_t": 482.4,
           "_dur": 2.16,
           "_beats": "CJ"
         },
@@ -2376,22 +2371,22 @@
           "vis": "Meatball zips a suitcase / Litter box under his arm / End screen: house cat video tile; Meatball points at it",
           "shots": [
             {
-              "t": 483.6,
+              "t": 484.5,
               "dur": 2.16,
               "vis": "Meatball zips a suitcase"
             },
             {
-              "t": 485.8,
+              "t": 486.7,
               "dur": 2.16,
               "vis": "Litter box under his arm"
             },
             {
-              "t": 487.9,
+              "t": 488.9,
               "dur": 2.16,
               "vis": "End screen: house cat video tile; Meatball points at it"
             }
           ],
-          "_t": 483.6,
+          "_t": 484.5,
           "_dur": 6.48,
           "_beats": "CR"
         }
@@ -2401,13 +2396,13 @@
   "pinned_comment": "Meatball wants to know: which of the 8 gets you first? Drop the number. Meatball's stamps: raw, all eight. Sauce's: asleep.",
   "mid_video_comment_prompt": {
     "id": "s5.l1",
-    "t": 225.2,
+    "t": 223.9,
     "say": "Meatball wants to know: which of the first four gets you? The hiding, the odds, the takeover, or hunting school? Drop the number in the comments.",
     "on_screen": "COMMENT: WHICH ONE GETS YOU? 1, 2, 3 OR 4"
   },
   "end_screen_video": "Your Life as a House Cat: 8 Ways It Goes Wrong (posted.csv: YouTube, Fri 11/13 17:00 ET). Target date Sat 11/28; on the Sat 12/12 fallback, Your Life as a Polar Bear: 8 Things You Have to Get Through (Sat 12/5 08:00 ET) also works.",
   "sources_file": "/workspace/drafts/facts/lion-bornas.md (box draft; would become research/<next>-lion-life-factpack.md if approved)",
-  "description": "What is life like for a lion? This is your whole life as one, from about three pounds and hidden away to holding a pride: 8 things you have to get through, then the verdict. Meatball tried all eight at home, with his cat, Sauce, as his pride and his dog, Noodle, as everybody else.\n\nChecked facts in this video:\n- Up to 80% of lion cubs die within their first 2 years (Smithsonian's National Zoo); on average 60% die in the first year (San Diego Zoo Wildlife Alliance).\n- Males entering a new pride will kill all cubs that cannot run from them (Smithsonian's National Zoo).\n- Hunting success depends on the place: 38% Kalahari (Eloff 1984), 23% Serengeti (Schaller 1972), 15% Etosha (Stander 1992), via the SDZWA fact sheet.\n- Females may lose up to 20% of kills to spotted hyenas (SDZWA, citing Cooper 1991).\n- In Tanzania, lions killed more than 563 people from 1990 and injured at least 308 (Packer et al. 2005, Nature).\n- IUCN Red List: Vulnerable, 23,000 mature individuals, decreasing (assessed 2023).\n- Visiting Kruger? SANParks rules say to remain in your vehicle unless in a designated area.\n\nSources:\n- Smithsonian's National Zoo & Conservation Biology Institute, Lion: https://nationalzoo.si.edu/animals/lion\n- San Diego Zoo Animals & Plants, Lion: https://animals.sandiegozoo.org/animals/lion\n- San Diego Zoo Wildlife Alliance Library, Lion (Panthera leo) Fact Sheet: https://ielc.libguides.com/sdzg/factsheets/lions (citing Schaller 1972, Eloff 1984, Cooper 1991, Stander 1992, Funston et al. 2003, West and Packer 2013 and others)\n- Panthera, Lion: https://panthera.org/cat/lion\n- IUCN Red List, Panthera leo, Vulnerable A2abcd, assessed 1 Feb 2023 (published 2024)\n- Packer C, Ikanda D, Kissui B, Kushnir H (2005) Lion attacks on humans in Tanzania. Nature 436:927-928\n- Bauer H et al. (2015) Lion (Panthera leo) populations are declining rapidly across Africa, except in intensively managed areas. PNAS 112(48):14894-14899\n- Stander PE (1992) Cooperative hunting in lions: the role of the individual. Behavioral Ecology and Sociobiology 29:445-454\n- SANParks, Kruger National Park, Vital Information (rules): https://www.sanparks.org/parks/kruger/useful-information/vital-information\n\n#lion #lioncubs #meatballmyths",
+  "description": "What is life like for a lion? This is your whole life as one, from about three pounds and hidden away to holding a pride: 8 things you have to get through, then the verdict. Meatball tried all eight at home, with his cat, Sauce, as his pride and his dog, Noodle, as everybody else.\n\nChecked facts in this video:\n- Up to 80% of lion cubs die within their first 2 years (Smithsonian's National Zoo); on average 60% die in the first year (San Diego Zoo Wildlife Alliance).\n- Males entering a new pride will kill all cubs that cannot run from them (Smithsonian's National Zoo).\n- Hunting success depends on the place: 38% Kalahari (Eloff 1984), 23% Serengeti (Schaller 1972), 15% Etosha (Stander 1992), via the SDZWA fact sheet.\n- Females may lose up to 20% of kills to spotted hyenas (SDZWA, citing Cooper 1991).\n- In Tanzania, a mid-2000s count found lions had killed more than 563 people since 1990, and injured at least 308 (Packer et al. 2005, Nature, PubMed 16107828).\n- IUCN Red List: Vulnerable, 23,000 mature individuals, decreasing (assessed 2023).\n- Visiting Kruger? SANParks rules say to remain in your vehicle unless in a designated area.\n\nSources:\n- Smithsonian's National Zoo & Conservation Biology Institute, Lion: https://nationalzoo.si.edu/animals/lion\n- San Diego Zoo Animals & Plants, Lion: https://animals.sandiegozoo.org/animals/lion\n- San Diego Zoo Wildlife Alliance Library, Lion (Panthera leo) Fact Sheet: https://ielc.libguides.com/sdzg/factsheets/lions (citing Schaller 1972, Eloff 1984, Cooper 1991, Stander 1992, Funston et al. 2003, West and Packer 2013 and others)\n- Panthera, Lion: https://panthera.org/cat/lion\n- IUCN Red List, Panthera leo, Vulnerable A2abcd, assessed 1 Feb 2023 (published 2024)\n- Packer C, Ikanda D, Kissui B, Kushnir H (2005) Lion attacks on humans in Tanzania. Nature 436:927-928. https://pubmed.ncbi.nlm.nih.gov/16107828/\n- Bauer H et al. (2015) Lion (Panthera leo) populations are declining rapidly across Africa, except in intensively managed areas. PNAS 112(48):14894-14899\n- Stander PE (1992) Cooperative hunting in lions: the role of the individual. Behavioral Ecology and Sociobiology 29:445-454\n- SANParks, Kruger National Park, Vital Information (rules): https://www.sanparks.org/parks/kruger/useful-information/vital-information\n\n#lion #lioncubs #meatballmyths",
   "art_needed": [
     "Lion cub, newborn: tiny, light spots (eye state is not in the pack, so do not label it). Lines: s0.l0, s0.l1, s0.l2, s11.l4.",
     "Lioness (adult female), plus a pride group and a crèche pile of cubs of mixed sizes. Lines: s1.*, s4.*, s10.*.",
@@ -2467,17 +2462,17 @@
     "Spoken sourcing: MASTER_ORDERS does not require spoken credits in long-forms. The only 'said, attributed' rule (line 53) belongs to the news video, not the animal shows. Checker rules from research/88 ('a percentage needs what it is a share of', 'a survival figure needs the count put down', 'a safety line needs the trigger') are still met in speech: 'of cubs', 'of hunts', 'of their kills', 'more than 563 people', 'unless you're in a designated area'. The fact pack's own D2/D6 'Credit one' notes are now met on screen (source_tag), not aloud. No conflict, but Claude may want MASTER_ORDERS to say this explicitly.",
     "Shot rhythm: research 100 (MASTER_ORDERS line 269, 'Stop tuning') found 'opening cut rate and pace' made no measurable difference. The new 2-4 s rule comes from Packaging's review (slideshow look), not from that data. Not a blocker; noting the tension.",
     "Count and order in the first 15 s (line 229): met. 'eight things' at 0:03 and 'They hit you in order' at 0:13.",
-    "No joke, intro or comment ask before 0:25 (line 212): met. First joke 0:45, the comment prompt is at 3:45.2.",
+    "No joke, intro or comment ask before 0:25 (line 212): met. First joke 0:45, the comment prompt is at 3:43.9.",
     "No spoken 3-2-1 countdowns (line 229): met. Every number card is a voiced 'Number X' line; chapter gaps are 0.3 s breaths, not silent cards.",
     "Comment prompt vs pinned-comment rule (line 202: open questions, not yes/no): the mid-video prompt is a pick-a-number question, like the 3 Bugs fix in the review. The pinned comment now matches it. If Nolan wants an open story question, the pinned comment can change without touching the audio.",
     "Schedule (line 217 still says 'dog 12/12, wolf 12/19'): Social Studio has lion on 12/12 as the fallback and dog on 12/19. Claude is reconciling; this file does not change it.",
-    "Length: 8:22.1 at 194.5 wpm is above 8:00, so mid-rolls are allowed, with about 22 s of margin. The polar render ran slower (~180 wpm), which would give about 9:01.3."
+    "Length: 8:23.0 at 194.5 wpm is above 8:00, so mid-rolls are allowed, with about 22 s of margin. The polar render ran slower (~180 wpm), which would give about 9:02.3."
   ],
   "_notes": [
     "Kruger rule (s9.l3, s9.l4; LB41): now sourced to SANParks itself, https://www.sanparks.org/parks/kruger/useful-information/vital-information, opened live 2026-11-15 through the fetch tool (box curl still gets 403). Quote: 'Visitors must remain in their vehicles unless in a designated area. Remember that no part of the body may protrude from a window or sunroof or any other part of the vehicle. Vehicle doors should be closed at all times.' and 'NO PETS ARE ALLOWED here.' Both lines kept. The Lowvelder reprint is no longer used.",
     "Etosha 15% (s4.l5; LB19): the SDZWA sheet's 'Stander 1972' is a typo. Correct citation: Stander PE (1992) Cooperative hunting in lions: the role of the individual. Behavioral Ecology and Sociobiology 29(6):445-454, doi 10.1007/BF00170175 (the only Stander 1992 in SDZWA's lion bibliography). The paper's text says 'lions had a low average capture success of 15% for all species and hunts', citing Stander 1992 Can J Zool 70:8-21. The script never spoke the year, so only the pack row and these notes changed."
   ],
-  "_factcheck": "v2 wording not yet checked by a second model. Fact content is the v1 set plus LB1 (gestation), LB22, LB28 (herds) and LB34 (pride size), all from the pack.",
+  "_factcheck": "Fact-check applied 2026-11-15 evening ET from /workspace/drafts/factcheck-lion-bornas-v2-1116.md: s9.l2 mid-2000s date window (PubMed 16107828, Packer et al. 2005, Nature); s1.l8 dropped 'mostly among close relatives'; s8.l6 roar got 'under some conditions'. Optional 'rural' hedge on the Tanzania line was not added (fact-check: not required once the date window is fixed).",
   "builder": "drawn_polarlife (assumed; a lion shot set like tools/drawn_pb_shots.py would be needed)",
   "pause_lines": [
     "s3.l2",
@@ -2489,22 +2484,22 @@
   "end_label_short": "YOUR LIFE AS A HOUSE CAT",
   "_timing": {
     "wpm": 194.5,
-    "words": 1578,
+    "words": 1581,
     "chapter_gap_s": 0.3,
-    "speech_s": 490.1,
-    "runtime_s": 502.1,
-    "runtime": "8:22.1",
+    "speech_s": 491.0,
+    "runtime_s": 503.0,
+    "runtime": "8:23.0",
     "promise_spoken_by_s": 4.63,
     "first_joke_s": 45.0,
-    "comment_prompt_s": 225.2,
-    "speech_midpoint_s": 245.0,
+    "comment_prompt_s": 223.9,
+    "speech_midpoint_s": 245.5,
     "mild_words": 7,
     "longest_shot_hold_s": 3.7,
     "longest_shot_hold_at": "s0.l3 shot 0",
     "max_gap_s": {
       "peak": 22.2,
       "character": 37.3,
-      "retention": 62.9
+      "retention": 61.7
     },
     "shots": 216
   }
