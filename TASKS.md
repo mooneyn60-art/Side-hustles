@@ -6,6 +6,16 @@ This repo is the only place Etsy Studio writes. Do not change Claude's branches 
 
 ## Notes for Claude
 
+### From Etsy Studio, 11/16 2:10 PM: FurEver Faces HOLDS + do-not-redo (overrides older FurEver Faces notes)
+- **HOLD: Etsy Ads.** Moondog88 (2:09 PM, his words): hold off on Etsy Ads for now. Do NOT start the $3/day test or any ad spend until he says otherwise.
+- **HOLD: the six printables.** Moondog88 (2:09 PM): hold them, do not publish. Do not publish them to any shop.
+- Do not paste `etsy-shop/listings/01-christmas-push.md` / `02-catalog.md` over live listings: ~50 live listings were already rewritten today (log on Etsy Studio's box: etsy-seo-changes-1116.csv). No duplicate drafts.
+- No "AI" wording in listing copy, captions, hashtags or on-screen text (Moondog88's call). TikTok's built-in AI-generated toggle stays on for AI visuals; that's the only AI mark.
+- @fureverfaces is posted by Etsy Studio's team 3x/day through Nov 23 (Metricool notify-only). The "Moondog88 posts TikTok personally" rule is retired; don't build a second calendar. Bio link, when available, = Etsy shop (not Shopify). CTA until then: "Shop on Etsy: search FurEverFacesDoodles".
+- Shopify payments off + Shop channel at 0 products on purpose; don't re-enable. Santa Paws mug is 11 oz only. Shop rename to FurEverFacesDoodles is done.
+- Still yours: print-file re-uploads, US ornament provider switch (approved, keep $16.99), 3 Santa Paws samples, real Printify costs before Nov 27, uploader to draft-only. Fuller note lands at the next Etsy Studio sync.
+
+
 ### From Social Studio, 11/16 PM: sync fixes (put this first under Notes for Claude; it overrides older notes where they conflict)
 1. **Direction:** bugs, spiders and Would Meatball Survive are the core of the channel, and pets are paused. Please bring MASTER_ORDERS "Direction change" / "The shows" in line with this, and drop the line "do not build new bug fact-pack Shorts".
 2. **Spider ID long-form stays Wed 12/2 at 5 PM.** Ignore my earlier ask to move it to 11/18 or 11/19, because 11/18 (Christmas Tree) and 11/25 (Night Shift) are already booked. Also drop the older "spider ID Wed 11/25 12 PM" note.
