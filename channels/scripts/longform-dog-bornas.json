@@ -1,0 +1,2613 @@
+{
+  "_what": "Dog born-as long-form, written to the lion v2 structure and Social Studio's 11/15 long-form rule from the start: promise by 0:05, no rules or score intro, no silent countdowns, a timed shot every 2 to 4 s (test), one mid-video pick-a-number comment prompt, citations on screen (source_tag) and in the description only. Facts: /workspace/drafts/facts/dog-bornas.md (DB1 to DB37).",
+  "titles": [
+    "Your Life as a Dog: 8 Things You Have to Get Through"
+  ],
+  "_titles_note": "Title from the brief. MASTER_ORDERS, posted.csv and the topic CSV name no dog title, so nothing overrides it. Single title, no A/B set.",
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "+10%",
+  "pitch": "+3Hz",
+  "meter_start": 50,
+  "meter_labels": [
+    "RAW DEAL",
+    "SWEET DEAL"
+  ],
+  "segments": [
+    {
+      "chapter": "Day one",
+      "chip": "",
+      "_start": 0.0,
+      "lines": [
+        {
+          "id": "s0.l0",
+          "say": "You were just born a dog. Here are eight things you have to get through.",
+          "vis": "Frame 0: newborn puppy close-up, eyes sealed, already wriggling; narration on it at 0.0 s / Eight numbered tiles slam in face down around the puppy; title card lands",
+          "shots": [
+            {
+              "t": 0.0,
+              "dur": 2.31,
+              "vis": "Frame 0: newborn puppy close-up, eyes sealed, already wriggling; narration on it at 0.0 s"
+            },
+            {
+              "t": 2.3,
+              "dur": 2.31,
+              "vis": "Eight numbered tiles slam in face down around the puppy; title card lands"
+            }
+          ],
+          "card": "BORN A DOG",
+          "_t": 0.0,
+          "_dur": 4.63,
+          "_beats": "P"
+        },
+        {
+          "id": "s0.l1",
+          "say": "Your eyes are shut, your ears are shut, and you're one of about five puppies.",
+          "src": "DB1, DB3",
+          "source_tag": "Merck Veterinary Manual; Borge et al. 2011, Theriogenology",
+          "vis": "Push in on the sealed eyes and folded ears / Pull back: five puppies piled against their mother; counter ticks to 5",
+          "shots": [
+            {
+              "t": 4.6,
+              "dur": 2.31,
+              "vis": "Push in on the sealed eyes and folded ears"
+            },
+            {
+              "t": 6.9,
+              "dur": 2.31,
+              "vis": "Pull back: five puppies piled against their mother; counter ticks to 5"
+            }
+          ],
+          "card": "ABOUT 5 PER LITTER",
+          "_t": 4.6,
+          "_dur": 4.63,
+          "_beats": ""
+        },
+        {
+          "id": "s0.l2",
+          "say": "In one big count of purebred litters, eight percent of puppies didn't make it to eight days old.",
+          "src": "DB4",
+          "source_tag": "Tønnessen et al. 2012, Theriogenology",
+          "vis": "Calendar strip, days 1 to 8, ticking / Row of 25 puppy silhouettes; two fade out / Back on our puppy, still wriggling",
+          "shots": [
+            {
+              "t": 9.3,
+              "dur": 2.78,
+              "vis": "Calendar strip, days 1 to 8, ticking; then Row of 25 puppy silhouettes; two fade out"
+            },
+            {
+              "t": 12.0,
+              "dur": 2.78,
+              "vis": "Back on our puppy, still wriggling"
+            }
+          ],
+          "card": "8% BEFORE DAY 8",
+          "meter": 40,
+          "_t": 9.3,
+          "_dur": 5.55,
+          "_beats": "P"
+        },
+        {
+          "id": "s0.l3",
+          "say": "They hit you in order. One of them is waiting in a kitchen.",
+          "src": "DB15",
+          "vis": "Tile 5 flips half-way / A chocolate bar's shadow on a kitchen counter",
+          "shots": [
+            {
+              "t": 14.8,
+              "dur": 2.01,
+              "vis": "Tile 5 flips half-way"
+            },
+            {
+              "t": 16.8,
+              "dur": 2.01,
+              "vis": "A chocolate bar's shadow on a kitchen counter"
+            }
+          ],
+          "_t": 14.8,
+          "_dur": 4.01,
+          "_beats": "R"
+        },
+        {
+          "id": "s0.l4",
+          "say": "And one of them is a parked car.",
+          "src": "DB22",
+          "vis": "Tile 6 flips half-way: parked car in the sun, windows cracked; meter appears in the corner",
+          "shots": [
+            {
+              "t": 18.8,
+              "dur": 2.77,
+              "vis": "Tile 6 flips half-way: parked car in the sun, windows cracked; meter appears in the corner"
+            }
+          ],
+          "_t": 18.8,
+          "_dur": 2.47,
+          "_beats": "RP"
+        }
+      ]
+    },
+    {
+      "chapter": "1. The whelping box",
+      "chip": "1 OF 8",
+      "_start": 21.6,
+      "lines": [
+        {
+          "id": "s1.l0",
+          "say": "Number one. The whelping box.",
+          "vis": "Voiced number card whips in over the puppy pile (no silent hold)",
+          "shots": [
+            {
+              "t": 21.6,
+              "dur": 1.54,
+              "vis": "Voiced number card whips in over the puppy pile (no silent hold)"
+            }
+          ],
+          "card": "1 OF 8: THE WHELPING BOX",
+          "_t": 21.6,
+          "_dur": 1.54,
+          "_beats": ""
+        },
+        {
+          "id": "s1.l1",
+          "say": "For about your first two weeks, you can't see or hear, and you can barely move. Your mother's care is how you survive.",
+          "src": "DB1",
+          "source_tag": "Merck Veterinary Manual",
+          "vis": "Puppy nose-first, crawling in a slow circle / Mother curls around the litter / Timeline chip: BIRTH TO ABOUT DAY 13 / Mother noses a stray puppy back into the pile",
+          "shots": [
+            {
+              "t": 23.1,
+              "dur": 2.37,
+              "vis": "Puppy nose-first, crawling in a slow circle; then Mother curls around the litter"
+            },
+            {
+              "t": 25.5,
+              "dur": 2.37,
+              "vis": "Timeline chip: BIRTH TO ABOUT DAY 13"
+            },
+            {
+              "t": 27.9,
+              "dur": 2.37,
+              "vis": "Mother noses a stray puppy back into the pile"
+            }
+          ],
+          "card": "EYES AND EARS CLOSED",
+          "_t": 23.1,
+          "_dur": 7.1,
+          "_beats": "P"
+        },
+        {
+          "id": "s1.l2",
+          "say": "Meet the guy in the cardboard ears. That's Meatball. He's living all eight at home, with a rubber stamp.",
+          "vis": "Reveal: Meatball on the living-room rug, curled in a dog bed / Close on the cardboard ears, one flopped / He holds up a rubber stamp: RAW on one side, SWEET on the other",
+          "shots": [
+            {
+              "t": 30.2,
+              "dur": 2.93,
+              "vis": "Reveal: Meatball on the living-room rug, curled in a dog bed; then Close on the cardboard ears, one flopped"
+            },
+            {
+              "t": 33.2,
+              "dur": 2.93,
+              "vis": "He holds up a rubber stamp: RAW on one side, SWEET on the other"
+            }
+          ],
+          "_t": 30.2,
+          "_dur": 5.86,
+          "_beats": "CP"
+        },
+        {
+          "id": "s1.l3",
+          "say": "His dog, Noodle, is the real dog. His cat, Sauce, is everybody else.",
+          "vis": "Noodle in the doorway, wagging (name tag pops) / Sauce on the couch, unimpressed (name tag pops)",
+          "shots": [
+            {
+              "t": 36.1,
+              "dur": 2.01,
+              "vis": "Noodle in the doorway, wagging (name tag pops)"
+            },
+            {
+              "t": 38.1,
+              "dur": 2.01,
+              "vis": "Sauce on the couch, unimpressed (name tag pops)"
+            }
+          ],
+          "_t": 36.1,
+          "_dur": 4.01,
+          "_beats": "C"
+        },
+        {
+          "id": "s1.l4",
+          "say": "Meatball kept his eyes shut for the full experience. He walked straight into the fridge. Sauce watched, then walked off. Hell of a start.",
+          "vis": "Meatball shuffles across the kitchen, eyes squeezed shut / Bonk: the fridge door / Sauce watching from the counter / Sauce hops down and leaves",
+          "shots": [
+            {
+              "t": 40.1,
+              "dur": 2.47,
+              "vis": "Meatball shuffles across the kitchen, eyes squeezed shut; then Bonk: the fridge door"
+            },
+            {
+              "t": 42.6,
+              "dur": 2.47,
+              "vis": "Sauce watching from the counter"
+            },
+            {
+              "t": 45.0,
+              "dur": 2.47,
+              "vis": "Sauce hops down and leaves"
+            }
+          ],
+          "_t": 40.1,
+          "_dur": 7.4,
+          "_beats": "CJS"
+        },
+        {
+          "id": "s1.l5",
+          "say": "Somewhere around day thirteen to nineteen, your eyes and ears open.",
+          "src": "DB2",
+          "source_tag": "Merck Veterinary Manual",
+          "vis": "Extreme close-up: one eye cracks open / Ears unfold; the room fades in, blurry",
+          "shots": [
+            {
+              "t": 47.5,
+              "dur": 3.39,
+              "vis": "Extreme close-up: one eye cracks open; then Ears unfold; the room fades in, blurry"
+            }
+          ],
+          "card": "EYES OPEN: ABOUT DAY 13-19",
+          "_t": 47.5,
+          "_dur": 3.39,
+          "_beats": "P"
+        },
+        {
+          "id": "s1.l6",
+          "say": "Vets treat those stages as rough guides, not exact days.",
+          "src": "DB2",
+          "source_tag": "Merck Veterinary Manual",
+          "vis": "Calendar days blur and overlap / Three puppies opening their eyes at different times",
+          "shots": [
+            {
+              "t": 50.9,
+              "dur": 3.08,
+              "vis": "Calendar days blur and overlap; then Three puppies opening their eyes at different times"
+            }
+          ],
+          "_t": 50.9,
+          "_dur": 3.08,
+          "_beats": ""
+        },
+        {
+          "id": "s1.l7",
+          "say": "In that same big count, only about one percent of puppies died between eight days and eight weeks.",
+          "src": "DB4",
+          "source_tag": "Tønnessen et al. 2012, Theriogenology",
+          "vis": "Calendar strip jumps: day 8 to week 8 / The silhouette row; this time all stay / Meter ticks toward SWEET",
+          "shots": [
+            {
+              "t": 54.0,
+              "dur": 2.78,
+              "vis": "Calendar strip jumps: day 8 to week 8; then The silhouette row; this time all stay"
+            },
+            {
+              "t": 56.8,
+              "dur": 2.78,
+              "vis": "Meter ticks toward SWEET"
+            }
+          ],
+          "card": "8 DAYS TO 8 WEEKS: ABOUT 1%",
+          "meter": 55,
+          "_t": 54.0,
+          "_dur": 5.55,
+          "_beats": ""
+        },
+        {
+          "id": "s1.l8",
+          "say": "So if you make it through that first week, the odds get a lot better.",
+          "src": "DB4",
+          "vis": "Puppy takes its first wobbly steps / Low angle: it face-plants, gets up",
+          "shots": [
+            {
+              "t": 59.5,
+              "dur": 2.31,
+              "vis": "Puppy takes its first wobbly steps"
+            },
+            {
+              "t": 61.8,
+              "dur": 2.31,
+              "vis": "Low angle: it face-plants, gets up"
+            }
+          ],
+          "_t": 59.5,
+          "_dur": 4.63,
+          "_beats": "R"
+        },
+        {
+          "id": "s1.l9",
+          "say": "Litter size changes with the breed. Tiny breeds averaged about three and a half puppies, giant breeds about seven.",
+          "src": "DB3",
+          "source_tag": "Borge et al. 2011, Theriogenology",
+          "vis": "Chihuahua mother with three puppies / Wipe: Great Dane mother with seven / Chip: 3.5 TO 7.1, BY BREED SIZE",
+          "shots": [
+            {
+              "t": 64.2,
+              "dur": 2.93,
+              "vis": "Chihuahua mother with three puppies; then Wipe: Great Dane mother with seven"
+            },
+            {
+              "t": 67.1,
+              "dur": 2.93,
+              "vis": "Chip: 3.5 TO 7.1, BY BREED SIZE"
+            }
+          ],
+          "card": "3.5 TO 7.1 PUPPIES",
+          "_t": 64.2,
+          "_dur": 5.86,
+          "_beats": ""
+        },
+        {
+          "id": "s1.l10",
+          "say": "Meatball tried to sleep in a pile, like a litter of seven. It was him and one sock.",
+          "vis": "Meatball lies down in the dog bed, arms out for a pile / Pull back: one sock beside him / Noodle takes the sock",
+          "shots": [
+            {
+              "t": 70.0,
+              "dur": 2.78,
+              "vis": "Meatball lies down in the dog bed, arms out for a pile; then Pull back: one sock beside him"
+            },
+            {
+              "t": 72.8,
+              "dur": 3.08,
+              "vis": "Noodle takes the sock"
+            }
+          ],
+          "_t": 70.0,
+          "_dur": 5.55,
+          "_beats": "CJ"
+        }
+      ],
+      "_midroll_after": {
+        "type": "alt",
+        "at": 75.7,
+        "note": "Break in the 0.3 s gap after this chapter's last line, before the next voiced number line. Never mid-sentence."
+      }
+    },
+    {
+      "chapter": "2. The clock",
+      "chip": "2 OF 8",
+      "_start": 75.9,
+      "lines": [
+        {
+          "id": "s2.l0",
+          "say": "Number two. The clock.",
+          "vis": "Voiced number card; a big stopwatch starts behind it",
+          "shots": [
+            {
+              "t": 75.9,
+              "dur": 1.23,
+              "vis": "Voiced number card; a big stopwatch starts behind it"
+            }
+          ],
+          "card": "2 OF 8: THE CLOCK",
+          "_t": 75.9,
+          "_dur": 1.23,
+          "_beats": ""
+        },
+        {
+          "id": "s2.l1",
+          "say": "At about three weeks, a clock starts. It's your socialization period, and it runs for roughly the first three months.",
+          "src": "DB5, DB8",
+          "source_tag": "Merck Veterinary Manual; AVSAB",
+          "vis": "Stopwatch over the puppy at three weeks / Puppy sniffs a human hand for the first time / Progress bar fills: WEEK 3 TO WEEK 12",
+          "shots": [
+            {
+              "t": 77.1,
+              "dur": 2.06,
+              "vis": "Stopwatch over the puppy at three weeks"
+            },
+            {
+              "t": 79.2,
+              "dur": 2.06,
+              "vis": "Puppy sniffs a human hand for the first time"
+            },
+            {
+              "t": 81.2,
+              "dur": 2.06,
+              "vis": "Progress bar fills: WEEK 3 TO WEEK 12"
+            }
+          ],
+          "card": "ROUGHLY THE FIRST 3 MONTHS",
+          "_t": 77.1,
+          "_dur": 6.17,
+          "_beats": "P"
+        },
+        {
+          "id": "s2.l2",
+          "say": "This is when meeting people, other dogs and new things matters most.",
+          "src": "DB5, DB8",
+          "source_tag": "Merck Veterinary Manual; AVSAB",
+          "vis": "Quick montage: a kid's hand / A big friendly dog / A vacuum cleaner",
+          "shots": [
+            {
+              "t": 83.3,
+              "dur": 3.7,
+              "vis": "Quick montage: a kid's hand; then A big friendly dog; then A vacuum cleaner"
+            }
+          ],
+          "_t": 83.3,
+          "_dur": 3.7,
+          "_beats": ""
+        },
+        {
+          "id": "s2.l3",
+          "say": "Puppies kept away from people, other dogs and new things during this window are at risk of growing up fearful and avoidant.",
+          "src": "DB5",
+          "source_tag": "Merck Veterinary Manual",
+          "vis": "Puppy alone in an empty pen / Same dog, grown, flinching at a doorbell / Meter dips toward RAW",
+          "shots": [
+            {
+              "t": 87.0,
+              "dur": 2.26,
+              "vis": "Puppy alone in an empty pen"
+            },
+            {
+              "t": 89.2,
+              "dur": 2.26,
+              "vis": "Same dog, grown, flinching at a doorbell"
+            },
+            {
+              "t": 91.5,
+              "dur": 2.26,
+              "vis": "Meter dips toward RAW"
+            }
+          ],
+          "card": "AT RISK: FEARFUL ADULT",
+          "meter": 42,
+          "_t": 87.0,
+          "_dur": 6.79,
+          "_beats": "P"
+        },
+        {
+          "id": "s2.l4",
+          "say": "Dogs kept only in a kennel, or not around people by fourteen weeks, may end up with severely undeveloped social skills.",
+          "src": "DB6",
+          "source_tag": "Merck Veterinary Manual (dog owners)",
+          "vis": "Kennel row, empty hallway / Calendar: WEEK 14 circled / A grown dog hiding behind a chair from a visitor",
+          "shots": [
+            {
+              "t": 93.8,
+              "dur": 2.16,
+              "vis": "Kennel row, empty hallway"
+            },
+            {
+              "t": 95.9,
+              "dur": 2.16,
+              "vis": "Calendar: WEEK 14 circled"
+            },
+            {
+              "t": 98.1,
+              "dur": 2.16,
+              "vis": "A grown dog hiding behind a chair from a visitor"
+            }
+          ],
+          "card": "BY 14 WEEKS",
+          "_t": 93.8,
+          "_dur": 6.48,
+          "_beats": ""
+        },
+        {
+          "id": "s2.l5",
+          "say": "Meatball socialized himself. He met the mailman, the vacuum, and a lamp. The lamp's fine, damn it.",
+          "vis": "Meatball shakes the mailman's hand / Meatball and the vacuum, eye to eye / Meatball bows to a lamp; it tips; he catches it",
+          "shots": [
+            {
+              "t": 100.2,
+              "dur": 2.62,
+              "vis": "Meatball shakes the mailman's hand; then Meatball and the vacuum, eye to eye"
+            },
+            {
+              "t": 102.9,
+              "dur": 2.62,
+              "vis": "Meatball bows to a lamp; it tips; he catches it"
+            }
+          ],
+          "_t": 100.2,
+          "_dur": 5.24,
+          "_beats": "CJS"
+        },
+        {
+          "id": "s2.l6",
+          "say": "Weaning ends at about seven weeks.",
+          "src": "DB7",
+          "source_tag": "Merck Veterinary Manual",
+          "vis": "Puppies crowding a food dish instead of their mother",
+          "shots": [
+            {
+              "t": 105.5,
+              "dur": 1.85,
+              "vis": "Puppies crowding a food dish instead of their mother"
+            }
+          ],
+          "card": "WEANED: ABOUT 7 WEEKS",
+          "_t": 105.5,
+          "_dur": 1.85,
+          "_beats": ""
+        },
+        {
+          "id": "s2.l7",
+          "say": "Vets say the best time to go to a new home is about eight weeks, or a little later, and not before seven and a half weeks unless there's no other choice.",
+          "src": "DB6, DB7",
+          "source_tag": "Merck Veterinary Manual (dog owners); Merck Veterinary Manual",
+          "vis": "Puppy in a carrier on a doorstep / Door opens: a family / Chip: NOT BEFORE 7.5 WEEKS / Puppy steps onto a new rug",
+          "shots": [
+            {
+              "t": 107.3,
+              "dur": 2.47,
+              "vis": "Puppy in a carrier on a doorstep"
+            },
+            {
+              "t": 109.8,
+              "dur": 2.47,
+              "vis": "Door opens: a family"
+            },
+            {
+              "t": 112.3,
+              "dur": 2.47,
+              "vis": "Chip: NOT BEFORE 7.5 WEEKS"
+            },
+            {
+              "t": 114.7,
+              "dur": 2.47,
+              "vis": "Puppy steps onto a new rug"
+            }
+          ],
+          "card": "NEW HOME: ABOUT 8 WEEKS",
+          "_t": 107.3,
+          "_dur": 9.87,
+          "_beats": "P"
+        },
+        {
+          "id": "s2.l8",
+          "say": "And the stakes are real. Behavior problems are the number one reason dogs get given up to shelters.",
+          "src": "DB8",
+          "source_tag": "AVSAB",
+          "vis": "Shelter door, plain / Leash handed over a counter / Meter dips toward RAW",
+          "shots": [
+            {
+              "t": 117.2,
+              "dur": 2.78,
+              "vis": "Shelter door, plain; then Leash handed over a counter"
+            },
+            {
+              "t": 120.0,
+              "dur": 2.78,
+              "vis": "Meter dips toward RAW"
+            }
+          ],
+          "card": "#1 REASON FOR SURRENDER",
+          "meter": 38,
+          "_t": 117.2,
+          "_dur": 5.55,
+          "_beats": "P"
+        },
+        {
+          "id": "s2.l9",
+          "say": "Behavior issues, not infections, are the number one cause of death for dogs under three.",
+          "src": "DB8",
+          "source_tag": "AVSAB",
+          "vis": "Plain card on a dimmed background, no images / Card holds; screen eases back up",
+          "shots": [
+            {
+              "t": 122.8,
+              "dur": 2.31,
+              "vis": "Plain card on a dimmed background, no images"
+            },
+            {
+              "t": 125.1,
+              "dur": 2.31,
+              "vis": "Card holds; screen eases back up"
+            }
+          ],
+          "card": "#1 CAUSE OF DEATH UNDER 3",
+          "_t": 122.8,
+          "_dur": 4.63,
+          "_beats": ""
+        },
+        {
+          "id": "s2.l10",
+          "say": "So puppy class can start as early as seven to eight weeks, as long as you've had at least one set of shots a week before.",
+          "src": "DB9",
+          "source_tag": "AVSAB",
+          "vis": "Puppy class: six puppies on mats / Vaccine card with one stamp / Calendar: 7 DAYS circled / A trainer's hand with a treat",
+          "shots": [
+            {
+              "t": 127.4,
+              "dur": 2.01,
+              "vis": "Puppy class: six puppies on mats"
+            },
+            {
+              "t": 129.4,
+              "dur": 2.01,
+              "vis": "Vaccine card with one stamp"
+            },
+            {
+              "t": 131.4,
+              "dur": 2.01,
+              "vis": "Calendar: 7 DAYS circled"
+            },
+            {
+              "t": 133.4,
+              "dur": 2.01,
+              "vis": "A trainer's hand with a treat"
+            }
+          ],
+          "card": "1 SET OF SHOTS, 7 DAYS BEFORE",
+          "meter": 50,
+          "_t": 127.4,
+          "_dur": 8.02,
+          "_beats": "R"
+        },
+        {
+          "id": "s2.l11",
+          "say": "With early shots and good care, the infection risk is relatively small next to the chance of dying from a behavior problem.",
+          "src": "DB8",
+          "source_tag": "AVSAB",
+          "vis": "Two weights on a scale: INFECTION and BEHAVIOR / The BEHAVIOR side drops / Puppy at class, sitting for a treat",
+          "shots": [
+            {
+              "t": 135.4,
+              "dur": 2.26,
+              "vis": "Two weights on a scale: INFECTION and BEHAVIOR"
+            },
+            {
+              "t": 137.7,
+              "dur": 2.26,
+              "vis": "The BEHAVIOR side drops"
+            },
+            {
+              "t": 139.9,
+              "dur": 2.26,
+              "vis": "Puppy at class, sitting for a treat"
+            }
+          ],
+          "_t": 135.4,
+          "_dur": 6.79,
+          "_beats": ""
+        },
+        {
+          "id": "s2.l12",
+          "say": "Which brings us to the shots.",
+          "vis": "Tile 3 flips half-way: a syringe icon",
+          "shots": [
+            {
+              "t": 142.2,
+              "dur": 2.15,
+              "vis": "Tile 3 flips half-way: a syringe icon"
+            }
+          ],
+          "_t": 142.2,
+          "_dur": 1.85,
+          "_beats": "R"
+        }
+      ],
+      "_midroll_after": {
+        "type": "primary",
+        "at": 144.2,
+        "note": "Break in the 0.3 s gap after this chapter's last line, before the next voiced number line. Never mid-sentence."
+      }
+    },
+    {
+      "chapter": "3. The shots",
+      "chip": "3 OF 8",
+      "_start": 144.3,
+      "lines": [
+        {
+          "id": "s3.l0",
+          "say": "Number three. The shots.",
+          "vis": "Voiced number card over a vet exam table",
+          "shots": [
+            {
+              "t": 144.3,
+              "dur": 1.23,
+              "vis": "Voiced number card over a vet exam table"
+            }
+          ],
+          "card": "3 OF 8: THE SHOTS",
+          "_t": 144.3,
+          "_dur": 1.23,
+          "_beats": ""
+        },
+        {
+          "id": "s3.l1",
+          "say": "The protection in your mother's milk may wear off before your own immune system is ready.",
+          "src": "DB11",
+          "source_tag": "AVMA",
+          "vis": "Puppy nursing; a soft shield glows around it / The shield fades / An empty gap between two bars: MOTHER'S MILK and OWN IMMUNITY",
+          "shots": [
+            {
+              "t": 145.6,
+              "dur": 2.47,
+              "vis": "Puppy nursing; a soft shield glows around it; then The shield fades"
+            },
+            {
+              "t": 148.0,
+              "dur": 2.47,
+              "vis": "An empty gap between two bars: MOTHER'S MILK and OWN IMMUNITY"
+            }
+          ],
+          "_t": 145.6,
+          "_dur": 4.94,
+          "_beats": ""
+        },
+        {
+          "id": "s3.l2",
+          "say": "That gap is where parvovirus comes in.",
+          "src": "DB11",
+          "source_tag": "AVMA",
+          "vis": "Drawn virus particles drift into the gap",
+          "shots": [
+            {
+              "t": 150.5,
+              "dur": 2.16,
+              "vis": "Drawn virus particles drift into the gap"
+            }
+          ],
+          "card": "PARVOVIRUS",
+          "_t": 150.5,
+          "_dur": 2.16,
+          "_beats": "P"
+        },
+        {
+          "id": "s3.l3",
+          "say": "Puppies under four months, and dogs that aren't fully vaccinated, are at increased risk.",
+          "src": "DB10, DB11",
+          "source_tag": "AVMA; Merck Veterinary Manual",
+          "vis": "Calendar: UNDER 4 MONTHS / Vaccine card with empty boxes / Puppy sniffing a sidewalk",
+          "shots": [
+            {
+              "t": 152.7,
+              "dur": 2.16,
+              "vis": "Calendar: UNDER 4 MONTHS; then Vaccine card with empty boxes"
+            },
+            {
+              "t": 154.8,
+              "dur": 2.16,
+              "vis": "Puppy sniffing a sidewalk"
+            }
+          ],
+          "card": "UNDER 4 MONTHS OR NOT VACCINATED",
+          "_t": 152.7,
+          "_dur": 4.32,
+          "_beats": "P"
+        },
+        {
+          "id": "s3.l4",
+          "say": "The signs are things like no appetite, vomiting, fever, and severe, often bloody diarrhea.",
+          "src": "DB11",
+          "source_tag": "AVMA",
+          "vis": "Puppy ignoring a full bowl / Thermometer icon / Puppy curled up, flat, on a towel",
+          "shots": [
+            {
+              "t": 157.0,
+              "dur": 2.16,
+              "vis": "Puppy ignoring a full bowl; then Thermometer icon"
+            },
+            {
+              "t": 159.2,
+              "dur": 2.16,
+              "vis": "Puppy curled up, flat, on a towel"
+            }
+          ],
+          "_t": 157.0,
+          "_dur": 4.32,
+          "_beats": ""
+        },
+        {
+          "id": "s3.l5",
+          "say": "Most parvo deaths happen within two to three days of the first signs. If your puppy shows any of them, call your vet right away.",
+          "src": "DB11",
+          "source_tag": "AVMA",
+          "vis": "Plain card: 48 TO 72 HOURS AFTER SIGNS START / Phone icon: CALL YOUR VET / Owner carrying a puppy through a clinic door / Meter dips toward RAW",
+          "shots": [
+            {
+              "t": 161.3,
+              "dur": 2.57,
+              "vis": "Plain card: 48 TO 72 HOURS AFTER SIGNS START; then Phone icon: CALL YOUR VET"
+            },
+            {
+              "t": 163.9,
+              "dur": 2.57,
+              "vis": "Owner carrying a puppy through a clinic door"
+            },
+            {
+              "t": 166.5,
+              "dur": 2.57,
+              "vis": "Meter dips toward RAW"
+            }
+          ],
+          "card": "SIGNS? CALL YOUR VET",
+          "meter": 30,
+          "_t": 161.3,
+          "_dur": 7.71,
+          "_beats": "P"
+        },
+        {
+          "id": "s3.l6",
+          "say": "With aggressive treatment in a hospital, survival is usually above 90 percent. Outpatient care has been reported at about 80.",
+          "src": "DB12",
+          "source_tag": "Merck Veterinary Manual",
+          "vis": "Puppy on a drip, tail moving / Chip: OVER 90% IN HOSPITAL / Chip: ABOUT 80% OUTPATIENT",
+          "shots": [
+            {
+              "t": 169.0,
+              "dur": 2.06,
+              "vis": "Puppy on a drip, tail moving"
+            },
+            {
+              "t": 171.1,
+              "dur": 2.06,
+              "vis": "Chip: OVER 90% IN HOSPITAL"
+            },
+            {
+              "t": 173.1,
+              "dur": 2.06,
+              "vis": "Chip: ABOUT 80% OUTPATIENT"
+            }
+          ],
+          "card": "OVER 90% IN HOSPITAL",
+          "meter": 45,
+          "_t": 169.0,
+          "_dur": 6.17,
+          "_beats": ""
+        },
+        {
+          "id": "s3.l7",
+          "say": "Meatball got his shots too. He made Noodle hold his paw. Noodle held the treat bag instead.",
+          "vis": "Meatball on the exam table, sleeve rolled up / Meatball reaches for Noodle's paw / Noodle has his head in the treat bag",
+          "shots": [
+            {
+              "t": 175.2,
+              "dur": 2.62,
+              "vis": "Meatball on the exam table, sleeve rolled up; then Meatball reaches for Noodle's paw"
+            },
+            {
+              "t": 177.8,
+              "dur": 2.62,
+              "vis": "Noodle has his head in the treat bag"
+            }
+          ],
+          "_t": 175.2,
+          "_dur": 5.24,
+          "_beats": "CJ"
+        },
+        {
+          "id": "s3.l8",
+          "say": "Here's the good part. Puppies with at least one vaccine aren't at greater risk at puppy class, as long as good practices are followed.",
+          "src": "DB37",
+          "source_tag": "AVMA",
+          "vis": "Puppy class again, puppies tumbling / Wipes being used on mats / Vaccine card: one stamp / Meter climbs past the middle",
+          "shots": [
+            {
+              "t": 180.4,
+              "dur": 2.47,
+              "vis": "Puppy class again, puppies tumbling; then Wipes being used on mats"
+            },
+            {
+              "t": 182.9,
+              "dur": 2.47,
+              "vis": "Vaccine card: one stamp"
+            },
+            {
+              "t": 185.4,
+              "dur": 2.77,
+              "vis": "Meter climbs past the middle"
+            }
+          ],
+          "card": "AT LEAST 1 VACCINE + GOOD PRACTICES",
+          "meter": 55,
+          "_t": 180.4,
+          "_dur": 7.4,
+          "_beats": "R"
+        }
+      ],
+      "_midroll_after": {
+        "type": "alt",
+        "at": 188.0,
+        "note": "Break in the 0.3 s gap after this chapter's last line, before the next voiced number line. Never mid-sentence."
+      }
+    },
+    {
+      "chapter": "4. Where you end up",
+      "chip": "4 OF 8",
+      "_start": 188.1,
+      "lines": [
+        {
+          "id": "s4.l0",
+          "say": "Number four. Where you end up.",
+          "vis": "Voiced number card over a map of tiny houses",
+          "shots": [
+            {
+              "t": 188.1,
+              "dur": 1.85,
+              "vis": "Voiced number card over a map of tiny houses"
+            }
+          ],
+          "card": "4 OF 8: WHERE YOU END UP",
+          "_t": 188.1,
+          "_dur": 1.85,
+          "_beats": ""
+        },
+        {
+          "id": "s4.l1",
+          "say": "Not every puppy goes straight to a couch.",
+          "vis": "A couch, empty / A shelter kennel, empty",
+          "shots": [
+            {
+              "t": 190.0,
+              "dur": 2.47,
+              "vis": "A couch, empty; then A shelter kennel, empty"
+            }
+          ],
+          "_t": 190.0,
+          "_dur": 2.47,
+          "_beats": ""
+        },
+        {
+          "id": "s4.l2",
+          "say": "In 2025, about 2.8 million dogs entered shelters and rescues in the U.S.",
+          "src": "DB13",
+          "source_tag": "ASPCA",
+          "vis": "Plain counter climbs to 2.8 MILLION / Shelter intake desk, a line of leashes",
+          "shots": [
+            {
+              "t": 192.5,
+              "dur": 2.01,
+              "vis": "Plain counter climbs to 2.8 MILLION"
+            },
+            {
+              "t": 194.5,
+              "dur": 2.01,
+              "vis": "Shelter intake desk, a line of leashes"
+            }
+          ],
+          "card": "2.8 MILLION DOGS (US, 2025)",
+          "meter": 35,
+          "_t": 192.5,
+          "_dur": 4.01,
+          "_beats": "P"
+        },
+        {
+          "id": "s4.l3",
+          "say": "And dogs, especially big dogs, are waiting longer to get adopted than they were five years ago.",
+          "src": "DB13",
+          "source_tag": "ASPCA",
+          "vis": "Big dog in a kennel, sitting / Calendar pages flipping / Same kennel, same dog, later",
+          "shots": [
+            {
+              "t": 196.5,
+              "dur": 2.62,
+              "vis": "Big dog in a kennel, sitting; then Calendar pages flipping"
+            },
+            {
+              "t": 199.1,
+              "dur": 2.62,
+              "vis": "Same kennel, same dog, later"
+            }
+          ],
+          "_t": 196.5,
+          "_dur": 5.24,
+          "_beats": ""
+        },
+        {
+          "id": "s4.l4",
+          "say": "About two million of those dogs were adopted, and 542,000 went back to their owners.",
+          "src": "DB14",
+          "source_tag": "ASPCA",
+          "vis": "Plain bars: ADOPTED ABOUT 2M / RETURNED 542K",
+          "shots": [
+            {
+              "t": 201.7,
+              "dur": 2.31,
+              "vis": "Plain bars: ADOPTED ABOUT 2M"
+            },
+            {
+              "t": 204.0,
+              "dur": 2.31,
+              "vis": "RETURNED 542K"
+            }
+          ],
+          "_t": 201.7,
+          "_dur": 4.63,
+          "_beats": ""
+        },
+        {
+          "id": "s4.l5",
+          "say": "If you got adopted, you're in the biggest group by far.",
+          "src": "DB14",
+          "source_tag": "ASPCA",
+          "vis": "The ADOPTED bar glows / A dog hopping into the back seat of a family car, door wide open",
+          "shots": [
+            {
+              "t": 206.3,
+              "dur": 3.39,
+              "vis": "The ADOPTED bar glows; then A dog hopping into the back seat of a family car, door wide open"
+            }
+          ],
+          "meter": 50,
+          "_t": 206.3,
+          "_dur": 3.39,
+          "_beats": "R"
+        },
+        {
+          "id": "s4.l6",
+          "say": "Meatball adopted Noodle. Sauce adopted Meatball's chair.",
+          "vis": "Meatball signing a form, Noodle at his feet / Sauce in Meatball's chair, not moving",
+          "shots": [
+            {
+              "t": 209.7,
+              "dur": 2.16,
+              "vis": "Meatball signing a form, Noodle at his feet; then Sauce in Meatball's chair, not moving"
+            }
+          ],
+          "_t": 209.7,
+          "_dur": 2.16,
+          "_beats": "CJ"
+        },
+        {
+          "id": "s4.l7",
+          "say": "And those are just the dogs. Cats were another 3 million.",
+          "src": "DB13",
+          "source_tag": "ASPCA",
+          "vis": "Counter: 3 MILLION CATS / Sauce glances at the counter",
+          "shots": [
+            {
+              "t": 211.9,
+              "dur": 3.69,
+              "vis": "Counter: 3 MILLION CATS; then Sauce glances at the counter"
+            }
+          ],
+          "card": "CATS: 3 MILLION",
+          "_t": 211.9,
+          "_dur": 3.39,
+          "_beats": ""
+        }
+      ],
+      "_midroll_after": {
+        "type": "alt",
+        "at": 215.4,
+        "note": "Break in the 0.3 s gap after this chapter's last line, before the next voiced number line. Never mid-sentence."
+      }
+    },
+    {
+      "chapter": "Halfway",
+      "chip": "",
+      "_start": 215.6,
+      "lines": [
+        {
+          "id": "s5.l0",
+          "say": "Halfway. Your eyes are open, you've had your shots, and you've got a home.",
+          "vis": "Tiles 1 to 4 flip face up / Puppy, bigger, on a couch",
+          "shots": [
+            {
+              "t": 215.6,
+              "dur": 2.16,
+              "vis": "Tiles 1 to 4 flip face up"
+            },
+            {
+              "t": 217.7,
+              "dur": 2.16,
+              "vis": "Puppy, bigger, on a couch"
+            }
+          ],
+          "card": "HALFWAY",
+          "_t": 215.6,
+          "_dur": 4.32,
+          "_beats": "R"
+        },
+        {
+          "id": "s5.l1",
+          "say": "Meatball wants to know which of the first four gets you. The box, the clock, the shots, or the shelter. Pick a number and put it in the comments.",
+          "vis": "Meatball holds up four fingers / Comment pill pops bottom right: 1, 2, 3 OR 4 / The four tiles light up in turn / Meatball points at the comment pill",
+          "shots": [
+            {
+              "t": 219.9,
+              "dur": 2.24,
+              "vis": "Meatball holds up four fingers"
+            },
+            {
+              "t": 222.1,
+              "dur": 2.24,
+              "vis": "Comment pill pops bottom right: 1, 2, 3 OR 4"
+            },
+            {
+              "t": 224.4,
+              "dur": 2.24,
+              "vis": "The four tiles light up in turn"
+            },
+            {
+              "t": 226.6,
+              "dur": 2.24,
+              "vis": "Meatball points at the comment pill"
+            }
+          ],
+          "card": "COMMENT: WHICH ONE GETS YOU? 1, 2, 3 OR 4",
+          "_t": 219.9,
+          "_dur": 8.95,
+          "_beats": "CM"
+        },
+        {
+          "id": "s5.l2",
+          "say": "Because the next four are the ones you can walk right into. Starting with the kitchen.",
+          "vis": "Tiles 5 to 8 still face down / Camera rushes down a hallway / Into the kitchen; tile 5 flips",
+          "shots": [
+            {
+              "t": 228.9,
+              "dur": 2.47,
+              "vis": "Tiles 5 to 8 still face down; then Camera rushes down a hallway"
+            },
+            {
+              "t": 231.3,
+              "dur": 2.77,
+              "vis": "Into the kitchen; tile 5 flips"
+            }
+          ],
+          "_t": 228.9,
+          "_dur": 4.94,
+          "_beats": "RP"
+        }
+      ]
+    },
+    {
+      "chapter": "5. The kitchen",
+      "chip": "5 OF 8",
+      "_start": 234.1,
+      "lines": [
+        {
+          "id": "s6.l0",
+          "say": "Number five. The kitchen.",
+          "vis": "Voiced number card slides over the counter",
+          "shots": [
+            {
+              "t": 234.1,
+              "dur": 1.23,
+              "vis": "Voiced number card slides over the counter"
+            }
+          ],
+          "card": "5 OF 8: THE KITCHEN",
+          "_t": 234.1,
+          "_dur": 1.23,
+          "_beats": ""
+        },
+        {
+          "id": "s6.l1",
+          "say": "Chocolate is toxic to dogs.",
+          "src": "DB15",
+          "source_tag": "FDA",
+          "vis": "A chocolate bar on the counter; dog's nose at the edge",
+          "shots": [
+            {
+              "t": 235.3,
+              "dur": 1.54,
+              "vis": "A chocolate bar on the counter; dog's nose at the edge"
+            }
+          ],
+          "card": "CHOCOLATE: TOXIC TO DOGS",
+          "_t": 235.3,
+          "_dur": 1.54,
+          "_beats": "P"
+        },
+        {
+          "id": "s6.l2",
+          "say": "The problem is theobromine. Mild signs can start at as little as nine milligrams per pound of your body weight, and severe signs around eighteen.",
+          "src": "DB15",
+          "source_tag": "FDA",
+          "vis": "Molecule chip: THEOBROMINE / Scale: a small dog and a big dog / Chip: MILD 9 MG/LB / Chip: SEVERE ABOUT 18 MG/LB",
+          "shots": [
+            {
+              "t": 236.9,
+              "dur": 2.57,
+              "vis": "Molecule chip: THEOBROMINE; then Scale: a small dog and a big dog"
+            },
+            {
+              "t": 239.4,
+              "dur": 2.57,
+              "vis": "Chip: MILD 9 MG/LB"
+            },
+            {
+              "t": 242.0,
+              "dur": 2.57,
+              "vis": "Chip: SEVERE ABOUT 18 MG/LB"
+            }
+          ],
+          "card": "MILD: AS LOW AS 9 MG PER LB",
+          "meter": 28,
+          "_t": 236.9,
+          "_dur": 7.71,
+          "_beats": "P"
+        },
+        {
+          "id": "s6.l3",
+          "say": "The darker the chocolate, the more theobromine. An ounce of dark can have about 227 milligrams. Milk chocolate, about 57.",
+          "src": "DB16",
+          "source_tag": "FDA",
+          "vis": "Milk, semi-sweet and dark bars in a row / Dark bar's bar-chart shoots up / Chips: 227 vs 57 PER OUNCE",
+          "shots": [
+            {
+              "t": 244.6,
+              "dur": 2.06,
+              "vis": "Milk, semi-sweet and dark bars in a row"
+            },
+            {
+              "t": 246.6,
+              "dur": 2.06,
+              "vis": "Dark bar's bar-chart shoots up"
+            },
+            {
+              "t": 248.7,
+              "dur": 2.06,
+              "vis": "Chips: 227 vs 57 PER OUNCE"
+            }
+          ],
+          "card": "DARK ~227 MG/OZ, MILK ~57",
+          "_t": 244.6,
+          "_dur": 6.17,
+          "_beats": ""
+        },
+        {
+          "id": "s6.l4",
+          "say": "Meatball put the chocolate on the top shelf. Then he couldn't reach it either. Damn.",
+          "vis": "Meatball on tiptoes, sliding the bar onto the top shelf / Later: Meatball on tiptoes again, can't reach / He gives up",
+          "shots": [
+            {
+              "t": 250.7,
+              "dur": 2.31,
+              "vis": "Meatball on tiptoes, sliding the bar onto the top shelf; then Later: Meatball on tiptoes again, can't reach"
+            },
+            {
+              "t": 253.1,
+              "dur": 2.31,
+              "vis": "He gives up"
+            }
+          ],
+          "_t": 250.7,
+          "_dur": 4.63,
+          "_beats": "CJS"
+        },
+        {
+          "id": "s6.l5",
+          "say": "Then there's xylitol, a sweetener in some sugar-free gum, candy, baked goods and toothpaste.",
+          "src": "DB17, DB18",
+          "source_tag": "FDA; ASPCA",
+          "vis": "Gum pack, label zooms: XYLITOL / Candy and a muffin / Toothpaste tube",
+          "shots": [
+            {
+              "t": 255.4,
+              "dur": 2.16,
+              "vis": "Gum pack, label zooms: XYLITOL; then Candy and a muffin"
+            },
+            {
+              "t": 257.5,
+              "dur": 2.16,
+              "vis": "Toothpaste tube"
+            }
+          ],
+          "card": "XYLITOL",
+          "_t": 255.4,
+          "_dur": 4.32,
+          "_beats": ""
+        },
+        {
+          "id": "s6.l6",
+          "say": "In a dog, it can drop your blood sugar fast, within ten to sixty minutes, and without treatment that can quickly be life-threatening.",
+          "src": "DB17",
+          "source_tag": "FDA",
+          "vis": "Blood-sugar line drops off a cliff / Clock: 10 TO 60 MINUTES / Plain card: CAN BE LIFE-THREATENING / Meter dips hard toward RAW",
+          "shots": [
+            {
+              "t": 259.7,
+              "dur": 2.37,
+              "vis": "Blood-sugar line drops off a cliff; then Clock: 10 TO 60 MINUTES"
+            },
+            {
+              "t": 262.1,
+              "dur": 2.37,
+              "vis": "Plain card: CAN BE LIFE-THREATENING"
+            },
+            {
+              "t": 264.4,
+              "dur": 2.37,
+              "vis": "Meter dips hard toward RAW"
+            }
+          ],
+          "card": "10 TO 60 MINUTES",
+          "meter": 22,
+          "_t": 259.7,
+          "_dur": 7.1,
+          "_beats": "P"
+        },
+        {
+          "id": "s6.l7",
+          "say": "Grapes and raisins can lead to kidney damage. Onions, garlic and chives can damage red blood cells.",
+          "src": "DB19, DB20",
+          "source_tag": "ASPCA",
+          "vis": "Bunch of grapes, then raisins / Kidney icon / Onion, garlic, chives",
+          "shots": [
+            {
+              "t": 266.8,
+              "dur": 2.62,
+              "vis": "Bunch of grapes, then raisins; then Kidney icon"
+            },
+            {
+              "t": 269.4,
+              "dur": 2.62,
+              "vis": "Onion, garlic, chives"
+            }
+          ],
+          "_t": 266.8,
+          "_dur": 5.24,
+          "_beats": ""
+        },
+        {
+          "id": "s6.l8",
+          "say": "Onions are even riskier for cats. That one's for Sauce.",
+          "src": "DB20",
+          "source_tag": "ASPCA",
+          "vis": "Onion slides away from Sauce's bowl / Sauce, unimpressed",
+          "shots": [
+            {
+              "t": 272.0,
+              "dur": 3.08,
+              "vis": "Onion slides away from Sauce's bowl; then Sauce, unimpressed"
+            }
+          ],
+          "card": "CATS: MORE SUSCEPTIBLE",
+          "_t": 272.0,
+          "_dur": 3.08,
+          "_beats": "C"
+        },
+        {
+          "id": "s6.l9",
+          "say": "If you think your dog ate any of these, note how much, and call your vet or an animal poison control line right away.",
+          "src": "DB17, DB21",
+          "source_tag": "FDA; ASPCA Animal Poison Control",
+          "vis": "Hand writing HOW MUCH on a sticky note / Phone dialling / On screen: ASPCA Animal Poison Control (888) 426-4435",
+          "shots": [
+            {
+              "t": 275.1,
+              "dur": 2.47,
+              "vis": "Hand writing HOW MUCH on a sticky note"
+            },
+            {
+              "t": 277.6,
+              "dur": 2.47,
+              "vis": "Phone dialling"
+            },
+            {
+              "t": 280.1,
+              "dur": 2.47,
+              "vis": "On screen: ASPCA Animal Poison Control (888) 426-4435"
+            }
+          ],
+          "card": "CALL YOUR VET OR POISON CONTROL: (888) 426-4435",
+          "_t": 275.1,
+          "_dur": 7.4,
+          "_beats": ""
+        },
+        {
+          "id": "s6.l10",
+          "say": "Meatball made a sign for the cupboard. Sauce knocked it off. Rude as hell.",
+          "vis": "Meatball tapes NOT FOR DOGS to a cupboard / Sauce on the counter, one paw / The sign floats to the floor",
+          "shots": [
+            {
+              "t": 282.5,
+              "dur": 2.16,
+              "vis": "Meatball tapes NOT FOR DOGS to a cupboard; then Sauce on the counter, one paw"
+            },
+            {
+              "t": 284.7,
+              "dur": 2.16,
+              "vis": "The sign floats to the floor"
+            }
+          ],
+          "_t": 282.5,
+          "_dur": 4.32,
+          "_beats": "CJS"
+        },
+        {
+          "id": "s6.l11",
+          "say": "The next one isn't in the house at all. It's in the driveway.",
+          "vis": "Camera pulls out through the front door / Tile 6 flips: the parked car",
+          "shots": [
+            {
+              "t": 286.8,
+              "dur": 2.01,
+              "vis": "Camera pulls out through the front door"
+            },
+            {
+              "t": 288.8,
+              "dur": 2.31,
+              "vis": "Tile 6 flips: the parked car"
+            }
+          ],
+          "_t": 286.8,
+          "_dur": 4.01,
+          "_beats": "R"
+        }
+      ],
+      "_midroll_after": {
+        "type": "primary",
+        "at": 291.0,
+        "note": "Break in the 0.3 s gap after this chapter's last line, before the next voiced number line. Never mid-sentence."
+      }
+    },
+    {
+      "chapter": "6. The parked car",
+      "chip": "6 OF 8",
+      "_start": 291.1,
+      "lines": [
+        {
+          "id": "s7.l0",
+          "say": "Number six. The parked car.",
+          "vis": "Voiced number card over a car in a parking lot",
+          "shots": [
+            {
+              "t": 291.1,
+              "dur": 1.54,
+              "vis": "Voiced number card over a car in a parking lot"
+            }
+          ],
+          "card": "6 OF 8: THE PARKED CAR",
+          "_t": 291.1,
+          "_dur": 1.54,
+          "_beats": ""
+        },
+        {
+          "id": "s7.l1",
+          "say": "On a day that doesn't even feel hot, a parked car can climb about 20 degrees in ten minutes, and almost 30 in twenty.",
+          "src": "DB22",
+          "source_tag": "AVMA",
+          "vis": "Mild day, car parked, a thermometer inside / Thermometer climbs: +20 IN 10 MIN / Clock jumps: +30 IN 20 MIN / Heat shimmer on the dashboard",
+          "shots": [
+            {
+              "t": 292.7,
+              "dur": 2.47,
+              "vis": "Mild day, car parked, a thermometer inside; then Thermometer climbs: +20 IN 10 MIN"
+            },
+            {
+              "t": 295.2,
+              "dur": 2.47,
+              "vis": "Clock jumps: +30 IN 20 MIN"
+            },
+            {
+              "t": 297.6,
+              "dur": 2.47,
+              "vis": "Heat shimmer on the dashboard"
+            }
+          ],
+          "card": "+20°F IN 10 MIN",
+          "_t": 292.7,
+          "_dur": 7.4,
+          "_beats": "P"
+        },
+        {
+          "id": "s7.l2",
+          "say": "After an hour, it can be more than 40 degrees hotter inside than out. A 70-degree day can mean more than 110 in the car.",
+          "src": "DB22",
+          "source_tag": "AVMA",
+          "vis": "Split screen: 70° OUTSIDE / 110°+ INSIDE / Steering wheel heat shimmer / Meter drops to its lowest",
+          "shots": [
+            {
+              "t": 300.1,
+              "dur": 2.57,
+              "vis": "Split screen: 70° OUTSIDE; then 110°+ INSIDE"
+            },
+            {
+              "t": 302.7,
+              "dur": 2.57,
+              "vis": "Steering wheel heat shimmer"
+            },
+            {
+              "t": 305.2,
+              "dur": 2.57,
+              "vis": "Meter drops to its lowest"
+            }
+          ],
+          "card": "70° OUT, 110°+ IN",
+          "meter": 20,
+          "_t": 300.1,
+          "_dur": 7.71,
+          "_beats": "P"
+        },
+        {
+          "id": "s7.l3",
+          "say": "And the climb is about the same whether it's 70 or 110 outside.",
+          "src": "DB22",
+          "source_tag": "AVMA",
+          "vis": "Two cars, one in spring, one in summer / Both thermometers climb together",
+          "shots": [
+            {
+              "t": 307.8,
+              "dur": 2.01,
+              "vis": "Two cars, one in spring, one in summer"
+            },
+            {
+              "t": 309.8,
+              "dur": 2.01,
+              "vis": "Both thermometers climb together"
+            }
+          ],
+          "card": "SAME CLIMB AT 70° OR 110°",
+          "_t": 307.8,
+          "_dur": 4.01,
+          "_beats": ""
+        },
+        {
+          "id": "s7.l4",
+          "say": "Parking in the shade doesn't fix it, and cracking the windows makes no difference.",
+          "src": "DB22",
+          "source_tag": "AVMA",
+          "vis": "Car under a tree; thermometer still climbs / Window cracked an inch; thermometer still climbs",
+          "shots": [
+            {
+              "t": 311.8,
+              "dur": 2.16,
+              "vis": "Car under a tree; thermometer still climbs"
+            },
+            {
+              "t": 314.0,
+              "dur": 2.16,
+              "vis": "Window cracked an inch; thermometer still climbs"
+            }
+          ],
+          "card": "SHADE AND CRACKED WINDOWS: NO DIFFERENCE",
+          "_t": 311.8,
+          "_dur": 4.32,
+          "_beats": ""
+        },
+        {
+          "id": "s7.l5",
+          "say": "Meatball taped the chart to his dashboard. It's the most he's ever read in a car.",
+          "vis": "Meatball tapes a temperature chart to the dash / He reads it, lips moving / Noodle in the house window, watching",
+          "shots": [
+            {
+              "t": 316.1,
+              "dur": 2.47,
+              "vis": "Meatball tapes a temperature chart to the dash; then He reads it, lips moving"
+            },
+            {
+              "t": 318.6,
+              "dur": 2.47,
+              "vis": "Noodle in the house window, watching"
+            }
+          ],
+          "_t": 316.1,
+          "_dur": 4.94,
+          "_beats": "CJ"
+        },
+        {
+          "id": "s7.l6",
+          "say": "So never leave a dog alone in a parked car, no matter the outdoor temperature or how long you think you'll be.",
+          "src": "DB23",
+          "source_tag": "AVMA",
+          "vis": "Plain card: NEVER ALONE IN A PARKED CAR / Owner walking away from a car, dog at their side / Shop door; the dog goes in or stays home / Card: NO MATTER THE TEMPERATURE",
+          "shots": [
+            {
+              "t": 321.1,
+              "dur": 2.26,
+              "vis": "Plain card: NEVER ALONE IN A PARKED CAR; then Owner walking away from a car, dog at their side"
+            },
+            {
+              "t": 323.3,
+              "dur": 2.26,
+              "vis": "Shop door; the dog goes in or stays home"
+            },
+            {
+              "t": 325.6,
+              "dur": 2.26,
+              "vis": "Card: NO MATTER THE TEMPERATURE"
+            }
+          ],
+          "card": "NEVER ALONE IN A PARKED CAR",
+          "_t": 321.1,
+          "_dur": 6.79,
+          "_beats": ""
+        },
+        {
+          "id": "s7.l7",
+          "say": "And cold cars are a risk too, for young, old, ill or thin pets.",
+          "src": "DB23",
+          "source_tag": "AVMA",
+          "vis": "Frosty windshield / Snow on the car roof",
+          "shots": [
+            {
+              "t": 327.9,
+              "dur": 2.16,
+              "vis": "Frosty windshield"
+            },
+            {
+              "t": 330.0,
+              "dur": 2.46,
+              "vis": "Snow on the car roof"
+            }
+          ],
+          "card": "COLD CARS TOO",
+          "_t": 327.9,
+          "_dur": 4.32,
+          "_beats": ""
+        }
+      ],
+      "_midroll_after": {
+        "type": "alt",
+        "at": 332.3,
+        "note": "Break in the 0.3 s gap after this chapter's last line, before the next voiced number line. Never mid-sentence."
+      }
+    },
+    {
+      "chapter": "7. The food bowl",
+      "chip": "7 OF 8",
+      "_start": 332.5,
+      "lines": [
+        {
+          "id": "s8.l0",
+          "say": "Number seven. The food bowl. This one sneaks up on you.",
+          "vis": "Voiced number card drops into a dog bowl / Bowl slowly overfills",
+          "shots": [
+            {
+              "t": 332.5,
+              "dur": 3.39,
+              "vis": "Voiced number card drops into a dog bowl; then Bowl slowly overfills"
+            }
+          ],
+          "card": "7 OF 8: THE FOOD BOWL",
+          "_t": 332.5,
+          "_dur": 3.39,
+          "_beats": "R"
+        },
+        {
+          "id": "s8.l1",
+          "say": "This one is on your people. In a lifelong study of 48 Labradors, one dog in each pair got 25 percent less food than its partner, from eight weeks old.",
+          "src": "DB24",
+          "source_tag": "Kealy et al. 2002, JAVMA",
+          "vis": "Two Labrador puppies side by side, two bowls / One bowl a quarter smaller / Pairs multiply into a grid of 48 / Calendar: FROM 8 WEEKS",
+          "shots": [
+            {
+              "t": 335.9,
+              "dur": 2.31,
+              "vis": "Two Labrador puppies side by side, two bowls"
+            },
+            {
+              "t": 338.2,
+              "dur": 2.31,
+              "vis": "One bowl a quarter smaller"
+            },
+            {
+              "t": 340.5,
+              "dur": 2.31,
+              "vis": "Pairs multiply into a grid of 48"
+            },
+            {
+              "t": 342.8,
+              "dur": 2.31,
+              "vis": "Calendar: FROM 8 WEEKS"
+            }
+          ],
+          "card": "48 LABS, 25% LESS FOOD",
+          "_t": 335.9,
+          "_dur": 9.25,
+          "_beats": "P"
+        },
+        {
+          "id": "s8.l2",
+          "say": "The leaner dogs lived significantly longer, on median, and long-term disease generally showed up later.",
+          "src": "DB24",
+          "source_tag": "Kealy et al. 2002, JAVMA",
+          "vis": "The lean Lab still running, grey muzzle / The other Lab lying down / Meter climbs past the middle",
+          "shots": [
+            {
+              "t": 345.1,
+              "dur": 2.31,
+              "vis": "The lean Lab still running, grey muzzle; then The other Lab lying down"
+            },
+            {
+              "t": 347.4,
+              "dur": 2.31,
+              "vis": "Meter climbs past the middle"
+            }
+          ],
+          "card": "LEANER: LONGER MEDIAN LIFE",
+          "meter": 60,
+          "_t": 345.1,
+          "_dur": 4.63,
+          "_beats": ""
+        },
+        {
+          "id": "s8.l3",
+          "say": "In over 50,000 pet dogs across twelve breeds, overweight dogs had a shorter median life in every breed.",
+          "src": "DB25",
+          "source_tag": "Salt et al. 2019, J Vet Intern Med",
+          "vis": "Twelve breed icons in a row / Each icon gets a shorter bar / Chip: 50,787 DOGS",
+          "shots": [
+            {
+              "t": 349.8,
+              "dur": 2.78,
+              "vis": "Twelve breed icons in a row; then Each icon gets a shorter bar"
+            },
+            {
+              "t": 352.5,
+              "dur": 2.78,
+              "vis": "Chip: 50,787 DOGS"
+            }
+          ],
+          "card": "SHORTER IN ALL 12 BREEDS",
+          "_t": 349.8,
+          "_dur": 5.55,
+          "_beats": "P"
+        },
+        {
+          "id": "s8.l4",
+          "say": "The biggest gap was in Yorkshire Terriers, about thirteen point seven years against sixteen point two.",
+          "src": "DB25",
+          "source_tag": "Salt et al. 2019, J Vet Intern Med",
+          "vis": "Two Yorkies, one rounder / Two bars: 13.7 and 16.2 / Gap highlighted",
+          "shots": [
+            {
+              "t": 355.3,
+              "dur": 2.47,
+              "vis": "Two Yorkies, one rounder; then Two bars: 13.7 and 16.2"
+            },
+            {
+              "t": 357.8,
+              "dur": 2.47,
+              "vis": "Gap highlighted"
+            }
+          ],
+          "card": "YORKIE: 13.7 vs 16.2",
+          "_t": 355.3,
+          "_dur": 4.94,
+          "_beats": ""
+        },
+        {
+          "id": "s8.l5",
+          "say": "The smallest was in German Shepherds, twelve point one against twelve point five.",
+          "src": "DB25",
+          "source_tag": "Salt et al. 2019, J Vet Intern Med",
+          "vis": "Two German Shepherds / Two bars almost the same",
+          "shots": [
+            {
+              "t": 360.2,
+              "dur": 2.01,
+              "vis": "Two German Shepherds"
+            },
+            {
+              "t": 362.2,
+              "dur": 2.01,
+              "vis": "Two bars almost the same"
+            }
+          ],
+          "card": "GSD: 12.1 vs 12.5",
+          "_t": 360.2,
+          "_dur": 4.01,
+          "_beats": ""
+        },
+        {
+          "id": "s8.l6",
+          "say": "Meatball tried eating less. Noodle helped. Damn it, Noodle.",
+          "vis": "Meatball pushes his plate a few inches away / Noodle's head enters frame; the plate is empty",
+          "shots": [
+            {
+              "t": 364.3,
+              "dur": 2.78,
+              "vis": "Meatball pushes his plate a few inches away; then Noodle's head enters frame; the plate is empty"
+            }
+          ],
+          "_t": 364.3,
+          "_dur": 2.78,
+          "_beats": "CJS"
+        },
+        {
+          "id": "s8.l7",
+          "say": "That's a study, not a diet plan. The right weight for your dog is a vet question.",
+          "src": "DB24, DB25",
+          "vis": "Vet putting a dog on a scale / Vet and owner looking at a body-shape chart",
+          "shots": [
+            {
+              "t": 367.0,
+              "dur": 2.62,
+              "vis": "Vet putting a dog on a scale"
+            },
+            {
+              "t": 369.6,
+              "dur": 2.92,
+              "vis": "Vet and owner looking at a body-shape chart"
+            }
+          ],
+          "_t": 367.0,
+          "_dur": 5.24,
+          "_beats": ""
+        }
+      ]
+    },
+    {
+      "chapter": "8. Time",
+      "chip": "8 OF 8",
+      "_start": 372.6,
+      "lines": [
+        {
+          "id": "s9.l0",
+          "say": "Number eight. Time.",
+          "vis": "Voiced number card over a clock face",
+          "shots": [
+            {
+              "t": 372.6,
+              "dur": 0.93,
+              "vis": "Voiced number card over a clock face"
+            }
+          ],
+          "card": "8 OF 8: TIME",
+          "_t": 372.6,
+          "_dur": 0.93,
+          "_beats": ""
+        },
+        {
+          "id": "s9.l1",
+          "say": "By the time you're three, you'll very likely have some early gum disease. It's the most common dental problem in dogs.",
+          "src": "DB26",
+          "source_tag": "AVMA",
+          "vis": "Dog yawns; camera pushes in on the teeth / Gumline glows red at the edge / Toothbrush icon",
+          "shots": [
+            {
+              "t": 373.5,
+              "dur": 2.16,
+              "vis": "Dog yawns; camera pushes in on the teeth"
+            },
+            {
+              "t": 375.7,
+              "dur": 2.16,
+              "vis": "Gumline glows red at the edge"
+            },
+            {
+              "t": 377.8,
+              "dur": 2.16,
+              "vis": "Toothbrush icon"
+            }
+          ],
+          "card": "BY AGE 3: VERY LIKELY",
+          "meter": 45,
+          "_t": 373.5,
+          "_dur": 6.48,
+          "_beats": ""
+        },
+        {
+          "id": "s9.l2",
+          "say": "It gets worse with age if nobody does anything, so your teeth should get checked by a vet at least once a year.",
+          "src": "DB26",
+          "source_tag": "AVMA",
+          "vis": "Grey-muzzled dog; gumline redder / Vet lifting a dog's lip / Calendar: ONCE A YEAR",
+          "shots": [
+            {
+              "t": 380.0,
+              "dur": 2.37,
+              "vis": "Grey-muzzled dog; gumline redder"
+            },
+            {
+              "t": 382.3,
+              "dur": 2.37,
+              "vis": "Vet lifting a dog's lip"
+            },
+            {
+              "t": 384.7,
+              "dur": 2.37,
+              "vis": "Calendar: ONCE A YEAR"
+            }
+          ],
+          "card": "TEETH CHECKED AT LEAST YEARLY",
+          "_t": 380.0,
+          "_dur": 7.1,
+          "_beats": ""
+        },
+        {
+          "id": "s9.l3",
+          "say": "And you get old on a schedule set by your size.",
+          "src": "DB27, DB28",
+          "source_tag": "AVMA",
+          "vis": "Small, medium, large and giant dogs line up by height / Clock hands spin over them",
+          "shots": [
+            {
+              "t": 387.1,
+              "dur": 3.39,
+              "vis": "Small, medium, large and giant dogs line up by height; then Clock hands spin over them"
+            }
+          ],
+          "_t": 387.1,
+          "_dur": 3.39,
+          "_beats": "R"
+        },
+        {
+          "id": "s9.l4",
+          "say": "You're a senior in the last quarter of your expected life. For small dogs that's about eight to eleven. For giant dogs, about six to seven.",
+          "src": "DB27",
+          "source_tag": "AVMA",
+          "vis": "Timeline bar; the last quarter shades grey / Small dog: SENIOR AT 8 TO 11 / Giant dog: SENIOR AT 6 TO 7 / Both dogs, grey muzzles",
+          "shots": [
+            {
+              "t": 390.5,
+              "dur": 2.01,
+              "vis": "Timeline bar; the last quarter shades grey"
+            },
+            {
+              "t": 392.5,
+              "dur": 2.01,
+              "vis": "Small dog: SENIOR AT 8 TO 11"
+            },
+            {
+              "t": 394.5,
+              "dur": 2.01,
+              "vis": "Giant dog: SENIOR AT 6 TO 7"
+            },
+            {
+              "t": 396.5,
+              "dur": 2.01,
+              "vis": "Both dogs, grey muzzles"
+            }
+          ],
+          "card": "SENIOR: SMALL 8-11, GIANT 6-7",
+          "_t": 390.5,
+          "_dur": 8.02,
+          "_beats": "P"
+        },
+        {
+          "id": "s9.l5",
+          "say": "Six to seven. That's a short damn run for a big dog.",
+          "src": "DB27",
+          "source_tag": "AVMA",
+          "vis": "Great Dane lying on a rug, grey muzzle / Slow push in",
+          "shots": [
+            {
+              "t": 398.5,
+              "dur": 3.7,
+              "vis": "Great Dane lying on a rug, grey muzzle; then Slow push in"
+            }
+          ],
+          "_t": 398.5,
+          "_dur": 3.7,
+          "_beats": "S"
+        },
+        {
+          "id": "s9.l6",
+          "say": "Bigger breeds tend to live shorter lives. In one count of over half a million dogs in the UK, the typical dog lived about twelve and a half years.",
+          "src": "DB28, DB30",
+          "source_tag": "AVMA; McMillan et al. 2024, Scientific Reports",
+          "vis": "Giant dog's bar shorter than a terrier's / Map of the UK fills with dots / Counter: 584,734 DOGS / Chip: ABOUT 12.5 YEARS",
+          "shots": [
+            {
+              "t": 402.2,
+              "dur": 2.24,
+              "vis": "Giant dog's bar shorter than a terrier's"
+            },
+            {
+              "t": 404.4,
+              "dur": 2.24,
+              "vis": "Map of the UK fills with dots"
+            },
+            {
+              "t": 406.7,
+              "dur": 2.24,
+              "vis": "Counter: 584,734 DOGS"
+            },
+            {
+              "t": 408.9,
+              "dur": 2.24,
+              "vis": "Chip: ABOUT 12.5 YEARS"
+            }
+          ],
+          "card": "ABOUT 12.5 YEARS (UK)",
+          "_t": 402.2,
+          "_dur": 8.95,
+          "_beats": ""
+        },
+        {
+          "id": "s9.l7",
+          "say": "Depending on the breed, that typical age ran from about five to over fifteen years.",
+          "src": "DB30",
+          "source_tag": "McMillan et al. 2024, Scientific Reports",
+          "vis": "Two breed cards slide apart: 5.4 and 15.4 / The range bar stretches between them",
+          "shots": [
+            {
+              "t": 411.1,
+              "dur": 2.31,
+              "vis": "Two breed cards slide apart: 5.4 and 15.4"
+            },
+            {
+              "t": 413.4,
+              "dur": 2.31,
+              "vis": "The range bar stretches between them"
+            }
+          ],
+          "card": "5.4 TO 15.4 BY BREED",
+          "_t": 411.1,
+          "_dur": 4.63,
+          "_beats": ""
+        },
+        {
+          "id": "s9.l8",
+          "say": "Seven dog years for every human one? That's not how dogs age. A DNA study in Labradors found the curve isn't a straight line.",
+          "src": "DB28, DB31",
+          "source_tag": "AVMA; Wang et al. 2020, Cell Systems",
+          "vis": "Big 1 = 7 card / It cracks in half / A curved line draws itself / Labrador beside the curve",
+          "shots": [
+            {
+              "t": 415.8,
+              "dur": 2.47,
+              "vis": "Big 1 = 7 card; then It cracks in half"
+            },
+            {
+              "t": 418.2,
+              "dur": 2.47,
+              "vis": "A curved line draws itself"
+            },
+            {
+              "t": 420.7,
+              "dur": 2.47,
+              "vis": "Labrador beside the curve"
+            }
+          ],
+          "card": "NOT 7 TO 1",
+          "_t": 415.8,
+          "_dur": 7.4,
+          "_beats": "RP"
+        },
+        {
+          "id": "s9.l9",
+          "say": "Meatball tried to do the math anyway. He ran out of fingers.",
+          "vis": "Meatball counting on his fingers / He borrows Noodle's paw / He gives up",
+          "shots": [
+            {
+              "t": 423.2,
+              "dur": 3.7,
+              "vis": "Meatball counting on his fingers; then He borrows Noodle's paw; then He gives up"
+            }
+          ],
+          "_t": 423.2,
+          "_dur": 3.7,
+          "_beats": "CJ"
+        },
+        {
+          "id": "s9.l10",
+          "say": "Cancer is the cause of death in almost half of dogs over ten. That's why seniors are supposed to see a vet twice a year or more.",
+          "src": "DB29, DB36",
+          "source_tag": "AVMA",
+          "vis": "Plain card on a dimmed background: ALMOST HALF OF DOGS OVER 10 / Grey-muzzled dog on a vet table, calm / Calendar with two circled visits",
+          "shots": [
+            {
+              "t": 426.9,
+              "dur": 2.78,
+              "vis": "Plain card on a dimmed background: ALMOST HALF OF DOGS OVER 10"
+            },
+            {
+              "t": 429.6,
+              "dur": 2.78,
+              "vis": "Grey-muzzled dog on a vet table, calm"
+            },
+            {
+              "t": 432.4,
+              "dur": 3.08,
+              "vis": "Calendar with two circled visits"
+            }
+          ],
+          "card": "ALMOST HALF OF DOGS OVER 10",
+          "meter": 30,
+          "_t": 426.9,
+          "_dur": 8.33,
+          "_beats": ""
+        }
+      ],
+      "_midroll_after": {
+        "type": "alt",
+        "at": 435.3,
+        "note": "Break in the 0.3 s gap after this chapter's last line, before the next voiced number line. Never mid-sentence."
+      }
+    },
+    {
+      "chapter": "What you got",
+      "chip": "",
+      "_start": 435.5,
+      "lines": [
+        {
+          "id": "s10.l0",
+          "say": "So what do you get for all that?",
+          "vis": "Tiles 1 to 8 face up; they slide aside",
+          "shots": [
+            {
+              "t": 435.5,
+              "dur": 2.47,
+              "vis": "Tiles 1 to 8 face up; they slide aside"
+            }
+          ],
+          "_t": 435.5,
+          "_dur": 2.47,
+          "_beats": "R"
+        },
+        {
+          "id": "s10.l1",
+          "say": "A nose. People have about five or six million scent receptors. You have up to 100 million or more, depending on your breed.",
+          "src": "DB32",
+          "source_tag": "American Kennel Club",
+          "vis": "Extreme close-up: wet nose, nostrils flaring / Chip: PEOPLE 5-6 MILLION / Chip: DOGS UP TO 100 MILLION+ / Scent trails glow across the room",
+          "shots": [
+            {
+              "t": 438.0,
+              "dur": 2.37,
+              "vis": "Extreme close-up: wet nose, nostrils flaring; then Chip: PEOPLE 5-6 MILLION"
+            },
+            {
+              "t": 440.3,
+              "dur": 2.37,
+              "vis": "Chip: DOGS UP TO 100 MILLION+"
+            },
+            {
+              "t": 442.7,
+              "dur": 2.37,
+              "vis": "Scent trails glow across the room"
+            }
+          ],
+          "card": "UP TO 100 MILLION+",
+          "meter": 65,
+          "_t": 438.0,
+          "_dur": 7.1,
+          "_beats": "P"
+        },
+        {
+          "id": "s10.l2",
+          "say": "If you're a Bloodhound, 300 million.",
+          "src": "DB32",
+          "source_tag": "American Kennel Club",
+          "vis": "Bloodhound, ears dragging, nose down",
+          "shots": [
+            {
+              "t": 445.1,
+              "dur": 1.85,
+              "vis": "Bloodhound, ears dragging, nose down"
+            }
+          ],
+          "card": "BLOODHOUND: 300 MILLION",
+          "_t": 445.1,
+          "_dur": 1.85,
+          "_beats": ""
+        },
+        {
+          "id": "s10.l3",
+          "say": "The part of your brain that handles smell is about 40 times bigger than ours.",
+          "src": "DB33",
+          "source_tag": "American Kennel Club",
+          "vis": "Two drawn brains side by side / The smell area on the dog brain swells / Chip: 40X",
+          "shots": [
+            {
+              "t": 446.9,
+              "dur": 2.31,
+              "vis": "Two drawn brains side by side; then The smell area on the dog brain swells"
+            },
+            {
+              "t": 449.2,
+              "dur": 2.31,
+              "vis": "Chip: 40X"
+            }
+          ],
+          "card": "40X BIGGER",
+          "_t": 446.9,
+          "_dur": 4.63,
+          "_beats": ""
+        },
+        {
+          "id": "s10.l4",
+          "say": "Meatball sniffed every room in the house for a full day. He found the sandwich. Noodle had already found it.",
+          "vis": "Meatball on all fours, sniffing the couch / He finds a plate / Empty plate; Noodle licking his lips",
+          "shots": [
+            {
+              "t": 451.5,
+              "dur": 2.06,
+              "vis": "Meatball on all fours, sniffing the couch"
+            },
+            {
+              "t": 453.6,
+              "dur": 2.06,
+              "vis": "He finds a plate"
+            },
+            {
+              "t": 455.6,
+              "dur": 2.06,
+              "vis": "Empty plate; Noodle licking his lips"
+            }
+          ],
+          "_t": 451.5,
+          "_dur": 6.17,
+          "_beats": "CJ"
+        },
+        {
+          "id": "s10.l5",
+          "say": "And your stare. In one study, when dogs gazed at their owners, the owners' oxytocin went up. Tame wolves didn't do that.",
+          "src": "DB34",
+          "source_tag": "Nagasawa et al. 2015, Science",
+          "vis": "Dog looking up at its owner / Owner looking back; a soft glow / Chip: OXYTOCIN UP / Tame wolf looking away",
+          "shots": [
+            {
+              "t": 457.7,
+              "dur": 2.26,
+              "vis": "Dog looking up at its owner; then Owner looking back; a soft glow"
+            },
+            {
+              "t": 460.0,
+              "dur": 2.26,
+              "vis": "Chip: OXYTOCIN UP"
+            },
+            {
+              "t": 462.2,
+              "dur": 2.26,
+              "vis": "Tame wolf looking away"
+            }
+          ],
+          "card": "DOGS, NOT WOLVES",
+          "meter": 75,
+          "_t": 457.7,
+          "_dur": 6.79,
+          "_beats": "P"
+        },
+        {
+          "id": "s10.l6",
+          "say": "The researchers say that loop may have helped dogs and people bond, though other scientists call that too early to say.",
+          "src": "DB34",
+          "source_tag": "Nagasawa et al. 2015, Science; Fiset & Plourde 2015, Front Psychol (commentary)",
+          "vis": "Cave-painting style: early people and a dog / Big question mark stamps over it / Back to the dog and owner",
+          "shots": [
+            {
+              "t": 464.5,
+              "dur": 2.16,
+              "vis": "Cave-painting style: early people and a dog"
+            },
+            {
+              "t": 466.7,
+              "dur": 2.16,
+              "vis": "Big question mark stamps over it"
+            },
+            {
+              "t": 468.8,
+              "dur": 2.16,
+              "vis": "Back to the dog and owner"
+            }
+          ],
+          "card": "MAY HAVE HELPED",
+          "_t": 464.5,
+          "_dur": 6.48,
+          "_beats": ""
+        },
+        {
+          "id": "s10.l7",
+          "say": "And the licking? It's a greeting, not a kiss. If you do it over and over, you may be anxious about that person.",
+          "src": "DB35",
+          "source_tag": "Penn Vet",
+          "vis": "Dog licks a hand / Card: GREETING / Same dog licking again and again / Card: MAY BE ANXIOUS",
+          "shots": [
+            {
+              "t": 471.0,
+              "dur": 2.37,
+              "vis": "Dog licks a hand; then Card: GREETING"
+            },
+            {
+              "t": 473.3,
+              "dur": 2.37,
+              "vis": "Same dog licking again and again"
+            },
+            {
+              "t": 475.7,
+              "dur": 2.67,
+              "vis": "Card: MAY BE ANXIOUS"
+            }
+          ],
+          "card": "A GREETING, NOT A KISS",
+          "_t": 471.0,
+          "_dur": 7.1,
+          "_beats": ""
+        }
+      ]
+    },
+    {
+      "chapter": "The verdict",
+      "chip": "",
+      "_start": 478.4,
+      "lines": [
+        {
+          "id": "s11.l0",
+          "say": "Here's the verdict, and it's an opinion.",
+          "vis": "Two columns appear: RAW and SWEET",
+          "shots": [
+            {
+              "t": 478.4,
+              "dur": 2.16,
+              "vis": "Two columns appear: RAW and SWEET"
+            }
+          ],
+          "_t": 478.4,
+          "_dur": 2.16,
+          "_beats": "R"
+        },
+        {
+          "id": "s11.l1",
+          "say": "Raw: a fragile first week, a clock you didn't set, and a kitchen and a car that never stop being dangerous.",
+          "src": "DB4, DB5, DB15, DB22",
+          "vis": "RAW column: day-8 chip drops in / Stopwatch chip / Chocolate chip / Parked-car chip",
+          "shots": [
+            {
+              "t": 480.5,
+              "dur": 2.16,
+              "vis": "RAW column: day-8 chip drops in; then Stopwatch chip"
+            },
+            {
+              "t": 482.7,
+              "dur": 2.16,
+              "vis": "Chocolate chip"
+            },
+            {
+              "t": 484.8,
+              "dur": 2.16,
+              "vis": "Parked-car chip"
+            }
+          ],
+          "_t": 480.5,
+          "_dur": 6.48,
+          "_beats": ""
+        },
+        {
+          "id": "s11.l2",
+          "say": "Sweet: a nose that's up to 100 million strong, and people who look back when you stare.",
+          "src": "DB32, DB34",
+          "vis": "SWEET column: nose chip / Stare chip / Owner looking back",
+          "shots": [
+            {
+              "t": 487.0,
+              "dur": 2.62,
+              "vis": "SWEET column: nose chip; then Stare chip"
+            },
+            {
+              "t": 489.6,
+              "dur": 2.62,
+              "vis": "Owner looking back"
+            }
+          ],
+          "_t": 487.0,
+          "_dur": 5.24,
+          "_beats": ""
+        },
+        {
+          "id": "s11.l3",
+          "say": "Land with people who keep the chocolate up, leave you home instead of in the car, and keep your bowl honest, and it's a hell of a sweet deal.",
+          "vis": "Meter swings to RAW / Then climbs / Past the middle / Lands deep in SWEET",
+          "shots": [
+            {
+              "t": 492.2,
+              "dur": 2.24,
+              "vis": "Meter swings to RAW"
+            },
+            {
+              "t": 494.5,
+              "dur": 2.24,
+              "vis": "Then climbs"
+            },
+            {
+              "t": 496.7,
+              "dur": 2.24,
+              "vis": "Past the middle"
+            },
+            {
+              "t": 499.0,
+              "dur": 2.24,
+              "vis": "Lands deep in SWEET"
+            }
+          ],
+          "card": "OUR VERDICT: SWEET, IF YOU LAND WELL",
+          "meter": 80,
+          "_t": 492.2,
+          "_dur": 8.95,
+          "_beats": "RPS"
+        },
+        {
+          "id": "s11.l4",
+          "say": "Now think back to the puppy from the start. Eyes shut. Ears shut. One of about five.",
+          "src": "DB1, DB3",
+          "vis": "Callback: the same newborn shot from 0:00 / Slow push on the sealed eyes",
+          "shots": [
+            {
+              "t": 501.2,
+              "dur": 2.62,
+              "vis": "Callback: the same newborn shot from 0:00"
+            },
+            {
+              "t": 503.8,
+              "dur": 2.62,
+              "vis": "Slow push on the sealed eyes"
+            }
+          ],
+          "_t": 501.2,
+          "_dur": 5.24,
+          "_beats": "R"
+        },
+        {
+          "id": "s11.l5",
+          "say": "Noodle walked in with Meatball's last dinner roll. Again.",
+          "vis": "Noodle trots past, carrying a dinner roll / Meatball's empty plate",
+          "shots": [
+            {
+              "t": 506.4,
+              "dur": 2.78,
+              "vis": "Noodle trots past, carrying a dinner roll; then Meatball's empty plate"
+            }
+          ],
+          "_t": 506.4,
+          "_dur": 2.78,
+          "_beats": "CJ"
+        },
+        {
+          "id": "s11.l6",
+          "say": "Meatball's final stamp: sweet. Sauce's stamp: she fell asleep on it.",
+          "vis": "Meatball stamps SWEET / Sauce asleep on the stamp pad, paw prints everywhere",
+          "shots": [
+            {
+              "t": 509.2,
+              "dur": 3.39,
+              "vis": "Meatball stamps SWEET; then Sauce asleep on the stamp pad, paw prints everywhere"
+            }
+          ],
+          "_t": 509.2,
+          "_dur": 3.39,
+          "_beats": "CJ"
+        },
+        {
+          "id": "s11.l7",
+          "say": "Sauce wants a turn. Your Life as a House Cat is right here.",
+          "vis": "Sauce sits up, looks at camera / End screen: house cat video tile; Meatball points at it",
+          "shots": [
+            {
+              "t": 512.6,
+              "dur": 2.01,
+              "vis": "Sauce sits up, looks at camera"
+            },
+            {
+              "t": 514.6,
+              "dur": 2.01,
+              "vis": "End screen: house cat video tile; Meatball points at it"
+            }
+          ],
+          "_t": 512.6,
+          "_dur": 4.01,
+          "_beats": "CR"
+        }
+      ]
+    }
+  ],
+  "pinned_comment": "Meatball wants to know: which of the 8 gets you? Drop the number. Meatball's stamp: sweet. Sauce's: asleep on the pad.",
+  "mid_video_comment_prompt": {
+    "id": "s5.l1",
+    "t": 219.9,
+    "say": "Meatball wants to know which of the first four gets you. The box, the clock, the shots, or the shelter. Pick a number and put it in the comments.",
+    "on_screen": "COMMENT: WHICH ONE GETS YOU? 1, 2, 3 OR 4"
+  },
+  "end_screen_video": "Your Life as a House Cat: 8 Ways It Goes Wrong (posted.csv: YouTube, Fri 11/13 17:00 ET, live).",
+  "sources_file": "/workspace/drafts/facts/dog-bornas.md (box draft; would become research/<next>-dog-life-factpack.md if approved)",
+  "description": "What is life like for a dog? This is your whole life as one, from eyes shut in a litter of about five to a grey muzzle: 8 things you have to get through, then the verdict. Meatball tried all eight at home, with his dog, Noodle, as the real dog and his cat, Sauce, as everybody else.\n\nChecked facts in this video:\n- Puppies are born with their eyes and ears closed; they open at about 13 to 19 days (Merck Veterinary Manual).\n- In Norwegian purebred records, 8% of puppies died before 8 days old (Tønnessen et al. 2012).\n- Behavior problems are the number one reason dogs are given up to shelters (AVSAB).\n- Parvovirus: puppies under 4 months and dogs not fully vaccinated are at increased risk. If your puppy shows signs (no appetite, vomiting, fever, severe or bloody diarrhea), call your veterinarian right away (AVMA).\n- Chocolate is toxic to dogs; theobromine can cause mild signs at doses as low as 9 mg per pound of body weight (FDA).\n- Xylitol can drop a dog's blood sugar within 10 to 60 minutes. If you think your dog ate xylitol, chocolate, grapes, raisins, onions or garlic, note how much and call your vet, an emergency clinic, or animal poison control right away (FDA, ASPCA). ASPCA Animal Poison Control: (888) 426-4435.\n- Never leave a dog alone in a parked car, no matter the outdoor temperature or how long you'll be gone. A car can rise about 20°F in 10 minutes (AVMA).\n- Overweight dogs had a shorter median life in all 12 breeds studied (Salt et al. 2019).\n- Dogs don't age 7 human years per dog year (AVMA).\n\nGeneral information, not veterinary advice. Ask your vet about your own dog.\n\nSources:\n- Merck Veterinary Manual, Social Behavior of Dogs: https://www.merckvetmanual.com/behavior/behavior-of-dogs/social-behavior-of-dogs ; Canine Parvovirus Infection: https://www.merckvetmanual.com/digestive-system/infectious-diseases-of-the-gastrointestinal-tract-in-small-animals/canine-parvovirus-infection-parvoviral-enteritis-in-dogs\n- Merck Veterinary Manual (dog owners), Normal Social Behavior in Dogs: https://www.merckvetmanual.com/dog-owners/behavior-of-dogs/normal-social-behavior-in-dogs\n- Borge KS, Tønnessen R, Nødtvedt A, Indrebø A (2011) Litter size at birth in purebred dogs: a retrospective study of 224 breeds. Theriogenology 75:911-919. https://pubmed.ncbi.nlm.nih.gov/21196028/\n- Tønnessen R, Borge KS, Nødtvedt A, Indrebø A (2012) Canine perinatal mortality: a cohort study of 224 breeds. Theriogenology 77:1788-1801. https://pubmed.ncbi.nlm.nih.gov/22365700/\n- American Veterinary Society of Animal Behavior, Position Statement on Puppy Socialization: https://avsab.org/wp-content/uploads/2024/12/Puppy-Socialization-Position-Statement-FINAL.pdf\n- AVMA: Canine parvovirus brochure https://ebusiness.avma.org/files/productdownloads/MCM-ClientBrochures-20-CanineParvovirus.pdf ; Pet safety in vehicles https://www.avma.org/resources-tools/pet-owners/petcare/pets-vehicles ; Pet dental care https://www.avma.org/resources-tools/pet-owners/petcare/pet-dental-care ; Senior pets https://www.avma.org/resources-tools/pet-owners/petcare/senior-pets\n- ASPCA, Pet Statistics (2025 shelter estimates): https://www.aspca.org/helping-people-pets/shelter-intake-and-surrender/pet-statistics ; People Foods to Avoid Feeding Your Pets: https://www.aspca.org/pet-care/aspca-poison-control/people-foods-avoid-feeding-your-pets\n- ASPCA Animal Poison Control Center, (888) 426-4435\n- FDA, Leave Chocolate Out of Rover's Celebrations: https://www.fda.gov/animal-veterinary/animal-health-literacy/leave-chocolate-out-rovers-celebrations ; Paws Off Xylitol; It's Dangerous for Dogs: https://www.fda.gov/consumers/consumer-updates/paws-xylitol-its-dangerous-dogs\n- Kealy RD et al. (2002) Effects of diet restriction on life span and age-related changes in dogs. JAVMA 220:1315-1320. https://pubmed.ncbi.nlm.nih.gov/11991408/\n- Salt C et al. (2019) Association between life span and body condition in neutered client-owned dogs. J Vet Intern Med 33:89-99. https://pmc.ncbi.nlm.nih.gov/articles/PMC6335446/\n- McMillan KM et al. (2024) Longevity of companion dog breeds: those at risk from early death. Scientific Reports 14:531. https://pmc.ncbi.nlm.nih.gov/articles/PMC10834484/\n- Wang T et al. (2020) Quantitative translation of dog-to-human aging by conserved remodeling of the DNA methylome. Cell Systems 11:176-185. https://pmc.ncbi.nlm.nih.gov/articles/PMC7484147/\n- American Kennel Club, Why Does My Dog Sniff Everything?: https://www.akc.org/expert-advice/training/why-does-my-dog-sniff-everything/\n- Nagasawa M et al. (2015) Oxytocin-gaze positive loop and the coevolution of human-dog bonds. Science 348:333-336. https://pubmed.ncbi.nlm.nih.gov/25883356/\n- Fiset S, Plourde V (2015) Commentary: Oxytocin-gaze positive loop and the coevolution of human-dog bonds. Frontiers in Psychology 6:1845. https://pmc.ncbi.nlm.nih.gov/articles/PMC4663257/\n- Penn Vet, Dog Body Language Basics: https://www.vet.upenn.edu/wp-content/uploads/2024/12/dogbodylanguagebasics-pdf.pdf\n\n#dog #puppy #dogfacts #meatballmyths",
+  "art_needed": [
+    "Newborn puppy and litter of five with mother; eyes sealed (DB1). Lines: s0.*, s1.*, s11.l4.",
+    "Puppy at about two weeks with eyes opening; puppy class with mats; trainer's hand. Lines: s1.l5, s2.*, s3.l8.",
+    "Vet exam table, vaccine card, drawn virus particles, drip (no gore, no sick-puppy close-ups). Lines: s3.*.",
+    "Shelter kennel row, intake desk, plain outcome bars. Lines: s4.*.",
+    "Kitchen counter with chocolate (milk and dark), gum, candy, muffin, toothpaste, grapes, raisins, onion, garlic, chives; poison-control phone card. Lines: s6.*.",
+    "Parked car in sun and shade, thermometer, frosty windshield. Lines: s0.l4, s7.*.",
+    "Two Labradors with bowls; 12 breed icons; Yorkie pair; German Shepherd pair; vet scale. Lines: s8.*.",
+    "Breed line-up small to giant, grey muzzles, Great Dane on a rug, UK dot map, 1=7 card cracking. Lines: s9.*.",
+    "Nose close-up with scent trails, Bloodhound, two drawn brains, dog and owner gaze, tame wolf, licking hand. Lines: s10.*.",
+    "Meatball's cardboard ears, dog bed, rubber stamp (RAW/SWEET), sock, lamp, chart on a dashboard, cupboard sign. Noodle (dog) and Sauce (cat) name tags.",
+    "Lower-third source tag style (small, bottom left, about 2 s per line). Comment pill (bottom right) for the halfway prompt.",
+    "End screen: house cat video tile; Meatball points; tile pulses."
+  ],
+  "alt_cold_opens": [
+    {
+      "id": "A",
+      "say": "You were just born a dog, and you've got eight things to get through. Your eyes are shut, and one of them is a kitchen.",
+      "src": "DB1, DB15",
+      "promise_spoken_by_s": 4.32
+    },
+    {
+      "id": "B",
+      "say": "Eight things you have to get through, starting now: you were just born a dog. You're one of about five, and you can't see yet.",
+      "src": "DB3, DB1",
+      "promise_spoken_by_s": 4.63
+    },
+    {
+      "id": "C",
+      "say": "You were just born a dog. Eight things stand between you and a grey muzzle, and one of them is a parked car.",
+      "src": "DB22",
+      "promise_spoken_by_s": 4.63
+    }
+  ],
+  "_changelog": [
+    "Cut the 320,000 euthanized figure (and the 530,000 transferred clause) from s4.l4. Used the written fallback: 'About two million of those dogs were adopted, and 542,000 went back to their owners.' Re-timed the chapter; shots stay in the 2-4 s test (short voiced number cards excepted).",
+    "Kept the cancer line at s9.l10. DB29 quotes AVMA (senior-pets page): 'Cancer is the cause of death in almost half of dogs and about a third of cats over 10 years old.' The spoken line keeps the dog half of that wording. On-screen tag is AVMA. The twice-a-year vet-checkup line (DB36) follows in the same spoken line. Card: ALMOST HALF OF DOGS OVER 10.",
+    "Mid-rolls: kept the primary after chapter 2 (The clock) at 2:24.2. Moved the old 3:38 primary (after chapter 4, Where you end up) to the later alternate after chapter 5 (The kitchen) at 4:51.0. Those two are 2:26.8 apart. Demoted the mid-roll after chapter 6 (The parked car) to alt so a third primary would not sit ~41 s later, and because that break followed the parked-car safety lines. The alt after chapter 8 (Time) stays alt; it follows the cancer pause line. Each primary sits in the 0.3 s chapter gap, not mid-joke and not on a safety line.",
+    "Dates: 12/12 vs 12/19 is pending a decision. Do not book either date yet. Ready by Wed 12/9.",
+    "Teasers were refit to the Shorts test spec in `/workspace/drafts/dog-teasers.md`: 16-18 s, 1-second hook (searched question fused with the payoff), open comment question, loop on 'And,' no spoken source credit."
+  ],
+  "_resolved": [
+    "s4.l4 (DB14): cut the 320,000 euthanized figure and the 530,000 transferred clause. Spoken fallback: 'About two million of those dogs were adopted, and 542,000 went back to their owners.'",
+    "s9.l10 (DB29, DB36): kept the cancer line. DB29 quotes AVMA, senior-pets page: 'Cancer is the cause of death in almost half of dogs and about a third of cats over 10 years old.' On-screen tag is AVMA. The twice-a-year vet line follows in the same spoken line.",
+    "Mid-rolls: kept the primary after chapter 2 (The clock). Moved the old 3:38 primary (after chapter 4) to the later alternate after chapter 5 (The kitchen). Demoted the mid-roll after chapter 6 (The parked car) to alt so the two primaries stay at least 2 minutes apart, and because that break followed the parked-car safety lines. The alt after chapter 8 (Time) stays alt; it follows the cancer pause line (s9.l10).",
+    "Dates: 12/12 vs 12/19 is pending a decision (Social Studio is putting the MASTER_ORDERS line 69 / 217 conflict to Claude in TASKS.md). Ready by Wed 12/9. Do not book either date yet."
+  ],
+  "_open_questions": [
+    {
+      "line": "s2.l4 (DB6) and s2.l8 (DB6, DB7)",
+      "question": "Merck's owner page says the best adoption age is about 8 weeks; its professional page says about 8 to 10. The line says 'about eight weeks, or a little later'.",
+      "fallback": "Say 'about eight weeks' and keep 'not before seven and a half unless there's no other choice'."
+    },
+    {
+      "line": "s3.l5 (DB11)",
+      "question": "'Within two to three days of the first signs' is a spoken rounding of AVMA's '48 to 72 hours following the onset of clinical signs'; the card shows 48 TO 72 HOURS.",
+      "fallback": "Say '48 to 72 hours after the signs start'."
+    },
+    {
+      "line": "mid-video prompt s5.l1",
+      "question": "The comment prompt lands at 3:39.9, at the halfway re-hook, about 38 s before the speech midpoint (4:18.3), because chapters 5 to 8 run longer. Social Studio did not rule on moving it this pass.",
+      "fallback": "Move the Halfway segment after chapter 5 (kitchen) if Social Studio wants it nearer the clock midpoint; the prompt would then list five tiles."
+    }
+  ],
+  "_for_claude": [
+    "TTS pronunciation check before render: 'theobromine', 'xylitol', 'parvovirus', 'oxytocin', 'socialization', 'Bloodhound', '542,000' (read as five hundred forty-two thousand). Add tts respellings in the build JSON if the Andrew voice misreads them; captions keep 'say'.",
+    "Builder and shot set: there is no dog born-as shot set (the polar one is tools/drawn_pb_shots.py). A dog recipe set (newborn litter, mother, puppy class, vet table, shelter kennel, kitchen counter and foods, parked car with thermometer, food bowls, breed line-up, Meatball cardboard ears, Noodle, Sauce) is needed before build; art_needed lists the assets.",
+    "Shot set: each line has a 'shots' list (t, dur, vis). Visuals were merged so a shot lasts 2 to 4 s where the line allows ('; then ' joins merged visuals, which the builder can play as one moving shot). 'vis' keeps the full listed beat. Short voiced number cards (1 to 2 s) are their own shots by design. The 12 s end screen is the only hold over 4 s; animate it.",
+    "Source tags: 'source_tag' is a small lower-third on the line's first shot (about 2 s), never spoken. Lines with two sources show both. The ASPCA poison control number appears on screen on s6.l10.",
+    "Second-model check of the jokes and safety lines, as for every long-form."
+  ],
+  "_masterorders_check": [
+    "Title: MASTER_ORDERS, posted.csv and the topic CSV (research/data/100-longform-topic-candidates.csv, row 2 'dog', shape S6) do not name a dog title; the CSV's SERP phrase is 'why it sucks to be born as a dog'. The given title is used.",
+    "Date: 12/12 vs 12/19 is pending a decision. MASTER_ORDERS line 217 still says 'dog 12/12, wolf 12/19' and line 69 says 'dog and wolf by the data's rank ... on 12/19 and 12/26'; Side-hustles packaging/related-video-rule.md has the dog on Sat 12/19 08:00. Social Studio is putting that conflict to Claude in TASKS.md. Ready by Wed 12/9. Do not book either date yet.",
+    "Spoken sourcing: MASTER_ORDERS does not require spoken credits in long-forms (same reading as lion v2). Each safety line keeps its condition aloud: 'if your puppy shows any of them, call your vet right away'; 'if you think your dog ate any of these, note how much, and call your vet or an animal poison control line right away'; 'never leave a dog alone in a parked car, no matter the outdoor temperature or how long you think you'll be'.",
+    "Shot rhythm: research 100 (MASTER_ORDERS line 269) found opening cut rate made no measurable difference; the 2-4 s rule is a test per Social Studio. Not a blocker.",
+    "Count and order in the first 15 s: 'eight things' by 4.6 s; 'They hit you in order' at 0:14.8.",
+    "No joke, intro or comment ask before 0:25: first joke 0:40.1, comment prompt 3:39.9.",
+    "No spoken countdowns; every number card is a voiced 'Number X' line; chapter gaps are 0.3 s.",
+    "Pinned comment (open question, not yes/no): matches the pick-a-number prompt, the style Social Studio approved.",
+    "Overlap with queued Shorts: open-dates-1121-1204.md has a dog-years Short (Tue 11/24, Wang 2020) and a dog-chocolate Short (Tue 12/01, FDA). The long-form uses the same facts in passing; no conflict, and the teasers avoid both topics.",
+    "Length: 8:48.6 at 194.5 wpm, above 8:00 with about 49 s of margin; about 9:30.0 at the ~180 wpm the polar render ran."
+  ],
+  "_notes": [
+    "Noodle lines (6): s1.l3, s3.l7, s4.l6, s8.l6, s10.l4, s11.l5. Planted at s1.l3; he ends up with Meatball's sock, treat bag, plate, sandwich and dinner roll. No toxic food or cooked bone is ever shown with Noodle.",
+    "Sauce lines (7): s1.l3, s1.l4, s4.l6, s6.l8, s6.l10, s11.l6, s11.l7. Does the opposite and walks off; paid late asleep on the stamp pad, and points to the house cat watch-next.",
+    "No joke on or right after the parvo-death line (s3.l5), the shelter outcomes (s4.l4, euthanasia figure cut) or the cancer line (s9.l10, kept with AVMA tag).",
+    "Reused: chocolate.md (CH-F1, F3, F4, F10 -> DB15, DB16, DB21), dogs-lick.md (DL-F1 -> DB35), skills repo dog-stare.md (DOGS1, DOGS5, DOGS6 -> DB34). No dog born-as script, outline or pack existed."
+  ],
+  "_factcheck": "Not yet checked by a second model. Every fact line carries its DB ID in 'src'.",
+  "builder": "drawn_polarlife (assumed; a dog shot set like tools/drawn_pb_shots.py would be needed)",
+  "pause_lines": [
+    "s3.l5",
+    "s4.l4",
+    "s9.l10"
+  ],
+  "end_hold": 12.0,
+  "end_label": "Your Life as a House Cat: 8 Ways It Goes Wrong",
+  "end_label_short": "YOUR LIFE AS A HOUSE CAT",
+  "_timing": {
+    "wpm": 194.5,
+    "words": 1664,
+    "chapter_gap_s": 0.3,
+    "speech_s": 516.6,
+    "runtime_s": 528.6,
+    "runtime": "8:48.6",
+    "promise_spoken_by_s": 4.63,
+    "first_joke_s": 40.1,
+    "comment_prompt_s": 219.9,
+    "speech_midpoint_s": 258.3,
+    "mild_words": 7,
+    "longest_shot_hold_s": 3.7,
+    "longest_shot_hold_at": "s9.l9 shot 0",
+    "shots": 218,
+    "shots_under_2s": 10,
+    "max_gap_s": {
+      "peak": 34.5,
+      "character": 75.0,
+      "retention": 67.9
+    }
+  }
+}

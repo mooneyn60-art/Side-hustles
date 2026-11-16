@@ -205,17 +205,17 @@ Source tag (card or description, not spoken): University of Missouri Extension (
 1. Christmas trees can hide about 100 mantis eggs.
 2. Your warm living room can hatch them. Meatball screamed.
 3. Dozens of baby mantises can crawl out.
-4. If you find a foamy case on the twigs, clip the twig and put it in an evergreen outside. What's the strangest thing that ever crawled out of your Christmas tree? And
+4. If you find a foamy case on the twigs, clip the twig and put it in a shrub outside. What's the strangest thing that ever crawled out of your Christmas tree? And
 
 Line 2 runs 2.47–5.24 s, inside the 3–7 s gag window.
 
-**Loop sentence:** "If you find a foamy case on the twigs, clip the twig and put it in an evergreen outside. What's the strangest thing that ever crawled out of your Christmas tree? And Christmas trees can hide about 100 mantis eggs."
+**Loop sentence:** "If you find a foamy case on the twigs, clip the twig and put it in a shrub outside. What's the strangest thing that ever crawled out of your Christmas tree? And Christmas trees can hide about 100 mantis eggs."
 
 **Comment question:** "What's the strangest thing that ever crawled out of your Christmas tree?" Open-ended. Same as the current pinned comment.
 
 **Hedges kept:** "can hide"; "about 100"; "can hatch"; "dozens."
 
-**Safety / action line (said clean in line 4, not in the hook or the joke):** "If you find a foamy case on the twigs, clip the twig and put it in an evergreen outside." The condition stays attached (a foamy mantis egg case on the twigs). Sources: Penn State Extension; Illinois Extension.
+**Safety / action line (said clean in line 4, not in the hook or the joke):** "If you find a foamy case on the twigs, clip the twig and put it in a shrub outside." The condition stays attached (a foamy mantis egg case on the twigs). Source: Penn State Extension ("leaving it in a shrub or other plant outdoors"; fixed 11/15 per factcheck-hooks-1116.md, same word count).
 
 **Joke:** "Meatball screamed," in line 2, on Meatball only. No mild word in this cut. The queued "Merry damn Christmas," and the sourced "with no food, they eat each other" line, were cut for time so the official clip-and-tuck wording and the open question could fit. That cannibalism fact can stay in the description and in the 11/18 long-form; it is not in this Short.
 
@@ -231,7 +231,7 @@ Status: **Re-render needed, Claude's call after fact-check.** (Queued v6 cut, sa
 
 Searched question (packaging / title): "Pantry moth vs clothes moth?"
 
-**Packaging's proposed title (11/15):** "Pantry Moth vs Clothes Moth: Only One Eats Your Sweaters 🧥 (Things Living In Your House)". **First description line:** "Pantry moth vs clothes moth: the adult clothes moth never eats. Its larvae eat wool, fur and silk (UKY ENTFACT-609; UC IPM 7435)." The slug stays `pantry-vs-clothes-moth`.
+**Packaging's proposed title (11/15):** "Pantry Moth vs Clothes Moth: Only One Eats Your Sweaters (Things Living In Your House)". **First description line:** "Pantry moth vs clothes moth: the adult clothes moth never eats. Its larvae eat wool, fur and silk (UKY ENTFACT-609; UC IPM 7435)." The slug stays `pantry-vs-clothes-moth`.
 
 Queued spoken hook in `pantry-vs-clothes-moth-v6-yt.json`: "Your closet moths lay 40 to 50 eggs."
 
