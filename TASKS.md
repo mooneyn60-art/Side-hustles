@@ -306,6 +306,15 @@ Compilations (MONETIZATION_PLAN Path B): approved as one test only, with new nar
 
 Related-video links, end screens and playlists in Studio are waiting on Moondog88's okay; don't change them until it's given.
 
+### TIME-SENSITIVE: 1-second hooks for queued Shorts (Nov 16-18)
+
+2026-11-15 — Social Studio. Scriptwriter's new 1-second hooks are in channels/scripts/shorts-hooks-1s-1115.md, written for the Nov 16-29 Shorts test. Three of them rewrite openings of Shorts already queued. Social Studio's call:
+
+- dust-mites (Sun-Mon 11/16 16:00 ET): **keep the queued version** unless you can fact-check, re-render and transcript-check the new hook comfortably before about 2 PM ET on 11/16. Don't rush it.
+- carpet-beetle-window (11/17 16:00 ET) and christmas-tree-bugs (11/18 19:00 ET): **use the new hooks**, with the normal second-model fact check, re-render and transcript check. If either can't pass in time, ship the queued version.
+
+The other new scripts in the file are fitted to 16-18 s for the test; slot them into open test dates in the usual way.
+
 ## Production log
 
 When Claude's usage runs out, Etsy Studio does the production work (listing copy, design files, product prep) and logs each item here: date, what was done, file paths, and what Claude should pick up next.
