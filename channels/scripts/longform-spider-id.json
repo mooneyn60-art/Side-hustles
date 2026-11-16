@@ -1,0 +1,2930 @@
+{
+  "_what": "House-spider ID long-form for Wed 12/2, written to the 11/15 plan-update rules (frame 0 threat close-up, hook of you + home + a number under 12 words, a new picture every 1–2 s, one debate comment prompt, citations on screen and in the description) and Social Studio's fact-check notes. Format reference: 3 Bugs in Your House You Should Never Kill. Facts: /workspace/drafts/facts/house-spiders-id.md (HS1–HS72; HS42 and HS53 unused).",
+  "titles": [
+    "Most House Spiders Can Be Left Alone if You Identify Them (Is This Spider Venomous?)"
+  ],
+  "_titles_note": "Working title from the brief and pitch concept 1. Packaging may retitle it. 'Can' is the hedge. Series tag last. Single title, no A/B set in this draft.",
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "+10%",
+  "pitch": "+3Hz",
+  "meter_start": 50,
+  "meter_labels": [
+    "LEAVE ALONE",
+    "GET IDENTIFIED"
+  ],
+  "segments": [
+    {
+      "chapter": "Cold open",
+      "chip": "",
+      "_start": 0.0,
+      "lines": [
+        {
+          "id": "s0.l0",
+          "say": "One Kansas home had 2,055 brown recluses.",
+          "src": "HS51, HS52",
+          "source_tag": "UC IPM; UC Riverside, Rick Vetter",
+          "vis": "Frame 0: a drawn brown recluse in close-up, face-on; narration on it at 0.0 s / The same recluse holds; card: ONE KANSAS HOME: 2,055 BROWN RECLUSES",
+          "shots": [
+            {
+              "t": 0.0,
+              "dur": 1.08,
+              "vis": "Frame 0: a drawn brown recluse in close-up, face-on; narration on it at 0.0 s"
+            },
+            {
+              "t": 1.1,
+              "dur": 1.08,
+              "vis": "The same recluse holds; card: ONE KANSAS HOME: 2,055 BROWN RECLUSES"
+            }
+          ],
+          "card": "ONE KANSAS HOME: 2,055 BROWN RECLUSES",
+          "_t": 0.0,
+          "_dur": 2.16,
+          "_beats": "P"
+        },
+        {
+          "id": "s0.l1",
+          "say": "Most house spiders can be left alone, once you identify them.",
+          "src": "HS1, HS2",
+          "source_tag": "UC IPM",
+          "vis": "Title card lands over the recluse: MOST HOUSE SPIDERS CAN BE LEFT ALONE, ONCE YOU IDENTIFY THEM",
+          "shots": [
+            {
+              "t": 2.2,
+              "dur": 1.7,
+              "vis": "Title card lands over the recluse: MOST HOUSE SPIDERS CAN BE LEFT ALONE, ONCE YOU IDENTIFY THEM"
+            },
+            {
+              "t": 3.9,
+              "dur": 1.7,
+              "vis": "Title card lands over the recluse: MOST HOUSE SPIDERS CAN BE LEFT ALONE, ONCE YOU IDENTIFY THEM"
+            }
+          ],
+          "card": "MOST HOUSE SPIDERS CAN BE LEFT ALONE, ONCE YOU IDENTIFY THEM",
+          "_t": 2.2,
+          "_dur": 3.39,
+          "_beats": "P"
+        },
+        {
+          "id": "s0.l2",
+          "say": "Here's how.",
+          "vis": "The title holds; a simple here's-how chip",
+          "shots": [
+            {
+              "t": 5.6,
+              "dur": 0.62,
+              "vis": "The title holds; a simple here's-how chip"
+            }
+          ],
+          "card": "HERE'S HOW",
+          "_t": 5.6,
+          "_dur": 0.62,
+          "_beats": ""
+        },
+        {
+          "id": "s0.l3",
+          "say": "A family of four collected them in six months, in a nineteenth-century home in Lenexa, Kansas.",
+          "src": "HS51, HS52",
+          "source_tag": "UC IPM; UC Riverside, Rick Vetter",
+          "vis": "A drawn 19th-century house, Kansas pin / Four family silhouettes inside / Card: FAMILY OF 4, 6 MONTHS, LENEXA / A calendar bar fills across six months",
+          "shots": [
+            {
+              "t": 6.2,
+              "dur": 1.23,
+              "vis": "A drawn 19th-century house, Kansas pin"
+            },
+            {
+              "t": 7.4,
+              "dur": 1.23,
+              "vis": "Four family silhouettes inside"
+            },
+            {
+              "t": 8.6,
+              "dur": 1.23,
+              "vis": "Card: FAMILY OF 4, 6 MONTHS, LENEXA"
+            },
+            {
+              "t": 9.9,
+              "dur": 1.23,
+              "vis": "A calendar bar fills across six months"
+            }
+          ],
+          "card": "FAMILY OF 4, 6 MONTHS, LENEXA",
+          "_t": 6.2,
+          "_dur": 4.94,
+          "_beats": "P"
+        },
+        {
+          "id": "s0.l4",
+          "say": "On one official page, they lived there nearly a decade, and only once in ten years had anyone shown evidence of a bite.",
+          "src": "HS51",
+          "source_tag": "UC IPM",
+          "vis": "Chip: ONE OFFICIAL PAGE / A ten-year timeline; one small mark / Card: ONCE IN 10 YEARS",
+          "shots": [
+            {
+              "t": 11.1,
+              "dur": 1.77,
+              "vis": "Chip: ONE OFFICIAL PAGE"
+            },
+            {
+              "t": 12.9,
+              "dur": 1.77,
+              "vis": "Chip: ONE OFFICIAL PAGE"
+            },
+            {
+              "t": 14.7,
+              "dur": 1.77,
+              "vis": "A ten-year timeline; one small mark"
+            },
+            {
+              "t": 16.4,
+              "dur": 1.77,
+              "vis": "Card: ONCE IN 10 YEARS"
+            }
+          ],
+          "card": "ONE OFFICIAL PAGE: ONCE IN 10 YEARS",
+          "_t": 11.1,
+          "_dur": 7.1,
+          "_beats": "P"
+        },
+        {
+          "id": "s0.l5",
+          "say": "It was to a finger, which turned red for a few days, then healed without incident.",
+          "src": "HS51",
+          "source_tag": "UC IPM",
+          "vis": "A simple drawn finger, slightly red / The redness fades / Card: THEN HEALED WITHOUT INCIDENT",
+          "shots": [
+            {
+              "t": 18.2,
+              "dur": 1.65,
+              "vis": "A simple drawn finger, slightly red"
+            },
+            {
+              "t": 19.8,
+              "dur": 1.65,
+              "vis": "The redness fades"
+            },
+            {
+              "t": 21.5,
+              "dur": 1.65,
+              "vis": "Card: THEN HEALED WITHOUT INCIDENT"
+            }
+          ],
+          "card": "FINGER TURNED RED, THEN HEALED",
+          "_t": 18.2,
+          "_dur": 4.94,
+          "_beats": ""
+        },
+        {
+          "id": "s0.l6",
+          "say": "On the author's page, about four hundred fifty of them were large enough to cause envenomations.",
+          "src": "HS52",
+          "source_tag": "UC Riverside, Rick Vetter",
+          "vis": "Chip: AUTHOR'S PAGE, not merged with the last card / About-450 chip beside a larger-spider icon / The two page cards stay on opposite sides",
+          "shots": [
+            {
+              "t": 23.1,
+              "dur": 1.65,
+              "vis": "Chip: AUTHOR'S PAGE, not merged with the last card"
+            },
+            {
+              "t": 24.8,
+              "dur": 1.65,
+              "vis": "About-450 chip beside a larger-spider icon"
+            },
+            {
+              "t": 26.4,
+              "dur": 1.65,
+              "vis": "The two page cards stay on opposite sides"
+            }
+          ],
+          "card": "AUTHOR'S PAGE: ABOUT 450 LARGE ENOUGH",
+          "_t": 23.1,
+          "_dur": 4.94,
+          "_beats": ""
+        },
+        {
+          "id": "s0.l7",
+          "say": "As of September two thousand four, no person or their pets had shown evidence of a bite in eight years of living there.",
+          "src": "HS52",
+          "source_tag": "UC Riverside, Rick Vetter",
+          "vis": "Chip: AS OF SEPT 2004 / An eight-year bar with no bite mark / Family and pet silhouettes stay unmarked / Card: NO EVIDENCE OF A BITE",
+          "shots": [
+            {
+              "t": 28.1,
+              "dur": 1.77,
+              "vis": "Chip: AS OF SEPT 2004"
+            },
+            {
+              "t": 29.8,
+              "dur": 1.77,
+              "vis": "An eight-year bar with no bite mark"
+            },
+            {
+              "t": 31.6,
+              "dur": 1.77,
+              "vis": "Family and pet silhouettes stay unmarked"
+            },
+            {
+              "t": 33.4,
+              "dur": 1.77,
+              "vis": "Card: NO EVIDENCE OF A BITE"
+            }
+          ],
+          "card": "8 YEARS, AS OF SEPT 2004: NO EVIDENCE OF A BITE",
+          "_t": 28.1,
+          "_dur": 7.1,
+          "_beats": "P"
+        },
+        {
+          "id": "s0.l8",
+          "say": "The jaws of most spiders are too small to bite humans, and so small that the fangs cannot penetrate the skin of an adult person.",
+          "src": "HS2",
+          "source_tag": "UC IPM",
+          "vis": "Close on small fangs, house-spider scale / Card: MOST: JAWS TOO SMALL TO BITE HUMANS / Chip: CANNOT PENETRATE THE SKIN OF AN ADULT PERSON",
+          "shots": [
+            {
+              "t": 35.2,
+              "dur": 1.93,
+              "vis": "Close on small fangs, house-spider scale"
+            },
+            {
+              "t": 37.1,
+              "dur": 1.93,
+              "vis": "Close on small fangs, house-spider scale"
+            },
+            {
+              "t": 39.0,
+              "dur": 1.93,
+              "vis": "Card: MOST: JAWS TOO SMALL TO BITE HUMANS"
+            },
+            {
+              "t": 41.0,
+              "dur": 1.93,
+              "vis": "Chip: CANNOT PENETRATE THE SKIN OF AN ADULT PERSON"
+            }
+          ],
+          "card": "MOST: JAWS TOO SMALL TO BITE HUMANS",
+          "_t": 35.2,
+          "_dur": 7.71,
+          "_beats": "P"
+        },
+        {
+          "id": "s0.l9",
+          "say": "Venomous spiders found in the United States include the black widow and the brown recluse. Most bites occur because a spider is trapped or touched.",
+          "src": "HS3",
+          "source_tag": "CDC / NIOSH",
+          "vis": "Two ID tiles: adult female black widow; brown recluse / Chip: FOUND IN THE UNITED STATES, INCLUDE / A shoe or folded cloth traps a small spider, cut before a bite / Card: USUALLY NOT AGGRESSIVE",
+          "shots": [
+            {
+              "t": 42.9,
+              "dur": 1.93,
+              "vis": "Two ID tiles: adult female black widow; brown recluse"
+            },
+            {
+              "t": 44.8,
+              "dur": 1.93,
+              "vis": "Chip: FOUND IN THE UNITED STATES, INCLUDE"
+            },
+            {
+              "t": 46.7,
+              "dur": 1.93,
+              "vis": "A shoe or folded cloth traps a small spider, cut before a bite"
+            },
+            {
+              "t": 48.7,
+              "dur": 1.93,
+              "vis": "Card: USUALLY NOT AGGRESSIVE"
+            }
+          ],
+          "card": "BLACK WIDOW AND BROWN RECLUSE; MOST BITES: TRAPPED OR TOUCHED",
+          "_t": 42.9,
+          "_dur": 7.71,
+          "_beats": ""
+        },
+        {
+          "id": "s0.l10",
+          "say": "Meet Meatball. He's sorting the spiders in your house from the couch.",
+          "vis": "Reveal: Meatball on the couch with a stack of spider drawings / He holds a rubber stamp: LEAVE on one side, GET IDENTIFIED on the other",
+          "shots": [
+            {
+              "t": 50.6,
+              "dur": 1.85,
+              "vis": "Reveal: Meatball on the couch with a stack of spider drawings"
+            },
+            {
+              "t": 52.4,
+              "dur": 1.85,
+              "vis": "He holds a rubber stamp: LEAVE on one side, GET IDENTIFIED on the other"
+            }
+          ],
+          "_t": 50.6,
+          "_dur": 3.7,
+          "_beats": "C"
+        },
+        {
+          "id": "s0.l11",
+          "say": "His dog, Noodle, is the stand-in. His cat, Sauce, is everybody else.",
+          "vis": "Noodle in the doorway, wagging (name tag pops) / Sauce on the armrest (name tag pops)",
+          "shots": [
+            {
+              "t": 54.3,
+              "dur": 1.85,
+              "vis": "Noodle in the doorway, wagging (name tag pops)"
+            },
+            {
+              "t": 56.1,
+              "dur": 1.85,
+              "vis": "Sauce on the armrest (name tag pops)"
+            }
+          ],
+          "_t": 54.3,
+          "_dur": 3.7,
+          "_beats": "C"
+        },
+        {
+          "id": "s0.l12",
+          "say": "Meatball stuck a drawn recluse on the table. Sauce walked around it.",
+          "vis": "Meatball leans a drawn recluse against a mug / Sauce pads a wide circle around it",
+          "shots": [
+            {
+              "t": 58.0,
+              "dur": 1.85,
+              "vis": "Meatball leans a drawn recluse against a mug"
+            },
+            {
+              "t": 59.8,
+              "dur": 1.85,
+              "vis": "Sauce pads a wide circle around it"
+            }
+          ],
+          "_t": 58.0,
+          "_dur": 3.7,
+          "_beats": "CJ"
+        },
+        {
+          "id": "s0.l13",
+          "say": "Here are the ones you can leave alone, if you can tell them apart.",
+          "vis": "Three leave-alone tiles face down: cellar, jumper, wolf / giant house spider",
+          "shots": [
+            {
+              "t": 61.7,
+              "dur": 1.44,
+              "vis": "Three leave-alone tiles face down: cellar, jumper, wolf / giant house spider"
+            },
+            {
+              "t": 63.1,
+              "dur": 1.44,
+              "vis": "Three leave-alone tiles face down: cellar, jumper, wolf / giant house spider"
+            },
+            {
+              "t": 64.6,
+              "dur": 1.44,
+              "vis": "Three leave-alone tiles face down: cellar, jumper, wolf / giant house spider"
+            }
+          ],
+          "_t": 61.7,
+          "_dur": 4.32,
+          "_beats": "R"
+        }
+      ]
+    },
+    {
+      "chapter": "1. Cellar spider",
+      "chip": "LEAVE 1",
+      "_start": 66.3,
+      "lines": [
+        {
+          "id": "s1.l0",
+          "say": "Number one. The cellar spider in the corner.",
+          "vis": "Voiced chapter card over a long-legged spider in a corner web (no silent hold)",
+          "shots": [
+            {
+              "t": 66.3,
+              "dur": 1.23,
+              "vis": "Voiced chapter card over a long-legged spider in a corner web (no silent hold)"
+            },
+            {
+              "t": 67.5,
+              "dur": 1.23,
+              "vis": "Voiced chapter card over a long-legged spider in a corner web (no silent hold)"
+            }
+          ],
+          "card": "LEAVE ALONE: CELLAR SPIDER",
+          "_t": 66.3,
+          "_dur": 2.47,
+          "_beats": ""
+        },
+        {
+          "id": "s1.l1",
+          "say": "The longbodied cellar spider has extremely long legs, and an irregular or messy web in a corner, a cupboard, or a cellar. It often hangs upside down.",
+          "src": "HS7",
+          "source_tag": "Penn State Extension",
+          "vis": "Close on extremely long legs / An irregular mesh in a basement corner / The same web in a cupboard / The spider hangs belly-up",
+          "shots": [
+            {
+              "t": 68.8,
+              "dur": 1.67,
+              "vis": "Close on extremely long legs"
+            },
+            {
+              "t": 70.4,
+              "dur": 1.67,
+              "vis": "Close on extremely long legs"
+            },
+            {
+              "t": 72.1,
+              "dur": 1.67,
+              "vis": "An irregular mesh in a basement corner"
+            },
+            {
+              "t": 73.8,
+              "dur": 1.67,
+              "vis": "The same web in a cupboard"
+            },
+            {
+              "t": 75.4,
+              "dur": 1.67,
+              "vis": "The spider hangs belly-up"
+            }
+          ],
+          "card": "LONG LEGS, MESSY CORNER WEB",
+          "_t": 68.8,
+          "_dur": 8.33,
+          "_beats": "P"
+        },
+        {
+          "id": "s1.l2",
+          "say": "These spiders are not known to bite people, and are not a medically important species.",
+          "src": "HS13, HS7",
+          "source_tag": "Penn State Extension",
+          "vis": "Card: NOT KNOWN TO BITE PEOPLE / Card: NOT A MEDICALLY IMPORTANT SPECIES / Chip, not spoken: NOT KNOWN TO BE IN ANY WAY HARMFUL",
+          "shots": [
+            {
+              "t": 77.1,
+              "dur": 1.54,
+              "vis": "Card: NOT KNOWN TO BITE PEOPLE"
+            },
+            {
+              "t": 78.7,
+              "dur": 1.54,
+              "vis": "Card: NOT A MEDICALLY IMPORTANT SPECIES"
+            },
+            {
+              "t": 80.2,
+              "dur": 1.54,
+              "vis": "Chip, not spoken: NOT KNOWN TO BE IN ANY WAY HARMFUL"
+            }
+          ],
+          "card": "NOT A MEDICALLY IMPORTANT SPECIES",
+          "_t": 77.1,
+          "_dur": 4.63,
+          "_beats": ""
+        },
+        {
+          "id": "s1.l3",
+          "say": "In one Hampshire garden shed, from May to September, of one hundred two prey remains removed from their webs, sixty-three were of the common house spider. That is one shed, in one season, in the United Kingdom.",
+          "src": "HS11",
+          "source_tag": "British Arachnological Society",
+          "vis": "Map pin: Hampshire, a garden shed / A May-to-September bar / A grid of 102 prey remains; 63 light up as house spiders / Card: ONE SHED, ONE SEASON, UNITED KINGDOM",
+          "shots": [
+            {
+              "t": 81.7,
+              "dur": 1.9,
+              "vis": "Map pin: Hampshire, a garden shed"
+            },
+            {
+              "t": 83.6,
+              "dur": 1.9,
+              "vis": "Map pin: Hampshire, a garden shed"
+            },
+            {
+              "t": 85.5,
+              "dur": 1.9,
+              "vis": "A May-to-September bar"
+            },
+            {
+              "t": 87.4,
+              "dur": 1.9,
+              "vis": "A grid of 102 prey remains; 63 light up as house spiders"
+            },
+            {
+              "t": 89.3,
+              "dur": 1.9,
+              "vis": "A grid of 102 prey remains; 63 light up as house spiders"
+            },
+            {
+              "t": 91.3,
+              "dur": 1.9,
+              "vis": "Card: ONE SHED, ONE SEASON, UNITED KINGDOM"
+            }
+          ],
+          "card": "ONE UK SHED: 63 OF 102 WERE HOUSE SPIDERS",
+          "_t": 81.7,
+          "_dur": 11.41,
+          "_beats": "P"
+        },
+        {
+          "id": "s1.l4",
+          "say": "They have even been recorded wrapping heavier large house spiders with silk from a safe distance.",
+          "src": "HS12",
+          "source_tag": "British Arachnological Society",
+          "vis": "A cellar spider throws silk over a sturdier house spider, long legs out of range / The larger spider is wrapped / The cellar spider moves in only after the wrap",
+          "shots": [
+            {
+              "t": 93.2,
+              "dur": 1.65,
+              "vis": "A cellar spider throws silk over a sturdier house spider, long legs out of range"
+            },
+            {
+              "t": 94.8,
+              "dur": 1.65,
+              "vis": "The larger spider is wrapped"
+            },
+            {
+              "t": 96.4,
+              "dur": 1.65,
+              "vis": "The cellar spider moves in only after the wrap"
+            }
+          ],
+          "card": "RECORDED WRAPPING LARGE HOUSE SPIDERS",
+          "_t": 93.2,
+          "_dur": 4.94,
+          "_beats": "P"
+        },
+        {
+          "id": "s1.l5",
+          "say": "This species presents absolutely no danger to humans or to pets.",
+          "src": "HS12",
+          "source_tag": "British Arachnological Society",
+          "vis": "Plain card: THIS SPECIES, NO DANGER TO HUMANS OR PETS",
+          "shots": [
+            {
+              "t": 98.1,
+              "dur": 1.7,
+              "vis": "Plain card: THIS SPECIES, NO DANGER TO HUMANS OR PETS"
+            },
+            {
+              "t": 99.8,
+              "dur": 1.7,
+              "vis": "Plain card: THIS SPECIES, NO DANGER TO HUMANS OR PETS"
+            }
+          ],
+          "card": "NO DANGER TO HUMANS OR PETS",
+          "_t": 98.1,
+          "_dur": 3.39,
+          "_beats": ""
+        },
+        {
+          "id": "s1.l6",
+          "say": "When threatened, they rapidly vibrate in a circular fashion in the web, and become hard to see.",
+          "src": "HS16",
+          "source_tag": "Penn State Extension; British Arachnological Society",
+          "vis": "The cellar spider vibrates in a circle and blurs / It is not poked; no finger enters the web",
+          "shots": [
+            {
+              "t": 101.5,
+              "dur": 1.75,
+              "vis": "The cellar spider vibrates in a circle and blurs"
+            },
+            {
+              "t": 103.2,
+              "dur": 1.75,
+              "vis": "The cellar spider vibrates in a circle and blurs"
+            },
+            {
+              "t": 105.0,
+              "dur": 1.75,
+              "vis": "It is not poked; no finger enters the web"
+            }
+          ],
+          "card": "CIRCULAR VIBRATE, HARD TO SEE",
+          "_t": 101.5,
+          "_dur": 5.24,
+          "_beats": "P"
+        },
+        {
+          "id": "s1.l7",
+          "say": "There is no scientific evidence that this spider has the most toxic venom of all spiders.",
+          "src": "HS18",
+          "source_tag": "Australian Museum",
+          "vis": "The old playground story fades out / Card: NO SCIENTIFIC EVIDENCE",
+          "shots": [
+            {
+              "t": 106.7,
+              "dur": 1.65,
+              "vis": "The old playground story fades out"
+            },
+            {
+              "t": 108.4,
+              "dur": 1.65,
+              "vis": "The old playground story fades out"
+            },
+            {
+              "t": 110.0,
+              "dur": 1.65,
+              "vis": "Card: NO SCIENTIFIC EVIDENCE"
+            }
+          ],
+          "card": "NO SCIENTIFIC EVIDENCE FOR THAT STORY",
+          "_t": 106.7,
+          "_dur": 4.94,
+          "_beats": ""
+        },
+        {
+          "id": "s1.l8",
+          "say": "Meatball left the corner web alone. His dog, Noodle, walked under it.",
+          "vis": "Meatball looks at a corner web and leaves it / Noodle walks under the web and out of the frame",
+          "shots": [
+            {
+              "t": 111.7,
+              "dur": 1.85,
+              "vis": "Meatball looks at a corner web and leaves it"
+            },
+            {
+              "t": 113.5,
+              "dur": 1.85,
+              "vis": "Noodle walks under the web and out of the frame"
+            }
+          ],
+          "_t": 111.7,
+          "_dur": 3.7,
+          "_beats": "CJ"
+        },
+        {
+          "id": "s1.l9",
+          "say": "Verdict: leave it, if it's this spider.",
+          "vis": "Meatball stamps LEAVE on the cellar-spider tile",
+          "shots": [
+            {
+              "t": 115.4,
+              "dur": 1.08,
+              "vis": "Meatball stamps LEAVE on the cellar-spider tile"
+            },
+            {
+              "t": 116.4,
+              "dur": 1.08,
+              "vis": "Meatball stamps LEAVE on the cellar-spider tile"
+            }
+          ],
+          "card": "VERDICT: LEAVE IT, IF IT'S THIS SPIDER",
+          "meter": 70,
+          "_t": 115.4,
+          "_dur": 2.16,
+          "_beats": "R"
+        }
+      ],
+      "_midroll_after": {
+        "type": "alt",
+        "at": 117.7,
+        "note": "Break in the 0.3 s gap after this chapter's last line, before the next voiced chapter line. Never mid-sentence, never on a safety line, never mid-joke."
+      }
+    },
+    {
+      "chapter": "2. Jumping spider",
+      "chip": "LEAVE 2",
+      "_start": 117.8,
+      "lines": [
+        {
+          "id": "s2.l0",
+          "say": "Number two. The jumping spider at the window.",
+          "vis": "Voiced chapter card over a fuzzy jumper on a windowsill",
+          "shots": [
+            {
+              "t": 117.8,
+              "dur": 1.23,
+              "vis": "Voiced chapter card over a fuzzy jumper on a windowsill"
+            },
+            {
+              "t": 119.1,
+              "dur": 1.23,
+              "vis": "Voiced chapter card over a fuzzy jumper on a windowsill"
+            }
+          ],
+          "card": "LEAVE ALONE: JUMPING SPIDER",
+          "_t": 117.8,
+          "_dur": 2.47,
+          "_beats": ""
+        },
+        {
+          "id": "s2.l1",
+          "say": "Jumping spiders are day-active hunters. They make no capture web. They have a distinctive eye pattern, with large middle eyes in the first row. Like most spiders, they have eight eyes.",
+          "src": "HS21, HS22",
+          "source_tag": "UC IPM; Missouri Department of Conservation",
+          "vis": "A jumper hunts in daylight on a plant / No capture web in the frame / Close on the large middle front eyes / An eight-eye diagram",
+          "shots": [
+            {
+              "t": 120.3,
+              "dur": 1.91,
+              "vis": "A jumper hunts in daylight on a plant"
+            },
+            {
+              "t": 122.2,
+              "dur": 1.91,
+              "vis": "A jumper hunts in daylight on a plant"
+            },
+            {
+              "t": 124.1,
+              "dur": 1.91,
+              "vis": "No capture web in the frame"
+            },
+            {
+              "t": 126.0,
+              "dur": 1.91,
+              "vis": "Close on the large middle front eyes"
+            },
+            {
+              "t": 127.9,
+              "dur": 1.91,
+              "vis": "An eight-eye diagram"
+            }
+          ],
+          "card": "DAY HUNTERS, NO CAPTURE WEB, EIGHT EYES",
+          "_t": 120.3,
+          "_dur": 9.56,
+          "_beats": "P"
+        },
+        {
+          "id": "s2.l2",
+          "say": "Some jumping spiders, including a colorful jumper common in grassy areas throughout Missouri, can leap horizontally up to forty times their length.",
+          "src": "HS24",
+          "source_tag": "Missouri Department of Conservation",
+          "vis": "A small jumper in grass, Missouri pin / A horizontal leap, up-to-40-lengths bar / Chip: SOME SPECIES, INCLUDING COLONUS PUERPERUS / Chip: UP TO, HORIZONTALLY",
+          "shots": [
+            {
+              "t": 129.9,
+              "dur": 1.7,
+              "vis": "A small jumper in grass, Missouri pin"
+            },
+            {
+              "t": 131.6,
+              "dur": 1.7,
+              "vis": "A horizontal leap, up-to-40-lengths bar"
+            },
+            {
+              "t": 133.2,
+              "dur": 1.7,
+              "vis": "Chip: SOME SPECIES, INCLUDING COLONUS PUERPERUS"
+            },
+            {
+              "t": 134.9,
+              "dur": 1.7,
+              "vis": "Chip: UP TO, HORIZONTALLY"
+            }
+          ],
+          "card": "SOME SPECIES: UP TO 40x, HORIZONTALLY",
+          "_t": 129.9,
+          "_dur": 6.79,
+          "_beats": "P"
+        },
+        {
+          "id": "s2.l3",
+          "say": "Not a figure for every jumping spider, and not sourced as a jump from your window.",
+          "src": "HS24",
+          "source_tag": "Missouri Department of Conservation",
+          "vis": "The 40x bar stays tagged SOME SPECIES / A window sill is crossed out as the source of the number",
+          "shots": [
+            {
+              "t": 136.6,
+              "dur": 1.65,
+              "vis": "The 40x bar stays tagged SOME SPECIES"
+            },
+            {
+              "t": 138.3,
+              "dur": 1.65,
+              "vis": "The 40x bar stays tagged SOME SPECIES"
+            },
+            {
+              "t": 139.9,
+              "dur": 1.65,
+              "vis": "A window sill is crossed out as the source of the number"
+            }
+          ],
+          "card": "NOT EVERY JUMPER, NOT 'FROM YOUR WINDOW'",
+          "_t": 136.6,
+          "_dur": 4.94,
+          "_beats": ""
+        },
+        {
+          "id": "s2.l4",
+          "say": "They are not dangerous to anything bigger than a bug. They rarely bite people, and when they do, it usually results in nothing more than a mild sting or an itchy welt.",
+          "src": "HS23",
+          "source_tag": "Missouri Department of Conservation",
+          "vis": "The jumper faces a bug, not a person / Card: RARELY BITE; USUALLY A MILD STING OR ITCHY WELT",
+          "shots": [
+            {
+              "t": 141.6,
+              "dur": 1.97,
+              "vis": "The jumper faces a bug, not a person"
+            },
+            {
+              "t": 143.6,
+              "dur": 1.97,
+              "vis": "The jumper faces a bug, not a person"
+            },
+            {
+              "t": 145.5,
+              "dur": 1.97,
+              "vis": "The jumper faces a bug, not a person"
+            },
+            {
+              "t": 147.5,
+              "dur": 1.97,
+              "vis": "Card: RARELY BITE; USUALLY A MILD STING OR ITCHY WELT"
+            },
+            {
+              "t": 149.5,
+              "dur": 1.97,
+              "vis": "Card: RARELY BITE; USUALLY A MILD STING OR ITCHY WELT"
+            }
+          ],
+          "card": "NOT DANGEROUS TO ANYTHING BIGGER THAN A BUG",
+          "_t": 141.6,
+          "_dur": 9.87,
+          "_beats": ""
+        },
+        {
+          "id": "s2.l5",
+          "say": "Meatball waved at the window jumper. His cat, Sauce, left the sill. Damn.",
+          "vis": "Meatball gives a small wave at the window / Sauce hops down from the sill",
+          "shots": [
+            {
+              "t": 151.4,
+              "dur": 1.34,
+              "vis": "Meatball gives a small wave at the window"
+            },
+            {
+              "t": 152.8,
+              "dur": 1.34,
+              "vis": "Meatball gives a small wave at the window"
+            },
+            {
+              "t": 154.1,
+              "dur": 1.34,
+              "vis": "Sauce hops down from the sill"
+            }
+          ],
+          "_t": 151.4,
+          "_dur": 4.01,
+          "_beats": "CJS"
+        },
+        {
+          "id": "s2.l6",
+          "say": "Verdict: leave it.",
+          "vis": "Meatball stamps LEAVE on the jumping-spider tile",
+          "shots": [
+            {
+              "t": 155.5,
+              "dur": 0.93,
+              "vis": "Meatball stamps LEAVE on the jumping-spider tile"
+            }
+          ],
+          "card": "VERDICT: LEAVE IT",
+          "meter": 72,
+          "_t": 155.5,
+          "_dur": 0.93,
+          "_beats": "R"
+        }
+      ],
+      "_midroll_after": {
+        "type": "primary",
+        "at": 156.5,
+        "note": "Break in the 0.3 s gap after this chapter's last line, before the next voiced chapter line. Never mid-sentence, never on a safety line, never mid-joke."
+      }
+    },
+    {
+      "chapter": "3. Wolf spider and giant house spider",
+      "chip": "LEAVE 3",
+      "_start": 156.7,
+      "lines": [
+        {
+          "id": "s3.l0",
+          "say": "Number three. The wolf spider, and the giant house spider.",
+          "vis": "Voiced chapter card; two tiles, wolf spider and giant house spider, side by side",
+          "shots": [
+            {
+              "t": 156.7,
+              "dur": 1.54,
+              "vis": "Voiced chapter card; two tiles, wolf spider and giant house spider, side by side"
+            },
+            {
+              "t": 158.2,
+              "dur": 1.54,
+              "vis": "Voiced chapter card; two tiles, wolf spider and giant house spider, side by side"
+            }
+          ],
+          "card": "LEAVE ALONE: WOLF SPIDER AND GIANT HOUSE SPIDER",
+          "_t": 156.7,
+          "_dur": 3.08,
+          "_beats": ""
+        },
+        {
+          "id": "s3.l1",
+          "say": "Wolf spiders do not spin a web to catch prey. They run it down.",
+          "src": "HS28",
+          "source_tag": "Missouri Department of Conservation",
+          "vis": "A wolf spider runs down an insect on the ground / No capture web in the frame",
+          "shots": [
+            {
+              "t": 159.8,
+              "dur": 1.44,
+              "vis": "A wolf spider runs down an insect on the ground"
+            },
+            {
+              "t": 161.2,
+              "dur": 1.44,
+              "vis": "A wolf spider runs down an insect on the ground"
+            },
+            {
+              "t": 162.6,
+              "dur": 1.44,
+              "vis": "No capture web in the frame"
+            }
+          ],
+          "card": "NO CAPTURE WEB; THEY RUN IT DOWN",
+          "_t": 159.8,
+          "_dur": 4.32,
+          "_beats": "P"
+        },
+        {
+          "id": "s3.l2",
+          "say": "They have a distinctive eye pattern, including a row of four small eyes in front.",
+          "src": "HS29",
+          "source_tag": "UC IPM",
+          "vis": "Eye diagram: four small eyes in a front row, larger middle pair, widely spaced rear pair",
+          "shots": [
+            {
+              "t": 164.1,
+              "dur": 1.54,
+              "vis": "Eye diagram: four small eyes in a front row, larger middle pair, widely spaced rear pair"
+            },
+            {
+              "t": 165.6,
+              "dur": 1.54,
+              "vis": "Eye diagram: four small eyes in a front row, larger middle pair, widely spaced rear pair"
+            },
+            {
+              "t": 167.2,
+              "dur": 1.54,
+              "vis": "Eye diagram: four small eyes in a front row, larger middle pair, widely spaced rear pair"
+            }
+          ],
+          "card": "4 SMALL EYES IN FRONT",
+          "_t": 164.1,
+          "_dur": 4.63,
+          "_beats": ""
+        },
+        {
+          "id": "s3.l3",
+          "say": "A female wolf spider attaches the egg sac to her spinnerets, then later carries the babies on her back.",
+          "src": "HS30",
+          "source_tag": "Missouri Department of Conservation; Penn State Extension",
+          "vis": "A female with a round egg sac on the rear of the abdomen / Later: spiderlings clustered on her back",
+          "shots": [
+            {
+              "t": 168.7,
+              "dur": 1.95,
+              "vis": "A female with a round egg sac on the rear of the abdomen"
+            },
+            {
+              "t": 170.7,
+              "dur": 1.95,
+              "vis": "A female with a round egg sac on the rear of the abdomen"
+            },
+            {
+              "t": 172.6,
+              "dur": 1.95,
+              "vis": "Later: spiderlings clustered on her back"
+            }
+          ],
+          "card": "EGG SAC ON THE SPINNERETS; BABIES ON HER BACK",
+          "_t": 168.7,
+          "_dur": 5.86,
+          "_beats": "P"
+        },
+        {
+          "id": "s3.l4",
+          "say": "Wolf spiders will bite if mishandled or trapped next to the skin. Symptoms generally subside within twenty-four hours. No serious medical consequences of these bites have been noted.",
+          "src": "HS32",
+          "source_tag": "Penn State Extension",
+          "vis": "Trigger chip: IF MISHANDLED OR TRAPPED NEXT TO THE SKIN / Card: TYPICAL REACTIONS: PAIN, REDNESS, POSSIBLE LOCALIZED SWELLING / A 24-hour fade bar / Card: NO SERIOUS MEDICAL CONSEQUENCES NOTED / No one picks a wolf spider up",
+          "shots": [
+            {
+              "t": 174.6,
+              "dur": 1.73,
+              "vis": "Trigger chip: IF MISHANDLED OR TRAPPED NEXT TO THE SKIN"
+            },
+            {
+              "t": 176.3,
+              "dur": 1.73,
+              "vis": "Card: TYPICAL REACTIONS: PAIN, REDNESS, POSSIBLE LOCALIZED SWELLING"
+            },
+            {
+              "t": 178.0,
+              "dur": 1.73,
+              "vis": "A 24-hour fade bar"
+            },
+            {
+              "t": 179.8,
+              "dur": 1.73,
+              "vis": "Card: NO SERIOUS MEDICAL CONSEQUENCES NOTED"
+            },
+            {
+              "t": 181.5,
+              "dur": 1.73,
+              "vis": "No one picks a wolf spider up"
+            }
+          ],
+          "card": "IF MISHANDLED OR TRAPPED NEXT TO THE SKIN",
+          "_t": 174.6,
+          "_dur": 8.64,
+          "_beats": ""
+        },
+        {
+          "id": "s3.l5",
+          "say": "The giant house spider is a different animal, commonly found in and around Washington homes west of the Cascade Mountains, plus parts of coastal Canada and Oregon, and not found east of the Cascades in Washington.",
+          "src": "HS34",
+          "source_tag": "Washington State University",
+          "vis": "The wolf-spider tile slides aside; a giant house spider tile comes forward / A Pacific Northwest map: west of the Cascades lit, east of them dark in Washington / Coastal Canada and Oregon also lit",
+          "shots": [
+            {
+              "t": 183.2,
+              "dur": 1.85,
+              "vis": "The wolf-spider tile slides aside; a giant house spider tile comes forward"
+            },
+            {
+              "t": 185.1,
+              "dur": 1.85,
+              "vis": "The wolf-spider tile slides aside; a giant house spider tile comes forward"
+            },
+            {
+              "t": 186.9,
+              "dur": 1.85,
+              "vis": "A Pacific Northwest map: west of the Cascades lit, east of them dark in Washington"
+            },
+            {
+              "t": 188.8,
+              "dur": 1.85,
+              "vis": "A Pacific Northwest map: west of the Cascades lit, east of them dark in Washington"
+            },
+            {
+              "t": 190.6,
+              "dur": 1.85,
+              "vis": "Coastal Canada and Oregon also lit"
+            },
+            {
+              "t": 192.5,
+              "dur": 1.85,
+              "vis": "Coastal Canada and Oregon also lit"
+            }
+          ],
+          "card": "PNW: WEST OF THE CASCADES, NOT EAST IN WASHINGTON",
+          "_t": 183.2,
+          "_dur": 11.11,
+          "_beats": "P"
+        },
+        {
+          "id": "s3.l6",
+          "say": "They build sheets of webbing with a funnel-like hole in the center, and usually run away, very quickly, when startled.",
+          "src": "HS35",
+          "source_tag": "Washington State University",
+          "vis": "A sheet web with a funnel hole, the spider waiting / An indoor floor, then a bathtub / The spider runs away, very quickly",
+          "shots": [
+            {
+              "t": 194.3,
+              "dur": 1.54,
+              "vis": "A sheet web with a funnel hole, the spider waiting"
+            },
+            {
+              "t": 195.9,
+              "dur": 1.54,
+              "vis": "A sheet web with a funnel hole, the spider waiting"
+            },
+            {
+              "t": 197.4,
+              "dur": 1.54,
+              "vis": "An indoor floor, then a bathtub"
+            },
+            {
+              "t": 198.9,
+              "dur": 1.54,
+              "vis": "The spider runs away, very quickly"
+            }
+          ],
+          "card": "FUNNEL SHEET WEB; USUALLY RUNS AWAY",
+          "_t": 194.3,
+          "_dur": 6.17,
+          "_beats": ""
+        },
+        {
+          "id": "s3.l7",
+          "say": "For large adults of the Pacific Northwest giant house spider, the leg span can reach up to four inches. Body length is typically around a half inch to one inch, not including the legs.",
+          "src": "HS36",
+          "source_tag": "Washington State University",
+          "vis": "A large adult, leg-span bar up to 4 inches / Chip: PACIFIC NORTHWEST GIANT HOUSE SPIDER / Chip: LARGE ADULTS, LEG SPAN, NOT BODY LENGTH / A separate body-length bar: ABOUT 1/2 IN TO 1 IN",
+          "shots": [
+            {
+              "t": 200.5,
+              "dur": 1.75,
+              "vis": "A large adult, leg-span bar up to 4 inches"
+            },
+            {
+              "t": 202.2,
+              "dur": 1.75,
+              "vis": "A large adult, leg-span bar up to 4 inches"
+            },
+            {
+              "t": 204.0,
+              "dur": 1.75,
+              "vis": "Chip: PACIFIC NORTHWEST GIANT HOUSE SPIDER"
+            },
+            {
+              "t": 205.7,
+              "dur": 1.75,
+              "vis": "Chip: LARGE ADULTS, LEG SPAN, NOT BODY LENGTH"
+            },
+            {
+              "t": 207.5,
+              "dur": 1.75,
+              "vis": "Chip: LARGE ADULTS, LEG SPAN, NOT BODY LENGTH"
+            },
+            {
+              "t": 209.2,
+              "dur": 1.75,
+              "vis": "A separate body-length bar: ABOUT 1/2 IN TO 1 IN"
+            }
+          ],
+          "card": "PNW GIANT HOUSE SPIDER: UP TO 4 IN LEG SPAN",
+          "_t": 200.5,
+          "_dur": 10.49,
+          "_beats": "P"
+        },
+        {
+          "id": "s3.l8",
+          "say": "The bite is not known to pose any threat to humans.",
+          "src": "HS37",
+          "source_tag": "Washington State University",
+          "vis": "Card: BITE NOT KNOWN TO POSE ANY THREAT TO HUMANS",
+          "shots": [
+            {
+              "t": 211.0,
+              "dur": 1.7,
+              "vis": "Card: BITE NOT KNOWN TO POSE ANY THREAT TO HUMANS"
+            },
+            {
+              "t": 212.7,
+              "dur": 1.7,
+              "vis": "Card: BITE NOT KNOWN TO POSE ANY THREAT TO HUMANS"
+            }
+          ],
+          "card": "BITE NOT KNOWN TO POSE ANY THREAT TO HUMANS",
+          "_t": 211.0,
+          "_dur": 3.39,
+          "_beats": ""
+        },
+        {
+          "id": "s3.l9",
+          "say": "If you are bitten by a spider, bring the spider to an expert for correct identification, and you may wish to seek medical attention.",
+          "src": "HS37",
+          "source_tag": "Washington State University",
+          "vis": "Trigger chip: IF YOU ARE BITTEN BY A SPIDER / Icon: expert identification / Icon: you may wish to seek medical attention",
+          "shots": [
+            {
+              "t": 214.4,
+              "dur": 1.85,
+              "vis": "Trigger chip: IF YOU ARE BITTEN BY A SPIDER"
+            },
+            {
+              "t": 216.2,
+              "dur": 1.85,
+              "vis": "Trigger chip: IF YOU ARE BITTEN BY A SPIDER"
+            },
+            {
+              "t": 218.1,
+              "dur": 1.85,
+              "vis": "Icon: expert identification"
+            },
+            {
+              "t": 219.9,
+              "dur": 1.85,
+              "vis": "Icon: you may wish to seek medical attention"
+            }
+          ],
+          "card": "IF BITTEN: EXPERT ID; YOU MAY WISH TO SEEK CARE",
+          "_t": 214.4,
+          "_dur": 7.4,
+          "_beats": ""
+        },
+        {
+          "id": "s3.l10",
+          "say": "Meatball pulled out a ruler. His cat, Sauce, sat on it. Hell.",
+          "vis": "Meatball pulls a ruler from a drawer / Sauce sits on the ruler",
+          "shots": [
+            {
+              "t": 221.8,
+              "dur": 1.85,
+              "vis": "Meatball pulls a ruler from a drawer"
+            },
+            {
+              "t": 223.6,
+              "dur": 1.85,
+              "vis": "Sauce sits on the ruler"
+            }
+          ],
+          "_t": 221.8,
+          "_dur": 3.7,
+          "_beats": "CJS"
+        },
+        {
+          "id": "s3.l11",
+          "say": "Verdict: leave both, if you've got the right spider. The four-inch span is not a nationwide house-spider size.",
+          "src": "HS36",
+          "source_tag": "Washington State University",
+          "vis": "Meatball stamps LEAVE on both tiles / Chip: 4 IN IS NOT A NATIONWIDE SIZE",
+          "shots": [
+            {
+              "t": 225.5,
+              "dur": 1.85,
+              "vis": "Meatball stamps LEAVE on both tiles"
+            },
+            {
+              "t": 227.3,
+              "dur": 1.85,
+              "vis": "Meatball stamps LEAVE on both tiles"
+            },
+            {
+              "t": 229.2,
+              "dur": 1.85,
+              "vis": "Chip: 4 IN IS NOT A NATIONWIDE SIZE"
+            }
+          ],
+          "card": "VERDICT: LEAVE BOTH, IF IT'S THE RIGHT SPIDER",
+          "meter": 74,
+          "_t": 225.5,
+          "_dur": 5.55,
+          "_beats": "R"
+        }
+      ],
+      "_midroll_after": {
+        "type": "alt",
+        "at": 231.2,
+        "note": "Break in the 0.3 s gap after this chapter's last line, before the next voiced chapter line. Never mid-sentence, never on a safety line, never mid-joke."
+      }
+    },
+    {
+      "chapter": "Halfway",
+      "chip": "",
+      "_start": 231.3,
+      "lines": [
+        {
+          "id": "s4.l0",
+          "say": "Halfway. Those three can be left alone, if you can tell them apart.",
+          "vis": "The three leave-alone tiles flip face up: cellar, jumper, wolf and giant house spider",
+          "shots": [
+            {
+              "t": 231.3,
+              "dur": 1.34,
+              "vis": "The three leave-alone tiles flip face up: cellar, jumper, wolf and giant house spider"
+            },
+            {
+              "t": 232.7,
+              "dur": 1.34,
+              "vis": "The three leave-alone tiles flip face up: cellar, jumper, wolf and giant house spider"
+            },
+            {
+              "t": 234.0,
+              "dur": 1.34,
+              "vis": "The three leave-alone tiles flip face up: cellar, jumper, wolf and giant house spider"
+            }
+          ],
+          "card": "HALFWAY",
+          "_t": 231.3,
+          "_dur": 4.01,
+          "_beats": "R"
+        },
+        {
+          "id": "s4.l1",
+          "say": "Cellar spider in the corner: roommate or eviction? Pick a side in the comments.",
+          "vis": "Meatball points at the cellar-spider tile / Comment pill, bottom right: ROOMMATE OR EVICTION? / Two arrows: ROOMMATE / EVICTION / Meatball points at the comment pill",
+          "shots": [
+            {
+              "t": 235.3,
+              "dur": 1.08,
+              "vis": "Meatball points at the cellar-spider tile"
+            },
+            {
+              "t": 236.4,
+              "dur": 1.08,
+              "vis": "Comment pill, bottom right: ROOMMATE OR EVICTION?"
+            },
+            {
+              "t": 237.5,
+              "dur": 1.08,
+              "vis": "Two arrows: ROOMMATE / EVICTION"
+            },
+            {
+              "t": 238.6,
+              "dur": 1.08,
+              "vis": "Meatball points at the comment pill"
+            }
+          ],
+          "card": "COMMENT: ROOMMATE OR EVICTION?",
+          "_t": 235.3,
+          "_dur": 4.32,
+          "_beats": "CM"
+        },
+        {
+          "id": "s4.l2",
+          "say": "The next two are the ones you should not guess from a photo.",
+          "vis": "A blurry brown-spider photo goes out of focus / Two face-down tiles: widows, recluse",
+          "shots": [
+            {
+              "t": 239.7,
+              "dur": 1.34,
+              "vis": "A blurry brown-spider photo goes out of focus"
+            },
+            {
+              "t": 241.0,
+              "dur": 1.34,
+              "vis": "A blurry brown-spider photo goes out of focus"
+            },
+            {
+              "t": 242.3,
+              "dur": 1.34,
+              "vis": "Two face-down tiles: widows, recluse"
+            }
+          ],
+          "card": "DO NOT GUESS FROM A PHOTO",
+          "_t": 239.7,
+          "_dur": 4.01,
+          "_beats": "RP"
+        }
+      ]
+    },
+    {
+      "chapter": "4. False widow vs black widow",
+      "chip": "ID 1",
+      "_start": 244.0,
+      "lines": [
+        {
+          "id": "s5.l0",
+          "say": "Number four. False widow versus black widow.",
+          "vis": "Voiced chapter card; two spiders side by side, not yet labelled",
+          "shots": [
+            {
+              "t": 244.0,
+              "dur": 1.08,
+              "vis": "Voiced chapter card; two spiders side by side, not yet labelled"
+            },
+            {
+              "t": 245.0,
+              "dur": 1.08,
+              "vis": "Voiced chapter card; two spiders side by side, not yet labelled"
+            }
+          ],
+          "card": "GET IDENTIFIED: WIDOWS AND LOOKALIKES",
+          "_t": 244.0,
+          "_dur": 2.16,
+          "_beats": ""
+        },
+        {
+          "id": "s5.l1",
+          "say": "A mature female western black widow is about half an inch in body length, shiny jet black, with a red hourglass on the underside of the abdomen.",
+          "src": "HS38",
+          "source_tag": "UC IPM",
+          "vis": "A shiny jet-black adult female, western range chip / She hangs; the red hourglass on the underside is visible / Body-length chip: ABOUT 1/2 IN",
+          "shots": [
+            {
+              "t": 246.1,
+              "dur": 1.67,
+              "vis": "A shiny jet-black adult female, western range chip"
+            },
+            {
+              "t": 247.8,
+              "dur": 1.67,
+              "vis": "A shiny jet-black adult female, western range chip"
+            },
+            {
+              "t": 249.5,
+              "dur": 1.67,
+              "vis": "She hangs; the red hourglass on the underside is visible"
+            },
+            {
+              "t": 251.1,
+              "dur": 1.67,
+              "vis": "She hangs; the red hourglass on the underside is visible"
+            },
+            {
+              "t": 252.8,
+              "dur": 1.67,
+              "vis": "Body-length chip: ABOUT 1/2 IN"
+            }
+          ],
+          "card": "WESTERN BLACK WIDOW: ABOUT 1/2 IN, RED HOURGLASS UNDERNEATH",
+          "_t": 246.1,
+          "_dur": 8.33,
+          "_beats": "P"
+        },
+        {
+          "id": "s5.l2",
+          "say": "She is the spider posing the greatest potential envenomation threat to humans in the western United States.",
+          "src": "HS38",
+          "source_tag": "UC IPM",
+          "vis": "Chip: WESTERN UNITED STATES / An adult female, easy to read / An immature, striped and tan, looks nothing like her",
+          "shots": [
+            {
+              "t": 254.5,
+              "dur": 1.75,
+              "vis": "Chip: WESTERN UNITED STATES"
+            },
+            {
+              "t": 256.2,
+              "dur": 1.75,
+              "vis": "An adult female, easy to read"
+            },
+            {
+              "t": 258.0,
+              "dur": 1.75,
+              "vis": "An immature, striped and tan, looks nothing like her"
+            }
+          ],
+          "card": "GREATEST POTENTIAL ENVENOMATION THREAT IN THE WESTERN U.S.",
+          "_t": 254.5,
+          "_dur": 5.24,
+          "_beats": ""
+        },
+        {
+          "id": "s5.l3",
+          "say": "The hourglass can be red or orange, can vary, and on rare occasions is completely absent.",
+          "src": "HS8",
+          "source_tag": "UC IPM",
+          "vis": "A perfect hourglass / A split or faded mark / A rare absent mark / Card: DO NOT USE A MISSING MARK ALONE",
+          "shots": [
+            {
+              "t": 259.7,
+              "dur": 1.23,
+              "vis": "A perfect hourglass"
+            },
+            {
+              "t": 260.9,
+              "dur": 1.23,
+              "vis": "A split or faded mark"
+            },
+            {
+              "t": 262.2,
+              "dur": 1.23,
+              "vis": "A rare absent mark"
+            },
+            {
+              "t": 263.4,
+              "dur": 1.23,
+              "vis": "Card: DO NOT USE A MISSING MARK ALONE"
+            }
+          ],
+          "card": "THE HOURGLASS CAN VARY, AND ON RARE OCCASIONS IS ABSENT",
+          "_t": 259.7,
+          "_dur": 4.94,
+          "_beats": "P"
+        },
+        {
+          "id": "s5.l4",
+          "say": "Immature and male western black widows have white stripes on a tan abdomen. Only the larger immature female and the adult female are able to bite through a person's skin and inject enough venom to cause a painful reaction. The male's fangs are too small to break human skin.",
+          "src": "HS43",
+          "source_tag": "UC IPM",
+          "vis": "Tan, striped immature and male / A larger immature female and an adult female stay lit / Male fangs: TOO SMALL TO BREAK HUMAN SKIN",
+          "shots": [
+            {
+              "t": 264.6,
+              "dur": 1.89,
+              "vis": "Tan, striped immature and male"
+            },
+            {
+              "t": 266.5,
+              "dur": 1.89,
+              "vis": "Tan, striped immature and male"
+            },
+            {
+              "t": 268.4,
+              "dur": 1.89,
+              "vis": "Tan, striped immature and male"
+            },
+            {
+              "t": 270.3,
+              "dur": 1.89,
+              "vis": "A larger immature female and an adult female stay lit"
+            },
+            {
+              "t": 272.2,
+              "dur": 1.89,
+              "vis": "A larger immature female and an adult female stay lit"
+            },
+            {
+              "t": 274.1,
+              "dur": 1.89,
+              "vis": "A larger immature female and an adult female stay lit"
+            },
+            {
+              "t": 276.0,
+              "dur": 1.89,
+              "vis": "Male fangs: TOO SMALL TO BREAK HUMAN SKIN"
+            },
+            {
+              "t": 277.9,
+              "dur": 1.89,
+              "vis": "Male fangs: TOO SMALL TO BREAK HUMAN SKIN"
+            }
+          ],
+          "card": "ONLY LARGER IMMATURE AND ADULT FEMALES; MALE FANGS TOO SMALL",
+          "_t": 264.6,
+          "_dur": 15.12,
+          "_beats": ""
+        },
+        {
+          "id": "s5.l5",
+          "say": "Bites from black widow spiders are quite rare, even where these spiders are very common. If bitten, seek medical attention immediately. A cold pack may be placed on the bite to relieve pain.",
+          "src": "HS44",
+          "source_tag": "UC IPM",
+          "vis": "A garage or woodpile with a widow in a retreat / Card: BITES ARE QUITE RARE / Trigger chip: IF BITTEN / Card: SEEK MEDICAL ATTENTION IMMEDIATELY / A cold pack on a bite, after the seek-care line",
+          "shots": [
+            {
+              "t": 279.8,
+              "dur": 1.7,
+              "vis": "A garage or woodpile with a widow in a retreat"
+            },
+            {
+              "t": 281.4,
+              "dur": 1.7,
+              "vis": "A garage or woodpile with a widow in a retreat"
+            },
+            {
+              "t": 283.1,
+              "dur": 1.7,
+              "vis": "Card: BITES ARE QUITE RARE"
+            },
+            {
+              "t": 284.8,
+              "dur": 1.7,
+              "vis": "Trigger chip: IF BITTEN"
+            },
+            {
+              "t": 286.5,
+              "dur": 1.7,
+              "vis": "Card: SEEK MEDICAL ATTENTION IMMEDIATELY"
+            },
+            {
+              "t": 288.2,
+              "dur": 1.7,
+              "vis": "A cold pack on a bite, after the seek-care line"
+            }
+          ],
+          "card": "IF BITTEN, SEEK MEDICAL ATTENTION IMMEDIATELY",
+          "_t": 279.8,
+          "_dur": 10.18,
+          "_beats": ""
+        },
+        {
+          "id": "s5.l6",
+          "say": "Symptoms most often merely resemble those of the flu, without conspicuous swelling or tissue damage.",
+          "src": "HS44",
+          "source_tag": "UC IPM",
+          "vis": "Flu-like icons, not a rotting-skin image / Card: NOT CONSPICUOUS NECROSIS",
+          "shots": [
+            {
+              "t": 289.9,
+              "dur": 1.54,
+              "vis": "Flu-like icons, not a rotting-skin image"
+            },
+            {
+              "t": 291.5,
+              "dur": 1.54,
+              "vis": "Flu-like icons, not a rotting-skin image"
+            },
+            {
+              "t": 293.0,
+              "dur": 1.54,
+              "vis": "Card: NOT CONSPICUOUS NECROSIS"
+            }
+          ],
+          "card": "MOST OFTEN FLU-LIKE; NOT CONSPICUOUS TISSUE DAMAGE",
+          "_t": 289.9,
+          "_dur": 4.63,
+          "_beats": ""
+        },
+        {
+          "id": "s5.l7",
+          "say": "The false black widow is chocolate brown and never has red coloration on its belly. It is slightly smaller, about three-eighths of an inch, and unlike widow spiders it thrives indoors.",
+          "src": "HS39",
+          "source_tag": "UC IPM",
+          "vis": "Side by side: jet-black widow with a red underside, chocolate-brown false widow with no red / Card: NEVER HAS RED ON ITS BELLY / Size bar: about 3/8 in vs about 1/2 in / Indoor spots: washroom, cupboard, under a cabinet",
+          "shots": [
+            {
+              "t": 294.6,
+              "dur": 1.91,
+              "vis": "Side by side: jet-black widow with a red underside, chocolate-brown false widow with no red"
+            },
+            {
+              "t": 296.5,
+              "dur": 1.91,
+              "vis": "Side by side: jet-black widow with a red underside, chocolate-brown false widow with no red"
+            },
+            {
+              "t": 298.4,
+              "dur": 1.91,
+              "vis": "Card: NEVER HAS RED ON ITS BELLY"
+            },
+            {
+              "t": 300.3,
+              "dur": 1.91,
+              "vis": "Size bar: about 3/8 in vs about 1/2 in"
+            },
+            {
+              "t": 302.2,
+              "dur": 1.91,
+              "vis": "Indoor spots: washroom, cupboard, under a cabinet"
+            }
+          ],
+          "card": "FALSE BLACK WIDOW: CHOCOLATE BROWN, NEVER RED ON THE BELLY",
+          "_t": 294.6,
+          "_dur": 9.56,
+          "_beats": "P"
+        },
+        {
+          "id": "s5.l8",
+          "say": "Because they are common in homes, false black widows are more frequently involved in bite incidents than black widow or brown widow spiders. They have mild venom.",
+          "src": "HS40",
+          "source_tag": "UC IPM",
+          "vis": "Chip: FALSE BLACK WIDOW, THIS SPECIES / A mild-venom card / The noble false widow is not on this card",
+          "shots": [
+            {
+              "t": 304.1,
+              "dur": 1.67,
+              "vis": "Chip: FALSE BLACK WIDOW, THIS SPECIES"
+            },
+            {
+              "t": 305.8,
+              "dur": 1.67,
+              "vis": "Chip: FALSE BLACK WIDOW, THIS SPECIES"
+            },
+            {
+              "t": 307.5,
+              "dur": 1.67,
+              "vis": "A mild-venom card"
+            },
+            {
+              "t": 309.1,
+              "dur": 1.67,
+              "vis": "A mild-venom card"
+            },
+            {
+              "t": 310.8,
+              "dur": 1.67,
+              "vis": "The noble false widow is not on this card"
+            }
+          ],
+          "card": "THIS SPECIES: MILD VENOM, MORE OFTEN INVOLVED IN BITES",
+          "_t": 304.1,
+          "_dur": 8.33,
+          "_beats": ""
+        },
+        {
+          "id": "s5.l9",
+          "say": "The noble false widow is a different species, with distinctive skull-shaped markings on its back. It looks similar to the more dangerous black widows, but is likely to give only a small and relatively harmless bite, and is only known to bite when provoked or trapped against skin.",
+          "src": "HS41",
+          "source_tag": "Natural History Museum",
+          "vis": "A noble false widow with a skull-shaped back mark / It sits beside a black widow for comparison / Card: SMALL AND RELATIVELY HARMLESS BITE / Trigger chip: ONLY KNOWN TO BITE WHEN PROVOKED OR TRAPPED AGAINST SKIN / No wasp-sting wording on this card",
+          "shots": [
+            {
+              "t": 312.5,
+              "dur": 1.85,
+              "vis": "A noble false widow with a skull-shaped back mark"
+            },
+            {
+              "t": 314.3,
+              "dur": 1.85,
+              "vis": "A noble false widow with a skull-shaped back mark"
+            },
+            {
+              "t": 316.2,
+              "dur": 1.85,
+              "vis": "It sits beside a black widow for comparison"
+            },
+            {
+              "t": 318.0,
+              "dur": 1.85,
+              "vis": "It sits beside a black widow for comparison"
+            },
+            {
+              "t": 319.9,
+              "dur": 1.85,
+              "vis": "Card: SMALL AND RELATIVELY HARMLESS BITE"
+            },
+            {
+              "t": 321.7,
+              "dur": 1.85,
+              "vis": "Trigger chip: ONLY KNOWN TO BITE WHEN PROVOKED OR TRAPPED AGAINST SKIN"
+            },
+            {
+              "t": 323.6,
+              "dur": 1.85,
+              "vis": "Trigger chip: ONLY KNOWN TO BITE WHEN PROVOKED OR TRAPPED AGAINST SKIN"
+            },
+            {
+              "t": 325.4,
+              "dur": 1.85,
+              "vis": "No wasp-sting wording on this card"
+            }
+          ],
+          "card": "NOBLE FALSE WIDOW: SKULL-SHAPED MARK; A DIFFERENT SPECIES",
+          "_t": 312.5,
+          "_dur": 14.81,
+          "_beats": "P"
+        },
+        {
+          "id": "s5.l10",
+          "say": "The brown widow is a widow, not a false widow. The bite is much milder than that of the western black widow. Both black widows and brown widows are almost never found in homes, though they are common around them.",
+          "src": "HS45",
+          "source_tag": "UC IPM",
+          "vis": "A brown widow, tagged A WIDOW, NOT A FALSE WIDOW / A milder-bite chip, compared with the western black widow / A spiky, pollen-grain egg sac / A house interior stays empty of widows; the garage and yard around it light up",
+          "shots": [
+            {
+              "t": 327.3,
+              "dur": 1.76,
+              "vis": "A brown widow, tagged A WIDOW, NOT A FALSE WIDOW"
+            },
+            {
+              "t": 329.0,
+              "dur": 1.76,
+              "vis": "A brown widow, tagged A WIDOW, NOT A FALSE WIDOW"
+            },
+            {
+              "t": 330.8,
+              "dur": 1.76,
+              "vis": "A milder-bite chip, compared with the western black widow"
+            },
+            {
+              "t": 332.5,
+              "dur": 1.76,
+              "vis": "A milder-bite chip, compared with the western black widow"
+            },
+            {
+              "t": 334.3,
+              "dur": 1.76,
+              "vis": "A spiky, pollen-grain egg sac"
+            },
+            {
+              "t": 336.1,
+              "dur": 1.76,
+              "vis": "A spiky, pollen-grain egg sac"
+            },
+            {
+              "t": 337.8,
+              "dur": 1.76,
+              "vis": "A house interior stays empty of widows; the garage and yard around it light up"
+            }
+          ],
+          "card": "BROWN WIDOW: A WIDOW, NOT A FALSE WIDOW",
+          "_t": 327.3,
+          "_dur": 12.34,
+          "_beats": ""
+        },
+        {
+          "id": "s5.l11",
+          "say": "A plastic spider on the table was chocolate brown. Sauce knocked it under the couch. Hell.",
+          "vis": "A clearly plastic chocolate-brown spider on the table / Sauce knocks it under the couch / Meatball looks at the empty table",
+          "shots": [
+            {
+              "t": 339.6,
+              "dur": 1.65,
+              "vis": "A clearly plastic chocolate-brown spider on the table"
+            },
+            {
+              "t": 341.2,
+              "dur": 1.65,
+              "vis": "Sauce knocks it under the couch"
+            },
+            {
+              "t": 342.9,
+              "dur": 1.65,
+              "vis": "Meatball looks at the empty table"
+            }
+          ],
+          "_t": 339.6,
+          "_dur": 4.94,
+          "_beats": "CJS"
+        }
+      ],
+      "_midroll_after": {
+        "type": "primary",
+        "at": 344.7,
+        "note": "Break in the 0.3 s gap after this chapter's last line, before the next voiced chapter line. Never mid-sentence, never on a safety line, never mid-joke."
+      }
+    },
+    {
+      "chapter": "5. Brown recluse",
+      "chip": "ID 2",
+      "_start": 344.8,
+      "lines": [
+        {
+          "id": "s6.l0",
+          "say": "Number five. The brown recluse, and the spiders people take for one.",
+          "vis": "Voiced chapter card over a drawn brown recluse, close, not as a violin close-up",
+          "shots": [
+            {
+              "t": 344.8,
+              "dur": 1.85,
+              "vis": "Voiced chapter card over a drawn brown recluse, close, not as a violin close-up"
+            },
+            {
+              "t": 346.7,
+              "dur": 1.85,
+              "vis": "Voiced chapter card over a drawn brown recluse, close, not as a violin close-up"
+            }
+          ],
+          "card": "GET IDENTIFIED: BROWN RECLUSE",
+          "_t": 344.8,
+          "_dur": 3.7,
+          "_beats": ""
+        },
+        {
+          "id": "s6.l1",
+          "say": "The most definitive physical feature of recluse spiders is their six equal-sized eyes arranged in three pairs. Most spiders have eight eyes.",
+          "src": "HS9, HS10",
+          "source_tag": "UC IPM; CDC / NIOSH",
+          "vis": "Eye diagram: six equal-sized eyes in three pairs / Beside it, a typical eight-eye spider / Card: COUNT THE EYES",
+          "shots": [
+            {
+              "t": 348.5,
+              "dur": 1.7,
+              "vis": "Eye diagram: six equal-sized eyes in three pairs"
+            },
+            {
+              "t": 350.2,
+              "dur": 1.7,
+              "vis": "Eye diagram: six equal-sized eyes in three pairs"
+            },
+            {
+              "t": 351.9,
+              "dur": 1.7,
+              "vis": "Beside it, a typical eight-eye spider"
+            },
+            {
+              "t": 353.6,
+              "dur": 1.7,
+              "vis": "Card: COUNT THE EYES"
+            }
+          ],
+          "card": "6 EQUAL-SIZED EYES IN 3 PAIRS; MOST SPIDERS HAVE 8",
+          "_t": 348.5,
+          "_dur": 6.79,
+          "_beats": "P"
+        },
+        {
+          "id": "s6.l2",
+          "say": "The presence or absence of the violin marking is not a reliable way to identify this spider.",
+          "src": "HS9, HS48",
+          "source_tag": "UC IPM; UC Riverside, Rick Vetter",
+          "vis": "A violin mark fades off a brown spider / Card: NOT A RELIABLE WAY TO IDENTIFY THIS SPIDER / The six-eye diagram stays",
+          "shots": [
+            {
+              "t": 355.3,
+              "dur": 1.75,
+              "vis": "A violin mark fades off a brown spider"
+            },
+            {
+              "t": 357.1,
+              "dur": 1.75,
+              "vis": "Card: NOT A RELIABLE WAY TO IDENTIFY THIS SPIDER"
+            },
+            {
+              "t": 358.8,
+              "dur": 1.75,
+              "vis": "The six-eye diagram stays"
+            }
+          ],
+          "card": "THE VIOLIN MARK IS NOT THE TELL",
+          "_t": 355.3,
+          "_dur": 5.24,
+          "_beats": "P"
+        },
+        {
+          "id": "s6.l3",
+          "say": "If the spider has a body length greater than half an inch, it is not a recluse. A brown recluse is about three-eighths of an inch in body length.",
+          "src": "HS48",
+          "source_tag": "UC Riverside, Rick Vetter",
+          "vis": "A half-inch cutoff bar / A recluse at about 3/8 in / A larger brown spider is ruled out",
+          "shots": [
+            {
+              "t": 360.6,
+              "dur": 1.79,
+              "vis": "A half-inch cutoff bar"
+            },
+            {
+              "t": 362.4,
+              "dur": 1.79,
+              "vis": "A half-inch cutoff bar"
+            },
+            {
+              "t": 364.1,
+              "dur": 1.79,
+              "vis": "A recluse at about 3/8 in"
+            },
+            {
+              "t": 365.9,
+              "dur": 1.79,
+              "vis": "A recluse at about 3/8 in"
+            },
+            {
+              "t": 367.7,
+              "dur": 1.79,
+              "vis": "A larger brown spider is ruled out"
+            }
+          ],
+          "card": "IF BODY LENGTH > 1/2 IN, IT IS NOT A RECLUSE",
+          "_t": 360.6,
+          "_dur": 8.95,
+          "_beats": ""
+        },
+        {
+          "id": "s6.l4",
+          "say": "The brown recluse is the proper common name for only one species. It lives in the south-central Midwest, from southeastern Nebraska to southwestern Ohio and south through Texas to north Georgia. There are no populations of the brown recluse in California.",
+          "src": "HS46",
+          "source_tag": "UC IPM",
+          "vis": "A range map: SE Nebraska to SW Ohio, south through Texas to north Georgia / California is clearly unmarked / Chip: ONLY ONE SPECIES, on the card, not spoken as a Latin line",
+          "shots": [
+            {
+              "t": 369.5,
+              "dur": 1.81,
+              "vis": "A range map: SE Nebraska to SW Ohio, south through Texas to north Georgia"
+            },
+            {
+              "t": 371.3,
+              "dur": 1.81,
+              "vis": "A range map: SE Nebraska to SW Ohio, south through Texas to north Georgia"
+            },
+            {
+              "t": 373.1,
+              "dur": 1.81,
+              "vis": "A range map: SE Nebraska to SW Ohio, south through Texas to north Georgia"
+            },
+            {
+              "t": 374.9,
+              "dur": 1.81,
+              "vis": "California is clearly unmarked"
+            },
+            {
+              "t": 376.7,
+              "dur": 1.81,
+              "vis": "California is clearly unmarked"
+            },
+            {
+              "t": 378.5,
+              "dur": 1.81,
+              "vis": "Chip: ONLY ONE SPECIES, on the card, not spoken as a Latin line"
+            },
+            {
+              "t": 380.4,
+              "dur": 1.81,
+              "vis": "Chip: ONLY ONE SPECIES, on the card, not spoken as a Latin line"
+            }
+          ],
+          "card": "SOUTH-CENTRAL MIDWEST; NONE IN CALIFORNIA",
+          "_t": 369.5,
+          "_dur": 12.65,
+          "_beats": "P"
+        },
+        {
+          "id": "s6.l5",
+          "say": "If you do not live in the area on the range map, it is highly unlikely you have a recluse. It is possible, but incredibly unlikely.",
+          "src": "HS62",
+          "source_tag": "UC Riverside, Rick Vetter",
+          "vis": "The same map, uncolored areas dim / Card: HIGHLY UNLIKELY / Chip: POSSIBLE, BUT INCREDIBLY UNLIKELY",
+          "shots": [
+            {
+              "t": 382.2,
+              "dur": 1.6,
+              "vis": "The same map, uncolored areas dim"
+            },
+            {
+              "t": 383.8,
+              "dur": 1.6,
+              "vis": "The same map, uncolored areas dim"
+            },
+            {
+              "t": 385.4,
+              "dur": 1.6,
+              "vis": "Card: HIGHLY UNLIKELY"
+            },
+            {
+              "t": 387.0,
+              "dur": 1.6,
+              "vis": "Card: HIGHLY UNLIKELY"
+            },
+            {
+              "t": 388.6,
+              "dur": 1.6,
+              "vis": "Chip: POSSIBLE, BUT INCREDIBLY UNLIKELY"
+            }
+          ],
+          "card": "OUTSIDE THE MAP: HIGHLY UNLIKELY, NOT IMPOSSIBLE",
+          "_t": 382.2,
+          "_dur": 8.02,
+          "_beats": ""
+        },
+        {
+          "id": "s6.l6",
+          "say": "Common lookalikes almost all have eight eyes, and can be quickly eliminated. Spitting spiders have a similar six-eye pattern, but also have spots or lines and a strongly domed head region.",
+          "src": "HS49",
+          "source_tag": "UC IPM",
+          "vis": "A row of tan lookalikes / Each shows eight eyes and slides out / A spitting spider beside a recluse: spots or lines, a strongly domed head region / The recluse stays plain and flat-headed",
+          "shots": [
+            {
+              "t": 390.2,
+              "dur": 1.91,
+              "vis": "A row of tan lookalikes"
+            },
+            {
+              "t": 392.1,
+              "dur": 1.91,
+              "vis": "A row of tan lookalikes"
+            },
+            {
+              "t": 394.0,
+              "dur": 1.91,
+              "vis": "Each shows eight eyes and slides out"
+            },
+            {
+              "t": 395.9,
+              "dur": 1.91,
+              "vis": "A spitting spider beside a recluse: spots or lines, a strongly domed head region"
+            },
+            {
+              "t": 397.8,
+              "dur": 1.91,
+              "vis": "The recluse stays plain and flat-headed"
+            }
+          ],
+          "card": "LOOKALIKES: ALMOST ALL HAVE 8 EYES",
+          "_t": 390.2,
+          "_dur": 9.56,
+          "_beats": ""
+        },
+        {
+          "id": "s6.l7",
+          "say": "Recluses cannot bite humans without counterpressure, like if one is accidentally trapped against the skin. In the right environment, populations are usually dense: if you find them, you find many, not one.",
+          "src": "HS10, HS50",
+          "source_tag": "CDC / NIOSH; UC IPM",
+          "vis": "A shoe or folded cloth traps a recluse against skin, cut before gore / A dense indoor cluster, in range / One lone lookalike is not treated as an infestation",
+          "shots": [
+            {
+              "t": 399.7,
+              "dur": 1.97,
+              "vis": "A shoe or folded cloth traps a recluse against skin, cut before gore"
+            },
+            {
+              "t": 401.7,
+              "dur": 1.97,
+              "vis": "A shoe or folded cloth traps a recluse against skin, cut before gore"
+            },
+            {
+              "t": 403.7,
+              "dur": 1.97,
+              "vis": "A dense indoor cluster, in range"
+            },
+            {
+              "t": 405.7,
+              "dur": 1.97,
+              "vis": "A dense indoor cluster, in range"
+            },
+            {
+              "t": 407.6,
+              "dur": 1.97,
+              "vis": "One lone lookalike is not treated as an infestation"
+            }
+          ],
+          "card": "NO BITE WITHOUT COUNTERPRESSURE; IF YOU FIND THEM, YOU FIND MANY",
+          "_t": 399.7,
+          "_dur": 9.87,
+          "_beats": ""
+        },
+        {
+          "id": "s6.l8",
+          "say": "About ten percent of brown recluse bites cause moderate or greater tissue damage and scarring, but the vast majority only result in inflammation and heal well without medical intervention.",
+          "src": "HS54",
+          "source_tag": "UC IPM",
+          "vis": "A ten-percent bar, tagged BROWN RECLUSE BITES, not spider bites / The remaining bar: inflammation, heal well / Card: ABOUT 10% / VAST MAJORITY",
+          "shots": [
+            {
+              "t": 409.6,
+              "dur": 1.79,
+              "vis": "A ten-percent bar, tagged BROWN RECLUSE BITES, not spider bites"
+            },
+            {
+              "t": 411.4,
+              "dur": 1.79,
+              "vis": "A ten-percent bar, tagged BROWN RECLUSE BITES, not spider bites"
+            },
+            {
+              "t": 413.2,
+              "dur": 1.79,
+              "vis": "The remaining bar: inflammation, heal well"
+            },
+            {
+              "t": 415.0,
+              "dur": 1.79,
+              "vis": "The remaining bar: inflammation, heal well"
+            },
+            {
+              "t": 416.8,
+              "dur": 1.79,
+              "vis": "Card: ABOUT 10% / VAST MAJORITY"
+            }
+          ],
+          "card": "ABOUT 10% OF BROWN RECLUSE BITES: MODERATE OR GREATER TISSUE DAMAGE",
+          "_t": 409.6,
+          "_dur": 8.95,
+          "_beats": "P"
+        },
+        {
+          "id": "s6.l9",
+          "say": "Deaths have been reported in children, but these are extremely rare, and can be prevented if accurately diagnosed and the proper medical treatment applied. If a bite is suspected, still seek care.",
+          "src": "HS54, HS64",
+          "source_tag": "UC IPM",
+          "vis": "Chip: DEATHS IN CHILDREN, EXTREMELY RARE / Chip: IF ACCURATELY DIAGNOSED / Card: IF A BITE IS SUSPECTED, STILL SEEK CARE",
+          "shots": [
+            {
+              "t": 418.6,
+              "dur": 1.97,
+              "vis": "Chip: DEATHS IN CHILDREN, EXTREMELY RARE"
+            },
+            {
+              "t": 420.5,
+              "dur": 1.97,
+              "vis": "Chip: DEATHS IN CHILDREN, EXTREMELY RARE"
+            },
+            {
+              "t": 422.5,
+              "dur": 1.97,
+              "vis": "Chip: IF ACCURATELY DIAGNOSED"
+            },
+            {
+              "t": 424.5,
+              "dur": 1.97,
+              "vis": "Chip: IF ACCURATELY DIAGNOSED"
+            },
+            {
+              "t": 426.5,
+              "dur": 1.97,
+              "vis": "Card: IF A BITE IS SUSPECTED, STILL SEEK CARE"
+            }
+          ],
+          "card": "IF A BITE IS SUSPECTED, STILL SEEK CARE",
+          "meter": 22,
+          "_t": 418.6,
+          "_dur": 9.87,
+          "_beats": "P"
+        },
+        {
+          "id": "s6.l10",
+          "say": "The venom can cause a severe lesion by destroying skin tissue. This skin lesion will require professional medical attention.",
+          "src": "HS56",
+          "source_tag": "CDC / NIOSH",
+          "vis": "A plain, non-graphic lesion icon / Card: WILL REQUIRE PROFESSIONAL MEDICAL ATTENTION / This card sits beside the about-10% card, not instead of it",
+          "shots": [
+            {
+              "t": 428.4,
+              "dur": 1.95,
+              "vis": "A plain, non-graphic lesion icon"
+            },
+            {
+              "t": 430.4,
+              "dur": 1.95,
+              "vis": "Card: WILL REQUIRE PROFESSIONAL MEDICAL ATTENTION"
+            },
+            {
+              "t": 432.3,
+              "dur": 1.95,
+              "vis": "This card sits beside the about-10% card, not instead of it"
+            }
+          ],
+          "card": "VENOM CAN CAUSE A SEVERE LESION; THAT LESION NEEDS CARE",
+          "_t": 428.4,
+          "_dur": 5.86,
+          "_beats": ""
+        },
+        {
+          "id": "s6.l11",
+          "say": "Necrotic wounds are commonly misdiagnosed as brown recluse bites. In one national study of eleven university-based medical facilities, twenty-nine percent of patients presenting for spider bite had MRSA as the cause.",
+          "src": "HS57",
+          "source_tag": "UC IPM",
+          "vis": "Card: COMMONLY MISDIAGNOSED / Chip: ONE NATIONAL STUDY, 11 FACILITIES / 29% bar: patients presenting for spider bite, MRSA",
+          "shots": [
+            {
+              "t": 434.3,
+              "dur": 1.91,
+              "vis": "Card: COMMONLY MISDIAGNOSED"
+            },
+            {
+              "t": 436.2,
+              "dur": 1.91,
+              "vis": "Card: COMMONLY MISDIAGNOSED"
+            },
+            {
+              "t": 438.1,
+              "dur": 1.91,
+              "vis": "Chip: ONE NATIONAL STUDY, 11 FACILITIES"
+            },
+            {
+              "t": 440.0,
+              "dur": 1.91,
+              "vis": "Chip: ONE NATIONAL STUDY, 11 FACILITIES"
+            },
+            {
+              "t": 441.9,
+              "dur": 1.91,
+              "vis": "29% bar: patients presenting for spider bite, MRSA"
+            }
+          ],
+          "card": "ONE STUDY: 29% OF 'SPIDER BITE' CASES WERE MRSA",
+          "_t": 434.3,
+          "_dur": 9.56,
+          "_beats": "P"
+        },
+        {
+          "id": "s6.l12",
+          "say": "So get a real diagnosis. Do not treat a wound as a recluse bite on a guess.",
+          "src": "HS62, HS57",
+          "source_tag": "UC Riverside, Rick Vetter; UC IPM",
+          "vis": "A blurry photo is stamped DO NOT GUESS / A wound icon is stamped GET A REAL DIAGNOSIS",
+          "shots": [
+            {
+              "t": 443.9,
+              "dur": 1.75,
+              "vis": "A blurry photo is stamped DO NOT GUESS"
+            },
+            {
+              "t": 445.6,
+              "dur": 1.75,
+              "vis": "A blurry photo is stamped DO NOT GUESS"
+            },
+            {
+              "t": 447.4,
+              "dur": 1.75,
+              "vis": "A wound icon is stamped GET A REAL DIAGNOSIS"
+            }
+          ],
+          "card": "GET A REAL DIAGNOSIS; DO NOT GUESS A WOUND",
+          "_t": 443.9,
+          "_dur": 5.24,
+          "_beats": "R"
+        }
+      ]
+    },
+    {
+      "chapter": "6. What to do",
+      "chip": "WHAT TO DO",
+      "_start": 449.4,
+      "lines": [
+        {
+          "id": "s7.l0",
+          "say": "Here's what to do.",
+          "vis": "Voiced chapter card, plain background",
+          "shots": [
+            {
+              "t": 449.4,
+              "dur": 1.23,
+              "vis": "Voiced chapter card, plain background"
+            }
+          ],
+          "card": "WHAT TO DO",
+          "_t": 449.4,
+          "_dur": 1.23,
+          "_beats": ""
+        },
+        {
+          "id": "s7.l1",
+          "say": "Take a clear photo with a size reference, save the spider if you can do it safely, and take it to your county Cooperative Extension office. Use a ruler or coin next to the specimen.",
+          "src": "HS59, HS60",
+          "source_tag": "UC IPM; University of Kentucky",
+          "vis": "A clear photo, a coin or ruler in the frame / Chip: IF YOU CAN DO IT SAFELY / A county Cooperative Extension office door / No one handles a widow or recluse with bare hands / A blurry photo is rejected",
+          "shots": [
+            {
+              "t": 450.6,
+              "dur": 1.8,
+              "vis": "A clear photo, a coin or ruler in the frame"
+            },
+            {
+              "t": 452.4,
+              "dur": 1.8,
+              "vis": "A clear photo, a coin or ruler in the frame"
+            },
+            {
+              "t": 454.2,
+              "dur": 1.8,
+              "vis": "Chip: IF YOU CAN DO IT SAFELY"
+            },
+            {
+              "t": 456.0,
+              "dur": 1.8,
+              "vis": "A county Cooperative Extension office door"
+            },
+            {
+              "t": 457.8,
+              "dur": 1.8,
+              "vis": "No one handles a widow or recluse with bare hands"
+            },
+            {
+              "t": 459.6,
+              "dur": 1.8,
+              "vis": "A blurry photo is rejected"
+            }
+          ],
+          "card": "CLEAR PHOTO WITH A SIZE REFERENCE; COUNTY EXTENSION OFFICE",
+          "_t": 450.6,
+          "_dur": 10.8,
+          "_beats": ""
+        },
+        {
+          "id": "s7.l2",
+          "say": "Never mail a spider in alcohol. That is a violation of postal regulations.",
+          "src": "HS60, HS61",
+          "source_tag": "University of Kentucky; UC IPM",
+          "vis": "A jar of alcohol is stamped NEVER MAIL / Card: VIOLATION OF POSTAL REGULATIONS",
+          "shots": [
+            {
+              "t": 461.4,
+              "dur": 1.34,
+              "vis": "A jar of alcohol is stamped NEVER MAIL"
+            },
+            {
+              "t": 462.8,
+              "dur": 1.34,
+              "vis": "A jar of alcohol is stamped NEVER MAIL"
+            },
+            {
+              "t": 464.1,
+              "dur": 1.34,
+              "vis": "Card: VIOLATION OF POSTAL REGULATIONS"
+            }
+          ],
+          "card": "NEVER MAIL A SPIDER IN ALCOHOL",
+          "_t": 461.4,
+          "_dur": 4.01,
+          "_beats": ""
+        },
+        {
+          "id": "s7.l3",
+          "say": "If a spider bites you, stay calm. Identify the type of spider if it is possible to do so safely. Wash the bite area with soap and water. Apply a cloth dampened with cold water or filled with ice. Elevate the bite area if possible. Do not attempt to remove venom. Seek professional medical attention.",
+          "src": "HS63",
+          "source_tag": "CDC / NIOSH",
+          "vis": "Trigger chip: IF A SPIDER BITES YOU / Stay calm / Identify only if it is possible to do so safely / Wash with soap and water / A cold cloth or ice / Elevate if possible / DO NOT ATTEMPT TO REMOVE VENOM / SEEK PROFESSIONAL MEDICAL ATTENTION",
+          "shots": [
+            {
+              "t": 465.4,
+              "dur": 1.89,
+              "vis": "Trigger chip: IF A SPIDER BITES YOU"
+            },
+            {
+              "t": 467.3,
+              "dur": 1.89,
+              "vis": "Trigger chip: IF A SPIDER BITES YOU"
+            },
+            {
+              "t": 469.2,
+              "dur": 1.89,
+              "vis": "Stay calm"
+            },
+            {
+              "t": 471.1,
+              "dur": 1.89,
+              "vis": "Identify only if it is possible to do so safely"
+            },
+            {
+              "t": 473.0,
+              "dur": 1.89,
+              "vis": "Wash with soap and water"
+            },
+            {
+              "t": 474.9,
+              "dur": 1.89,
+              "vis": "A cold cloth or ice"
+            },
+            {
+              "t": 476.8,
+              "dur": 1.89,
+              "vis": "Elevate if possible"
+            },
+            {
+              "t": 478.6,
+              "dur": 1.89,
+              "vis": "DO NOT ATTEMPT TO REMOVE VENOM"
+            },
+            {
+              "t": 480.5,
+              "dur": 1.89,
+              "vis": "SEEK PROFESSIONAL MEDICAL ATTENTION"
+            }
+          ],
+          "card": "IF BITTEN: WASH, COLD, ELEVATE; DO NOT REMOVE VENOM; SEEK CARE",
+          "_t": 465.4,
+          "_dur": 16.97,
+          "_beats": "P"
+        },
+        {
+          "id": "s7.l4",
+          "say": "If the bite of any spider causes an unusual or severe reaction, contact a physician, hospital, or poison control center. In the United States, Poison Help is 1-800-222-1222.",
+          "src": "HS64",
+          "source_tag": "UC IPM",
+          "vis": "Trigger chip: IF THE BITE CAUSES AN UNUSUAL OR SEVERE REACTION / Icons: physician, hospital, poison control / Card: POISON HELP 1-800-222-1222",
+          "shots": [
+            {
+              "t": 482.4,
+              "dur": 1.73,
+              "vis": "Trigger chip: IF THE BITE CAUSES AN UNUSUAL OR SEVERE REACTION"
+            },
+            {
+              "t": 484.1,
+              "dur": 1.73,
+              "vis": "Trigger chip: IF THE BITE CAUSES AN UNUSUAL OR SEVERE REACTION"
+            },
+            {
+              "t": 485.9,
+              "dur": 1.73,
+              "vis": "Icons: physician, hospital, poison control"
+            },
+            {
+              "t": 487.6,
+              "dur": 1.73,
+              "vis": "Icons: physician, hospital, poison control"
+            },
+            {
+              "t": 489.3,
+              "dur": 1.73,
+              "vis": "Card: POISON HELP 1-800-222-1222"
+            }
+          ],
+          "card": "IF UNUSUAL OR SEVERE: 1-800-222-1222",
+          "_t": 482.4,
+          "_dur": 8.64,
+          "_beats": ""
+        },
+        {
+          "id": "s7.l5",
+          "say": "In the midwestern and southern United States, inspect or shake out any clothing, shoes, towels, or equipment before use.",
+          "src": "HS58",
+          "source_tag": "CDC / NIOSH",
+          "vis": "Range chip: MIDWESTERN AND SOUTHERN UNITED STATES / A closet, a shoe, an attic / Someone shakes out a shoe and a towel before use",
+          "shots": [
+            {
+              "t": 491.0,
+              "dur": 1.95,
+              "vis": "Range chip: MIDWESTERN AND SOUTHERN UNITED STATES"
+            },
+            {
+              "t": 493.0,
+              "dur": 1.95,
+              "vis": "A closet, a shoe, an attic"
+            },
+            {
+              "t": 495.0,
+              "dur": 1.95,
+              "vis": "Someone shakes out a shoe and a towel before use"
+            }
+          ],
+          "card": "IN RANGE: INSPECT OR SHAKE OUT CLOTHING, SHOES, TOWELS",
+          "_t": 491.0,
+          "_dur": 5.86,
+          "_beats": ""
+        },
+        {
+          "id": "s7.l6",
+          "say": "Spiders are mostly beneficial because they feed on pest insects. Pesticides are not generally needed.",
+          "src": "HS1",
+          "source_tag": "UC IPM",
+          "vis": "A house spider eating a pest insect / Card: PESTICIDES ARE NOT GENERALLY NEEDED / Meatball gives the house spider a tiny thumbs-up / No homemade mix is shown",
+          "shots": [
+            {
+              "t": 496.9,
+              "dur": 1.16,
+              "vis": "A house spider eating a pest insect"
+            },
+            {
+              "t": 498.1,
+              "dur": 1.16,
+              "vis": "Card: PESTICIDES ARE NOT GENERALLY NEEDED"
+            },
+            {
+              "t": 499.2,
+              "dur": 1.16,
+              "vis": "Meatball gives the house spider a tiny thumbs-up"
+            },
+            {
+              "t": 500.4,
+              "dur": 1.16,
+              "vis": "No homemade mix is shown"
+            }
+          ],
+          "card": "MOSTLY BENEFICIAL; PESTICIDES ARE NOT GENERALLY NEEDED",
+          "_t": 496.9,
+          "_dur": 4.63,
+          "_beats": ""
+        },
+        {
+          "id": "s7.l7",
+          "say": "Meatball printed a photo with a coin in the frame. Damn. His cat, Sauce, sat on the printer.",
+          "vis": "Meatball prints a clear photo, a coin beside the spider / Sauce sits on the printer",
+          "shots": [
+            {
+              "t": 501.5,
+              "dur": 1.85,
+              "vis": "Meatball prints a clear photo, a coin beside the spider"
+            },
+            {
+              "t": 503.4,
+              "dur": 1.85,
+              "vis": "Meatball prints a clear photo, a coin beside the spider"
+            },
+            {
+              "t": 505.2,
+              "dur": 1.85,
+              "vis": "Sauce sits on the printer"
+            }
+          ],
+          "_t": 501.5,
+          "_dur": 5.55,
+          "_beats": "CJS"
+        }
+      ]
+    },
+    {
+      "chapter": "The verdict",
+      "chip": "",
+      "_start": 507.4,
+      "lines": [
+        {
+          "id": "s8.l0",
+          "say": "Here's the verdict, and it's an opinion.",
+          "vis": "Two columns appear: LEAVE ALONE and GET IDENTIFIED",
+          "shots": [
+            {
+              "t": 507.4,
+              "dur": 1.08,
+              "vis": "Two columns appear: LEAVE ALONE and GET IDENTIFIED"
+            },
+            {
+              "t": 508.5,
+              "dur": 1.08,
+              "vis": "Two columns appear: LEAVE ALONE and GET IDENTIFIED"
+            }
+          ],
+          "_t": 507.4,
+          "_dur": 2.16,
+          "_beats": "R"
+        },
+        {
+          "id": "s8.l1",
+          "say": "Leave alone, if you've identified them: the cellar spider, the jumping spider, the wolf spider, and the Pacific Northwest giant house spider.",
+          "src": "HS7, HS21, HS28, HS36",
+          "source_tag": "Penn State Extension; UC IPM; Missouri Department of Conservation; Washington State University",
+          "vis": "LEAVE ALONE column: cellar tile / Jumper tile / Wolf-spider tile / PNW giant house spider, up-to-4-inch chip",
+          "shots": [
+            {
+              "t": 509.5,
+              "dur": 1.7,
+              "vis": "LEAVE ALONE column: cellar tile"
+            },
+            {
+              "t": 511.2,
+              "dur": 1.7,
+              "vis": "Jumper tile"
+            },
+            {
+              "t": 512.9,
+              "dur": 1.7,
+              "vis": "Wolf-spider tile"
+            },
+            {
+              "t": 514.6,
+              "dur": 1.7,
+              "vis": "PNW giant house spider, up-to-4-inch chip"
+            }
+          ],
+          "_t": 509.5,
+          "_dur": 6.79,
+          "_beats": ""
+        },
+        {
+          "id": "s8.l2",
+          "say": "Get identified, and do not guess from a photo: black widows and brown widows, false widows, and the brown recluse.",
+          "src": "HS38, HS39, HS41, HS45, HS46, HS62",
+          "source_tag": "UC IPM; Natural History Museum; UC Riverside, Rick Vetter",
+          "vis": "GET IDENTIFIED column: western black widow and brown widow / False black widow and noble false widow / Brown recluse, six-eye card",
+          "shots": [
+            {
+              "t": 516.3,
+              "dur": 1.54,
+              "vis": "GET IDENTIFIED column: western black widow and brown widow"
+            },
+            {
+              "t": 517.9,
+              "dur": 1.54,
+              "vis": "GET IDENTIFIED column: western black widow and brown widow"
+            },
+            {
+              "t": 519.4,
+              "dur": 1.54,
+              "vis": "False black widow and noble false widow"
+            },
+            {
+              "t": 521.0,
+              "dur": 1.54,
+              "vis": "Brown recluse, six-eye card"
+            }
+          ],
+          "_t": 516.3,
+          "_dur": 6.17,
+          "_beats": ""
+        },
+        {
+          "id": "s8.l3",
+          "say": "Most house spiders can be left alone, if you can tell them apart.",
+          "src": "HS2, HS1",
+          "source_tag": "UC IPM",
+          "vis": "The jaws card from the opening returns / The promise line returns",
+          "shots": [
+            {
+              "t": 522.5,
+              "dur": 1.34,
+              "vis": "The jaws card from the opening returns"
+            },
+            {
+              "t": 523.8,
+              "dur": 1.34,
+              "vis": "The jaws card from the opening returns"
+            },
+            {
+              "t": 525.2,
+              "dur": 1.34,
+              "vis": "The promise line returns"
+            }
+          ],
+          "card": "LEAVE THEM ALONE IF YOU CAN TELL THEM APART",
+          "_t": 522.5,
+          "_dur": 4.01,
+          "_beats": "P"
+        },
+        {
+          "id": "s8.l4",
+          "say": "Now think back to that Kansas home. 2,055 brown recluses, in six months. Two official pages, two follow-ups, kept separate.",
+          "src": "HS51, HS52",
+          "source_tag": "UC IPM; UC Riverside, Rick Vetter",
+          "vis": "Callback: the same drawn recluse from 0:00, then the Lenexa house / The 2,055 card / The two page cards stay separate, not merged",
+          "shots": [
+            {
+              "t": 526.5,
+              "dur": 1.54,
+              "vis": "Callback: the same drawn recluse from 0:00, then the Lenexa house"
+            },
+            {
+              "t": 528.1,
+              "dur": 1.54,
+              "vis": "Callback: the same drawn recluse from 0:00, then the Lenexa house"
+            },
+            {
+              "t": 529.6,
+              "dur": 1.54,
+              "vis": "The 2,055 card"
+            },
+            {
+              "t": 531.1,
+              "dur": 1.54,
+              "vis": "The two page cards stay separate, not merged"
+            }
+          ],
+          "_t": 526.5,
+          "_dur": 6.17,
+          "_beats": "R"
+        },
+        {
+          "id": "s8.l5",
+          "say": "Meatball's final stamp: leave most of them alone, if you can tell them apart. Sauce's stamp: she used the stamp pad as a bed.",
+          "vis": "Meatball stamps LEAVE MOST, IF YOU CAN TELL THEM APART / Sauce curls up on the stamp pad",
+          "shots": [
+            {
+              "t": 532.7,
+              "dur": 1.85,
+              "vis": "Meatball stamps LEAVE MOST, IF YOU CAN TELL THEM APART"
+            },
+            {
+              "t": 534.5,
+              "dur": 1.85,
+              "vis": "Meatball stamps LEAVE MOST, IF YOU CAN TELL THEM APART"
+            },
+            {
+              "t": 536.4,
+              "dur": 1.85,
+              "vis": "Sauce curls up on the stamp pad"
+            },
+            {
+              "t": 538.2,
+              "dur": 1.85,
+              "vis": "Sauce curls up on the stamp pad"
+            }
+          ],
+          "card": "OUR VERDICT: LEAVE MOST, IF YOU CAN TELL THEM APART",
+          "meter": 80,
+          "_t": 532.7,
+          "_dur": 7.4,
+          "_beats": "CJ"
+        },
+        {
+          "id": "s8.l6",
+          "say": "3 Bugs You Should Never Kill is right here.",
+          "vis": "Meatball points at the camera / End screen: 3 Bugs in Your House You Should Never Kill video tile; Meatball points at it",
+          "shots": [
+            {
+              "t": 540.1,
+              "dur": 1.39,
+              "vis": "Meatball points at the camera"
+            },
+            {
+              "t": 541.5,
+              "dur": 1.39,
+              "vis": "End screen: 3 Bugs in Your House You Should Never Kill video tile; Meatball points at it"
+            }
+          ],
+          "_t": 540.1,
+          "_dur": 2.78,
+          "_beats": "CR"
+        }
+      ]
+    }
+  ],
+  "pinned_comment": "Cellar spider in the corner: roommate or eviction? Pick a side. Meatball's stamp: leave most of them alone, if you can tell them apart.",
+  "mid_video_comment_prompt": {
+    "id": "s4.l1",
+    "t": 235.3,
+    "say": "Cellar spider in the corner: roommate or eviction? Pick a side in the comments.",
+    "on_screen": "COMMENT: ROOMMATE OR EVICTION?"
+  },
+  "end_screen_video": "3 Bugs in Your House You Should Never Kill (posted). Spoken end line uses the short name '3 Bugs You Should Never Kill.' Tile should carry the posted title. Target date for this spider episode is Wed 12/2.",
+  "sources_file": "/workspace/drafts/facts/house-spiders-id.md",
+  "description": "Most house spiders can be left alone if you can tell them apart. This is a house-spider ID guide: the ones you can leave, the ones you should not guess from a photo, and how to get a spider identified. Meatball sorts them from the couch, with his dog, Noodle, as the stand-in and his cat, Sauce, as everybody else.\n\nChecked facts in this video:\n- One Kansas home, a 19th-century house in Lenexa, had a family of four collect 2,055 brown recluse spiders in 6 months (UC IPM; UC Riverside, Rick Vetter, both citing Vetter & Barger 2002). The two pages disagree on the bite follow-up, so this video keeps them separate and does not blend them: UC IPM says they lived there nearly a decade, and only once in 10 years had anyone shown evidence of a bite, to a finger which turned red for a few days and then healed without incident. The UCR author page says about 450 of the spiders were large enough to cause envenomations, and that as of September 2004 no person or their pets had shown evidence of a bite in 8 years of occupancy. The journal PDF itself was not opened (HS53), so the paper is not quoted directly.\n- The jaws of most spiders are too small to bite humans. On the same UC IPM page, the fangs of most spiders cannot penetrate the skin of an adult person.\n- Venomous spiders found in the United States include the black widow and the brown recluse. Spiders are usually not aggressive, and most bites occur because a spider is trapped or touched (CDC / NIOSH). This does not mean only two spiders have venom.\n- Longbodied cellar spiders (Pholcus phalangioides) are not known to bite people and are not a medically important species (Penn State). In one Hampshire garden shed, May to September, 63 of 102 prey remains in their webs were the common house spider (British Arachnological Society). That is one UK shed, one season. They have been recorded wrapping heavier large house spiders from a safe distance. This species presents absolutely no danger to humans or to pets. When threatened they rapidly vibrate in a circular fashion in the web. Do not poke a spider to make it blur.\n- The name daddy longlegs is used for three different animals: cellar spiders, harvestmen, and crane flies. Only the spider builds a silk web and regularly lives in houses. Harvestmen have no venom of any kind (British Arachnological Society; Burke Museum). There is no scientific evidence that this spider has the most toxic venom of all spiders (Australian Museum). Pholcid venom is not unusually strong (Burke Museum). A 2019 venom study (Zobel-Thropp et al.) analysed male Physocyclus mexicanus, not the common longbodied cellar spider, and is not used as a fact about the spider in the corner.\n- Some jumping spiders, including a colorful jumper common in grassy areas throughout Missouri (Colonus puerperus), can leap horizontally up to 40 times their length (Missouri Conservationist, October 2024). That is not a figure for every jumping spider, and it is not sourced as a jump from your window. Jumps from a slightly elevated position can stretch up to 50 body lengths; that is a different figure and is not spoken in the video. They make no capture web. They rarely bite people, and when they do it usually results in nothing more than a mild sting or an itchy welt.\n- Wolf spiders do not spin a web to catch prey; they run it down. A female attaches the egg sac to her spinnerets, then later carries the babies on her back. They will bite if mishandled or trapped next to the skin. Typical reactions include initial pain and redness, with the potential for some localized swelling. Symptoms generally subside within 24 hours. No serious medical consequences of these bites have been noted (Penn State). Do not pick one up.\n- The giant house spider (Eratigena atrica) is commonly found in and around Washington homes west of the Cascade Mountains, plus parts of coastal Canada and Oregon, and is not found east of the Cascades in Washington (WSU). For large adults, the leg span can reach up to 4 inches; body length is typically around 1/2 inch to 1 inch, not including the legs. The bite is not known to pose any threat to humans. If you are bitten by a spider, bring the spider to an expert for correct identification, and you may wish to seek medical attention. Giant house spiders are considered beneficial and should be left alone as much as reasonably possible. Indoors they are usually on the floor, or trapped in sinks or bathtubs.\n- A mature female western black widow is about 1/2 inch, shiny jet black, with a red or orange hourglass on the underside. The hourglass can vary and on rare occasions is completely absent. She is the spider posing the greatest potential envenomation threat to humans in the western United States. Only the larger immature female and the adult female are able to bite through a person's skin and inject enough venom to cause a painful reaction. The male's fangs are too small to break human skin. Bites are quite rare, even where these spiders are very common. If bitten, seek medical attention immediately. Symptoms most often merely resemble those of the flu; black widow bites don't cause conspicuous swelling, necrosis, or deterioration of tissue around the bite (UC IPM).\n- The false black widow (Steatoda grossa) is chocolate brown and never has red coloration on its belly; it is slightly smaller, about 3/8 inch, and unlike widow spiders it thrives indoors. Because they are common in homes, they are more frequently involved in bite incidents than black widow or brown widow spiders. They have mild venom, and bites may cause symptoms similar to those of yellowjacket wasp stings. That yellowjacket comparison is for this species only, not for the noble false widow, and is not spoken in the video.\n- The noble false widow (Steatoda nobilis) usually has distinctive skull-shaped markings on its back. It looks similar to the more dangerous black widows, but is likely to give only a small and relatively harmless bite, and is only known to bite when provoked or trapped against skin (Natural History Museum). Usual symptom is pain lasting between 1 and 12 hours, rarely more than 24 hours. This video does not say the bite is like a wasp sting.\n- The brown widow is a widow, not a false widow. The bite is much milder than that of the western black widow. Both black widows and brown widows are almost never found in homes, though they are common around them. The brown widow's egg sac is distinctive, with silk protuberances, resembling a very large pollen grain (spoken cut; kept here).\n- The most definitive physical feature of recluse spiders is 6 equal-sized eyes arranged in 3 pairs. Most spiders have 8 eyes. The presence or absence of the violin marking is not a reliable way to identify this spider (UC IPM; UCR). If the spider has a body length greater than 1/2 inch, it is not a recluse. A brown recluse is about 3/8 inch in body length. It lives in the south-central Midwest, from southeastern Nebraska to southwestern Ohio and south through Texas to north Georgia. There are no populations of the brown recluse in California. If you do not live in the area on the range map, it is highly unlikely you have a recluse; possible, but incredibly unlikely.\n- About 10% of brown recluse bites cause moderate or greater tissue damage and scarring, but the vast majority only result in inflammation and heal well without medical intervention. Deaths have been reported in children, but these are extremely rare. If a bite is suspected, still seek care (UC IPM). The venom can cause a severe lesion by destroying skin tissue; that lesion will require professional medical attention (CDC / NIOSH). A related UCR page puts the same split as 90% not medically significant; that is not a second study and is not a reason to skip care (spoken cut; kept here).\n- Necrotic wounds are commonly misdiagnosed as brown recluse bites. In one national study of 11 university-based medical facilities, 29% of patients presenting for 'spider bite' had MRSA as the cause. Group A Streptococcus infection, which can cause necrotizing fasciitis, is sometimes misdiagnosed as a brown recluse bite. UC IPM says that infection has a fatality rate that can vary from 20 to 80% depending on how quickly it is correctly diagnosed. (Description only, not spoken.) Get a real diagnosis. Do not treat a wound as a recluse bite on a guess.\n- Take a clear photo with a size reference, save the spider if you can do it safely, and take it to your county Cooperative Extension office. Use a ruler or coin next to the specimen. Never mail a spider in alcohol; that is a violation of postal regulations (UC IPM; University of Kentucky).\n- If a spider bites you: stay calm; identify the type of spider if it is possible to do so safely; wash the bite area with soap and water; apply a cloth dampened with cold water or filled with ice; elevate the bite area if possible; do not attempt to remove venom; seek professional medical attention (CDC / NIOSH). If the bite of any spider causes an unusual or severe reaction, contact a physician, hospital, or poison control center. In the United States, Poison Help is 1-800-222-1222 (UC IPM).\n- In the midwestern and southern United States, recluse spiders can be found indoors in dark closets, shoes, or attics. Inspect or shake out any clothing, shoes, towels, or equipment before use (CDC / NIOSH).\n- Spiders are mostly beneficial because they feed on pest insects. Pesticides are not generally needed. Insecticides will not provide long-term control and should not generally be used against spiders outdoors. Always read and follow label directions (UC IPM).\n- Symptoms associated with spider bites can vary from minor to severe. Although extremely rare, death can occur in the most severe cases (CDC / NIOSH).\n\nGeneral information, not medical advice for a specific bite or a specific house. If a bite is suspected, seek professional medical care. Follow your county Cooperative Extension office and official public-health guidance.\n\nSources:\n- UC IPM Pest Notes: Spiders, UC ANR Publication 7442, updated 10/2020: https://ipm.ucanr.edu/home-and-landscape/spiders/ ; Widow Spiders and Their Relatives, Pub. 74149, updated 03/2017: https://ipm.ucanr.edu/home-and-landscape/widow-spiders-and-their-relatives/ ; Brown Recluse and Other Recluse Spiders, Pub. 7468, updated 11/2018: https://ipm.ucanr.edu/home-and-landscape/brown-recluse-and-other-recluse-spiders/\n- CDC / NIOSH, Venomous Spiders at Work, last reviewed and updated 28 September 2026: https://www.cdc.gov/niosh/outdoor-workers/about/venomous-spiders.html\n- University of Kentucky ENTFACT-001, Preparation of Insect Specimens for Identification: https://entomology.mgcafe.uky.edu/ef001 ; ENTFACT-622, Common Spiders Found Around Homes & Buildings: https://entomology.mgcafe.uky.edu/ef622\n- Penn State Extension, Longbodied cellar spider, updated 19 January 2026: https://extension.psu.edu/longbodied-cellar-spider ; Wolf spiders, updated 8 September 2025: https://extension.psu.edu/wolf-spiders\n- British Arachnological Society, Daddy-longlegs spider factsheet (Geoff Oxford and Helen Smith): https://britishspiders.org.uk/sites/default/files/2020-08/Daddy_long-legs_spider_preview_rev18.pdf\n- Burke Museum, Rod Crawford, daddy-longlegs venom page: https://www.burkemuseum.org/static/spidermyth/myths/daddyvenom.html\n- Australian Museum, Daddy-long-legs Spider: https://australian.museum/learn/animals/spiders/daddy-long-legs-spider/\n- Missouri Department of Conservation, Matt Seek, Life on a Thread, Missouri Conservationist, 1 October 2024: https://mdc.mo.gov/magazines/missouri-conservationist/2024-10/life-thread ; Wolf spiders field guide: https://mdc.mo.gov/discover-nature/field-guide/wolf-spiders\n- Washington State University Pestsense, Giant house spider: https://pestsense.cahnrs.wsu.edu/fact-sheet/giant-house-spider/\n- Natural History Museum, London, How dangerous are false widow spiders?: https://www.nhm.ac.uk/discover/how-dangerous-are-false-widow-spiders.html\n- UC Riverside, Rick Vetter, How to Identify and Misidentify a Brown Recluse Spider: https://spiders.ucr.edu/recluseid.html ; Causes of Necrotic Wounds other than Brown Recluse Spider Bites, updated October 2004: https://spiders.ucr.edu/causes-necrotic-wounds-other-brs-bites\n\n#housespider #brownrecluse #spideridentification #meatballmyths",
+  "art_needed": [
+    "Frame 0: drawn brown recluse in close-up, face-on, not a violin close-up (s0.l0). Callback at the verdict.",
+    "19th-century Lenexa, Kansas house; family of four; six-month bar; two separate official-page cards for the bite follow-ups, never merged (s0.l3–s0.l7, s8.l4).",
+    "Small fangs vs adult skin, with the 'most' hedge on screen (s0.l8).",
+    "Meatball on the couch with LEAVE / GET IDENTIFIED stamp; his dog, Noodle; his cat, Sauce.",
+    "Longbodied cellar spider: extremely long legs, irregular corner web, hanging upside down, circular vibrate (no finger poke), wrapping a larger house spider from a safe distance, 63-of-102 UK-shed grid (s1.*).",
+    "Jumping spider on a windowsill: large middle eyes, no capture web, horizontal up-to-40x leap tagged some species / Missouri / Colonus puerperus (s2.*).",
+    "Wolf spider: no capture web, four small eyes in front, egg sac on spinnerets, babies on the back (s3.*).",
+    "Pacific Northwest map for Eratigena atrica (west of the Cascades lit, east of them dark in Washington, coastal Canada and Oregon lit); funnel sheet web; up-to-4-inch leg-span bar, separate from body length (s3.*).",
+    "Western black widow adult female, hourglass variations including a rare absent mark; tan striped immature and male; false black widow chocolate brown with no red on the belly; noble false widow skull-shaped back mark; brown widow tagged a widow, not a false widow (s5.*).",
+    "Recluse six-eye diagram vs eight-eye lookalikes; violin mark fading out as not the tell; south-central Midwest range map with California unmarked; size cutoff at 1/2 inch; about-10% / still-seek-care card beside a CDC lesion card, not instead of it; 29% MRSA study card (s6.*).",
+    "Clear photo with a coin or ruler; county Cooperative Extension office door; never-mail-in-alcohol stamp; CDC first-aid icons; Poison Help 1-800-222-1222; shoe / towel shake-out in range (s7.*).",
+    "End screen: 3 Bugs in Your House You Should Never Kill video tile; Meatball points; tile pulses (animated, not a still)."
+  ],
+  "_changelog": [
+    "First draft of the house-spider ID long-form for Wed 12/2, written to the 11/15 plan-update rules and Social Studio's fact-check notes. Format reference: 3 Bugs in Your House You Should Never Kill. Build model: the crocodile born-as generators, copied into /workspace/drafts/.spider-build/ and updated for the 1–2 s shot rule.",
+    "Runtime 9:14.9 at 194.5 wpm, 1752 words. Two primary mid-rolls, after the jumping-spider chapter at 2:36.5 and after the false-widow chapter at 5:44.7, 3:08.1 apart. Alternates after the cellar-spider chapter and the wolf / giant-house-spider chapter. No mid-roll after the recluse chapter or What to do, because those are the medical and instruction clusters.",
+    "HS42 and HS53 unused. Description-only this pass: HS40 yellowjacket comparison (Steatoda grossa only); HS55 90% complement; HS57 necrotizing 20–80% condition; HS17/HS19 three-animal mix-up and 'not unusually strong'; HS24 elevated 50-length figure; HS15 egg-sac details; HS25 hemolymph / dragline; HS31 wolf body length; HS33 indoor-invader line; HS66 extremely-rare death line; HS68 rabid-wolf-spider name; HS70 female rarely eats the male; HS45 pollen-grain egg sac.",
+    "First draft. Facts: /workspace/drafts/facts/house-spiders-id.md (HS1–HS72). Do not use HS42 or HS53. Do use HS51–HS52, kept separate.",
+    "Mid-rolls: two primaries, after 2. Jumping spider at 2:36.5 and after 4. False widow vs black widow at 5:44.7. Those two are 3:08.1 apart. Alternates after 1. Cellar spider and 3. Wolf spider and giant house spider.",
+    "Target: Wed 12/2. Nothing posted, scheduled, or pushed. Teasers in /workspace/drafts/spider-id-teasers.md, slots TBD, long-form promise flagged until 12/2."
+  ],
+  "_resolved": [
+    "Hook is Social Studio's pick, spoken exactly: 'One Kansas home had 2,055 brown recluses.' Frame 0 is a drawn brown recluse in close-up. The almost-no-bites payoff uses each pack row's wording and does not sharpen or blend HS51 with HS52.",
+    "HS42 (Galway hospitalisation) and HS53 (Vetter & Barger 2002 PDF) are not used. Kansas figures come only from the opened UC IPM and UCR pages (HS51, HS52).",
+    "Most-house-spiders jaws keep 'most' and the pack wording: too small to bite humans, and so small the fangs cannot penetrate the skin of an adult person (HS2).",
+    "The 4-inch leg span is spoken only as the Pacific Northwest giant house spider, large adults, leg span not body length, with the west-of-Cascades range (HS34, HS36).",
+    "Jumping: 'some jumping spiders,' including a colorful jumper common in grassy areas throughout Missouri, 'can leap horizontally up to forty times their length' (HS24). A follow-up line says it is not a figure for every jumping spider and is not sourced as a jump from your window. The elevated 50-length figure is description-only so the two numbers are not blended in speech.",
+    "Recluse ID is count the eyes, 6 equal-sized eyes in 3 pairs, vs most spiders' 8. The violin mark is named only to reject it as the tell (HS9, HS48). No 'the violin means it is a recluse.'",
+    "The 10% tissue-damage line keeps 'if a bite is suspected, still seek care,' said clean, with its condition (HS54, HS64). The CDC 'can cause a severe lesion' line sits beside it, not instead of it (HS56, D2).",
+    "ID path is said clean: take a clear photo with a size reference, save the spider if you can do it safely, and take it to your county Cooperative Extension office; use a ruler or coin next to the specimen. Never mail a spider in alcohol; that is a violation of postal regulations (HS59–HS61).",
+    "No 'like a wasp sting' for the noble false widow. Noble wording is NHM: skull-shaped markings, small and relatively harmless bite, only known to bite when provoked or trapped against skin (HS41).",
+    "No advice to handle spiders. No poke-to-blur instruction (W1). No jar-and-paper how-to (W5). Wolf-spider bite line is a warning, not an invitation to pick one up (W2).",
+    "Safety lines keep their conditions. Jokes come after, never inside them. No mid-roll on a safety line or mid-joke. The widow-chapter mid-roll sits after the plastic-spider joke, not after a seek-care line.",
+    "Exactly one comment trigger, phrased as a debate prompt: 'Cellar spider in the corner: roommate or eviction? Pick a side in the comments.'",
+    "Citations are in on-screen tags and the description, never spoken, except hedges that have to name a page ('on one official page,' 'on the author's page').",
+    "No rules intro, no silent countdowns, voiced chapter cards only. A new picture every 1–2 s; no speech shot over 2.0 s. The 12 s end screen is the only longer hold.",
+    "Target date is Wed 12/2, as approved. Nothing is posted, scheduled, or pushed from this pass. Teaser slots are TBD."
+  ],
+  "_open_questions": [
+    {
+      "line": "s0.l1 / s0.l2",
+      "question": "Social Studio 11/15 ruled for clarity: the promise is now 'Most house spiders can be left alone, once you identify them.' so it cannot be heard as 'most recluses'. There is no gap between the hook and the promise, so the cut is already as tight as it gets: the promise ends at 5.55 s, inside the accepted 5.6 s. 'Here's how.' follows as a method beat.",
+      "fallback": "Social Studio accepted up to 5.6 s, so none is needed. A 9-word 'once identified' variant would end at about 5.24 s, but Studio picked this wording."
+    },
+    {
+      "line": "s0.l4–s0.l7 (HS51, HS52, D1)",
+      "question": "The two official pages disagree on the Kansas-house bite follow-up. The script speaks them as two separate pages and does not blend them. Social Studio did not rule on which follow-up leads.",
+      "fallback": "Speak only UC IPM (once in 10 years, a finger that turned red and healed) and keep the UCR 'no evidence in 8 years as of Sept 2004 / about 450' wording in the description, or the reverse."
+    },
+    {
+      "line": "s5.l8 (HS40) / s6.l12 spoken cut (HS55, HS57)",
+      "question": "To hit the 8:30–9:15 runtime and to keep a wasp-sting comparison off the noble false widow, some pack lines were moved to the description: the yellowjacket comparison for Steatoda grossa (HS40); the UCR 90% complement of the 10% split (HS55); and the necrotizing-fasciitis 20–80% fatality condition (HS57). The 10% tissue-damage line, 'if a bite is suspected, still seek care,' the CDC lesion line, and the 29% MRSA study stay in speech.",
+      "fallback": "Put any of those three back into speech and cut a leave-alone color line, or accept them as description-only."
+    },
+    {
+      "line": "s1 venom bust (HS17, HS19)",
+      "question": "The three-animal daddy-longlegs mix-up and 'pholcid venom is not unusually strong' were moved to the description. Speech keeps 'There is no scientific evidence that this spider has the most toxic venom of all spiders.' The legend is not retold as a joke.",
+      "fallback": "Restore a short three-animal line in the cellar chapter and trim elsewhere."
+    },
+    {
+      "line": "s4.l1 comment prompt",
+      "question": "The debate prompt sits after the leave-alone pile, at about 3:56, which is about 36 s before the speech midpoint. That is the narrative halfway, not the exact clock midpoint.",
+      "fallback": "Leave it here, or add a short leave-alone recap before it to push it later."
+    },
+    {
+      "line": "end screen",
+      "question": "Watch-next points to 3 Bugs in Your House You Should Never Kill, as this brief required, instead of the pitch's cellar-spider or centipede pointer. The spoken line uses the short name '3 Bugs You Should Never Kill.' The tile should carry the posted title.",
+      "fallback": "If packaging wants the full posted title spoken, swap the line to '3 Bugs in Your House You Should Never Kill is right here.'"
+    },
+    {
+      "line": "s3.l4 (HS32)",
+      "question": "Typical wolf-spider reactions (initial pain and redness, potential for some localized swelling) are on the card and in the description. Speech keeps the trigger (if mishandled or trapped next to the skin), the 24-hour fade, and 'no serious medical consequences have been noted.'",
+      "fallback": "Speak the typical-reactions clause as well, and trim a non-safety line."
+    }
+  ],
+  "_for_claude": [
+    "TTS pronunciation check before render: 'Lenexa' (luh-NEX-uh), 'Loxosceles' (if a card is read; Latin is not spoken), 'Eratigena,' 'Pholcus,' 'Steatoda,' 'Latrodectus,' 'Colonus puerperus' (card only), 'cephalothorax' (card only), 'envenomations,' 'necrosis,' 'MRSA,' 'Cooperative Extension,' 'two thousand fifty-five' if a voice reads 2,055 as words, 'four hundred fifty,' 'nineteenth-century.' Add tts respellings in the build JSON if the Andrew voice misreads them; captions keep 'say'. No TTS or shot-set handoff until Social Studio forwards Jarvis's new production spec.",
+    "Shot rhythm: new 11/15 rule, a new picture every 1–2 s, no shot over 2.0 s except the 12 s end screen. The 0.3 s chapter gap is a cut, not a hold added to the last shot. Short voiced chapter cards may run under 1 s.",
+    "Source tags: 'source_tag' is a small lower-third on the line's first shot (about 2 s), never spoken. Lines with two sources show both.",
+    "Second-model check of the jokes and safety lines, as for every long-form. Research & Fact-check built the pack; they should also check this draft's jokes, the Kansas two-page split, and the description-only moves (HS40 yellowjacket, HS55 90%, HS57 20–80%, HS17/HS19 mix-up, HS24 50x).",
+    "Builder and shot set: drawn brown recluse close-up for frame 0; cellar, jumper, wolf, PNW giant house spider, western black widow, false black widow, noble false widow, brown widow, lookalikes, range maps, Meatball, Noodle, Sauce. Jarvis owns production and animation; no shot-set handoff until the new spec is forwarded."
+  ],
+  "_masterorders_check": [
+    "Title: working title from the brief and pitch concept 1: 'Most House Spiders Can Be Left Alone if You Identify Them (Is This Spider Venomous?).' Packaging may retitle it. 'Can' is the hedge. No banned words. Series tag last.",
+    "Date: approved target Wed 12/2. Nothing is booked, posted, or scheduled from this pass. Teaser slots stay TBD.",
+    "Spoken sourcing: citations in on-screen tags and the description only. 'On one official page' / 'on the author's page' are hedges so HS51 and HS52 are not blended, not spoken academic credits.",
+    "Shot rhythm: 1–2 s rule replaces the old 2–4 s test. Longest speech hold is under 2.0 s. Voiced chapter cards may run under 1 s. The 12 s end screen is the only longer hold.",
+    "Hook and promise: hook 7 words, ends 2.16 s; promise line ends 5.55 s.",
+    "No joke, intro or comment ask before 0:25: first joke 0:58.0, comment prompt 3:55.3.",
+    "No spoken countdowns; every chapter card is a voiced 'Number X' line, except the cold open, halfway, what-to-do, and verdict; chapter gaps are 0.3 s.",
+    "Pinned comment matches the debate prompt.",
+    "Banned words: no TRUE, FALSE, Myth, Believe, Cartoons, Lied, or 'Did you know' as claims. 'False widow' is the common name of Steatoda, not a TRUE/FALSE card.",
+    "Length: 9:14.9 at 194.5 wpm, inside the 8:30–9:15 aim, above 8:00; about 9:58.4 at ~180 wpm."
+  ],
+  "_notes": [
+    "Noodle lines (2): s0.l11, s1.l8. Planted at s0.l11 as 'his dog, Noodle.' He walks under the corner web. He is never told to catch or handle a spider.",
+    "Sauce lines (7): s0.l11, s0.l12, s2.l5, s3.l10, s5.l11, s7.l7, s8.l5. Planted at s0.l11 as 'his cat, Sauce.' She walks around a drawn recluse, leaves the windowsill, sits on the ruler, knocks a plastic spider under the couch, sits on the printer, and uses the stamp pad as a bed.",
+    "No joke on or right after: the Kansas bite follow-ups (s0.l4–s0.l7); the wolf-spider mishandled-or-trapped warning (s3.l4); the giant-house-spider 'if you are bitten' line (s3.l9); the black-widow 'if bitten, seek medical attention immediately' line (s5.l5); the 10% tissue-damage line and 'if a bite is suspected, still seek care' (s6.l8–s6.l9); the CDC lesion line (s6.l10); the MRSA misdiagnosis line and 'do not treat a wound as a recluse bite on a guess' (s6.l12–s6.l13); the ID path, never-mail-alcohol, CDC first aid, poison-control, or shake-out lines (s7.l1–s7.l5). The printer joke (s7.l7) comes only after the last safety line.",
+    "Jokes never add a number, danger, feeling, motive, or instruction. No advice to handle, poke, corner, or pick up a spider. No jar-and-paper how-to. No off-label spray recipe.",
+    "Unused or description-only rows are listed in the changelog. HS42 and HS53 are unused."
+  ],
+  "_factcheck": "Not yet checked by a second model. Every fact line carries its HS ID in 'src'. Research & Fact-check built the pack on 2026-11-15.",
+  "builder": "Jarvis production / animation (no TTS or shot-set handoff until Social Studio forwards the new spec)",
+  "pause_lines": [
+    "s6.l8",
+    "s6.l9",
+    "s6.l10",
+    "s6.l12",
+    "s6.l13",
+    "s7.l3"
+  ],
+  "end_hold": 12.0,
+  "end_label": "3 Bugs in Your House You Should Never Kill",
+  "end_label_short": "3 BUGS YOU SHOULD NEVER KILL",
+  "_timing": {
+    "wpm": 194.5,
+    "words": 1752,
+    "chapter_gap_s": 0.3,
+    "speech_s": 542.9,
+    "runtime_s": 554.9,
+    "runtime": "9:14.9",
+    "hook": "One Kansas home had 2,055 brown recluses.",
+    "hook_words": 7,
+    "promise": "Most house spiders can be left alone, once you identify them.",
+    "promise_spoken_by_s": 5.55,
+    "first_joke_s": 58.0,
+    "comment_prompt_s": 235.3,
+    "speech_midpoint_s": 271.4,
+    "mild_words": 4,
+    "mild_word_lines": [
+      {
+        "id": "s2.l5",
+        "say": "Meatball waved at the window jumper. His cat, Sauce, left the sill. Damn."
+      },
+      {
+        "id": "s3.l10",
+        "say": "Meatball pulled out a ruler. His cat, Sauce, sat on it. Hell."
+      },
+      {
+        "id": "s5.l11",
+        "say": "A plastic spider on the table was chocolate brown. Sauce knocked it under the couch. Hell."
+      },
+      {
+        "id": "s7.l7",
+        "say": "Meatball printed a photo with a coin in the frame. Damn. His cat, Sauce, sat on the printer."
+      }
+    ],
+    "longest_shot_hold_s": 1.97,
+    "longest_shot_hold_at": "s6.l9 shot 4",
+    "shots": 320,
+    "shots_under_2s": 320,
+    "shots_over_2s": 0,
+    "max_gap_s": {
+      "peak": 40.1,
+      "character": 161.9,
+      "retention": 204.2
+    }
+  }
+}
