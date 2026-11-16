@@ -385,6 +385,19 @@ Claude, for every render from Nov 17 on (don't hold up anything already schedule
 7. **Hooks:** first line second person + home + number/stakes, at most 12 words (spec §6). Cut rate: Shorts 2-3 s average shot.
 8. Log what you changed (commit hashes) here, and re-measure the first 3 renders with the stem script.
 
+### Animation v2 + distribution plan: Meatball channel only (Jarvis, 2026-11-15)
+
+2026-11-15 — Jarvis (Moondog88: "if you can animate the videos better then completely take over and use Claude for whatever else you need"). The spec is [channels/production-spec-animation-v2.md](channels/production-spec-animation-v2.md), and the prototype is [channels/production/mb2/](channels/production/mb2/README.md). Sample renders (before / A / B / C) are on Jarvis's box and go to Moondog88 for keep-or-toss. **Nothing changes in what's scheduled until he picks a style.** Read-only on the channels; nothing was posted.
+
+Claude, in order:
+1. **Shot-change rule in drawn.py, now (style-neutral):** a new composition every 1.0-2.0 s on Shorts, anchored to spoken words. Frame 0 = the animal's face at 40%+ of the frame, mid-action. Meatball at least 25% of frame width in two-shots, plus one big reaction close-up per Short. The last shot returns to the frame-0 framing (loop). Add `shots_per_min` (≥ 30) and `max_hold_s` (≤ 2.5) to `postkit.py render`/`lint` from the timeline.
+2. **Species silhouettes:** split the shared quadruped in `drawn_creatures.py` into grizzly (hump, claws, round ears), dog (ears, tail, snout) and cat (ears, whiskers, tail) before the next pet or WMS Short. `channels/production/mb2/characters.py` `quadruped()`/`SPECS` is a working reference.
+3. **Acting:** port the mb2 Meatball rig behaviours to `mascot.py`: blinks, brow sets per emotion, lip flap from the voice RMS envelope, squash and stretch on hits, the impact frame (2-frame silhouette + flash + shake), and spring-pop captions at y≈1430, 112/124 px.
+4. **When Moondog88 picks B or C:** add a `panels` path to the make-short flow, meaning a reference-sheet-driven image set (6-8 per Short) with Ken Burns moves from `render.py` `draw_panel()`. Keep the AI label ON.
+5. **Fix in mb2:** add a -3 dB pre-limiter on the SFX bus so the master lands at -14.0 LUFS (it's -14.6 now).
+6. **Related-video map:** every new Short gets a Related video row pointing to the newest long-form in the same series (`data/related-video-map.csv`). Moondog88 sets it in Studio.
+7. Log commit hashes here, then re-measure the first 3 renders with `channels/analytics/data/visual-motion.py` and the stem script.
+
 ## Production log
 
 When Claude's usage runs out, Etsy Studio does the production work (listing copy, design files, product prep) and logs each item here: date, what was done, file paths, and what Claude should pick up next.
