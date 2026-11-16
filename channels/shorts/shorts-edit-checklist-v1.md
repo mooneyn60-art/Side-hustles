@@ -1,3 +1,8 @@
+## Social Studio rulings, 11/15 8:30 PM ET (now policy)
+1. **Long-form promise placement:** a spoken 3-5 word promise goes inside the loop line, before the closing "And", so the Short stays within 16.0-18.0 s.
+2. **Promise target:** each Short points to the long-form that its Related video link already uses, as listed in `/workspace/packaging/studio-related-links.csv` (match on `short_id`, use `related_longform_title`). The promise names that video's creature or topic, for example "full corner-spider video linked." Once a bug long-form posts, its Shorts switch their promise and Related link to it.
+3. **Scope:** the six queued test Shorts (11/16-11/20) ship as re-trimmed, without re-cutting the hook or the promise, because renders are frozen until Jarvis's animation spec. The new rules apply only to scripts that haven't been rendered yet.
+
 # Shorts edit checklist v1
 
 ## Changelog, 11/15 8:30 PM ET
@@ -8,7 +13,7 @@ SPEC CHANGE ONLY. No renders, no pipeline changes, no commits. Matches the "Scri
 - Hook checks: you + your home + a number or threat, and hook word count under 12; hedges stay where a fact needs one. The claim card stays on at 0.00 s.
 - Pace item is now a new picture every 1–2 s, with no gap between picture changes over 2.0 s (replaces 1–3 s, and the 2–4 s long-form note).
 - Comment item is now one comment trigger per script, phrased as a debate prompt (replaces one open comment question).
-- New check: the Short speaks a long-form promise that points to the matching long-form, and that line has to fit inside the 16–18 s Nov 16–29 budget (length is unchanged). This is a tension to resolve, not a solved policy. A 3–5 word promise inside the loop line is a suggestion only, not a rule.
+- New check: the Short speaks a long-form promise that points to the matching long-form, and that line has to fit inside the 16–18 s Nov 16–29 budget (length is unchanged). Placement is now policy: a 3–5 word promise inside the loop line (see the rulings).
 - New standing-rule checks: sourced facts; safety lines keep their condition; no team logos or betting; titles name the creature or carry the series tag; 3 Shorts a day, at least 3 h apart.
 - Grading note added: the existing grades predate these rules; a count of which of the six hooks are 12 words or more, and which have no spoken long-form promise, is listed there from the actual hooks-bank text. Scripts were not re-graded.
 - Animation style is noted in `shorts-edit-spec.md` only (illustrated panels plus the code-drawn rig; Jarvis owns it; current renders stay as they are). This checklist does not restyle or re-render anything.
@@ -95,7 +100,7 @@ House working placement (pipeline, not official):
 **Proven band:** Shorts ≤17 s had median 1,187 views at 90% viewed (n=20); 35 s+ had median 285 (n=5). Standing lint window remains 15.0–20.05 s; the test uses 16.0–18.0 s. The plan update does not change length.
 
 - [ ] Spoken + listed pads + allowed 0.08 s loop pad land between 16.0 and 18.0 s at 194.5 wpm, then confirmed on the render (or a TTS file) before schedule.
-- [ ] The spoken long-form promise fits inside that 16.0–18.0 s budget. This is a tension to resolve, not a solved policy: do not add runtime past 18.0 s to make room, and do not treat a placement as locked. One suggestion, not a rule, is a 3–5 word promise inside the loop line.
+- [ ] The spoken long-form promise fits inside that 16.0–18.0 s budget. Do not add runtime past 18.0 s to make room. The promise is 3–5 words inside the loop line, names the creature or topic of the long-form in the Short's Related link (`/workspace/packaging/studio-related-links.csv`), and switches to the bug long-form once it posts.
 - [ ] No extra silence from leftover queued pads.
 - Pass / Flag: ____
 
