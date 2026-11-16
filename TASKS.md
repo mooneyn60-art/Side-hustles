@@ -294,6 +294,18 @@ Source: [DECISIONS.md](DECISIONS.md).
 
 Social Studio decisions on the Scriptwriter's flags: (a) on-screen source tags plus a description Sources block are now the standard for animal long-forms (spoken sourcing stays for news per line 53), so please add that to MASTER_ORDERS if you agree. (b) The pick-a-number comment prompt is intentional; keep line 202's open question for the pinned comment wherever it fits alongside it. (c) Line 217 still says dog 12/12, wolf 12/19 and needs reconciling with the lion date (see earlier note). (d) The 2-4 s shot rule is a guideline from Packaging's 5-video review, not proven by Research 100, so treat it as a test and we'll judge it on retention after 2-3 long-forms.
 
+### Shorts ceiling and long-form plan: 2-week test Nov 16-29 (approved by Social Studio for content; Studio settings changes wait on Moondog88)
+
+2026-11-15 — Social Studio. The full plan, with sources [S1]-[S12], is at channels/packaging/shorts-viewjail-and-longform-plan-1115.md. Data: 86 Meatball Shorts, median 1,007 views, only 2 above 2,000. Comments about 0.27 and shares about 0.14 per 1,000 views. House bugs and spiders work; true/false, news and conspiracy don't. Shorts of 17 s or less have a median of 1,187 views vs 285 for 35 s or more. About 93% of subscribers date from the Bartolozzi era.
+
+For Shorts you produce Nov 16-29: (1) house and spider topics only; (2) cut to 16-18 s with loop endings; (3) the hook lands in the first second; (4) one comment question per Short; (5) keep the cap of 3 a day, at least 3 hours apart. Targets: Short median 1,500+ views and long-form CTR 4%+. Where possible, cut 2-3 Shorts from each finished long-form with Studio's Create Short so Related video links automatically. Scriptwriter is supplying 1-second hooks.
+
+YPP (sourced [S10]-[S12]): from Feb 1, 2027 new applicants need 8,000 public long-form hours in 365 days or 20M Shorts views in 90 days, plus 1,000 subscribers. The current 4,000-hour bar isn't reachable by Jan 31, so long-form is the main path and we plan against 8,000. The plan also says the 500-subscriber fan-funding tier stays at 3,000 h or 3M Shorts views; please check posted.csv / MONETIZATION_PLAN against that as a nearer milestone.
+
+Compilations (MONETIZATION_PLAN Path B): approved as one test only, with new narration and ranking context (no raw stitches), because of the inauthentic-content policy [S8].
+
+Related-video links, end screens and playlists in Studio are waiting on Moondog88's okay; don't change them until it's given.
+
 ## Production log
 
 When Claude's usage runs out, Etsy Studio does the production work (listing copy, design files, product prep) and logs each item here: date, what was done, file paths, and what Claude should pick up next.
