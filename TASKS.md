@@ -391,6 +391,99 @@ The usual 2-hour fallback applies.
 
 2026-11-15 — Social Studio. Dog: 63 lines pass, and 1 fix is required (s2.l10 puppy socialization condition). Lion v2: 48 pass, with 2 fixes (s9.l2 Tanzania figures from PubMed 16107828, and s1.l8). The Scriptwriter is applying these, and revised scripts will follow. Hold your final check of dog and lion until then. Hooks: all six pass, and cluster flies must not say "thousands". The crocodile fact pack is in channels/scripts/facts/. The lion and dog dates (12/12 vs 12/19) are still yours to settle. Files: channels/research/factcheck-dog-bornas-1116.md, factcheck-lion-bornas-v2-1116.md, factcheck-hooks-1116.md (replaced), and channels/scripts/facts/crocodile-bornas.md.
 
+### Social Studio, Nov 16: Meatball push renders and fixes
+
+Files: [channels/plan/meatball-push-1116/fix-batch-apply-sheet.md](channels/plan/meatball-push-1116/fix-batch-apply-sheet.md), [fix-batch-apply-sheet.csv](channels/plan/meatball-push-1116/fix-batch-apply-sheet.csv), [posting-plan-1116-1205.md](channels/plan/meatball-push-1116/posting-plan-1116-1205.md), [tiktok-blockers.md](channels/plan/meatball-push-1116/tiktok-blockers.md).
+
+Times are America/New_York (ET, UTC-5). From Social Studio, Mon 11/16/2026, for the Meatball Myths lane only (YouTube `UCw98RQD81t_339LX5EJqcrg`, TikTok `@meatballmyths`). Keep Etsy / FurEver Faces work on its own track.
+
+PRs already open on `mooneyn60-art/Side-hustles` (read-only check today): #1 `jarvis/animation-v2` (open, merge state dirty vs `main`), #2 `jarvis/audio-spec-v2` (open, merge state clean). Use those plus `channels/production-spec-animation-v2.md` and `channels/production-spec-audio-v2.md`.
+
+Do not apply the fix batch in Studio (Moondog88 / Jarvis apply it). Do not post or schedule anything. Do not invent facts, titles, or IDs. Do not start new bug fact-pack Shorts. Pets, news, and CIA stay paused.
+
+---
+
+#### 1. Land the pipeline, then use it for every Meatball render from here
+
+1. Bring PR #2 (audio-v2) and PR #1 (animation-v2 / rv2 / C v3) into the production skills repo as Jarvis directs. PR #1 does not merge cleanly onto `main` today; rebase or otherwise resolve rather than force-pushing over someone else's work.
+2. Audio, already specified in TASKS.md: duck music with `music_duck_db` -8 and `music_duck_release_ms` 180; two-pass loudnorm for Shorts/TikTok (I -14, TP -1.5); gate outside about -14.5 to -13.5 LUFS or true peak above -1.0; start Shorts speech around `rate: "+14%"`; per-series beds from `music.py` (no new licensed tracks). Log the commit hashes and re-measure the first 3 renders with `channels/analytics/data/audio-audit-stems.py`.
+3. Animation / Shorts retention v2: port `mb2/rv2.py` into make-short; `lint()` as a hard gate (duration 14.5–20.5 s for YouTube, voice start ≤0.1 s, 3–5 pictures in the first 2.8 s, max hold ≤2.5 s after the hook, loop = last shot matches frame 0). House style is C v3 hybrid only. AI label stays on.
+4. Add `--cut tiktok` (61–75 s, retention beat every 5–8 s, same hook, loop ending) and a lint check for TikTok length and beat spacing.
+
+---
+
+#### 2. First deliverables: the two approved rv2 Shorts, both cuts
+
+YouTube cuts are already rendered and approved to post (Jarvis did not post them):
+
+- `channels/packaging/fix-batch-1/` / box `/workspace/meatball-animation-v2/samples/rv2_house-centipede_retention-v2.mp4` (16.35 s)
+- `…/rv2_daddy-longlegs_retention-v2.mp4` (17.59 s)
+- Post copy: `channels/packaging/fix-batch-1/rv2_post_copy.md`
+
+Still owed:
+
+1. **TikTok 61–75 s cuts** of both, under `channels/production/mb2/out/`. Jarvis reviews before anyone posts.
+2. A **title/pin cleanup on daddy-longlegs** if you re-render: the draft title and pin use banned words (TRUE, FALSE, Believe). Social Studio's YouTube title for the post is "Daddy Longlegs Aren't the Most Venomous Spiders." Do not invent a new verdict. The spoken hook in the current YT file still says "True or false?"; changing that line needs a new render. Drop `#spidermyths`.
+3. Do not upload or schedule either cut.
+
+---
+
+#### 3. Re-render queued YouTube Shorts that miss 16–18 s or a required wording fix
+
+Ship a queued file only when the 2-hour fallback in TASKS.md applies **and** the fact-check did not require a wording change. For cluster flies, the wording fix is required; if the new file is late, leave the slot empty.
+
+Lengths from `channels/research/2026-11-16-queued-shorts-lengths.csv` (box copy `/workspace/research/2026-11-16-queued-shorts-lengths.csv`) and the Shorts Editor trim note:
+
+| Slot (ET) | File | Problem | What to do |
+|---|---|---|---|
+| Mon 11/16 16:00 | `yt-dust-mites-v6.mp4` | 19.133 s | Re-render to ≤18 s if it can be fact-checked, rendered, and transcript-checked before about 2:00 PM ET today; otherwise leave the queued hook and log it as non-test. |
+| Tue 11/17 10:00 | `yt-fungus-gnats-v6.mp4` | Editor math 19.28 s | Drop the five 0.4 s pads if that is what the real file still has (target 17.28 s). |
+| Tue 11/17 16:00 | `yt-carpet-beetle-window-v6.mp4` | 18.233 s; new 1 s hook assigned | Use the hook in `channels/scripts/shorts-hooks-1s-1115.md` and the EDL in `channels/shorts/shorts-edl-carpet-beetle-window.md`. Fallback: queued cut. |
+| Wed 11/18 19:00 | `yt-christmas-tree-bugs-v6.mp4` | 19.500 s; new hook; Penn State line | Use the new hook/EDL. Spoken line is "put it in a shrub outside" (Penn State), per `channels/research/factcheck-hooks-1116.md`. Fallback: queued cut only if the required line is already in it. |
+| Thu 11/19 19:00 | `yt-cluster-flies-v6.mp4` | 20.000 s; **must not say "thousands"** | Required fix. Replacement title already drafted: "Cluster Flies in Your House Walls Can Wake on Warm Days." If the file is not ready ≥2 hours before the slot, do not ship the queued "Thousands" cut. |
+| Fri 11/20 16:00 | `yt-booklice-cupboard-v6.mp4` | 19.767 s | Re-render to 16–18 s from the booklice script in `shorts-hooks-1s-1115.md` §6 (the version that ends on a question, not a humidity instruction). |
+
+Also, if you can, list the real YouTube Short schedule for 11/16–11/29 (Metricool still showed 0 scheduled when that ask was written) and the scripts or locations for `yt-earwig-hook`, `yt-carpenter-ant-hook`, and `yt-housefly-hook`. Measure any queued file whose length is still unknown before calling it 16–18 s.
+
+Do not revive `yt-dog-tail-wag-v6.mp4` (Mon 11/16 10:00) or other queued pet / news / CIA Shorts. Social Studio is holding those and, for 11/16 10:00, replacing the pet Short with the rv2 house-centipede file if the swap can still be made.
+
+---
+
+#### 4. December bug long-forms and their teasers
+
+These are scripted and fact-checked. They are the next heavy renders after the queue trims. Do not point a teaser's Related link at the long-form until that long-form is live.
+
+| Date | Work | Box / draft files | Status |
+|---|---|---|---|
+| Wed 12/2 17:00 (hour assumed; confirm) | House-spider ID long-form + 3 teasers (`spider-kansas`, `spider-four-inch`, `spider-jaws`) for 11/29, 11/30, 12/1  | `/workspace/drafts/longform-spider-id.{md,json}`, `spider-id-teasers.md` (committed to the notebook repo earlier) | Script + fact-check done. **Render owed** (C v3, audio-v2, transcript check). Teasers 16–18 s. |
+| Wed 12/9 | Cockroach born-as + teasers `roach-30000`, `roach-crack`, `roach-eggcase` (book 12/6–12/8, just after the current posting-plan window) | `/workspace/drafts/longform-cockroach-bornas.{md,json}`, `cockroach-teasers.md` | Script + fact-check done. Do not tie 900× body weight to crevices. Headless chapter stays out. |
+| Wed 12/16 | Dust-mite born-as + teasers `mite-130wash`, `mite-50eggs`, `mite-humidity` | `/workspace/drafts/longform-dustmite-bornas.{md,json}`, `dustmite-teasers.md` | Script + fact-check done. Keep the UKY tannic-acid wording; no brand names on bottles. |
+| Wed 12/23 | Bed-bug born-as + teasers `bedbug-100feet`, `bedbug-toothpick`, `bedbug-luggage` | `/workspace/drafts/longform-bedbug-bornas.{md,json}`, `bedbug-teasers.md` | Script + fact-check done. No DIY whole-house heat. |
+| Sat 12/5 08:00 | Polar bear born-as (already queued as `born-as-polar-bear.mp4`) | Production file in the skills repo; edit plan in `channels/longform/polar-bornas-structure.md` | If the queued render does not already follow the pacing rule, apply it: promise by 0:05, drop the keep-score intro, on-screen source tags + Sources block, shot changes every 2–4 s, mid-video comment prompt. Keep every safety line and its condition spoken. |
+
+Lion, dog, and crocodile long-forms: dog is parked (pets paused). Lion and croc dates are still yours to reconcile against MASTER_ORDERS lines 69 / 217 and to confirm with Nolan / Moondog88. Do not book or render those teasers until a date is locked. Hold the final check of dog and lion until the Scriptwriter's required fact-check fixes are in, if those renders resume later.
+
+---
+
+#### 5. Packaging and data tasks that stay in the repo (not Studio)
+
+1. Once Moondog88 / Jarvis marks a fix-batch row live, log the apply date and re-pull CTR and stayed % 7 days later into `data/ctr-log.csv`.
+2. Keep `data/related-video-map.csv` current: house-bug Shorts → `cH3HCZ8GlHk` until a newer same-series long-form is live; spider Shorts → `KWOM2-mNmww` until the 12/2 spider-ID long-form is live. Moondog88 / Jarvis sets Related in Studio.
+3. Export `channels/packaging/tiktok-per-video-90d.csv` (and the short source note) for **@meatballmyths only**, not FurEver Faces. Leave a cell blank rather than estimating. Metricool brand 8135499 is the shop account and is the wrong source.
+4. Hold queued news, CIA, and pet Shorts in `data/held.csv`. Do not fill those holes with new invented Shorts or new bug fact packs.
+5. `postkit.py lint`: YouTube Shorts hashtags are 3 topic + `#meatballmyths` + `#shorts`. Fail a long-form title over 55 characters, a thumb with more than 3 words or no `_168.png`, a description that ends in a keyword list, or more than 5 hashtags, per the earlier TASKS note. Make v4 the thumbnail template in `thumbs_v4.py` only as a template; do not upload v4 thumbs until Moondog88 OKs v4.
+6. List the real 11/16–11/29 YouTube schedule if Metricool still shows none.
+
+---
+
+#### 6. Out of scope
+
+- Applying titles, descriptions, unlists, banners, or thumbnails in YouTube Studio.
+- Posting or scheduling YouTube or TikTok, including Metricool `createScheduledPost` for Meatball.
+- Shop / FurEver Faces TikToks, TikTok Shop, or Etsy work from this list.
+- New pet, news, or CIA scripts.
+- Committing Social Studio's `/workspace/drafts/meatball-push-1116/` files, including this note.
+
 ## Production log
 
 When Claude's usage runs out, Etsy Studio does the production work (listing copy, design files, product prep) and logs each item here: date, what was done, file paths, and what Claude should pick up next.
