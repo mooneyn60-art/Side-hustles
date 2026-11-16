@@ -6,7 +6,7 @@ Sources read: `channels/research/deep-growth-research-1116.md`; `skills/channel-
 
 ## Series rules (all three episodes)
 
-- **Title pattern (one, all three):** `Your [Pet]'s Body When [everyday thing]`. "Your dog" / "Your cat" leads, per MASTER_ORDERS "The shows". No banned words (TRUE/FALSE, Myth, Believe, Cartoons, Lied, "Did you know"). Series tag goes in the description, not the title.
+- **Title pattern (one, all three; changed 11/16 per Social Studio and `channels/search/title-pattern-1116.md`):** `[Exact searched question]? Inside Noodle's/Sauce's [Body Part]`, 60 characters or fewer. The question is the phrase people actually type into autocomplete. No series tags, no "Ep N". No banned words.
 - **Who's who:** "you" = the viewer, as the owner. Meatball (stick figure) acts out the owner on screen and stays the lead. Inside-the-body scenes are inside **his dog, Noodle** or **his cat, Sauce**. Write the comma form the first time in each video.
 - **Organ characters** are labeled cartoon parts (Stomach, Nose, Paws). They "speak" in speech-bubble cards. Andrew narrates; no new voices (voice lock). Every organ line is either a sourced fact or a gag on Meatball. It never states a pet's feeling or motive.
 - **Pet gags (bible):** Noodle ends up with Meatball's food or prop. Sauce does the opposite of what Meatball wants and walks off. Plant one early, pay it off late. Actions only.
@@ -33,7 +33,7 @@ Sources read: `channels/research/deep-growth-research-1116.md`; `skills/channel-
 
 ---
 
-## EP 1: Your Dog's Body When It Steals Dark Chocolate (9:00, the peril episode)
+## EP 1: What Happens If a Dog Eats Chocolate? Inside Noodle's Gut (9:00, the peril episode)
 
 **Cold open (0:00–0:12):** "You just found an empty dark-chocolate wrapper. Your dog finished it 10 minutes ago, and the FDA says signs can show up within a few hours." On-screen clock: `MINUTE 10`. (CH-F5)
 
@@ -74,7 +74,7 @@ Sources read: `channels/research/deep-growth-research-1116.md`; `skills/channel-
 
 ---
 
-## EP 2: Your Dog's Body When You Come Home (8:30, comedy)
+## EP 2: Why Do Dogs Lick You? Inside Noodle's Tongue (8:30, comedy)
 
 **Cold open (0:00–0:12):** "You've been gone 8 hours. Your key just hit the lock. Behind that door, your dog has up to 100 million or more scent receptors, depending on the breed, and they're all aimed at your shoes." On-screen clock: `DOOR OPENS IN 0:10`. (DB32; the 8 hours is a scenario, not a fact)
 
@@ -112,7 +112,7 @@ Sources read: `channels/research/deep-growth-research-1116.md`; `skills/channel-
 
 ---
 
-## EP 3: Your Cat's Body When It Kneads You at 3 AM (8:45, cozy)
+## EP 3: Why Do Cats Knead? Inside Sauce's Paws (8:45, cozy)
 
 **Cold open (0:00–0:12):** "It's 2:56 AM. You have four minutes of sleep left. Your cat is already standing on your stomach, and its paws are running a move it learned as a kitten." On-screen clock: `2:56 AM`. (Scenario clock; the kitten line is CK-F1/CK-F6)
 
@@ -214,3 +214,19 @@ No team logos, betting, invented winners or game marks appear in this slate. No 
 5. **Titles:** keep "Your [Pet]'s Body When…", with the series tag in the description.
 6. **Episode-week Shorts:** use new facts only, not reruns of the posted lick, tail-wag or knead Shorts.
 7. **Status:** still a proposal until Research has sourced UNV-1 to UNV-7 and Moondog88 has seen it. Anything Research can't source gets cut.
+
+## Retitle (Mon Nov 16, 2026, ET)
+
+This replaces ruling 5 and open decision 3. The titles now follow `channels/search/title-pattern-1116.md`.
+
+| Ep | Title | Chars | Searched question (from autocomplete, per the Search doc) |
+|---|---|---|---|
+| 1 | What Happens If a Dog Eats Chocolate? Inside Noodle's Gut | 57 | "what happens if a dog eats chocolate" (#2 on TikTok, also on YouTube) |
+| 2 | Why Do Dogs Lick You? Inside Noodle's Tongue | 44 | "why do dogs lick you" (#1 under "why do dogs" on YouTube) |
+| 3 | Why Do Cats Knead? Inside Sauce's Paws | 38 | "why do cats knead" (exact-question titles hold the top search slots) |
+
+Notes:
+- **EP 1:** I used "Gut", because "Inside Noodle's Stomach" makes the title 61 characters. Switch back to "Stomach" if 61 is fine.
+- **EP 2:** the title now leads with the lick question, so the lick twist at 4:15 is the payoff, and it needs to arrive before about 5:00. The come-home scenario stays as the story frame.
+- **Chapter titles:** use the cut questions already written (e.g. "Why does my dog lick his lips?", "Why does my cat drool when kneading?").
+- **Weeks 2+:** pull from the top questions in the Search doc: grass, licking, chocolate, purring, dog vision.
