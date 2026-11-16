@@ -1,23 +1,25 @@
 # Fact-check: 1-second hooks in shorts-hooks-1s-1115.md
 
 **File checked:** `/workspace/drafts/shorts-hooks-1s-1115.md`  
-**Checked:** Sun Nov 15, 2026, ~7:25–8:00 PM ET (America/New_York)  
-**Scope this pass:** hook 1 `dust-mites` (Mon 11/16 16:00, done because it was quick), hook 2 `carpet-beetle-window` (Tue 11/17 16:00), hook 3 `christmas-tree-bugs` (Wed 11/18 19:00), and hook 4 / Packaging title `pantry-vs-clothes-moth` (the UC IPM Pantry Pests question). Hooks 5–6 (cluster flies, booklice) were not opened in this pass.
+**Checked:** Sun Nov 15, 2026, ~7:25–7:30 PM ET (America/New_York)  
+**Scope:** hooks 1–4 as in the earlier pass, plus hooks 5–6 (`cluster-flies`, `booklice-cupboard`) opened in the evening pass. Scripts were not edited.
 
 Every claim below was checked against a live page fetched this session.
 
 ## Blocking issues
 
-**None** on the four hooks checked. The moth title "Only One Eats Your Sweaters" is supported for pantry moth vs clothes moth (see section 4). One wording fix on the Christmas-tree action line: Penn State says put the clipped twig in "a shrub or other plant outdoors," not specifically "an evergreen."
+**None** on hooks 1–6. The moth title "Only One Eats Your Sweaters" is supported for pantry moth vs clothes moth (see section 4). One wording fix on the Christmas-tree action line: Penn State says put the clipped twig in "a shrub or other plant outdoors," not specifically "an evergreen."
 
-## Combined verdict counts (hooks 1–4, spoken lines + titles/cards)
+## Combined verdict counts (hooks 1–6, spoken lines + titles/cards + alternates)
 
 | Action | Count |
 |---|---|
-| Pass | 22 |
+| Pass | 26 |
 | Fix (recommended, not blocking) | 2 |
 | Cut | 0 |
 | Unsafe-to-imitate | 0 |
+
+The two fixes remain the earlier optional ones (dust-mite habitats; Christmas-tree “evergreen” vs Penn State “a shrub or other plant outdoors”). Hooks 5–6 added 4 Passes (main hook + alternate for each).
 
 ---
 
@@ -115,3 +117,44 @@ The cannibalism line ("will eat each other if no other food is present") is on t
 
 - Hook 5 `cluster-flies` (Thu 11/19 19:00)
 - Hook 6 `booklice-cupboard` (Fri 11/20 16:00)
+
+---
+
+## 5. `cluster-flies` (Thu 11/19 19:00 ET)
+
+**Sources opened this pass:**
+- [Penn State Extension, Cluster Flies](https://extension.psu.edu/cluster-flies/) — curl HTTP 200, 15 Nov 2026. (WebFetch returned 403; the same public page opened by curl.)
+- Colorado State University Extension, Cluster Flies and Other Winter Flies — the URL tried this pass (`https://extension.colostate.edu/topic-areas/insects/cluster-flies-and-other-winter-flies-5-502/` and a `/docs/pubs/insect/05502.pdf` guess) returned 404. The hook does not depend on CSU; Penn State is enough.
+
+| # | Claim (quoted) | Verdict | Action | Source quote | Fix |
+|---|---|---|---|---|---|
+| Hook / card | "Cluster flies can wake in your walls." / "CLUSTER FLIES CAN WAKE" | Verified | **Pass** | Penn State, live: cluster flies are "not reproducing within the structure, but become active on warm days and crawl out of wall voids and attics in a confused attempt to go back outside." "Can" is the right hedge. "Wake in your walls" is a fair paraphrase of becoming active and crawling out of wall voids. The hook does not use "thousands." | — |
+| Draft note / later fact | Penn State "gather in large numbers" at windows may be used later; not in the hook. | Verified | **Pass** | "the flies will gather in large numbers at windows within the home on warm winter days." | Do not move "thousands" onto the hook or card. Penn State's "thousands" is about what a dust treatment "may kill," not a count of flies in the walls: "insecticidal dust treatments to these voids may kill thousands of flies." |
+| Alternate hook | "Cluster flies can't reproduce in your house." | Verified | **Pass** | Penn State: "not reproducing within the structure." The draft cites CSU's "cannot reproduce indoors"; that CSU page was not opened live this pass (404 on the URL tried), but the same claim is on the live Penn State page. | If the alternate is used, credit Penn State (and CSU only after that page is re-opened). |
+
+No "inside earthworms" in the hook (correctly unused). No unsafe-to-imitate instruction.
+
+---
+
+## 6. `booklice-cupboard` (Fri 11/20 16:00 ET)
+
+**Sources opened this pass:**
+- [Clemson Cooperative Extension HGIC 2403, Booklice](https://hgic.clemson.edu/factsheet/booklice/) — live, authors Oswalt, Benson, Zungoli; published Mar 6, 2004. HTTP 200.
+- Utah State University Extension, Booklice and Psocids — the URL tried this pass (`https://extension.usu.edu/pests/research/booklice-and-psocids`) returned a USU "Page Not Found." The hook stands on Clemson.
+
+| # | Claim (quoted) | Verdict | Action | Source quote | Fix |
+|---|---|---|---|---|---|
+| Hook / card | "Booklice eat mold in your cupboards." / "BOOKLICE EAT MOLD" | Verified | **Pass** | Clemson, live: "They feed on molds, and a variety of animal and plant matter and are often found feeding on papers or books with mold, dead insects, animal and plant specimens, flour, grains, cereals, and dried fruits." "Eat mold" is exact. "In your cupboards" is not a verbatim Clemson location; it is a fair setting for flour, grains, cereals, and dried fruits. The card stays "BOOKLICE EAT MOLD," which is the sourced core. | Do not upgrade the hook to "only eat mold" (they also eat other plant and animal matter). Utah State was not re-opened this pass, so do not lean on a USU cupboard quote until that page is found live. |
+| Alternate hook | "Booklice are about 1/25 inch long." | Verified | **Pass** | Clemson: "Booklice are yellowish to buff colored, wingless, soft-bodied, and about 1/25 inch long." Use only if the card matches that line. The queued "1-millimeter" conversion is not Clemson's wording and should stay out of the spoken alternate. | — |
+
+Humidity "below 50%" is a later sourced fact on the Clemson page ("Control of booklice is best achieved by reducing humidity in a building to a level below 50%"), not part of this hook. Good that the hook does not turn it into a spoken instruction.
+
+---
+
+## Hooks 5–6 counts (this evening pass only)
+
+| Action | Count |
+|---|---|
+| Pass | 4 (cluster main, cluster alternate, booklice main, booklice alternate) |
+| Fix | 0 |
+| Cut | 0 |

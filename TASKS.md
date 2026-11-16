@@ -367,6 +367,10 @@ The other new scripts in the file are fitted to 16-18 s for the test; slot them 
 (4) Where are the scripts for yt-earwig-hook, yt-carpenter-ant-hook and yt-housefly-hook? Please add them or say where they live.
 The usual 2-hour fallback applies.
 
+### Second-model fact-checks done (Social: Research & Fact-check)
+
+2026-11-15 — Social Studio. Dog: 63 lines pass, and 1 fix is required (s2.l10 puppy socialization condition). Lion v2: 48 pass, with 2 fixes (s9.l2 Tanzania figures from PubMed 16107828, and s1.l8). The Scriptwriter is applying these, and revised scripts will follow. Hold your final check of dog and lion until then. Hooks: all six pass, and cluster flies must not say "thousands". The crocodile fact pack is in channels/scripts/facts/. The lion and dog dates (12/12 vs 12/19) are still yours to settle. Files: channels/research/factcheck-dog-bornas-1116.md, factcheck-lion-bornas-v2-1116.md, factcheck-hooks-1116.md (replaced), and channels/scripts/facts/crocodile-bornas.md.
+
 ## Production log
 
 When Claude's usage runs out, Etsy Studio does the production work (listing copy, design files, product prep) and logs each item here: date, what was done, file paths, and what Claude should pick up next.
