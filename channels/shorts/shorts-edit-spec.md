@@ -1,3 +1,8 @@
+## Social Studio rulings, 11/15 8:30 PM ET (now policy)
+1. **Long-form promise placement:** a spoken 3-5 word promise goes inside the loop line, before the closing "And", so the Short stays within 16.0-18.0 s.
+2. **Promise target:** each Short points to the long-form that its Related video link already uses, as listed in `/workspace/packaging/studio-related-links.csv` (match on `short_id`, use `related_longform_title`). The promise names that video's creature or topic, for example "full corner-spider video linked." Once a bug long-form posts, its Shorts switch their promise and Related link to it.
+3. **Scope:** the six queued test Shorts (11/16-11/20) ship as re-trimmed, without re-cutting the hook or the promise, because renders are frozen until Jarvis's animation spec. The new rules apply only to scripts that haven't been rendered yet.
+
 # Short-form edit spec (YouTube Shorts + TikTok)
 
 ## Changelog, 11/15 8:30 PM ET
@@ -8,7 +13,7 @@ SPEC CHANGE ONLY. No renders, no pipeline changes, no commits. Matches the "Scri
 - Hook rule is now you + your home + a number or threat, under 12 words; hedges stay where a fact needs one (was: about 6–8 words, search keyword plus payoff). The claim card stays on at 0.00 s.
 - Visual pace is now a new picture every 1–2 s, with no gap over 2.0 s (replaces the 1–3 s Shorts rule and the 2–4 s long-form note).
 - Comment rule is now one comment trigger per script, phrased as a debate prompt (replaces one open comment question).
-- Every Short must speak a long-form promise that points to the matching long-form. The promise has to fit inside the 16–18 s Nov 16–29 length budget, which this update does not change. That fit is a tension to resolve, not a solved policy. A 3–5 word promise inside the loop line is a suggestion only, not a rule.
+- Every Short must speak a long-form promise that points to the matching long-form. The promise has to fit inside the 16–18 s Nov 16–29 length budget, which this update does not change. Placement is now policy (ruling 1 below): a 3–5 word promise inside the loop line.
 - Existing rules restated: sourced facts; safety lines keep their condition; no team logos or betting; titles name the creature or carry the series tag; Shorts stay at 3 a day, at least 3 h apart.
 - House animation style: moving to illustrated panels for hooks and payoffs plus the code-drawn rig for action. Jarvis owns that spec. Current renders stay as they are until Jarvis hands it over.
 
@@ -97,7 +102,7 @@ How to hit it:
 3. Never end in a different room (the queued Christmas-tree cut ending in the kitchen is the example not to repeat).
 4. Never say "subscribe" or otherwise signal an ending.
 
-Every Short also speaks a long-form promise that points to the matching long-form. That spoken promise has to fit inside the 16.0–18.0 s budget. **This is a tension to resolve**, not a solved policy: the plan update adds a required line and does not extend the test length. Do not invent a placement as a rule. One suggestion, not policy, is a 3–5 word promise inside the loop line, before "And," so the hook, the safety condition, the debate prompt, and the loop join still fit.
+Every Short also speaks a long-form promise that points to the matching long-form. That spoken promise has to fit inside the 16.0–18.0 s budget. **Policy (Social Studio, 11/15 8:30 PM ET):** a 3–5 word promise inside the loop line, before "And," naming the creature or topic of the Short's Related-link long-form (from `/workspace/packaging/studio-related-links.csv`), so the hook, the safety condition, the debate prompt, and the loop join still fit.
 
 ---
 
@@ -111,7 +116,7 @@ Every Short also speaks a long-form promise that points to the matching long-for
 | 18–21 s | 21 | 996 | 75% |
 | ≥ 35 s | 5 | **285** | 48% |
 
-The standing MASTER_ORDERS rule is 16–20 s, no Short under 15 s (`postkit.py lint` fails under 15.0 s or over 20.05 s). The test uses the **short end of that band: 16.0–18.0 s**. The plan update does not change length. Target in the hooks bank: 52–58 words → 16.04–17.89 s at 194.5 wpm, **before** the spoken long-form promise. The promise has to fit inside 16.0–18.0 s; that is the tension noted in §4.
+The standing MASTER_ORDERS rule is 16–20 s, no Short under 15 s (`postkit.py lint` fails under 15.0 s or over 20.05 s). The test uses the **short end of that band: 16.0–18.0 s**. The plan update does not change length. Target in the hooks bank: 52–58 words → 16.04–17.89 s at 194.5 wpm, **before** the spoken long-form promise. The promise has to fit inside 16.0–18.0 s; placement is set by the 11/15 8:30 PM ruling (3–5 words in the loop line).
 
 Template:
 
@@ -120,7 +125,7 @@ Template:
 | 0. Hook | 0.00 s, card on; spoken hook under 12 words | Threat in close-up, claim card at 0.00 s, voice starts. Hook is you + your home + a number or threat. No Meatball. |
 | 1. Gag | Meatball in ~2.3 s; line 2 in the 3–7 s window | One Meatball gag only. A new picture at least every 1–2 s; no gap over 2.0 s. |
 | 2. Facts | After the gag, through ~12–14 s | At least two sourced facts. Hedges stay. Safety lines keep their condition. A new picture every 1–2 s. |
-| 3. Loop | Last 3–6 s, ending at 16.0–18.0 s | Debate-prompt comment trigger, "And," picture back on the frame-0 close-up. The spoken long-form promise also has to live in this 16–18 s budget (placement not locked). |
+| 3. Loop | Last 3–6 s, ending at 16.0–18.0 s | Debate-prompt comment trigger, "And," picture back on the frame-0 close-up. The spoken long-form promise also has to live in this 16–18 s budget (3–5 words inside the loop line, per the 11/15 ruling). |
 
 Cadence (house order, restated in the plan update): max 3 Shorts a day, at least 3 hours apart, house or spider topics only during the test. On a midweek long-form day the queue holds two Shorts, not three, so the long-form keeps its slot.
 
@@ -166,7 +171,7 @@ For each finished long-form, cut **2–3 Shorts**:
 1. **Prefer Studio "Create Short"** from the finished long-form when the picture and sound can stand as a 16–18 s loop. That sets the source video as Related video automatically (packaging plan, citing the YouTube related-video guide).
 2. If a clean loop cannot be cut from the master, render a same-creature 16–18 s trailer from the script, then set Related video to the long-form by hand (one video per Short, not a playlist).
 3. Each Short teases **one** item or fact from the episode and does not give away a full ranking.
-4. Frame 0 is the threat in close-up; hook is you + your home + a number or threat, under 12 words; claim card at 0.00 s; a new picture every 1–2 s (no gap over 2.0 s); one debate-prompt comment trigger; a spoken long-form promise that points to that long-form; loop back to frame 0; same caption style as the YouTube Short template. The promise still has to fit inside 16–18 s.
+4. Frame 0 is the threat in close-up; hook is you + your home + a number or threat, under 12 words; claim card at 0.00 s; a new picture every 1–2 s (no gap over 2.0 s); one debate-prompt comment trigger; a spoken long-form promise that points to that long-form; loop back to frame 0; same caption style as the YouTube Short template. The promise is 3–5 words inside the loop line and names the Related-link long-form's creature or topic.
 5. Reward the click in the long-form's first 5–10 seconds (YouTube's related-video guidance, cited in the packaging plan).
 6. Pin the same debate prompt, and close with "Full list in the Related video 👆" when the link is set.
 7. Do not use cub-killing or other excluded content in a lion cutdown. A lion cutdown EDL was optional and is not in this draft folder.
