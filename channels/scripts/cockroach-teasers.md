@@ -18,11 +18,11 @@ New rules plus the Shorts test remnants that still apply: no spoken source credi
 
 **Searched question (title, description first sentence, and frame-0 context):** Can one German female and her offspring make over 30,000 in a year?
 
-**Hook (11 words, 3.39 s):** Your kitchen: one German female's family can make over 30,000 yearly.
+**Hook (11 words, 3.39 s):** German roach mom and offspring can make over 30,000 a year.
 
 **Line 2 window:** 3.39–6.17 s (gag overlaps the 3–7 s window; Meatball hops in at ~2.3 s).
 
-**Loop sentence:** 30,000 or the crack? Pick a side. Full cockroach video linked. And Your kitchen: one German female's family can make over 30,000 yearly.
+**Loop sentence:** 30,000 or the crack? Pick a side. Full cockroach video linked. And German roach mom and offspring can make over 30,000 a year.
 
 **Open comment question:** 30,000 or the crack?
 
@@ -32,7 +32,7 @@ New rules plus the Shorts test remnants that still apply: no spoken source credi
 
 | # | Line | src | Visual / location |
 |---|---|---|---|
-| 1 | Your kitchen: one German female's family can make over 30,000 yearly. | CR22 | Frame 0: a German cockroach in close-up on a kitchen counter; Meatball hops in small at ~2.3 s. Card: YOUR KITCHEN: ONE GERMAN FEMALE'S FAMILY CAN MAKE OVER 30,000 YEARLY. Hedge chips: GERMAN; A FEMALE AND HER OFFSPRING; OVER 30,000; IN A YEAR. Tag: UC IPM. (kitchen, close-up) |
+| 1 | German roach mom and offspring can make over 30,000 a year. | CR22 | Frame 0: a German cockroach in close-up on a kitchen counter; Meatball hops in small at ~2.3 s. Card: GERMAN ROACH MOM AND OFFSPRING CAN MAKE OVER 30,000 A YEAR. Hedge chips: YOUR KITCHEN; GERMAN; CAN; OVER 30,000; IN A YEAR. Tag: UC IPM. (kitchen, close-up) |
 | 2 | Meatball drew tick marks. Sauce sat on the page. |  | Meatball fills a page with tick marks; Sauce sits on the page. (living room) |
 | 3 | They have the fastest reproductive cycle of all the common pest cockroaches. | CR22 | Chip: THIS SPECIES, GERMAN. Card: FASTEST REPRODUCTIVE CYCLE OF THE COMMON PEST COCKROACHES. Tag: UC IPM. (kitchen) |
 | 4 | Even clean homes can become infested, often in grocery bags. | CR11 | A clean kitchen; a grocery bag comes in the door. Card: EVEN CLEAN HOMES CAN BECOME INFESTED. Tag: University of Kentucky. (kitchen / doorway) |
@@ -42,7 +42,7 @@ New rules plus the Shorts test remnants that still apply: no spoken source credi
 
 **Hashtags:** #germancockroach #cockroach #kitchenbugs #meatballmyths #shorts
 
-**Description must keep:** The hook is 'Your kitchen: one German female's family can make over 30,000 yearly.' That is a German cockroach line (Blattella germanica), from UC IPM: a single female and her offspring can produce over 30,000 individuals in a year. Keep German; female and her offspring, not 'one female' alone; can; over 30,000; in a year. Do not hang 30,000 on American cockroaches (about 12 young; over 800 in a year) or on 'a cockroach.' A different official page (University of Kentucky) says thousands / several thousand in less than a year; that is not the same claim and is not spoken in this teaser. Even clean homes can become infested; German cockroaches are often introduced in infested grocery bags, beverage cartons, or furniture (University of Kentucky). On-screen tag: UC IPM; University of Kentucky. No spoken credit. The hook is 11 words (Social Studio 11/15). The hedge chip A FEMALE AND HER OFFSPRING stays on screen, and the description keeps UC IPM's full sentence.
+**Description must keep:** The hook is 'German roach mom and offspring can make over 30,000 a year.' That is a German cockroach line (Blattella germanica), from UC IPM: a single female and her offspring can produce over 30,000 individuals in a year. Keep German; female and her offspring, not 'one female' alone; can; over 30,000; in a year. Do not hang 30,000 on American cockroaches (about 12 young; over 800 in a year) or on 'a cockroach.' A different official page (University of Kentucky) says thousands / several thousand in less than a year; that is not the same claim and is not spoken in this teaser. Even clean homes can become infested; German cockroaches are often introduced in infested grocery bags, beverage cartons, or furniture (University of Kentucky). On-screen tag: UC IPM; University of Kentucky. No spoken credit. The hook is 11 words (Social Studio 11/15). The hedge chips YOUR KITCHEN and CAN stay on screen, and the description keeps UC IPM's full sentence.
 
 ## 2. roach-crack (56 words, 17.28 s)
 
@@ -118,7 +118,7 @@ When a date is approved, weekday Shorts follow the usual 16:00 ET hour and Sunda
 
 - Every loop line includes the 3–5 word promise 'Full cockroach video linked.' The long-form is not live until Wed 12/9; that flag is on each teaser and in this file.
 
-- All three hooks are under 12 words. The 30,000 hook uses Social Studio's fallback wording, 'female's family', because the pack (CR22) bars 'one female' without her offspring.
+- All three hooks are under 12 words. The 30,000 hook was rewritten 11/16 to 'German roach mom and offspring can make over 30,000 a year.' It keeps 'and her offspring', because the pack (CR22) bars 'one female' alone.
 
 - The crack teaser hook is 12 words and adds 'in your home.' It is a German hide, not a squeeze. The American 1/10-inch squeeze is named only as the thing not to mix with it, and is tagged American.
 

@@ -20,10 +20,10 @@
       "lines": [
         {
           "id": "s0.l0",
-          "say": "Your kitchen: one German female's family can make over 30,000 yearly.",
+          "say": "German roach mom and offspring can make over 30,000 a year.",
           "src": "CR22",
           "source_tag": "UC IPM",
-          "vis": "Frame 0: a German cockroach in close-up on a kitchen counter, face-on; narration on it at 0.0 s / The same close-up holds; card: YOUR KITCHEN: ONE GERMAN FEMALE'S FAMILY CAN MAKE OVER 30,000 YEARLY / Chip: GERMAN COCKROACH; A FEMALE AND HER OFFSPRING; OVER 30,000; IN A YEAR",
+          "vis": "Frame 0: a German cockroach in close-up on a kitchen counter, face-on; narration on it at 0.0 s / The same close-up holds; card: GERMAN ROACH MOM AND OFFSPRING CAN MAKE OVER 30,000 A YEAR / Chip: YOUR KITCHEN; GERMAN COCKROACH; CAN; OVER 30,000; IN A YEAR",
           "shots": [
             {
               "t": 0.0,
@@ -33,15 +33,15 @@
             {
               "t": 1.1,
               "dur": 1.13,
-              "vis": "The same close-up holds; card: YOUR KITCHEN: ONE GERMAN FEMALE'S FAMILY CAN MAKE OVER 30,000 YEARLY"
+              "vis": "The same close-up holds; card: GERMAN ROACH MOM AND OFFSPRING CAN MAKE OVER 30,000 A YEAR"
             },
             {
               "t": 2.3,
               "dur": 1.13,
-              "vis": "Chip: GERMAN COCKROACH; A FEMALE AND HER OFFSPRING; OVER 30,000; IN A YEAR"
+              "vis": "Chip: YOUR KITCHEN; GERMAN COCKROACH; CAN; OVER 30,000; IN A YEAR"
             }
           ],
-          "card": "YOUR KITCHEN: ONE GERMAN FEMALE'S FAMILY CAN MAKE OVER 30,000 YEARLY",
+          "card": "GERMAN ROACH MOM AND OFFSPRING CAN MAKE OVER 30,000 A YEAR",
           "_t": 0.0,
           "_dur": 3.39,
           "_beats": "P"
@@ -2812,28 +2812,33 @@
         },
         {
           "id": "s10.l4",
-          "say": "Now think back to that kitchen. One German female's family can make over 30,000 in a year.",
+          "say": "Now think back to that kitchen. One female German roach and her offspring can produce over 30,000 in a year.",
           "src": "CR22",
           "vis": "Callback: the same German cockroach close-up from 0:00 / The 30,000 card returns, with the hedges still on it",
           "shots": [
             {
               "t": 485.8,
-              "dur": 1.75,
+              "dur": 1.54,
               "vis": "Callback: the same German cockroach close-up from 0:00"
             },
             {
-              "t": 487.5,
-              "dur": 1.75,
+              "t": 487.3,
+              "dur": 1.54,
               "vis": "Callback: the same German cockroach close-up from 0:00"
             },
             {
-              "t": 489.3,
-              "dur": 1.75,
+              "t": 488.9,
+              "dur": 1.54,
+              "vis": "The 30,000 card returns, with the hedges still on it"
+            },
+            {
+              "t": 490.4,
+              "dur": 1.54,
               "vis": "The 30,000 card returns, with the hedges still on it"
             }
           ],
           "_t": 485.8,
-          "_dur": 5.24,
+          "_dur": 6.17,
           "_beats": "R"
         },
         {
@@ -2842,22 +2847,22 @@
           "vis": "Meatball stamps SWEET, then adds a small WITH CONDITIONS / Sauce steps on the pad to get to the couch",
           "shots": [
             {
-              "t": 491.0,
+              "t": 491.9,
               "dur": 1.54,
               "vis": "Meatball stamps SWEET, then adds a small WITH CONDITIONS"
             },
             {
-              "t": 492.6,
+              "t": 493.5,
               "dur": 1.54,
               "vis": "Meatball stamps SWEET, then adds a small WITH CONDITIONS"
             },
             {
-              "t": 494.1,
+              "t": 495.0,
               "dur": 1.54,
               "vis": "Sauce steps on the pad to get to the couch"
             }
           ],
-          "_t": 491.0,
+          "_t": 491.9,
           "_dur": 4.63,
           "_beats": "CJ"
         },
@@ -2867,17 +2872,17 @@
           "vis": "Meatball points at the camera / End screen: 3 Bugs in Your House You Should Never Kill video tile; Meatball points at it",
           "shots": [
             {
-              "t": 495.6,
+              "t": 496.6,
               "dur": 1.39,
               "vis": "Meatball points at the camera"
             },
             {
-              "t": 497.0,
+              "t": 498.0,
               "dur": 1.39,
               "vis": "End screen: 3 Bugs in Your House You Should Never Kill video tile; Meatball points at it"
             }
           ],
-          "_t": 495.6,
+          "_t": 496.6,
           "_dur": 2.78,
           "_beats": "CR"
         }
@@ -2909,7 +2914,7 @@
   ],
   "_changelog": [
     "Revision pass of the cockroach born-as long-form for Wed 12/9: chapter 6 is now the unused American 900-times force figure (CR15), not the cut chapter; the People and verdict safety recaps are trimmed so each required condition is said once, in full, in chapter 5 or 7; the borrowed crocodile verdict sting is replaced with a fresh Meatball joke. Direction still stands: lead German, 30,000 hook with hedges, American facts tagged, no foggers, baits away from kids and pets, asthma stays 'can'.",
-    "Runtime 8:30.4 at 194.5 wpm, 1606 words. Two primary mid-rolls, after the night-kitchen chapter at 3:13.9 and after the force-in-the-crack chapter at 6:50.7, 3:36.8 apart. Alternates after the egg-case chapter, the crack chapter, and the crowd chapter. No mid-roll after What actually hurts you, The air in your house, or People, because those are the safety and instruction clusters.",
+    "Runtime 8:31.3 at 194.5 wpm, 1609 words. Two primary mid-rolls, after the night-kitchen chapter at 3:13.9 and after the force-in-the-crack chapter at 6:50.7, 3:36.8 apart. Alternates after the egg-case chapter, the crack chapter, and the crowd chapter. No mid-roll after What actually hurts you, The air in your house, or People, because those are the safety and instruction clusters.",
     "Description-only this pass: CR39 (extremely heavy infestations, reported bites / faces of sleeping humans); CR40 ('believed to be capable' / 'implicated' disease wording); UF 30 to 40 and about 8 mm (~1/3 in); UKY 'up to 40.' CR15 is now spoken in chapter 6, tagged American.",
     "Revision pass, 2026-11-15 evening ET, Social Studio. Cut chapter 6 entirely from speech, cards, description, and teasers. Replaced it with a non-safety chapter on the unused American 900-times force figure (CR15) plus unused same-study lines (CR13). Trimmed repeated safety recaps in People and the verdict; each required condition still appears once, in full, in chapter 5 or 7. Replaced the borrowed crocodile verdict sting with a fresh Meatball joke.",
     "Facts: /workspace/drafts/facts/cockroach-bornas.md (CR1–CR42). Lead species: German cockroach (Blattella germanica).",
@@ -2935,8 +2940,8 @@
   "_open_questions": [
     {
       "line": "s0.l0 / s10.l4 (CR22)",
-      "question": "Hook is 'Your kitchen: one German female's family can make over 30,000 yearly.' (11 words, under Moondog88's under-12 rule). Social Studio 11/16 asked for '...can make over 30,000 a year', which counts 12 words, so 'a year' became 'yearly' to stay under 12. It keeps can, over, and the one-year window. 'Family' carries 'and her offspring' (pack CR22 bars 'one female' alone). The card chip A FEMALE AND HER OFFSPRING; IN A YEAR stays on screen, and the description keeps UC IPM's full sentence. The verdict callback matches.",
-      "fallback": "If 'yearly' reads stiff, use 'Your kitchen: one German female's family makes over 30,000 a year' (11), but that drops 'can'."
+      "question": "Hook rewritten 11/16 (Moondog88 found the old one awkward): 'German roach mom and offspring can make over 30,000 a year.' (11 words). It speaks German, female and her offspring, over 30,000, and a year, all from UC IPM. Spoken 'can' and 'your kitchen' move to on-screen chips (YOUR KITCHEN; CAN), with the kitchen close-up on frame 0. The description keeps UC IPM's full sentence. The verdict callback matches with 'in a year'.",
+      "fallback": "To speak 'can': 'One German roach and her offspring can top 30,000 yearly' (11), but Research flagged 'top' as looser than 'over'."
     },
     {
       "line": "s7.* (CR15, CR13, CR14, CR16)",
@@ -2991,7 +2996,7 @@
     "No spoken countdowns; every chapter card is a voiced 'Number X' line, except the cold open, halfway, and verdict; chapter gaps are 0.3 s.",
     "Pinned comment matches the debate prompt.",
     "Banned words: no TRUE, FALSE, Myth, Believe, Cartoons, Lied, or 'Did you know' as claims.",
-    "Length: 8:30.4 at 194.5 wpm, inside the 8:30–9:15 aim, above 8:00; about 9:10.3 at ~180 wpm."
+    "Length: 8:31.3 at 194.5 wpm, inside the 8:30–9:15 aim, above 8:00; about 9:11.3 at ~180 wpm."
   ],
   "_notes": [
     "Noodle lines (4): s0.l8, s2.l9, s6.l16, s9.l2. Planted at s0.l8 as 'his dog, Noodle.' He pushes a card under the fridge, sits on a box stack, and sits on a tape line. He is never told to catch or kill a cockroach, and he is never placed next to a bait.",
@@ -3016,20 +3021,20 @@
   "end_label_short": "3 BUGS YOU SHOULD NEVER KILL",
   "_timing": {
     "wpm": 194.5,
-    "words": 1606,
+    "words": 1609,
     "chapter_gap_s": 0.3,
-    "speech_s": 498.4,
-    "runtime_s": 510.4,
-    "runtime": "8:30.4",
-    "hook": "Your kitchen: one German female's family can make over 30,000 yearly.",
+    "speech_s": 499.3,
+    "runtime_s": 511.3,
+    "runtime": "8:31.3",
+    "hook": "German roach mom and offspring can make over 30,000 a year.",
     "hook_words": 11,
-    "promise": "Your kitchen: one German female's family can make over 30,000 yearly.",
+    "promise": "German roach mom and offspring can make over 30,000 a year.",
     "promise_spoken_by_s": 3.39,
     "eight_things_line": "You were just born a German cockroach. Here are eight things you have to get through.",
     "eight_things_ends_s": 8.33,
     "first_joke_s": 49.7,
     "comment_prompt_s": 252.0,
-    "speech_midpoint_s": 249.2,
+    "speech_midpoint_s": 249.7,
     "mild_words": 3,
     "mild_word_lines": [
       {
@@ -3047,8 +3052,8 @@
     ],
     "longest_shot_hold_s": 1.95,
     "longest_shot_hold_at": "s8.l7 shot 2",
-    "shots": 309,
-    "shots_under_2s": 309,
+    "shots": 310,
+    "shots_under_2s": 310,
     "shots_over_2s": 0,
     "max_gap_s": {
       "peak": 41.3,

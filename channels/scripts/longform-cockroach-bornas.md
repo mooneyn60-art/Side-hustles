@@ -2,7 +2,7 @@
 
 ## Open questions and fallbacks
 
-1. **s0.l0 / s10.l4 (CR22)**: Hook is 'Your kitchen: one German female's family can make over 30,000 yearly.' (11 words, under Moondog88's under-12 rule). Social Studio 11/16 asked for '...can make over 30,000 a year', which counts 12 words, so 'a year' became 'yearly' to stay under 12. It keeps can, over, and the one-year window. 'Family' carries 'and her offspring' (pack CR22 bars 'one female' alone). The card chip A FEMALE AND HER OFFSPRING; IN A YEAR stays on screen, and the description keeps UC IPM's full sentence. The verdict callback matches. Fallback: If 'yearly' reads stiff, use 'Your kitchen: one German female's family makes over 30,000 a year' (11), but that drops 'can'.
+1. **s0.l0 / s10.l4 (CR22)**: Hook rewritten 11/16 (Moondog88 found the old one awkward): 'German roach mom and offspring can make over 30,000 a year.' (11 words). It speaks German, female and her offspring, over 30,000, and a year, all from UC IPM. Spoken 'can' and 'your kitchen' move to on-screen chips (YOUR KITCHEN; CAN), with the kitchen close-up on frame 0. The description keeps UC IPM's full sentence. The verdict callback matches with 'in a year'. Fallback: To speak 'can': 'One German roach and her offspring can top 30,000 yearly' (11), but Research flagged 'top' as looser than 'over'.
 2. **s7.* (CR15, CR13, CR14, CR16)**: Chapter 6 is now the unused American-study force figure: American cockroaches withstood forces nearly 900 times their body weight without injury (CR15, PNAS wording; not tied to crevice traversal, per fact-check 11/16), plus unused lines from the same study (run at high speed even when flattened in half; tightest joints and seams in less than a second). Every line is tagged American. 'Without injury' stays the study's wording, and there is no crush or step-on demo. Fallback: Shorten the chapter to the 900-times line only, or swap in another unused pack row.
 3. **s0.l0 vs s4.l2 (CR22)**: The hook uses Social Studio's 'can make over 30,000.' Chapter 4 restates the official UC IPM sentence: 'can produce over thirty thousand individuals in a year.' Fallback: Use 'produce' and 'individuals' in the hook as well, or keep this split.
 4. **s1.l3 / s1.l4 / s1.l7 (D1, D2, D5)**: Egg-case count, egg-case length, and adult body length each have a disagreement. Speech prefers UC IPM 'about 30' and 'about 1/4 inch,' and UKY 'about half an inch,' then flags UF's purse-shaped description and Texas A&M's 1/2 to 5/8 inch as different official pages. UF's 30 to 40 and about 8 mm (~1/3 in), and UKY's 'up to 40,' stay in the description. Fallback: Speak the UF or UKY range as well, clearly as a disagreement, and trim a non-safety line.
@@ -14,7 +14,7 @@
 ## Changelog (2026-11-15 evening ET, revision pass)
 
 - Revision pass of the cockroach born-as long-form for Wed 12/9: chapter 6 is now the unused American 900-times force figure (CR15), not the cut chapter; the People and verdict safety recaps are trimmed so each required condition is said once, in full, in chapter 5 or 7; the borrowed crocodile verdict sting is replaced with a fresh Meatball joke. Direction still stands: lead German, 30,000 hook with hedges, American facts tagged, no foggers, baits away from kids and pets, asthma stays 'can'.
-- Runtime 8:30.4 at 194.5 wpm, 1606 words. Two primary mid-rolls, after the night-kitchen chapter at 3:13.9 and after the force-in-the-crack chapter at 6:50.7, 3:36.8 apart. Alternates after the egg-case chapter, the crack chapter, and the crowd chapter. No mid-roll after What actually hurts you, The air in your house, or People, because those are the safety and instruction clusters.
+- Runtime 8:31.3 at 194.5 wpm, 1609 words. Two primary mid-rolls, after the night-kitchen chapter at 3:13.9 and after the force-in-the-crack chapter at 6:50.7, 3:36.8 apart. Alternates after the egg-case chapter, the crack chapter, and the crowd chapter. No mid-roll after What actually hurts you, The air in your house, or People, because those are the safety and instruction clusters.
 - Description-only this pass: CR39 (extremely heavy infestations, reported bites / faces of sleeping humans); CR40 ('believed to be capable' / 'implicated' disease wording); UF 30 to 40 and about 8 mm (~1/3 in); UKY 'up to 40.' CR15 is now spoken in chapter 6, tagged American.
 - Revision pass, 2026-11-15 evening ET, Social Studio. Cut chapter 6 entirely from speech, cards, description, and teasers. Replaced it with a non-safety chapter on the unused American 900-times force figure (CR15) plus unused same-study lines (CR13). Trimmed repeated safety recaps in People and the verdict; each required condition still appears once, in full, in chapter 5 or 7. Replaced the borrowed crocodile verdict sting with a fresh Meatball joke.
 - Facts: /workspace/drafts/facts/cockroach-bornas.md (CR1–CR42). Lead species: German cockroach (Blattella germanica).
@@ -25,15 +25,15 @@ Box draft, 2026-11-15 (ET). Nothing rendered, scheduled, posted, or pushed; git 
 
 **Target:** Wed 12/9, assigned. Teaser slots TBD. Do not book or post from this pass. Teaser Related links stay flagged until 12/9.
 
-**Words:** 1606. **Runtime at 194.5 wpm:** 8:18.4 speech + 12 s end hold = **8:30.4** (about 9:10.3 at ~180 wpm).
+**Words:** 1609. **Runtime at 194.5 wpm:** 8:19.3 speech + 12 s end hold = **8:31.3** (about 9:11.3 at ~180 wpm).
 
-**Checks:** hook 11 words, ends 3.39 s (also the spoken promise); eight-things line ends 8.33 s; first joke 0:49.7; comment prompt 4:12.0 (speech midpoint 4:09.2); longest gaps: peaks 41.3 s, character 104.3 s, retention 202.3 s; 309 shots, longest 1.95 s (s8.l7), 309 under 2 s, 0 over 2.0 s; mild words 3.
+**Checks:** hook 11 words, ends 3.39 s (also the spoken promise); eight-things line ends 8.33 s; first joke 0:49.7; comment prompt 4:12.0 (speech midpoint 4:09.7); longest gaps: peaks 41.3 s, character 104.3 s, retention 202.3 s; 310 shots, longest 1.95 s (s8.l7), 310 under 2 s, 0 over 2.0 s; mild words 3.
 
 Segment IDs: s5 is the halfway re-hook, so 'Number five' is s6, 'Number six' is s7, 'Number seven' is s8, 'Number eight' is s9, verdict is s10. Beat tags: P peak, C character, R retention, J joke, S mild word, M the comment prompt.
 
 ## Cold open, first 5 s
 
-> Your kitchen: one German female's family can make over 30,000 yearly.  (0:00.0 to 0:03.4)
+> German roach mom and offspring can make over 30,000 a year.  (0:00.0 to 0:03.4)
 
 > You were just born a German cockroach. Here are eight things you have to get through.  (0:03.4 to 0:08.3)
 
@@ -61,9 +61,9 @@ Primary breaks at about 3:13.9, 6:50.7. Alternates at 1. The egg case 1:45.0, 2.
 ## Script
 
 ### 0:00.0 Day one
-- `0:00.0` `s0.l0` Your kitchen: one German female's family can make over 30,000 yearly.  
-  _[CR22 | TAG: UC IPM | card: YOUR KITCHEN: ONE GERMAN FEMALE'S FAMILY CAN MAKE OVER 30,000 YEARLY | P]_  
-  Shots: (1.1s) Frame 0: a German cockroach in close-up on a kitchen counter, face-on; narration on it at 0.0 s → (1.1s) The same close-up holds; card: YOUR KITCHEN: ONE GERMAN FEMALE'S FAMILY CAN MAKE OVER 30,000 YEARLY → (1.1s) Chip: GERMAN COCKROACH; A FEMALE AND HER OFFSPRING; OVER 30,000; IN A YEAR
+- `0:00.0` `s0.l0` German roach mom and offspring can make over 30,000 a year.  
+  _[CR22 | TAG: UC IPM | card: GERMAN ROACH MOM AND OFFSPRING CAN MAKE OVER 30,000 A YEAR | P]_  
+  Shots: (1.1s) Frame 0: a German cockroach in close-up on a kitchen counter, face-on; narration on it at 0.0 s → (1.1s) The same close-up holds; card: GERMAN ROACH MOM AND OFFSPRING CAN MAKE OVER 30,000 A YEAR → (1.1s) Chip: YOUR KITCHEN; GERMAN COCKROACH; CAN; OVER 30,000; IN A YEAR
 - `0:03.4` `s0.l1` You were just born a German cockroach. Here are eight things you have to get through.  
   _[card: BORN A GERMAN COCKROACH | P]_  
   Shots: (1.6s) Title card lands over the close-up: BORN A GERMAN COCKROACH → (1.6s) Title card lands over the close-up: BORN A GERMAN COCKROACH → (1.6s) Eight numbered tiles slam in face down around the roach
@@ -382,13 +382,13 @@ Primary breaks at about 3:13.9, 6:50.7. Alternates at 1. The egg case 1:45.0, 2.
 - `8:01.5` `s10.l3` Meatball leaned both cards on a mug. Sauce knocked the raw one flat. Damn.  
   _[card: OUR VERDICT: SWEET, WITH CONDITIONS | meter 75 | CJS]_  
   Shots: (1.4s) Meatball leans the RAW and SWEET cards against a mug → (1.4s) Sauce paws the RAW card flat; SWEET stays up → (1.4s) The SWEET, WITH CONDITIONS tag stays on screen
-- `8:05.8` `s10.l4` Now think back to that kitchen. One German female's family can make over 30,000 in a year.  
+- `8:05.8` `s10.l4` Now think back to that kitchen. One female German roach and her offspring can produce over 30,000 in a year.  
   _[CR22 | R]_  
-  Shots: (1.8s) Callback: the same German cockroach close-up from 0:00 → (1.8s) Callback: the same German cockroach close-up from 0:00 → (1.8s) The 30,000 card returns, with the hedges still on it
-- `8:11.0` `s10.l5` Meatball's final stamp: sweet, with conditions. Sauce's stamp: she used it as a stepping stool.  
+  Shots: (1.5s) Callback: the same German cockroach close-up from 0:00 → (1.5s) Callback: the same German cockroach close-up from 0:00 → (1.5s) The 30,000 card returns, with the hedges still on it → (1.5s) The 30,000 card returns, with the hedges still on it
+- `8:11.9` `s10.l5` Meatball's final stamp: sweet, with conditions. Sauce's stamp: she used it as a stepping stool.  
   _[CJ]_  
   Shots: (1.5s) Meatball stamps SWEET, then adds a small WITH CONDITIONS → (1.5s) Meatball stamps SWEET, then adds a small WITH CONDITIONS → (1.5s) Sauce steps on the pad to get to the couch
-- `8:15.6` `s10.l6` 3 Bugs You Should Never Kill is right here.  
+- `8:16.6` `s10.l6` 3 Bugs You Should Never Kill is right here.  
   _[CR]_  
   Shots: (1.4s) Meatball points at the camera → (1.4s) End screen: 3 Bugs in Your House You Should Never Kill video tile; Meatball points at it
 
@@ -452,7 +452,7 @@ All official wording below is said clean. Jokes come after the line, never insid
 7. No spoken countdowns; every chapter card is a voiced 'Number X' line, except the cold open, halfway, and verdict; chapter gaps are 0.3 s.
 8. Pinned comment matches the debate prompt.
 9. Banned words: no TRUE, FALSE, Myth, Believe, Cartoons, Lied, or 'Did you know' as claims.
-10. Length: 8:30.4 at 194.5 wpm, inside the 8:30–9:15 aim, above 8:00; about 9:10.3 at ~180 wpm.
+10. Length: 8:31.3 at 194.5 wpm, inside the 8:30–9:15 aim, above 8:00; about 9:11.3 at ~180 wpm.
 
 ## Resolved this pass
 
