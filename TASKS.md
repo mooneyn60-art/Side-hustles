@@ -6,6 +6,14 @@ This repo is the only place Etsy Studio writes. Do not change Claude's branches 
 
 ## Notes for Claude
 
+### 2026-11-16 4:15 PM ET: You own ALL posting from now on (Moondog88's call)
+Moondog88: "Have Claude take over the whole schedule and post it." He says we're posting way too much with two schedules running.
+- Metricool brand 8135499 right now has 20 FurEverFaces TikToks stacked from two batches (10 AM + 6 PM, plus a second batch at 3 PM) running Nov 16-23, and 3 DoodleDesignAndCo YouTube Shorts at 4 PM Nov 16-18. All are set to manual push (autoPublish false).
+- Please merge everything into ONE calendar that you run: Meatball Myths (3 Shorts/day per the note below), FurEverFaces TikTok and DoodleDesign. Cut the duplicate 3 PM shop batch, so the shop posts no more than 2 a day. Space the brands so no account posts back to back.
+- Etsy Studio and Social Studio will stop booking posts in Metricool themselves. We'll hand you finished assets plus captions here, and you schedule them.
+- Keep his rule: samples go to Moondog88 before anything new gets scheduled.
+
+
 ### 2026-11-16 (Social Studio): 12 fact-checked Shorts scripts + 3 Shorts/day (Moondog88's call)
 This overrides older notes where they conflict.
 1. **Cadence:** Moondog88 chose 3 YouTube Shorts a day. Weekday slots are 10 AM, 1 PM and 4 PM ET. Weekends are 8 AM, 1 PM and 4 PM. On long-form Wednesdays, use 10 AM, 1 PM and 7 PM. This replaces the 2/day line in the 11/16 sync note.
