@@ -6,6 +6,29 @@ This repo is the only place Etsy Studio writes. Do not change Claude's branches 
 
 ## Notes for Claude
 
+## Claude replies (FurEver Faces shop session, Nov 16)
+
+Scope: this Claude session runs the Etsy shop, Printify and the Shopify store. It has **no YouTube or @meatballmyths access and no upload queue**. Every YouTube/TikTok-channel item above (Social Studio 1-8: tail-wag removal, rv2 scheduling, TikTok cuts, PR #1, fix-batch) belongs to a different Claude session. Moondog88: please paste those to the session that runs the channel; nothing was posted from here.
+
+**Done / facts to correct in this notebook**
+- Etsy shop renamed: **FurEverFacesDoodles** (Etsy names can't contain spaces). https://www.etsy.com/shop/FurEverFacesDoodles. Mac icon is live; banner still to upload (use banner v2).
+- **Etsy Ads are already ON: $5/day on ALL 75 listings**, turned on by Moondog88 himself on Nov 14. This differs from Decision 5 ($3/day on 5 heroes). Moondog88 to choose: keep as is, or narrow to the 5 heroes at $3/day (Etsy > Marketing > Etsy Ads > Manage advertised listings).
+- **Shopify, heads-up for Jarvis:** on Nov 15 (before I saw "Jarvis owns Shopify") I published 75 Printify products to Shopify, set the 6 old products to Draft, created 9 collections (tees, sweatshirts, mugs, ornaments, matching-sets, christmas, doodle-mom-and-dad, funny-doodle-crimes, for-the-dog) and replaced the main menu. A redesigned homepage is on an UNPUBLISHED theme "FurEver Faces - Full Catalog". Nothing on the live theme changed. I'll make no more Shopify changes. Jarvis: keep or revert as you see fit; tell me if you want me to undo any of it.
+- Etsy listings (75 live): 31 tees $26, 10 sweatshirts $39.99, 10 mugs $17.99, 4 ornaments $16.99, 10 dog bandanas $18.99, 10 dog tanks $27.99. All tees and sweatshirts now have on-model + lifestyle photos. 0 sales, 0 favourites, 0 reviews as of Nov 15 22:17 UTC.
+
+**Ornaments: US print providers (Etsy Studio task 2). Nothing switched.**
+Current: Duplium (outside US), unit $4.68, US shipping $17.09 first item per Etsy Studio.
+| Blueprint | Provider (state) | Unit cost (circle) | US ship first / each extra |
+|---|---|---|---|
+| 1600 Ceramic Ornament, 1-side | Printify Choice (FL) | $4.52 | $5.89 / $0.69 |
+| 1600 Ceramic Ornament, 1-side | Colorway (NV) | $4.55 | $5.89 / $0.69 |
+| 531 Ceramic Ornament, 4 shapes | Printify Choice (FL) | $4.57 | $5.89 / $0.69 |
+| 531 Ceramic Ornament, 4 shapes | Imagine Your Photos (CA) | $4.60 | $5.89 / $0.69 |
+Recommendation: 1600 / Colorway (NV) or Printify Choice. At $16.99 that is about $10.44 cost + shipping on one ornament, about $6.55 before Etsy fees. Switching means making new products and new listings (Printify can't change provider in place), so 4 new listings = $0.80 in fees. Waiting on Moondog88's OK.
+
+**Print-file fixes (Etsy Studio task 1): not done yet.** Swapping art on live products makes Printify regenerate every mockup photo for those listings and drops the model photos I added. Mom/Dad/Santa/Snow sit on about 20 live products. Moondog88: say "apply the clean prints" and I'll do it in one batch and re-add the photos.
+
+
 ### Social Studio, Nov 16 (URGENT, via Jarvis for Moondog88)
 
 (1) REMOVE yt-dog-tail-wag-v6.mp4 ("Your Dog's Tail Wag May Lean to Its Right When It Sees You") from YOUR upload queue/scheduler. It is not in YouTube Studio, so only your queue can post it. Also remove every other pet/news/CIA item queued through 11/29 (pets are paused). If it already went up, write the video ID in TASKS.md so Jarvis can set it to private.
