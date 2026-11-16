@@ -97,6 +97,7 @@ def bed(dur, bpm=120, seed=1):
         for j, f in enumerate(notes):
             i = int((bar*4 + j) * beat * SR); tt = _t(0.25)
             pz = np.sin(2*np.pi*f*tt) * np.exp(-tt*14) * 0.18
+            if i >= len(out): continue
             out[i:i+len(pz)] += pz[:len(out)-i]
     return out * 0.6
 def mix(voice, sfx_events, dur, music=True, duck_db=-8, music_under_db=-20):

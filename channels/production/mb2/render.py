@@ -25,6 +25,61 @@ EP = dict(text=["You can't outrun a grizzly. Bears can run as fast as a racehors
         (4, 'Meatball', [('EVER MET A BEAR? COMMENT', '#ffd23f', 64)]),
     ])
 
+WORK3 = os.path.join(HERE, 'episodes', 'grizzly-wms-3-v3')
+EP3 = dict(  # v3: outlier hook pattern ("You" + situation + stakes in 3 s, a 3-way choice = comment trigger), ~1 s pictures
+    text=["You just surprised a grizzly. Run, play dead, or fight?", "Don't run. It's as fast as a racehorse, and bears chase what runs.",
+          "Meatball ran anyway. Meatball is not a racehorse.", "If it knocks you down, play dead. Stomach down, hands behind your neck.",
+          "If it keeps going, or it stalked you, fight like hell.", "Meatball lived. Next time, it's"],
+    lines=[f'{WORK3}/v{i}' for i in range(1, 7)], gaps=[0, 0.14, 0.14, 0.16, 0.14, 0.22],
+    cap_key={'grizzly', 'run', 'dead', 'fight', 'racehorse', 'chase', 'meatball', 'knocks', 'neck', 'hell', 'lived', 'surprised'},
+    cards=[(1, 'fast', [('AS FAST AS A RACEHORSE', '#ff4b3e', 88), ('UPHILL AND DOWN: U.S. PARK SERVICE', '#ffffff', 40)]),
+           (3, 'play', [('PLAY DEAD', '#7CFF6B', 104), ('ONLY IF IT KNOCKS YOU DOWN', '#ffffff', 44), ('STOMACH DOWN, HANDS BEHIND YOUR NECK', '#ffffff', 34)]),
+           (4, 'If', [('FIGHT BACK', '#ff4b3e', 104), ('IF IT KEEPS GOING OR STALKED YOU', '#ffffff', 40), ("BLACK BEAR: DON'T PLAY DEAD (PARK SERVICE)", '#ffd23f', 34)]),
+           (5, 'Meatball', [('RUN, PLAY DEAD OR FIGHT? COMMENT', '#ffd23f', 58)])])
+def shots3(tl):
+    B = tl.b0; Wd = tl.w
+    P1a = ('p1_roar_v2.jpg', 1.12, 1.32, (0.5, 0.45), (0.5, 0.40)); P1z = ('p1_roar_v2.jpg', 1.32, 1.12, (0.5, 0.40), (0.5, 0.45))
+    P4 = ('p4_playdead_v2.jpg', 1.05, 1.2, (0.42, 0.58), (0.40, 0.60)); P4h = ('p4_playdead_v2.jpg', 1.45, 1.6, (0.40, 0.62), (0.40, 0.64))
+    P5l = ('p5_fight_v2.jpg', 1.9, 1.15, (0.42, 0.20), (0.5, 0.42)); P5f = ('p5_fight_v2.jpg', 1.2, 1.45, (0.48, 0.72), (0.48, 0.76))
+    P5h = ('p5_fight_v2.jpg', 1.5, 1.7, (0.5, 0.72), (0.5, 0.74))
+    return [  # (start, end, rig_shot, panel, use_panel)
+        (0, Wd(0, 'Run'), 'roar_cu', P1a, True),                 # frame 0: threat + Meatball's terror in one picture
+        (Wd(0, 'Run'), Wd(0, 'play'), 'treadmill', None, False),  # 3-way preview montage: run...
+        (Wd(0, 'play'), Wd(0, 'fight'), 'playdead', P4h, True),   # ...play dead...
+        (Wd(0, 'fight'), B(1), 'fight', P5h, True),               # ...or fight?
+        (B(1), Wd(1, 'fast'), 'mb_cu', None, False),
+        (Wd(1, 'fast'), Wd(1, 'and'), 'race', None, False),
+        (Wd(1, 'and'), B(2), 'gallop', None, False),
+        (B(2), Wd(2, 'Meatball', 2), 'chase', None, False),
+        (Wd(2, 'Meatball', 2), B(3), 'treadmill', None, False),
+        (B(3), Wd(3, 'knocks'), 'surprise', None, False),
+        (Wd(3, 'knocks'), Wd(3, 'play'), 'knock', None, False),
+        (Wd(3, 'play'), Wd(3, 'Stomach'), 'playdead', P4, True),
+        (Wd(3, 'Stomach'), B(4), 'playdead', None, False),
+        (B(4), Wd(4, 'stalked'), 'eye_cu', None, False),
+        (Wd(4, 'stalked'), Wd(4, 'fight'), 'loom', P5l, True),
+        (Wd(4, 'fight'), B(5), 'fight', P5f, True),
+        (B(5), Wd(5, 'Next'), 'lived', None, False),
+        (Wd(5, 'Next'), tl.dur + 0.01, 'roar_cu', P1z, True),     # loop: ends on frame 0's framing
+    ]
+def choice_chips(cv, tl, t):
+    """Hook device from the outliers: the 3 options pop on as they're spoken; RUN gets struck on "Don't run"."""
+    opts = [('RUN', '#ff4b3e', tl.w(0, 'Run')), ('PLAY DEAD', '#7CFF6B', tl.w(0, 'play')), ('FIGHT', '#ffd23f', tl.w(0, 'fight'))]
+    end = tl.b0(1) + 0.8
+    if t >= end: return
+    f = font('Anton-Regular.ttf', 62); ws = [f.measureText(o[0]) + 50 for o in opts]; x = (W - sum(ws) - 40)/2; y = 1225
+    for (txt, col, t0), w in zip(opts, ws):
+        if t >= t0:
+            sc = back_out(clamp((t - t0)/0.22))
+            cv.save(); cv.translate(x + w/2, y); cv.scale(sc, sc)
+            r = skia.RRect.MakeRectXY(skia.Rect(-w/2, -54, w/2, 32), 20, 20)
+            cv.drawRRect(r, fill(C('#111111', 235))); cv.drawRRect(r, stroke(col, 7))
+            text_outlined(cv, txt, 0, 8, 62, col, '#000', 0)
+            if txt == 'RUN' and t >= tl.b0(1):
+                k = clamp((t - tl.b0(1))/0.15); cv.drawLine(-w/2 + 10, 20, -w/2 + 10 + (w - 20)*k, -40, stroke('#ff2020', 14))
+            cv.restore()
+        x += w + 20
+
 # ------------------------------------------------------------------ timeline helpers
 import re
 def norm(s): return re.sub(r'[^a-z]', '', s.lower())
@@ -163,7 +218,8 @@ def captions(cv, tl, t, keys, y=1430):
             cv.restore()
 def cards(cv, tl, t, spec):
     for i, (beat, word, rows) in enumerate(spec):
-        t0 = tl.w(beat, word); t1 = tl.b1(beat) + (0.15 if beat < 4 else 1.0)
+        last = len(tl.spans) - 1
+        t0 = tl.w(beat, word); t1 = tl.b1(beat) + (0.15 if beat < last else 1.0)
         if beat == 0: t1 = tl.b1(0)
         if not (t0 <= t < t1): continue
         u = t - t0; y = 300
@@ -320,24 +376,32 @@ def rig_shot(cv, name, t, u, d, mouth, tl):
 
 def render(style, out, label_text='', max_frames=None):
     global V2
-    V2 = style == 'hybrid2'
+    V2 = style in ('hybrid2', 'hybrid3'); V3 = style == 'hybrid3'
+    ep = EP3 if V3 else EP
     os.makedirs(os.path.dirname(os.path.abspath(out)), exist_ok=True)
-    lines = [(p + '.mp3', p + '.words.json') for p in EP['lines']]
-    voice, words, spans = audio.assemble(lines, EP['gaps'])
-    for bi, txt in enumerate(EP['text']):  # restore punctuation from the script (TTS boundaries drop it)
+    lines = [(p + '.mp3', p + '.words.json') for p in ep['lines']]
+    voice, words, spans = audio.assemble(lines, ep['gaps'])
+    for bi, txt in enumerate(ep['text']):  # restore punctuation from the script (TTS boundaries drop it)
         toks = txt.split(); ws = [x for x in words if x['beat'] == bi]
         if len(toks) == len(ws):
             for x, tk in zip(ws, toks): x['w'] = tk
     tmp = out + '.voice.wav'; audio.save(tmp, voice); audio.voice_chain(tmp, tmp + '.p.wav')
     voice = audio.load(tmp + '.p.wav'); dur = len(voice)/audio.SR + 0.35
     tl = TL(words, spans, dur); env = audio.envelope(voice)
-    sh = shots(tl)
+    sh = shots3(tl) if V3 else shots(tl)
     # SFX plan (spec §4: whoosh only on location changes, one signature sting, comic hits)
-    sfx = [(0.0, 'roar', -2), (tl.w(0, 'Bears') - 0.12, 'whoosh', -8), (tl.w(0, 'racehorse'), 'pop', -8),
+    sfx = [] if V3 else [(0.0, 'roar', -2), (tl.w(0, 'Bears') - 0.12, 'whoosh', -8), (tl.w(0, 'racehorse'), 'pop', -8),
            (tl.w(1, 'is') + 0.25, 'scratch', -10), (tl.w(1, 'Bears'), 'heart', -8), (tl.w(1, 'like') - 0.1, 'whoosh', -8),
            (tl.w(2, 'knocks'), 'impact', -3), (tl.w(2, 'play'), 'ding', -12), (tl.b0(3), 'heart', -6),
            (tl.w(3, 'fight'), 'impact', -4), (tl.w(3, 'fight') + 0.3, 'pop', -6), (tl.w(4, 'Nothing') - 0.1, 'whoosh', -8), (tl.dur - 0.9, 'roar', -6)]
-    if V2: sfx += [(tl.b0(4) - 0.08, 'whoosh', -10)]  # ink wipe fight -> lived gets the same whoosh as the others
+    if V3:  # v3 SFX: roar on frame 0, a pop per choice chip, whoosh on every panel<->rig change, hits on the verbs
+        sfx = [(0.0, 'roar', -2), (tl.w(0, 'Run'), 'pop', -8), (tl.w(0, 'play'), 'pop', -8), (tl.w(0, 'fight'), 'pop', -8),
+               (tl.b0(1), 'scratch', -10), (tl.w(1, 'fast'), 'pop', -8), (tl.w(2, 'Meatball', 2) + 0.2, 'scratch', -12),
+               (tl.w(3, 'knocks'), 'impact', -3), (tl.w(3, 'play'), 'ding', -12), (tl.b0(4), 'heart', -6),
+               (tl.w(4, 'fight'), 'impact', -4), (tl.w(4, 'fight') + 0.3, 'pop', -6), (tl.dur - 0.9, 'roar', -6)]
+        for i in range(1, len(sh)):
+            if sh[i][4] != sh[i - 1][4] and sh[i][1] - sh[i][0] >= 0.8: sfx.append((sh[i][0] - 0.08, 'whoosh', -10))
+    elif V2: sfx += [(tl.b0(4) - 0.08, 'whoosh', -10)]  # ink wipe fight -> lived gets the same whoosh as the others
     mixw = audio.mix(voice, sfx, dur); audio.save(out + '.mix.wav', mixw)
     if os.environ.get('REMASTER'):  # audio-only redo: keep the rendered picture, re-master the sound
         src = out + '.src.mp4'; os.replace(out, src); audio.master(out + '.mix.wav', src, out, copy_video=True)
@@ -351,11 +415,11 @@ def render(style, out, label_text='', max_frames=None):
     soft = skia.Paint(ImageFilter=skia.ImageFilters.Blur(0.8, 0.8))   # rig vectors -> same softness as upscaled panels
     gradep = skia.Paint(ColorFilter=GRADE)
     _gp = skia.Paint(BlendMode=skia.BlendMode.kOverlay); _gp.setAlphaf(0.5)
-    def is_panel(si): return style == 'panels' or (style in ('hybrid', 'hybrid2') and sh[si][4])
+    def is_panel(si): return style == 'panels' or (style in ('hybrid', 'hybrid2', 'hybrid3') and sh[si][4])
     def draw_shot(si, t, mouth):
         a, b, rname, pnl, hyb = sh[si]; u, d = t - a, b - a
         if is_panel(si):
-            name, z0, z1, c0, c1 = PANELS_V2[si] if V2 else pnl
+            name, z0, z1, c0, c1 = pnl if V3 else (PANELS_V2[si] if V2 else pnl)
             cv.save()
             shk = 16*math.exp(-u*3) if rname in ('roar_cu', 'knock', 'fight') else 0
             cv.translate(wobble(t, 7, shk, 12), wobble(t, 8, shk, 12))
@@ -379,17 +443,18 @@ def render(style, out, label_text='', max_frames=None):
         cv.clear(C('#000000'))
         if V2: cv.saveLayer(None, gradep)
         draw_shot(si, t, mouth)
-        wiping = V2 and si > 0 and u < TR and is_panel(si) != is_panel(si - 1)
+        wiping = V2 and si > 0 and u < TR and is_panel(si) != is_panel(si - 1) and (not V3 or d >= 0.8)
         if wiping: ink_wipe(cv, u/TR, lambda: draw_shot(si - 1, t, 0.0))
         if V2: cv.restore()
         if V2: cv.drawImageRect(grain[fi % len(grain)], skia.Rect(0, 0, W, H), skia.SamplingOptions(skia.FilterMode.kLinear), _gp)
         # whip transition: 3-frame white smear on every same-type cut
         if u < 0.1 and si > 0 and not wiping:
             k = 1 - u/0.1; cv.drawPaint(fill(C('#ffffff', int(70*k))))
-        cards(cv, tl, t, EP['cards'])
-        captions(cv, tl, t, EP['cap_key'])
+        cards(cv, tl, t, ep['cards'])
+        if V3: choice_chips(cv, tl, t)
+        captions(cv, tl, t, ep['cap_key'])
         # top series tag for the first 1.8 s
-        if t < 1.8: text_outlined(cv, 'WOULD MEATBALL SURVIVE? #3', W/2, 150, 54, '#ffffff', '#000', 10, alpha=int(255*clamp((1.8 - t)/0.3)))
+        if t < 1.8 and not V3: text_outlined(cv, 'WOULD MEATBALL SURVIVE? #3', W/2, 150, 54, '#ffffff', '#000', 10, alpha=int(255*clamp((1.8 - t)/0.3)))
         label(cv, label_text)
         if stills: Image.fromarray(surf.makeImageSnapshot().toarray()[:, :, [2, 1, 0]]).save(f'{out}.still_{t:05.2f}.png'); continue
         enc.stdin.write(surf.makeImageSnapshot().tobytes())

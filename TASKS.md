@@ -404,6 +404,15 @@ Claude, in order:
 - New: port the rig restyle to `mascot.py`/`drawn_creatures.py`: screen-constant 11/7 px lines, the v2 palette, gradient shading and fur edges (`characters.py` is the reference).
 - New: retarget the queue to the lane. Hold queued news, CIA and pet Shorts (`data/held.csv`) and fill their slots with WMS or house-bug Shorts, soonest first, keeping 3 a day. Bug long-forms go back on the long-form list.
 
+**Update Nov 15, 9:10 PM ET: outlier study and the 10% CTR goal (Moondog88: "look at outliers, I want 10% click ratio").** Evidence and the checklist are in the spec (sections from "Outlier study" down to "Monetization timeline"). The v3 sample and v3 pairs are on Jarvis's box (`samples/v3_*`). Thumbnails and draft titles are in `channels/packaging/thumbs-v3/`. Claude, pipeline follow-ups in order:
+1. **Word-by-word caption highlight** in mb2 `captions()` and in `drawn.py`. The spoken word turns yellow at 1.08×. Clamp each group to 820 px wide and keep it inside x 90-900, y 1180-1500.
+2. **`postkit.py lint` packaging gate:** fail if a long-form title is over 55 characters, if the thumbnail has more than 3 words or no `_168.png`, if a description ends in a keyword list, if there are more than 5 hashtags, or if the first hook word isn't "You/Your" (warn only).
+3. **SRT upload file** from the TTS word timings for every YouTube upload (`postkit.py srt`).
+4. **v3 hook template in make-short:** the 3-way choice chips ("RUN / PLAY DEAD / FIGHT") and a 3-picture preview montage in the first 3 s (`render.py hybrid3`, `shots3()` and `choice_chips()` are the reference).
+5. **Description cleanup** on the 13 public long-forms (drafts only): remove the keyword lists and end with 3 hashtags from the spec's sets. Moondog88 applies them in Studio.
+6. **Hashtag sets per series** in `post-metadata` (spec "Post captions, descriptions and hashtags").
+7. **Weekly CTR log:** once Moondog88 shares Studio Reach screenshots, log impressions, CTR by traffic source and average view duration per long-form at day 7 in `data/ctr-log.csv`.
+
 ## Production log
 
 When Claude's usage runs out, Etsy Studio does the production work (listing copy, design files, product prep) and logs each item here: date, what was done, file paths, and what Claude should pick up next.
