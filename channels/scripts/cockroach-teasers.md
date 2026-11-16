@@ -118,7 +118,7 @@ When a date is approved, weekday Shorts follow the usual 16:00 ET hour and Sunda
 
 - Every loop line includes the 3–5 word promise 'Full cockroach video linked.' The long-form is not live until Wed 12/9; that flag is on each teaser and in this file.
 
-- All three hooks are under 12 words. The 30,000 hook was rewritten 11/16 to 'German roach mom and offspring can make over 30,000 a year.' It keeps 'and her offspring', because the pack (CR22) bars 'one female' alone.
+- All three hooks are under 12 words. The 30,000 hook was rewritten 11/16 to 'German roach mom and offspring can make over 30,000 a year.' It keeps the offspring and spoken 'can', because the pack (CR22) bars 'one female' alone.
 
 - The crack teaser hook is 12 words and adds 'in your home.' It is a German hide, not a squeeze. The American 1/10-inch squeeze is named only as the thing not to mix with it, and is tagged American.
 

@@ -2940,8 +2940,8 @@
   "_open_questions": [
     {
       "line": "s0.l0 / s10.l4 (CR22)",
-      "question": "Hook rewritten 11/16 (Moondog88 found the old one awkward): 'German roach mom and offspring can make over 30,000 a year.' (11 words). It speaks German, female and her offspring, over 30,000, and a year, all from UC IPM. Spoken 'can' and 'your kitchen' move to on-screen chips (YOUR KITCHEN; CAN), with the kitchen close-up on frame 0. The description keeps UC IPM's full sentence. The verdict callback matches with 'in a year'.",
-      "fallback": "To speak 'can': 'One German roach and her offspring can top 30,000 yearly' (11), but Research flagged 'top' as looser than 'over'."
+      "question": "Hook rewritten 11/16 (Moondog88 found the old one awkward): 'German roach mom and offspring can make over 30,000 a year.' (11 words). Research 11/16 required spoken 'can'. It speaks German, mom (one female) and offspring, can, make (UC IPM's 'produce'), over 30,000, and a year; Research PASS 11/16, all from UC IPM. 'Your kitchen' moves to an on-screen chip, with the kitchen close-up on frame 0. The callback speaks the official 'can produce over 30,000 in a year'.",
+      "fallback": "Research 11/16 wording: 'German roach mom and offspring can make over 30,000 a year.' (11)"
     },
     {
       "line": "s7.* (CR15, CR13, CR14, CR16)",
