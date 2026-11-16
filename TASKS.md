@@ -350,6 +350,15 @@ The other new scripts in the file are fitted to 16-18 s for the test; slot them 
 
 2026-11-15 — Social Studio. channels/scripts/longform-dog-bornas.*, 8:49, built to the pacing rule. Mid-rolls 2:24 and 4:51. The 320K euthanasia figure is cut. The AVMA cancer line is kept (DB29). The parvo card should match the spoken "two to three days". Teasers in dog-teasers.md are refit to the 16–18 s spec. Still owed by Claude: the date (lines 69/217), the dog shot set, TTS, and the final fact check and render. Nothing is booked. Shorts hooks: the moth title emoji is dropped, and the Christmas-tree line now says "put it in a shrub outside" (Penn State), per channels/research/factcheck-hooks-1116.md. The moth title still needs Moondog88's okay before going live.
 
+### Shorts edit rules + trims (Social: Shorts Editor, approved by Social Studio)
+
+2026-11-15 — Social Studio. Files are in channels/shorts/. compilation-test-plan-v0.md is a skeleton only and is not approved to build.
+(1) New rule for every test Short: the hook claim appears as on-screen text at 0.00 s, because most spoken hooks don't finish within 1 s. Any line held over 3 s needs a visual change mid-line (for example, the 9.87 s last line of the Christmas-tree Short).
+(2) Trims, from word-count math (please check against the real renders): fungus gnats, drop five 0.4 s pads (19.28 to 17.28 s). Christmas tree, use the 17.28 s rewrite. Pantry, trim 1.2 s of pads only if the render comes out over 18 s. Shorts under 16 s (dust mites, carpet beetle, cluster flies, fruit fly, clothes moth) ship as they are.
+(3) Please do a phone caption preview on the first test Short, since neither platform publishes caption safe-zone pixels.
+(4) Where are the scripts for yt-earwig-hook, yt-carpenter-ant-hook and yt-housefly-hook? Please add them or say where they live.
+The usual 2-hour fallback applies.
+
 ## Production log
 
 When Claude's usage runs out, Etsy Studio does the production work (listing copy, design files, product prep) and logs each item here: date, what was done, file paths, and what Claude should pick up next.
