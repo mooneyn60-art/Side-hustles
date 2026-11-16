@@ -2031,40 +2031,40 @@
         },
         {
           "id": "s6.l6",
-          "say": "Common lookalikes almost all have eight eyes, and can be quickly eliminated. Spitting spiders have a similar six-eye pattern, but also have spots or lines and a strongly domed head region.",
+          "say": "Common lookalikes almost all have eight eyes, and can be quickly eliminated. Spitting spiders have a similar six-eye pattern, but also have spots or lines and a strongly domed head-and-chest.",
           "src": "HS49",
           "source_tag": "UC IPM",
-          "vis": "A row of tan lookalikes / Each shows eight eyes and slides out / A spitting spider beside a recluse: spots or lines, a strongly domed head region / The recluse stays plain and flat-headed",
+          "vis": "A row of tan lookalikes / Each shows eight eyes and slides out / A spitting spider beside a recluse: spots or lines, a strongly domed head-and-chest / The recluse stays plain and flat-headed",
           "shots": [
             {
               "t": 390.2,
-              "dur": 1.91,
+              "dur": 1.85,
               "vis": "A row of tan lookalikes"
             },
             {
-              "t": 392.1,
-              "dur": 1.91,
+              "t": 392.0,
+              "dur": 1.85,
               "vis": "A row of tan lookalikes"
             },
             {
-              "t": 394.0,
-              "dur": 1.91,
+              "t": 393.9,
+              "dur": 1.85,
               "vis": "Each shows eight eyes and slides out"
             },
             {
-              "t": 395.9,
-              "dur": 1.91,
-              "vis": "A spitting spider beside a recluse: spots or lines, a strongly domed head region"
+              "t": 395.7,
+              "dur": 1.85,
+              "vis": "A spitting spider beside a recluse: spots or lines, a strongly domed head-and-chest"
             },
             {
-              "t": 397.8,
-              "dur": 1.91,
+              "t": 397.6,
+              "dur": 1.85,
               "vis": "The recluse stays plain and flat-headed"
             }
           ],
           "card": "LOOKALIKES: ALMOST ALL HAVE 8 EYES",
           "_t": 390.2,
-          "_dur": 9.56,
+          "_dur": 9.25,
           "_beats": ""
         },
         {
@@ -2075,33 +2075,33 @@
           "vis": "A shoe or folded cloth traps a recluse against skin, cut before gore / A dense indoor cluster, in range / One lone lookalike is not treated as an infestation",
           "shots": [
             {
-              "t": 399.7,
+              "t": 399.4,
               "dur": 1.97,
               "vis": "A shoe or folded cloth traps a recluse against skin, cut before gore"
             },
             {
-              "t": 401.7,
+              "t": 401.4,
               "dur": 1.97,
               "vis": "A shoe or folded cloth traps a recluse against skin, cut before gore"
             },
             {
-              "t": 403.7,
+              "t": 403.4,
               "dur": 1.97,
               "vis": "A dense indoor cluster, in range"
             },
             {
-              "t": 405.7,
+              "t": 405.4,
               "dur": 1.97,
               "vis": "A dense indoor cluster, in range"
             },
             {
-              "t": 407.6,
+              "t": 407.3,
               "dur": 1.97,
               "vis": "One lone lookalike is not treated as an infestation"
             }
           ],
           "card": "NO BITE WITHOUT COUNTERPRESSURE; IF YOU FIND THEM, YOU FIND MANY",
-          "_t": 399.7,
+          "_t": 399.4,
           "_dur": 9.87,
           "_beats": ""
         },
@@ -2113,33 +2113,33 @@
           "vis": "A ten-percent bar, tagged BROWN RECLUSE BITES, not spider bites / The remaining bar: inflammation, heal well / Card: ABOUT 10% / VAST MAJORITY",
           "shots": [
             {
-              "t": 409.6,
+              "t": 409.3,
               "dur": 1.79,
               "vis": "A ten-percent bar, tagged BROWN RECLUSE BITES, not spider bites"
             },
             {
-              "t": 411.4,
+              "t": 411.1,
               "dur": 1.79,
               "vis": "A ten-percent bar, tagged BROWN RECLUSE BITES, not spider bites"
             },
             {
-              "t": 413.2,
+              "t": 412.9,
               "dur": 1.79,
               "vis": "The remaining bar: inflammation, heal well"
             },
             {
-              "t": 415.0,
+              "t": 414.7,
               "dur": 1.79,
               "vis": "The remaining bar: inflammation, heal well"
             },
             {
-              "t": 416.8,
+              "t": 416.5,
               "dur": 1.79,
               "vis": "Card: ABOUT 10% / VAST MAJORITY"
             }
           ],
           "card": "ABOUT 10% OF BROWN RECLUSE BITES: MODERATE OR GREATER TISSUE DAMAGE",
-          "_t": 409.6,
+          "_t": 409.3,
           "_dur": 8.95,
           "_beats": "P"
         },
@@ -2151,34 +2151,34 @@
           "vis": "Chip: DEATHS IN CHILDREN, EXTREMELY RARE / Chip: IF ACCURATELY DIAGNOSED / Card: IF A BITE IS SUSPECTED, STILL SEEK CARE",
           "shots": [
             {
-              "t": 418.6,
+              "t": 418.3,
               "dur": 1.97,
               "vis": "Chip: DEATHS IN CHILDREN, EXTREMELY RARE"
             },
             {
-              "t": 420.5,
+              "t": 420.2,
               "dur": 1.97,
               "vis": "Chip: DEATHS IN CHILDREN, EXTREMELY RARE"
             },
             {
-              "t": 422.5,
+              "t": 422.2,
               "dur": 1.97,
               "vis": "Chip: IF ACCURATELY DIAGNOSED"
             },
             {
-              "t": 424.5,
+              "t": 424.2,
               "dur": 1.97,
               "vis": "Chip: IF ACCURATELY DIAGNOSED"
             },
             {
-              "t": 426.5,
+              "t": 426.1,
               "dur": 1.97,
               "vis": "Card: IF A BITE IS SUSPECTED, STILL SEEK CARE"
             }
           ],
           "card": "IF A BITE IS SUSPECTED, STILL SEEK CARE",
           "meter": 22,
-          "_t": 418.6,
+          "_t": 418.3,
           "_dur": 9.87,
           "_beats": "P"
         },
@@ -2190,23 +2190,23 @@
           "vis": "A plain, non-graphic lesion icon / Card: WILL REQUIRE PROFESSIONAL MEDICAL ATTENTION / This card sits beside the about-10% card, not instead of it",
           "shots": [
             {
-              "t": 428.4,
+              "t": 428.1,
               "dur": 1.95,
               "vis": "A plain, non-graphic lesion icon"
             },
             {
-              "t": 430.4,
+              "t": 430.1,
               "dur": 1.95,
               "vis": "Card: WILL REQUIRE PROFESSIONAL MEDICAL ATTENTION"
             },
             {
-              "t": 432.3,
+              "t": 432.0,
               "dur": 1.95,
               "vis": "This card sits beside the about-10% card, not instead of it"
             }
           ],
           "card": "VENOM CAN CAUSE A SEVERE LESION; THAT LESION NEEDS CARE",
-          "_t": 428.4,
+          "_t": 428.1,
           "_dur": 5.86,
           "_beats": ""
         },
@@ -2218,33 +2218,33 @@
           "vis": "Card: COMMONLY MISDIAGNOSED / Chip: ONE NATIONAL STUDY, 11 FACILITIES / 29% bar: patients presenting for spider bite, MRSA",
           "shots": [
             {
-              "t": 434.3,
+              "t": 434.0,
               "dur": 1.91,
               "vis": "Card: COMMONLY MISDIAGNOSED"
             },
             {
-              "t": 436.2,
+              "t": 435.9,
               "dur": 1.91,
               "vis": "Card: COMMONLY MISDIAGNOSED"
             },
             {
-              "t": 438.1,
+              "t": 437.8,
               "dur": 1.91,
               "vis": "Chip: ONE NATIONAL STUDY, 11 FACILITIES"
             },
             {
-              "t": 440.0,
+              "t": 439.7,
               "dur": 1.91,
               "vis": "Chip: ONE NATIONAL STUDY, 11 FACILITIES"
             },
             {
-              "t": 441.9,
+              "t": 441.6,
               "dur": 1.91,
               "vis": "29% bar: patients presenting for spider bite, MRSA"
             }
           ],
           "card": "ONE STUDY: 29% OF 'SPIDER BITE' CASES WERE MRSA",
-          "_t": 434.3,
+          "_t": 434.0,
           "_dur": 9.56,
           "_beats": "P"
         },
@@ -2256,23 +2256,23 @@
           "vis": "A blurry photo is stamped DO NOT GUESS / A wound icon is stamped GET A REAL DIAGNOSIS",
           "shots": [
             {
-              "t": 443.9,
+              "t": 443.5,
               "dur": 1.75,
               "vis": "A blurry photo is stamped DO NOT GUESS"
             },
             {
-              "t": 445.6,
+              "t": 445.3,
               "dur": 1.75,
               "vis": "A blurry photo is stamped DO NOT GUESS"
             },
             {
-              "t": 447.4,
+              "t": 447.0,
               "dur": 1.75,
               "vis": "A wound icon is stamped GET A REAL DIAGNOSIS"
             }
           ],
           "card": "GET A REAL DIAGNOSIS; DO NOT GUESS A WOUND",
-          "_t": 443.9,
+          "_t": 443.5,
           "_dur": 5.24,
           "_beats": "R"
         }
@@ -2281,7 +2281,7 @@
     {
       "chapter": "6. What to do",
       "chip": "WHAT TO DO",
-      "_start": 449.4,
+      "_start": 449.1,
       "lines": [
         {
           "id": "s7.l0",
@@ -2289,13 +2289,13 @@
           "vis": "Voiced chapter card, plain background",
           "shots": [
             {
-              "t": 449.4,
+              "t": 449.1,
               "dur": 1.23,
               "vis": "Voiced chapter card, plain background"
             }
           ],
           "card": "WHAT TO DO",
-          "_t": 449.4,
+          "_t": 449.1,
           "_dur": 1.23,
           "_beats": ""
         },
@@ -2307,38 +2307,38 @@
           "vis": "A clear photo, a coin or ruler in the frame / Chip: IF YOU CAN DO IT SAFELY / A county Cooperative Extension office door / No one handles a widow or recluse with bare hands / A blurry photo is rejected",
           "shots": [
             {
-              "t": 450.6,
+              "t": 450.3,
               "dur": 1.8,
               "vis": "A clear photo, a coin or ruler in the frame"
             },
             {
-              "t": 452.4,
+              "t": 452.1,
               "dur": 1.8,
               "vis": "A clear photo, a coin or ruler in the frame"
             },
             {
-              "t": 454.2,
+              "t": 453.9,
               "dur": 1.8,
               "vis": "Chip: IF YOU CAN DO IT SAFELY"
             },
             {
-              "t": 456.0,
+              "t": 455.7,
               "dur": 1.8,
               "vis": "A county Cooperative Extension office door"
             },
             {
-              "t": 457.8,
+              "t": 457.5,
               "dur": 1.8,
               "vis": "No one handles a widow or recluse with bare hands"
             },
             {
-              "t": 459.6,
+              "t": 459.3,
               "dur": 1.8,
               "vis": "A blurry photo is rejected"
             }
           ],
           "card": "CLEAR PHOTO WITH A SIZE REFERENCE; COUNTY EXTENSION OFFICE",
-          "_t": 450.6,
+          "_t": 450.3,
           "_dur": 10.8,
           "_beats": ""
         },
@@ -2350,23 +2350,23 @@
           "vis": "A jar of alcohol is stamped NEVER MAIL / Card: VIOLATION OF POSTAL REGULATIONS",
           "shots": [
             {
-              "t": 461.4,
+              "t": 461.1,
               "dur": 1.34,
               "vis": "A jar of alcohol is stamped NEVER MAIL"
             },
             {
-              "t": 462.8,
+              "t": 462.5,
               "dur": 1.34,
               "vis": "A jar of alcohol is stamped NEVER MAIL"
             },
             {
-              "t": 464.1,
+              "t": 463.8,
               "dur": 1.34,
               "vis": "Card: VIOLATION OF POSTAL REGULATIONS"
             }
           ],
           "card": "NEVER MAIL A SPIDER IN ALCOHOL",
-          "_t": 461.4,
+          "_t": 461.1,
           "_dur": 4.01,
           "_beats": ""
         },
@@ -2378,53 +2378,53 @@
           "vis": "Trigger chip: IF A SPIDER BITES YOU / Stay calm / Identify only if it is possible to do so safely / Wash with soap and water / A cold cloth or ice / Elevate if possible / DO NOT ATTEMPT TO REMOVE VENOM / SEEK PROFESSIONAL MEDICAL ATTENTION",
           "shots": [
             {
-              "t": 465.4,
+              "t": 465.1,
               "dur": 1.89,
               "vis": "Trigger chip: IF A SPIDER BITES YOU"
             },
             {
-              "t": 467.3,
+              "t": 467.0,
               "dur": 1.89,
               "vis": "Trigger chip: IF A SPIDER BITES YOU"
             },
             {
-              "t": 469.2,
+              "t": 468.9,
               "dur": 1.89,
               "vis": "Stay calm"
             },
             {
-              "t": 471.1,
+              "t": 470.8,
               "dur": 1.89,
               "vis": "Identify only if it is possible to do so safely"
             },
             {
-              "t": 473.0,
+              "t": 472.7,
               "dur": 1.89,
               "vis": "Wash with soap and water"
             },
             {
-              "t": 474.9,
+              "t": 474.6,
               "dur": 1.89,
               "vis": "A cold cloth or ice"
             },
             {
-              "t": 476.8,
+              "t": 476.4,
               "dur": 1.89,
               "vis": "Elevate if possible"
             },
             {
-              "t": 478.6,
+              "t": 478.3,
               "dur": 1.89,
               "vis": "DO NOT ATTEMPT TO REMOVE VENOM"
             },
             {
-              "t": 480.5,
+              "t": 480.2,
               "dur": 1.89,
               "vis": "SEEK PROFESSIONAL MEDICAL ATTENTION"
             }
           ],
           "card": "IF BITTEN: WASH, COLD, ELEVATE; DO NOT REMOVE VENOM; SEEK CARE",
-          "_t": 465.4,
+          "_t": 465.1,
           "_dur": 16.97,
           "_beats": "P"
         },
@@ -2436,33 +2436,33 @@
           "vis": "Trigger chip: IF THE BITE CAUSES AN UNUSUAL OR SEVERE REACTION / Icons: physician, hospital, poison control / Card: POISON HELP 1-800-222-1222",
           "shots": [
             {
-              "t": 482.4,
+              "t": 482.1,
               "dur": 1.73,
               "vis": "Trigger chip: IF THE BITE CAUSES AN UNUSUAL OR SEVERE REACTION"
             },
             {
-              "t": 484.1,
+              "t": 483.8,
               "dur": 1.73,
               "vis": "Trigger chip: IF THE BITE CAUSES AN UNUSUAL OR SEVERE REACTION"
             },
             {
-              "t": 485.9,
+              "t": 485.6,
               "dur": 1.73,
               "vis": "Icons: physician, hospital, poison control"
             },
             {
-              "t": 487.6,
+              "t": 487.3,
               "dur": 1.73,
               "vis": "Icons: physician, hospital, poison control"
             },
             {
-              "t": 489.3,
+              "t": 489.0,
               "dur": 1.73,
               "vis": "Card: POISON HELP 1-800-222-1222"
             }
           ],
           "card": "IF UNUSUAL OR SEVERE: 1-800-222-1222",
-          "_t": 482.4,
+          "_t": 482.1,
           "_dur": 8.64,
           "_beats": ""
         },
@@ -2474,23 +2474,23 @@
           "vis": "Range chip: MIDWESTERN AND SOUTHERN UNITED STATES / A closet, a shoe, an attic / Someone shakes out a shoe and a towel before use",
           "shots": [
             {
-              "t": 491.0,
+              "t": 490.7,
               "dur": 1.95,
               "vis": "Range chip: MIDWESTERN AND SOUTHERN UNITED STATES"
             },
             {
-              "t": 493.0,
+              "t": 492.7,
               "dur": 1.95,
               "vis": "A closet, a shoe, an attic"
             },
             {
-              "t": 495.0,
+              "t": 494.6,
               "dur": 1.95,
               "vis": "Someone shakes out a shoe and a towel before use"
             }
           ],
           "card": "IN RANGE: INSPECT OR SHAKE OUT CLOTHING, SHOES, TOWELS",
-          "_t": 491.0,
+          "_t": 490.7,
           "_dur": 5.86,
           "_beats": ""
         },
@@ -2502,28 +2502,28 @@
           "vis": "A house spider eating a pest insect / Card: PESTICIDES ARE NOT GENERALLY NEEDED / Meatball gives the house spider a tiny thumbs-up / No homemade mix is shown",
           "shots": [
             {
-              "t": 496.9,
+              "t": 496.6,
               "dur": 1.16,
               "vis": "A house spider eating a pest insect"
             },
             {
-              "t": 498.1,
+              "t": 497.8,
               "dur": 1.16,
               "vis": "Card: PESTICIDES ARE NOT GENERALLY NEEDED"
             },
             {
-              "t": 499.2,
+              "t": 498.9,
               "dur": 1.16,
               "vis": "Meatball gives the house spider a tiny thumbs-up"
             },
             {
-              "t": 500.4,
+              "t": 500.1,
               "dur": 1.16,
               "vis": "No homemade mix is shown"
             }
           ],
           "card": "MOSTLY BENEFICIAL; PESTICIDES ARE NOT GENERALLY NEEDED",
-          "_t": 496.9,
+          "_t": 496.6,
           "_dur": 4.63,
           "_beats": ""
         },
@@ -2533,22 +2533,22 @@
           "vis": "Meatball prints a clear photo, a coin beside the spider / Sauce sits on the printer",
           "shots": [
             {
-              "t": 501.5,
+              "t": 501.2,
               "dur": 1.85,
               "vis": "Meatball prints a clear photo, a coin beside the spider"
             },
             {
-              "t": 503.4,
+              "t": 503.1,
               "dur": 1.85,
               "vis": "Meatball prints a clear photo, a coin beside the spider"
             },
             {
-              "t": 505.2,
+              "t": 504.9,
               "dur": 1.85,
               "vis": "Sauce sits on the printer"
             }
           ],
-          "_t": 501.5,
+          "_t": 501.2,
           "_dur": 5.55,
           "_beats": "CJS"
         }
@@ -2557,7 +2557,7 @@
     {
       "chapter": "The verdict",
       "chip": "",
-      "_start": 507.4,
+      "_start": 507.1,
       "lines": [
         {
           "id": "s8.l0",
@@ -2565,17 +2565,17 @@
           "vis": "Two columns appear: LEAVE ALONE and GET IDENTIFIED",
           "shots": [
             {
-              "t": 507.4,
+              "t": 507.1,
               "dur": 1.08,
               "vis": "Two columns appear: LEAVE ALONE and GET IDENTIFIED"
             },
             {
-              "t": 508.5,
+              "t": 508.2,
               "dur": 1.08,
               "vis": "Two columns appear: LEAVE ALONE and GET IDENTIFIED"
             }
           ],
-          "_t": 507.4,
+          "_t": 507.1,
           "_dur": 2.16,
           "_beats": "R"
         },
@@ -2587,27 +2587,27 @@
           "vis": "LEAVE ALONE column: cellar tile / Jumper tile / Wolf-spider tile / PNW giant house spider, up-to-4-inch chip",
           "shots": [
             {
-              "t": 509.5,
+              "t": 509.2,
               "dur": 1.7,
               "vis": "LEAVE ALONE column: cellar tile"
             },
             {
-              "t": 511.2,
+              "t": 510.9,
               "dur": 1.7,
               "vis": "Jumper tile"
             },
             {
-              "t": 512.9,
+              "t": 512.6,
               "dur": 1.7,
               "vis": "Wolf-spider tile"
             },
             {
-              "t": 514.6,
+              "t": 514.3,
               "dur": 1.7,
               "vis": "PNW giant house spider, up-to-4-inch chip"
             }
           ],
-          "_t": 509.5,
+          "_t": 509.2,
           "_dur": 6.79,
           "_beats": ""
         },
@@ -2619,27 +2619,27 @@
           "vis": "GET IDENTIFIED column: western black widow and brown widow / False black widow and noble false widow / Brown recluse, six-eye card",
           "shots": [
             {
-              "t": 516.3,
+              "t": 516.0,
               "dur": 1.54,
               "vis": "GET IDENTIFIED column: western black widow and brown widow"
             },
             {
-              "t": 517.9,
+              "t": 517.6,
               "dur": 1.54,
               "vis": "GET IDENTIFIED column: western black widow and brown widow"
             },
             {
-              "t": 519.4,
+              "t": 519.1,
               "dur": 1.54,
               "vis": "False black widow and noble false widow"
             },
             {
-              "t": 521.0,
+              "t": 520.7,
               "dur": 1.54,
               "vis": "Brown recluse, six-eye card"
             }
           ],
-          "_t": 516.3,
+          "_t": 516.0,
           "_dur": 6.17,
           "_beats": ""
         },
@@ -2651,23 +2651,23 @@
           "vis": "The jaws card from the opening returns / The promise line returns",
           "shots": [
             {
-              "t": 522.5,
+              "t": 522.2,
               "dur": 1.34,
               "vis": "The jaws card from the opening returns"
             },
             {
-              "t": 523.8,
+              "t": 523.5,
               "dur": 1.34,
               "vis": "The jaws card from the opening returns"
             },
             {
-              "t": 525.2,
+              "t": 524.9,
               "dur": 1.34,
               "vis": "The promise line returns"
             }
           ],
           "card": "LEAVE THEM ALONE IF YOU CAN TELL THEM APART",
-          "_t": 522.5,
+          "_t": 522.2,
           "_dur": 4.01,
           "_beats": "P"
         },
@@ -2679,27 +2679,27 @@
           "vis": "Callback: the same drawn recluse from 0:00, then the Lenexa house / The 2,055 card / The two page cards stay separate, not merged",
           "shots": [
             {
-              "t": 526.5,
+              "t": 526.2,
               "dur": 1.54,
               "vis": "Callback: the same drawn recluse from 0:00, then the Lenexa house"
             },
             {
-              "t": 528.1,
+              "t": 527.7,
               "dur": 1.54,
               "vis": "Callback: the same drawn recluse from 0:00, then the Lenexa house"
             },
             {
-              "t": 529.6,
+              "t": 529.3,
               "dur": 1.54,
               "vis": "The 2,055 card"
             },
             {
-              "t": 531.1,
+              "t": 530.8,
               "dur": 1.54,
               "vis": "The two page cards stay separate, not merged"
             }
           ],
-          "_t": 526.5,
+          "_t": 526.2,
           "_dur": 6.17,
           "_beats": "R"
         },
@@ -2709,29 +2709,29 @@
           "vis": "Meatball stamps LEAVE MOST, IF YOU CAN TELL THEM APART / Sauce curls up on the stamp pad",
           "shots": [
             {
-              "t": 532.7,
+              "t": 532.4,
               "dur": 1.85,
               "vis": "Meatball stamps LEAVE MOST, IF YOU CAN TELL THEM APART"
             },
             {
-              "t": 534.5,
+              "t": 534.2,
               "dur": 1.85,
               "vis": "Meatball stamps LEAVE MOST, IF YOU CAN TELL THEM APART"
             },
             {
-              "t": 536.4,
+              "t": 536.1,
               "dur": 1.85,
               "vis": "Sauce curls up on the stamp pad"
             },
             {
-              "t": 538.2,
+              "t": 537.9,
               "dur": 1.85,
               "vis": "Sauce curls up on the stamp pad"
             }
           ],
           "card": "OUR VERDICT: LEAVE MOST, IF YOU CAN TELL THEM APART",
           "meter": 80,
-          "_t": 532.7,
+          "_t": 532.4,
           "_dur": 7.4,
           "_beats": "CJ"
         },
@@ -2741,17 +2741,17 @@
           "vis": "Meatball points at the camera / End screen: 3 Bugs in Your House You Should Never Kill video tile; Meatball points at it",
           "shots": [
             {
-              "t": 540.1,
+              "t": 539.8,
               "dur": 1.39,
               "vis": "Meatball points at the camera"
             },
             {
-              "t": 541.5,
+              "t": 541.2,
               "dur": 1.39,
               "vis": "End screen: 3 Bugs in Your House You Should Never Kill video tile; Meatball points at it"
             }
           ],
-          "_t": 540.1,
+          "_t": 539.8,
           "_dur": 2.78,
           "_beats": "CR"
         }
@@ -2784,7 +2784,7 @@
   ],
   "_changelog": [
     "First draft of the house-spider ID long-form for Wed 12/2, written to the 11/15 plan-update rules and Social Studio's fact-check notes. Format reference: 3 Bugs in Your House You Should Never Kill. Build model: the crocodile born-as generators, copied into /workspace/drafts/.spider-build/ and updated for the 1–2 s shot rule.",
-    "Runtime 9:14.9 at 194.5 wpm, 1752 words. Two primary mid-rolls, after the jumping-spider chapter at 2:36.5 and after the false-widow chapter at 5:44.7, 3:08.1 apart. Alternates after the cellar-spider chapter and the wolf / giant-house-spider chapter. No mid-roll after the recluse chapter or What to do, because those are the medical and instruction clusters.",
+    "Runtime 9:14.6 at 194.5 wpm, 1751 words. Two primary mid-rolls, after the jumping-spider chapter at 2:36.5 and after the false-widow chapter at 5:44.7, 3:08.1 apart. Alternates after the cellar-spider chapter and the wolf / giant-house-spider chapter. No mid-roll after the recluse chapter or What to do, because those are the medical and instruction clusters.",
     "HS42 and HS53 unused. Description-only this pass: HS40 yellowjacket comparison (Steatoda grossa only); HS55 90% complement; HS57 necrotizing 20–80% condition; HS17/HS19 three-animal mix-up and 'not unusually strong'; HS24 elevated 50-length figure; HS15 egg-sac details; HS25 hemolymph / dragline; HS31 wolf body length; HS33 indoor-invader line; HS66 extremely-rare death line; HS68 rabid-wolf-spider name; HS70 female rarely eats the male; HS45 pollen-grain egg sac.",
     "First draft. Facts: /workspace/drafts/facts/house-spiders-id.md (HS1–HS72). Do not use HS42 or HS53. Do use HS51–HS52, kept separate.",
     "Mid-rolls: two primaries, after 2. Jumping spider at 2:36.5 and after 4. False widow vs black widow at 5:44.7. Those two are 3:08.1 apart. Alternates after 1. Cellar spider and 3. Wolf spider and giant house spider.",
@@ -2861,7 +2861,7 @@
     "No spoken countdowns; every chapter card is a voiced 'Number X' line, except the cold open, halfway, what-to-do, and verdict; chapter gaps are 0.3 s.",
     "Pinned comment matches the debate prompt.",
     "Banned words: no TRUE, FALSE, Myth, Believe, Cartoons, Lied, or 'Did you know' as claims. 'False widow' is the common name of Steatoda, not a TRUE/FALSE card.",
-    "Length: 9:14.9 at 194.5 wpm, inside the 8:30–9:15 aim, above 8:00; about 9:58.4 at ~180 wpm."
+    "Length: 9:14.6 at 194.5 wpm, inside the 8:30–9:15 aim, above 8:00; about 9:58.1 at ~180 wpm."
   ],
   "_notes": [
     "Noodle lines (2): s0.l11, s1.l8. Planted at s0.l11 as 'his dog, Noodle.' He walks under the corner web. He is never told to catch or handle a spider.",
@@ -2885,18 +2885,18 @@
   "end_label_short": "3 BUGS YOU SHOULD NEVER KILL",
   "_timing": {
     "wpm": 194.5,
-    "words": 1752,
+    "words": 1751,
     "chapter_gap_s": 0.3,
-    "speech_s": 542.9,
-    "runtime_s": 554.9,
-    "runtime": "9:14.9",
+    "speech_s": 542.6,
+    "runtime_s": 554.6,
+    "runtime": "9:14.6",
     "hook": "One Kansas home had 2,055 brown recluses.",
     "hook_words": 7,
     "promise": "Most house spiders can be left alone, once you identify them.",
     "promise_spoken_by_s": 5.55,
     "first_joke_s": 58.0,
     "comment_prompt_s": 235.3,
-    "speech_midpoint_s": 271.4,
+    "speech_midpoint_s": 271.3,
     "mild_words": 4,
     "mild_word_lines": [
       {
@@ -2922,9 +2922,9 @@
     "shots_under_2s": 320,
     "shots_over_2s": 0,
     "max_gap_s": {
-      "peak": 40.1,
-      "character": 161.9,
-      "retention": 204.2
+      "peak": 39.8,
+      "character": 161.6,
+      "retention": 203.9
     }
   }
 }

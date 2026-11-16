@@ -13,7 +13,7 @@
 ## Changelog (2026-11-15 evening ET, first draft)
 
 - First draft of the house-spider ID long-form for Wed 12/2, written to the 11/15 plan-update rules and Social Studio's fact-check notes. Format reference: 3 Bugs in Your House You Should Never Kill. Build model: the crocodile born-as generators, copied into /workspace/drafts/.spider-build/ and updated for the 1–2 s shot rule.
-- Runtime 9:14.9 at 194.5 wpm, 1752 words. Two primary mid-rolls, after the jumping-spider chapter at 2:36.5 and after the false-widow chapter at 5:44.7, 3:08.1 apart. Alternates after the cellar-spider chapter and the wolf / giant-house-spider chapter. No mid-roll after the recluse chapter or What to do, because those are the medical and instruction clusters.
+- Runtime 9:14.6 at 194.5 wpm, 1751 words. Two primary mid-rolls, after the jumping-spider chapter at 2:36.5 and after the false-widow chapter at 5:44.7, 3:08.1 apart. Alternates after the cellar-spider chapter and the wolf / giant-house-spider chapter. No mid-roll after the recluse chapter or What to do, because those are the medical and instruction clusters.
 - HS42 and HS53 unused. Description-only this pass: HS40 yellowjacket comparison (Steatoda grossa only); HS55 90% complement; HS57 necrotizing 20–80% condition; HS17/HS19 three-animal mix-up and 'not unusually strong'; HS24 elevated 50-length figure; HS15 egg-sac details; HS25 hemolymph / dragline; HS31 wolf body length; HS33 indoor-invader line; HS66 extremely-rare death line; HS68 rabid-wolf-spider name; HS70 female rarely eats the male; HS45 pollen-grain egg sac.
 - First draft. Facts: /workspace/drafts/facts/house-spiders-id.md (HS1–HS72). Do not use HS42 or HS53. Do use HS51–HS52, kept separate.
 - Mid-rolls: two primaries, after 2. Jumping spider at 2:36.5 and after 4. False widow vs black widow at 5:44.7. Those two are 3:08.1 apart. Alternates after 1. Cellar spider and 3. Wolf spider and giant house spider.
@@ -23,9 +23,9 @@ Box draft, 2026-11-15 (ET). Nothing rendered, scheduled, posted, or pushed; git 
 
 **Target:** Wed 12/2, approved. Teaser slots TBD. Do not book or post from this pass.
 
-**Words:** 1752. **Runtime at 194.5 wpm:** 9:02.9 speech + 12 s end hold = **9:14.9** (about 9:58.4 at ~180 wpm).
+**Words:** 1751. **Runtime at 194.5 wpm:** 9:02.6 speech + 12 s end hold = **9:14.6** (about 9:58.1 at ~180 wpm).
 
-**Checks:** hook 7 words, ends 2.16 s; promise by 5.55 s; first joke 0:58.0; comment prompt 3:55.3 (speech midpoint 4:31.4); longest gaps: peaks 40.1 s, character 161.9 s, retention 204.2 s; 320 shots, longest 1.97 s (s6.l9), 320 under 2 s, 0 over 2.0 s; mild words 4.
+**Checks:** hook 7 words, ends 2.16 s; promise by 5.55 s; first joke 0:58.0; comment prompt 3:55.3 (speech midpoint 4:31.3); longest gaps: peaks 39.8 s, character 161.6 s, retention 203.9 s; 320 shots, longest 1.97 s (s6.l9), 320 under 2 s, 0 over 2.0 s; mild words 4.
 
 Segment IDs: s4 is the halfway re-hook, so 'Number four' is s5 and 'Number five' is s6, What to do is s7, verdict is s8. Beat tags: P peak, C character, R retention, J joke, S mild word, M the comment prompt.
 
@@ -49,8 +49,8 @@ No alternate hook. Social Studio picked this line, paired with the almost-no-bit
 | 3:51.3 | Halfway |  |
 | 4:04.0 | 4. False widow vs black widow | **PRIMARY** |
 | 5:44.8 | 5. Brown recluse |  |
-| 7:29.4 | 6. What to do |  |
-| 8:27.4 | The verdict |  |
+| 7:29.1 | 6. What to do |  |
+| 8:27.1 | The verdict |  |
 
 Primary breaks at about 2:36.5, 5:44.7. Alternates at 1. Cellar spider 1:57.7, 3. Wolf spider and giant house spider 3:51.2.
 
@@ -269,74 +269,74 @@ Primary breaks at about 2:36.5, 5:44.7. Alternates at 1. Cellar spider 1:57.7, 3
 - `6:22.2` `s6.l5` If you do not live in the area on the range map, it is highly unlikely you have a recluse. It is possible, but incredibly unlikely.  
   _[HS62 | TAG: UC Riverside, Rick Vetter | card: OUTSIDE THE MAP: HIGHLY UNLIKELY, NOT IMPOSSIBLE]_  
   Shots: (1.6s) The same map, uncolored areas dim → (1.6s) The same map, uncolored areas dim → (1.6s) Card: HIGHLY UNLIKELY → (1.6s) Card: HIGHLY UNLIKELY → (1.6s) Chip: POSSIBLE, BUT INCREDIBLY UNLIKELY
-- `6:30.2` `s6.l6` Common lookalikes almost all have eight eyes, and can be quickly eliminated. Spitting spiders have a similar six-eye pattern, but also have spots or lines and a strongly domed head region.  
+- `6:30.2` `s6.l6` Common lookalikes almost all have eight eyes, and can be quickly eliminated. Spitting spiders have a similar six-eye pattern, but also have spots or lines and a strongly domed head-and-chest.  
   _[HS49 | TAG: UC IPM | card: LOOKALIKES: ALMOST ALL HAVE 8 EYES]_  
-  Shots: (1.9s) A row of tan lookalikes → (1.9s) A row of tan lookalikes → (1.9s) Each shows eight eyes and slides out → (1.9s) A spitting spider beside a recluse: spots or lines, a strongly domed head region → (1.9s) The recluse stays plain and flat-headed
-- `6:39.7` `s6.l7` Recluses cannot bite humans without counterpressure, like if one is accidentally trapped against the skin. In the right environment, populations are usually dense: if you find them, you find many, not one.  
+  Shots: (1.9s) A row of tan lookalikes → (1.9s) A row of tan lookalikes → (1.9s) Each shows eight eyes and slides out → (1.9s) A spitting spider beside a recluse: spots or lines, a strongly domed head-and-chest → (1.9s) The recluse stays plain and flat-headed
+- `6:39.4` `s6.l7` Recluses cannot bite humans without counterpressure, like if one is accidentally trapped against the skin. In the right environment, populations are usually dense: if you find them, you find many, not one.  
   _[HS10, HS50 | TAG: CDC / NIOSH; UC IPM | card: NO BITE WITHOUT COUNTERPRESSURE; IF YOU FIND THEM, YOU FIND MANY]_  
   Shots: (2.0s) A shoe or folded cloth traps a recluse against skin, cut before gore → (2.0s) A shoe or folded cloth traps a recluse against skin, cut before gore → (2.0s) A dense indoor cluster, in range → (2.0s) A dense indoor cluster, in range → (2.0s) One lone lookalike is not treated as an infestation
-- `6:49.6` `s6.l8` About ten percent of brown recluse bites cause moderate or greater tissue damage and scarring, but the vast majority only result in inflammation and heal well without medical intervention.  
+- `6:49.3` `s6.l8` About ten percent of brown recluse bites cause moderate or greater tissue damage and scarring, but the vast majority only result in inflammation and heal well without medical intervention.  
   _[HS54 | TAG: UC IPM | card: ABOUT 10% OF BROWN RECLUSE BITES: MODERATE OR GREATER TISSUE DAMAGE | P]_  
   Shots: (1.8s) A ten-percent bar, tagged BROWN RECLUSE BITES, not spider bites → (1.8s) A ten-percent bar, tagged BROWN RECLUSE BITES, not spider bites → (1.8s) The remaining bar: inflammation, heal well → (1.8s) The remaining bar: inflammation, heal well → (1.8s) Card: ABOUT 10% / VAST MAJORITY
-- `6:58.6` `s6.l9` Deaths have been reported in children, but these are extremely rare, and can be prevented if accurately diagnosed and the proper medical treatment applied. If a bite is suspected, still seek care.  
+- `6:58.3` `s6.l9` Deaths have been reported in children, but these are extremely rare, and can be prevented if accurately diagnosed and the proper medical treatment applied. If a bite is suspected, still seek care.  
   _[HS54, HS64 | TAG: UC IPM | card: IF A BITE IS SUSPECTED, STILL SEEK CARE | meter 22 | P]_  
   Shots: (2.0s) Chip: DEATHS IN CHILDREN, EXTREMELY RARE → (2.0s) Chip: DEATHS IN CHILDREN, EXTREMELY RARE → (2.0s) Chip: IF ACCURATELY DIAGNOSED → (2.0s) Chip: IF ACCURATELY DIAGNOSED → (2.0s) Card: IF A BITE IS SUSPECTED, STILL SEEK CARE
-- `7:08.4` `s6.l10` The venom can cause a severe lesion by destroying skin tissue. This skin lesion will require professional medical attention.  
+- `7:08.1` `s6.l10` The venom can cause a severe lesion by destroying skin tissue. This skin lesion will require professional medical attention.  
   _[HS56 | TAG: CDC / NIOSH | card: VENOM CAN CAUSE A SEVERE LESION; THAT LESION NEEDS CARE]_  
   Shots: (1.9s) A plain, non-graphic lesion icon → (1.9s) Card: WILL REQUIRE PROFESSIONAL MEDICAL ATTENTION → (1.9s) This card sits beside the about-10% card, not instead of it
-- `7:14.3` `s6.l11` Necrotic wounds are commonly misdiagnosed as brown recluse bites. In one national study of eleven university-based medical facilities, twenty-nine percent of patients presenting for spider bite had MRSA as the cause.  
+- `7:14.0` `s6.l11` Necrotic wounds are commonly misdiagnosed as brown recluse bites. In one national study of eleven university-based medical facilities, twenty-nine percent of patients presenting for spider bite had MRSA as the cause.  
   _[HS57 | TAG: UC IPM | card: ONE STUDY: 29% OF 'SPIDER BITE' CASES WERE MRSA | P]_  
   Shots: (1.9s) Card: COMMONLY MISDIAGNOSED → (1.9s) Card: COMMONLY MISDIAGNOSED → (1.9s) Chip: ONE NATIONAL STUDY, 11 FACILITIES → (1.9s) Chip: ONE NATIONAL STUDY, 11 FACILITIES → (1.9s) 29% bar: patients presenting for spider bite, MRSA
-- `7:23.9` `s6.l12` So get a real diagnosis. Do not treat a wound as a recluse bite on a guess.  
+- `7:23.5` `s6.l12` So get a real diagnosis. Do not treat a wound as a recluse bite on a guess.  
   _[HS62, HS57 | TAG: UC Riverside, Rick Vetter; UC IPM | card: GET A REAL DIAGNOSIS; DO NOT GUESS A WOUND | R]_  
   Shots: (1.8s) A blurry photo is stamped DO NOT GUESS → (1.8s) A blurry photo is stamped DO NOT GUESS → (1.8s) A wound icon is stamped GET A REAL DIAGNOSIS
 
-### 7:29.4 6. What to do (WHAT TO DO)
-- `7:29.4` `s7.l0` Here's what to do.  
+### 7:29.1 6. What to do (WHAT TO DO)
+- `7:29.1` `s7.l0` Here's what to do.  
   _[card: WHAT TO DO]_  
   Shots: (1.2s) Voiced chapter card, plain background
-- `7:30.6` `s7.l1` Take a clear photo with a size reference, save the spider if you can do it safely, and take it to your county Cooperative Extension office. Use a ruler or coin next to the specimen.  
+- `7:30.3` `s7.l1` Take a clear photo with a size reference, save the spider if you can do it safely, and take it to your county Cooperative Extension office. Use a ruler or coin next to the specimen.  
   _[HS59, HS60 | TAG: UC IPM; University of Kentucky | card: CLEAR PHOTO WITH A SIZE REFERENCE; COUNTY EXTENSION OFFICE]_  
   Shots: (1.8s) A clear photo, a coin or ruler in the frame → (1.8s) A clear photo, a coin or ruler in the frame → (1.8s) Chip: IF YOU CAN DO IT SAFELY → (1.8s) A county Cooperative Extension office door → (1.8s) No one handles a widow or recluse with bare hands → (1.8s) A blurry photo is rejected
-- `7:41.4` `s7.l2` Never mail a spider in alcohol. That is a violation of postal regulations.  
+- `7:41.1` `s7.l2` Never mail a spider in alcohol. That is a violation of postal regulations.  
   _[HS60, HS61 | TAG: University of Kentucky; UC IPM | card: NEVER MAIL A SPIDER IN ALCOHOL]_  
   Shots: (1.3s) A jar of alcohol is stamped NEVER MAIL → (1.3s) A jar of alcohol is stamped NEVER MAIL → (1.3s) Card: VIOLATION OF POSTAL REGULATIONS
-- `7:45.4` `s7.l3` If a spider bites you, stay calm. Identify the type of spider if it is possible to do so safely. Wash the bite area with soap and water. Apply a cloth dampened with cold water or filled with ice. Elevate the bite area if possible. Do not attempt to remove venom. Seek professional medical attention.  
+- `7:45.1` `s7.l3` If a spider bites you, stay calm. Identify the type of spider if it is possible to do so safely. Wash the bite area with soap and water. Apply a cloth dampened with cold water or filled with ice. Elevate the bite area if possible. Do not attempt to remove venom. Seek professional medical attention.  
   _[HS63 | TAG: CDC / NIOSH | card: IF BITTEN: WASH, COLD, ELEVATE; DO NOT REMOVE VENOM; SEEK CARE | P]_  
   Shots: (1.9s) Trigger chip: IF A SPIDER BITES YOU → (1.9s) Trigger chip: IF A SPIDER BITES YOU → (1.9s) Stay calm → (1.9s) Identify only if it is possible to do so safely → (1.9s) Wash with soap and water → (1.9s) A cold cloth or ice → (1.9s) Elevate if possible → (1.9s) DO NOT ATTEMPT TO REMOVE VENOM → (1.9s) SEEK PROFESSIONAL MEDICAL ATTENTION
-- `8:02.4` `s7.l4` If the bite of any spider causes an unusual or severe reaction, contact a physician, hospital, or poison control center. In the United States, Poison Help is 1-800-222-1222.  
+- `8:02.1` `s7.l4` If the bite of any spider causes an unusual or severe reaction, contact a physician, hospital, or poison control center. In the United States, Poison Help is 1-800-222-1222.  
   _[HS64 | TAG: UC IPM | card: IF UNUSUAL OR SEVERE: 1-800-222-1222]_  
   Shots: (1.7s) Trigger chip: IF THE BITE CAUSES AN UNUSUAL OR SEVERE REACTION → (1.7s) Trigger chip: IF THE BITE CAUSES AN UNUSUAL OR SEVERE REACTION → (1.7s) Icons: physician, hospital, poison control → (1.7s) Icons: physician, hospital, poison control → (1.7s) Card: POISON HELP 1-800-222-1222
-- `8:11.0` `s7.l5` In the midwestern and southern United States, inspect or shake out any clothing, shoes, towels, or equipment before use.  
+- `8:10.7` `s7.l5` In the midwestern and southern United States, inspect or shake out any clothing, shoes, towels, or equipment before use.  
   _[HS58 | TAG: CDC / NIOSH | card: IN RANGE: INSPECT OR SHAKE OUT CLOTHING, SHOES, TOWELS]_  
   Shots: (1.9s) Range chip: MIDWESTERN AND SOUTHERN UNITED STATES → (1.9s) A closet, a shoe, an attic → (1.9s) Someone shakes out a shoe and a towel before use
-- `8:16.9` `s7.l6` Spiders are mostly beneficial because they feed on pest insects. Pesticides are not generally needed.  
+- `8:16.6` `s7.l6` Spiders are mostly beneficial because they feed on pest insects. Pesticides are not generally needed.  
   _[HS1 | TAG: UC IPM | card: MOSTLY BENEFICIAL; PESTICIDES ARE NOT GENERALLY NEEDED]_  
   Shots: (1.2s) A house spider eating a pest insect → (1.2s) Card: PESTICIDES ARE NOT GENERALLY NEEDED → (1.2s) Meatball gives the house spider a tiny thumbs-up → (1.2s) No homemade mix is shown
-- `8:21.5` `s7.l7` Meatball printed a photo with a coin in the frame. Damn. His cat, Sauce, sat on the printer.  
+- `8:21.2` `s7.l7` Meatball printed a photo with a coin in the frame. Damn. His cat, Sauce, sat on the printer.  
   _[CJS]_  
   Shots: (1.9s) Meatball prints a clear photo, a coin beside the spider → (1.9s) Meatball prints a clear photo, a coin beside the spider → (1.9s) Sauce sits on the printer
 
-### 8:27.4 The verdict
-- `8:27.4` `s8.l0` Here's the verdict, and it's an opinion.  
+### 8:27.1 The verdict
+- `8:27.1` `s8.l0` Here's the verdict, and it's an opinion.  
   _[R]_  
   Shots: (1.1s) Two columns appear: LEAVE ALONE and GET IDENTIFIED → (1.1s) Two columns appear: LEAVE ALONE and GET IDENTIFIED
-- `8:29.5` `s8.l1` Leave alone, if you've identified them: the cellar spider, the jumping spider, the wolf spider, and the Pacific Northwest giant house spider.  
+- `8:29.2` `s8.l1` Leave alone, if you've identified them: the cellar spider, the jumping spider, the wolf spider, and the Pacific Northwest giant house spider.  
   _[HS7, HS21, HS28, HS36 | TAG: Penn State Extension; UC IPM; Missouri Department of Conservation; Washington State University]_  
   Shots: (1.7s) LEAVE ALONE column: cellar tile → (1.7s) Jumper tile → (1.7s) Wolf-spider tile → (1.7s) PNW giant house spider, up-to-4-inch chip
-- `8:36.3` `s8.l2` Get identified, and do not guess from a photo: black widows and brown widows, false widows, and the brown recluse.  
+- `8:36.0` `s8.l2` Get identified, and do not guess from a photo: black widows and brown widows, false widows, and the brown recluse.  
   _[HS38, HS39, HS41, HS45, HS46, HS62 | TAG: UC IPM; Natural History Museum; UC Riverside, Rick Vetter]_  
   Shots: (1.5s) GET IDENTIFIED column: western black widow and brown widow → (1.5s) GET IDENTIFIED column: western black widow and brown widow → (1.5s) False black widow and noble false widow → (1.5s) Brown recluse, six-eye card
-- `8:42.5` `s8.l3` Most house spiders can be left alone, if you can tell them apart.  
+- `8:42.2` `s8.l3` Most house spiders can be left alone, if you can tell them apart.  
   _[HS2, HS1 | TAG: UC IPM | card: LEAVE THEM ALONE IF YOU CAN TELL THEM APART | P]_  
   Shots: (1.3s) The jaws card from the opening returns → (1.3s) The jaws card from the opening returns → (1.3s) The promise line returns
-- `8:46.5` `s8.l4` Now think back to that Kansas home. 2,055 brown recluses, in six months. Two official pages, two follow-ups, kept separate.  
+- `8:46.2` `s8.l4` Now think back to that Kansas home. 2,055 brown recluses, in six months. Two official pages, two follow-ups, kept separate.  
   _[HS51, HS52 | TAG: UC IPM; UC Riverside, Rick Vetter | R]_  
   Shots: (1.5s) Callback: the same drawn recluse from 0:00, then the Lenexa house → (1.5s) Callback: the same drawn recluse from 0:00, then the Lenexa house → (1.5s) The 2,055 card → (1.5s) The two page cards stay separate, not merged
-- `8:52.7` `s8.l5` Meatball's final stamp: leave most of them alone, if you can tell them apart. Sauce's stamp: she used the stamp pad as a bed.  
+- `8:52.4` `s8.l5` Meatball's final stamp: leave most of them alone, if you can tell them apart. Sauce's stamp: she used the stamp pad as a bed.  
   _[card: OUR VERDICT: LEAVE MOST, IF YOU CAN TELL THEM APART | meter 80 | CJ]_  
   Shots: (1.9s) Meatball stamps LEAVE MOST, IF YOU CAN TELL THEM APART → (1.9s) Meatball stamps LEAVE MOST, IF YOU CAN TELL THEM APART → (1.9s) Sauce curls up on the stamp pad → (1.9s) Sauce curls up on the stamp pad
-- `9:00.1` `s8.l6` 3 Bugs You Should Never Kill is right here.  
+- `8:59.8` `s8.l6` 3 Bugs You Should Never Kill is right here.  
   _[CR]_  
   Shots: (1.4s) Meatball points at the camera → (1.4s) End screen: 3 Bugs in Your House You Should Never Kill video tile; Meatball points at it
 
@@ -377,7 +377,7 @@ All official wording below is said clean. Jokes come after the line, never insid
 7. No spoken countdowns; every chapter card is a voiced 'Number X' line, except the cold open, halfway, what-to-do, and verdict; chapter gaps are 0.3 s.
 8. Pinned comment matches the debate prompt.
 9. Banned words: no TRUE, FALSE, Myth, Believe, Cartoons, Lied, or 'Did you know' as claims. 'False widow' is the common name of Steatoda, not a TRUE/FALSE card.
-10. Length: 9:14.9 at 194.5 wpm, inside the 8:30–9:15 aim, above 8:00; about 9:58.4 at ~180 wpm.
+10. Length: 9:14.6 at 194.5 wpm, inside the 8:30–9:15 aim, above 8:00; about 9:58.1 at ~180 wpm.
 
 ## Resolved this pass
 
