@@ -413,6 +413,14 @@ Claude, in order:
 6. **Hashtag sets per series** in `post-metadata` (spec "Post captions, descriptions and hashtags").
 7. **Weekly CTR log:** once Moondog88 shares Studio Reach screenshots, log impressions, CTR by traffic source and average view duration per long-form at day 7 in `data/ctr-log.csv`.
 
+**Update Nov 15, 9:50 PM ET: fix batch 1 approved in full ("Do all and b"); Jarvis wrapped up early (usage at 50% of the week).** Moondog88 is applying the channel-level items in Studio himself. Done by Jarvis (local only):
+- Both retention-v2 Shorts re-rendered (lint passes, -14.1 LUFS). The centipede line is now "Now the roaches have one less hunter", with a new panel showing no party. Post copy: `channels/packaging/fix-batch-1/rv2_post_copy.md`. They're approved to post; Moondog88 posts them.
+- Brown recluse art fixed (violin mark, neck toward the abdomen).
+- v4 thumbnails: `fix1_v4_*.png` and `fix1_thumbs_v4_sheet.png`. **Hold the uploads until Moondog88 OKs v4.**
+Claude, still to do:
+1. **Apply sheet** (`fix1_apply_sheet.csv` + `.md`). Build it from `fix1_changes.csv`, one row per long-form and Short, with: video id, new title or "unchanged", the full new description, and the thumbnail path. Use v4 for the 5 long-forms once approved. Mark the 4 FAA/Nvidia news Shorts "unlist". Add a Test & Compare block for the grizzly video: baseline `fix1_v4_dontmove_baseline.png` (or the fix1 baseline if v4 is declined) vs challenger B `fix1_v4_dontmove_B_move.png`, both 1280x720.
+2. **Make v4 the template in `thumbs_v4.py`:** a fear/shock face with both eyes wide, the threat big in the same frame with Meatball's eye line on it, one curiosity mark (arrow, circle or silhouette), rim glow, and text that adds to the title.
+
 **Update Nov 15, 9:25 PM ET: C v3 is the house style, Shorts retention v2, and fix batch 1 (Moondog88: "retention on shorts dialed … update all thumbnails and everything that's wrong on the channel").** Decisions are in DECISIONS.md 6-8. Spec: "Shorts retention spec v2". Claude, follow-ups in order:
 1. **Port `mb2/rv2.py` into make-short.** It's data-driven: an episode dict with lines, word-anchored shots, chips and cards. Run `lint()` as a hard gate in `postkit.py lint`: duration 14.5-20.5 s, voice start ≤0.1 s, 3-5 pictures in the first 2.8 s, max hold ≤2.5 s after the hook, loop = last shot matches frame 0.
 2. **Episode dicts from the bug script backlog.** Give every new Things Living In Your House Short a claim or choice on frame 0 and a "So next time…" loop line. Keep 15-20 s.

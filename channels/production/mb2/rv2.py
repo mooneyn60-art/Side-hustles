@@ -23,7 +23,7 @@ PUNCH = lambda txt, col, bg: ('punch', txt, col, bg)   # stamp word on a burst (
 EPISODES = {
  'house-centipede': dict(
     dir='rv2-house-centipede', gaps=[0, 0.16, 0.16, 0.18, 0.16, 0.12],
-    cap_key={'centipede', 'squish', 'live', 'thirty', 'legs', 'night', 'roaches', 'silverfish', 'spiders', 'party', 'eat', 'meatball'},
+    cap_key={'centipede', 'squish', 'live', 'thirty', 'legs', 'night', 'roaches', 'silverfish', 'spiders', 'hunter', 'eat', 'meatball'},
     chips=[('SQUISH', '#ff4b3e', (0, 'Squish')), ('LET IT LIVE', '#7CFF6B', (0, 'let'))], strike=None,
     cards=[(1, 'Thirty', [('30 LEGS', '#ffd23f', 110), ('HUNTS AT NIGHT: PENN STATE EXTENSION', '#ffffff', 38)]),
            (2, 'eats', [('EATS ROACHES + SILVERFISH', '#7CFF6B', 76), ('AND SPIDERS (PENN STATE EXT.)', '#ffffff', 40)]),
@@ -37,7 +37,8 @@ EPISODES = {
            ((2, 'roaches'), P('thumb_art_house-centipede.jpg', 1.15, 1.3, (0.55, 0.55), (0.52, 0.55))),
            ((2, 'even'), P('thumb_art_corner-spider.jpg', 1.2, 1.4, (0.62, 0.42), (0.64, 0.40))),
            ((3, 'Meatball'), P('rv2_cent_hook.jpg', 1.8, 1.6, (0.30, 0.70), (0.32, 0.72), 12)),
-           ((3, 'The'), P('rv2_cent_party.jpg', 1.0, 1.25, (0.5, 0.45), (0.5, 0.35))),
+           ((3, 'Now'), P('rv2_cent_hunter.jpg', 1.0, 1.15, (0.5, 0.45), (0.5, 0.38))),
+           ((3, 'one'), P('rv2_cent_hunter.jpg', 1.9, 2.1, (0.62, 0.33), (0.62, 0.31), 6)),      # punch-in on the watching roaches
            ((4, 'And'), MB('#1b3fae', face='shock', arms='up', sweat=True, size=2.1, y=1050)),
            ((4, "you've"), P('thumb_art_house-centipede.jpg', 1.9, 2.1, (0.45, 0.66), (0.45, 0.62))),
            ((5, 'So'), P('rv2_cent_hook.jpg', 1.14, 1.04, (0.5, 0.44), (0.5, 0.46), 10))]),      # loop: frame 0 framing
