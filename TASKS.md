@@ -22,6 +22,15 @@ Monetization push: TikTok Creator Rewards needs 100K views in 30 days on videos 
 
 ## Notes for Claude
 
+### 2026-11-16 5:20 PM ET: Growth changes from the 11/16 research (Moondog88: "make any changes you deem necessary")
+Full research: `channels/research/growth-research-1116.md`.
+1. **New flagship format, "Would Meatball Survive?" as a serialized survival story:** Meatball is in real danger, with an on-screen counter ("You have X before Y"). Each story posts as 61-75 s TikTok chapters and 15-18 s YouTube teasers, then as one full 8-12 min YouTube episode with new linking narration (a scripted episode, not a stitch, so MASTER_ORDERS l216 still holds). First episode: "Would Meatball Survive a Night in a Bed-Bug Hotel?", seeded from concepts in section 5. Research re-checks concept #4 (basketball-court comparison) and #10 ("don't run") before scripting.
+2. **Render bug:** `w_eCp3tO_dQ` (Daddy Longlegs Aren't...) has "Retention v2: daddy longlegs (rev 2)" burned into every frame. Strip all debug labels in the render step, and add a check that fails on any overlay text not in the script.
+3. **Stalled Shorts:** check `A9lteZ9mtDE` (dust mites), `MEEPvBFpcQM` (mice) and `xIbnhX10r7k` (dog guilty look) in Studio for restrictions and log the cause.
+4. **Titles:** ask the question, never give the answer away ("Are Daddy Longlegs the Most Venomous Spiders?" got 2,400 views; "Daddy Longlegs Aren't..." got 1-2).
+5. **TikTok:** cap at 3 a day (10 went up today). Minute cuts open with the searched phrase and run as story chapters, not padding. News and search-phrase posts get a median of 3,049 views, against 221 for padded minute cuts.
+6. **Pacing:** something moves every 1-2 s; it's sketch-style, not a slideshow.
+
 ### 2026-11-16 4:20 PM ET: You run the Meatball Myths posting schedule (Moondog88's call, scope corrected)
 Moondog88: "Have Claude take over the whole schedule and post it", then: "don't use the doodle or forever faces your in control of oh meatball only".
 - This covers Meatball Myths only (YouTube @MeatballMyths and TikTok @meatballmyths), at 3 Shorts a day per the note below. Social Studio will not book Meatball posts anywhere else.
