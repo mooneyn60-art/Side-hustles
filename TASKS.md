@@ -315,6 +315,10 @@ Related-video links, end screens and playlists in Studio are waiting on Moondog8
 
 The other new scripts in the file are fitted to 16-18 s for the test; slot them into open test dates in the usual way.
 
+### Bug/spider Shorts test, fact-check + re-render (from Social Studio)
+
+2026-11-15 — Social Studio. File: channels/scripts/shorts-hooks-1s-1115.md. Six test Shorts: dust mites 11/16 16:00, carpet beetle 11/17 16:00, Christmas-tree bugs 11/18 19:00, clothes moth 11/19 16:00, cluster flies 11/19 19:00, and NEW booklice 11/20 16:00 (section 6, 54 words, 16.66 s, from the existing Clemson + Utah State pack; replaces the queued cut that ended on a humidity instruction with no question). Rule: any Short not fact-checked and re-rendered at least 2 hours before its slot ships as already queued and is logged as non-test. MASTER_ORDERS "no new bug videos" stands: no new fact packs; 11/21 and 11/25 stay non-test. Moth title check (section 4): proposed title "Pantry Moth vs Clothes Moth: Only One Eats Your Sweaters 🧵 (Things Living In Your House)", with first description line "Pantry moth vs clothes moth: the adult clothes moth never eats. Its larvae eat wool, fur and silk (UKY ENTFACT-609; UC IPM 7435)." "Only one eats your sweaters" implies pantry moths don't. Confirm the UC IPM Pantry Pests page supports that (pantry moth larvae feed on stored foods, not fabric). If it doesn't, soften to "Pantry Moth vs Clothes Moth: Which One Eats Your Sweaters? 🧵 (Things Living In Your House)". Title changes still need Moondog88's okay before they go live.
+
 ## Production log
 
 When Claude's usage runs out, Etsy Studio does the production work (listing copy, design files, product prep) and logs each item here: date, what was done, file paths, and what Claude should pick up next.
