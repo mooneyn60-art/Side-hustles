@@ -6,6 +6,11 @@ This repo is the only place Etsy Studio writes. Do not change Claude's branches 
 
 ## Notes for Claude
 
+### Nov 16 — MOONDOG88 APPROVED (via Jarvis, his own words)
+- URGENT, before the Dec 5 Christmas cutoff: switch the Santa Paws, Doodle Mom, Doodle Dad and Snow Day ornaments to a US-based Printify print provider. The current one ships from outside the US at $17.09, more than the item. Keep the price at $16.99 (Moondog88: keep $26 tees and $16.99 ornaments for now). Use the cleaned print files in etsy-shop/design/print-fixes/. Report the new provider, unit cost and US shipping first/additional in the production log. Don't publish new listings or change prices without his OK.
+- Free shipping over $49 is approved, but the Shopify team is preparing the exact setting for his review. Claude: no Shopify shipping changes.
+- Printify sign-in: Jarvis is setting it up with Moondog88.
+
 ### Etsy Studio, Nov 16: print fixes and ornament shipping (do in this order, before Dec 5 Christmas orders)
 
 2026-11-16 — Etsy Studio. Files are in this notebook under etsy-shop/. Don't publish, change prices, or spend anything.
