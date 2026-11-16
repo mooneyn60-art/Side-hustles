@@ -1,0 +1,2309 @@
+{
+  "_what": "Crocodile born-as long-form, written to the dog / lion v2 structure and Social Studio's 11/15 long-form rule: promise by 0:05, no rules or score intro, no silent countdowns, a timed shot every 2 to 4 s (test), one mid-video pick-a-number comment prompt, citations on screen (source_tag) and in the description only. Lead species: saltwater crocodile (C. porosus). Facts: /workspace/drafts/facts/crocodile-bornas.md (CB1 to CB55).",
+  "titles": [
+    "Your Life as a Crocodile: 8 Things You Have to Get Through"
+  ],
+  "_titles_note": "Title from the pipeline pitch, concept 5, and this brief. 'Sucks' stays out. Single title, no A/B set.",
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "+10%",
+  "pitch": "+3Hz",
+  "meter_start": 50,
+  "meter_labels": [
+    "RAW DEAL",
+    "SWEET DEAL"
+  ],
+  "segments": [
+    {
+      "chapter": "Day one",
+      "chip": "",
+      "_start": 0.0,
+      "lines": [
+        {
+          "id": "s0.l0",
+          "say": "You were just born a crocodile. Here are eight things you have to get through.",
+          "vis": "Frame 0: saltwater crocodile hatchling cracking an egg in a vegetation mound; narration on it at 0.0 s / Eight numbered tiles slam in face down around the egg; title card lands",
+          "shots": [
+            {
+              "t": 0.0,
+              "dur": 2.31,
+              "vis": "Frame 0: saltwater crocodile hatchling cracking an egg in a vegetation mound; narration on it at 0.0 s"
+            },
+            {
+              "t": 2.3,
+              "dur": 2.31,
+              "vis": "Eight numbered tiles slam in face down around the egg; title card lands"
+            }
+          ],
+          "card": "BORN A CROCODILE",
+          "_t": 0.0,
+          "_dur": 4.63,
+          "_beats": "P"
+        },
+        {
+          "id": "s0.l1",
+          "say": "You're a saltwater crocodile, about seventy grams, and about thirty centimetres long.",
+          "src": "CB14",
+          "source_tag": "Queensland Government",
+          "vis": "Push in on the wet hatchling, about hand-length / Chip: ABOUT 70 G / ABOUT 30 CM",
+          "shots": [
+            {
+              "t": 4.6,
+              "dur": 3.7,
+              "vis": "Push in on the wet hatchling, about hand-length; then Chip: ABOUT 70 G / ABOUT 30 CM"
+            }
+          ],
+          "card": "ABOUT 70 G, ABOUT 30 CM",
+          "_t": 4.6,
+          "_dur": 3.7,
+          "_beats": ""
+        },
+        {
+          "id": "s0.l2",
+          "say": "Your first job is to get out of a mound of vegetation, close to the water.",
+          "src": "CB7",
+          "source_tag": "Queensland Government",
+          "vis": "Pull back: a mound of plants and soil on a riverbank / Water glints beyond the mound",
+          "shots": [
+            {
+              "t": 8.3,
+              "dur": 2.47,
+              "vis": "Pull back: a mound of plants and soil on a riverbank"
+            },
+            {
+              "t": 10.8,
+              "dur": 2.47,
+              "vis": "Water glints beyond the mound"
+            }
+          ],
+          "_t": 8.3,
+          "_dur": 4.94,
+          "_beats": ""
+        },
+        {
+          "id": "s0.l3",
+          "say": "They hit you in order. One of them is a bite, and one is the waterline.",
+          "vis": "Tile 3 flips half-way: a closing jaw / Tile 4 flips half-way: only eyes and nostrils at the waterline; meter appears in the corner",
+          "shots": [
+            {
+              "t": 13.3,
+              "dur": 2.47,
+              "vis": "Tile 3 flips half-way: a closing jaw"
+            },
+            {
+              "t": 15.7,
+              "dur": 2.77,
+              "vis": "Tile 4 flips half-way: only eyes and nostrils at the waterline; meter appears in the corner"
+            }
+          ],
+          "_t": 13.3,
+          "_dur": 4.94,
+          "_beats": "R"
+        }
+      ]
+    },
+    {
+      "chapter": "1. The nest",
+      "chip": "1 OF 8",
+      "_start": 18.5,
+      "lines": [
+        {
+          "id": "s1.l0",
+          "say": "Number one. The nest.",
+          "vis": "Voiced number card whips in over the mound (no silent hold)",
+          "shots": [
+            {
+              "t": 18.5,
+              "dur": 1.23,
+              "vis": "Voiced number card whips in over the mound (no silent hold)"
+            }
+          ],
+          "card": "1 OF 8: THE NEST",
+          "_t": 18.5,
+          "_dur": 1.23,
+          "_beats": ""
+        },
+        {
+          "id": "s1.l1",
+          "say": "Your mother builds a mound of vegetation and soil along a watercourse, usually within ten metres of permanent water, so the eggs stay above flood levels.",
+          "src": "CB7",
+          "source_tag": "Queensland Government",
+          "vis": "Female saltwater crocodile scrapes plants and earth into a mound / Chip: USUALLY WITHIN 10 M OF WATER / Eggs set into the mound, above the waterline / Wide: the river close by",
+          "shots": [
+            {
+              "t": 19.7,
+              "dur": 2.01,
+              "vis": "Female saltwater crocodile scrapes plants and earth into a mound"
+            },
+            {
+              "t": 21.7,
+              "dur": 2.01,
+              "vis": "Chip: USUALLY WITHIN 10 M OF WATER"
+            },
+            {
+              "t": 23.7,
+              "dur": 2.01,
+              "vis": "Eggs set into the mound, above the waterline"
+            },
+            {
+              "t": 25.7,
+              "dur": 2.01,
+              "vis": "Wide: the river close by"
+            }
+          ],
+          "card": "USUALLY WITHIN 10 M",
+          "_t": 19.7,
+          "_dur": 8.02,
+          "_beats": "P"
+        },
+        {
+          "id": "s1.l2",
+          "say": "Embryos breathe through the shell, and they drown if the nest is flooded.",
+          "src": "CB7",
+          "source_tag": "Queensland Government",
+          "vis": "Close on a shell; tiny air-exchange marks / Floodwater climbing the mound / Meter dips toward RAW",
+          "shots": [
+            {
+              "t": 27.8,
+              "dur": 2.01,
+              "vis": "Close on a shell; tiny air-exchange marks; then Floodwater climbing the mound"
+            },
+            {
+              "t": 29.8,
+              "dur": 2.01,
+              "vis": "Meter dips toward RAW"
+            }
+          ],
+          "meter": 38,
+          "_t": 27.8,
+          "_dur": 4.01,
+          "_beats": "P"
+        },
+        {
+          "id": "s1.l3",
+          "say": "Meet the guy in the cardboard snout. That's Meatball. He's living all eight from the couch, with a rubber stamp.",
+          "vis": "Reveal: Meatball on the couch in a cardboard crocodile snout / Close on the snout, one tooth drawn on / He holds up a rubber stamp: RAW on one side, SWEET on the other",
+          "shots": [
+            {
+              "t": 31.8,
+              "dur": 2.06,
+              "vis": "Reveal: Meatball on the couch in a cardboard crocodile snout"
+            },
+            {
+              "t": 33.8,
+              "dur": 2.06,
+              "vis": "Close on the snout, one tooth drawn on"
+            },
+            {
+              "t": 35.9,
+              "dur": 2.06,
+              "vis": "He holds up a rubber stamp: RAW on one side, SWEET on the other"
+            }
+          ],
+          "_t": 31.8,
+          "_dur": 6.17,
+          "_beats": "CP"
+        },
+        {
+          "id": "s1.l4",
+          "say": "His dog, Noodle, is the stand-in. His cat, Sauce, is everybody else.",
+          "vis": "Noodle in the doorway, wagging (name tag pops) / Sauce on the armrest, unimpressed (name tag pops)",
+          "shots": [
+            {
+              "t": 37.9,
+              "dur": 3.7,
+              "vis": "Noodle in the doorway, wagging (name tag pops); then Sauce on the armrest, unimpressed (name tag pops)"
+            }
+          ],
+          "_t": 37.9,
+          "_dur": 3.7,
+          "_beats": "C"
+        },
+        {
+          "id": "s1.l5",
+          "say": "Meatball built a nest out of couch cushions. Sauce sat on it. Hell of a mound.",
+          "vis": "Meatball stacks couch cushions into a messy mound / Sauce hops on top and sits / The mound sags",
+          "shots": [
+            {
+              "t": 41.6,
+              "dur": 2.47,
+              "vis": "Meatball stacks couch cushions into a messy mound; then Sauce hops on top and sits"
+            },
+            {
+              "t": 44.1,
+              "dur": 2.47,
+              "vis": "The mound sags"
+            }
+          ],
+          "_t": 41.6,
+          "_dur": 4.94,
+          "_beats": "CJS"
+        },
+        {
+          "id": "s1.l6",
+          "say": "She lays about fifty eggs, in Australian counts, or anywhere from forty to seventy.",
+          "src": "CB8, CB9",
+          "source_tag": "IUCN Red List; Queensland Government",
+          "vis": "Eggs appear in the mound, counted up to about 50 / Range chip: 40 TO 70 / Chip: AUSTRALIAN COUNTS",
+          "shots": [
+            {
+              "t": 46.6,
+              "dur": 2.16,
+              "vis": "Eggs appear in the mound, counted up to about 50; then Range chip: 40 TO 70"
+            },
+            {
+              "t": 48.7,
+              "dur": 2.16,
+              "vis": "Chip: AUSTRALIAN COUNTS"
+            }
+          ],
+          "card": "ABOUT 50, OR 40 TO 70",
+          "_t": 46.6,
+          "_dur": 4.32,
+          "_beats": ""
+        },
+        {
+          "id": "s1.l7",
+          "say": "Incubation is typically eighty to ninety days, depending on temperature.",
+          "src": "CB8",
+          "source_tag": "IUCN Red List",
+          "vis": "Calendar pages flip across roughly three months / A temperature gauge beside the mound / Chip: TYPICALLY 80-90 DAYS",
+          "shots": [
+            {
+              "t": 50.9,
+              "dur": 3.08,
+              "vis": "Calendar pages flip across roughly three months; then A temperature gauge beside the mound; then Chip: TYPICALLY 80-90 DAYS"
+            }
+          ],
+          "card": "TYPICALLY 80-90 DAYS",
+          "_t": 50.9,
+          "_dur": 3.08,
+          "_beats": ""
+        },
+        {
+          "id": "s1.l8",
+          "say": "Thirty-two degrees Celsius produces both sexes, but most are male. Temperatures lower or higher produce more females. Very high or very low temperatures kill the embryos.",
+          "src": "CB11",
+          "source_tag": "Queensland Government",
+          "vis": "Thermometer settles on 32°C; male and female icons, more males / The needle drops, then climbs; female icons increase / The needle hits the far ends; those eggs fade",
+          "shots": [
+            {
+              "t": 54.0,
+              "dur": 2.67,
+              "vis": "Thermometer settles on 32°C; male and female icons, more males"
+            },
+            {
+              "t": 56.6,
+              "dur": 2.67,
+              "vis": "The needle drops, then climbs; female icons increase"
+            },
+            {
+              "t": 59.3,
+              "dur": 2.67,
+              "vis": "The needle hits the far ends; those eggs fade"
+            }
+          ],
+          "card": "32°C: MOSTLY MALE",
+          "_t": 54.0,
+          "_dur": 8.02,
+          "_beats": "P"
+        },
+        {
+          "id": "s1.l9",
+          "say": "Throughout incubation, she protects the nest from predators, including other crocodiles, goannas, feral pigs and humans.",
+          "src": "CB9",
+          "source_tag": "Queensland Government",
+          "vis": "Mother stays by the mound / Silhouettes at the edge: a goanna, a pig, another crocodile / She holds her ground",
+          "shots": [
+            {
+              "t": 62.0,
+              "dur": 2.47,
+              "vis": "Mother stays by the mound; then Silhouettes at the edge: a goanna, a pig, another crocodile"
+            },
+            {
+              "t": 64.5,
+              "dur": 2.47,
+              "vis": "She holds her ground"
+            }
+          ],
+          "_t": 62.0,
+          "_dur": 4.94,
+          "_beats": ""
+        },
+        {
+          "id": "s1.l10",
+          "say": "Meatball guarded his cushion nest. Noodle took a cushion. The nest got smaller.",
+          "vis": "Meatball sits beside the cushion pile / Noodle tugs a cushion away / The pile is one cushion shorter",
+          "shots": [
+            {
+              "t": 66.9,
+              "dur": 2.01,
+              "vis": "Meatball sits beside the cushion pile; then Noodle tugs a cushion away"
+            },
+            {
+              "t": 68.9,
+              "dur": 2.31,
+              "vis": "The pile is one cushion shorter"
+            }
+          ],
+          "_t": 66.9,
+          "_dur": 4.01,
+          "_beats": "CJ"
+        }
+      ],
+      "_midroll_after": {
+        "type": "alt",
+        "at": 71.1,
+        "note": "Break in the 0.3 s gap after this chapter's last line, before the next voiced number line. Never mid-sentence."
+      }
+    },
+    {
+      "chapter": "2. The first days",
+      "chip": "2 OF 8",
+      "_start": 71.2,
+      "lines": [
+        {
+          "id": "s2.l0",
+          "say": "Number two. The first days.",
+          "vis": "Voiced number card over a hatching egg",
+          "shots": [
+            {
+              "t": 71.2,
+              "dur": 1.54,
+              "vis": "Voiced number card over a hatching egg"
+            }
+          ],
+          "card": "2 OF 8: THE FIRST DAYS",
+          "_t": 71.2,
+          "_dur": 1.54,
+          "_beats": ""
+        },
+        {
+          "id": "s2.l1",
+          "say": "You can break out of the egg yourself. Squawking may bring your mother, who may dig you out. She may even roll unhatched eggs in her mouth to help them emerge.",
+          "src": "CB14",
+          "source_tag": "Queensland Government",
+          "vis": "Hatchling cracks the shell from inside / A chirp; the mother's head turns / She digs at the mound / An unhatched egg rolls gently in her mouth; a hatchling slides out",
+          "shots": [
+            {
+              "t": 72.8,
+              "dur": 2.39,
+              "vis": "Hatchling cracks the shell from inside"
+            },
+            {
+              "t": 75.2,
+              "dur": 2.39,
+              "vis": "A chirp; the mother's head turns"
+            },
+            {
+              "t": 77.6,
+              "dur": 2.39,
+              "vis": "She digs at the mound"
+            },
+            {
+              "t": 80.0,
+              "dur": 2.39,
+              "vis": "An unhatched egg rolls gently in her mouth; a hatchling slides out"
+            }
+          ],
+          "_t": 72.8,
+          "_dur": 9.56,
+          "_beats": "P"
+        },
+        {
+          "id": "s2.l2",
+          "say": "Once you're out of the mound, she may gently carry you in her mouth to the water's edge.",
+          "src": "CB15",
+          "source_tag": "Queensland Government",
+          "vis": "Mother lifts a hatchling in her jaws, carefully / She walks it down to the water",
+          "shots": [
+            {
+              "t": 82.3,
+              "dur": 2.78,
+              "vis": "Mother lifts a hatchling in her jaws, carefully"
+            },
+            {
+              "t": 85.1,
+              "dur": 2.78,
+              "vis": "She walks it down to the water"
+            }
+          ],
+          "_t": 82.3,
+          "_dur": 5.55,
+          "_beats": ""
+        },
+        {
+          "id": "s2.l3",
+          "say": "Hatchlings form a crèche and stay under her care for up to five weeks before they start to disperse.",
+          "src": "CB15",
+          "source_tag": "Queensland Government",
+          "vis": "A cluster of hatchlings at the shallows / Mother nearby / Timeline chip: UP TO 5 WEEKS / A few swim off at the end of the bar",
+          "shots": [
+            {
+              "t": 87.9,
+              "dur": 2.06,
+              "vis": "A cluster of hatchlings at the shallows; then Mother nearby"
+            },
+            {
+              "t": 90.0,
+              "dur": 2.06,
+              "vis": "Timeline chip: UP TO 5 WEEKS"
+            },
+            {
+              "t": 92.0,
+              "dur": 2.06,
+              "vis": "A few swim off at the end of the bar"
+            }
+          ],
+          "card": "UP TO 5 WEEKS",
+          "meter": 55,
+          "_t": 87.9,
+          "_dur": 6.17,
+          "_beats": ""
+        },
+        {
+          "id": "s2.l4",
+          "say": "Meatball tried the mouth-carry with a sock. Noodle stole the sock.",
+          "vis": "Meatball picks up a sock in the cardboard snout / Noodle tugs it free and trots off",
+          "shots": [
+            {
+              "t": 94.1,
+              "dur": 3.39,
+              "vis": "Meatball picks up a sock in the cardboard snout; then Noodle tugs it free and trots off"
+            }
+          ],
+          "_t": 94.1,
+          "_dur": 3.39,
+          "_beats": "CJ"
+        },
+        {
+          "id": "s2.l5",
+          "say": "It is estimated that up to seventy-five percent of eggs laid in a season will not hatch, mostly from infertility, flooding, overheating, poor gas exchange and drying out, not from predators.",
+          "src": "CB13",
+          "source_tag": "Australian Museum",
+          "vis": "A grid of eggs; many fade for reasons other than a predator / Icons: flood, heat, dry air, a blank infertile cell / A goanna silhouette stays dim in the corner / Meter dips toward RAW",
+          "shots": [
+            {
+              "t": 97.5,
+              "dur": 2.39,
+              "vis": "A grid of eggs; many fade for reasons other than a predator"
+            },
+            {
+              "t": 99.9,
+              "dur": 2.39,
+              "vis": "Icons: flood, heat, dry air, a blank infertile cell"
+            },
+            {
+              "t": 102.2,
+              "dur": 2.39,
+              "vis": "A goanna silhouette stays dim in the corner"
+            },
+            {
+              "t": 104.6,
+              "dur": 2.39,
+              "vis": "Meter dips toward RAW"
+            }
+          ],
+          "card": "UP TO 75% OF EGGS DO NOT HATCH",
+          "meter": 40,
+          "_t": 97.5,
+          "_dur": 9.56,
+          "_beats": "P"
+        },
+        {
+          "id": "s2.l6",
+          "say": "Northern Territory figures say, on average, only twenty-five percent of eggs will hatch, and fifty-four percent of the hatchlings will survive the first year.",
+          "src": "CB19",
+          "source_tag": "NT Government",
+          "vis": "Plain card: NT FIGURES, ON AVERAGE / Bar: 25% OF EGGS HATCH / Bar: 54% OF THOSE HATCHLINGS REACH YEAR 1 / Two measures stay separate, not merged",
+          "shots": [
+            {
+              "t": 107.0,
+              "dur": 2.47,
+              "vis": "Plain card: NT FIGURES, ON AVERAGE; then Bar: 25% OF EGGS HATCH"
+            },
+            {
+              "t": 109.5,
+              "dur": 2.47,
+              "vis": "Bar: 54% OF THOSE HATCHLINGS REACH YEAR 1"
+            },
+            {
+              "t": 112.0,
+              "dur": 2.47,
+              "vis": "Two measures stay separate, not merged"
+            }
+          ],
+          "card": "NT FIGURES: 25% HATCH; 54% OF HATCHLINGS TO YEAR 1",
+          "meter": 35,
+          "_t": 107.0,
+          "_dur": 7.4,
+          "_beats": "P"
+        },
+        {
+          "id": "s2.l7",
+          "say": "Only one percent of hatchlings are thought to survive to maturity in the wild.",
+          "src": "CB19",
+          "source_tag": "NT Government",
+          "vis": "Plain card on a dimmed background: 1% THOUGHT TO REACH MATURITY, IN THE WILD / A hundred tiny silhouettes; one stays / Meter dips",
+          "shots": [
+            {
+              "t": 114.4,
+              "dur": 2.16,
+              "vis": "Plain card on a dimmed background: 1% THOUGHT TO REACH MATURITY, IN THE WILD; then A hundred tiny silhouettes; one stays"
+            },
+            {
+              "t": 116.6,
+              "dur": 2.16,
+              "vis": "Meter dips"
+            }
+          ],
+          "card": "1% THOUGHT TO REACH MATURITY",
+          "meter": 28,
+          "_t": 114.4,
+          "_dur": 4.32,
+          "_beats": "P"
+        },
+        {
+          "id": "s2.l8",
+          "say": "Hatchlings and juveniles can be eaten by barramundi, turtles, freshwater crocodiles and older saltwater crocodiles, and also by birds of prey and large fish. Very few make it to adulthood.",
+          "src": "CB20",
+          "source_tag": "NT Be Crocwise; Australian Museum",
+          "vis": "Quick, non-graphic silhouettes: a fish, a turtle, a larger crocodile / A bird of prey's shadow on the water / Back on one small hatchling in the crèche",
+          "shots": [
+            {
+              "t": 118.7,
+              "dur": 3.08,
+              "vis": "Quick, non-graphic silhouettes: a fish, a turtle, a larger crocodile"
+            },
+            {
+              "t": 121.8,
+              "dur": 3.08,
+              "vis": "A bird of prey's shadow on the water"
+            },
+            {
+              "t": 124.9,
+              "dur": 3.08,
+              "vis": "Back on one small hatchling in the crèche"
+            }
+          ],
+          "_t": 118.7,
+          "_dur": 9.25,
+          "_beats": ""
+        },
+        {
+          "id": "s2.l9",
+          "say": "The ones that do still have to grow a bite.",
+          "vis": "Tile 3 flips half-way: the closing jaw again",
+          "shots": [
+            {
+              "t": 128.0,
+              "dur": 3.38,
+              "vis": "Tile 3 flips half-way: the closing jaw again"
+            }
+          ],
+          "_t": 128.0,
+          "_dur": 3.08,
+          "_beats": "R"
+        }
+      ],
+      "_midroll_after": {
+        "type": "primary",
+        "at": 131.2,
+        "note": "Break in the 0.3 s gap after this chapter's last line, before the next voiced number line. Never mid-sentence."
+      }
+    },
+    {
+      "chapter": "3. The bite",
+      "chip": "3 OF 8",
+      "_start": 131.4,
+      "lines": [
+        {
+          "id": "s3.l0",
+          "say": "Number three. The bite.",
+          "vis": "Voiced number card over a closing jaw",
+          "shots": [
+            {
+              "t": 131.4,
+              "dur": 1.23,
+              "vis": "Voiced number card over a closing jaw"
+            }
+          ],
+          "card": "3 OF 8: THE BITE",
+          "_t": 131.4,
+          "_dur": 1.23,
+          "_beats": ""
+        },
+        {
+          "id": "s3.l1",
+          "say": "In one study, one saltwater crocodile produced a bite force of sixteen thousand four hundred fourteen newtons, about three thousand six hundred eighty-nine pounds.",
+          "src": "CB21",
+          "source_tag": "Erickson et al. 2012, PLoS ONE",
+          "vis": "A single adult saltwater crocodile on a plain field / The number 16,414 N slams in / Chip: ABOUT 3,689 LB / Chip: ONE ANIMAL, ONE STUDY",
+          "shots": [
+            {
+              "t": 132.6,
+              "dur": 2.47,
+              "vis": "A single adult saltwater crocodile on a plain field; then The number 16,414 N slams in"
+            },
+            {
+              "t": 135.1,
+              "dur": 2.47,
+              "vis": "Chip: ABOUT 3,689 LB"
+            },
+            {
+              "t": 137.6,
+              "dur": 2.47,
+              "vis": "Chip: ONE ANIMAL, ONE STUDY"
+            }
+          ],
+          "card": "ONE CROC, ONE STUDY: 16,414 N",
+          "_t": 132.6,
+          "_dur": 7.4,
+          "_beats": "P"
+        },
+        {
+          "id": "s3.l2",
+          "say": "The authors call this the highest bite force measured in any animal.",
+          "src": "CB21",
+          "source_tag": "Erickson et al. 2012, PLoS ONE",
+          "vis": "The number holds; a small crown icon / Meter ticks toward SWEET",
+          "shots": [
+            {
+              "t": 140.0,
+              "dur": 3.7,
+              "vis": "The number holds; a small crown icon; then Meter ticks toward SWEET"
+            }
+          ],
+          "card": "HIGHEST MEASURED IN ANY ANIMAL",
+          "meter": 62,
+          "_t": 140.0,
+          "_dur": 3.7,
+          "_beats": ""
+        },
+        {
+          "id": "s3.l3",
+          "say": "That value eclipses the highest recorded bite force in carnivoran mammals, four thousand five hundred newtons, about one thousand eleven pounds, in the spotted hyena.",
+          "src": "CB22",
+          "source_tag": "Erickson et al. 2012, PLoS ONE",
+          "vis": "A spotted hyena appears beside the crocodile / Two bars: 16,414 N and 4,500 N / Chip: 4,500 N, ABOUT 1,011 LB",
+          "shots": [
+            {
+              "t": 143.7,
+              "dur": 2.57,
+              "vis": "A spotted hyena appears beside the crocodile"
+            },
+            {
+              "t": 146.3,
+              "dur": 2.57,
+              "vis": "Two bars: 16,414 N and 4,500 N"
+            },
+            {
+              "t": 148.9,
+              "dur": 2.57,
+              "vis": "Chip: 4,500 N, ABOUT 1,011 LB"
+            }
+          ],
+          "card": "SPOTTED HYENA: 4,500 N",
+          "_t": 143.7,
+          "_dur": 7.71,
+          "_beats": ""
+        },
+        {
+          "id": "s3.l4",
+          "say": "That sixteen thousand number is the top of a range, not the typical saltwater crocodile in the study.",
+          "src": "CB23",
+          "source_tag": "Erickson et al. 2012, PLoS ONE",
+          "vis": "The big 16,414 N shrinks to the top of a range bar / The bar is labelled a range, not an average",
+          "shots": [
+            {
+              "t": 151.4,
+              "dur": 2.78,
+              "vis": "The big 16,414 N shrinks to the top of a range bar"
+            },
+            {
+              "t": 154.2,
+              "dur": 2.78,
+              "vis": "The bar is labelled a range, not an average"
+            }
+          ],
+          "_t": 151.4,
+          "_dur": 5.55,
+          "_beats": "P"
+        },
+        {
+          "id": "s3.l5",
+          "say": "Seven adult saltwater crocodiles were tested. The representative bite force for the species was eight thousand nine hundred eighty-three newtons. The range was one thousand four hundred forty-six to sixteen thousand four hundred fourteen.",
+          "src": "CB23",
+          "source_tag": "Erickson et al. 2012, PLoS ONE",
+          "vis": "Seven crocodile silhouettes / A representative line draws at 8,983 N / Range chip: 1,446 TO 16,414 N",
+          "shots": [
+            {
+              "t": 157.0,
+              "dur": 3.5,
+              "vis": "Seven crocodile silhouettes"
+            },
+            {
+              "t": 160.5,
+              "dur": 3.5,
+              "vis": "A representative line draws at 8,983 N"
+            },
+            {
+              "t": 164.0,
+              "dur": 3.5,
+              "vis": "Range chip: 1,446 TO 16,414 N"
+            }
+          ],
+          "card": "REPRESENTATIVE: 8,983 N (n=7)",
+          "_t": 157.0,
+          "_dur": 10.49,
+          "_beats": ""
+        },
+        {
+          "id": "s3.l6",
+          "say": "Meatball practiced his bite on a pillow. The pillow was just fine. Damn.",
+          "vis": "Meatball in the cardboard snout bites a couch pillow / The pillow sits there, unchanged / Meatball looks at it",
+          "shots": [
+            {
+              "t": 167.5,
+              "dur": 2.01,
+              "vis": "Meatball in the cardboard snout bites a couch pillow; then The pillow sits there, unchanged"
+            },
+            {
+              "t": 169.5,
+              "dur": 2.31,
+              "vis": "Meatball looks at it"
+            }
+          ],
+          "_t": 167.5,
+          "_dur": 4.01,
+          "_beats": "CJS"
+        }
+      ],
+      "_midroll_after": {
+        "type": "alt",
+        "at": 171.6,
+        "note": "Break in the 0.3 s gap after this chapter's last line, before the next voiced number line. Never mid-sentence."
+      }
+    },
+    {
+      "chapter": "4. The waterline",
+      "chip": "4 OF 8",
+      "_start": 171.8,
+      "lines": [
+        {
+          "id": "s4.l0",
+          "say": "Number four. The waterline.",
+          "vis": "Voiced number card over a still river edge",
+          "shots": [
+            {
+              "t": 171.8,
+              "dur": 1.23,
+              "vis": "Voiced number card over a still river edge"
+            }
+          ],
+          "card": "4 OF 8: THE WATERLINE",
+          "_t": 171.8,
+          "_dur": 1.23,
+          "_beats": ""
+        },
+        {
+          "id": "s4.l1",
+          "say": "To capture prey, estuarine crocodiles wait in ambush at the water's edge, then lunge or snap sideways at animals that come to feed or drink.",
+          "src": "CB25",
+          "source_tag": "Queensland Government",
+          "vis": "A saltwater crocodile waits, almost still, at the edge / A wallaby steps in to drink / The crocodile lunges / snaps sideways (no long land chase)",
+          "shots": [
+            {
+              "t": 173.0,
+              "dur": 2.57,
+              "vis": "A saltwater crocodile waits, almost still, at the edge"
+            },
+            {
+              "t": 175.6,
+              "dur": 2.57,
+              "vis": "A wallaby steps in to drink"
+            },
+            {
+              "t": 178.2,
+              "dur": 2.57,
+              "vis": "The crocodile lunges / snaps sideways (no long land chase)"
+            }
+          ],
+          "_t": 173.0,
+          "_dur": 7.71,
+          "_beats": "P"
+        },
+        {
+          "id": "s4.l2",
+          "say": "If they cannot swallow the animal whole, they may drag it under and twist it in a death-roll, or shake the head to break off pieces.",
+          "src": "CB25",
+          "source_tag": "Queensland Government",
+          "vis": "A drag under the surface / A tight death-roll, cut before gore / A head-shake, cut away",
+          "shots": [
+            {
+              "t": 180.7,
+              "dur": 2.67,
+              "vis": "A drag under the surface"
+            },
+            {
+              "t": 183.4,
+              "dur": 2.67,
+              "vis": "A tight death-roll, cut before gore"
+            },
+            {
+              "t": 186.1,
+              "dur": 2.67,
+              "vis": "A head-shake, cut away"
+            }
+          ],
+          "_t": 180.7,
+          "_dur": 8.02,
+          "_beats": ""
+        },
+        {
+          "id": "s4.l3",
+          "say": "Crocodiles usually hunt by staying submerged. They can stay unseen underwater for hours, and can attack from any depth, including very shallow water.",
+          "src": "CB26",
+          "source_tag": "Queensland Be Crocwise",
+          "vis": "Underwater: a crocodile suspended, still / Hours tick on a faint clock, no fixed number / The same animal in water only centimetres deep",
+          "shots": [
+            {
+              "t": 188.8,
+              "dur": 2.37,
+              "vis": "Underwater: a crocodile suspended, still"
+            },
+            {
+              "t": 191.1,
+              "dur": 2.37,
+              "vis": "Hours tick on a faint clock, no fixed number"
+            },
+            {
+              "t": 193.5,
+              "dur": 2.37,
+              "vis": "The same animal in water only centimetres deep"
+            }
+          ],
+          "card": "UNSEEN FOR HOURS",
+          "_t": 188.8,
+          "_dur": 7.1,
+          "_beats": ""
+        },
+        {
+          "id": "s4.l4",
+          "say": "They can attack in knee-deep water, so even wading can be dangerous.",
+          "src": "CB27",
+          "source_tag": "Parks Australia, Kakadu",
+          "vis": "A plain shot of knee-deep water at a bank / A crocodile outline under the surface / Card: EVEN WADING CAN BE DANGEROUS / Meter dips toward RAW",
+          "shots": [
+            {
+              "t": 195.9,
+              "dur": 3.7,
+              "vis": "A plain shot of knee-deep water at a bank; then A crocodile outline under the surface; then Card: EVEN WADING CAN BE DANGEROUS; then Meter dips toward RAW"
+            }
+          ],
+          "card": "KNEE-DEEP IS NOT SAFE",
+          "meter": 32,
+          "_t": 195.9,
+          "_dur": 3.7,
+          "_beats": "P"
+        },
+        {
+          "id": "s4.l5",
+          "say": "Large saltwater crocodiles can stay underwater for up to one hour, because they can reduce their heart rate to two to three beats per minute.",
+          "src": "CB28",
+          "source_tag": "NT Government",
+          "vis": "A large crocodile sinks and waits / A heart icon slows to 2-3 beats per minute / Chip: UP TO ONE HOUR, FOR LARGE ANIMALS",
+          "shots": [
+            {
+              "t": 199.6,
+              "dur": 2.57,
+              "vis": "A large crocodile sinks and waits"
+            },
+            {
+              "t": 202.1,
+              "dur": 2.57,
+              "vis": "A heart icon slows to 2-3 beats per minute"
+            },
+            {
+              "t": 204.7,
+              "dur": 2.57,
+              "vis": "Chip: UP TO ONE HOUR, FOR LARGE ANIMALS"
+            }
+          ],
+          "card": "UP TO ONE HOUR",
+          "_t": 199.6,
+          "_dur": 7.71,
+          "_beats": ""
+        },
+        {
+          "id": "s4.l6",
+          "say": "They use a minimum-exposure posture, with only the eyes, ears and nostrils above the water, so they often go unseen. If they are seen, it is hard to tell how big the crocodile is.",
+          "src": "CB28",
+          "source_tag": "NT Government",
+          "vis": "Only eyes, cranial platform, ears and nostrils break the surface / From the bank, the head looks small / Pull back: the body is much longer than it looked",
+          "shots": [
+            {
+              "t": 207.3,
+              "dur": 3.5,
+              "vis": "Only eyes, cranial platform, ears and nostrils break the surface"
+            },
+            {
+              "t": 210.8,
+              "dur": 3.5,
+              "vis": "From the bank, the head looks small"
+            },
+            {
+              "t": 214.3,
+              "dur": 3.5,
+              "vis": "Pull back: the body is much longer than it looked"
+            }
+          ],
+          "card": "MINIMUM-EXPOSURE POSTURE",
+          "_t": 207.3,
+          "_dur": 10.49,
+          "_beats": "P"
+        },
+        {
+          "id": "s4.l7",
+          "say": "Meatball tried the minimum-exposure posture in the bathtub. Only the cardboard snout stuck out. Sauce left the room.",
+          "vis": "Meatball in the bathtub, almost submerged / Only the cardboard snout and eyes above the water / Sauce hops down and leaves",
+          "shots": [
+            {
+              "t": 217.8,
+              "dur": 2.78,
+              "vis": "Meatball in the bathtub, almost submerged; then Only the cardboard snout and eyes above the water"
+            },
+            {
+              "t": 220.5,
+              "dur": 2.78,
+              "vis": "Sauce hops down and leaves"
+            }
+          ],
+          "_t": 217.8,
+          "_dur": 5.55,
+          "_beats": "CJ"
+        },
+        {
+          "id": "s4.l8",
+          "say": "When prey is detected, the crocodile makes a stealthy approach under water, then lunges rapidly and slams its jaws shut.",
+          "src": "CB30",
+          "source_tag": "Australian Museum",
+          "vis": "Underwater approach, almost no ripple / A sudden lunge / Jaws slam shut",
+          "shots": [
+            {
+              "t": 223.3,
+              "dur": 2.06,
+              "vis": "Underwater approach, almost no ripple"
+            },
+            {
+              "t": 225.4,
+              "dur": 2.06,
+              "vis": "A sudden lunge"
+            },
+            {
+              "t": 227.4,
+              "dur": 2.06,
+              "vis": "Jaws slam shut"
+            }
+          ],
+          "_t": 223.3,
+          "_dur": 6.17,
+          "_beats": "P"
+        },
+        {
+          "id": "s4.l9",
+          "say": "Hunting starts almost as soon as they hatch. Full-grown adults can feed on whatever they can overpower, including other crocodiles.",
+          "src": "CB29",
+          "source_tag": "Queensland Government",
+          "vis": "A hatchling snaps at an insect / An adult and a prey-icon row, including another crocodile",
+          "shots": [
+            {
+              "t": 229.5,
+              "dur": 3.08,
+              "vis": "A hatchling snaps at an insect"
+            },
+            {
+              "t": 232.6,
+              "dur": 3.38,
+              "vis": "An adult and a prey-icon row, including another crocodile"
+            }
+          ],
+          "_t": 229.5,
+          "_dur": 6.17,
+          "_beats": "R"
+        }
+      ],
+      "_midroll_after": {
+        "type": "alt",
+        "at": 235.8,
+        "note": "Break in the 0.3 s gap after this chapter's last line, before the next voiced number line. Never mid-sentence."
+      }
+    },
+    {
+      "chapter": "Halfway",
+      "chip": "",
+      "_start": 235.9,
+      "lines": [
+        {
+          "id": "s5.l0",
+          "say": "Halfway. You're out of the nest, you've made the early odds, and you've got the bite and the waterline.",
+          "vis": "Tiles 1 to 4 flip face up / A bigger crocodile at the waterline",
+          "shots": [
+            {
+              "t": 235.9,
+              "dur": 2.93,
+              "vis": "Tiles 1 to 4 flip face up"
+            },
+            {
+              "t": 238.9,
+              "dur": 2.93,
+              "vis": "A bigger crocodile at the waterline"
+            }
+          ],
+          "card": "HALFWAY",
+          "_t": 235.9,
+          "_dur": 5.86,
+          "_beats": "R"
+        },
+        {
+          "id": "s5.l1",
+          "say": "Meatball wants to know: which of the first four gets you? The nest, the early odds, the bite, or the waterline? Drop the number in the comments.",
+          "vis": "Meatball holds up four fingers / Comment pill pops bottom right: 1, 2, 3 OR 4 / The four tiles light up in turn / Meatball points at the comment pill",
+          "shots": [
+            {
+              "t": 241.8,
+              "dur": 2.08,
+              "vis": "Meatball holds up four fingers"
+            },
+            {
+              "t": 243.9,
+              "dur": 2.08,
+              "vis": "Comment pill pops bottom right: 1, 2, 3 OR 4"
+            },
+            {
+              "t": 246.0,
+              "dur": 2.08,
+              "vis": "The four tiles light up in turn"
+            },
+            {
+              "t": 248.1,
+              "dur": 2.08,
+              "vis": "Meatball points at the comment pill"
+            }
+          ],
+          "card": "COMMENT: WHICH ONE GETS YOU? 1, 2, 3 OR 4",
+          "_t": 241.8,
+          "_dur": 8.33,
+          "_beats": "CM"
+        },
+        {
+          "id": "s5.l2",
+          "say": "Because the next four are the ones that last for years. Starting with growing up.",
+          "vis": "Tiles 5 to 8 still face down / Calendar pages start to flip / Tile 5 flips",
+          "shots": [
+            {
+              "t": 250.1,
+              "dur": 2.31,
+              "vis": "Tiles 5 to 8 still face down; then Calendar pages start to flip"
+            },
+            {
+              "t": 252.5,
+              "dur": 2.61,
+              "vis": "Tile 5 flips"
+            }
+          ],
+          "_t": 250.1,
+          "_dur": 4.63,
+          "_beats": "RP"
+        }
+      ]
+    },
+    {
+      "chapter": "5. Growing up",
+      "chip": "5 OF 8",
+      "_start": 255.1,
+      "lines": [
+        {
+          "id": "s6.l0",
+          "say": "Number five. Growing up.",
+          "vis": "Voiced number card over a hatchling that grows a step",
+          "shots": [
+            {
+              "t": 255.1,
+              "dur": 1.23,
+              "vis": "Voiced number card over a hatchling that grows a step"
+            }
+          ],
+          "card": "5 OF 8: GROWING UP",
+          "_t": 255.1,
+          "_dur": 1.23,
+          "_beats": ""
+        },
+        {
+          "id": "s6.l1",
+          "say": "Females usually mature at about twelve years, and about two point three metres. Males mature in the mid-teens, at around three point three metres, depending on the official page.",
+          "src": "CB31, CB32",
+          "source_tag": "Queensland Government; NT Be Crocwise",
+          "vis": "A female grows to about 2.3 m; chip: ABOUT 12 YEARS / A male grows longer, to about 3.3 m / Chip: MID-TEENS, DEPENDING ON THE PAGE",
+          "shots": [
+            {
+              "t": 256.3,
+              "dur": 2.98,
+              "vis": "A female grows to about 2.3 m; chip: ABOUT 12 YEARS"
+            },
+            {
+              "t": 259.3,
+              "dur": 2.98,
+              "vis": "A male grows longer, to about 3.3 m"
+            },
+            {
+              "t": 262.3,
+              "dur": 2.98,
+              "vis": "Chip: MID-TEENS, DEPENDING ON THE PAGE"
+            }
+          ],
+          "card": "FEMALES ~12 YRS; MALES MID-TEENS",
+          "_t": 256.3,
+          "_dur": 8.95,
+          "_beats": "P"
+        },
+        {
+          "id": "s6.l2",
+          "say": "Average adult total length is three to five metres, with males typically much larger than females.",
+          "src": "CB5",
+          "source_tag": "Australian Museum",
+          "vis": "A 3-5 m range bar / A male and a smaller female side by side",
+          "shots": [
+            {
+              "t": 265.2,
+              "dur": 2.47,
+              "vis": "A 3-5 m range bar"
+            },
+            {
+              "t": 267.7,
+              "dur": 2.47,
+              "vis": "A male and a smaller female side by side"
+            }
+          ],
+          "card": "ADULTS: 3-5 M",
+          "_t": 265.2,
+          "_dur": 4.94,
+          "_beats": ""
+        },
+        {
+          "id": "s6.l3",
+          "say": "This species is considered the largest of the living crocodilians, with reported lengths of up to six to seven metres. Typical adults are smaller.",
+          "src": "CB4",
+          "source_tag": "IUCN Red List",
+          "vis": "A 'largest living crocodilian' card / A faint 6-7 m outline, labelled REPORTED, UP TO / The solid 3-5 m adult stays in front",
+          "shots": [
+            {
+              "t": 270.2,
+              "dur": 2.47,
+              "vis": "A 'largest living crocodilian' card"
+            },
+            {
+              "t": 272.6,
+              "dur": 2.47,
+              "vis": "A faint 6-7 m outline, labelled REPORTED, UP TO"
+            },
+            {
+              "t": 275.1,
+              "dur": 2.47,
+              "vis": "The solid 3-5 m adult stays in front"
+            }
+          ],
+          "card": "REPORTED UP TO 6-7 M",
+          "_t": 270.2,
+          "_dur": 7.4,
+          "_beats": "P"
+        },
+        {
+          "id": "s6.l4",
+          "say": "The largest reliably measured animal, caught in the Mary River in the Northern Territory in 1974, was at least six hundred fifteen centimetres.",
+          "src": "CB5",
+          "source_tag": "Australian Museum",
+          "vis": "Map pin: Mary River, 1974 / A measured outline labelled AT LEAST 615 CM / Chip: RELIABLY MEASURED",
+          "shots": [
+            {
+              "t": 277.6,
+              "dur": 2.37,
+              "vis": "Map pin: Mary River, 1974"
+            },
+            {
+              "t": 279.9,
+              "dur": 2.37,
+              "vis": "A measured outline labelled AT LEAST 615 CM"
+            },
+            {
+              "t": 282.3,
+              "dur": 2.37,
+              "vis": "Chip: RELIABLY MEASURED"
+            }
+          ],
+          "card": "LARGEST RELIABLY MEASURED: AT LEAST 615 CM",
+          "_t": 277.6,
+          "_dur": 7.1,
+          "_beats": ""
+        },
+        {
+          "id": "s6.l5",
+          "say": "Lifespan in the wild is unknown, but estuarine crocodiles are expected to live for fifty years or more.",
+          "src": "CB33",
+          "source_tag": "Queensland Government",
+          "vis": "A question mark over a wild river / Chip: EXPECTED, 50 YEARS OR MORE / The unknown hedge stays on screen",
+          "shots": [
+            {
+              "t": 284.7,
+              "dur": 2.78,
+              "vis": "A question mark over a wild river; then Chip: EXPECTED, 50 YEARS OR MORE"
+            },
+            {
+              "t": 287.5,
+              "dur": 2.78,
+              "vis": "The unknown hedge stays on screen"
+            }
+          ],
+          "card": "WILD LIFESPAN UNKNOWN; 50+ EXPECTED",
+          "_t": 284.7,
+          "_dur": 5.55,
+          "_beats": ""
+        },
+        {
+          "id": "s6.l6",
+          "say": "The IUCN Red List lists the saltwater crocodile as Least Concern, with about five hundred thousand mature individuals and a stable trend. Queensland lists it as Vulnerable under state law. Those are different listings.",
+          "src": "CB1, CB2, CB3",
+          "source_tag": "IUCN Red List; Australian Museum",
+          "vis": "Two separate cards, not merged: IUCN LEAST CONCERN and QLD VULNERABLE / Chip: ABOUT 500,000 MATURE INDIVIDUALS, STABLE / A line between the two listings",
+          "shots": [
+            {
+              "t": 290.2,
+              "dur": 3.5,
+              "vis": "Two separate cards, not merged: IUCN LEAST CONCERN and QLD VULNERABLE"
+            },
+            {
+              "t": 293.7,
+              "dur": 3.5,
+              "vis": "Chip: ABOUT 500,000 MATURE INDIVIDUALS, STABLE"
+            },
+            {
+              "t": 297.2,
+              "dur": 3.5,
+              "vis": "A line between the two listings"
+            }
+          ],
+          "card": "IUCN: LEAST CONCERN; QLD: VULNERABLE",
+          "_t": 290.2,
+          "_dur": 10.49,
+          "_beats": ""
+        },
+        {
+          "id": "s6.l7",
+          "say": "In Australia, courtship begins in October and November, with nesting from December to April.",
+          "src": "CB34",
+          "source_tag": "Queensland Government",
+          "vis": "An Australia calendar: OCT-NOV highlighted / Nesting bar: DEC TO APR",
+          "shots": [
+            {
+              "t": 300.7,
+              "dur": 2.16,
+              "vis": "An Australia calendar: OCT-NOV highlighted"
+            },
+            {
+              "t": 302.9,
+              "dur": 2.16,
+              "vis": "Nesting bar: DEC TO APR"
+            }
+          ],
+          "card": "COURTSHIP: OCT-NOV (AUSTRALIA)",
+          "_t": 300.7,
+          "_dur": 4.32,
+          "_beats": "R"
+        },
+        {
+          "id": "s6.l8",
+          "say": "Meatball marked his calendar for December. He waited. Sauce slept on the calendar.",
+          "vis": "Meatball circles December on a wall calendar / He waits / Sauce is asleep on the page",
+          "shots": [
+            {
+              "t": 305.0,
+              "dur": 2.01,
+              "vis": "Meatball circles December on a wall calendar; then He waits"
+            },
+            {
+              "t": 307.0,
+              "dur": 2.31,
+              "vis": "Sauce is asleep on the page"
+            }
+          ],
+          "_t": 305.0,
+          "_dur": 4.01,
+          "_beats": "CJ"
+        }
+      ],
+      "_midroll_after": {
+        "type": "primary",
+        "at": 309.2,
+        "note": "Break in the 0.3 s gap after this chapter's last line, before the next voiced number line. Never mid-sentence."
+      }
+    },
+    {
+      "chapter": "6. Other crocodiles",
+      "chip": "6 OF 8",
+      "_start": 309.3,
+      "lines": [
+        {
+          "id": "s7.l0",
+          "say": "Number six. Other crocodiles.",
+          "vis": "Voiced number card over two adults facing off",
+          "shots": [
+            {
+              "t": 309.3,
+              "dur": 1.23,
+              "vis": "Voiced number card over two adults facing off"
+            }
+          ],
+          "card": "6 OF 8: OTHER CROCODILES",
+          "_t": 309.3,
+          "_dur": 1.23,
+          "_beats": ""
+        },
+        {
+          "id": "s7.l1",
+          "say": "Large male saltwater crocodiles are known to defend their area, and females defend their nest from predators.",
+          "src": "CB35",
+          "source_tag": "NT Be Crocwise",
+          "vis": "A large male at a stretch of river / A female at her mound",
+          "shots": [
+            {
+              "t": 310.6,
+              "dur": 2.62,
+              "vis": "A large male at a stretch of river"
+            },
+            {
+              "t": 313.2,
+              "dur": 2.62,
+              "vis": "A female at her mound"
+            }
+          ],
+          "_t": 310.6,
+          "_dur": 5.24,
+          "_beats": ""
+        },
+        {
+          "id": "s7.l2",
+          "say": "The species is highly territorial, but they are known to congregate when resources are abundant. At Shady Camp lagoon on the Mary River, more than one hundred sub-adults and adults have been reported gathering when mullet spawn.",
+          "src": "CB36",
+          "source_tag": "IUCN Red List",
+          "vis": "Two adults holding space, apart / Wipe: a lagoon crowded with crocodiles / Map pin: Shady Camp, Mary River / Chip: MORE THAN 100, WHEN MULLET SPAWN",
+          "shots": [
+            {
+              "t": 315.8,
+              "dur": 2.85,
+              "vis": "Two adults holding space, apart"
+            },
+            {
+              "t": 318.7,
+              "dur": 2.85,
+              "vis": "Wipe: a lagoon crowded with crocodiles"
+            },
+            {
+              "t": 321.5,
+              "dur": 2.85,
+              "vis": "Map pin: Shady Camp, Mary River"
+            },
+            {
+              "t": 324.4,
+              "dur": 2.85,
+              "vis": "Chip: MORE THAN 100, WHEN MULLET SPAWN"
+            }
+          ],
+          "card": "SHADY CAMP: >100 WHEN MULLET SPAWN",
+          "_t": 315.8,
+          "_dur": 11.41,
+          "_beats": "P"
+        },
+        {
+          "id": "s7.l3",
+          "say": "As the number of large crocodiles rose after protection in 1971, the number of small ones fell. Small crocodiles are predated or excluded from rivers, and sometimes forced into marginal habitats, including upstream freshwater areas used for recreation.",
+          "src": "CB37",
+          "source_tag": "IUCN Red List",
+          "vis": "A timeline: protection, 1971 / Large-crocodile count rises; small-crocodile count falls / A smaller crocodile pushed upstream, toward a recreation bank",
+          "shots": [
+            {
+              "t": 327.2,
+              "dur": 3.91,
+              "vis": "A timeline: protection, 1971"
+            },
+            {
+              "t": 331.1,
+              "dur": 3.91,
+              "vis": "Large-crocodile count rises; small-crocodile count falls"
+            },
+            {
+              "t": 335.1,
+              "dur": 3.91,
+              "vis": "A smaller crocodile pushed upstream, toward a recreation bank"
+            }
+          ],
+          "card": "AFTER 1971 PROTECTION",
+          "_t": 327.2,
+          "_dur": 11.72,
+          "_beats": ""
+        },
+        {
+          "id": "s7.l4",
+          "say": "As the breeding season approaches, males advertise with displays meant to drive off rivals. Male interaction includes chasing, head-slapping and growling, and can escalate to combat leading to serious injury and death.",
+          "src": "CB38",
+          "source_tag": "Australian Museum",
+          "vis": "A male raises up and displays / Head-slap on the water; a growl / A chase / Combat, cut before gore; chip: CAN ESCALATE",
+          "shots": [
+            {
+              "t": 339.0,
+              "dur": 2.47,
+              "vis": "A male raises up and displays"
+            },
+            {
+              "t": 341.4,
+              "dur": 2.47,
+              "vis": "Head-slap on the water; a growl"
+            },
+            {
+              "t": 343.9,
+              "dur": 2.47,
+              "vis": "A chase"
+            },
+            {
+              "t": 346.4,
+              "dur": 2.47,
+              "vis": "Combat, cut before gore; chip: CAN ESCALATE"
+            }
+          ],
+          "_t": 339.0,
+          "_dur": 9.87,
+          "_beats": "P"
+        },
+        {
+          "id": "s7.l5",
+          "say": "Females also become intolerant of other females, and will jostle for dominance.",
+          "src": "CB38",
+          "source_tag": "Australian Museum",
+          "vis": "Two females jostle near a bank",
+          "shots": [
+            {
+              "t": 348.8,
+              "dur": 3.7,
+              "vis": "Two females jostle near a bank"
+            }
+          ],
+          "_t": 348.8,
+          "_dur": 3.7,
+          "_beats": ""
+        },
+        {
+          "id": "s7.l6",
+          "say": "Meatball advertised his territory. He head-slapped the coffee table. The table stayed put.",
+          "vis": "Meatball slaps the coffee table with the cardboard snout / The table does not move / Noodle watches from the doorway",
+          "shots": [
+            {
+              "t": 352.5,
+              "dur": 2.01,
+              "vis": "Meatball slaps the coffee table with the cardboard snout; then The table does not move"
+            },
+            {
+              "t": 354.5,
+              "dur": 2.31,
+              "vis": "Noodle watches from the doorway"
+            }
+          ],
+          "_t": 352.5,
+          "_dur": 4.01,
+          "_beats": "CJR"
+        }
+      ],
+      "_midroll_after": {
+        "type": "alt",
+        "at": 356.7,
+        "note": "Break in the 0.3 s gap after this chapter's last line, before the next voiced number line. Never mid-sentence."
+      }
+    },
+    {
+      "chapter": "7. How far you go",
+      "chip": "7 OF 8",
+      "_start": 356.8,
+      "lines": [
+        {
+          "id": "s8.l0",
+          "say": "Number seven. How far you go.",
+          "vis": "Voiced number card over a map of northern Australia",
+          "shots": [
+            {
+              "t": 356.8,
+              "dur": 1.85,
+              "vis": "Voiced number card over a map of northern Australia"
+            }
+          ],
+          "card": "7 OF 8: HOW FAR YOU GO",
+          "_t": 356.8,
+          "_dur": 1.85,
+          "_beats": ""
+        },
+        {
+          "id": "s8.l1",
+          "say": "Although they are called saltwater crocodiles, they also live in freshwater.",
+          "src": "CB45",
+          "source_tag": "Queensland Be Crocwise",
+          "vis": "The name SALTWATER CROCODILE on a card / The card slides over a freshwater billabong / The animal is still there",
+          "shots": [
+            {
+              "t": 358.7,
+              "dur": 3.39,
+              "vis": "The name SALTWATER CROCODILE on a card; then The card slides over a freshwater billabong; then The animal is still there"
+            }
+          ],
+          "card": "THEY ALSO LIVE IN FRESHWATER",
+          "_t": 358.7,
+          "_dur": 3.39,
+          "_beats": "P"
+        },
+        {
+          "id": "s8.l2",
+          "say": "They can travel hundreds of kilometres in the water, especially after heavy rain and floods, and can be found in all types of waterways and the ocean.",
+          "src": "CB44",
+          "source_tag": "Queensland Be Crocwise",
+          "vis": "Rain and a rising river / A crocodile moving with the flood / Icons: river, swamp, coast, open ocean",
+          "shots": [
+            {
+              "t": 362.1,
+              "dur": 2.78,
+              "vis": "Rain and a rising river"
+            },
+            {
+              "t": 364.9,
+              "dur": 2.78,
+              "vis": "A crocodile moving with the flood"
+            },
+            {
+              "t": 367.6,
+              "dur": 2.78,
+              "vis": "Icons: river, swamp, coast, open ocean"
+            }
+          ],
+          "card": "HUNDREDS OF KILOMETRES IN THE WATER",
+          "_t": 362.1,
+          "_dur": 8.33,
+          "_beats": ""
+        },
+        {
+          "id": "s8.l3",
+          "say": "No waterway within their natural range can be considered crocodile-free. Just because you can't see a crocodile does not mean there isn't one close by.",
+          "src": "CB44",
+          "source_tag": "Queensland Be Crocwise",
+          "vis": "A quiet, empty-looking waterway / The surface stays still / A faint outline just under it / Meter dips toward RAW",
+          "shots": [
+            {
+              "t": 370.4,
+              "dur": 2.57,
+              "vis": "A quiet, empty-looking waterway; then The surface stays still"
+            },
+            {
+              "t": 373.0,
+              "dur": 2.57,
+              "vis": "A faint outline just under it"
+            },
+            {
+              "t": 375.6,
+              "dur": 2.57,
+              "vis": "Meter dips toward RAW"
+            }
+          ],
+          "card": "NO WATERWAY IS CROCODILE-FREE",
+          "meter": 30,
+          "_t": 370.4,
+          "_dur": 7.71,
+          "_beats": "P"
+        },
+        {
+          "id": "s8.l4",
+          "say": "They can cross large stretches of open ocean, and they occur on islands up to ninety-six kilometres from the mainland.",
+          "src": "CB55",
+          "source_tag": "Australian Museum",
+          "vis": "A crocodile in open ocean, swimming / A chain of islands off the NT and Queensland coasts / Chip: UP TO 96 KM FROM THE MAINLAND",
+          "shots": [
+            {
+              "t": 378.1,
+              "dur": 2.06,
+              "vis": "A crocodile in open ocean, swimming"
+            },
+            {
+              "t": 380.2,
+              "dur": 2.06,
+              "vis": "A chain of islands off the NT and Queensland coasts"
+            },
+            {
+              "t": 382.2,
+              "dur": 2.06,
+              "vis": "Chip: UP TO 96 KM FROM THE MAINLAND"
+            }
+          ],
+          "card": "ISLANDS UP TO 96 KM OFFSHORE",
+          "_t": 378.1,
+          "_dur": 6.17,
+          "_beats": ""
+        },
+        {
+          "id": "s8.l5",
+          "say": "The species shows high site fidelity. Long-distance movements are usually linked to translocated adults, or to sub-adults looking for a territory. Some travel more than one hundred kilometres between breeding and non-breeding sites.",
+          "src": "CB40",
+          "source_tag": "IUCN Red List",
+          "vis": "A crocodile returning to the same stretch of river / Arrows for a moved adult, and for a dispersing sub-adult / A 100 km+ path between two sites",
+          "shots": [
+            {
+              "t": 384.3,
+              "dur": 3.39,
+              "vis": "A crocodile returning to the same stretch of river"
+            },
+            {
+              "t": 387.7,
+              "dur": 3.39,
+              "vis": "Arrows for a moved adult, and for a dispersing sub-adult"
+            },
+            {
+              "t": 391.1,
+              "dur": 3.39,
+              "vis": "A 100 km+ path between two sites"
+            }
+          ],
+          "card": "SITE FIDELITY; SOME TRAVEL >100 KM",
+          "_t": 384.3,
+          "_dur": 10.18,
+          "_beats": ""
+        },
+        {
+          "id": "s8.l6",
+          "say": "They have a strong homing ability after being moved. In one Northern Territory study of problem crocodiles moved between river systems, recaptured animals found their way back a mean of twenty-five point six kilometres in a straight line, or sixty-five kilometres assuming a coastal return.",
+          "src": "CB39",
+          "source_tag": "Australian Museum",
+          "vis": "A crocodile is moved from one river system to another / Its heading turns back / Map: two river systems / A straight-line arrow: MEAN 25.6 KM / A longer coastal route: MEAN 65.0 KM / Chip: RECAPTURED ANIMALS, ONE STUDY",
+          "shots": [
+            {
+              "t": 394.5,
+              "dur": 2.31,
+              "vis": "A crocodile is moved from one river system to another"
+            },
+            {
+              "t": 396.8,
+              "dur": 2.31,
+              "vis": "Its heading turns back"
+            },
+            {
+              "t": 399.1,
+              "dur": 2.31,
+              "vis": "Map: two river systems"
+            },
+            {
+              "t": 401.4,
+              "dur": 2.31,
+              "vis": "A straight-line arrow: MEAN 25.6 KM"
+            },
+            {
+              "t": 403.7,
+              "dur": 2.31,
+              "vis": "A longer coastal route: MEAN 65.0 KM"
+            },
+            {
+              "t": 406.1,
+              "dur": 2.31,
+              "vis": "Chip: RECAPTURED ANIMALS, ONE STUDY"
+            }
+          ],
+          "card": "ONE NT STUDY: MEAN 25.6 KM STRAIGHT LINE",
+          "_t": 394.5,
+          "_dur": 13.88,
+          "_beats": "P"
+        },
+        {
+          "id": "s8.l7",
+          "say": "Some returned in as little as ten days, and some took as long as three point seven years. Those data suggest that moving problem animals is not particularly effective.",
+          "src": "CB39",
+          "source_tag": "Australian Museum",
+          "vis": "A short 10-day arrow / A long 3.7-year arrow / Chip: NOT PARTICULARLY EFFECTIVE, FROM THAT STUDY",
+          "shots": [
+            {
+              "t": 408.4,
+              "dur": 2.98,
+              "vis": "A short 10-day arrow"
+            },
+            {
+              "t": 411.3,
+              "dur": 2.98,
+              "vis": "A long 3.7-year arrow"
+            },
+            {
+              "t": 414.3,
+              "dur": 2.98,
+              "vis": "Chip: NOT PARTICULARLY EFFECTIVE, FROM THAT STUDY"
+            }
+          ],
+          "card": "10 DAYS TO 3.7 YEARS",
+          "_t": 408.4,
+          "_dur": 8.95,
+          "_beats": "R"
+        },
+        {
+          "id": "s8.l8",
+          "say": "Meatball moved Noodle's bed across the room. Noodle moved it back. Damn it, Noodle.",
+          "vis": "Meatball drags Noodle's bed to the other wall / Noodle drags it back / Meatball watches",
+          "shots": [
+            {
+              "t": 417.3,
+              "dur": 2.16,
+              "vis": "Meatball drags Noodle's bed to the other wall; then Noodle drags it back"
+            },
+            {
+              "t": 419.5,
+              "dur": 2.46,
+              "vis": "Meatball watches"
+            }
+          ],
+          "_t": 417.3,
+          "_dur": 4.32,
+          "_beats": "CJS"
+        }
+      ],
+      "_midroll_after": {
+        "type": "alt",
+        "at": 421.8,
+        "note": "Break in the 0.3 s gap after this chapter's last line, before the next voiced number line. Never mid-sentence."
+      }
+    },
+    {
+      "chapter": "8. People",
+      "chip": "8 OF 8",
+      "_start": 421.9,
+      "lines": [
+        {
+          "id": "s9.l0",
+          "say": "Number eight. People.",
+          "vis": "Voiced number card over a warning sign at a river",
+          "shots": [
+            {
+              "t": 421.9,
+              "dur": 0.93,
+              "vis": "Voiced number card over a warning sign at a river"
+            }
+          ],
+          "card": "8 OF 8: PEOPLE",
+          "_t": 421.9,
+          "_dur": 0.93,
+          "_beats": ""
+        },
+        {
+          "id": "s9.l1",
+          "say": "Saltwater crocodiles are dangerous. They have attacked and killed people. They inhabit most areas of water in Kakadu National Park, including floodplains, freshwater billabongs, creeks, rivers and coastal areas.",
+          "src": "CB48",
+          "source_tag": "Parks Australia, Kakadu",
+          "vis": "Plain card on a dimmed background, no images at first / A map of Kakadu water: floodplains, billabongs, creeks, rivers, coast / Meter dips toward RAW",
+          "shots": [
+            {
+              "t": 422.9,
+              "dur": 2.98,
+              "vis": "Plain card on a dimmed background, no images at first"
+            },
+            {
+              "t": 425.8,
+              "dur": 2.98,
+              "vis": "A map of Kakadu water: floodplains, billabongs, creeks, rivers, coast"
+            },
+            {
+              "t": 428.8,
+              "dur": 2.98,
+              "vis": "Meter dips toward RAW"
+            }
+          ],
+          "meter": 22,
+          "_t": 422.9,
+          "_dur": 8.95,
+          "_beats": "P"
+        },
+        {
+          "id": "s9.l2",
+          "say": "Always obey warning signs. If there are no warning signs, it is always best to assume crocodiles are present.",
+          "src": "CB48",
+          "source_tag": "Parks Australia, Kakadu",
+          "vis": "A crocodile warning sign / The same bank with no sign / Card: ASSUME CROCODILES ARE PRESENT",
+          "shots": [
+            {
+              "t": 431.8,
+              "dur": 2.93,
+              "vis": "A crocodile warning sign; then The same bank with no sign"
+            },
+            {
+              "t": 434.7,
+              "dur": 2.93,
+              "vis": "Card: ASSUME CROCODILES ARE PRESENT"
+            }
+          ],
+          "card": "ASSUME THEY ARE PRESENT",
+          "_t": 431.8,
+          "_dur": 5.86,
+          "_beats": ""
+        },
+        {
+          "id": "s9.l3",
+          "say": "In areas where crocodiles live, being Crocwise starts with three simple steps. Keep out of the water. Stay more than five metres away from the water's edge. Keep a sturdy object between yourself and the water.",
+          "src": "CB42",
+          "source_tag": "Queensland Be Crocwise",
+          "vis": "Trigger chip: IN AREAS WHERE CROCODILES LIVE / Icon 1: KEEP OUT OF THE WATER / Icon 2: STAY MORE THAN 5 M FROM THE EDGE / Icon 3: A STURDY OBJECT BETWEEN YOU AND THE WATER",
+          "shots": [
+            {
+              "t": 437.7,
+              "dur": 2.78,
+              "vis": "Trigger chip: IN AREAS WHERE CROCODILES LIVE"
+            },
+            {
+              "t": 440.4,
+              "dur": 2.78,
+              "vis": "Icon 1: KEEP OUT OF THE WATER"
+            },
+            {
+              "t": 443.2,
+              "dur": 2.78,
+              "vis": "Icon 2: STAY MORE THAN 5 M FROM THE EDGE"
+            },
+            {
+              "t": 446.0,
+              "dur": 2.78,
+              "vis": "Icon 3: A STURDY OBJECT BETWEEN YOU AND THE WATER"
+            }
+          ],
+          "card": "STAY MORE THAN 5 M FROM THE EDGE",
+          "_t": 437.7,
+          "_dur": 11.11,
+          "_beats": ""
+        },
+        {
+          "id": "s9.l4",
+          "say": "Be extra cautious at night, dusk and dawn. Crocodiles are especially difficult to see at these times.",
+          "src": "CB43",
+          "source_tag": "Queensland Be Crocwise",
+          "vis": "Dusk at a river, hard to read the surface / Dawn, same bank / Night; eyes almost invisible",
+          "shots": [
+            {
+              "t": 448.8,
+              "dur": 2.62,
+              "vis": "Dusk at a river, hard to read the surface; then Dawn, same bank"
+            },
+            {
+              "t": 451.4,
+              "dur": 2.62,
+              "vis": "Night; eyes almost invisible"
+            }
+          ],
+          "card": "EXTRA CAUTION AT NIGHT, DUSK AND DAWN",
+          "_t": 448.8,
+          "_dur": 5.24,
+          "_beats": "P"
+        },
+        {
+          "id": "s9.l5",
+          "say": "Never approach, interfere with or feed crocodiles, even small ones. Camp at least fifty metres from the water's edge, and avoid areas where animals come down to drink.",
+          "src": "CB46",
+          "source_tag": "NT Be Crocwise",
+          "vis": "A small crocodile; a clear 'do not approach' hold / A camp set 50 m back from the edge / A game trail to water, left alone",
+          "shots": [
+            {
+              "t": 454.0,
+              "dur": 2.88,
+              "vis": "A small crocodile; a clear 'do not approach' hold"
+            },
+            {
+              "t": 456.9,
+              "dur": 2.88,
+              "vis": "A camp set 50 m back from the edge"
+            },
+            {
+              "t": 459.8,
+              "dur": 2.88,
+              "vis": "A game trail to water, left alone"
+            }
+          ],
+          "card": "NEVER APPROACH OR FEED; CAMP 50 M BACK",
+          "_t": 454.0,
+          "_dur": 8.64,
+          "_beats": ""
+        },
+        {
+          "id": "s9.l6",
+          "say": "Any body of water in the Top End may contain large and potentially dangerous crocodiles.",
+          "src": "CB47",
+          "source_tag": "NT Be Crocwise",
+          "vis": "A map of the Top End, many waterways lit / Quiet water, no crocodile visible",
+          "shots": [
+            {
+              "t": 462.6,
+              "dur": 2.31,
+              "vis": "A map of the Top End, many waterways lit"
+            },
+            {
+              "t": 465.0,
+              "dur": 2.31,
+              "vis": "Quiet water, no crocodile visible"
+            }
+          ],
+          "card": "ANY BODY OF WATER IN THE TOP END",
+          "_t": 462.6,
+          "_dur": 4.63,
+          "_beats": ""
+        },
+        {
+          "id": "s9.l7",
+          "say": "Meatball made a tape mark in the hallway. Noodle sat on the tape.",
+          "vis": "Meatball sticks a line of tape across the hallway / He sits well down the hall / Noodle sits on the tape",
+          "shots": [
+            {
+              "t": 467.3,
+              "dur": 2.01,
+              "vis": "Meatball sticks a line of tape across the hallway; then He sits well down the hall"
+            },
+            {
+              "t": 469.3,
+              "dur": 2.31,
+              "vis": "Noodle sits on the tape"
+            }
+          ],
+          "_t": 467.3,
+          "_dur": 4.01,
+          "_beats": "CJR"
+        }
+      ]
+    },
+    {
+      "chapter": "The verdict",
+      "chip": "",
+      "_start": 471.6,
+      "lines": [
+        {
+          "id": "s10.l0",
+          "say": "Here's the verdict, and it's an opinion.",
+          "vis": "Two columns appear: RAW and SWEET",
+          "shots": [
+            {
+              "t": 471.6,
+              "dur": 2.16,
+              "vis": "Two columns appear: RAW and SWEET"
+            }
+          ],
+          "_t": 471.6,
+          "_dur": 2.16,
+          "_beats": "R"
+        },
+        {
+          "id": "s10.l1",
+          "say": "Raw: a nest that can flood, early odds that are thin, and a waterline that does not give you a second look.",
+          "src": "CB7, CB19, CB25",
+          "vis": "RAW column: flood chip drops in / Early-odds chip / Waterline chip",
+          "shots": [
+            {
+              "t": 473.7,
+              "dur": 2.26,
+              "vis": "RAW column: flood chip drops in"
+            },
+            {
+              "t": 476.0,
+              "dur": 2.26,
+              "vis": "Early-odds chip"
+            },
+            {
+              "t": 478.3,
+              "dur": 2.26,
+              "vis": "Waterline chip"
+            }
+          ],
+          "_t": 473.7,
+          "_dur": 6.79,
+          "_beats": ""
+        },
+        {
+          "id": "s10.l2",
+          "say": "Sweet: you may get a mother who carries you to the water, a bite that's the highest ever measured in one animal, and decades if you make it.",
+          "src": "CB15, CB21, CB33",
+          "vis": "SWEET column: mother-carry chip / Bite-force chip / 50+ years chip",
+          "shots": [
+            {
+              "t": 480.5,
+              "dur": 2.88,
+              "vis": "SWEET column: mother-carry chip"
+            },
+            {
+              "t": 483.4,
+              "dur": 2.88,
+              "vis": "Bite-force chip"
+            },
+            {
+              "t": 486.3,
+              "dur": 2.88,
+              "vis": "50+ years chip"
+            }
+          ],
+          "_t": 480.5,
+          "_dur": 8.64,
+          "_beats": ""
+        },
+        {
+          "id": "s10.l3",
+          "say": "In areas where crocodiles live, stay out of the water, stay more than five metres from the water's edge, camp at least fifty metres back, and never approach or feed one.",
+          "src": "CB42, CB46",
+          "vis": "Meter swings toward RAW / Then climbs / Past the middle",
+          "shots": [
+            {
+              "t": 489.2,
+              "dur": 3.19,
+              "vis": "Meter swings toward RAW"
+            },
+            {
+              "t": 492.4,
+              "dur": 3.19,
+              "vis": "Then climbs"
+            },
+            {
+              "t": 495.5,
+              "dur": 3.19,
+              "vis": "Past the middle"
+            }
+          ],
+          "_t": 489.2,
+          "_dur": 9.56,
+          "_beats": "R"
+        },
+        {
+          "id": "s10.l4",
+          "say": "Hell of a sweet deal, with conditions.",
+          "vis": "Lands in SWEET, with a WITH CONDITIONS tag",
+          "shots": [
+            {
+              "t": 498.7,
+              "dur": 2.16,
+              "vis": "Lands in SWEET, with a WITH CONDITIONS tag"
+            }
+          ],
+          "card": "OUR VERDICT: SWEET, WITH CONDITIONS",
+          "meter": 75,
+          "_t": 498.7,
+          "_dur": 2.16,
+          "_beats": "PS"
+        },
+        {
+          "id": "s10.l5",
+          "say": "Now think back to the hatchling from the start. Seventy grams. About thirty centimetres. Still in the egg.",
+          "src": "CB14",
+          "vis": "Callback: the same hatching shot from 0:00 / Slow push on the cracking egg",
+          "shots": [
+            {
+              "t": 500.9,
+              "dur": 2.78,
+              "vis": "Callback: the same hatching shot from 0:00"
+            },
+            {
+              "t": 503.7,
+              "dur": 2.78,
+              "vis": "Slow push on the cracking egg"
+            }
+          ],
+          "_t": 500.9,
+          "_dur": 5.55,
+          "_beats": "R"
+        },
+        {
+          "id": "s10.l6",
+          "say": "Meatball's final stamp: sweet, with conditions. Sauce's stamp: she used it as a stepping stool.",
+          "vis": "Meatball stamps SWEET, then adds a small WITH CONDITIONS / Sauce steps on the pad to get to the couch",
+          "shots": [
+            {
+              "t": 506.4,
+              "dur": 2.31,
+              "vis": "Meatball stamps SWEET, then adds a small WITH CONDITIONS"
+            },
+            {
+              "t": 508.8,
+              "dur": 2.31,
+              "vis": "Sauce steps on the pad to get to the couch"
+            }
+          ],
+          "_t": 506.4,
+          "_dur": 4.63,
+          "_beats": "CJ"
+        },
+        {
+          "id": "s10.l7",
+          "say": "If you want the big-cat version, Your Life as a Lion is right here.",
+          "vis": "Meatball points at the camera / End screen: lion born-as video tile; Meatball points at it",
+          "shots": [
+            {
+              "t": 511.1,
+              "dur": 2.16,
+              "vis": "Meatball points at the camera"
+            },
+            {
+              "t": 513.2,
+              "dur": 2.16,
+              "vis": "End screen: lion born-as video tile; Meatball points at it"
+            }
+          ],
+          "_t": 511.1,
+          "_dur": 4.32,
+          "_beats": "CR"
+        }
+      ]
+    }
+  ],
+  "pinned_comment": "Meatball wants to know: which of the first four gets you? The nest, the early odds, the bite, or the waterline? Drop the number. Meatball's stamp: sweet, with conditions.",
+  "mid_video_comment_prompt": {
+    "id": "s5.l1",
+    "t": 241.8,
+    "say": "Meatball wants to know: which of the first four gets you? The nest, the early odds, the bite, or the waterline? Drop the number in the comments.",
+    "on_screen": "COMMENT: WHICH ONE GETS YOU? 1, 2, 3 OR 4"
+  },
+  "end_screen_video": "Your Life as a Lion: 8 Things You Have to Get Through (drafted; target mentioned in the lion v2 file as Sat 11/28). If lion is not live, use the Related-video rule's live fallback. This episode has no booked date.",
+  "sources_file": "/workspace/drafts/facts/crocodile-bornas.md (box draft; would become research/<next>-crocodile-life-factpack.md if approved)",
+  "description": "What is life like for a saltwater crocodile? This is your whole life as one, from a seventy-gram hatchling in a vegetation mound to the waterline: 8 things you have to get through, then the verdict. Meatball tried all eight from the couch, with his dog, Noodle, as the stand-in and his cat, Sauce, as everybody else.\n\nChecked facts in this video:\n- Saltwater crocodile hatchlings are about 70 grams and about 30 centimetres long (Queensland Government).\n- In Australian counts, females lay about 50 eggs, or 40 to 70. Incubation is typically 80 to 90 days, depending on temperature (IUCN Red List; Queensland Government).\n- Nest temperature decides sex. On the Queensland page, 32°C produces both sexes but most are male; lower or higher temperatures produce more females; very high or very low temperatures kill the embryos (Queensland Government).\n- The Australian Museum estimates that up to 75% of eggs laid in a season will not hatch, mostly from infertility, flooding, overheating, poor gas exchange and drying out, not predators.\n- Northern Territory figures say, on average, only 25% of eggs will hatch and 54% of hatchlings will survive the first year. Only 1% of hatchlings are thought to survive to maturity in the wild (NT Government). The page is official but names no study and no count.\n- In one study, one saltwater crocodile produced a bite force of 16,414 N (about 3,689 lb), the highest measured in any animal. Seven adult saltwater crocodiles were tested; the representative value for the species was 8,983 N (Erickson et al. 2012, PLoS ONE). Never read this as 'crocodiles bite at 3,689 pounds.'\n- Estuarine crocodiles wait in ambush at the water's edge. They can attack in knee-deep water, so even wading can be dangerous (Queensland Government; Parks Australia, Kakadu). Large saltwater crocodiles can stay underwater for up to one hour (NT Government).\n- Females usually mature at about 12 years; males in the mid-teens, depending on the official page (Queensland Government; NT Be Crocwise). Average adult length is 3–5 m (Australian Museum). The largest reliably measured animal, Mary River, 1974, was at least 615 cm (Australian Museum).\n- IUCN lists Crocodylus porosus as Least Concern, with a stable trend. Queensland lists it as Vulnerable under state law. Those are different listings.\n- Although they are called saltwater crocodiles, they also live in freshwater. They can travel hundreds of kilometres in the water, especially after heavy rain and floods. No waterway within their natural range can be considered crocodile-free (Queensland Be Crocwise).\n- Safety, in areas where crocodiles live: keep out of the water; stay more than 5 metres away from the water's edge; be extra cautious at night, dusk and dawn (Queensland Be Crocwise). Never approach, interfere with or feed crocodiles, even small ones. Camp at least 50 metres from the water's edge. Any body of water in the Top End may contain large and potentially dangerous crocodiles (NT Be Crocwise). Saltwater crocodiles are dangerous. They have attacked and killed people. If there are no warning signs, assume crocodiles are present (Parks Australia, Kakadu). They can attack in knee-deep water, so even wading can be dangerous (Parks Australia, Kakadu).\n\nGeneral information, not safety advice for a specific place. Follow local warning signs and official Be Crocwise guidance.\n\nSources:\n- Queensland Government, Estuarine crocodile: https://www.qld.gov.au/environment/plants-animals/animals/living-with/crocodiles/estuarine-crocodile\n- Queensland Be Crocwise: https://www.qld.gov.au/environment/plants-animals/animals/living-with/crocodiles/becrocwise ; Be Crocwise top tips: https://www.qld.gov.au/environment/plants-animals/animals/living-with/crocodiles/becrocwise/be-crocwise-top-tips ; Where are crocs found: https://www.qld.gov.au/environment/plants-animals/animals/living-with/crocodiles/becrocwise/where-are-crocs-found\n- IUCN Red List, Crocodylus porosus (errata version published in 2025), Webb et al. 2021, assessed 14 November 2019: https://www.iucnredlist.org/species/5668/268788998 ; assessment PDF: https://www.iucnredlist.org/species/5668/268788998/pdf\n- Australian Museum, Estuarine Crocodile, Cecilie Beatson, updated 19/11/20: https://australian.museum/learn/animals/reptiles/estuarine-crocodile/\n- NT Government, Crocodiles: https://nt.gov.au/environment/animals/wildlife-in-nt/crocodiles/crocodiles\n- NT Be Crocwise, Saltwater crocodiles: https://becrocwise.nt.gov.au/about-crocodiles/saltwater-crocodiles ; Crocodiles and me: https://becrocwise.nt.gov.au/crocodiles-and-me ; home: https://becrocwise.nt.gov.au/\n- Parks Australia, Kakadu, Staying safe: https://kakadu.gov.au/plan/plan-your-trip/staying-safe/\n- Erickson GM et al. (2012) Insights into the ecology and evolutionary success of crocodilians revealed through bite-force and tooth-pressure experimentation. PLoS ONE 7(3): e31781. https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0031781\n\n#crocodile #saltwatercrocodile #animalfacts #meatballmyths",
+  "art_needed": [
+    "Saltwater crocodile hatchling cracking an egg in a vegetation mound; about hand-length (CB14). Lines: s0.*, s2.*, s10.l4.",
+    "Female building and guarding a mound close to a river; eggs in the mound; floodwater climbing (CB7, CB9). Lines: s1.*.",
+    "Temperature-and-sex graphic at 32°C, not blended with other official thresholds (CB11). Line: s1.l8.",
+    "Mother digging hatchlings out, optional mouth-carry to the water, crèche for up to five weeks (CB14, CB15). Lines: s2.*.",
+    "Egg-grid fade (reasons other than predators) and separate NT figure cards for 25% / 54% / 1%, never merged (CB13, CB19). Lines: s2.l5–s2.l7. Pause treatment on the 1% card.",
+    "Bite-force graphics: one animal 16,414 N; range and mean 8,983 N from seven adults; spotted hyena 4,500 N (CB21–CB23). No 17-foot label, no psi. Lines: s3.*.",
+    "Waterline ambush, sideways snap, death-roll cut before gore, knee-deep water, minimum-exposure posture (only eyes, ears, nostrils), underwater approach and strike (CB25–CB30). Lines: s4.*.",
+    "Growth: 2.3 m female / 3.3 m male, 3–5 m adults, reported 6–7 m outline behind them, Mary River 1974 'at least 615 cm' (CB4, CB5, CB31). Lines: s6.*.",
+    "Two separate status cards: IUCN Least Concern and Queensland Vulnerable, not merged (CB1, CB3). Line: s6.l6.",
+    "Shady Camp congregation, 1971 protection counts, head-slap and display, combat cut before gore (CB36–CB38). Lines: s7.*.",
+    "Freshwater billabong vs the 'saltwater' name, flood travel, island chain up to 96 km, homing map with 25.6 km straight / 65 km coastal (CB39, CB40, CB44, CB45, CB55). Lines: s8.*.",
+    "Kakadu water map and killed-people pause card; warning sign and a bank with no sign; 5 m gap; dusk/dawn/night; 50 m camp set-back; Top End waterways map (CB47). No fines notice. No demonstration of approaching, feeding, wading, or holding a jaw shut. Lines: s9.*. Pause treatment on s9.l1. Knee-deep water stays in s4.l4 only.",
+    "Meatball's cardboard crocodile snout, couch-cushion nest, rubber stamp (RAW/SWEET, plus WITH CONDITIONS), bathtub minimum-exposure, hallway tape. Noodle (dog) and Sauce (cat) name tags.",
+    "Lower-third source tag style (small, bottom left, about 2 s per line). Comment pill (bottom right) for the halfway prompt.",
+    "End screen: lion born-as video tile; Meatball points; tile pulses (animated, not a still)."
+  ],
+  "alt_cold_opens": [
+    {
+      "id": "A",
+      "say": "You were just born a crocodile, and you've got eight things to get through. You're about seventy grams, and one of them is the waterline.",
+      "src": "CB14, CB25",
+      "promise_spoken_by_s": 4.32
+    },
+    {
+      "id": "B",
+      "say": "Eight things you have to get through, starting now: you were just born a crocodile. You're still in the egg.",
+      "src": "CB14",
+      "promise_spoken_by_s": 4.63
+    },
+    {
+      "id": "C",
+      "say": "You were just born a crocodile. Eight things stand between you and the waterline, and one of them is a nest that can flood.",
+      "src": "CB7",
+      "promise_spoken_by_s": 4.32
+    }
+  ],
+  "_changelog": [
+    "Verdict split (Social Studio, 11/15): the safety distances are now their own line (s10.l3, CB42/CB46, with 'In areas where crocodiles live'), and 'Hell of a sweet deal, with conditions.' follows as s10.l4, so no mild word or joke sits inside a safety line. The 11-word hedged croc-bite hook is kept (Social Studio call).",
+    "Social Studio approved the first draft with five edits, applied in place.",
+    "Chapter 8, People, is cut to five core safety lines, each with its official trigger and condition: CB42 Crocwise (in areas where crocodiles live); CB43 extra caution at night, dusk and dawn, and why; CB46 never approach, interfere with or feed, even small ones, and camp at least 50 m from the water's edge; CB48 always obey warning signs, and if there are none, assume crocodiles are present; CB27 knee-deep / even wading, kept in chapter 4 only and not repeated. The Kakadu 'have attacked and killed people' line stays as the pause line at the top of the chapter, because it flows into the warning-signs line (same source). No joke on it or right after it. The hallway-tape joke comes only after the last safety line.",
+    "Kept chapter 7 (How far you go). Kept the hedged NT survival figures (CB19). Left the comment prompt where it is (about 4:02).",
+    "Teaser croc-bite hook, per the fact-check, is now 'One saltwater crocodile, in one study, hit 3,689 pounds of force.' The frame-0 card keeps the hedge and Erickson et al. 2012 (not spoken). Line 4 and the long-form s3.l5 card now say 'representative bite force,' not 'species mean.' To stay in 16–18 s, the spoken hedge was dropped from teaser line 2 (it lives in the hook and on the card) and the gag was shortened to 'Meatball tried a couch pillow. The pillow was just fine.'",
+    "s3.l5 card is now 'REPRESENTATIVE: 8,983 N (n=7).' s6.l7 now begins 'In Australia,'. s8.l2 and teaser 2 line 3 add 'in the water' after 'hundreds of kilometres.'",
+    "People chapter follows the fact-check's five lines: Kakadu killed-people pause plus warning signs (CB48); Crocwise three steps with the 5 m distance and the trigger 'in areas where crocodiles live' (CB42); extra caution at night, dusk and dawn (CB43); never approach, interfere with or feed, even small ones, and camp at least fifty metres from the water's edge (CB46); any body of water in the Top End may contain large and potentially dangerous crocodiles (CB47). Knee-deep / even wading (CB27) stays in chapter 4 only. The verdict recap keeps the 5 m and 50 m distances and no longer says 'keep back from the edge.'",
+    "Re-timed after the People cut and the fact-check wording edits. Runtime and mid-roll times are in the chapter map. Primaries stay after chapter 2 and chapter 5, 2:58.0 apart, not on a safety line.",
+    "First draft of the crocodile born-as long-form, written to the dog / lion v2 structure and Social Studio's 11/15 long-form pacing rule: promise by 0:05, no rules or score intro, no silent countdowns, a timed shot every 2 to 4 s (test), one mid-video pick-a-number comment prompt, citations on screen (source_tag) and in the description only.",
+    "Lead species: saltwater crocodile (Crocodylus porosus). Facts: /workspace/drafts/facts/crocodile-bornas.md (CB1 to CB55).",
+    "Mid-rolls: two primaries, after chapter 2 (The first days) at 2:11.2 and after chapter 5 (Growing up) at 5:09.2. Those two are 2:58.0 apart. Alternates after chapter 1 (The nest), chapter 3 (The bite), chapter 4 (The waterline), chapter 6 (Other crocodiles) and chapter 7 (How far you go). No mid-roll after chapter 8 (People), because that chapter is the safety cluster. Each primary sits in the 0.3 s chapter gap, not mid-joke and not on a safety line.",
+    "CB19 used with the 'Northern Territory figures say' hedge; 1% keeps 'thought to.' CB53 (64–68 teeth) was cut for runtime; CB6 (male/female weight ranges) was cut as overlapping the 3–5 m average; CB52 (jaw opening) was left out so there is no imitable mouth-shut beat; CB24 (modelled 6.7 m bite) was not used.",
+    "No calendar date is booked. Draft due Sat 11/21, finished now. Teasers are in /workspace/drafts/croc-teasers.md, with all slots TBD."
+  ],
+  "_resolved": [
+    "Lead species is the saltwater crocodile (C. porosus), per the fact pack. Nile, freshwater crocodile, alligator and general-crocodilian figures are not mixed in.",
+    "CB19 is used, hedged: 'Northern Territory figures say, on average,' with 'thought to' and 'in the wild' kept on the 1% line. CB13 is said first, as a different measure. Fallback is in the open questions.",
+    "Bite beat says 'in one study, one saltwater crocodile' for 16,414 N (about 3,689 lb), then the species mean 8,983 N from seven adults, then the hyena comparison from the same paper. No psi, no 'crocodiles bite at 3,689 pounds,' no 17-foot animal, no 6.7 m model prediction (CB24).",
+    "Incubation is IUCN's 'typically 80 to 90 days, depending on temperature' (CB8). Perth Zoo's 100 days and NT's 'from 75 days' are not used as the figure. Sex thresholds are Queensland only (CB11), not blended with NT or Perth Zoo (D3).",
+    "Largest size is the Australian Museum's 'reliably measured… at least 615 cm' (CB5). No 10 m crocodiles, no 8-hour dives (NT 'up to one hour' for large animals, plus Queensland's 'hours'). No speed or outrun beat. No 'hold its mouth shut' joke; CB52 was not used.",
+    "IUCN Least Concern and Queensland Vulnerable are named as different listings, not blended (CB1, CB3).",
+    "Safety lines keep their official trigger and wording. Chapter 8 follows the fact-check's five lines, including the 5 m and 50 m distances: CB48 killed-people pause plus warning signs; CB42 Crocwise with the trigger 'in areas where crocodiles live' and 'stay more than five metres away from the water's edge'; CB43 extra caution at night, dusk and dawn, and why; CB46 never approach, interfere with or feed, even small ones, and camp at least fifty metres from the water's edge; CB47 any body of water in the Top End. CB27 knee-deep / even wading stays in chapter 4 only and is not repeated. The Kakadu 'have attacked and killed people' line is the pause line at the top of chapter 8, with no joke on it or right after it. The hallway-tape joke comes only after the last safety line (CB47). The verdict recap keeps the 5 m and 50 m distances and does not say 'keep back from the edge.'",
+    "No calendar date is booked. The draft was due Sat 11/21 and is being finished now.",
+    "Social Studio, this pass: kept chapter 7 (How far you go); kept the hedged NT survival figures (CB19); left the comment prompt where it is (about 4:02). Fact-check then set the croc-bite hook to 'One saltwater crocodile, in one study, hit 3,689 pounds of force,' with the hedge also on the frame-0 card."
+  ],
+  "_open_questions": [
+    {
+      "line": "s6.l1 (CB31, CB32)",
+      "question": "Maturity is still hedged as 'about twelve years for females, and in the mid-teens for males, depending on the official page,' because Queensland says males about 17 and NT says 16, and the pack bars mixing those ages in one line. Social Studio did not rule on this.",
+      "fallback": "Use only Queensland's wording (males about 17 years and about 3.3 m; females around 12 years and about 2.3 m) and drop the NT age."
+    },
+    {
+      "line": "s9.l5 (CB46)",
+      "question": "The NT Be Crocwise page spells the camping distance as '50 meters.' The script speaks and cards 'metres,' to match Queensland's official spelling in the same video. Social Studio did not rule on the spelling.",
+      "fallback": "Say 'meters' on the NT line only, or put both spellings on the tag and keep 'metres' in speech."
+    },
+    {
+      "line": "end screen",
+      "question": "Watch-next points to the lion born-as, as briefed. Lion is drafted with a target of Sat 11/28; it may not be live when this episode is ready, and this episode has no booked date.",
+      "fallback": "If lion is not live, use the Related-video rule's live fallback (house cat, or polar if that has posted)."
+    }
+  ],
+  "_for_claude": [
+    "TTS pronunciation check before render: 'Crocodylus porosus' (if a caption or card reads the Latin name; it is not spoken), 'estuarine,' 'Celsius,' 'newtons,' 'crèche' (spoken), 'goannas,' 'barramundi,' 'Kakadu,' 'billabongs,' 'Crocwise,' 'theobromine' n/a, 'sixteen thousand four hundred fourteen,' 'eight thousand nine hundred eighty-three,' 'six hundred fifteen centimetres,' 'twenty-five point six.' Add tts respellings in the build JSON if the Andrew voice misreads them; captions keep 'say'.",
+    "Builder and shot set: there is no crocodile born-as shot set (the polar one is tools/drawn_pb_shots.py). A crocodile recipe set (hatchling and mound, mother at the nest, crèche, bite-force graphic, waterline ambush, minimum-exposure posture, Meatball cardboard snout, Noodle, Sauce) is needed before build; art_needed lists the assets.",
+    "Shot set: each line has a 'shots' list (t, dur, vis). Visuals were merged so a shot lasts 2 to 4 s where the line allows ('; then ' joins merged visuals, which the builder can play as one moving shot). 'vis' keeps the full listed beat. Short voiced number cards (1 to 2 s) are their own shots by design. The 12 s end screen is the only hold over 4 s; animate it.",
+    "Source tags: 'source_tag' is a small lower-third on the line's first shot (about 2 s), never spoken. Lines with two sources show both.",
+    "Second-model check of the jokes and safety lines, as for every long-form. Research & Fact-check already built the pack; they should also check this draft's jokes and safety wording.",
+    "Dog shot-set / croc shot-set request still goes to Claude, not a fact-pack request. No new bug or spider packs."
+  ],
+  "_masterorders_check": [
+    "Title: the pipeline pitch (concept 5) and this brief use 'Your Life as a Crocodile: 8 Things You Have to Get Through.' 'Sucks' stays out of the title. Single title, no A/B set.",
+    "Date: no calendar date is booked. Social Studio ruled that no dates are set for anything still pending approval. The script was due Sat 11/21 and is being finished now. Do not book a slot.",
+    "Spoken sourcing: citations are in on-screen tags and the description only, except where a hedge has to name the official body ('Northern Territory figures say'; 'in areas where crocodiles live'; 'in Kakadu National Park'; 'depending on the official page'). Those are conditions or hedges, not spoken academic credits.",
+    "Shot rhythm: the 2-4 s rule is a test per Social Studio. Not a blocker. Longest hold in speech is under 4.0 s; voiced number cards may run under 2 s.",
+    "Count and order in the first 15 s: 'eight things' by 4.6 s; 'They hit you in order' at 0:13.3.",
+    "No joke, intro or comment ask before 0:25: first joke 0:41.6, comment prompt 4:01.8.",
+    "No spoken countdowns; every number card is a voiced 'Number X' line; chapter gaps are 0.3 s.",
+    "Pinned comment (open question, not yes/no): matches the pick-a-number prompt, the style Social Studio approved.",
+    "Overlap with queued Shorts: the Nov 16–29 house-bug test does not include a crocodile Short. An older croc-bite Short outline existed; this long-form reopened the PLoS ONE paper and does not use the old '17-foot' wording. Teasers have no booked dates.",
+    "Length: 8:47.4 at 194.5 wpm, above 8:00 with about 47 s of margin; about 9:28.7 at the ~180 wpm the polar render ran."
+  ],
+  "_notes": [
+    "Noodle lines (5): s1.l4, s1.l10, s2.l4, s8.l8, s9.l7. Planted at s1.l4 as 'his dog, Noodle.' He takes a cushion, steals the sock, watches the coffee-table slap, moves his bed back, and sits on the hallway tape. He is never at a real waterline, never wading, never food, never 'eaten.'",
+    "Sauce lines (5): s1.l4, s1.l5, s4.l7, s6.l8, s10.l6. Planted at s1.l4 as 'his cat, Sauce.' She sits on the cushion nest, leaves the bathroom, sleeps on the calendar, and uses the stamp pad as a stepping stool.",
+    "No joke on or right after the flood-drowning line (s1.l2), the 1% maturity line (s2.l7), the knee-deep wading line (s4.l4), the 'no waterway is crocodile-free' line (s8.l3), or any People safety line. The hallway-tape joke (s9.l7) comes only after the last safety line (CB47). Jokes never put Meatball, Noodle, Sauce or a person swimming, wading, crouching at a real edge, retrieving a lure, camping on a bank, approaching, feeding, or holding a jaw shut.",
+    "CB53 (64–68 teeth) was cut for runtime in the first draft. This pass also cuts, from speech, CB41, the reach-and-crouch clause of CB43, the 'absence of a sign' clause of CB45, CB50 and CB51. CB47 (any body of water in the Top End) is kept as the fact-check's fifth People line. CB6, CB10, CB12, CB16, CB17, CB18, CB24, CB49, CB52 and CB54 remain unused: disagreements, modelled bite, camping-detail overlap with CB46, or unsafe-to-imitate jaw opening. CB27 stays in chapter 4 only.",
+    "No existing crocodile born-as script. The pack was built for this episode. An older bite-force Short outline used '17-foot'; that wording is not used."
+  ],
+  "_factcheck": "Not yet checked by a second model. Every fact line carries its CB ID in 'src'. Research & Fact-check built the pack on 2026-11-15.",
+  "builder": "drawn_polarlife (assumed; a crocodile shot set like tools/drawn_pb_shots.py would be needed)",
+  "pause_lines": [
+    "s2.l7",
+    "s4.l4",
+    "s8.l3",
+    "s9.l1"
+  ],
+  "end_hold": 12.0,
+  "end_label": "Your Life as a Lion: 8 Things You Have to Get Through",
+  "end_label_short": "YOUR LIFE AS A LION",
+  "_timing": {
+    "wpm": 194.5,
+    "words": 1661,
+    "chapter_gap_s": 0.3,
+    "speech_s": 515.4,
+    "runtime_s": 527.4,
+    "runtime": "8:47.4",
+    "promise_spoken_by_s": 4.63,
+    "first_joke_s": 41.6,
+    "comment_prompt_s": 241.8,
+    "speech_midpoint_s": 257.7,
+    "mild_words": 4,
+    "longest_shot_hold_s": 3.91,
+    "longest_shot_hold_at": "s7.l3 shot 2",
+    "shots": 200,
+    "shots_under_2s": 8,
+    "max_gap_s": {
+      "peak": 34.9,
+      "character": 73.4,
+      "retention": 114.7
+    }
+  }
+}
