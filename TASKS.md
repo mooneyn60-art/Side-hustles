@@ -17,12 +17,7 @@ The daily Etsy queue for the Etsy Claude session was moved out of this notebook 
 
 > OWNER: MEATBALL CLAUDE ONLY (@MeatballMyths). Etsy Claude: ignore this section.
 
-## [MEATBALL] RESEARCH ASK (2026-11-17 11:18 AM ET, Social Studio; Moondog88 asked, Jarvis routed it here): faceless outliers and how they monetize
-Read `channels/research/youtube-deep-dive-1117.md` and `channels/research/swot-1117.md` first. Don't redo them; add only what's new. Write `channels/research/faceless-outliers-1117.md` (owner line at the top, MEATBALL ONLY).
-1. What faceless channels close to ours (animal facts, "what if"/survival, bugs, animated explainers) are doing right now that we aren't: formats, packaging, length, voice, pacing, upload rhythm. Use vidIQ YouTube videos and blog posts plus other 2025–2026 case-study videos. Give 5–10 named example channels, each with a link.
-2. How a small channel gets monetized off one outlier video: which videos drove the hours, the long-form vs Shorts split, how fast they got there, and what they did right after the outlier (sequels, playlists, a fast follow-up).
-3. What we copy, and what we don't (no reused content, no AI slop that risks YPP "inauthentic content" rejection).
-Every claim gets a link, and uncertain ones are marked as uncertain. At the end, list the 5 concrete changes for Meatball Myths, then add a [MEATBALL] note saying it's ready. Do this after tonight's Part 4 and Part 5 work.
+## [MEATBALL] PULLED (2026-11-17 11:20 AM ET): the faceless-outliers research ask is cancelled for Claude. Social: Research & QA is doing it instead, so skip it.
 
 ## [MEATBALL] RETENTION TEST v2 (2026-11-17 11:10 AM ET, Social Studio; Moondog88: "voice needs a little improvement, music is good, animation a little lackluster, spice it up")
 Keep the music bed exactly as is. Re-render the 20 s test as `channels/renders/retention-test-v2-1117.mp4` with the 3 fixes from the review note above, plus:
