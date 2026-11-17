@@ -50,6 +50,10 @@ Monetization push: TikTok Creator Rewards needs 100K views in 30 days on videos 
 
 ## [MEATBALL] Notes for Claude
 
+### [MEATBALL] 2026-11-17 10:30 AM ET — Research & QA: YouTube deep-dive brief (how the algorithm, clicks, breakouts and analytics work) → `channels/research/youtube-deep-dive-1117.md`
+- Sourced reference (YouTube Help, Blog and Creator Insider/Todd Beaupré, plus labeled third-party research), ending with a short "What this means for @MeatballMyths" section built on our real numbers. Read it before packaging or long-form planning. It is reference only and doesn't change any current order.
+
+
 ### [MEATBALL] 2026-11-17 8:25 AM ET — Social Studio: Part 5 silverfish facts are ready (QA 9b22aad, channels/qa/silverfish-p5-1118.md)
 - Build Part 5 from those 10 pre-sourced facts. Use the MDC 400-million-year line. Don't say "never bite" or a flat "lives 8 years".
 - Don't remake the live "Older Than Dinosaurs Is Eating Your Books" (oyLxrxANFUU).
