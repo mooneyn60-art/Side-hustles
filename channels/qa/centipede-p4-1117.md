@@ -1,6 +1,6 @@
 # QA: House centipede Part 4 (TikTok)
 
-## Verdict: PASS (with flags)
+## Verdict: FIX (facts PASS; addendum rules not met)
 
 **Run:** Tue 11/17/2026, about 8:00–8:05 AM ET (America/New_York), against `channels/team/playbooks/research-qa.md` (55000aa), `channels/qa/checklist.md` C1–C12 / Y1–Y9 / T1–T5, MASTER_ORDERS in mooneyn60-art/skills @ 082e975 (`skills/channel-brain/MASTER_ORDERS.md`), and the Part 4 brief in `TASKS.md` @ 4afee0d.
 
@@ -13,7 +13,7 @@
 
 The render was transcribed this run and diffed against the script. Claude's eight wording fixes are in the audio and on the cards. Every source URL was fetched live this morning (all HTTP 200). The Acosta PDF is a scan: quotes below are from the page images (pp. 3–4), not the garbled text layer.
 
-**Counts:** 11 sourced fact beats **PASS**, **0 FIX**, **0 CUT**. Title and caption claims PASS. Overall **PASS with flags** (none is a blocking fact error). Confirm the Metricool AI label and that a new Part 5 will actually post Wed 11/18 7 PM ET before this airs at 7 PM today.
+**Counts:** 11 sourced fact beats **PASS**, **0 FIX**, **0 CUT**. Title PASS. Caption fact-claims PASS, but the 8:10 AM addendum also requires named sources (caption FIX). Overall **FIX** because the already-rendered cut does not meet the 8:10 AM ET brief addendum (direct-order hook, early stay/squish vote, bite/sting answer before 18 s, named sources in the caption, and a 15–18 s YouTube Shorts cut). Confirm the Metricool AI label and that a new Part 5 will actually post Wed 11/18 7 PM ET.
 
 Title: `House Centipede Part 4 🐛`  
 Scheduled: TikTok Tue 11/17 7 PM ET (status.md; posted.csv uuid 7918539842414070977; `tiktok_title` "House Centipede Part 4: Guinness Speed, Leg Floss and Back Holes").
@@ -122,3 +122,23 @@ Render/script diffs (not fact FIXes): ASR consistently heard the last line as "F
 - Mississippi State University Extension, Bug's Eye View, House Centipede, No. 29 (2015): https://www.accessibility.extension.msstate.edu/newsletters/bugs-eye-view/2015/house-centipede-no-29
 - University of Arkansas Arthropod Museum, House centipede: https://arthropod.uark.edu/house-centipede/
 - University of Kentucky Entomology, fact sheet ef645, "Centipedes and Millipedes in and Around the Home" (Gordon, Larson, DeVries): https://entomology.mgcafe.uky.edu/ef645
+
+---
+
+## 8:10 AM ET brief addendum (TASKS.md @ a673087) — FIX
+
+Social Studio added these rules for Part 4 (and every TikTok Part from now on) at 8:10 AM ET, from the viral deep dive (`channels/research/viral-centipede-1117.md`, 34d9461). The fact-check above still stands (11 sourced beats PASS). The already-rendered 65.63 s cut was built to the 7:00 AM brief only, so it misses several addendum rules.
+
+| Addendum rule | This cut | Verdict |
+|---|---|---|
+| Open with a direct order; creature on screen at 0:00 (Part 2 landed "Don't squish it" by 3.2 s) | Creature is in frame 1. Hook is "You just saw a bug Guinness listed among the fastest arthropods." No direct order. | **FIX** — add a short order in the first seconds (e.g. "Don't squish it") without dropping the Guinness payoff. Keep the creature at 0:00. |
+| Kill-or-keep stakes with a two-option vote ("squish it or let it live?") in the script and the pinned comment | "Stay or get squished?" is the close, not early stakes. Pinned comment was not in the render (Studio still owns pins). | **FIX** — move or add the two-option vote early; Studio still writes the pin. |
+| Answer the scary question ("will it sting/bite you?") BEFORE 18 s | Not answered at all. Parts 1–3 already used "Will it sting you? Almost never. Only if you grab it hard." The 7:00 AM brief said new facts only, so Claude left it out. The addendum now wants it back for retention (viewers left Part 2 around 0:16–0:19). | **FIX** — add a short hedged recap before 18 s. Do not write "never bite." Usable live lines from this run: MSU: "Bites to humans are uncommon unless centipedes are handled or accidentally pressed against the skin." UKY: "House centipedes … pose a minimal bite hazard as their forcipules are so small, that it is difficult for them to successfully pierce human skin." Script-safe: "Will it bite you? Bites are uncommon, and usually only if you handle it or press it against your skin." |
+| New image about every 3 s; same drawn style as Part 2 | Style matches Part 2. Beats run about every 3–4 s; not frame-counted as a hard 3.0 s grid. | WATCH — style PASS; cut timing is close enough that a re-render for the other FIXes can tighten this. |
+| Keep teaser promises; Part 5 topic = silverfish (MDC source in Data's file) | Part 4 does not break a tease. Part 5 topic is a note for tonight's build, not a Part 4 fact fail. | Note for Part 5, not this cut. |
+| Search phrase ("house centipede") first in the caption, and name the sources | Caption already starts "house centipede part 4 🐛". It does not name Acosta / NKU, MSU Extension, Arkansas, or UKY. | **FIX (caption only, no re-render)** — keep the phrase first; add a short source credit, e.g. "Sources: Northern Kentucky University (Acosta 2003), Mississippi State Extension, University of Arkansas, University of Kentucky." |
+| Cut a 15–18 s YouTube Shorts version with "house centipede" in the title | Not in the repo or skills render set this morning. | **FIX (missing deliverable)** — still needs a Shorts cut and a separate QA pass. Title must include "house centipede" and cannot claim more than the source (keep "listed among the fastest" / "about 16 inches a second," not a current record). |
+
+These addendum gaps are why the overall verdict is **FIX**, even though every sourced line in the current render PASSes.
+
+**What can ship without a re-render:** the caption source-credit (and confirm the AI label, FLAG 5). **What needs a re-render (or a hold):** the early direct order, the early stay/squish vote, and the bite/sting answer before 18 s. If Studio would rather post the current render at 7 PM and apply the addendum from Part 5 on, say so explicitly; as written, the addendum applies to Part 4.
