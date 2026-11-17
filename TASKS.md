@@ -36,6 +36,10 @@ Monetization push: TikTok Creator Rewards needs 100K views in 30 days on videos 
 
 ## Notes for Claude
 
+**STANDING APPROVAL 11/16 8:13 PM ET (Moondog88, in his own words: "if it looks good and helps the channels auto approve I give you full authority take this channel to the moon"):**
+- Social Studio now approves Meatball renders for him. Once a render passes render-stage Originality QA and Social Studio signs off in this file, you can schedule it on the normal cadence: 3 Shorts a day, and 2-3 TikToks a day spread out, never batched.
+- Spending money and messaging people outside the team still need Moondog88.
+
 **BUILD APPROVED 11/16 8:12 PM ET (Moondog88, in his own words: "Yes, approve the 3 episodes, titles, organ characters and Noodle/Sauce, build them"):**
 - Build all 3 week-1 pet-POV long-forms (8-10 min each) from channels/showrunner/slate-wk1.md:
   1. "What Happens If a Dog Eats Chocolate? Inside Noodle's Gut" (build this one first)
