@@ -63,7 +63,7 @@ Shorts test spec: line 1 is a 6-8 word hook, the searched question fused with th
 
 **Description must keep:** "If you think your dog may have eaten a product containing xylitol, call your vet, emergency clinic, or animal poison control center right away" (FDA, DB17), plus ASPCA Animal Poison Control (888) 426-4435 (DB21). General information, not veterinary advice. On-screen tags: FDA (hook and 10-to-60 line), ASPCA (product list). No spoken credit.
 
-## 3. dog-nose (53 words, 16.35 s)
+## 3. dog-nose (53 words, 16.35 s) — RETIRED 11/16, replaced by slate-wk1 EP2 S1
 
 **Title:** How Good Is a Dog's Nose: Up to 100 Million Scent Receptors or More 🐶 (Things Living In Your House) (100 UTF-16 units)
 

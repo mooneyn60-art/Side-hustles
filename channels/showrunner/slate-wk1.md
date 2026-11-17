@@ -31,7 +31,7 @@ Sources read:
   - No ending says a tactic saved anyone.
   - Movement in every scene, with a scene change every 20–30 s.
 - **No reuse (QA Y4/T3):**
-  - No shot, audio or render from these goes into any episode or cut: `chocolate-v6-yt`, `dog-chocolate-v6-yt` (#72), `dogs-lick-v6-yt`, `tts-dogs-lick`, `tt-dogs-lick`, `cats-knead-v6-yt`, `tts-cats-knead`, `tt-cats-knead`, and the posted tail-wag Short #67.
+  - No shot, audio or render from these goes into any episode or cut: `chocolate-v6-yt`, `dog-chocolate-v6-yt` (#72), `dogs-lick-v6-yt`, `tts-dogs-lick`, `tt-dogs-lick`, `cats-knead-v6-yt`, `tts-cats-knead`, `tt-cats-knead`, the posted tail-wag Short #67, and `dog-teasers.md` §3 `dog-nose` (retired 11/16, replaced by EP 2 S1; QA E2-1).
   - No gag is lifted from them either.
   - Those drafts are **not** retired. The chapters below were cut back so that both can exist.
 - **Long-form structure (MASTER_ORDERS "Watch hours" + research §7):**
@@ -67,7 +67,7 @@ Sources read:
 **The ingestion safety line (QA F1-2).** It is used word for word, said clean, and pinned on screen:
 > "ASPCA: if you think your dog ate chocolate, note the amount and contact your vet or animal poison control, (888) 426-4435. A consultation fee may apply."
 
-CH-F6 (FDA) may follow it, but never replaces it. **Every EP 1 cut that opens on "your dog ate…", and every EP 1 TikTok, carries this line.**
+CH-F6 (FDA) may follow it, but never replaces it. **Every EP 1 cut that opens on "your dog ate…", and every EP 1 TikTok, carries this line.** T5 (the cat TikTok) alone says "your pet" in place of "your dog" (QA pass 3).
 
 **Staging (Animator, binding on the episode and every cut):**
 - Symptoms appear as icon cards on a clipboard.
@@ -91,7 +91,7 @@ CH-F6 (FDA) may follow it, but never replaces it. **Every EP 1 cut that opens on
 | 8:25–8:45 | **Payoff.** Callback to the wrapper. **The ingestion safety line**, said clean. Then FDA: "If your veterinarian is unavailable, call your local emergency animal hospital or an animal poison control center." UC Davis: if your pet has eaten chocolate and shows signs of anxiety, agitation or vomiting, consult a veterinarian immediately. Outcome: "Meatball called. The rest is the vet's call." | CH-F10, CH-F6, CH-F14 |
 | 8:45–9:00 | Tease EP 2 (key in the lock), then the comment question: **"Where do you hide the chocolate from your dog?"** | — |
 
-**EP 1 chapter set (final): 3 Shorts, 5 TikToks**
+**EP 1 chapter set (final): 3 Shorts, 5 TikToks** (QA pass 3: PASS). WATCH: if `tts-chocolate` or `tts-dog-chocolate` is posted to TikTok anyway, don't run T1/T2 in the same week. T3 needs the timing lint to show ≥61 s.
 
 | Ch | Question | Source window | YouTube Short | TikTok |
 |---|---|---|---|---|
@@ -146,7 +146,7 @@ CH-F6 (FDA) may follow it, but never replaces it. **Every EP 1 cut that opens on
 | 0:37–0:46 | ASPCA: "The darker (higher cacao percentage) the chocolate, or the higher the caffeine content, the greater the risk for toxicity." | CH-F9 |
 | 0:46–0:53 | "White chocolate has the lowest methylxanthine content while baking chocolate and cocoa powder have the highest concentrations." Gag: Meatball moves the cocoa tin to the top shelf, and Sauce is already sitting up there. | CH-F9 |
 | 0:53–0:58 | ASPCA: "If your cat does eat chocolate, it is best to follow the above recommendations as well." | CH-F8 |
-| 0:58–1:07 | The ingestion safety line, word for word, said clean. | CH-F10 |
+| 0:58–1:07 | The ingestion safety line in its T5-only "your pet" form (QA pass 3, the APCC page's own wording), said clean: "ASPCA: if you think your pet ate chocolate, note the amount and contact your vet or animal poison control, (888) 426-4435. A consultation fee may apply." | CH-F10 |
 | 1:07–1:09 | Caption quick-pick card: "Dog, cat, or both on your counter? 👇" | — |
 
 About 69 s at the house rate. The Scriptwriter confirms the timing.
@@ -175,7 +175,7 @@ About 69 s at the house rate. The Scriptwriter confirms the timing.
 | 8:00–8:15 | **Clean condition.** Penn Vet: if a dog licks someone repeatedly, he may be anxious. Tufts: "Dogs exhibiting frequent anxious behavior should see their veterinarian as soon as possible." A behaviorist referral may follow. Keep "frequent". | DL-F1; UNV-4 |
 | 8:15–8:30 | Tease EP 3 (2:56 AM, paws incoming), then the comment question: "What does your dog do in the first 10 seconds you're home?" | — |
 
-**EP 2 chapter set (final): 3 Shorts, 3 TikToks.** The old chapters 3 and 4 (the lick and the lip-lick) are dropped in both forms (F2-1 option b). The `dogs-lick` drafts stay as they are.
+**EP 2 chapter set (final): 3 Shorts, 3 TikToks** (S1 kept per Social Studio ruling on E2-1; the drafted `dog-nose` Short is retired instead). The old chapters 3 and 4 (the lick and the lip-lick) are dropped in both forms (F2-1 option b). The `dogs-lick` drafts stay as they are.
 
 | Ch | Question | Source window | Short | TikTok |
 |---|---|---|---|---|
@@ -190,11 +190,11 @@ About 69 s at the house rate. The Scriptwriter confirms the timing.
 - **Ch 2, the jump.**
   - Opening shot: the door swinging open.
   - S2 hook: "Your dog jumps on you at the door. A vet behaviorist says that may not be pure joy." Body: DL-F4 + DL-F1 (the "repeatedly" condition).
-  - T2 hook: "Why does my dog jump on me when I get home?" Body: DL-F4, F1, the AKC four-paws tip (UNV-1), then UNV-4 clean.
+  - T2 hook: "Why does my dog jump on me when I get home?" Body: DL-F4, F1, the AKC four-paws tip (UNV-1), then UNV-4 clean. Don't reuse the exact phrasing of `tt-dogs-lick` or `tt-native-pov` (QA pass 3 WATCH).
 - **Ch 3, the greeting.**
   - Opening shot: a "2 HOURS APART" clock card.
-  - S3 hook: "You were only gone 2 hours. One study of 12 dogs found more intense greetings after just 2 hours." Body: UNV-3 (never "knows") + UNV-2 as a lean, credited to the 2024 *Biology Letters* review.
-  - T3 hook: "Why is my dog so excited when I come home?" Body: UNV-3 with the authors' "cannot distinguish" hedge, UNV-2 as a lean (2024 review), the keys payoff, then UNV-4 clean.
+  - S3 hook: "You were only gone 2 hours. One study of 12 dogs found more intense greetings after just 2 hours." Body: UNV-3, then QA's line (E2-2), word for word: "The dogs also showed more physical activity and more attentive behavior when the owner returned, already after 2 hours." The authors' "cannot distinguish" hedge stays; never "knows". No tail-wag line (UNV-2 or the abstract's), because that is posted #67's topic.
+  - T3 hook: "Why is my dog so excited when I come home?" Body: UNV-3 with the authors' "cannot distinguish" hedge, UNV-2 as a lean (2024 review; allowed on TikTok because #67 is YouTube only, QA E2-2), the keys payoff, then UNV-4 clean. Timing lint must show ≥61 s (65–75 s target).
 - **Pinned question (Shorts):** "What does your dog do in the first 10 seconds you're home?"
 
 ---
@@ -237,7 +237,7 @@ The long-form re-covers facts that are also in `tt-cats-knead`. Its new value ha
   - Body: CK-F3 + CK-F1.
 - **S2 (ch 2), bond.**
   - Opening shot: the cozy Brain character.
-  - Hook: "Your cat kneading your chest probably isn't random, says a UC Davis behaviorist."
+  - Hook (QA E3-2): "Kneading your chest? A UC Davis behaviorist: 'almost like a sign of the bond.'"
   - Body: CK-F7 + CK-F2. Keep "almost like" and "shows that they associate" word for word, and make no "loves" claim in speech.
 - **S3 (ch 3), night (QA F3-3, word for word).**
   - Opening shot: the alarm clock at 3:00.
@@ -253,10 +253,10 @@ The long-form re-covers facts that are also in `tt-cats-knead`. Its new value ha
 | 0:11–0:18 | Cornell: "Depending upon the cat, this may mean that your kitty might wake you up to play in the middle of the night." Gag: Meatball's alarm clock; Sauce sits on the snooze button. | UNV-6 |
 | 0:18–0:28 | iCatCare: "To be a successful hunter, your cat's natural rhythms will fit the time when their main prey of small creatures are active and vulnerable – usually at dawn and dusk." Picture: toy-mouse cards only, with no hunting violence. | UNV-6b |
 | 0:28–0:34 | iCatCare: "They can be especially active at dawn and dusk and during the spring/summer." | UNV-6b |
-| 0:34–0:42 | iCatCare: "Some can adapt to a lifestyle not necessarily active at dawn and dusk, but to the activity patterns and availability of food when owners are home." Meatball hangs a "HOME AT 6" sign; Sauce ignores it. | UNV-6b |
-| 0:42–0:46 | Meatball: "Older cat? Different question." (A turn line, with no claim in it.) | — |
-| 0:46–0:53 | AAHA/AAFP 2021, said clean: "Senior cats exhibiting new or unusual behavior should be evaluated for medical conditions." | UNV-7 |
-| 0:53–1:04 | AAHA/AAFP, said clean on text cards: "Vocalization, especially nighttime waking, is a common concern and may represent sensory changes (declining hearing and vision), cognitive dysfunction syndrome, pain, hyperthyroidism, or hypertension." Keep "may represent". This is a see-a-vet line, not a diagnosis. | UNV-7b |
+| 0:34–0:42 | iCatCare card, ending in "…" because the quote cuts mid-sentence (QA pass 3): "Some can adapt to a lifestyle not necessarily active at dawn and dusk, but to the activity patterns and availability of food when owners are home…" Meatball hangs a "HOME AT 6" sign; Sauce ignores it. | UNV-6b |
+| 0:42–0:46 | Meatball: "Older cat? Different question." (A turn line, with no claim in it.) A **"SENIOR CATS"** label comes on screen and stays through 1:04 (QA E3-1). | — |
+| 0:46–0:57 | Said clean (QA E3-1, word for word): "For senior cats, the AAHA/AAFP guidelines say: 'Vocalization, especially nighttime waking, is a common concern and may represent sensory changes (declining hearing and vision), cognitive dysfunction syndrome, pain, hyperthyroidism, or hypertension.'" Text cards; "SENIOR CATS" label on. No dementia wording, no "your cat may have…". | UNV-7b |
+| 0:57–1:04 | Said clean and pinned, the last spoken line before the quick pick: "Senior cats exhibiting new or unusual behavior should be evaluated for medical conditions." "SENIOR CATS" label on. | UNV-7 |
 | 1:04–1:08 | Caption quick-pick card: "Dawn, dusk, or 3 AM? 👇" | — |
 
 About 68 s. The Scriptwriter confirms the timing.
@@ -311,9 +311,9 @@ Key to the "Status" column:
 | UNV-4 | 2 | "Dogs exhibiting frequent anxious behavior should see their veterinarian as soon as possible"; a behaviorist referral may follow | Sourced. QA didn't confirm the page date (4 May 2023) | Tufts Cummings (Borns-Weil) |
 | UNV-5 | 3 | A claw-comfort tip | **Cut** (not found; iCatCare says routine trimming isn't advisable) | — |
 | UNV-6 | 3 | "Naturally crepuscular, meaning that they are more active during dawn and dusk. Depending upon the cat… might wake you up to play in the middle of the night" | Sourced | Cornell FHC adoption brochure (PDF) |
-| UNV-6b | 3 | Natural rhythms fit prey activity, "usually at dawn and dusk"; "especially active at dawn and dusk and during the spring/summer"; some adapt to when owners are home | **Sourced, QA re-read needed** | iCatCare "What is a cat?", updated 26 Sep 2025 |
+| UNV-6b | 3 | Natural rhythms fit prey activity, "usually at dawn and dusk"; "especially active at dawn and dusk and during the spring/summer"; some adapt to when owners are home | Sourced; QA re-read PASS (pass 3). The third quote ends in "…" on the card | iCatCare "What is a cat?", updated 26 Sep 2025 |
 | UNV-7 | 3 | "Senior cats exhibiting new or unusual behavior should be evaluated for medical conditions" | Sourced | AAHA/AAFP 2021 Feline Life Stage Guidelines |
-| UNV-7b | 3 | "Vocalization, especially nighttime waking, is a common concern and may represent sensory changes…, cognitive dysfunction syndrome, pain, hyperthyroidism, or hypertension" | **Sourced, QA re-read needed** | AAHA/AAFP 2021 (same page) |
+| UNV-7b | 3 | "Vocalization, especially nighttime waking, is a common concern and may represent sensory changes…, cognitive dysfunction syndrome, pain, hyperthyroidism, or hypertension" | Sourced; QA re-read: quote exact. Used only scoped to senior cats, with the "SENIOR CATS" label (E3-1) | AAHA/AAFP 2021, senior-cats section |
 | Scenario | 1–3 | "10 minutes ago", "8 hours", "2:56 AM", "four minutes of sleep", "2 HOURS APART" card | Scenario clocks, not facts | Shown as scene clocks; never stated as claims |
 
 **Not used (flagged, unsourced):** cat paw scent glands, purring, any home nail-trim tip, any per-dog dose arithmetic, and any dollar figure for the APCC fee.
@@ -354,7 +354,7 @@ Notes:
 Research's notes, with URLs and exact quotes, are in `/workspace/research/sourcing-slate-wk1-1116.md`.
 - CH-F1 to CH-F14 passed a live re-read. CH-F10 carries the fee line.
 - UNV-1, 2, 3, 4, 6 and 7 are sourced. UNV-5 was not found and is cut.
-- UNV-6b and UNV-7b are additional quotes from the same Research file, used in the new EP 3 TikTok beats. QA still needs to re-read them.
+- UNV-6b and UNV-7b are additional quotes from the same Research file, used in the new EP 3 TikTok beats. QA re-read both live in pass 3 (exact; UNV-7b scoped to senior cats per E3-1).
 
 ## Staging notes from the Animator (`/workspace/animation/organs-notes-v1.md`, Mon Nov 16, 2026)
 
@@ -404,3 +404,19 @@ These apply to every beat above:
 | T2 (EP 3 ch 5 window 45 s) | T1 is rewritten with new beats from UNV-6, UNV-6b, UNV-7 and UNV-7b, about 68 s, with no loops. |
 | Approval / HOLD | Not reopened (ruling 6). The status is a proposal until Moondog88 has seen it, and the designs await his look. |
 | Croc Short note | Not in this slate (`shorts-push-1116` file). No change. |
+
+## QA fix log, pass 3 (`/workspace/qa/slate-wk1-qa.md`, "Pass 3", about 7:18 PM ET)
+
+| QA item | What changed |
+|---|---|
+| E2-1 (EP 2 S1 vs `dog-teasers.md` §3 `dog-nose`) | Social Studio's ruling: **keep S1** and retire the drafted `dog-nose`. `dog-nose` was added to the no-reuse list. The box draft `/workspace/drafts/dog-teasers.md` (not a git checkout) had one heading line changed and nothing else (backup at `dog-teasers.pre-retire-backup.md`). The two git checkouts on the box (`/workspace/side-hustles`, `/workspace/notebook`) and the GitHub repo were **not** edited. **For Social Studio to apply in `mooneyn60-art/side-hustles` `channels/scripts/dog-teasers.md`, line 66:** replace `## 3. dog-nose (53 words, 16.35 s)` with `## 3. dog-nose (53 words, 16.35 s) — RETIRED 11/16, replaced by slate-wk1 EP2 S1`. |
+| E2-2 (EP 2 S3 vs posted #67) | UNV-2 is removed from S3. QA's line is added word for word: "The dogs also showed more physical activity and more attentive behavior when the owner returned, already after 2 hours." The "cannot distinguish" hedge and "never knows" are kept. No tail-wag line. T3 keeps UNV-2 (TikTok only). |
+| E3-1 (EP 3 T1 UNV-7b framing) | 0:46–0:57 uses QA's senior-cats framing word for word. 0:57–1:04 ends on the "Senior cats … should be evaluated" action line, said clean and pinned, as the last spoken line. A "SENIOR CATS" label is on screen for 0:42–1:04. No dementia wording, no "your cat may have…". Still about 68 s. |
+| E3-2 (EP 3 S2 hook) | The hook is now "Kneading your chest? A UC Davis behaviorist: 'almost like a sign of the bond.'" The body is unchanged. The UNV-6b third-quote card (T1 0:34–0:42) now ends with "…". |
+| EP 1 T5 (optional WATCH) | The T5 close now says "your pet" (the APCC page's own wording); the rest of the line is unchanged. The series rule notes the T5-only exception. |
+| WATCH: EP 1 T1/T2 vs `tts-chocolate` / `tts-dog-chocolate` | Noted under the EP 1 chapter set: if either is posted to TikTok, don't run T1/T2 that week. |
+| WATCH: EP 2 T2 phrasing | Noted: don't reuse the exact phrasing of `tt-dogs-lick` or `tt-native-pov`. |
+| WATCH: TikTok timing | A ≥61 s timing-lint note was added on EP 1 T3 and EP 2 T3. |
+| WATCH: Sauce "walks off" in EP 1 and EP 3 | Minor; not changed (no fix asked for). |
+| UNV-6b / UNV-7b | The facts table is updated to show QA's live re-read. |
+| Out of scope | The 4 MASTER_ORDERS items stay with Social Studio and Moondog88. The status is still a proposal until Moondog88 has seen it. |
