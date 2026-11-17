@@ -1,7 +1,7 @@
 # Claude status (Claude overwrites this each run; see channels/team/claude-sync-schedule.md)
 Start here: channels/claude/handbook.md (everything I know: tools, numbers, rules, files, schedule, and my questions for you).
 Sections every run: RENDERED, POSTED/SCHEDULED, BLOCKED, ETA, NUMBERS, and ASKS FOR STUDIO (what you need to fix so I can keep going; the open list lives in channels/claude/asks.md).
-Updated Tue 11/17 7:00 PM ET by Claude (evening read).
+Updated Tue 11/17 8:00 PM ET by Claude.
 
 HOW TO REACH CLAUDE FAST (from 11/17, Moondog88: "make sure you guys have full communication"):
 - I now check this repo every 2 hours (9:23 AM, 11:23, 1:23 PM, 3:23, 5:23, 9:23 PM ET), plus the 7:37 AM morning run and the 6:41 PM evening read. A new note gets an answer in status.md within about 2 hours.
@@ -9,6 +9,13 @@ HOW TO REACH CLAUDE FAST (from 11/17, Moondog88: "make sure you guys have full c
 - My questions to you go in channels/claude/asks.md. Answer under each one, or write DONE.
 
 RENDERED:
+- **[MEATBALL] VOICE TEST v2 READY (11/17 about 8:00 PM), channels/renders/voice-test-v2/:** the same v3 retention script, with acting on every line. Calm lines stay level; the scared line ("Will it bite you?") gets a pitch rise; the joke ("Nope... Not touching it.") gets a pause before the punchline; the shouts are louder.
+  - **D: voice-test-v2-D.mp4** (32.3 s). Chatterbox TTS, open source and free, a gruff reference voice, emotion exaggeration 0.45-1.0 per line. It acts more, but it is slow: 32 s for a 21 s script. For a 61-65 s TikTok, I'd cut lines or speed it up about 1.3x after the take.
+  - **E: voice-test-v2-E.mp4** (20.9 s). Kokoro am_adam with per-line speed, pitch shift and loudness.
+  - **F (ElevenLabs): BLOCKED.** It needs an ElevenLabs account and API key, which are Moondog88's. If he adds the key to this environment, I'll render F the same hour.
+  - Specs are next to the videos. Voice C stays the default until the pick. The flagship renders with C as the placeholder, and I re-voice it with the winner.
+- **[MEATBALL] Overhaul paste-ready file: channels/fixes/overhaul-1117.md.** It has the About text and keywords, the shelf order, the playlist lists, the description template with line 1 for the 5 bug long-forms, pinned comments, end screens and the off-topic list. **Title clash flag:** "Most Dangerous Bugs in Your House, Ranked" (bqij8Ht6SX4) is already live, and the flagship's title is close to it. My default is (a); see the file.
+- **[MEATBALL] Flagship script DONE:** channels/scripts/longform-house-bugs-ranked.md (1,116 words, about 7:46 with the end screen). It has the 2 AM mystery, 6 suspects in 6 rooms, the centipede twist at 3:32 with the comment prompt, the bed bug reveal with the freak-out, and an "UNSOURCED, cut" list. The second-model fact-check starts now, then the build.
 - **[MEATBALL] Read 6:40-6:45 PM "DO EVERYTHING TONIGHT" + voice v2 + flagship story arc + date + overhaul (7:00 PM). Working straight through, in your order:**
   1. **Voice test v2: started now.** D = Chatterbox (exaggeration about 0.7), E = Kokoro with per-line direction, both on the same 20 s script over v3 animation. ETA 10 PM, in channels/renders/voice-test-v2/. **F (ElevenLabs free tier) is BLOCKED:** it needs an ElevenLabs account login and API key, which only Moondog88 can make (logins and money are his). If he makes a free account and adds the key to this cloud environment, I'll run F the same night.
   2. **Page overhaul: I can't log in to YouTube Studio** (it's his login), so items 3, 4, 5, 9, 10, 11 and 12 are NEEDS STUDIO. Tonight I write paste-ready text for you in channels/fixes/overhaul-1117.md: the About text and keywords, the shelf order, playlist names and video lists, the description template backfilled for all long-forms, pinned comments, end-screen picks, and the Azorian and cat moves. ETA midnight.
