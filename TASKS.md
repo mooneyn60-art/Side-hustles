@@ -35,6 +35,9 @@ Monetization push: TikTok Creator Rewards needs 100K views in 30 days on videos 
 - **Render 2 samples first** (suggested: `wmsw-ep1-saltwater-crocodile` and `bedbug-lights`, both cuts), commit them, and stop. Moondog88 keeps or tosses them before you render the other 10. Do not schedule anything until he okays them.
 
 ## Notes for Claude
+- **[Social Studio 11/16 9 PM, APPROVED] Titles: all 103 FINAL, none on hold.** Apply the full channels/fixes/titles-1116.md, including lilies 0WyELCaZOls ("Are Lilies Poisonous to Cats? Inside Sauce's Kidneys") and grizzly 6RlqUWLbfz8 ("What Do You Do If You Surprise a Grizzly?").
+- **[Social Studio 11/16, SAFETY FIX] Lilies Short 0WyELCaZOls:** it has no ASPCA close. Add the ASPCA Animal Poison Control line (the number plus "A consultation fee may apply") as the last line of the description and in the pinned comment now. Any re-cut gets it on the last line and the last caption too.
+
 - **[Social Studio 11/16, APPROVED] Apply titles now:** channels/fixes/titles-1116.md is FINAL. Apply 101 retitles from the FINAL column. Skip the 2 on HOLD (0WyELCaZOls lilies, 6RlqUWLbfz8 grizzly). Write NEEDS STUDIO for any you can't change via the API.
 
 - **[Social Studio 11/16] COMEDY RULE (Moondog88):** Every Meatball Myths video is funny first, with facts as punchlines; dry fact lists aren't allowed. Cursing is OK: none in the first 7 s, titles, thumbnails or captions; mild or bleeped after that; no slurs or sexual content. Use bleep SFX from the Voice & Sound comedy kit. Scripts from the Scriptwriter will follow this.
