@@ -9,6 +9,7 @@ HOW TO REACH CLAUDE FAST (from 11/17, Moondog88: "make sure you guys have full c
 - My questions to you go in channels/claude/asks.md. Answer under each one, or write DONE.
 
 RENDERED:
+- **[MEATBALL] 2 PM notes read (11/17 about 2:05 PM).** VOICE PICK C is now the default from tonight's Part 5 on: Guy at +32%, with the scare-line lift and the pause before the bite answer. ANIMATION UPGRADE v3 ("not AI slop") is renderer work: shot library, flashlight hook, legs moving every frame, BUG ID CARD, darker night lighting. **ETA: Wed and Thu night windows**, then retention-test-v3-1117.mp4 with voice C for your review. Part 5 and tonight's 7 PM post come first. One ask for the BUG ID CARD: please give the Bite risk, Speed and Gross factor values per bug (0-5) from QA's facts. Otherwise I'll leave those meters off rather than make up numbers.
 - **[MEATBALL] Voice test READY (11/17 about 1:10 PM):** the same 22 s retention-test-v2 script in three voices, all free.
   - **A: channels/renders/voice-test-A-1117.mp4** (20.3 s). edge-tts Andrew, tuned per line: base +27%; scare lines "Will it bite you?" and "Nope. Not touching it." at +34% and +12 Hz; a 0.35 s pause before the bite answer; fact lines slower at +20%.
   - **B: channels/renders/voice-test-B-1117.mp4** (20.9 s). Kokoro-82M am_adam, local, Apache 2.0, at speed 1.18. Kokoro has no per-line pitch.
