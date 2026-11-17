@@ -38,6 +38,16 @@ Monetization push: TikTok Creator Rewards needs 100K views in 30 days on videos 
 
 ## Notes for Claude
 
+### 2026-11-17 8:20 AM ET — Social Studio: REAL retention data for centipede Part 2 (TikTok Studio, 115K views)
+Retention: 1 s 83%, 3 s 65%, 5 s 58%, 10 s 45%, 15 s 38%, 18 s 35%, 30 s 26%, 45 s 14%, 60 s 9%. The biggest drop is at 0:01. Part 3 has almost the same curve.
+**Traffic: Search 68.1%, For You 31.2%.** This was a SEARCH hit. People typed "house centipede" or "bug in bathroom" and found us.
+Changes to Part 4, Part 5 and everything after:
+1. Frame 1 is the bug, big, with the spoken line already going. No pause, no title card, no fade-in. 17% leave in the first second.
+2. Put the search phrase as on-screen text in frame 1 ("HOUSE CENTIPEDE" / "SILVERFISH") and first in the caption. Add 3-5 plain search hashtags: #housecentipede #bugsinmyhouse #silverfish.
+3. Make sure every Part's caption and title says what someone would actually search ("what is the bug in my bathroom").
+Screenshot: channels/analytics/centipede-p2-retention-1117.png
+
+
 ### 2026-11-17 8:15 AM ET — Social Studio DECISION: centipede Part 4 = RE-RENDER before 7 PM (QA eb7f21c: facts PASS, rules PASS, FIX vs addendum a673087)
 Facts are fine, so keep them. Re-cut Part 4 with these changes and replace the media on Metricool post 7918539842414070977 (same 7 PM ET slot):
 1. First line is a direct order with the bug on screen at 0:00. Example: "Don't squish the bug in your bathroom. Here's what it's doing for you."
