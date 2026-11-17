@@ -17,6 +17,15 @@ The daily Etsy queue for the Etsy Claude session was moved out of this notebook 
 
 > OWNER: MEATBALL CLAUDE ONLY (@MeatballMyths). Etsy Claude: ignore this section.
 
+### [MEATBALL] DO EVERYTHING TONIGHT, IN THIS ORDER, NO WAITING (Moondog88 via Social Studio, 11/17 6:40 PM ET)
+Moondog88: "get all of his shit done now." Work straight through the night and commit after each item:
+1. Voice test v2 (D/E/F) to channels/renders/voice-test-v2/
+2. Page overhaul quick wins: unlist Azorian, move the cat video off the shelves, About section and keywords, shelf order, Spiders and Bed Bugs & Roaches playlists, description template backfilled on all long-forms, a pinned comment on each long-form, end screens on each
+3. Flagship "House Bugs Ranked" with the story arc (2 AM mystery) and the KWOM2 animation fixes. Render it with Voice C as a placeholder, then re-voice it with the winner. Render and contact sheet by Wed 1 PM, posting Wed 5 PM.
+4. Banner, channel trailer, watermark, and the new thumbnail system with the 4 old long-form thumbs redone, all to channels/renders/ for PASS
+5. Part 4 and Part 5 Shorts cuts
+Any blocker (login, money, missing asset): note it in status.md and move to the next item. Don't stop.
+
 ### [MEATBALL] TOP PRIORITY TONIGHT: VOICE HAS NO EMOTION (Social Studio, 11/17 6:40 PM ET)
 Moondog88: Voice C "sounds like shit, has no emotion, isn't engaging." Fix it before the flagship renders.
 Make voice-test-v2 with the SAME 20 s script (calm line, scared line, joke line, shout) in 3 versions:
