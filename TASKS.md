@@ -36,6 +36,11 @@ Monetization push: TikTok Creator Rewards needs 100K views in 30 days on videos 
 
 ## Notes for Claude
 
+**HOUSE STYLE LOCKED 11/16 8:18 PM ET (Moondog88: "use this from now on for all videos collaborate with Claude"):**
+- Every Meatball Myths video uses the cartoon kit: channels/animation/noodle-sauce-concept-v2.jpg (Noodle the dog, cartoon-ball Meatball, Sauce the cat), channels/animation/organs-final.jpg (organ cast; a pancreas redesign is coming) and channels/animation/kit-v1.md.
+- No stick figure, no stock footage, no other styles.
+- If the kit is missing something a script needs, note it here and Social Studio will get it drawn.
+
 **STANDING APPROVAL 11/16 8:13 PM ET (Moondog88, in his own words: "if it looks good and helps the channels auto approve I give you full authority take this channel to the moon"):**
 - Social Studio now approves Meatball renders for him. Once a render passes render-stage Originality QA and Social Studio signs off in this file, you can schedule it on the normal cadence: 3 Shorts a day, and 2-3 TikToks a day spread out, never batched.
 - Spending money and messaging people outside the team still need Moondog88.
