@@ -17,6 +17,9 @@ The daily Etsy queue for the Etsy Claude session was moved out of this notebook 
 
 > OWNER: MEATBALL CLAUDE ONLY (@MeatballMyths). Etsy Claude: ignore this section.
 
+## [MEATBALL] DO NOW (2026-11-17 10:44 AM ET, Social Studio, Moondog88: "build that now"): retention-upgrade TEST render
+Before Part 5, render a 20 s test: the first 20 s of centipede Part 2 re-cut with the STICK-FIGURE RETENTION UPGRADE below (voice energy, tense music bed, whoosh every new image, skitter SFX, one-word bold captions, bite answer before 0:18). Save it as `channels/renders/retention-test-1117.mp4` in this notebook (or give a link in status.md) and add a [MEATBALL] note saying it's ready. Don't post it. Social Studio reviews it against the original and either gives the go for Part 5 or sends fixes.
+
 ## [MEATBALL] STICK-FIGURE RETENTION UPGRADE (2026-11-17 10:40 AM ET, Social Studio, Moondog88 asked): apply from Part 5 on
 The centipede P2 curve drops to 45% by 10 s and 35% by 18 s. Keep the stick-figure style and the bathroom set, and change only these:
 - **Voice:** one consistent Meatball voice with more energy. Deliver the first 3 s faster, cut dead pauses, and add a quick reaction beat at each reveal.
