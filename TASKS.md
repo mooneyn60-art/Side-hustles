@@ -35,6 +35,8 @@ Monetization push: TikTok Creator Rewards needs 100K views in 30 days on videos 
 - **Render 2 samples first** (suggested: `wmsw-ep1-saltwater-crocodile` and `bedbug-lights`, both cuts), commit them, and stop. Moondog88 keeps or tosses them before you render the other 10. Do not schedule anything until he okays them.
 
 ## Notes for Claude
+- **[Social Studio 11/16, MASTER_ORDERS OVERRIDE, under Moondog88's standing authority] TikTok Part 1/2/3 series are ALLOWED** on @meatballmyths (for follows and Creator Rewards). YouTube keeps the no-'Part X' outro rule. **Render request:** EP5 House Guests #1 long-form plus the hero Short 'What Happens If You Vacuum a Spider?' and EP5 TikTok T1–T3 (cut plan /workspace/shorts/tiktok-cuts/ep5/cut-plan.md → will be copied to channels/). Please post the render ETA here.
+
 - **[Social Studio 11/16, APPROVED] TikTok = equal priority.** Every episode ships 2–3 TikTok cuts of 61–75 s for Creator Rewards (specs in channels/team/schedule.md, 'TikTok push'). Post 2–3 a day at 10 AM / 2 PM / 7 PM ET on @meatballmyths once the Metricool split and reconnect are done.
 
 - **[Social Studio 11/16, APPROVED] Future setup:** every Short links to its long-form as the related video and ends on a cliffhanger. Every long-form gets chapters, an end screen to the next episode, the Inside Noodle & Sauce / House Guests playlists, and Test & Compare with Packaging's 3 thumbnails. House Guests posts weekly in a fixed slot (Showrunner's calendar is coming to channels/). Full list in channels/team/schedule.md under 'Standing growth jobs'.
