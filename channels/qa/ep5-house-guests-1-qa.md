@@ -1,6 +1,27 @@
 # QA: EP5 House Guests #1 (long-form, S1, S2, S3, T1–T3)
 
-## Re-check addendum (current verdict): FIX (2 small items). Everything else PASS, with 1 relayed override
+## Re-check 2 (current verdict): PASS. Cleared for Moondog88's approval
+
+**Reviewed:** side-hustles main @ **f11e63d** (21:46:15 ET), `channels/scripts/ep5-house-guests-1.md`, sha256 **3d9a3d1d2afe** (full: 3d9a3d1d2afefe066fe57437cd00a0b84494feb287f0e560a82640ccec1fc7ca), the expected hash. Still current @ 73be1df. **Run:** Mon 11/16/2026, about 9:47–9:52 PM ET.
+**This is a QA pass only.** Posting, scheduling and rendering still need Moondog88's own okay.
+
+- **C6: PASS.** At 9:46 PM ET, Moondog88 answered Social Studio's card ("Make one bug or spider episode a week House Guests?") with "Yes, make bug and spider episodes whenever theyre the best topic". It's recorded in TASKS.md @ 73be1df ("The 11/11 no-bug/spider order is fully lifted, with no weekly cap"). The dispatching agent verified the card answer in Social Studio's chat record; QA read the 73be1df entry. This supersedes the earlier relayed override.
+- **Diff vs 3e908df** (script file only): status header; the 9:44 PM rulings note; the staging note (Studio, relayed: one wide tub shot of Meatball with the spider at a clear distance, never touching); the rule-7 line in the LF, S3 and T3, plus re-times; the LF 8:15 close and callback re-times plus a new 8:20 PIC towel gag (the "living its best life" line is gone); S3 and T3 re-times; E1 and E2; the matching Checks rows. Nothing else changed: facts, safety wording, cards, S1, S2, T1 and T2 are untouched.
+- **E1 ✔:** T3 shoe-pat plays 4.0–5.5 s and ends before the jar line at 5.55 s.
+- **E2 ✔:** S3 stamp "…NEVER BARE HANDS. (WSU · UC IPM)": 20 w needs 6.7 s; pinned 2.78 s to the loop = 14.5 s. **S3: 56 w / 17.28 s** (inside 16–20 s, 52–58 w), hook 9 w, max joke gap 6.2 s (2.78 → 9.00 PIC).
+- **Rule-7 line, "Meatball lived. Nothing's guaranteed." (C2/C3): PASS.** It's MO's own required wording for when a tactic is shown ([MO L139 rule 7](https://github.com/mooneyn60-art/skills/blob/082e9752fa806dbd358f07c7f8f73f3eda55600e/skills/channel-brain/MASTER_ORDERS.md#L139)). In every cut it comes after the full jar instruction, never between a condition and its instruction:
+  - **LF:** 7:12.8–7:14.3, after the jar line (6:58.8–7:12.7, condition plus "Never with bare hands"). The 7:21.3–7:40.5 title-answer zone stays intact and clean: HS65 (7:14.5) and the "Housekeeping" joke (7:19.3–7:21.2) sit between them, and there's no J, PIC or bubble inside 7:21.3–7:40.5.
+  - **S3:** 6.79–8.02 s, after "Never with bare hands." (5.55–6.79).
+  - **T3:** 24.4–25.6 s, after the release beat. That's outside the approved safety stretch (5.55–15.73 s).
+- **T3: 206 w / 63.55 s,** clean (61–75). The safety-stretch punchline gap is 5.5 → 15.9 s = **10.4 s**, an **approved exception** (Social Studio 9:40 PM). The condition holds: silent reactions only, with no J line or joke card in 5.55–15.73 s. No other gap is over 7 s.
+- **Long-form timing (C9 / Y4):** the 8:15 line opens the callback beat; the picture still runs **9:00** (beats 0:00–9:00). Re-timed at 155 wpm (first line at about 163 wpm): 1,294 spoken words, **0 overlaps**, last line ends ≈8:59.7. It's still a real long-form. Punchline gaps over 7 s fall only in the ruling-4 clean zones: 6:48.9–7:14.8 (25.9 s, now including the CLEAN rule-7 line), 7:21.2–7:41.6 (20.4 s), 7:47.3–8:16.0 (28.7 s). Swears unchanged: damn 1:44.3, Damn 5:02.9 (captioned "dang"; the caption/audio mismatch stays a WATCH).
+- **"…and the spider is outside now." (8:15.0): PASS under C2 as a staged-story line, not a fact claim.** It matches the staging (the exterior shot of the spider in the grass, "no claim about how it fares") and makes no outdoor-survival claim, consistent with Research's Burke fact-check (`channels/research/factcheck-spider-outside-1118.md`). T3's "The spider walks off the paper, outside, alive." is the same staged moment, true at the instant shown, with no claim beyond it. WATCH only.
+- **Staging (relayed Studio rule):** one wide shot at a distance, no touching. Y3 still PASS.
+
+All other rows are as in Re-check 1 and the first pass. **Overall: PASS.**
+
+
+## Re-check 1 (superseded by Re-check 2): FIX (2 small items, both now fixed)
 
 **Reviewed:** side-hustles main @ **3e908df** (21:41:24 ET), `channels/scripts/ep5-house-guests-1.md`, sha256 **103d10fe3f57** (full: 103d10fe3f57e2e1c276b00c6e026cb2d540f1b9fdf08350a9b86d4ebcb5bc3c). Diffed against 1d6e17141579 (first pass, below) via 2a3db3f (6ff9536f1116). **Run:** Mon 11/16/2026, about 9:42–9:46 PM ET.
 **Relayed rulings recorded (not seen first-hand by QA):** Social Studio 9:38 PM (no hole; T3 gag moved to 15.93 s; S1-alt dropped) and 9:40 PM (T3 safety-zone exception on T1 terms; no profanity in any on-screen text or captions, masked included; captions read "dang").

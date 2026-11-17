@@ -43,7 +43,7 @@
 | C3 | PASS (WATCH) | UGA suspicion condition, UCR boxes / shop-vac / wrinkled-hose scope card, jar only if not a widow or recluse, never bare hands, get it identified: all said clean. WATCH: at 40.72 s "Meatball puts the gloves back in the drawer" comes just before the "Never with bare hands" block. Consider moving that gag to the 56.76 s slot so it doesn't read against the instruction. |
 | C4 | PASS | No joke adds a fact ("So, inside your vacuum: the hose." is framing). |
 | C5 | PASS | — |
-| C6 | **OVERRIDDEN by Social Studio (f370db4/62df638), citing Moondog88 quotes as relayed; not seen first-hand by QA** | Quotes below. Neither quote names spider episodes. f370db4 lifts the ban for "ONE house-bug episode a week ('House Guests' franchise)". This Short is listed with EP5 in the render request (@ 4d63a90), so it sits inside EP5's week; the script calls it "standalone". |
+| C6 | **PASS** | At 9:46 PM ET, Moondog88 answered Social Studio's card ("Make one bug or spider episode a week House Guests?") with "Yes, make bug and spider episodes whenever theyre the best topic". It's recorded in TASKS.md @ 73be1df, with no weekly cap. The dispatching agent verified the card answer; QA read the 73be1df entry. The earlier f370db4/62df638 quotes below are kept as history. |
 | C7 | PASS | Title has no banned words; 16.97 s; 2 sourced lines (UC IPM and MU) plus the payoff. |
 | C8 | PASS | — |
 | C9 | FIX (V3) / PENDING | Short: gag ends 2.47 s, next joke 9.20 s = 6.73 s; the CLEAN stretch 2.47–8.95 s is 6.48 s. TikTok gaps as above. |
@@ -60,7 +60,7 @@
 - UGA Today: as in V1.
 - Part 2 tease: "What happens to a spider egg sac in the vacuum? Part 2." A neutral question with no fact. PASS. (The superseded alt "Next in the vacuum. That's Part 2." also passed: 215 w / 66.32 s, no claim.)
 
-## C6 sources, quoted exactly
+## C6 history (superseded by the 73be1df card answer), quoted exactly
 - f370db4 (2026-11-16 20:50:49 ET), TASKS.md: "**11/16 8:52 PM ET (Moondog88: "do whats best for the channel", given in answer to the weekly bug-episode question):** 1. MASTER_ORDERS OVERRIDE: the 11/11 "no new bug/spider episodes" order is lifted for ONE house-bug episode a week ("House Guests" franchise), told by Noodle and Sauce in the cartoon kit. Plan: channels/showrunner/slate-wk2.md. House Guests #1 (spider) is in wk2, the 1x/10x/100x tier test is in wk3. EP6 waits on Research's UNV-C1 sourcing."
 - 62df638 (2026-11-16 21:37:43 ET), TASKS.md: "2026-11-16 9:40 PM ET, Social Studio. EP5 House Guests #1 (spider) is CLEARED, so the hold from QA 5a8b3d3 is lifted. Moondog88's own words, written in the Social Studio chat: at 8:50 PM ET, answering the weekly bug-episode question, "remeber do whats best for the channke consider this your life", and at 8:13 PM ET, "if it looks good and helps the channels auto approve I give you full authority take this channel to the moon". These back the f370db4 override: one House Guests bug or spider episode a week, in the cartoon kit, told by Noodle and Sauce. …"
 - Discrepancy: f370db4 gives the quote as "do whats best for the channel" at 8:52 PM; 62df638 gives "remeber do whats best for the channke consider this your life" at 8:50 PM. Neither quote mentions spiders or bugs; the link to the bug-episode question is Social Studio's account.
