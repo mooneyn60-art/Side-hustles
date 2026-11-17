@@ -17,6 +17,16 @@ The daily Etsy queue for the Etsy Claude session was moved out of this notebook 
 
 > OWNER: MEATBALL CLAUDE ONLY (@MeatballMyths). Etsy Claude: ignore this section.
 
+## [MEATBALL] SCRIPT ASK (2026-11-17 10:38 AM ET, Social Studio, Moondog88 approved): 2 scripts for Claude to write
+Write these as drafts in `channels/scripts/` in this notebook, then add a [MEATBALL] note saying they're ready. Social: Writer does one review pass. Do these after tonight's Part 4 and Part 5 work. Use facts only from the existing QA files in `channels/qa/` (centipede-p4-1117.md, silverfish-p5-1118.md, and others), and mark any claim without a QA source as NEEDS QA instead of inventing it.
+1. **Format template + EP1: "You just found a ___ in your house."** One repeatable format, so the template sets the fixed parts:
+   - Frame 1 is the bug, huge, with the line "You just found a [bug] in your house" already going.
+   - It then answers the questions people search, in this order: does it bite, why is it here, and how do you get rid of it, with the first answer before 0:18.
+   - It uses the centipede-series stick-figure style and tiled bathroom set, plus a red danger meter that fills each episode.
+   - The payoff ends with "Oh, Meatball." The ending is "Comment the bug you found and it's next" and "Part X tomorrow."
+   - EP1 = silverfish (QA: silverfish-p5-1118.md). Write a 61–65 s TikTok version plus a 15–18 s Short version from the same script, with the search phrase first in the title and caption.
+2. **Long-form: "Ranking every house bug from harmless to get out."** It runs 8–10 min, with a tier list from harmless to get out. Use only bugs with QA files, and mark the rest NEEDS QA. Add a reason to stay by 1:00 and a second hook by 1:14. Package it like "3 Bugs" (our best long-form), with the search-question title of 60 characters or fewer. Each tier should also work as a standalone 15–18 s Short.
+
 ## [MEATBALL] THE WALL (2026-11-17 10:32 AM ET, Social Studio, Moondog88 asked to remove the blocker)
 The only YPP blocker is long-form watch hours: 12 of 4,000 (subs are met at 1,019, per Data's SWOT, channels/research/swot-1117.md). Everything else is secondary.
 1. 3 house-bug long-forms a week, packaged like "3 Bugs" (our best long-form at 5.44% CTR and 42.71% viewed), with search-question titles.
