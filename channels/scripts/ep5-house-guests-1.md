@@ -1,4 +1,4 @@
-# House Guests #1 — EP 5: Is the Spider in My Bathtub Dangerous? (9:00) + Shorts (S1, S1-alt, S2, S3) + TikToks
+# House Guests #1 — EP 5: Is the Spider in My Bathtub Dangerous? (9:00) + Shorts (S1, S2, S3) + TikToks
 
 **Status: PROPOSAL, pending Moondog88's review.** Nothing is posted, scheduled, committed or rendered. Source (read-only): /workspace/showrunner/slate-wk2.md (bible lines 50–87, EP 5 beats 149–190, facts 262–320) and Research's verdicts in /workspace/research/sourcing-slate-wk2.md. Written by Social: Scriptwriter, Mon Nov 16, 2026, about 9:20 PM ET.
 
@@ -11,13 +11,16 @@
 - **Comedy first** (Social Studio, 8:57 PM ET): facts land as punchlines. Meatball, his dog, Noodle, and his cat, Sauce, react to and roast the spider, with a joke every 5–7 s (timestamps in Checks). **The pets don't speak** (voice lock, slate flag 9). Their attitude comes through action and Andrew's narration. The Nose crew speaks only in speech-bubble cards.
 - **Joke rule:** jokes can carry attitude and reactions. They never add a number, a new danger claim, a factual motive for the spider or an instruction, and they never sit inside or soften a safety line. Safety lines are marked **CLEAN** and have no gag over them.
 - **Swearing:** none in the first 7 s, the title, thumbnail text, cards, captions or bubbles. After 0:07, spoken lines only: mild swears, or a strong one as [BLEEP]. No slurs, nothing sexual. Every instance is listed in Checks.
-- **PRODUCTION NOTE (Social Studio ruling 3):** burned-in captions mask every swear (e.g. f***, d***, h***), and the audio bleeps the strong ones (every [BLEEP]). Spoken swears stay as written in the script.
+- **PRODUCTION NOTE (Social Studio ruling 3):** burned-in captions mask every swear (e.g. d***), and the audio bleeps any strong one (none remain after the 9:36 PM fix; the two left are mild: damn at 1:44, Damn at 5:02). Spoken swears stay as written in the script.
 - **Verdict stamp, everywhere it appears (ruling 2):** `LEAVE IT — OR JAR IT OUT, ONLY IF IT'S NOT A WIDOW OR RECLUSE. NEVER BARE HANDS.`
 - **Hook timing (ruling 1):** in every cut the creature is on screen by 0:03, the stakes are stated by 0:03, and the payoff lands by 0:07. Jokes may start at 0:05. Timestamps are in Checks.
+- **TikTok fix, 9:28 PM ET:** T1 gets reaction beats right before and after the clean bite block (block untouched; still 13.4 s gap, flagged); T3 drops its bite block and refills with jokes; T1/T2 end on approved Part 2/Part 3 cliffhangers (next part's first line, word for word), T3 loops; frame-1 cards are PART N/3; TikToks may run 61–75 s.
+- **Originality QA FIX, 9:36 PM ET (qa/ep5-house-guests-1-qa.md), with Social Studio's 9:38 PM adjustments:** long-form swears cut to two (damn, Damn); 2:56 "Rough morning.", 4:0x "…because Sauce is made of ice.", 8:50 "Classic."; S1 hook "Giant house spider in your tub? Probably stuck."; T3 stamp credit "(WSU · UC IPM)"; T3 thumbs-up gag moved off the safety lines (no hole), safety lines get silent reactions only; the −0.15 s pre-roll and its production note are removed.
+- **TikTok rulings, 9:31 PM ET:** T1 safety gap = safety-zone exception with a moving-picture reaction note; T3 drops the WSU leave-alone line, adds two short jokes; T2 opening card `PART 2 · STILL IN THE TUB`.
 - **Title answer, 9:24 PM ET:** HS35 setup + the WSU bite sentence (approved C-overlap exception), clean, own WSU card; two verdict jokes cut to fit.
-- **Relabel, 9:23 PM ET:** the bathtub hero Short is now **S1** (payoff unchanged: HS35 "not an extremely active climber"), because a separate vacuum-spider hero Short is being written. The old S1 is kept as **S1-alt** with its own sourced payoff (HS37). S2 and S3 are unchanged.
-- **Social Studio rulings, 9:17 PM ET (applied):** (1) the long-form VO pre-laps 0.15 s so the slate's stakes line (words unchanged) finishes by 2.95 s; (2) the first payoff now lands by 0:20 (cold open + payoff 0:00–0:20, promise 0:20–1:00); (3) one title-answer line is back, from a different WSU source sentence than spider ID s3.l8 (see Checks); (4) Shorts pinned comment: "Full spider lineup in the Related video 👆"; (6) long-form narration raised to about 1,300 words with jokes and pet reactions only (no new facts); (7) the old S1 (now S1-alt) has its own sourced payoff (HS37).
-- **PRODUCTION NOTE (VO pre-lap):** the long-form VO in-point is 0.15 s before frame 0. On a YouTube export there is no picture before 0:00, so the editor either starts the file 0.15 s earlier on the same spider close-up (frame 0 stays the threat close-up) or tightens the read of that line by 0.15 s. The words stay the slate's.
+- **Relabel, 9:23 PM ET:** the bathtub hero Short is now **S1** (payoff: HS35 "not an extremely active climber"), because a separate vacuum-spider hero Short is being written. S2 and S3 are unchanged.
+- **S1-alt dropped (Social Studio, 11/16 9:38 PM ET); S1 is the only bathtub Short.**
+- **Social Studio rulings, 9:17 PM ET (applied):** (1) the stakes line finishes by 2.95 s (9:36 PM fix: no pre-roll, VO at 0:00, that one line read at ~163 wpm); (2) the first payoff now lands by 0:20 (cold open + payoff 0:00–0:20, promise 0:20–1:00); (3) one title-answer line is back, from a different WSU source sentence than spider ID s3.l8 (see Checks); (4) Shorts pinned comment: "Full spider lineup in the Related video 👆"; (6) long-form narration raised to about 1,300 words with jokes and pet reactions only (no new facts); (7) superseded by the 9:23 relabel.
 - **Research 9:09 PM ET:** the Poison Help card is credited **Poison Help / HRSA** (https://poisonhelp.hrsa.gov/: "Need help now? Call the Poison Help Line at: 1-800-222-1222."). UC IPM is credited only for the wash/ice line and the "unusual or severe reaction" wording. The blurry-photo card is HS60 (UKY ENTFACT-001), word for word. "Don't guess a black widow or a brown recluse from a blurry photo" stays as an uncredited safety instruction, never labelled a UCR quote.
 - **Research verdicts (sourcing-slate-wk2.md):**
   - UNV-B1 (the 'came up the pipes' claim) is CUT entirely, with no debunk version.
@@ -32,18 +35,18 @@ Tags: **S** = slate line, word for word · **F** = my line · **VO** = Andrew ·
 
 # Part 1 — Long-form (9:00)
 
-## 0:00–0:20 · Cold open + first payoff (clean: no swearing before 0:07; VO pre-laps 0.15 s)
+## 0:00–0:20 · Cold open + first payoff (clean: no swearing before 0:07)
 
 46 spoken words = 17.8 s of a 20 s window.
 
-**Picture:** FRAME 0: close-up of the spider on the white tub floor, already walking (the threat close-up). Clock card `SHOWER IN 0:60`. From the payoff line: scope card `PACIFIC NORTHWEST · GIANT HOUSE SPIDER` and the WSU card. Meatball and the spider are never in one shot. VO in-point is 0.15 s before frame 0 (audio pre-lap); see the production note.
+**Picture:** FRAME 0: close-up of the spider on the white tub floor, already walking (the threat close-up). Clock card `SHOWER IN 0:60`. From the payoff line: scope card `PACIFIC NORTHWEST · GIANT HOUSE SPIDER` and the WSU card. Meatball and the spider are never in one shot. VO starts at 0:00.00 on frame 0.
 
 | Time | Type | Line | J | Facts |
 |---|---|---|---|---|
-| -0:0.15 | VO (S) | You have 60 seconds before the shower runs. |  | scenario |
+| 0:00.0 | VO (S) | You have 60 seconds before the shower runs. |  | scenario (delivery: read at ~163 wpm, 2.94 s, so the stakes finish by 2.95 s; words unchanged) |
 | 0:03.5 | VO (S) | There's a big brown spider in your tub, and you're holding a shoe. |  | scenario |
 | 0:05.5 | PIC | His dog, Noodle, scoots backward on the bathmat without standing up. | J |  |
-| 0:09.2 | VO (S) | Hold on. | J | — |
+| 0:09.1 | VO (S) | Hold on. | J | — |
 | 0:10.5 | VO (F) | In the Pacific Northwest, the giant house spider is usually trapped in sinks or bathtubs where it has ventured in search of water. |  | HS35, HS34 (UNV-B2 FIX, Research wording) — FIRST PAYOFF |
 | 0:10.7 | PIC | Cut to Meatball at the tub edge, holding the shoe up like a tennis racket, arm wobbling. | J |  |
 | 0:16.0 | PIC | Meatball, in his own shot, leans way back from the tub with the shoe held out like a microphone. | J |  |
@@ -128,7 +131,7 @@ Cards (3 words/s; a 1-800 number counts +3):
 
 ## 2:00–3:10 · Why it's here
 
-173 spoken words = 67.0 s of a 70 s window.
+171 spoken words = 66.2 s of a 70 s window.
 
 **Picture:** Back in the bathroom. The spider walks the tub floor. Meatball and the spider are always in separate shots.
 
@@ -136,27 +139,27 @@ Cards (3 words/s; a 1-800 number counts +3):
 |---|---|---|---|---|
 | 2:00.0 | VO (F) | So why is it here? Back in the bathroom, the spider is doing laps. | J | — |
 | 2:00.5 | PIC | Back out through the fur. Noodle does a full-body shake on the mat. | J |  |
-| 2:05.6 | VO (F) | Again, for the giant house spider in the Pacific Northwest: it has ventured in search of water. |  | HS35, HS34 (scoped) |
-| 2:08.6 | PIC | The spider pauses mid-lap. Meatball, in his own shot, pauses too. | J |  |
-| 2:12.4 | VO (F) | It walked into the room with puddles and made questionable choices. | J | — |
+| 2:05.7 | VO (F) | Again, for the giant house spider in the Pacific Northwest: it has ventured in search of water. |  | HS35, HS34 (scoped) |
+| 2:08.7 | PIC | The spider pauses mid-lap. Meatball, in his own shot, pauses too. | J |  |
+| 2:12.5 | VO (F) | It walked into the room with puddles and made questionable choices. | J | — |
 | 2:15.0 | PIC | Meatball nods along to the card like he knew that. | J |  |
-| 2:16.9 | VO (F) | His cat, Sauce, watches from the doorway like she's reviewing a restaurant. | J | — |
-| 2:21.8 | VO (F) | And it is not an extremely active climber. |  | HS35 |
-| 2:25.1 | VO (F) | So the tub turns into a very small, very white jail. | J | — |
+| 2:17.1 | VO (F) | His cat, Sauce, watches from the doorway like she's reviewing a restaurant. | J | — |
+| 2:22.0 | VO (F) | And it is not an extremely active climber. |  | HS35 |
+| 2:25.4 | VO (F) | So the tub turns into a very small, very white jail. | J | — |
 | 2:26.0 | PIC | The spider walks to the tub wall, stops, and walks back. Meatball does the same at the sink. | J |  |
-| 2:29.6 | VO (F) | Meatball builds a ramp. Noodle steals the ramp. Teamwork. | J | — |
-| 2:30.6 | PIC | Meatball lays a towel over the tub rim as a ramp. | J |  |
-| 2:30.6 | PIC | His dog, Noodle, drags the towel onto the bathmat. | J |  |
-| 2:33.3 | VO (F) | Noodle lies on the ramp. The ramp is a bed now. Meatball allows it. | J | — |
-| 2:38.9 | VO (F) | The spider keeps doing laps. Meatball keeps checking the clock. Nobody is winning. | J | — |
+| 2:29.9 | VO (F) | Meatball builds a ramp. Noodle steals the ramp. Teamwork. | J | — |
+| 2:30.9 | PIC | Meatball lays a towel over the tub rim as a ramp. | J |  |
+| 2:30.9 | PIC | His dog, Noodle, drags the towel onto the bathmat. | J |  |
+| 2:33.6 | VO (F) | Noodle lies on the ramp. The ramp is a bed now. Meatball allows it. | J | — |
+| 2:39.3 | VO (F) | The spider keeps doing laps. Meatball keeps checking the clock. Nobody is winning. | J | — |
 | 2:42.0 | PIC | Meatball writes FREELOADER on a sticky note and doesn't dare stick it anywhere. | J |  |
-| 2:44.1 | VO (F) | The clock card is winning. The clock card is smug. | J | — |
-| 2:48.2 | VO (F) | So the leggy little freeloader stays put, and Meatball stays in the doorway. | J | — |
-| 2:53.5 | VO (F) | His cat, Sauce, yawns at it. Brutal. | J | — |
-| 2:54.0 | PIC | Meatball reaches for the towel; Noodle is already lying on it. | J |  |
-| 2:54.5 | PIC | Sauce yawns at the spider from the doorway. A huge yawn. | J |  |
+| 2:44.6 | VO (F) | The clock card is winning. The clock card is smug. | J | — |
+| 2:48.8 | VO (F) | So the leggy little freeloader stays put, and Meatball stays in the doorway. | J | — |
+| 2:54.1 | VO (F) | His cat, Sauce, yawns at it. Brutal. | J | — |
+| 2:54.6 | PIC | Meatball reaches for the towel; Noodle is already lying on it. | J |  |
 | 2:55.0 | PIC | Sauce stretches across the doorway and blocks it completely. | J |  |
-| 2:56.4 | VO (F) | Meatball stares at the clock card like it owes him money. Hell of a morning. | J | — |
+| 2:55.1 | PIC | Sauce yawns at the spider from the doorway. A huge yawn. | J |  |
+| 2:57.1 | VO (F) | Meatball stares at the clock card like it owes him money. Rough morning. | J | — |
 | 3:02.4 | VO (F) | Trapped is the word on the card. Stuck in a tub, like a guest who missed the last bus. | J | HS35 (wording) |
 | 3:03.4 | PIC | Meatball turns the clock card face down. | J |  |
 | 3:05.4 | PIC | Meatball flips the clock card back up. Then face down again. | J |  |
@@ -170,7 +173,7 @@ Cards (3 words/s; a 1-800 number counts +3):
 
 ## 3:10–4:20 · What it is (case file; range/web lines cut for overlap with the spider ID video)
 
-173 spoken words = 67.0 s of a 70 s window.
+171 spoken words = 66.2 s of a 70 s window.
 
 **Picture:** A corkboard case file: one photo card labelled GIANT HOUSE SPIDER? (PACIFIC NORTHWEST), red string, sticky notes. A `RELATED VIDEO: SPIDER ID` card. No map, no web card (both cut for overlap). Meatball and the live spider are never in one shot.
 
@@ -178,27 +181,27 @@ Cards (3 words/s; a 1-800 number counts +3):
 |---|---|---|---|---|
 | 3:10.0 | VO (F) | What is it? If you're in the Pacific Northwest, a strong suspect is the giant house spider. |  | HS34 (scope only) |
 | 3:13.0 | PIC | The case file unrolls and flops onto Meatball's face. | J |  |
-| 3:16.8 | VO (F) | Meatball has opened a case file. The case file has opened Meatball. | J | — |
-| 3:17.8 | PIC | Meatball pins a photo card to a corkboard with red string. The string wraps around Meatball. | J |  |
-| 3:21.7 | VO (F) | Exhibit A: it's brown. Exhibit B: it's in the tub. Exhibit C: Meatball is sweating. | J | — |
+| 3:16.9 | VO (F) | Meatball has opened a case file. The case file has opened Meatball. | J | — |
+| 3:17.9 | PIC | Meatball pins a photo card to a corkboard with red string. The string wraps around Meatball. | J |  |
+| 3:21.9 | VO (F) | Exhibit A: it's brown. Exhibit B: it's in the tub. Exhibit C: Meatball is sweating. | J | — |
 | 3:26.0 | PIC | Noodle sniffs the corner of the case file from the mat. Only the corner. | J |  |
-| 3:27.8 | VO (F) | Meatball circles all of it in red marker. The marker runs out. | J | — |
-| 3:32.7 | VO (F) | For the full lineup of house spiders, there's a whole spider ID episode. It's the related video. This one sticks to a single guest. |  | related-video note |
+| 3:28.0 | VO (F) | Meatball circles all of it in red marker. The marker runs out. | J | — |
+| 3:32.9 | VO (F) | For the full lineup of house spiders, there's a whole spider ID episode. It's the related video. This one sticks to a single guest. |  | related-video note |
 | 3:34.0 | PIC | Meatball stamps his own case file. Upside down. | J |  |
 | 3:40.5 | PIC | Noodle slides the case file off the mat with a paw. Gently. | J |  |
-| 3:42.2 | VO (F) | Meatball tries to interview the suspect. From the doorway. Through a towel. | J | — |
-| 3:47.1 | VO (F) | What we can say for this one: it is not an extremely active climber, and right now it's stuck in a tub. |  | HS35 (scoped) |
+| 3:42.6 | VO (F) | Meatball tries to interview the suspect. From the doorway. Through a towel. | J | — |
+| 3:47.5 | VO (F) | What we can say for this one: it is not an extremely active climber, and right now it's stuck in a tub. |  | HS35 (scoped) |
 | 3:51.0 | PIC | Meatball pins a sticky note that reads SUSPECT? onto his own forehead. | J |  |
 | 3:55.0 | PIC | Meatball adds a question mark to the case file. Then another. | J |  |
-| 3:55.9 | VO (F) | Noodle files a report too. It reads MAT, in very big letters. | J | — |
+| 3:56.3 | VO (F) | Noodle files a report too. It reads MAT, in very big letters. | J | — |
 | 3:59.5 | PIC | Sauce knocks the red string off the corkboard and watches it fall. | J |  |
-| 4:00.8 | VO (F) | Sauce files nothing. Sauce has a lawyer. | J | — |
-| 4:03.8 | VO (F) | Sauce doesn't blink at any of this, because Sauce is made of [BLEEP]ing ice. | J | — |
-| 4:04.3 | PIC | Meatball tries to draw the suspect on the corkboard. It looks like a pizza. | J |  |
+| 4:01.3 | VO (F) | Sauce files nothing. Sauce has a lawyer. | J | — |
+| 4:04.3 | VO (F) | Sauce doesn't blink at any of this, because Sauce is made of ice. | J | — |
+| 4:04.8 | PIC | Meatball tries to draw the suspect on the corkboard. It looks like a pizza. | J |  |
 | 4:06.0 | PIC | The red string tightens around Meatball again. | J |  |
-| 4:09.8 | VO (F) | The most dramatic thing in this bathroom is still Meatball's shoe. And it's retired. | J | — |
+| 4:09.7 | VO (F) | The most dramatic thing in this bathroom is still Meatball's shoe. And it's retired. | J | — |
 | 4:15.0 | PIC | Meatball takes the detective hat off, looks at it, puts it back on. | J |  |
-| 4:15.5 | VO (F) | The shoe now has a little stand. And a tiny spotlight. | J | — |
+| 4:15.4 | VO (F) | The shoe now has a little stand. And a tiny spotlight. | J | — |
 
 Cards (3 words/s; a 1-800 number counts +3):
 
@@ -362,22 +365,22 @@ Cards (3 words/s; a 1-800 number counts +3):
 
 ## 8:15–9:00 · Callback, tease, comment question (window moved from 8:30 to 8:15; flagged)
 
-112 spoken words = 43.4 s of a 45 s window.
+111 spoken words = 43.0 s of a 45 s window.
 
 **Picture:** Clock card `SHOWER IN 0:00`. The shower runs; the tub is empty. Exterior: the spider in the grass by the wall. His dog, Noodle, is asleep on the bathmat with the shoe. Tease card `HOUSE GUESTS #2`. End screen: the spider ID long-form (`longform-spider-id`). Comment pill.
 
 | Time | Type | Line | J | Facts |
 |---|---|---|---|---|
 | 8:15.0 | VO (F) | The clock runs out. The shower runs. The tub is empty, and the spider is outside, living its best life. | J | — |
-| 8:22.9 | VO (F) | Meatball's pride stays in the tub. | J | — |
-| 8:25.4 | VO (F) | Noodle kept the shoe. Sauce kept the sink. Meatball got a shower. Meatball won nothing. | J | — |
-| 8:26.4 | PIC | Noodle snores on the bathmat, chin on the shoe. Sauce is still in the sink. | J |  |
-| 8:31.4 | VO (F) | Noodle would like it noted that the shoe is his now. | J | — |
-| 8:35.9 | VO (F) | Sauce would like it noted that she was never here. | J | — |
-| 8:39.9 | VO (F) | Meatball steps into the shower. The shower is cold. Of course it is. | J | — |
-| 8:45.1 | VO (F) | The whole spider lineup is the spider ID episode, on the end screen. |  | end-screen note |
+| 8:23.0 | VO (F) | Meatball's pride stays in the tub. | J | — |
+| 8:25.5 | VO (F) | Noodle kept the shoe. Sauce kept the sink. Meatball got a shower. Meatball won nothing. | J | — |
+| 8:26.5 | PIC | Noodle snores on the bathmat, chin on the shoe. Sauce is still in the sink. | J |  |
+| 8:31.5 | VO (F) | Noodle would like it noted that the shoe is his now. | J | — |
+| 8:36.0 | VO (F) | Sauce would like it noted that she was never here. | J | — |
+| 8:40.1 | VO (F) | Meatball steps into the shower. The shower is cold. Of course it is. | J | — |
+| 8:45.4 | VO (F) | The whole spider lineup is the spider ID episode, on the end screen. |  | end-screen note |
 | 8:49.0 | PIC | Noodle rolls over on the shoe in his sleep. | J |  |
-| 8:50.3 | VO (F) | Next House Guests: a new guest, a new room, and Meatball learns nothing. Hell yes. | J | — |
+| 8:50.6 | VO (F) | Next House Guests: a new guest, a new room, and Meatball learns nothing. Classic. | J | — |
 | 8:56.0 | PIC | Sauce, in the sink, rolls onto her back and stays there. | J |  |
 | 8:56.3 | VO (S) | What's the biggest spider you've found in your tub? |  | comment question |
 
@@ -390,18 +393,18 @@ Cards (3 words/s; a 1-800 number counts +3):
 
 # Part 2 — S1: the bathtub Short (was the hero Short; 15–18 s, loops)
 
-> Relabelled 9:23 PM ET: a separate vacuum-spider hero Short is being written, so this cut (payoff unchanged) is now **S1**. The previous S1 is kept as **S1-alt** in Part 3, with its own sourced payoff (ruling 7). S2 and S3 are unchanged.
+> Relabelled 9:23 PM ET: a separate vacuum-spider hero Short is being written, so this cut (payoff unchanged) is now **S1**. S2 and S3 are unchanged.
 
 **S1 (the bathtub Short; was the EP 5 hero Short): 55 words / 16.97 s at 194.5 wpm.**
 
 - **Creature in frame 1:** FRAME 1 (0.00 s): extreme close-up of the giant house spider on the white tub floor, already walking. Scope card `PACIFIC NORTHWEST · GIANT HOUSE SPIDER` pinned from 0.00 s to the end. No Meatball in any spider shot.
 - **Payoff:** "It is not an extremely active climber." lands 4.63–6.79 s (done by **0:06.79**, inside 0:07).
-- **Stakes:** "Giant house spider in your tub? It's stuck." (the spider in your tub), spoken 0.00–2.47 s, inside 0:03.
+- **Stakes:** "Giant house spider in your tub? Probably stuck." (the spider in your tub), spoken 0.00–2.47 s, inside 0:03.
 - No swearing anywhere in S1. The loop is the prompt ending on "And" into the hook.
 
 | Start–end (s) | Words | Role | Line | Facts | J |
 |---|---|---|---|---|---|
-| 0.00–2.47 | 8 | hook | Giant house spider in your tub? It's stuck. | HS35 (scoped by card) | J |
+| 0.00–2.47 | 8 | hook | Giant house spider in your tub? Probably stuck. | HS35 (scoped by card) | J |
 | 2.47–4.63 | 7 | gag | His dog, Noodle, stares from the bathmat. | — | J |
 | 4.63–6.79 | 7 | payoff | It is not an extremely active climber. | HS35 | J |
 | 6.79–13.88 | 23 | body | In the Pacific Northwest, the giant house spider is usually trapped in sinks or bathtubs where it has ventured in search of water. | HS35, HS34 (UNV-B2 FIX) |  |
@@ -414,25 +417,6 @@ Card: `PACIFIC NORTHWEST · GIANT HOUSE SPIDER (WSU)`, 6 words, needs 2.0 s, pin
 # Part 3 — Other cuts
 
 Shorts: 52–58 words (16.04–17.89 s). Hook ≤11 words, clean. Action/attitude gags. One debate prompt (the pinned question) ending on "And" to loop. No spoken credits. No swearing. Related video: the spider ID long-form. **Pinned comment (ruling 4): "Full spider lineup in the Related video 👆"**. Each Short opens on the spider close-up at 0.00 s.
-
-## S1-alt — the tub (Ch 1): 55 words / 16.97 s
-
-**First shot:** FRAME 0 (0.00 s): spider close-up on the tub floor beside a water droplet. Scope card `PACIFIC NORTHWEST · GIANT HOUSE SPIDER` pinned 0–end; WSU card `"Giant house spiders are considered beneficial organisms…" (WSU)` from 2.47 s to 9.0 s.
-
-Creature 0.00 s · stakes (hook) done 2.47 s · payoff done 4.63 s.
-
-| Start–end (s) | Words | Role | Line | Facts | Card | J |
-|---|---|---|---|---|---|---|
-| 0.00–2.47 | 8 | hook | Giant house spider in your tub? Rough day. | HS35 (scoped) | PACIFIC NORTHWEST · GIANT HOUSE SPIDER (WSU) | J |
-| 2.47–4.63 | 7 | payoff | Giant house spiders are considered beneficial organisms. | HS37 (WSU, first clause word for word) | WSU |  |
-| 4.63–6.17 | 5 | gag | Meatball lowers the shoe. Slowly. | — | — | J |
-| 6.17–12.03 | 19 | body | In the Pacific Northwest, it's usually trapped in sinks or bathtubs where it has ventured in search of water. | HS35 (UNV-B2 FIX, scoped) | WSU |  |
-| 12.03–13.88 | 6 | gag | His dog, Noodle, stole the ramp. | — | — | J |
-| 13.88–16.97 | 10 | prompt | What's the biggest spider you've found in your tub? And | — | — |  |
-| 9.00 | — | PIC | Noodle backs his whole body off the bathmat. | — | — | J |
-| 15.00 | — | PIC | Sauce yawns at the tub from the doorway. | — | — | J |
-
-> S1-alt payoff (ruling 7) is WSU HS37 "Giant house spiders are considered beneficial organisms", different from S1's (the ex-hero's) HS35 "not an extremely active climber". It lands by 0:04.6. It is close in idea to spider ID s7.l6 ("mostly beneficial because they feed on pest insects") but a different source sentence (the WSU verdict sentence, already kept in the long-form).
 
 ## S2 — the hobo mix-up (Ch 2): 56 words / 17.28 s
 
@@ -471,15 +455,15 @@ Creature 0.00 s · stakes (hook) done 2.78 s · payoff done 5.55 s.
 
 > The hook leads with the widow/recluse condition. The payoff (the jar method) lands by 0:05.6. No "call a pro" (UNV-B3 cut).
 
-## TikToks (65–75 s at 194.5 wpm)
+## TikToks (61–75 s at 194.5 wpm): a 3-part chain
 
-First line = a plain question (no search-ranking claim). The spider close-up and a "Chapter N" card on frame 1. Caption: "Full episode: YouTube @MeatballMyths". Safety lines are said clean. **No spoken credits** (the brief overrides the slate's "attributions said clean"). No loop "And", because TikTok has no looped frames. No swearing.
+First line = a plain question (no search-ranking claim). The spider close-up and a "PART N/3" card on frame 1. **Endings (approved Part cliffhangers, 9:28 PM ET):** T1 ends on Part 2's opening question, T2 on Part 3's, each word for word with no answer and a silent PART ▶ card; T3 loops on the comment question. The comment question rides in the T1/T2 captions. T3 has no bite block (T1 carries it). Shorts Editor's plan (/workspace/shorts/tiktok-cuts/ep5/cut-plan.md) was read, not edited. Safety lines are said clean. **No spoken credits** (the brief overrides the slate's "attributions said clean"). No loop "And", because TikTok has no looped frames. No swearing.
 
-### T1 — Why is there a spider in my bathtub? (Ch 1): 218 words / 67.25 s
+### T1 — Why is there a spider in my bathtub? (Part 1/3): 220 words / 67.87 s
 
 Slate body: HS35, DB32, DB33, HS64 clean (HS34 range and HS37 bite cut for overlap)
 
-FRAME 1 (0.00 s): spider close-up on the tub floor, with the `Chapter 1` card. Stakes (first line) done 2.47 s · payoff done 6.79 s.
+FRAME 1 (0.00 s): spider close-up on the tub floor, with the `PART 1/3` card. Stakes (first line) done 2.47 s · payoff done 6.79 s.
 
 | Start–end (s) | Line | Words | J | Facts |
 |---|---|---|---|---|
@@ -496,24 +480,32 @@ FRAME 1 (0.00 s): spider close-up on the tub floor, with the `Chapter 1` card. S
 | 40.4–44.7 | And the smelling section of a dog brain is 40 times larger than ours. | 14 |  | DB33 |
 | 44.7–47.2 | Brain size, not a superpower. Calm down, Noodle. | 8 | J | — |
 | 47.2–49.4 | Meatball's shoe stays on the sink. Retired. | 7 | J | — |
-| 49.4–53.1 | If you're bitten, wash the bite and use ice or cold compresses. | 12 | CLEAN | HS64 (UC IPM) clean |
-| 53.1–62.6 | If the bite of any spider causes an unusual or severe reaction, such as increasing pain or extreme swelling, contact a physician, hospital, or poison control center. Poison Help is 1-800-222-1222. | 31 | CLEAN | HS64 (UC IPM) + Poison Help / HRSA clean |
-| 62.6–64.5 | Sauce slept through all of this. | 6 | J | — |
-| 64.5–67.2 | What's the biggest spider you've found in your tub? | 9 |  | comment question |
+| 49.4–51.2 | Okay. Jokes off for this part. | 6 | J | — (reaction before the safety block) |
+| 51.2–54.9 | If you're bitten, wash the bite and use ice or cold compresses. | 12 | CLEAN | HS64 (UC IPM) clean |
+| 54.9–64.5 | If the bite of any spider causes an unusual or severe reaction, such as increasing pain or extreme swelling, contact a physician, hospital, or poison control center. Poison Help is 1-800-222-1222. | 31 | CLEAN | HS64 (UC IPM) + Poison Help / HRSA clean |
+| 64.5–66.3 | Sauce slept through all of this. | 6 | J | — (reaction after the safety block) |
+| 66.3–67.9 | Is it a hobo spider? | 5 |  | part cliffhanger (Part 2's opening question, word for word) |
 | 4.5 | PIC: Meatball, in his own shot, holds the shoe like a microphone and slowly lowers it. | — | J | — |
 | 27.0 | PIC: Noodle's ears go flat, then up. | — | J | — |
 | 36.0 | PIC: Noodle tilts his head so far he tips over on the mat. | — | J | — |
 | 46.0 | PIC: Sauce walks across the doorway without looking at anyone. | — | J | — |
 | 14.0 | PIC: The water droplet on the tub floor slowly slides away from the spider. | — | J | — |
 | 32.5 | PIC: Noodle sniffs the air from the bathmat without moving his feet. | — | J | — |
+| 64.6 | PIC: Right after the last safety word: Sauce, in the sink, opens one eye. | — | J | — |
 
-Cards: "Chapter 1" (2 w → 0.7 s) · "PACIFIC NORTHWEST · GIANT HOUSE SPIDER (WSU)" (6 w → 2.0 s) · "AKC" (1 w → 0.3 s) · "IF BITTEN: wash the bite, ice or cold compress (UC IPM) · unusual or severe reaction → physician, hospital or poison control (UC IPM) · Poison Help 1-800-222-1222 (Poison Help / HRSA)" (31 w → 10.3 s)
+Cards: "PART 1/3" (3 w → 1.0 s) · "PACIFIC NORTHWEST · GIANT HOUSE SPIDER (WSU)" (6 w → 2.0 s) · "AKC" (1 w → 0.3 s) · "IF BITTEN: wash the bite, ice or cold compress (UC IPM) · unusual or severe reaction → physician, hospital or poison control (UC IPM) · Poison Help 1-800-222-1222 (Poison Help / HRSA)" (31 w → 10.3 s) · "PART 2 ▶" (2 w → 0.7 s)
 
-### T2 — Is it a hobo spider? (Ch 2): 218 words / 67.25 s
+**Ending:** Part 2 cliffhanger: spoken "Is it a hobo spider?" (Part 2's first line, word for word, no answer given), silent `PART 2 ▶` card over the last 1.0 s. The comment question moves to the caption.
+
+**VISUAL NOTE (safety lines 51.21–64.47 s): the picture keeps moving. Silent reaction shots only: his dog, Noodle, watching from the bathmat, ears shifting; his cat, Sauce, watching from the sink, tail still. Reactions, not gags: no jokes in the lines, no on-screen text besides the existing IF BITTEN and source cards, and the pets never touch the spider (separate shots, well away from the tub).**
+
+Joke gap over the safety lines (13.4 s): **safety-zone exception (Social Studio, 11/16 9:31 PM)**. The safety wording is unchanged.
+
+### T2 — Is it a hobo spider? (Part 2/3): 217 words / 66.94 s
 
 Slate body: HS37 (mix-up), HS36, HS60, safety instruction, HS35 (HS48, HS8, HS35 run-away and Extension lines cut for overlap)
 
-FRAME 1 (0.00 s): spider close-up on the tub floor, with the `Chapter 2` card. Stakes (first line) done 1.54 s · payoff done 4.32 s.
+FRAME 1 (0.00 s): spider close-up on the tub floor, with the `PART 2 · STILL IN THE TUB` card (0.0–2.0 s). Stakes (first line) done 1.54 s · payoff done 4.32 s.
 
 | Start–end (s) | Line | Words | J | Facts |
 |---|---|---|---|---|
@@ -536,18 +528,20 @@ FRAME 1 (0.00 s): spider close-up on the tub floor, with the `Chapter 2` card. S
 | 53.4–60.5 | In the Pacific Northwest, the giant house spider is usually trapped in sinks or bathtubs where it has ventured in search of water. | 23 |  | HS35 (UNV-B2 FIX) |
 | 60.5–62.3 | A drink, then a trap. Relatable. | 6 | J | — |
 | 62.3–64.5 | Mix-up fixed. Meatball's ego, not so much. | 7 | J | — |
-| 64.5–67.2 | What's the biggest spider you've found in your tub? | 9 |  | comment question |
+| 64.5–66.9 | How do I get a tub spider out? | 8 |  | part cliffhanger (Part 3's opening question, word for word) |
 | 15.0 | PIC: STAMP: NOT RELIABLE lands on the color chart. | — | J | — |
 | 40.0 | PIC: Meatball zooms in on his photo. It's his thumb. | — | J | — |
 | 58.0 | PIC: Sauce bats the paint chip off the counter. | — | J | — |
 
-Cards: "Chapter 2" (2 w → 0.7 s) · "WSU" (1 w → 0.3 s) · ""A blurry, out of focus or poorly lit photo may result in lack of a proper identification." (UKY ENTFACT-001)" (19 w → 6.3 s) · "GET IT IDENTIFIED" (3 w → 1.0 s) · "RELATED VIDEO: SPIDER ID" (4 w → 1.3 s)
+Cards: "PART 2 · STILL IN THE TUB" (6 w → 2.0 s) · "WSU" (1 w → 0.3 s) · ""A blurry, out of focus or poorly lit photo may result in lack of a proper identification." (UKY ENTFACT-001)" (19 w → 6.3 s) · "GET IT IDENTIFIED" (3 w → 1.0 s) · "RELATED VIDEO: SPIDER ID" (4 w → 1.3 s) · "PART 3 ▶" (2 w → 0.7 s)
 
-### T3 — How do I get a spider out of the tub? (Ch 3): 213 words / 65.71 s
+**Ending:** Part 3 cliffhanger: spoken "How do I get a tub spider out?" (Part 3's first line, word for word, no answer given), silent `PART 3 ▶` card over the last 1.0 s. The comment question moves to the caption.
 
-Slate body: W5, HS71, HS37 (leave alone), HS35, HS65, HS64 clean (HS37 "beneficial because they are predators" cut for overlap)
+### T3 — How do I get a tub spider out? (Part 3/3, loops): 202 words / 62.31 s
 
-FRAME 1 (0.00 s): spider close-up on the tub floor, with the `Chapter 3` card. Stakes (first line) done 2.47 s · payoff done 5.55 s.
+Slate body: W5, HS71, HS35, HS65 (WSU leave-alone line dropped: the long-form carries it; bite block dropped: T1 carries it)
+
+FRAME 1 (0.00 s): spider close-up on the tub floor, with the `PART 3/3` card. Stakes (first line) done 2.47 s · payoff done 5.55 s.
 
 | Start–end (s) | Line | Words | J | Facts |
 |---|---|---|---|---|
@@ -555,24 +549,32 @@ FRAME 1 (0.00 s): spider close-up on the tub floor, with the `Chapter 3` card. S
 | 2.5–5.6 | Rule out a widow or recluse, then jar it out. | 10 |  | W5, HS71 (payoff) |
 | 5.6–12.3 | Place a jar over the spider, slip a piece of paper under the jar, and release it outdoors. Never with bare hands. | 22 | CLEAN | HS71, W5 clean |
 | 12.3–15.7 | Not sure what it is? Get it identified before anything else. | 11 | CLEAN | GET IT IDENTIFIED clean |
-| 15.7–24.7 | If it's a giant house spider, in the Pacific Northwest: giant house spiders are considered beneficial organisms, and as such, should be left alone as much as reasonably possible. | 29 | CLEAN | HS37 (WSU) clean |
-| 24.7–26.2 | So, technically, it's on staff. | 5 | J | — |
-| 26.2–32.4 | In the Pacific Northwest, the giant house spider is usually found on the floor or trapped in sinks or bathtubs. | 20 |  | HS35 |
-| 32.4–34.9 | The spider walks off the paper, outside, alive. | 8 |  | bible rule 1 |
-| 34.9–37.0 | Meatball's rubber gloves are bigger than Meatball. | 7 | J | — |
-| 37.0–39.8 | His dog, Noodle, walks off with the marker. Classic. | 9 | J | — |
-| 39.8–43.5 | And spraying? Control by spraying is only temporary unless accompanied by housekeeping. | 12 |  | HS65 |
-| 43.5–45.0 | Housekeeping. Meatball's least favorite word. | 5 | J | — |
-| 45.0–49.7 | Meatball's shoe is staying on the sink. It's a prop. It's always been a prop. | 15 | J | — |
-| 49.7–53.4 | If you're bitten, wash the bite and use ice or cold compresses. | 12 | CLEAN | HS64 (UC IPM) clean |
-| 53.4–62.9 | If the bite of any spider causes an unusual or severe reaction, such as increasing pain or extreme swelling, contact a physician, hospital, or poison control center. Poison Help is 1-800-222-1222. | 31 | CLEAN | HS64 (UC IPM) + Poison Help / HRSA clean |
-| 62.9–65.7 | What's the biggest spider you've found in your tub? | 9 |  | comment question |
-| 4.0 | PIC: Meatball sets the shoe on the sink and gives it a little pat. | — | J | — |
-| 29.0 | PIC: Meatball gives the jar a respectful salute. | — | J | — |
-| 63.5 | PIC: Sauce, in the doorway, rolls onto her back. | — | J | — |
-| 33.5 | PIC: Noodle peeks around the doorframe, then un-peeks. | — | J | — |
+| 15.7–21.9 | In the Pacific Northwest, the giant house spider is usually found on the floor or trapped in sinks or bathtubs. | 20 |  | HS35 |
+| 21.9–24.4 | The spider walks off the paper, outside, alive. | 8 |  | bible rule 1 |
+| 24.4–26.5 | Meatball's rubber gloves are bigger than Meatball. | 7 | J | — |
+| 26.5–29.3 | His dog, Noodle, walks off with the marker. Classic. | 9 | J | — |
+| 29.3–33.0 | And spraying? Control by spraying is only temporary unless accompanied by housekeeping. | 12 |  | HS65 |
+| 33.0–34.6 | Housekeeping. Meatball's least favorite word. | 5 | J | — |
+| 34.6–37.3 | Noodle supervises the jar from a very respectful distance. | 9 | J | — |
+| 37.3–40.4 | His cat, Sauce, gives the whole operation a slow blink. | 10 | J | — |
+| 40.4–45.0 | Meatball's shoe is staying on the sink. It's a prop. It's always been a prop. | 15 | J | — |
+| 45.0–47.8 | Sauce finally gets up, stretches, and leaves. Show's over. | 9 | J | — |
+| 47.8–52.1 | Noodle drags the bathmat back to its usual spot. Then lies on it. Again. | 14 | J | — |
+| 52.1–55.2 | Meatball peels off the rubber gloves. It takes a while. | 10 | J | — |
+| 55.2–59.5 | And the tub is just a tub again. Meatball still won't look at it. | 14 | J | — |
+| 59.5–62.3 | What's the biggest spider you've found in your tub? | 9 |  | comment question |
+| 5.4 | PIC: Meatball sets the shoe on the sink and gives it a little pat. | — | J | — |
+| 15.9 | PIC: SILENT GAG (moved off the safety lines; plays over the non-safety Pacific Northwest line): Meatball, in his own shot, gives the jar a tiny thumbs-up. His giant rubber glove flops over. | — | J | — |
+| 21.0 | PIC: Meatball gives the jar a respectful salute. | — | J | — |
+| 24.0 | PIC: Noodle peeks around the doorframe, then un-peeks. | — | J | — |
+| 52.5 | PIC: Sauce's tail disappears around the doorframe. | — | J | — |
+| 59.0 | PIC: A glove finally flies off and lands on Noodle. Noodle doesn't move. | — | J | — |
 
-Cards: "Chapter 3" (2 w → 0.7 s) · "LEAVE IT — OR JAR IT OUT, ONLY IF IT'S NOT A WIDOW OR RECLUSE. NEVER BARE HANDS. (UC IPM)" (19 w → 6.3 s) · "WSU" (1 w → 0.3 s) · "IF BITTEN: wash the bite, ice or cold compress (UC IPM) · unusual or severe reaction → physician, hospital or poison control (UC IPM) · Poison Help 1-800-222-1222 (Poison Help / HRSA)" (31 w → 10.3 s)
+Cards: "PART 3/3" (3 w → 1.0 s) · "LEAVE IT — OR JAR IT OUT, ONLY IF IT'S NOT A WIDOW OR RECLUSE. NEVER BARE HANDS. (WSU · UC IPM)" (20 w → 6.7 s) · "WSU" (1 w → 0.3 s)
+
+**Ending:** Loop: ends on the comment question, cut tight, last frame = the frame-1 spider close-up, so it flows into "How do I get a tub spider out?". Final part, so no PART card.
+
+**VISUAL NOTE (safety lines 5.55–15.73 s: the jar method and 'get it identified'): silent visual reactions only, no gags. His dog, Noodle, watches from the bathmat; his cat, Sauce, watches from the doorway. No on-screen text besides the existing cards; the pets never touch the spider.**
 
 # Part 4 — Alternate punchlines (2 per key beat)
 
@@ -593,7 +595,7 @@ Cards: "Chapter 3" (2 w → 0.7 s) · "LEAVE IT — OR JAR IT OUT, ONLY IF IT'S 
 - B: "Like it owes him money." → "Like the clock is the problem here."
 
 **What it is (3:10–4:20)**
-- A: "Made of [BLEEP]ing ice." → "Sauce has seen worse. Sauce has caused worse."
+- A: "Made of ice." → "Sauce has seen worse. Sauce has caused worse."
 - B: "The case file has opened Meatball." → "Meatball is now the main suspect in his own case."
 
 **Midpoint (4:20–4:45)**
@@ -614,7 +616,7 @@ Cards: "Chapter 3" (2 w → 0.7 s) · "LEAVE IT — OR JAR IT OUT, ONLY IF IT'S 
 
 **Callback (8:15–9:00)**
 - A: "Meatball won nothing." → "Meatball got wet. Technically a win."
-- B: "Hell yes." → "Same guy, new mistakes."
+- B: "Classic." → "Same guy, new mistakes."
 
 **S1, was the hero Short (0–17 s)**
 - A: "Not impressed." → "Sauce has seen better climbers. On the curtains."
@@ -630,9 +632,8 @@ Method: wc() from /workspace/drafts/shorts-push-1116/.build/check.py. Long-form 
 
 | Cut | Creature on screen (s) | Stakes stated by (s) | Payoff by (s) |
 |---|---|---|---|
-| Long-form | 0.00 (frame 0 close-up) | 2.95 (VO in at -0.15) | first payoff done 19.41 (ruling 2: by 0:20) |
+| Long-form | 0.00 (frame 0 close-up) | 2.94 (VO in at 0.00) | first payoff done 19.41 (ruling 2: by 0:20) |
 | S1 (ex-hero) | 0.00 | 2.47 | 6.79 |
-| S1-alt | 0.00 | 2.47 | 4.63 |
 | S2 | 0.00 | 2.16 | 4.94 |
 | S3 | 0.00 | 2.78 | 5.55 |
 | T1 | 0.00 | 2.47 | 6.79 |
@@ -649,7 +650,7 @@ Method: wc() from /workspace/drafts/shorts-push-1116/.build/check.py. Long-form 
 | LF 5:45 + widow card; T2 | HS8 widow tell (shiny black, red/orange hourglass, varies, rarely absent) | s5.l1, s5.l3 |
 | LF 5:45 + recluse card; T2 (and the "chunky" joke) | HS48 body longer than half an inch is not a recluse | s6.l3 |
 | LF 5:45; T2 | Size reference (ruler or coin) and "take it to your county Cooperative Extension office" | s7.l1 |
-| S1-alt; T1 (LF 6:45 restored as the approved exception, see below) | HS37 "The bite of the giant house spider is not known to pose any threat to humans" | s3.l8 |
+| T1 (LF 6:45 restored as the approved exception, see below) | HS37 "The bite of the giant house spider is not known to pose any threat to humans" | s3.l8 |
 | LF 7:45; T1 | HS37 "If you are bitten by a spider, bring the spider to an expert … may wish to seek medical attention" | s3.l9 |
 | LF 2:00 + card; T3 | HS37 "Spiders are considered beneficial because they are predators" | s7.l6 ("mostly beneficial because they feed on pest insects") |
 
@@ -670,7 +671,7 @@ Method: wc() from /workspace/drafts/shorts-push-1116/.build/check.py. Long-form 
 | LF banned words (spoken) | PASS |  |
 | LF no spoken credits | PASS | none |
 | LF exactly one debate prompt | PASS |  |
-| LF every beat fits its window | PASS | 0:00 slack 2.3s, 0:20 slack 2.8s, 1:00 slack 3.1s, 2:00 slack 3.0s, 3:10 slack 3.0s, 4:20 slack 1.0s, 4:45 slack 3.1s, 5:45 slack 6.2s, 6:45 slack 2.7s, 7:45 slack 8.3s, 8:15 slack 1.6s |
+| LF every beat fits its window | PASS | 0:00 slack 2.3s, 0:20 slack 2.8s, 1:00 slack 3.1s, 2:00 slack 3.8s, 3:10 slack 3.8s, 4:20 slack 1.0s, 4:45 slack 3.1s, 5:45 slack 6.2s, 6:45 slack 2.7s, 7:45 slack 8.3s, 8:15 slack 2.0s |
 | LF cards readable at 3 w/s | PASS |  |
 | LF phone numbers only from the facts table | PASS |  |
 | LF comma form at first spoken mention | PASS |  |
@@ -682,9 +683,9 @@ Method: wc() from /workspace/drafts/shorts-push-1116/.build/check.py. Long-form 
 | LF joke gaps ≤7 s outside the clean safety zones | PASS | none |
 | LF first payoff lands by 0:20 | PASS | 10.51–19.41 s |
 | LF title answer = HS35 setup + WSU bite sentence (word for word) | PASS | 7:20.6–7:29.5: So, is the spider in your tub dangerous? If it's the giant house spider, in the Pacific Northwest: these spiders are not aggressive. / 7:29.8–7:36.0: The bite of the giant house spider is not known to pose any threat to humans. |
-| LF narration about 1,300 words (1,250–1,350), about 8:20–8:30 | PASS | 1299 w / 8.38 min |
+| LF narration about 1,300 words (1,250–1,350), about 8:20–8:30 | PASS | 1294 w / 8.35 min |
 | LF creature on screen by 0:03 | PASS | frame 0 = spider close-up |
-| LF stakes by 0:03 (spoken) | PASS | spoken stakes end 2.95 s; on-screen clock card at 0.00 s (see conflicts) |
+| LF stakes done by 2.95 s, VO starting at 0:00 (no pre-roll) | PASS | spoken stakes end 2.94 s; on-screen clock card at 0.00 s (see conflicts) |
 | S1 (ex-hero) 15–18 s | PASS | 55 w / 16.97 s |
 | S1 (ex-hero) hook ≤11, clean | PASS | 8 w |
 | S1 (ex-hero) creature in frame 1 | PASS |  |
@@ -693,11 +694,6 @@ Method: wc() from /workspace/drafts/shorts-push-1116/.build/check.py. Long-form 
 | S1 (ex-hero) no swearing (none at all) | PASS |  |
 | S1 (ex-hero) ends on "And", one prompt, no credits, no banned | PASS |  |
 | S1 (ex-hero) joke gap ≤7 s (incl. loop) | PASS | max 5.1 s |
-| S1-alt 52–58 words, hook ≤11 clean | PASS | 55 w / 16.97 s; hook 8 w |
-| S1-alt one prompt, ends And, no credits, no banned, no swearing | PASS |  |
-| S1-alt comma-form pets; jokes add no number/danger | PASS |  |
-| S1-alt joke gap ≤7 s (incl. loop) | PASS | max 4.9 s |
-| S1-alt creature 0:00, stakes by 0:03, payoff by 0:07 | PASS | stakes 2.47 s, payoff 4.63 s |
 | S2 52–58 words, hook ≤11 clean | PASS | 56 w / 17.28 s; hook 7 w |
 | S2 one prompt, ends And, no credits, no banned, no swearing | PASS |  |
 | S2 comma-form pets; jokes add no number/danger | PASS |  |
@@ -709,17 +705,23 @@ Method: wc() from /workspace/drafts/shorts-push-1116/.build/check.py. Long-form 
 | S3 joke gap ≤7 s (incl. loop) | PASS | max 5.8 s |
 | S3 JAR carries condition | PASS |  |
 | S3 creature 0:00, stakes by 0:03, payoff by 0:07 | PASS | stakes 2.78 s, payoff 5.55 s |
-| T1 65–75 s | PASS | 218 w / 67.25 s |
+| T1 61–75 s | PASS | 220 w / 67.87 s |
+| T1 ending sets up the next part (or loops) with no new fact | PASS | Part 2 cliffhanger: spoken "Is it a hobo spider?" (Part 2's first line, word for word, no answer given), silent `PART 2 ▶` card over the last 1.0 s. The comment question moves to the caption. |
+| T1 no joke gap of 10 s or more, except the safety block: safety-zone exception (Social Studio, 11/16 9:31 PM) | PASS | max 13.39 s = the clean bite block (51.21–64.47 s), wording unchanged; next largest 5.59 s |
 | T1 no credits, no banned, no swearing, one prompt | PASS |  |
 | T1 joke gaps ≤7 s outside clean safety lines | PASS | none |
 | T1 phone only from facts table | PASS |  |
 | T1 creature 0:00, stakes by 0:03, payoff by 0:07; first line a plain question | PASS | stakes 2.47 s, payoff 6.79 s |
-| T2 65–75 s | PASS | 218 w / 67.25 s |
+| T2 61–75 s | PASS | 217 w / 66.94 s |
+| T2 ending sets up the next part (or loops) with no new fact | PASS | Part 3 cliffhanger: spoken "How do I get a tub spider out?" (Part 3's first line, word for word, no answer given), silent `PART 3 ▶` card over the last 1.0 s. The comment question moves to the caption. |
 | T2 no credits, no banned, no swearing, one prompt | PASS |  |
 | T2 joke gaps ≤7 s outside clean safety lines | PASS | none |
 | T2 phone only from facts table | PASS |  |
 | T2 creature 0:00, stakes by 0:03, payoff by 0:07; first line a plain question | PASS | stakes 1.54 s, payoff 4.32 s |
-| T3 65–75 s | PASS | 213 w / 65.71 s |
+| T3 61–75 s | PASS | 202 w / 62.31 s |
+| T3 ending sets up the next part (or loops) with no new fact | PASS | Loop: ends on the comment question, cut tight, last frame = the frame-1 spider close-up, so it flows into "How do I get a tub spider out?". Final part, so no PART card. |
+| T3 no joke gap over 10 s (silent gag moved off the safety lines, 9:38 PM) | FAIL | max 10.53 s over the clean jar + get-it-identified lines (5.55–15.73 s, 10.18 s of safety wording); gag at 15.93 s, after the safety lines; next largest 5.40 s |
+| T3 bite block dropped (T1 carries it) | PASS | max joke gap 10.53 s |
 | T3 no credits, no banned, no swearing, one prompt | PASS |  |
 | T3 joke gaps ≤7 s outside clean safety lines | PASS | none |
 | T3 JAR carries condition | PASS |  |
@@ -733,19 +735,16 @@ Method: wc() from /workspace/drafts/shorts-push-1116/.build/check.py. Long-form 
 | Blurry-photo card = HS60 word for word, credited UKY ENTFACT-001 | PASS |  |
 | Verdict stamp text identical wherever used | PASS |  |
 
-Long-form narration: 1299 words = 8.38 min at 155 wpm (of 9:00). At 194.5 wpm it would be 6.68 min.
+Long-form narration: 1294 words = 8.35 min at 155 wpm (of 9:00). At 194.5 wpm it would be 6.65 min.
 
 ## Swears and bleeps (spoken only; all after 0:07)
 
 | Where | Time | Word | Line |
 |---|---|---|---|
 | Long-form | 1:44.3 | damn | Same order again, louder. Stay on the damn mat. |
-| Long-form | 2:56.4 | Hell | Meatball stares at the clock card like it owes him money. Hell of a morning. |
-| Long-form | 4:03.8 | [BLEEP]ing | Sauce doesn't blink at any of this, because Sauce is made of [BLEEP]ing ice. |
 | Long-form | 5:02.9 | Damn | So the paint chip goes in the trash. Damn it, Meatball. |
-| Long-form | 8:50.3 | Hell | Next House Guests: a new guest, a new room, and Meatball learns nothing. Hell yes. |
 
-None in S1, S1-alt, S2, S3, TikToks, title, thumbnail, cards, captions or bubbles. Burned-in captions mask every one (e.g. f***); audio bleeps the strong ones.
+None in S1, S2, S3, TikToks, title, thumbnail, cards, captions or bubbles. Burned-in captions mask every one (e.g. f***); audio bleeps the strong ones.
 
 ## Joke timestamps, long-form (149 jokes)
 
@@ -789,47 +788,47 @@ None in S1, S1-alt, S2, S3, TikToks, title, thumbnail, cards, captions or bubble
 | 1:59.8 | VO | Somewhere in the Nose, a crew member is quietly updating his résumé. |
 | 2:00.5 | PIC/BUB | Back out through the fur. Noodle does a full-body shake on the mat. |
 | 2:05.4 | VO | So why is it here? Back in the bathroom, the spider is doing laps. |
-| 2:08.6 | PIC/BUB | The spider pauses mid-lap. Meatball, in his own shot, pauses too. |
+| 2:08.7 | PIC/BUB | The spider pauses mid-lap. Meatball, in his own shot, pauses too. |
 | 2:15.0 | PIC/BUB | Meatball nods along to the card like he knew that. |
-| 2:16.7 | VO | It walked into the room with puddles and made questionable choices. |
-| 2:21.6 | VO | His cat, Sauce, watches from the doorway like she's reviewing a restaurant. |
+| 2:16.8 | VO | It walked into the room with puddles and made questionable choices. |
+| 2:21.7 | VO | His cat, Sauce, watches from the doorway like she's reviewing a restaurant. |
 | 2:26.0 | PIC/BUB | The spider walks to the tub wall, stops, and walks back. Meatball does the same at the sink. |
-| 2:29.3 | VO | So the tub turns into a very small, very white jail. |
-| 2:30.6 | PIC/BUB | His dog, Noodle, drags the towel onto the bathmat. |
-| 2:30.6 | PIC/BUB | Meatball lays a towel over the tub rim as a ramp. |
-| 2:33.0 | VO | Meatball builds a ramp. Noodle steals the ramp. Teamwork. |
-| 2:38.7 | VO | Noodle lies on the ramp. The ramp is a bed now. Meatball allows it. |
+| 2:29.6 | VO | So the tub turns into a very small, very white jail. |
+| 2:30.9 | PIC/BUB | His dog, Noodle, drags the towel onto the bathmat. |
+| 2:30.9 | PIC/BUB | Meatball lays a towel over the tub rim as a ramp. |
+| 2:33.4 | VO | Meatball builds a ramp. Noodle steals the ramp. Teamwork. |
+| 2:39.1 | VO | Noodle lies on the ramp. The ramp is a bed now. Meatball allows it. |
 | 2:42.0 | PIC/BUB | Meatball writes FREELOADER on a sticky note and doesn't dare stick it anywhere. |
-| 2:43.9 | VO | The spider keeps doing laps. Meatball keeps checking the clock. Nobody is winning. |
-| 2:48.0 | VO | The clock card is winning. The clock card is smug. |
-| 2:53.3 | VO | So the leggy little freeloader stays put, and Meatball stays in the doorway. |
-| 2:54.0 | PIC/BUB | Meatball reaches for the towel; Noodle is already lying on it. |
-| 2:54.5 | PIC/BUB | Sauce yawns at the spider from the doorway. A huge yawn. |
+| 2:44.4 | VO | The spider keeps doing laps. Meatball keeps checking the clock. Nobody is winning. |
+| 2:48.5 | VO | The clock card is winning. The clock card is smug. |
+| 2:53.8 | VO | So the leggy little freeloader stays put, and Meatball stays in the doorway. |
+| 2:54.6 | PIC/BUB | Meatball reaches for the towel; Noodle is already lying on it. |
 | 2:55.0 | PIC/BUB | Sauce stretches across the doorway and blocks it completely. |
-| 2:56.2 | VO | His cat, Sauce, yawns at it. Brutal. |
-| 3:02.2 | VO | Meatball stares at the clock card like it owes him money. Hell of a morning. |
+| 2:55.1 | PIC/BUB | Sauce yawns at the spider from the doorway. A huge yawn. |
+| 2:56.8 | VO | His cat, Sauce, yawns at it. Brutal. |
+| 3:02.1 | VO | Meatball stares at the clock card like it owes him money. Rough morning. |
 | 3:03.4 | PIC/BUB | Meatball turns the clock card face down. |
 | 3:05.4 | PIC/BUB | Meatball flips the clock card back up. Then face down again. |
-| 3:09.8 | VO | Trapped is the word on the card. Stuck in a tub, like a guest who missed the last bus. |
+| 3:09.7 | VO | Trapped is the word on the card. Stuck in a tub, like a guest who missed the last bus. |
 | 3:13.0 | PIC/BUB | The case file unrolls and flops onto Meatball's face. |
-| 3:17.8 | PIC/BUB | Meatball pins a photo card to a corkboard with red string. The string wraps around Meatball. |
+| 3:17.9 | PIC/BUB | Meatball pins a photo card to a corkboard with red string. The string wraps around Meatball. |
 | 3:21.5 | VO | Meatball has opened a case file. The case file has opened Meatball. |
 | 3:26.0 | PIC/BUB | Noodle sniffs the corner of the case file from the mat. Only the corner. |
-| 3:27.5 | VO | Exhibit A: it's brown. Exhibit B: it's in the tub. Exhibit C: Meatball is sweating. |
-| 3:32.4 | VO | Meatball circles all of it in red marker. The marker runs out. |
+| 3:27.7 | VO | Exhibit A: it's brown. Exhibit B: it's in the tub. Exhibit C: Meatball is sweating. |
+| 3:32.6 | VO | Meatball circles all of it in red marker. The marker runs out. |
 | 3:34.0 | PIC/BUB | Meatball stamps his own case file. Upside down. |
 | 3:40.5 | PIC/BUB | Noodle slides the case file off the mat with a paw. Gently. |
-| 3:46.9 | VO | Meatball tries to interview the suspect. From the doorway. Through a towel. |
+| 3:47.2 | VO | Meatball tries to interview the suspect. From the doorway. Through a towel. |
 | 3:51.0 | PIC/BUB | Meatball pins a sticky note that reads SUSPECT? onto his own forehead. |
 | 3:55.0 | PIC/BUB | Meatball adds a question mark to the case file. Then another. |
 | 3:59.5 | PIC/BUB | Sauce knocks the red string off the corkboard and watches it fall. |
-| 4:00.5 | VO | Noodle files a report too. It reads MAT, in very big letters. |
-| 4:03.5 | VO | Sauce files nothing. Sauce has a lawyer. |
-| 4:04.3 | PIC/BUB | Meatball tries to draw the suspect on the corkboard. It looks like a pizza. |
+| 4:01.0 | VO | Noodle files a report too. It reads MAT, in very big letters. |
+| 4:04.0 | VO | Sauce files nothing. Sauce has a lawyer. |
+| 4:04.8 | PIC/BUB | Meatball tries to draw the suspect on the corkboard. It looks like a pizza. |
 | 4:06.0 | PIC/BUB | The red string tightens around Meatball again. |
-| 4:09.6 | VO | Sauce doesn't blink at any of this, because Sauce is made of [BLEEP]ing ice. |
+| 4:09.4 | VO | Sauce doesn't blink at any of this, because Sauce is made of ice. |
 | 4:15.0 | PIC/BUB | Meatball takes the detective hat off, looks at it, puts it back on. |
-| 4:15.2 | VO | The most dramatic thing in this bathroom is still Meatball's shoe. And it's retired. |
+| 4:15.1 | VO | The most dramatic thing in this bathroom is still Meatball's shoe. And it's retired. |
 | 4:19.7 | VO | The shoe now has a little stand. And a tiny spotlight. |
 | 4:23.9 | VO | Meatball's about to name it by its color. Bad plan. |
 | 4:26.7 | VO | He's squinting. The chart is squinting back. |
@@ -891,15 +890,15 @@ None in S1, S1-alt, S2, S3, TikToks, title, thumbnail, cards, captions or bubble
 | 7:47.3 | VO | Okay. Jokes off for this part. |
 | 8:16.0 | PIC/BUB | After the card has held: Sauce gives a slow nod from the sink. |
 | 8:22.7 | VO | The clock runs out. The shower runs. The tub is empty, and the spider is outside, living its best life. |
-| 8:25.2 | VO | Meatball's pride stays in the tub. |
-| 8:26.4 | PIC/BUB | Noodle snores on the bathmat, chin on the shoe. Sauce is still in the sink. |
-| 8:31.2 | VO | Noodle kept the shoe. Sauce kept the sink. Meatball got a shower. Meatball won nothing. |
-| 8:35.7 | VO | Noodle would like it noted that the shoe is his now. |
-| 8:39.7 | VO | Sauce would like it noted that she was never here. |
-| 8:44.9 | VO | Meatball steps into the shower. The shower is cold. Of course it is. |
+| 8:25.3 | VO | Meatball's pride stays in the tub. |
+| 8:26.5 | PIC/BUB | Noodle snores on the bathmat, chin on the shoe. Sauce is still in the sink. |
+| 8:31.3 | VO | Noodle kept the shoe. Sauce kept the sink. Meatball got a shower. Meatball won nothing. |
+| 8:35.8 | VO | Noodle would like it noted that the shoe is his now. |
+| 8:39.9 | VO | Sauce would like it noted that she was never here. |
+| 8:45.2 | VO | Meatball steps into the shower. The shower is cold. Of course it is. |
 | 8:49.0 | PIC/BUB | Noodle rolls over on the shoe in his sleep. |
 | 8:56.0 | PIC/BUB | Sauce, in the sink, rolls onto her back and stays there. |
-| 8:56.2 | VO | Next House Guests: a new guest, a new room, and Meatball learns nothing. Hell yes. |
+| 8:56.1 | VO | Next House Guests: a new guest, a new room, and Meatball learns nothing. Classic. |
 
 **Gaps over 7 s:**
 
@@ -913,10 +912,10 @@ None in S1, S1-alt, S2, S3, TikToks, title, thumbnail, cards, captions or bubble
 |---|---|
 | DB32 | AKC: ~5–6 million receptors (you); dogs up to 100 million or more, depending on the breed. LF 1:0x; T1 |
 | DB33 | AKC: smelling section of a dog brain 40 times larger (brain size). LF 1:3x; T1 |
-| HS34 | WSU: scope only ("in the Pacific Northwest"); the range lines are cut for overlap. LF; S1; S1-alt; T1; T2; T3 |
-| HS35 | WSU: not an extremely active climber; usually trapped in sinks or bathtubs where it has ventured in search of water (UNV-B2 FIX wording; the long-form FIRST PAYOFF, done by 0:20); TITLE ANSWER "these spiders are not aggressive" (first clause of WSU's sentence, word for word, LF 7:2x, WSU card). Web and run-away lines cut for overlap. LF; S1; S1-alt; T1; T2; T3 |
+| HS34 | WSU: scope only ("in the Pacific Northwest"); the range lines are cut for overlap. LF; S1; T1; T2; T3 |
+| HS35 | WSU: not an extremely active climber; usually trapped in sinks or bathtubs where it has ventured in search of water (UNV-B2 FIX wording; the long-form FIRST PAYOFF, done by 0:20); TITLE ANSWER "these spiders are not aggressive" (first clause of WSU's sentence, word for word, LF 7:2x, WSU card). Web and run-away lines cut for overlap. LF; S1; T1; T2; T3 |
 | HS36 | WSU: color, size, markings not reliable (ID sentence only). LF 4:5x; S2; T2 |
-| HS37 | WSU: frequently mistaken for hobo spiders (S2 FIX, exact); considered beneficial organisms, left alone as much as reasonably possible (verdict); S1 PAYOFF "Giant house spiders are considered beneficial organisms". Bite line, "beneficial because predators" and expert-ID lines cut for overlap. LF; S1-alt; S2; T2; T3 |
+| HS37 | WSU: frequently mistaken for hobo spiders (S2 FIX, exact); considered beneficial organisms, left alone as much as reasonably possible (verdict). Bite line, "beneficial because predators" and expert-ID lines cut for overlap. LF; S2; T2; T3 |
 | HS60 | UKY ENTFACT-001, word for word: "A blurry, out of focus or poorly lit photo may result in lack of a proper identification." LF 6:0x (card + VO); T2 |
 | HS62 / safety | "Don't guess a black widow or a brown recluse from a blurry photo" + GET IT IDENTIFIED: safety instruction, uncredited (not a UCR quote). LF 5:5x, 7:2x; T2; T3 |
 | HS64 | UC IPM: wash, ice or cold compress; "unusual or severe reaction" → physician, hospital or poison control center. Credited UC IPM. LF 7:45; T1; T3 |
@@ -935,27 +934,32 @@ None in S1, S1-alt, S2, S3, TikToks, title, thumbnail, cards, captions or bubble
 
 ## Card read-times (cuts)
 
-- S1 and S1-alt: `PACIFIC NORTHWEST · GIANT HOUSE SPIDER (WSU)`, 6 w → 2.0 s, pinned 0 s to the loop. PASS.
+- S1: `PACIFIC NORTHWEST · GIANT HOUSE SPIDER (WSU)`, 6 w → 2.0 s, pinned 0 s to the loop. PASS.
 - S2: WSU source card, 1 w, on with each WSU line (≥2.8 s). PASS.
 - S3: verdict stamp `LEAVE IT — OR JAR IT OUT, ONLY IF IT'S NOT A WIDOW OR RECLUSE. NEVER BARE HANDS.` (UC IPM): 19 w → 6.3 s; pinned 2.78 s to the loop (about 13 s). PASS.
-- T1: "Chapter 1" 2 w → 0.7 s; "PACIFIC NORTHWEST · GIANT HOUSE SPIDER (WSU)" 6 w → 2.0 s; "AKC" 1 w → 0.3 s; "IF BITTEN: wash the bite, ice or cold compress (…" 31 w → 10.3 s. Each is pinned for at least its read-time (IF BITTEN card from the wash line to the end: T1 49.4–67.2 s, T3 49.7–65.7 s; blurry card in T2 40.1–46.9 s; stamp in T3 from 2.5 s to the end). PASS.
-- T2: "Chapter 2" 2 w → 0.7 s; "WSU" 1 w → 0.3 s; ""A blurry, out of focus or poorly lit photo may …" 19 w → 6.3 s; "GET IT IDENTIFIED" 3 w → 1.0 s; "RELATED VIDEO: SPIDER ID" 4 w → 1.3 s. Each is pinned for at least its read-time (IF BITTEN card from the wash line to the end: T1 49.4–67.2 s, T3 49.7–65.7 s; blurry card in T2 40.1–46.9 s; stamp in T3 from 2.5 s to the end). PASS.
-- T3: "Chapter 3" 2 w → 0.7 s; "LEAVE IT — OR JAR IT OUT, ONLY IF IT'S NOT A WID…" 19 w → 6.3 s; "WSU" 1 w → 0.3 s; "IF BITTEN: wash the bite, ice or cold compress (…" 31 w → 10.3 s. Each is pinned for at least its read-time (IF BITTEN card from the wash line to the end: T1 49.4–67.2 s, T3 49.7–65.7 s; blurry card in T2 40.1–46.9 s; stamp in T3 from 2.5 s to the end). PASS.
+- T1: "PART 1/3" 3 w → 1.0 s; "PACIFIC NORTHWEST · GIANT HOUSE SPIDER (WSU)" 6 w → 2.0 s; "AKC" 1 w → 0.3 s; "IF BITTEN: wash the bite, ice or cold compress (…" 31 w → 10.3 s; "PART 2 ▶" 2 w → 0.7 s. Each is pinned for at least its read-time (IF BITTEN card in T1 from the wash line to the end, 51.2–68.8 s; PART ▶ cards over the last 1.0 s of T1/T2; blurry card in T2 40.1–46.9 s; stamp `… (WSU · UC IPM)` in T3 from 2.5 s to the end (about 60 s); T2 opening card `PART 2 · STILL IN THE TUB` 0.0–2.0 s (6 w, needs 2.0 s); T3 has no IF BITTEN card). PASS.
+- T2: "PART 2 · STILL IN THE TUB" 6 w → 2.0 s; "WSU" 1 w → 0.3 s; ""A blurry, out of focus or poorly lit photo may …" 19 w → 6.3 s; "GET IT IDENTIFIED" 3 w → 1.0 s; "RELATED VIDEO: SPIDER ID" 4 w → 1.3 s; "PART 3 ▶" 2 w → 0.7 s. Each is pinned for at least its read-time (IF BITTEN card in T1 from the wash line to the end, 51.2–68.8 s; PART ▶ cards over the last 1.0 s of T1/T2; blurry card in T2 40.1–46.9 s; stamp `… (WSU · UC IPM)` in T3 from 2.5 s to the end (about 60 s); T2 opening card `PART 2 · STILL IN THE TUB` 0.0–2.0 s (6 w, needs 2.0 s); T3 has no IF BITTEN card). PASS.
+- T3: "PART 3/3" 3 w → 1.0 s; "LEAVE IT — OR JAR IT OUT, ONLY IF IT'S NOT A WID…" 20 w → 6.7 s; "WSU" 1 w → 0.3 s. Each is pinned for at least its read-time (IF BITTEN card in T1 from the wash line to the end, 51.2–68.8 s; PART ▶ cards over the last 1.0 s of T1/T2; blurry card in T2 40.1–46.9 s; stamp `… (WSU · UC IPM)` in T3 from 2.5 s to the end (about 60 s); T2 opening card `PART 2 · STILL IN THE TUB` 0.0–2.0 s (6 w, needs 2.0 s); T3 has no IF BITTEN card). PASS.
 
 ## Banned-word grep
 
 Banned (TRUE, FALSE, Myth, Believe, Cartoons, Lied, "Did you know"): **no hits** in this file.
-Watch-list (harmless, kill, safe, evil, villain, drain, plumbing, sewer, pest professional, exterminat): `\bdrains?\b` line 679 (in rules/notes only, never in spoken lines; the spoken checks above are clean).
+Watch-list (harmless, kill, safe, evil, villain, drain, plumbing, sewer, pest professional, exterminat): `\bdrains?\b` line 680 (in rules/notes only, never in spoken lines; the spoken checks above are clean).
 
 ## Conflicts and open items (flagged, not silently changed)
 
-- **Long-form stakes (ruling 1, applied).** VO in at -0.15 s (pre-lap), stakes done 2.95 s; slate words unchanged. See the production note on how the editor delivers the pre-lap.
+- **Long-form stakes (9:36 PM fix).** No pre-roll: VO starts at 0.00 s and the stakes finish at 2.94 s. There is no pause before the first line to tighten, so the 8 slate words are read at ~163 wpm for that line only (8 words in 2.94 s); the rest stays 155 wpm. Flag: that is a one-line delivery change, not a pause cut.
+- **Captions vs QA C10 (WATCH, open).** QA C10 asks for zero profanity in captions, bleeped or not; ruling 3 says burned-in captions mask swears (d***). With only two mild words left, Social Studio to reconcile.
+- **QA fix 1 (C6): Moondog88's written go for a spider episode is still needed** (slate flag 2). Hold the EP5 render request until then.
 - **Long-form payoff (ruling 2, applied).** The slate's 0:35 first-payoff beat now sits inside the cold open (done by 0:20), and the promise moves to 0:20–1:00. The "First answer, fast, and only for one spider in one region" lead-in is cut, and the payoff line itself carries the Pacific Northwest scope. The opening drops the second HS35 line ("not an extremely active climber"), which still lands at 2:2x and 3:4x. The slate's timed beats for 0:00–1:00 are restructured, not just retimed (Showrunner's file not edited).
 - **Title answer (ruling 3, Social Studio 9:24 PM ET, applied).** Setup: HS35 "these spiders are not aggressive" (WSU, first clause word for word, with the giant house spider / Pacific Northwest condition). Then the WSU bite sentence, word for word: "The bite of the giant house spider is not known to pose any threat to humans." with its own WSU card. Both said clean, with jokes only before ("Housekeeping…") and after ("And Noodle takes the shoe…"). **C-overlap: approved exception (Social Studio, 11/16 9:24 PM) — the only line repeating spider-ID** (s3.l8). To fit, the verdict joke "So the shoe stays retired. Full pension." and "The spider strolls off like it pays rent." are cut.
 - **Pinned comment (ruling 4, applied).** Shorts: "Full spider lineup in the Related video 👆". The series rule "no end card" still conflicts with the end screen; I read "end screen" as YouTube's end-screen element, with no spoken outro.
 - **Beat windows moved (flag).** To fit about 1,300 words without jokes in a safety stretch, the if-bitten beat is 7:45–8:15 (was 7:45–8:30): it stays fully clean, the card is held 28 s (needs 10.3 s), and only dead air is removed. The callback beat is 8:15–9:00 (was 8:30–9:00).
 - **Title drops "Inside Noodle's Nose".** Research's 9:09 PM ruling gives the title as exactly "Is the Spider in My Bathtub Dangerous?". The Nose segment stays in the body, the thumbnail and the description.
 - **Required safety line overlaps the spider ID video.** HS64 "unusual or severe reaction → physician, hospital or poison control" is close to spider ID s7.l4. It stays, because the brief requires the if-bitten line.
+- **T1 safety block (ruled 9:31 PM).** The 13.4 s gap over the clean bite block (51.21–64.47 s, 44 words, wording unchanged) is a **safety-zone exception (Social Studio, 11/16 9:31 PM)**. The picture keeps moving with silent reaction shots of his dog, Noodle, and his cat, Sauce (reactions only, no gags, no extra on-screen text, pets never touch the spider).
+- **T3 gap (9:31 + 9:38 PM rulings) — FLAG.** The WSU leave-alone line is dropped (the long-form carries it), with its dependent joke "So, technically, it's on staff." No hole was added (9:38). The thumbs-up gag now plays at 15.93 s, just after "get it identified" ends, over the non-safety Pacific Northwest line; the jar and get-it-identified safety lines (5.55–15.73 s) carry silent visual reactions only. The shoe-pat picture gag moved 4.0 → 5.4 s (over the payoff line), and the salute and Noodle peek were re-timed to 21.0 and 24.0 s (non-safety lines). The resulting max gap is 10.53 s, because the two safety sentences alone run 10.18 s: it cannot get under 10 s without touching them. Proposal: mark it a safety-zone exception, as T1's was. Two short jokes were added after "Housekeeping" to keep T3 at 61–75 s.
+- **Shorts Editor plan notes (their file, not edited).** Our T2 opening card is now `PART 2 · STILL IN THE TUB` (ruled 9:31 PM); their cut-plan.md still says `PART 2 · CAME FOR WATER` and should be updated by them. Their recommended T2 alt (drop "The lookalikes are in the spider ID episode.") is not applied; Studio's call.
 - **Clean safety zones break the 7 s cadence (kept, ruling 4):** 6:48.9–7:13.7; 7:20.3–7:41.4; 7:47.3–8:16.0.
 - **Joke cadence vs series rule.** The slate's "no joke before 0:25" is overridden by ruling 1 (jokes from 0:05).
 - **Pets "roast" the spider, but the pets can't speak** (voice lock; slate flag 9). Their attitude comes through action and Andrew's lines only.
@@ -963,5 +967,4 @@ Watch-list (harmless, kill, safe, evil, villain, drain, plumbing, sewer, pest pr
 - **2:00 card wording.** The slate's "can't climb back out" is not WSU's wording; WSU's exact words are used.
 - **Opening shots.** The slate's S1 (water droplet), S2 (color chart) and S3 (jar and paper) don't show the threat in frame 0. The spider close-up goes in frame 0, with the named prop beside it or entering.
 - **UNV-C1 is an EP 6 fact** used in EP 5 as a Sauce punchline. If EP 6 needs it fresh, swap in alternate B for that beat.
-- **S1-alt payoff (ruling 7, applied).** S1-alt (the old S1) pays off on WSU HS37 "Giant house spiders are considered beneficial organisms" (first clause of the WSU verdict sentence, word for word), different from S1's (the ex-hero's) HS35 climber line, so the two are not duplicates. It is close in idea to spider ID s7.l6 ("mostly beneficial because they feed on pest insects") but a different source sentence.
 - **Slate flags still open:** flag 2 (MASTER_ORDERS "No new bug or spider episodes" needs Moondog88's go); flag 6 (Nose reuse; T1 keeps the DB32/DB33 lines). Flag 5 (overlap with `longform-spider-id`) is handled by the ruling 7 cuts.
