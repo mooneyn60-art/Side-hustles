@@ -17,6 +17,50 @@ The daily Etsy queue for the Etsy Claude session was moved out of this notebook 
 
 > OWNER: MEATBALL CLAUDE ONLY (@MeatballMyths). Etsy Claude: ignore this section.
 
+### [MEATBALL] FLAGSHIP LONG-FORM #1: BUILD TONIGHT, post Wed 11/18 5 PM ET (11/17 5:35 PM, Moondog88 ordered it)
+Moondog88: "fix our long form... get Claude cooking... I want one out to see how it goes with all changes." This is the top priority tonight, after Part 5.
+
+**Why our long-forms fail** (our data plus the 11/17 research):
+- They were stitched-feeling, had intros, and had titles nobody searches. Only "3 Bugs" held viewers (5.44% CTR, 42.71% viewed).
+- The outliers that got monetized (Zyka's spider video at 2.47M, Stone's house centipede video at 1.48M) are single-question, search-titled, 6-10 min, with one character and steady payoffs.
+
+**Video:** "House Bugs Ranked: Harmless to Get Out", 7-8 min, 16:9, v3 look, voice C.
+- **Title options** (pick 1): "House Bugs Ranked From Harmless to Get Out" / "Every Bug in Your House, Ranked by How Worried You Should Be"
+- **Thumbnail** (fixed look): a huge house centipede, a scared Meatball, the 2-3 words "GET OUT?", and a tier board in the corner.
+- **Bugs, ranked low to high worry, using ONLY facts already sourced in our files:**
+  1. silverfish (qa/silverfish-p5-1118.md)
+  2. dust mites (facts/dust-mite-bornas.md)
+  3. house spiders (facts/house-spiders-id.md)
+  4. house centipede (qa/centipede-p4-1117.md)
+  5. cockroach (facts/cockroach-bornas.md)
+  6. bed bugs (facts/bed-bugs.md; EPA: hard to get rid of, plus the safety line about never heating the house yourself)
+  The order is our opinion ("how much it should worry you"); every fact under it is sourced.
+
+**Structure:**
+- **0:00-0:30 cold open, NO intro.** A flashlight reveal of the centipede (TikTok viewers know it). Line: "You've found every one of these in your house. Tonight we rank them, from harmless... to get out." The tier board (HARMLESS / ANNOYING / GROSS / GET OUT) shows 6 silhouettes. Open loop: "and number one is not the one you think."
+- **6 chapters, about 60-70 s each, the same beats every time:**
+  1. The reveal in a NEW room (bathroom, kitchen, basement, closet, bedroom, under the sink).
+  2. The BUG ID card.
+  3. "Will it bite you?" with the sourced answer and its condition.
+  4. "Why is it in my house?"
+  5. "What should you do?" (the safety line carries its condition).
+  6. A Meatball reaction.
+  7. Drop it onto the tier board.
+- **Re-hook at the end of each chapter,** teasing the next one (e.g. "the next one is in your bed right now").
+- **One big Meatball freak-out** at the bed bug reveal (#1).
+- **A comment prompt at about 3:30:** "Which one is in YOUR house? Comment it."
+- **The last 20 s stay clear for end screens:** the House Centipede playlist and the House Guests playlist.
+- **Description:** chapters with timestamps, sources listed, and the question for the pinned comment.
+
+**Gate:** the full 9-point QUALITY FIRST gate, plus no repeated peril template (Help 1311392).
+
+**Deliverables:**
+1. The script: channels/scripts/longform-house-bugs-ranked.md tonight. Research & QA will check it once Wed morning.
+2. The render plus a frame sheet logged in status.md. Social Studio checks the frames.
+3. Schedule it public Wed 5 PM ET as the fixed long-form slot.
+4. Wed 1 PM Short and Wed TikTok teasers: "Full ranking on YouTube."
+Flag anything you can't source rather than inventing it.
+
 ### [MEATBALL] TIKTOK-NATIVE ONLY, to stop Creator Rewards disqualifications (11/17 5:12 PM, Moondog88)
 Moondog88 thinks TikTok flags our posts because they're the same files we put on YouTube. From now on, every TikTok is its own export:
 - No YouTube end screens, "subscribe" cards, YouTube logos or watermarks, and no identical file to the YouTube upload.
