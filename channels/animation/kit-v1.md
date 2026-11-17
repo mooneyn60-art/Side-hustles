@@ -12,7 +12,7 @@ Every spec line carries one of these tags:
 - **[BOX]**: an existing house asset or code on the shared box that is **not in the repo** (Jarvis's `meatball-animation-v2/` rig and art, the v6/v6b thumbnail drafts, the pfp drafts, the read-only copy of Claude's `oh-meatball` tools). Path named next to it.
 - **[SAMPLED]**: a color I measured off one of those existing images. It matches the art but is not written down anywhere as a brand value.
 - **[DERIVED]**: my own spec, written to match the existing look. Treat it as a proposal.
-- **[PROPOSED – NEEDS APPROVAL]**: a design that does not exist yet (Noodle's and Sauce's cartoon model sheets).
+- ****: a design that does not exist yet (Noodle's and Sauce's cartoon model sheets).
 
 What the repo has and doesn't have: `channels/` has **no image files at all**: no thumbnails, no pfp, no character art, and no style guide that describes how Meatball looks. The repo describes who Meatball, Noodle and Sauce are and how they act (`meatball-bible.md`, `shorts-push-1116/gags-1116.md`). It also has the renderer color configs for the generic dog and cat in the v6 pet Shorts (`scripts/dogs-lick-v6-yt.json`, `scripts/cats-knead-v6-yt.json`). Everything visual about the **cartoon Meatball** below comes from the box assets, so it is tagged [BOX] or [SAMPLED].
 
@@ -95,7 +95,10 @@ Expressions **snap** between clean drawings and are never morphed through ugly i
 - Don't put Meatball in a shot with a real dangerous animal, and never touch a spider or bug [REPO `gags-1116.md`].
 - No team marks, logos or uniforms (`packaging/thumbnail-concepts.md` §3) [REPO]. No copyrighted characters. Don't copy other creators' designs: the competitor clips in `meatball-animation-v2/ref/comp_*.mp4` are for pacing study only [BOX].
 
-### 1.2 Noodle, his dog: no cartoon model exists. [PROPOSED – NEEDS APPROVAL]
+### 1.2 Noodle, his dog: no cartoon model exists.
+
+> **Status:** designs approved via Social Studio on Nov 16 2026, final is v3 (`/workspace/animation/noodle-sauce-final-v3.jpg`), rigging pending.
+
 
 **What exists:**
 - Identity and behavior: Meatball's dog. He "ends up with Meatball's food or prop", always as an action on screen, "never a feeling or motive said as fact" [REPO `meatball-bible.md`]. He's referred to as "him" and wears a **collar** [REPO `gags-1116.md` #3]. He can stand on his hind legs and has worn a holiday bandana [REPO `tiktok-shop/launch-plan.md`].
@@ -113,7 +116,10 @@ Expressions **snap** between clean drawings and are never morphed through ugly i
 - Poses: walk, trot, run (gallop cycle), sit, lie down, hind-leg stand, carry-in-mouth, play bow, sniff walk. [PROPOSED]
 - Concept image (proposed only): `/workspace/animation/PROPOSED-noodle-sauce-concept-v1.jpg`. It shows Meatball about the dog's height, larger than the proposed scale.
 
-### 1.3 Sauce, his cat: no cartoon model exists. [PROPOSED – NEEDS APPROVAL]
+### 1.3 Sauce, his cat: no cartoon model exists.
+
+> **Status:** designs approved via Social Studio on Nov 16 2026, final is v3 (`/workspace/animation/noodle-sauce-final-v3.jpg`), rigging pending.
+
 
 **What exists:**
 - Identity and behavior: Meatball's cat. She "does the opposite of what Meatball wants and walks off", acted, never stated as a feeling or motive. Tag line "Sauce walked off." [REPO `meatball-bible.md`]. Referred to as "her" ("Sauce flattens her ears"). She swats, bats, paws and tips props over [REPO `gags-1116.md` #2, #4, #5, #6, #7, #11, #12]. Shown asleep on the pad [REPO `scripts/longform-dog-bornas.json` pinned comment].

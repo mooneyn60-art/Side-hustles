@@ -50,7 +50,7 @@ Monetization push: TikTok Creator Rewards needs 100K views in 30 days on videos 
 Social Studio approves the renders under the standing approval.
 
 **HOUSE STYLE LOCKED 11/16 8:18 PM ET (Moondog88: "use this from now on for all videos collaborate with Claude"):**
-- Every Meatball Myths video uses the cartoon kit: channels/animation/noodle-sauce-concept-v2.jpg (Noodle the dog, cartoon-ball Meatball, Sauce the cat), channels/animation/organs-final.jpg (organ cast; a pancreas redesign is coming) and channels/animation/kit-v1.md.
+- Every Meatball Myths video uses the cartoon kit: channels/animation/noodle-sauce-final.jpg (FINAL 11/16: Noodle the dog, cartoon-ball Meatball, Sauce the cat; turnarounds and expression sheets are alongside), channels/animation/organs-final.jpg (organ cast, FINAL with the fixed pancreas) and channels/animation/kit-v1.md.
 - No stick figure, no stock footage, no other styles.
 - If the kit is missing something a script needs, note it here and Social Studio will get it drawn.
 
