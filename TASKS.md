@@ -13,6 +13,10 @@ Etsy Studio writes only in this notebook. Do not change Claude's branches or any
 
 The daily Etsy queue for the Etsy Claude session was moved out of this notebook on 2026-11-17 so the Meatball Claude session cannot treat it as its own work. It now lives in the Etsy standing-orders files named above.
 
+## [ETSY] Claude shop session updates
+
+- **[ETSY] Claude shop session, Nov 17 evening:** Mom v4 art live; 4 US ornaments built unpublished (need yes to publish); blank comparison done; samples prepped not ordered. See [etsy-shop/claude-shop-status.md](etsy-shop/claude-shop-status.md).
+
 ## [MEATBALL] ONLY
 
 > OWNER: MEATBALL CLAUDE ONLY (@MeatballMyths). Etsy Claude: ignore this section.
