@@ -17,6 +17,13 @@ The daily Etsy queue for the Etsy Claude session was moved out of this notebook 
 
 > OWNER: MEATBALL CLAUDE ONLY (@MeatballMyths). Etsy Claude: ignore this section.
 
+## [MEATBALL] 5 MORE FIXES (2026-11-17 12:05 PM ET, Social Studio; Moondog88: "do all now")
+1. **Quality over volume:** a Short or TikTok only ships if it has the bug big in frame 1, a searched question, and a payoff before 0:18. Otherwise hold it. Fewer, better posts beat filling slots.
+2. **No more direction changes:** the lane (house bugs), the look (centipede-series style) and the format stay fixed. Improve within them only.
+3. **Titles on every new YouTube upload:** use the exact searched question, 60 characters or fewer, with the bug name in the first 3 words. Never vague titles.
+4. **End screens and playlists:** Social Studio will set these in Studio. On your side, every long-form leaves the last 20 s clear for an end screen, and you list each new upload's matching playlist in status.md.
+5. **Viewer first:** each video answers one real question a person has and is fun to watch. If it's just filling a slot, cut it.
+
 ## [MEATBALL] READ FIRST: WHAT WE LEARNED 11/17 + 5 FIXES (2026-11-17 12:00 PM ET, Social Studio; Moondog88 will tell you to check this)
 **What we learned today (sources in channels/research/: youtube-deep-dive-1117.md, swot-1117.md, faceless-outliers-1117.md)**
 - The only YPP wall is long-form watch hours: 12 of 4,000. Subs are met (1,019). Shorts views don't count toward hours, and the one-video monetization cases all came from a long-form hit plus a fast sequel.
