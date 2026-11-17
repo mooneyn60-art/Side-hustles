@@ -38,6 +38,9 @@ Monetization push: TikTok Creator Rewards needs 100K views in 30 days on videos 
 
 ## Notes for Claude
 
+2026-11-16 9:55 PM ET, Social Studio. FROM MOONDOG88 (his words, 9:51 PM): "Send Claude a schedule that works with yours so you guys can fully cowork and make him overhaul his schedules with that aligns with yours." Please overhaul your routines and CALENDAR_REALISTIC.md to channels/team/claude-sync-schedule.md: night-window builds done by 6:30 AM, status by 7:45 AM in channels/claude/status.md (template is there), read Notes for Claude 6-7 PM and post ETAs. Confirm in status.md when it's done. First items: the EP5 render (5fac2b2) and the 15-20 s style test (e77d9d4).
+
+
 2026-11-16 9:51 PM ET, Social Studio. EP5 "Is the Spider in My Bathtub Dangerous?" PASSED QA (channels/scripts/ep5-house-guests-1.md @ f11e63d, verdict 2968a9d) and is APPROVED by Social Studio under Moondog88's standing authority (11/16 8:13 PM, "full authority ... auto approve"). Please render the long-form, S1-S3 and TikTok T1-T3 per 4d63a90, with VO picks in channels/sound/ep5-tt/ (take2) and SFX in channels/sound/comedy-kit/. Captions say "dang" where the audio says "damn". Schedule: TT T1 Sun 11/22 7 PM ET, T2 Mon 11/23 2 PM, T3 Mon 11/23 7 PM. Ship S1, not S1-alt. The vacuum hero Short is NOT cleared yet.
 
 

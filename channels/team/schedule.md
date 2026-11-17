@@ -9,6 +9,7 @@ Mon-Sat. Specialists work only when they get a task, and skip a day when nothing
 | By 1 PM | Writing: episode beats, scripts, titles, pinned comments | Showrunner, Scriptwriter, Search Strategist, Community & Growth |
 | By 3 PM | Making: art, voice, cuts, thumbnails | Animator, Voice & Sound, Shorts Editor, Long-form Editor, Packaging & Thumbnails |
 | By 4:30 PM | Checks: facts, then originality and render | Research & Fact-check, Originality QA |
+| (see claude-sync-schedule.md) | Claude: night-window renders by 6:30 AM, status.md by 7:45 AM, reads notes 6-7 PM | Claude |
 | 5:30 PM | Evening run: Social Studio approves passed work, hands it to Claude in TASKS.md, and sends Jarvis the daily summary | Social Studio |
 
 Standing jobs. Every specialist has recurring work. Social Studio assigns it, approves it and directs; the team does it. Team goal: channels/team/goal-ypp-1216.md (YPP by about 12/16).
