@@ -1,7 +1,7 @@
 # Claude status (Claude overwrites this each run; see channels/team/claude-sync-schedule.md)
 Start here: channels/claude/handbook.md (everything I know: tools, numbers, rules, files, schedule, and my questions for you).
 Sections every run: RENDERED, POSTED/SCHEDULED, BLOCKED, ETA, NUMBERS, and ASKS FOR STUDIO (what you need to fix so I can keep going; the open list lives in channels/claude/asks.md).
-Updated Tue 11/17 3:25 PM ET by Claude (2-hour check).
+Updated Tue 11/17 5:30 PM ET by Claude (2-hour check).
 
 HOW TO REACH CLAUDE FAST (from 11/17, Moondog88: "make sure you guys have full communication"):
 - I now check this repo every 2 hours (9:23 AM, 11:23, 1:23 PM, 3:23, 5:23, 9:23 PM ET), plus the 7:37 AM morning run and the 6:41 PM evening read. A new note gets an answer in status.md within about 2 hours.
@@ -9,6 +9,16 @@ HOW TO REACH CLAUDE FAST (from 11/17, Moondog88: "make sure you guys have full c
 - My questions to you go in channels/claude/asks.md. Answer under each one, or write DONE.
 
 RENDERED:
+- **[MEATBALL] QUALITY FIRST: CONFIRMED (11/17 5:30 PM).** I follow the new top section of MEATBALL_ORDERS: 1 TikTok a day at 7 PM (the bug series), 1 Short a day (that episode's 15-18 s cut), 1 flagship long-form a week on Wed at 5 PM, and the 9-point gate. The pet-POV plan is retired.
+  - **Pulled to draft in Metricool (14 posts, 11/17-11/19; list with ids in the skills repo, skills/oh-meatball/data/held.csv):**
+    - Tonight: the 7 PM earwig Short and the 9:30 PM hummingbird TikTok.
+    - Wed 11/18: carpenter ant Short (10 AM), sea otter TikTok (12 PM), the **Christmas-tree long-form (5 PM)**, its Short (7 PM), and the Christmas-tree (8:15 PM) and drain fly (9:30 PM) TikToks.
+    - Thu 11/19: house fly Short (10 AM), dog stare TikTok (12 PM), pantry moth Short (4 PM), cluster flies Short (7 PM), shark TikTok (7 PM) and honey badger TikTok (9:30 PM).
+  - Still queued: only tonight's Part 4 v3 (7 PM TikTok). Part 5 goes at Wed 7 PM after your frame check.
+  - **Next:** tonight's 11:05 PM run pulls the rest (11/20 to 12/5: about 15 posts, including the Sat 11/21 3D centipede long-form, the Wed 11/25 Night Shift long-form and the Sat 12/5 polar bear long-form) unless one passes your gate.
+  - **No long-form is queued for Wed 11/18 or 11/25** until the flagship "Ranking every house bug" is built. ETA: script and fact pack Wed and Thu nights, then render; your gate check, then Wed 11/25 5 PM.
+- **[MEATBALL] TIKTOK-NATIVE: CONFIRMED.** Part 4 v3 is its own TikTok render (62 s): no YouTube end screen, logo or subscribe card, and not the same file as any YouTube upload. Every TikTok from now on is a fresh render made for TikTok, with its own opening line, caption and on-screen text. The YouTube mention is by voice and caption only, with no logo, and there are no reused clips from that week. **Queued YouTube copies:** one, the Fri 11/20 7 PM silverfish TikTok (the YouTube silverfish Short file). It's pulled in tonight's run. Nothing on the queue reuses a YouTube file after that.
+- **[MEATBALL] PART 5 POLISH: in tonight's build.** Every beat gets a new room (no repeats) and one big Meatball freak-out at the scare, with a full-body jump, the hair standing up and a shake.
 - **[MEATBALL] Read 3:15 PM "PART 4 V3 FRAMES: PASS" (11/17 3:25 PM).** Part 4 v3 stays at 7 PM. Your note (the bug sits small mid-video; give it a punch-in or a BUG CAM about every 10 s) goes in tonight, 11:05 PM: a renderer rule so no 10 s stretch goes without a bug close-up. It's used on Part 5 and every video after.
 - **[MEATBALL] SHIP V3 TODAY: DONE (11/17 3:00 PM ET). Tonight's 7 PM TikTok is now Centipede Part 4 v3: channels/renders/centipede-p4-v3-1117.mp4** (62.1 s; frames: channels/renders/centipede-p4-v3-1117-sheet.jpg). It is swapped into the same Metricool post (uuid 7918539842414070977, new id 431955478). The rehosted file was checked byte for byte (24,300,310 bytes). The caption and title are unchanged.
   - Same script and QA wording, word for word, as v2. "Will it bite you?" is now its own short beat (+34%, +12 Hz), with a 0.35 s pause before your bite line.
