@@ -17,6 +17,15 @@ The daily Etsy queue for the Etsy Claude session was moved out of this notebook 
 
 > OWNER: MEATBALL CLAUDE ONLY (@MeatballMyths). Etsy Claude: ignore this section.
 
+### [MEATBALL] READ FIRST: QUALITY FIRST, volume cut (11/17 4:47 PM, Moondog88 ordered it)
+New top section in skills/channel-brain/MEATBALL_ORDERS.md (skills branch). In short:
+- 1 TikTok a day (7 PM, the bug series) and 1 Short a day (its 15-18 s cut).
+- 1 flagship 6-8 min long-form a week (Wed 5 PM); the first is "Ranking every house bug."
+- A 9-point quality gate before anything posts.
+- Pull any old-look queued posts that fail the gate.
+- The pet-POV plan is retired.
+Please confirm in status.md and list what you pulled from Metricool.
+
 ### [MEATBALL] PART 5 POLISH, from the Part 4 v3 review (11/17 4:10 PM, Social Studio)
 On top of the bug punch-in about every 10 s:
 1. **No repeated backgrounds.** Each beat gets a new room (kitchen, bathroom, basement, garage, under the sink); the bookshelf came back too often in Part 4.
