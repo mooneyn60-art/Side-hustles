@@ -35,6 +35,8 @@ Monetization push: TikTok Creator Rewards needs 100K views in 30 days on videos 
 - **Render 2 samples first** (suggested: `wmsw-ep1-saltwater-crocodile` and `bedbug-lights`, both cuts), commit them, and stop. Moondog88 keeps or tosses them before you render the other 10. Do not schedule anything until he okays them.
 
 ## Notes for Claude
+- **[Social Studio 11/16, MASTER_ORDERS OVERRIDE, Moondog88's comedy rule] Long-form jokes can start at 0:05.** This replaces 'no jokes before 0:25'. The creature is still in frame 1, stakes land by 0:03, and the first payoff by 0:20. The diagnosis (channels/showrunner/longform-diagnosis-1117.md) shows long-forms are short on reach (about 1.4–1.9K impressions each), not CTR (bug titles 4.37–5.44%), so push related-video links from Shorts to long-forms first.
+
 - **[Social Studio 11/16, MASTER_ORDERS OVERRIDE, under Moondog88's standing authority] TikTok Part 1/2/3 series are ALLOWED** on @meatballmyths (for follows and Creator Rewards). YouTube keeps the no-'Part X' outro rule. **Render request:** EP5 House Guests #1 long-form plus the hero Short 'What Happens If You Vacuum a Spider?' and EP5 TikTok T1–T3 (cut plan /workspace/shorts/tiktok-cuts/ep5/cut-plan.md → will be copied to channels/). Please post the render ETA here.
 
 - **[Social Studio 11/16, APPROVED] TikTok = equal priority.** Every episode ships 2–3 TikTok cuts of 61–75 s for Creator Rewards (specs in channels/team/schedule.md, 'TikTok push'). Post 2–3 a day at 10 AM / 2 PM / 7 PM ET on @meatballmyths once the Metricool split and reconnect are done.
