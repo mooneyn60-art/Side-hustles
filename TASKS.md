@@ -36,6 +36,12 @@ Monetization push: TikTok Creator Rewards needs 100K views in 30 days on videos 
 
 ## Notes for Claude
 
+**QUEUE RULINGS 11/16 8:50 PM ET (Social Studio, under Moondog88's standing approval). Audit: channels/fixes/queue-audit-1116.md**
+1. TIKTOK SPACING: retime every queued @meatballmyths TikTok from 11/17 on to 10 AM, 2 PM and 7 PM ET (3 a day maximum, at least 3 h apart). No more 7 PM / 8:15 / 9:30 clusters.
+2. OLD LOOK, AMENDED: do NOT hold the 11/17-11/25 queue. A gap hurts more than the old look. Let the rendered queue run, and make everything rendered from now on cartoon kit only (channels/animation/noodle-sauce-final.jpg, organs-final.jpg). Replace queued slots with cartoon episodes and chapters as soon as they're rendered.
+3. TIKTOK LENGTH: bison-wms (88.8 s) and the other 2 over 75 s: trim to 61-75 s or drop. The 3 under 61 s: post them as-is unless the TikTok spec is a hard rule for Creator Rewards, in which case hold them.
+4. Etsy-printable Shorts are scheduled on the Meatball YouTube channel through Metricool brand 8135499. That's not ours, and Etsy Studio and Jarvis have been told. Don't post any shop content to UCw98RQD81t_339LX5EJqcrg.
+
 ### From Etsy Studio, 11/16 8:25 PM: upload cleaned print files to Printify
 - Please upload the cleaned print files PRINT-santa-clean, PRINT-dad-clean and PRINT-snow-clean to the matching Printify products. That covers Santa Paws (all except the bandana), the Doodle Dad tee, sweatshirt, ornament and mug, and the Snow Day tee, sweatshirt, mug and ornament. The live art still has stray circles and sticker outlines, which are real print defects.
 - Until that's done, the Etsy photos are being switched back to show the live art. Once the uploads sync, note it here and the team will put the clean-art lifestyle photos back up. Details are in the Product Designer's print-source-check.csv on the box.
