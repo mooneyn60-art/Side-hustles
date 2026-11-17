@@ -1,7 +1,7 @@
 # Claude status (Claude overwrites this each run; see channels/team/claude-sync-schedule.md)
 Start here: channels/claude/handbook.md (everything I know: tools, numbers, rules, files, schedule, and my questions for you).
 Sections every run: RENDERED, POSTED/SCHEDULED, BLOCKED, ETA, NUMBERS, and ASKS FOR STUDIO (what you need to fix so I can keep going; the open list lives in channels/claude/asks.md).
-Updated Tue 11/17 6:40 PM ET by Claude (Moondog88: "get cranking").
+Updated Tue 11/17 7:00 PM ET by Claude (evening read).
 
 HOW TO REACH CLAUDE FAST (from 11/17, Moondog88: "make sure you guys have full communication"):
 - I now check this repo every 2 hours (9:23 AM, 11:23, 1:23 PM, 3:23, 5:23, 9:23 PM ET), plus the 7:37 AM morning run and the 6:41 PM evening read. A new note gets an answer in status.md within about 2 hours.
@@ -9,6 +9,13 @@ HOW TO REACH CLAUDE FAST (from 11/17, Moondog88: "make sure you guys have full c
 - My questions to you go in channels/claude/asks.md. Answer under each one, or write DONE.
 
 RENDERED:
+- **[MEATBALL] Read 6:40-6:45 PM "DO EVERYTHING TONIGHT" + voice v2 + flagship story arc + date + overhaul (7:00 PM). Working straight through, in your order:**
+  1. **Voice test v2: started now.** D = Chatterbox (exaggeration about 0.7), E = Kokoro with per-line direction, both on the same 20 s script over v3 animation. ETA 10 PM, in channels/renders/voice-test-v2/. **F (ElevenLabs free tier) is BLOCKED:** it needs an ElevenLabs account login and API key, which only Moondog88 can make (logins and money are his). If he makes a free account and adds the key to this cloud environment, I'll run F the same night.
+  2. **Page overhaul: I can't log in to YouTube Studio** (it's his login), so items 3, 4, 5, 9, 10, 11 and 12 are NEEDS STUDIO. Tonight I write paste-ready text for you in channels/fixes/overhaul-1117.md: the About text and keywords, the shelf order, playlist names and video lists, the description template backfilled for all long-forms, pinned comments, end-screen picks, and the Azorian and cat moves. ETA midnight.
+  3. **Flagship "House Bugs Ranked" with the 2 AM mystery arc:** script plus a second-model check tonight, then the build with the KWOM2 long-form fixes (bug at 0:00, a cut every 5 s at most, no room more than twice, characters at least 40% of frame height, re-hook every 60-90 s, an interrupt every 2 min). Voice C placeholder. **Render and frame sheet by Wed 1 PM** to channels/renders/; scheduled Wed 5 PM after your PASS. If the build slips, I'll post the real ETA here by 8 AM.
+  4. Banner, trailer and thumbnail system with the 4 old thumbs redone: Wed after the flagship, to channels/renders/ for PASS by Thu.
+  5. Part 4 and Part 5 Shorts cuts: after item 4, Wed.
+  - The long-form autopsy research (channels/research/longform-autopsy-1117.md) runs alongside. ETA Wed noon.
 - **[MEATBALL] PART 5 (SILVERFISH) READY, please PASS or FIX before Wed 7 PM: channels/renders/centipede-p5-silverfish-1118.mp4** (62.1 s; frames in channels/renders/centipede-p5-silverfish-1118-sheet.jpg). Scheduled TikTok **Wed 11/18 7 PM** (Metricool uuid 6053689740378063163). If you write FIX, I fix it or pull it.
   - Facts: your QA pack channels/qa/silverfish-p5-1118.md (P5-F1 to F8 and F10, your script-safe wording). The old dinosaurs/books hook isn't reused.
   - Second-model check (Sonnet): every fact passed, and 7 small fixes were applied. Joke with no number, hedges kept on the cards ("CAN", "SOME SPECIES: CAN LIVE 8 YEARS"), "Males do a mating dance" in the caption, the title says "fossils from 400 million years ago". File: skills repo research/facts/silverfish-p5-check.md.
