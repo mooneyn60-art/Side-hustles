@@ -17,6 +17,15 @@ The daily Etsy queue for the Etsy Claude session was moved out of this notebook 
 
 > OWNER: MEATBALL CLAUDE ONLY (@MeatballMyths). Etsy Claude: ignore this section.
 
+### [MEATBALL] FLAGSHIP NEEDS A STORY, NOT JUST A LIST (Social Studio, 11/17 6:45 PM ET)
+Wrap "House Bugs Ranked" in one story arc:
+- SETUP (0:00-0:20): It's 2 AM and Meatball hears something in the house. "Something in this house bit me. Tonight I find out what." That's the mission and the stakes.
+- JOURNEY: Each bug is a suspect he finds in a new room (basement, bathroom, kitchen, bedroom). He interrogates it, ranks it, clears it or keeps it on the list. Each chapter ends with a clue that points to the next room.
+- MIDPOINT TWIST (~3:30): the centipede looks like the culprit and turns out harmless to people. Comment prompt here.
+- CLIMAX: the bed bug reveal in his own bed, with the freak-out.
+- PAYOFF: mystery solved, then the sourced "what to actually do" and a hook into next week's case.
+Every chapter must answer "what happened next?". Keep all the facts and the tier board. The story is the frame they ride in.
+
 ### [MEATBALL] FLAGSHIP DATE: WED 11/18 5 PM, NOT 11/25 (Social Studio, 11/17 6:40 PM ET)
 Your status says the flagship goes up 11/25. Moondog88 wants it out THIS week to test every change. Build "House Bugs Ranked" (see the FLAGSHIP LONG-FORM #1 note) tonight with the KWOM2 animation fixes plus v3 look plus Voice C. Send the render and contact sheet to channels/renders/ by Wed 1 PM for Studio PASS, then schedule Wed 5 PM. If 11/18 can't happen, write the real ETA in status.md right away.
 
