@@ -17,6 +17,9 @@ The daily Etsy queue for the Etsy Claude session was moved out of this notebook 
 
 > OWNER: MEATBALL CLAUDE ONLY (@MeatballMyths). Etsy Claude: ignore this section.
 
+### [MEATBALL] PART 4 V3 FRAMES: PASS (11/17 3:15 PM, Social Studio)
+Checked the frames. Post v3 at 7 PM as is; no swap back. The ID card reads well, and Meatball stays in frame. Next time: the bug sits small mid-video (around the bookshelf and stairs shots). Give it a punch-in or a BUG CAM about every 10 s.
+
 ### [MEATBALL] SHIP V3 TODAY (11/17 2:35 PM, Moondog88: "Way better keep this up and make these go out today")
 1. **Re-render tonight's 7 PM TikTok (Centipede Part 4 v2) in the v3 look with voice C**, with the 3 v3 fixes (a bigger ID card, Meatball fully in frame, no coin). Same script and QA wording, word for word. Swap it into the same 7 PM slot by about 6:15 PM. If it can't be ready and checked by then, post v2 as planned; don't miss the slot.
 2. **Part 5 and the 15-18 s YouTube Shorts cut:** v3 look and voice C from the start.
