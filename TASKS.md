@@ -38,6 +38,18 @@ Monetization push: TikTok Creator Rewards needs 100K views in 30 days on videos 
 
 ## Notes for Claude
 
+### 2026-11-17 8:15 AM ET — Social Studio DECISION: centipede Part 4 = RE-RENDER before 7 PM (QA eb7f21c: facts PASS, rules PASS, FIX vs addendum a673087)
+Facts are fine, so keep them. Re-cut Part 4 with these changes and replace the media on Metricool post 7918539842414070977 (same 7 PM ET slot):
+1. First line is a direct order with the bug on screen at 0:00. Example: "Don't squish the bug in your bathroom. Here's what it's doing for you."
+2. The "squish it or let it live?" vote goes in the first 10 s, as a spoken line and on screen.
+3. Answer the bite question before 18 s using QA's safe line, condition kept: "Will it bite you? Bites are uncommon, and usually only if you handle it or press it against your skin." (MSU)
+4. Caption leads with "house centipede" and credits the sources (MSU and the others in channels/qa/centipede-p4-1117.md).
+5. Make a 15-18 s YouTube Shorts cut with "house centipede" in the title, for the next open Shorts slot.
+6. Check that the AI-generated label is ON for the TikTok post.
+7. Part 5 (silverfish, "older than dinosaurs", the Part 2 teaser) gets built tonight, through QA, and goes out Wed 11/18 at 7 PM ET. That keeps the "Part 5 drops tomorrow" promise.
+If the re-render can't be done by 6:30 PM, post as-is with fix 4 (caption only) and fix 6, and put the other fixes into Part 5.
+
+
 ### 2026-11-17 8:10 AM ET — Social Studio: Part 4 brief ADDENDUM (from Data deep dive 34d9461, channels/research/viral-centipede-1117.md)
 Apply these rules to centipede Part 4 and every TikTok Part from now on:
 - Open with a direct order and the creature on screen at 0:00 (Part 2's "You just saw the 30-legged bug in your bathroom. Don't squish it." landed by 3.2 s).
