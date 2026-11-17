@@ -106,14 +106,14 @@ Expressions **snap** between clean drawings and are never morphed through ugly i
 - **No breed, size, markings, collar color or cartoon drawing is defined anywhere.**
 
 **Proposed spec** (restyles the existing renderer colors into Meatball's style):
-- Silhouette: chunky bean-shaped body, short sturdy legs with rounded paws, big head (about 40% of body length), long floppy ears that hang to the jaw, thin tail. Readable as "dog" from the side silhouette alone. [PROPOSED]
-- Scale: Meatball's standing height ≈ Noodle's shoulder height, so Noodle can carry Meatball's props, and Meatball, in his mouth. [PROPOSED]
-- Palette: coat `#c8743c`, shade `#8f4f24`, belly/muzzle `#f1dcc0` (all [REPO] renderer values). Ears a darker brown in the shade tone. Nose and outlines ink. Collar: plain red, no text and no logo, with a round silver tag. [PROPOSED]
-- Line/shading: the same ~11 / ~7 px outline weights, flat fill and single shade tone as Meatball. [PROPOSED]
-- Eyes: **same eye design as Meatball** (white ovals, round pupils, catchlight, dash brows) so the cast matches. [PROPOSED]
-- Expressions (8): `happy` (repo mood), `alert` (ears up, head tilt), `sniff` (nose down, eyes half shut), `mouth-full` (prop in mouth, tail up), `zoomies` (ears flying, tongue out), `sleepy` (curled, eyes closed), `guilty-look` (eyes side, ears back; drawing only, never captioned as guilt), `startled` (big eyes, ears up). [PROPOSED]
-- Turnaround: front, 3/4, side, back, plus a **low front "looming" view** for the cat's-eye and Meatball-scale shots. [PROPOSED]
-- Poses: walk, trot, run (gallop cycle), sit, lie down, hind-leg stand, carry-in-mouth, play bow, sniff walk. [PROPOSED]
+- Silhouette: chunky bean-shaped body, short sturdy legs with rounded paws, big head (about 40% of body length), long floppy ears that hang to the jaw, thin tail. Readable as "dog" from the side silhouette alone.
+- Scale: Meatball's standing height ≈ Noodle's shoulder height, so Noodle can carry Meatball's props, and Meatball, in his mouth.
+- Palette: coat `#c8743c`, shade `#8f4f24`, belly/muzzle `#f1dcc0` (all [REPO] renderer values). Ears a darker brown in the shade tone. Nose and outlines ink. Collar: plain red, no text and no logo, with a round silver tag.
+- Line/shading: the same ~11 / ~7 px outline weights, flat fill and single shade tone as Meatball.
+- Eyes: **same eye design as Meatball** (white ovals, round pupils, catchlight, dash brows) so the cast matches.
+- Expressions (8): `happy` (repo mood), `alert` (ears up, head tilt), `sniff` (nose down, eyes half shut), `mouth-full` (prop in mouth, tail up), `zoomies` (ears flying, tongue out), `sleepy` (curled, eyes closed), `guilty-look` (eyes side, ears back; drawing only, never captioned as guilt), `startled` (big eyes, ears up).
+- Turnaround: front, 3/4, side, back, plus a **low front "looming" view** for the cat's-eye and Meatball-scale shots.
+- Poses: walk, trot, run (gallop cycle), sit, lie down, hind-leg stand, carry-in-mouth, play bow, sniff walk.
 - Concept image (proposed only): `/workspace/animation/PROPOSED-noodle-sauce-concept-v1.jpg`. It shows Meatball about the dog's height, larger than the proposed scale.
 
 ### 1.3 Sauce, his cat: no cartoon model exists.
@@ -127,13 +127,13 @@ Expressions **snap** between clean drawings and are never morphed through ugly i
 - **No markings, size or cartoon drawing is defined.** Note: the orange house cat in the v6 "RAW DEAL?" thumbnail (`viD-nbPdaxk`) is the long-form's subject cat, not Sauce [BOX].
 
 **Proposed spec:**
-- Silhouette: compact rounded body, triangle ears, thin upright tail with a slight hook, whiskers. Clearly paler and yellower than Noodle so the two never merge at small sizes. [PROPOSED]
-- Scale: sitting height ≈ Meatball's standing height. [PROPOSED]
-- Palette: coat `#e39a4a`, shade `#b06f2a`, chest/belly `#f6e3c8` ([REPO] renderer values). Inner ears pink. No collar, so she reads differently from Noodle. [PROPOSED]
-- Line/shading/eyes: same as Meatball. Default eyelids half-lowered (repo `mood: smug`). [PROPOSED]
-- Expressions (8): `smug` (half-lidded, repo mood), `deadpan stare`, `ears-flat` (repo gag), `wide-eyed` (pupils huge), `swat` (paw raised, eyes narrowed), `walk-off` (back view, tail up, the signature exit), `asleep` (loaf, eyes closed), `yawn`. [PROPOSED]
-- Turnaround: front sit, 3/4, side walk, **back walking away** (the most-used view), top-down loaf. [PROPOSED]
-- Poses: sit, loaf, walk away, swat, bat a prop off a ledge, perch, jump up, stretch, groom. [PROPOSED]
+- Silhouette: compact rounded body, triangle ears, thin upright tail with a slight hook, whiskers. Clearly paler and yellower than Noodle so the two never merge at small sizes.
+- Scale: sitting height ≈ Meatball's standing height.
+- Palette: coat `#e39a4a`, shade `#b06f2a`, chest/belly `#f6e3c8` ([REPO] renderer values). Inner ears pink. No collar, so she reads differently from Noodle.
+- Line/shading/eyes: same as Meatball. Default eyelids half-lowered (repo `mood: smug`).
+- Expressions (8): `smug` (half-lidded, repo mood), `deadpan stare`, `ears-flat` (repo gag), `wide-eyed` (pupils huge), `swat` (paw raised, eyes narrowed), `walk-off` (back view, tail up, the signature exit), `asleep` (loaf, eyes closed), `yawn`.
+- Turnaround: front sit, 3/4, side walk, **back walking away** (the most-used view), top-down loaf.
+- Poses: sit, loaf, walk away, swat, bat a prop off a ledge, perch, jump up, stretch, groom.
 
 ### 1.4 File naming [DERIVED]
 
