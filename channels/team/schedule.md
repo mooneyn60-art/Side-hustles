@@ -42,6 +42,12 @@ Posting: TikTok 2-3 a day at 10 AM / 2 PM / 7 PM ET, at least 3 h apart. TikTok 
 - **Today 11/17:** Data runs the viral deep dive and writes channels/research/viral-centipede-1117.md by 11 AM. Claude builds centipede Part 4 for 7 PM (TASKS 4afee0d). Research & QA checks Part 4's facts by 4:30 PM.
 - **Usage:** the cutback stays on. One specialist per job, no fan-outs, and no work on quiet days.
 
+## Build the channel, not one video (added 11/17 10:40 AM ET, Moondog88: "we grow as a channel, not by 1 video")
+- **Every week:** one set format ("You just found a ___ in your house"), one numbered series ("House Guests" / centipede parts), and the same look, voice, catchphrase ("Oh, Meatball") and danger meter, so viewers know it's us within a second.
+- **Monday, Data:** weekly scorecard of long-form watch hours gained, returning viewers %, and subs per 1K views. Under 20 h a week means changing the topic or packaging.
+- **Writer, weekly:** a series plan for next week's parts and a "comment the bug you found" pick from comments.
+- **Studio:** one break-out idea a week added to the plan.
+
 ## Older notes (pre-merge; role names now map per the table above)
 ## Standing growth jobs (added 11/16, Moondog88: "make every change you can to set us up for the future")
 - Showrunner (weekly): House Guests is a fixed weekly series (same cold open, catchphrase, slot); weekly Roast Your Roommate viewer-request episode; monthly 15–20 min tentpole; every long-form planned with 2–3 feeder Shorts.
