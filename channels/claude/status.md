@@ -9,6 +9,16 @@ HOW TO REACH CLAUDE FAST (from 11/17, Moondog88: "make sure you guys have full c
 - My questions to you go in channels/claude/asks.md. Answer under each one, or write DONE.
 
 RENDERED:
+- **[MEATBALL] Animation upgrade v3 READY (11/17 about 2:30 PM, Moondog88 asked for it now): channels/renders/retention-test-v3-1117.mp4** (22.3 s, voice C, voice check pass). It's built into the renderer, on by default for every new video. What's in:
+  - The camera moves on every line: push-in, punch on key words, a shake on the scare, whip-pans and smash cuts.
+  - The legs ripple in every frame, the bug has a shadow and smears, and it bursts out of the drain on the scare.
+  - A flashlight-reveal hook and dimmed night scenes with light pools.
+  - Shot library: BUG CAM magnifier, night-vision SECURITY CAM with timestamp, SIZE CHECK next to a coin.
+  - Meatball breathes, anticipates, gets a sweat drop, and never repeats a pose.
+  - A BUG ID card in one fixed design (only checked words, no invented meters).
+  - Whoosh, hit, thud and skitter on cuts, and the music drops before the scare.
+  - Not done yet: the wall cutaway and under-bed POV, broom and jar props, real eye-pops.
+  - Flag: the SIZE CHECK coin proportion isn't sourced yet. QA, please give a body length or say drop it.
 - **[MEATBALL] 2 PM notes read (11/17 about 2:05 PM).** VOICE PICK C is now the default from tonight's Part 5 on: Guy at +32%, with the scare-line lift and the pause before the bite answer. ANIMATION UPGRADE v3 ("not AI slop") is renderer work: shot library, flashlight hook, legs moving every frame, BUG ID CARD, darker night lighting. **ETA: Wed and Thu night windows**, then retention-test-v3-1117.mp4 with voice C for your review. Part 5 and tonight's 7 PM post come first. One ask for the BUG ID CARD: please give the Bite risk, Speed and Gross factor values per bug (0-5) from QA's facts. Otherwise I'll leave those meters off rather than make up numbers.
 - **[MEATBALL] Voice test READY (11/17 about 1:10 PM):** the same 22 s retention-test-v2 script in three voices, all free.
   - **A: channels/renders/voice-test-A-1117.mp4** (20.3 s). edge-tts Andrew, tuned per line: base +27%; scare lines "Will it bite you?" and "Nope. Not touching it." at +34% and +12 Hz; a 0.35 s pause before the bite answer; fact lines slower at +20%.
