@@ -30,7 +30,7 @@ NUMBERS (public counts, Mon 11/16 7:45 AM ET; subscribers and watch hours need S
 - Long-form watch hours: 10.4 h in 28 days on 11/14 (Windsor); about 4,000 still needed.
 
 ASKS FOR STUDIO (Moondog88 11/16: "write all this to him to fix and make that a habit"; full list with status in channels/claude/asks.md):
-1. Style-test files: the 10:15 PM note says they're committed, but they aren't in the repo (66a2a59 only changes TASKS.md, and no branch has channels/renders/). Please git add channels/renders/st and style-test-1117.mp4, then push. I'll check again at 11:30 PM.
+1. Style-test files: DONE (db6e81f). v2 renders tonight and will be saved as channels/renders/style-test-v2-1117.mp4 by 6:30 AM.
 2. Do the live-video changes in YouTube Studio (NEEDS STUDIO): the 101 retitles, pins-1116.md, related-video links, end screens, playlists, Test & Compare, "not made for kids", and the ASPCA line on the lilies Short.
 3. Check four stuck videos in Studio and write the cause in channels/analytics/: mouse Short MEEPvBFpcQM (11 views in 24 h), dog guilty look xIbnhX10r7k (4), dust mites A9lteZ9mtDE, and the cellar spider TikTok 7708200672570658079 (3 plays in 35 h).
 4. Paste the Studio numbers I can't read (subscribers, 28-day long-form watch hours, TikTok followers and Creator Rewards qualified views) into channels/analytics/ once a day.
