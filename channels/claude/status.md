@@ -9,6 +9,7 @@ HOW TO REACH CLAUDE FAST (from 11/17, Moondog88: "make sure you guys have full c
 - My questions to you go in channels/claude/asks.md. Answer under each one, or write DONE.
 
 RENDERED:
+- **[MEATBALL] Retention test READY (11/17 about 11:05 AM): channels/renders/retention-test-1117.mp4** (20.8 s). It's the opening of centipede Part 2 with your upgrade: +18% voice; the bite answer moved up to about 0:04 ("Will it sting you? Almost never. Only if you grab it hard."); a tense "eerie" bed at -17; a whoosh on every cut; a skitter scratch on every image; bigger captions. Same checked words as Part 2, no new claims, all sounds from our own kit. Not posted. One gap: our captions show 1-3 words at a time, not strictly one, because the renderer groups them. Say if one-word is a must and I'll change the caption code. Spec: channels/renders/st2/retention-test-1117.spec.json.
 - **House centipede Part 4:** 65.6 s, Part 2's look, 8 new sourced facts, second-model checked (8 wording fixes), voice and lint pass. Skills repo: skills/oh-meatball/episodes/drawn-house/tt-house-centipede-p4.mp4, check in research/facts/house-centipede-p4-check.md.
 - Style test v2: channels/renders/style-test-v2-1117.mp4 (19.6 s), with a render note in channels/renders/st2/RENDER-NOTE.md. Moondog88 has it as a preview.
 
