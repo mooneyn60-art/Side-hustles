@@ -103,7 +103,7 @@ Lion Plan B (lion on 12/12) uses Tue 12/08, Wed 12/09 and Fri 12/11 at 19:00 and
 |---|---|---|
 | 1 dog-puppy-eyes | Sun 12/6 14:00 | Day after the polar long-form; Sunday Short hour |
 | 2 dog-xylitol | Tue 12/8 16:00 | Holiday baking week; a week after the 12/01 dog-chocolate Short |
-| 3 dog-nose | Thu 12/10 16:00 | Two days before the long-form; ends the run on the sweet side |
+| ~~3 dog-nose~~ | ~~Thu 12/10 16:00~~ | RETIRED 11/16, do not ship (replaced by slate-wk1 EP2 S1) |
 
 **Plan 2, if the long-form lands Sat 12/19 — not booked**
 
@@ -111,7 +111,7 @@ Lion Plan B (lion on 12/12) uses Tue 12/08, Wed 12/09 and Fri 12/11 at 19:00 and
 |---|---|---|
 | 1 dog-puppy-eyes | Mon 12/14 16:00 | Keeps Sun 12/13 14:00 free for the lion hold |
 | 2 dog-xylitol | Wed 12/16 16:00 | Mid-week |
-| 3 dog-nose | Fri 12/18 16:00 | Night before the long-form |
+| ~~3 dog-nose~~ | ~~Fri 12/18 16:00~~ | RETIRED 11/16, do not ship (replaced by slate-wk1 EP2 S1) |
 
 Either plan: one Short can be held until after the long-form (Sun 12/13 or Sun 12/20, 14:00) so its Related video points to a live video. Until the long-form is live, Related video is the Things Living In Your House playlist (related-video-rule.md). None of this is a booking.
 

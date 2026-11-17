@@ -1,7 +1,7 @@
 # QA verdict: showrunner slate, week 1 (EP 1 chocolate, EP 2 dogs lick, EP 3 cats knead, 15 chapters)
 
-**Slate version reviewed:** `/workspace/showrunner/slate-wk1.md`, mtime **2026-11-16 19:06:25 ET**, 28,932 bytes, sha256 **a3014f5ac5d7**. It is byte-identical to `channels/showrunner/slate-wk1.md` on side-hustles origin/main @ **062d62f** ("Slate wk1: cartoon-ball Meatball + Animator staging"). It includes the Retitle, the 7:00 PM "Sourcing pass" and the new "Staging notes from the Animator" sections (source: `channels/animation/organs-notes-v1.md` @ a3bdae3).
-**Revision:** pass 2, Mon 11/16/2026 about 7:15 PM ET. It supersedes pass 1 (about 7:07 PM ET, slate @ 8a7ad35, sha256 99c085d3064a). "Changes since pass 1" below lists what moved.
+**Slate version reviewed (pass 4, final):** `/workspace/showrunner/slate-wk1.md`, mtime **2026-11-16 19:19:48 ET**, 44,599 bytes, 422 lines, sha256 **34d2bc0ce392**. It is byte-identical to side-hustles origin/main @ **93b38b5** ("Slate wk1 QA pass 3 applied; retire dog-nose teaser", 19:20:21 ET).
+**Revision:** pass 4 (final), Mon 11/16/2026 about 7:21 PM ET. It supersedes pass 3 (slate @ b5a2c27, sha256 90fd3520f23e), pass 2 (@ 062d62f, a3014f5ac5d7) and pass 1 (@ 8a7ad35, 99c085d3064a). The "Pass 4" section below is the current verdict. The later sections are history.
 **Checklist:** `channels/qa/checklist.md`. Citations: YouTube YPP [1311392](https://support.google.com/youtube/answer/1311392), Shorts [12504220](https://support.google.com/youtube/answer/12504220), TikTok [US Terms](https://www.tiktok.com/legal/page/global/creator-rewards-program-us/en), [EEA Terms](https://www.tiktok.com/legal/page/global/tiktok-creator-rewards-program-eea/en), [CG Integrity and Authenticity](https://www.tiktok.com/community-guidelines/en/integrity-authenticity).
 **Claude's rules:** MO = `skills/channel-brain/MASTER_ORDERS.md` in mooneyn60-art/skills, branch `claude/youtube-monetization-strategy-m9vz6i`. I re-pulled it at about 7:05 PM ET: the newest commit on the branch is still 082e975 and the file has not changed. Links are permalinks at that commit.
 **Diffed against these planned or posted cuts:**
@@ -9,6 +9,85 @@
 - skills repo `skills/oh-meatball/scripts/drawn-house/dog-chocolate-v6-yt.json`: Claude's rendered Short "#72", commit 63fff05, not yet in `posted.csv`
 - the posted tail-wag Short (#67, 11/16 10:00 ET, per `posted.csv`)
 **Run:** Mon 11/16/2026 (ET), script and slate stage. Every source page was opened live by QA this session (quotes below). The Animator concept boards were viewed too: `channels/animation/organs-concept-v1.jpg`, `noodle-sauce-concept-v2.jpg`, and the house ref `/workspace/animation/refs/character_ref.png`.
+
+
+
+## Pass 4 (final verdict)
+
+**Out of scope:** the 4 MASTER_ORDERS items (long-form shape, 3/week slots, title lead, new designs/style lock) stay out of scope; Social Studio is taking them to Moondog88.
+
+| Ep | Final verdict | Note |
+|---|---|---|
+| EP 1 chocolate (3 Shorts / 5 TikToks) | **PASS** | |
+| EP 2 dogs (3 / 3) | **PASS** | E2-1 is resolved by retiring `dog-nose`, on the condition in the WATCH list. |
+| EP 3 cats (3 / 1) | **PASS** | |
+
+**Diff b5a2c27 → 93b38b5 (slate): 12 hunks, all accounted for.**
+- **EP 1:** only 3 lines changed. L70 adds the T5-only "your pet" rule. L94 adds the pass 3 verdict and WATCH note. L149 changes the T5 0:58–1:07 line to "ASPCA: if you think your pet ate chocolate, note the amount and contact your vet or animal poison control, (888) 426-4435. A consultation fee may apply." That is identical to the pass 3 line except "pet" for "dog", and the word count is unchanged. No other EP 1 script, fact, hook or timing line changed.
+- **E2-1:** applied. `dog-nose` was added to the no-reuse list (L34), and S1 is kept per Social Studio's ruling. The `dog-teasers.md` §3 heading on main now reads "RETIRED 11/16".
+- **E2-2:** applied word for word (L196). UNV-2 was removed from S3, the "cannot distinguish" hedge and "never knows" stay, and there is no tail-wag line. T3 keeps UNV-2 (TikTok only) and has a ≥61 s lint note.
+- **E3-1:** applied word for word (L256–259). A "SENIOR CATS" label runs 0:42–1:04, the senior-cats framing is at 0:46–0:57, and the action line is the last spoken line (0:57–1:04). "May represent" is kept, with no dementia wording.
+- **E3-2:** applied word for word (L240).
+- **UNV-6b:** the third-quote card ends with "…" (L256).
+- **Facts table:** the UNV-6b/7b status was updated. The pass 3 fix log was appended. EP 2 T2 has a phrasing note.
+
+**New-issue check on the edits:**
+- **Hedges:** all kept.
+- **Duplicates:** nothing new.
+  - E2-2's line isn't in any draft and isn't #67's topic.
+  - E3-2's "almost like a sign of the bond" is in the TikTok minute script `cats-knead.md` / `tt-cats-knead`. It is not in the drafted YouTube Short `cats-knead-v6-yt` (kittenhood line only), and S2 already used CK-F7 in its body (accepted in pass 3).
+- **Timing:**
+  - EP 3 T1 0:46–0:57 is 38 spoken words with "A-A-H-A A-A-F-P" spelled out. That's about 11.7 s at 194.5 wpm against an 11 s window, so T1 runs about 69 s. It still clears 61 s and stays within 65–75 s.
+  - EP 2 S3 is 19-word hook + 19-word E2-2 line + hedge, about 17–18 s. That's within the 16–20 s lint band but at the top of the 16–18 s target.
+  - All 9 TikToks are still ≥61 s on paper.
+
+**WATCH (no fix needed for PASS):**
+1. `channels/scripts/dog-teasers.md` L106 and L114 still list `dog-nose` in both slot plans (Thu 12/10 16:00 and Fri 12/18 16:00; "not booked"). Strike those rows so the retired Short can't be scheduled next to EP 2 S1. **E2-1's PASS depends on `dog-nose` not shipping.**
+2. The pass 3 fix log says the GitHub repo wasn't edited, but commit 93b38b5 on side-hustles main does change `channels/scripts/dog-teasers.md` (the heading line only, matching the proposed text). The record is wrong, but the content is right.
+3. The timing lint must confirm EP 3 T1 (let 0:46–0:57 run to about 0:58), EP 2 S3 (≤20 s), EP 1 T3 and EP 2 T3 (≥61 s) before render.
+4. Carried from pass 3: EP 1 T1/T2 vs the `tts-chocolate` / `tts-dog-chocolate` posting condition, EP 2 T2 phrasing, and Sauce "walks off" in EP 1 and EP 3.
+
+---
+
+## Pass 3 (history; superseded by Pass 4)
+
+**Out of scope:** the 4 MASTER_ORDERS items (long-form shape, 3/week slots, title lead, new designs/style lock) are out of scope for this pass; Social Studio is taking them to Moondog88.
+
+| Ep | Verdict | Open items |
+|---|---|---|
+| EP 1 chocolate (3 Shorts / 5 TikToks) | **PASS** | WATCH only (see below) |
+| EP 2 dogs (3 / 3) | **FIX** | E2-1, E2-2 |
+| EP 3 cats (3 / 1) | **FIX** | E3-1, E3-2 |
+
+### Pass 2 fixes, checked against the fix log and the lines themselves
+- **Resolved:** F1-1 (ch 1–2 Shorts dropped; S1–S3 = ch 3–5), F1-2 (ASPCA ingestion line word for word at 0:35, the payoff, S1 pinned card, S2 loop card and every EP 1 TikTok close; rule written in), F1-3 (white-chocolate wording; "safe" lines gone), F1-4 (staging binding; ch 4 reframed to "Three sources, three clocks"), F1-5, F2-1 (lick and lip-lick chapters dropped), F2-2 (pucker/sandwich gone; keys planted at the lock and the jump, paid off at 7:30), W-C4, W-Y2 (QA midpoint line; Sauce's action differs in EP 2), F3-1 (option b), F3-2, F3-3, F3-4, the UNV-2 credit, Y5 (porthole once per long-form; each cut names its own first shot), T2 for EP 1 T5 and EP 3 T1 (rewritten to about 69 s and 68 s of new sourced beats, no loops).
+- **New issues introduced by the fixes:** E3-1 (the new UNV-7b beat). E2-1, E2-2 and E3-2 were in the slate before and were missed by passes 1–2. They surfaced on a wider diff against the side-hustles drafts this pass.
+
+### Remaining fixes (replacement wording)
+- **E2-1 (Y1/Y4): EP 2 S1 duplicates a drafted Short.** `channels/scripts/dog-teasers.md` §3 "dog-nose" (commit 20e89f9) is a 16 s YouTube Short with the same facts (DB32 5–6M / up to 100M / Bloodhounds 300M + DB33 40×) and almost the same hook ("Dogs have up to 100 million scent receptors."). Ship only one: either **drop EP 2 S1** (EP 2 becomes 2 Shorts / 3 TikToks) or **add `dog-nose` to the no-reuse list and don't ship it**. EP 2 T1 (TikTok) is fine either way.
+- **E2-2 (Y1): EP 2 S3 re-runs the posted tail-wag Short.** S3's body adds UNV-2 (right-side wag bias), which is the topic of posted #67 (11/16 10:00 ET). Replace it with the rest of the same Rehn & Keeling abstract (SLU page, HTTP 200 this pass): **"The dogs also showed more physical activity and more attentive behavior when the owner returned, already after 2 hours."** The authors' "cannot distinguish" hedge stays, and "never knows" stays. Don't use the abstract's tail-wagging line either (same #67 topic). T3 (TikTok) can keep UNV-2 because #67 is YouTube only.
+- **E3-1 (C1/C3/C8): EP 3 T1, 0:46–1:04, the UNV-7b beat (Research quote verified exact, see below).** The quote comes from the senior-cats section of a vet-practice guideline. Spoken alone after the general night lines, it reads as if any cat that wakes you at night may have a disease, and the cut ends on a disease list instead of the action. Scope it and end on the action:
+  - 0:46–0:57: "For senior cats, the AAHA/AAFP guidelines say: 'Vocalization, especially nighttime waking, is a common concern and may represent sensory changes (declining hearing and vision), cognitive dysfunction syndrome, pain, hyperthyroidism, or hypertension.'"
+  - 0:57–1:04: "Senior cats exhibiting new or unusual behavior should be evaluated for medical conditions." (Said clean and pinned. This is the last spoken line before the quick pick.)
+  - A "SENIOR CATS" label stays on screen for 0:42–1:04. No dementia wording, no "your cat may have…". About the same length, so it still clears 61 s.
+- **E3-2 (C1): EP 3 S2 hook attributes words Grigg didn't say.** "…probably isn't random, says a UC Davis behaviorist" puts "isn't random" in her mouth. Replace with: **"Kneading your chest? A UC Davis behaviorist: 'almost like a sign of the bond.'"** The body stays as is (CK-F7 + CK-F2, no "loves").
+
+### WATCH (no change needed to pass)
+- **EP 1 T1/T2 vs drafted/posted chocolate (Y1/T3): no duplicate.** Nothing about chocolate is in `posted.csv` (side-hustles or skills). The drafted cuts are `chocolate-v6-yt` and #72 `dog-chocolate-v6-yt` (YouTube Shorts) plus `tts-chocolate.json` and Claude's `tts-dog-chocolate.json` (TikTok twins of about 22–25 s). They share CH-F3 (227 vs 57 mg/oz) with T1 and CH-F4 (9/18 mg/lb) with T2. T1 adds F1, F7 and F9 plus the safety line; T2 adds F2, the Merck mg/kg and UC Davis oz/lb units, and F6. Both are new scripts, and the YouTube Shorts aren't on TikTok, so T3 passes. One condition: MO L201–202 keeps sub-minute cuts YouTube-only. If either short TikTok twin is posted to TikTok anyway, don't run T1/T2 in the same week.
+- **EP 1 T5:** this is a cat TikTok, but it closes on the dog wording ("if you think your dog ate chocolate"). Optional: say "your pet" in T5 only. It's the APCC page's own wording ("If you think that your pet may have ingested a potentially poisonous substance").
+- **EP 2 T2** repeats DL-F4 (the Tufts jump line) and DL-F1, both in the `tt-dogs-lick` / `tt-native-pov` drafts. It passes T3 on new UNV-1/UNV-4 and new gags. Don't reuse the drafts' exact phrasing.
+- **TikTok length (T1/T2):** all 9 TikToks clear 61 s on their windows plus added beats: EP 1 T1 80 s, T2 73 s, T3 about 60 s + F7/F13/F10, T4 75 s, T5 about 69 s; EP 2 T1 105 s, T2 70 s, T3 60 s + UNV-4 and the keys; EP 3 T1 about 68 s. EP 1 T3 and EP 2 T3 depend on the added lines. The Scriptwriter's timing lint must show ≥61 s (65–75 s target) before render.
+- EP 1 and EP 3 both end Sauce's beat with her "walking off" (W-Y2 asked for a different action each episode). Minor.
+
+### UNV-6b / UNV-7b, opened live this pass
+| ID | Source (HTTP) | Verbatim on page | Slate use |
+|---|---|---|---|
+| UNV-6b | iCatCare "What is a cat?", https://icatcare.org/articles/what-is-a-cat (200; "Updated 26th Sep 2025", first published 15 Aug 2025) | "To be a successful hunter, your cat's natural rhythms will fit the time when their main prey of small creatures are active and vulnerable - usually at dawn and dusk." / "They can be especially active at dawn and dusk and during the spring/summer" / "Some can adapt to a lifestyle not necessarily active at dawn and dusk, but to the activity patterns and availability of food when owners are home, and to a wide range of 'companions'…" | **PASS.** Exact, and the hedges "usually", "can be especially" and "Some can adapt" are all kept. The third quote cuts mid-sentence, so end it with "…" on the card. C8: about cats in general; no "your cat will". Toy-mouse cards only. |
+| UNV-7b | AAHA/AAFP 2021 Feline Life Stage Guidelines, section "Behavior and Environmental Needs: Senior Cats", https://www.aaha.org/resources/2021-aaha-aafp-feline-life-stage-guidelines/behavior-and-environmental-needs-senior-cats/ (200; published Feb 18, 2021) | "Vocalization, especially nighttime waking, is a common concern and may represent sensory changes (declining hearing and vision), cognitive dysfunction syndrome, pain, hyperthyroidism, or hypertension." It sits in the same paragraph block as "Senior cats exhibiting new or unusual behavior should be evaluated for medical conditions." | **Quote exact, and "may represent" kept. FIX for framing (E3-1).** This is a clinical guideline for vet teams about senior cats. It is not a description of one condition, and it is about *vocalization* at night, not play. The slate line doesn't say "senior" in the quote, so it can be heard as covering all cats. |
+
+---
+
+# Pass 2 record (history)
 
 ## Changes since pass 1 (slate 8a7ad35 to 062d62f)
 
@@ -187,6 +266,8 @@ The slate's own status line says the same.
 | CK-F6/F7 | UC Davis, https://www.ucdavis.edu/magazine/6-common-cat-behaviors-explained (curl 403; opened with the fetch tool; 19 Apr 2021) | "most likely carried over from their days as kittens"; "it's a self-soothing behavior. With humans, it's almost like a sign of the bond". |
 | UNV-6 | Cornell FHC PDF, https://www.vet.cornell.edu/sites/default/files/What%20to%20expect%20when%20adopting%20a%20feline%20friends%20-%20Accessible.pdf (200) | "naturally crepuscular, meaning that they are more active during dawn and dusk. Depending upon the cat, this may mean that your kitty might wake you up to play in the middle of the night." |
 | UNV-7 | AAHA/AAFP 2021, https://www.aaha.org/resources/2021-aaha-aafp-feline-life-stage-guidelines/behavior-and-environmental-needs-senior-cats/ (200) | "Senior cats exhibiting new or unusual behavior should be evaluated for medical conditions." |
+| UNV-6b (pass 3) | iCatCare "What is a cat?", https://icatcare.org/articles/what-is-a-cat (200) | See "UNV-6b / UNV-7b" in Pass 3: exact, hedges kept, PASS. |
+| UNV-7b (pass 3) | AAHA/AAFP 2021, same page (200) | Exact; FIX for framing (E3-1). |
 
 **UNV status:** UNV-1, 2, 3, 4, 6 and 7 are now sourced, and the slate's wording matches the live pages. UNV-5 is correctly cut. Not verified by QA:
 - The Quaranta et al. 2007 primary paper (Research couldn't open it either). UNV-2 rests on the 2024 review, so credit the review on screen, not "a 2007 study".
