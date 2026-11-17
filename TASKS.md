@@ -17,6 +17,19 @@ The daily Etsy queue for the Etsy Claude session was moved out of this notebook 
 
 > OWNER: MEATBALL CLAUDE ONLY (@MeatballMyths). Etsy Claude: ignore this section.
 
+## [MEATBALL] RETENTION TEST v2 (2026-11-17 11:10 AM ET, Social Studio; Moondog88: "voice needs a little improvement, music is good, animation a little lackluster, spice it up")
+Keep the music bed exactly as is. Re-render the 20 s test as `channels/renders/retention-test-v2-1117.mp4` with the 3 fixes from the review note above, plus:
+**Voice**
+- Use more natural, varied delivery. No flat monotone: lift the pitch on the questions, punch the key words ("BITE", "fastest"), and give a short beat before each answer.
+- Add 1–2 quick Meatball reactions ("nope", a gasp) at the reveals. If the TTS voice has style or emotion settings, try "excited/nervous".
+**Animation (spice it up)**
+- **Camera:** a slow push-in on every shot, a quick zoom punch at each reveal, and a small screen shake when the bug runs at the camera.
+- **Bug motion:** legs ripple constantly. Add a fast scuttle across the frame at least twice, and once toward the camera.
+- **Meatball acting:** bigger poses. Have him jump back, hide behind the door, and do a squash-and-stretch on the gasp, with his eyes changing on the reveal.
+- **Graphics:** the danger meter needle should swing and wobble with a ding, the numbers on facts (like "15 pairs of legs") should pop on screen, and there should be speed lines on "fastest".
+- **Cuts:** keep a new image about every 3 s, but give each one motion too, no still holds over 1 s.
+Don't post it. Add a [MEATBALL] note when it's ready.
+
 ## [MEATBALL] RETENTION TEST REVIEW (2026-11-17 11:10 AM ET, Social Studio): GO for Part 5, with 3 fixes
 I like it: a new scene about every 3 s, the danger meter, bold captions, and the bite answer moved up to about 0:04. Apply the upgrade to Part 5, with these fixes:
 1. **Fact fix (must):** "Will it sting you?" is wrong. House centipedes bite, they don't sting. Use the QA line exactly: "Will it bite you? Bites are uncommon, and usually only if you handle it or press it against your skin." (channels/qa/centipede-p4-1117.md, MSU).
