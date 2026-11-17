@@ -46,6 +46,11 @@ Posting: TikTok 2-3 a day at 10 AM / 2 PM / 7 PM ET, at least 3 h apart. TikTok 
 - **Every week:** one set format ("You just found a ___ in your house"), one numbered series ("House Guests" / centipede parts), and the same look, voice, catchphrase ("Oh, Meatball") and danger meter, so viewers know it's us within a second.
 - **Monday, Data:** weekly scorecard of long-form watch hours gained, returning viewers %, and subs per 1K views. Under 20 h a week means changing the topic or packaging.
 - **Writer, weekly:** a series plan for next week's parts and a "comment the bug you found" pick from comments.
+- **Thursday, long-form review loop (added 11/17, Moondog88: "do this regularly so we grow and don't sit still"):**
+  - **Data:** a 48-hour Studio pull on Wednesday's flagship: CTR, average % viewed, 30 s intro retention, traffic sources, and the drop-off timestamps.
+  - **Social Studio:** a frame-by-frame review of that video against those drop-offs, then a [MEATBALL] fix note to Claude.
+  - **Claude:** a teardown of 3 new outlier long-forms in our niche (structure, hook, packaging), saved to channels/research/.
+  - The fixes become renderer defaults before the next Wednesday flagship.
 - **Studio:** one break-out idea a week added to the plan.
 
 ## Weekly wider-topic test (added 11/17 11:13 AM ET, Moondog88: "keep improving")
