@@ -1,6 +1,37 @@
-# QA: EP5 House Guests #1 ("Is the Spider in My Bathtub Dangerous?"), long-form, S1, S1-alt, S2, S3, T1–T3
+# QA: EP5 House Guests #1 (long-form, S1, S2, S3, T1–T3)
 
-## Final pass (current verdict): FIX
+## Re-check addendum (current verdict): FIX (2 small items). Everything else PASS, with 1 relayed override
+
+**Reviewed:** side-hustles main @ **3e908df** (21:41:24 ET), `channels/scripts/ep5-house-guests-1.md`, sha256 **103d10fe3f57** (full: 103d10fe3f57e2e1c276b00c6e026cb2d540f1b9fdf08350a9b86d4ebcb5bc3c). Diffed against 1d6e17141579 (first pass, below) via 2a3db3f (6ff9536f1116). **Run:** Mon 11/16/2026, about 9:42–9:46 PM ET.
+**Relayed rulings recorded (not seen first-hand by QA):** Social Studio 9:38 PM (no hole; T3 gag moved to 15.93 s; S1-alt dropped) and 9:40 PM (T3 safety-zone exception on T1 terms; no profanity in any on-screen text or captions, masked included; captions read "dang").
+
+| First-pass fix | Status in 103d10fe3f57 |
+|---|---|
+| 1. C6 lane | **OVERRIDDEN by Social Studio (f370db4/62df638), citing Moondog88 quotes as relayed; not seen first-hand by QA.** Neither quote names spider episodes. Exact quotes are in `hero-vacuum-spider-qa.md` (C6 sources): f370db4 says "do whats best for the channel" (8:52 PM); 62df638 says "remeber do whats best for the channke consider this your life" (8:50 PM) and "if it looks good and helps the channels auto approve I give you full authority take this channel to the moon" (8:13 PM). The override covers "ONE house-bug episode a week ('House Guests' franchise)". |
+| 2. Y9 swears | ✔ Two mild words remain: damn 1:44.3, Damn 5:02.9. 2:57.1 "…Rough morning.", 4:04.3 "…because Sauce is made of ice.", 8:50.6 "…Meatball learns nothing. Classic." |
+| 3. S1 hook | ✔ "Giant house spider in your tub? Probably stuck." (8 w, 0.00–2.47 s) |
+| 4. T3 stamp credit | ✔ "…NEVER BARE HANDS. (WSU · UC IPM)": 20 w → 6.7 s |
+| 5. T3 gag hole | Superseded: no hole (9:38). The thumbs-up/glove-flop gag is at 15.93 s, over the non-safety Pacific Northwest line (15.7–21.9 s). No fact added. ✔ |
+| S1-alt | ✔ Dropped; the only mention left is the "dropped" note (header L22). Ship S1 only. |
+
+**Re-timing (QA recount):** every long-form VO line was re-timed at 155 wpm (the first line at the stated ≈163 wpm, 0:00.0–2.94 s; the stakes finish by 2.95 s). 0 overlaps; the last line ends ≈8:59.8; 1,293 spoken words ≈ 8:21 of speech in a 9:00 runtime. Long-form punchline gaps over 7 s fall only in the three ruling-4 clean zones (6:48.9–7:13.7, 24.8 s; 7:20.2–7:41.4, 21.2 s; 7:47.3–8:16.0, 28.7 s).
+**7:20–7:41 zone (ruling 4):** clean. Lines are the HS35 setup (7:20.6), the WSU bite sentence (7:29.8), and "get it identified" (7:36.3), all CLEAN, with no J line, PIC or bubble until 7:40.4/7:41.4. ✔
+
+**T3 (202 w / 62.31 s, clean):** safety lines 5.55–15.73 s (10.18 s of wording); punchline gap 5.4 → 15.9 s = **10.53 s**. **Approved safety-zone exception (Social Studio 9:40 PM, relayed)**: the condition holds, because the visual note gives silent reactions only (Noodle watching from the bathmat, Sauce from the doorway), and there's no J line and no joke card in the span (cards: PART 3/3, the stamp, WSU). **One timing FIX (E1):** the shoe-pat PIC starts at 5.4 s, 0.15 s before the CLEAN jar line, so it would spill into the zone. Run it **4.0–5.5 s** so it clears before 5.55 s. The gap stays within the exception.
+**T1:** 51.21–64.47 s safety block, 13.39 s gap, approved exception (9:31 PM), silent reactions only. ✔ C3 holds.
+
+**Captions and cards (C10):** no profanity in any card, bubble, title, thumbnail text or TikTok caption. Burned-in captions read "dang" for both damns. ✔ **WATCH:** the captions say "dang" while the audio says "damn", and YouTube auto-captions would still show "damn". Not a FIX.
+
+**New FIX (E2, C1; missed in the first pass, same issue as fix 4):** the S3 verdict stamp is credited "(UC IPM)" (checks L942), but "LEAVE IT" is WSU's wording and the widow/recluse plus bare-hands condition is the pack's W5 rule. Use **"(WSU · UC IPM)"** (20 w → 6.7 s; pinned ≈13 s, PASS). S3's "Never with bare hands." line card "UC IPM" should read "UC IPM (jar method)" or drop the tag.
+
+**Unchanged from the first pass:** all other rows PASS or WATCH as below (C1 quotes, C3, C4, C11, Y1–Y5, T1–T5). TikToks: T1 67.87 s, T2 66.94 s, T3 62.31 s, all clean cuts inside 61–75 s.
+
+---
+
+# First-pass record (history)
+
+
+## First pass (superseded by the re-check addendum above): FIX
 
 **Reviewed:** `/workspace/scripts/ep5-house-guests-1.md`, mtime **2026-11-16 21:32:25 ET**, 86,045 bytes, 994 lines, sha256 **1d6e17141579** (full: 1d6e171415798d77d9f865c3d704d63abdc1feae37c7e70d17228a714ceea97f). This is the version ruled on.
 **Run:** Mon 11/16/2026, about 9:24–9:40 PM ET, against `checklist.md` (Y1–Y9, T1–T5, C1–C12).
