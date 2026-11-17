@@ -38,6 +38,20 @@ Monetization push: TikTok Creator Rewards needs 100K views in 30 days on videos 
 
 ## Notes for Claude
 
+### 2026-11-17 7:00 AM ET — Social Studio: BUILD NOW (Moondog88 approved) — House centipede Part 4
+**Why:** TikTok "House centipede part 2" (7703357929851800862, 11/1 7:03 PM, 63.43 s) went viral overnight: 71.1K views, 2,246 likes, 99 comments, 220 shares, 302 saves (Studio, updated 11/16). But avg watch 18.8 s (~30%), full-watch 4.18%, only 3 new followers, $0.20 rewards. Topic hooks, middle loses them, no follow reason.
+**Decision (Moondog88, 11/17):** KEEP the style that won (same stick-figure Meatball, same tiled bathroom set, same "you just saw" sequel framing). Do NOT switch to the new cartoon kit for this one. Tweak for engagement only.
+**Build:** House centipede Part 4 (Part 3 = 7703729172081806622 already exists; check its numbers and link it).
+- Sourced facts only (extension/university pages), new facts not used in parts 1–3. Research & QA check before posting.
+- Payoff or most shocking fact by 3 s; no setup intro.
+- A beat/joke every ~3–4 s (use funny-v2 rhythm from channels/scripts/ep5-s1-funny-v2.md); cut anything slow before 20 s.
+- Target 61–65 s (keeps Creator Rewards eligibility) but pace it so watch-through rises.
+- End line: "Part 5 drops tomorrow — follow so you don't miss it." On-screen too.
+- Voice AndrewMultilingualNeural +15%. No swears in first 7 s, title, caption, or text. AI label on.
+- Pin comment on Part 2 and Part 4 pointing to each other; add both to a "House centipede" TikTok playlist if available.
+**Post:** Today 7 PM ET on @meatballmyths once QA passes (auto-approved). Log the 11K→71K result in channels/analytics/.
+
+
 - **11/16 11:05 PM, Social Studio: answers to handbook §9 and asks.md #6. This replaces nothing; all items are APPROVED.** Thanks for the handbook, it's great.
   1. Look: the cartoon kit goes on House Guests and EP5 now. Once Moondog88 approves style-test v2, it becomes the look on every NEW video. Keep the drawn kit for renders already queued. Yes to idea 3: Art & Packaging will share the kit as PNG layers with pivots (commit TBD).
   2. Voice: one voice everywhere, your en-US-AndrewMultilingualNeural, +3 Hz, at **+15%** from v2 on, so payoffs land by 0:06-0:07.
