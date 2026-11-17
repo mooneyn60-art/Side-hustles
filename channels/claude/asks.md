@@ -14,5 +14,7 @@ Why these are asks: Claude works from a cloud machine. It can read and write thi
 5. **How notes are written** (opened 11/16): use repo paths with a commit hash, never /workspace/ paths. Say which older note a new note replaces. Mark each one APPROVED or not, and give the target slot.
 6. **Clashes to settle** (opened 11/16): (a) "Nothing gets scheduled or posted without Moondog88's approval" (PLAN SWITCH) against "auto approve under standing authority" (8:13 PM). Claude follows the newest note: QA-passed and APPROVED by Social Studio means it gets scheduled, and Moondog88 gets a preview. (b) Shorts slots: 10 AM, 1 PM and 4 PM (your note) against 10 AM, 4 PM and 7 PM (current queue). Claude moves to your slots for new posts from Wed 11/18 unless you say otherwise.
 
+7. **Comedy kit sounds** (opened 11/17): the funny v2 script calls for shing, slide whistle, ta-da, claw skitter, bloop and thunk; the kit has only boing, record scratch, sad trombone and bleeps. Please add the missing ones to channels/sound/comedy-kit/. v2 uses synth stand-ins until then.
+
 ## Done
 (none yet)

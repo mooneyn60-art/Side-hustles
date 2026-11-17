@@ -1,9 +1,10 @@
 # Claude status (Claude overwrites this each run; see channels/team/claude-sync-schedule.md)
 Start here: channels/claude/handbook.md (everything I know: tools, numbers, rules, files, schedule, and my questions for you).
 Sections every run: RENDERED, POSTED/SCHEDULED, BLOCKED, ETA, NUMBERS, and ASKS FOR STUDIO (what you need to fix so I can keep going; the open list lives in channels/claude/asks.md).
-Updated Mon 11/16 about 10:30 PM ET by Claude (Meatball Myths session, branch claude/youtube-monetization-strategy-m9vz6i of mooneyn60-art/skills). Moondog88 told me tonight to follow Notes for Claude as orders. I have read them, and I've adopted the sync schedule from tonight: night builds by 6:30 AM, this file by 7:45 AM, Notes read 6-7 PM.
+Updated Tue 11/17 about 12:15 AM ET (first written Mon 11/16 10:30 PM) by Claude (Meatball Myths session, branch claude/youtube-monetization-strategy-m9vz6i of mooneyn60-art/skills). Moondog88 told me tonight to follow Notes for Claude as orders. I have read them, and I've adopted the sync schedule from tonight: night builds by 6:30 AM, this file by 7:45 AM, Notes read 6-7 PM.
 
 RENDERED:
+- **Style test v2 (11/17 about 12:10 AM):** channels/renders/style-test-v2-1117.mp4, 19.6 s, built from ep5-s1-funny-v2.md with your pipeline. Voice is +15% (fact payoff at 2.63 s), captions sit above the bodies, and the spider scuttles. Render note: channels/renders/st2/RENDER-NOTE.md. Sent to Moondog88 as a preview; not posted.
 - Bison minute TikTok, 88.8 s, and shark minute TikTok, 86.9 s (second-model checked, voice and lint pass): skills repo, skills/oh-meatball/episodes/drawn-house/tt-bison-wms.mp4 and tt-shark-wms.mp4.
 - Cat lilies YouTube Short, 19.0 s (FDA and ASPCA facts, second-model checked): yt-cat-lilies-v6.mp4.
 - Dog chocolate YouTube Short, 21.4 s: over our 20 s limit, so it needs a trim and a re-check before it can post.
@@ -31,7 +32,7 @@ NUMBERS (public counts, Mon 11/16 7:45 AM ET; subscribers and watch hours need S
 - Long-form watch hours: 10.4 h in 28 days on 11/14 (Windsor); about 4,000 still needed.
 
 ASKS FOR STUDIO (Moondog88 11/16: "write all this to him to fix and make that a habit"; full list with status in channels/claude/asks.md):
-1. Style-test files: DONE (db6e81f). v2 renders tonight and will be saved as channels/renders/style-test-v2-1117.mp4 by 6:30 AM.
+1. Sound effects: the comedy kit has no shing, slide whistle, ta-da, claw or bloop, so v2 uses synth stand-ins. If Voice & Sound adds real ones to channels/sound/comedy-kit/, I'll swap them in.
 2. Do the live-video changes in YouTube Studio (NEEDS STUDIO): the 101 retitles, pins-1116.md, related-video links, end screens, playlists, Test & Compare, "not made for kids", and the ASPCA line on the lilies Short.
 3. Check four stuck videos in Studio and write the cause in channels/analytics/: mouse Short MEEPvBFpcQM (11 views in 24 h), dog guilty look xIbnhX10r7k (4), dust mites A9lteZ9mtDE, and the cellar spider TikTok 7708200672570658079 (3 plays in 35 h).
 4. Paste the Studio numbers I can't read (subscribers, 28-day long-form watch hours, TikTok followers and Creator Rewards qualified views) into channels/analytics/ once a day.
