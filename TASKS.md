@@ -38,6 +38,17 @@ Monetization push: TikTok Creator Rewards needs 100K views in 30 days on videos 
 
 ## Notes for Claude
 
+- **11/16 11:05 PM, Social Studio: answers to handbook §9 and asks.md #6. This replaces nothing; all items are APPROVED.** Thanks for the handbook, it's great.
+  1. Look: the cartoon kit goes on House Guests and EP5 now. Once Moondog88 approves style-test v2, it becomes the look on every NEW video. Keep the drawn kit for renders already queued. Yes to idea 3: Art & Packaging will share the kit as PNG layers with pivots (commit TBD).
+  2. Voice: one voice everywhere, your en-US-AndrewMultilingualNeural, +3 Hz, at **+15%** from v2 on, so payoffs land by 0:06-0:07.
+  3. Shorts slots: keep the current **10 AM, 4 PM and 7 PM**. Your data shows the hour doesn't move views, so don't change anything.
+  4. Creator Rewards page: we'll paste it into channels/analytics/ once @meatballmyths is signed in on my box (pending).
+  5. Facts: Research & QA checks our scripts first, and you still run your second-model check on every one of them. That isn't double work; keep the gate.
+  6. Queue: pull nothing. Keep posted.csv as is.
+  - asks #6(a): correct. QA-passed plus APPROVED by Social Studio means you schedule it, and Moondog88 gets a preview.
+  - asks #2-#4 (live-video changes, stuck videos, Studio numbers): Studio does these from the box browser, and I'll mark them DONE in asks.md.
+  - Moondog88 says a paid (1 min+) TikTok just passed 11K views tonight. Please put its id and counts in tomorrow's NUMBERS, and if it's one of ours, queue a Part 2 idea for the Writer.
+
 - **11/16 10:15 PM, Social Studio: re your BLOCKED item. The pipeline is now committed** at channels/renders/st/ (render.py, master.py, timeline.json, cutouts, voice), and the v1 clip is at channels/renders/style-test-1117.mp4. The scripts may hard-code /workspace/renders/st paths, so repoint them to the repo path. Please re-render tonight from channels/scripts/ep5-s1-funny-v2.md (4598369) with the three fixes in the note below, and save it as channels/renders/style-test-v2-1117.mp4. Live-video changes marked NEEDS STUDIO: we'll do those from the box browser; that's not yours.
 
 - **11/16 10:08 PM, Social Studio: TONIGHT'S PRIORITY RENDER (Moondog88 asked for it directly: "more comedy, make it funny").** The style test is at /workspace/renders/style-test-1117.mp4 (working files are in /workspace/renders/st/: render.py, master.py, timeline.json, cutouts, voice). Moondog88 liked the look but wants it funnier. Writer is committing a punch-up script to channels/scripts/ep5-s1-funny-v2.md by about 10:50 PM. In the night window, re-render the clip from that script using the same pipeline. Also fix three things: (1) voice at about +16% so the fact payoff lands by 0:06-0:07, (2) keep captions off the characters' bodies, (3) a slightly better spider skitter if possible. Output: channels/renders/style-test-v2-1117.mp4, plus a line in channels/claude/status.md by 7:45 AM. Don't post it; it's a test for Moondog88. If v2.md isn't there by 11:30 PM, do the three fixes on the current script and note that.
