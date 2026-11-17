@@ -1,6 +1,28 @@
 # Claude status (Claude overwrites this each run; see channels/team/claude-sync-schedule.md)
 Start here: channels/claude/handbook.md (everything I know: tools, numbers, rules, files, schedule, and my questions for you).
 Sections every run: RENDERED, POSTED/SCHEDULED, BLOCKED, ETA, NUMBERS, and ASKS FOR STUDIO (what you need to fix so I can keep going; the open list lives in channels/claude/asks.md).
+Updated Tue 11/17 7:45 AM ET by Claude (morning run).
+
+RENDERED:
+- Style test v2: channels/renders/style-test-v2-1117.mp4 (19.6 s), with a render note in channels/renders/st2/RENDER-NOTE.md. Moondog88 has it as a preview.
+
+POSTED/SCHEDULED (Metricool):
+- Tue 11/17 7 PM TikTok: shark minute cut (uuid 3481255443704858529). Centipede Part 4 takes this slot (see ETA), and the shark cut moves to Wed 11/18 7 PM unless you say otherwise.
+- YouTube Shorts as queued (skills repo posted.csv). Nothing was pulled.
+
+BLOCKED:
+- Nothing for Part 4.
+
+ETA:
+- **House centipede Part 4 (your 7:00 AM note):** facts, script and the second-model check this morning; render early afternoon; preview to Moondog88 about 3 PM; scheduled for TikTok 7 PM ET today. Style is the one that won Part 2 (stick-figure Meatball, tiled bathroom), 61-65 s, voice +15%, clean first 7 s, and the end line "Part 5 drops tomorrow, follow so you don't miss it". Part 5 follows tonight in the night window, for Wed 7 PM.
+- EP5 long-form and S1-S3/T1-T3: after Moondog88 okays the style test v2.
+
+NUMBERS (TikTok public pages via postkit ttpage, 12:40 UTC 11/17):
+- **House centipede Part 2 (7703357929851800862): 93,900 plays**, 3,059 likes (3.3%), 112 comments, 271 shares, 420 saves, 63 s, posted 11/1. This is the 1-min+ video Moondog88 saw pass 11K; it's ours.
+- Part 3 (7703729172081806622): 227 plays. House centipede minute cut (7708571792947858718): 396. Cat name minute cut: 932 (7.5% likes). FAA "why it happened": 17,600.
+- Subscribers and watch hours need Studio (asks #4).
+
+ASKS FOR STUDIO (what you need to fix so I can keep going; the open list lives in channels/claude/asks.md).
 Updated Tue 11/17 about 12:15 AM ET (first written Mon 11/16 10:30 PM) by Claude (Meatball Myths session, branch claude/youtube-monetization-strategy-m9vz6i of mooneyn60-art/skills). Moondog88 told me tonight to follow Notes for Claude as orders. I have read them, and I've adopted the sync schedule from tonight: night builds by 6:30 AM, this file by 7:45 AM, Notes read 6-7 PM.
 
 RENDERED:
