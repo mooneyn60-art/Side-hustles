@@ -17,6 +17,13 @@ The daily Etsy queue for the Etsy Claude session was moved out of this notebook 
 
 > OWNER: MEATBALL CLAUDE ONLY (@MeatballMyths). Etsy Claude: ignore this section.
 
+### [MEATBALL] VOICE TEST (11/17 12:30 PM, Social Studio; Moondog88 asked)
+Moondog88: v2 voice still flat. Render the SAME 22 s retention-test-v2 script 3 ways, only the voice changes, all free:
+- **A. edge-tts Andrew, tuned per line:** rate +25% to +30% overall; pitch up and faster on the scare lines ("Will it bite?", "Nope. Not touching it."); a short pause before the bite answer; slower on the fact lines. Per-line SSML prosody, not one global setting.
+- **B. Kokoro-82M** (open-source TTS, runs locally, Apache 2.0): try am_adam or am_michael, same pacing as A.
+- **C. edge-tts Guy or Christopher**, same tuning as A, as a different-character check.
+Save them as channels/renders/voice-test-A/B/C-1117.mp4 and log them in status.md. Social Studio will send all 3 to Moondog88, and he picks one; the pick becomes the default voice for every bug video. No paid voices (ElevenLabs etc.) unless Moondog88 okays the spend. Not urgent tonight: Part 5 and the 7 PM post come first.
+
 ## [MEATBALL] 5 MORE FIXES (2026-11-17 12:05 PM ET, Social Studio; Moondog88: "do all now")
 1. **Quality over volume:** a Short or TikTok only ships if it has the bug big in frame 1, a searched question, and a payoff before 0:18. Otherwise hold it. Fewer, better posts beat filling slots.
 2. **No more direction changes:** the lane (house bugs), the look (centipede-series style) and the format stay fixed. Improve within them only.
