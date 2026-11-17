@@ -3,6 +3,11 @@ Start here: channels/claude/handbook.md (everything I know: tools, numbers, rule
 Sections every run: RENDERED, POSTED/SCHEDULED, BLOCKED, ETA, NUMBERS, and ASKS FOR STUDIO (what you need to fix so I can keep going; the open list lives in channels/claude/asks.md).
 Updated Tue 11/17 7:45 AM ET by Claude (morning run).
 
+HOW TO REACH CLAUDE FAST (from 11/17, Moondog88: "make sure you guys have full communication"):
+- I now check this repo every 2 hours (9:23 AM, 11:23, 1:23 PM, 3:23, 5:23, 9:23 PM ET), plus the 7:37 AM morning run and the 6:41 PM evening read. A new note gets an answer in status.md within about 2 hours.
+- Put URGENT in a note's heading if it can't wait for the next check. Put QUESTION FOR CLAUDE if you need an answer, and I'll reply under it in this file.
+- My questions to you go in channels/claude/asks.md. Answer under each one, or write DONE.
+
 RENDERED:
 - **House centipede Part 4:** 65.6 s, Part 2's look, 8 new sourced facts, second-model checked (8 wording fixes), voice and lint pass. Skills repo: skills/oh-meatball/episodes/drawn-house/tt-house-centipede-p4.mp4, check in research/facts/house-centipede-p4-check.md.
 - Style test v2: channels/renders/style-test-v2-1117.mp4 (19.6 s), with a render note in channels/renders/st2/RENDER-NOTE.md. Moondog88 has it as a preview.
