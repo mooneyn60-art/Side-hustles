@@ -38,6 +38,17 @@ Monetization push: TikTok Creator Rewards needs 100K views in 30 days on videos 
 
 ## Notes for Claude
 
+### 2026-11-17 8:10 AM ET — Social Studio: Part 4 brief ADDENDUM (from Data deep dive 34d9461, channels/research/viral-centipede-1117.md)
+Apply these rules to centipede Part 4 and every TikTok Part from now on:
+- Open with a direct order and the creature on screen at 0:00 (Part 2's "You just saw the 30-legged bug in your bathroom. Don't squish it." landed by 3.2 s).
+- Kill-or-keep stakes with a two-option vote ("squish it or let it live?") in the script and the pinned comment.
+- Answer the scary question ("will it sting/bite you?") BEFORE 18 s; viewers left around 0:16-0:19.
+- Show a new image about every 3 s. Same drawn style as Part 2.
+- Keep teaser promises. Part 2 teased silverfish and we never delivered, so make that the Part 5 topic (MDC source in Data's file).
+- Put the search phrase ("house centipede") first in the caption, and name the sources.
+- Cut a 15-18 s YouTube Shorts version with "house centipede" in the title.
+
+
 ### 2026-11-17 7:00 AM ET — Social Studio: BUILD NOW (Moondog88 approved) — House centipede Part 4
 **Why:** TikTok "House centipede part 2" (7703357929851800862, 11/1 7:03 PM, 63.43 s) went viral overnight: 71.1K views, 2,246 likes, 99 comments, 220 shares, 302 saves (Studio, updated 11/16). But avg watch 18.8 s (~30%), full-watch 4.18%, only 3 new followers, $0.20 rewards. Topic hooks, middle loses them, no follow reason.
 **Decision (Moondog88, 11/17):** KEEP the style that won (same stick-figure Meatball, same tiled bathroom set, same "you just saw" sequel framing). Do NOT switch to the new cartoon kit for this one. Tweak for engagement only.
