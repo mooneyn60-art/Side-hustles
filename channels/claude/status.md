@@ -1,7 +1,7 @@
 # Claude status (Claude overwrites this each run; see channels/team/claude-sync-schedule.md)
 Start here: channels/claude/handbook.md (everything I know: tools, numbers, rules, files, schedule, and my questions for you).
 Sections every run: RENDERED, POSTED/SCHEDULED, BLOCKED, ETA, NUMBERS, and ASKS FOR STUDIO (what you need to fix so I can keep going; the open list lives in channels/claude/asks.md).
-Updated Tue 11/17 5:30 PM ET by Claude (2-hour check).
+Updated Tue 11/17 6:40 PM ET by Claude (Moondog88: "get cranking").
 
 HOW TO REACH CLAUDE FAST (from 11/17, Moondog88: "make sure you guys have full communication"):
 - I now check this repo every 2 hours (9:23 AM, 11:23, 1:23 PM, 3:23, 5:23, 9:23 PM ET), plus the 7:37 AM morning run and the 6:41 PM evening read. A new note gets an answer in status.md within about 2 hours.
@@ -9,6 +9,13 @@ HOW TO REACH CLAUDE FAST (from 11/17, Moondog88: "make sure you guys have full c
 - My questions to you go in channels/claude/asks.md. Answer under each one, or write DONE.
 
 RENDERED:
+- **[MEATBALL] PART 5 (SILVERFISH) READY, please PASS or FIX before Wed 7 PM: channels/renders/centipede-p5-silverfish-1118.mp4** (62.1 s; frames in channels/renders/centipede-p5-silverfish-1118-sheet.jpg). Scheduled TikTok **Wed 11/18 7 PM** (Metricool uuid 6053689740378063163). If you write FIX, I fix it or pull it.
+  - Facts: your QA pack channels/qa/silverfish-p5-1118.md (P5-F1 to F8 and F10, your script-safe wording). The old dinosaurs/books hook isn't reused.
+  - Second-model check (Sonnet): every fact passed, and 7 small fixes were applied. Joke with no number, hedges kept on the cards ("CAN", "SOME SPECIES: CAN LIVE 8 YEARS"), "Males do a mating dance" in the caption, the title says "fossils from 400 million years ago". File: skills repo research/facts/silverfish-p5-check.md.
+  - **One change from your Fix 4:** the ending says "More on YouTube, Meatball Myths." instead of "Full episode on YouTube". There's no long silverfish episode, and the Night Shift long-form is pulled. "Full episode" returns once "Ranking every house bug" is live.
+  - Gate: (1) a BUG CAM close-up of the silverfish at 0:00, and "Squish it, or let it live?" by about 2 s. (2) camera moves on every line, a bug close-up at least every 10 s (now a renderer rule). (3) 12 lines in 12 different rooms, with no repeats; lint now fails a repeated room. (4) Freak-out on "Will it bite you?": a jump, hair straight up, shake and sting. (5) The ID card on its own line (fossils, weak jaws, no disease). (6) Voice C, sound hits. (7) Sourced, clean words, the caption names the sources. (8) Ends on a next step. (9) Your call.
+- **[MEATBALL] QUALITY-FIRST PULL: DONE.** 31 old-look posts from 11/17 to 12/5 are drafts now (every id and uuid is in skills repo data/held.csv). That includes the Christmas-tree (11/18), 3D centipede (11/21), Night Shift (11/25) and polar bear (12/5) long-forms, and the silverfish TikTok that was a YouTube copy. **Live queue now:** tonight's Part 4 v3 (7 PM) and Part 5 (Wed 7 PM). Nothing else is queued until it passes your gate.
+- **Next builds:** the Part 4 Shorts cut (15-18 s, its own render), then the Part 5 Shorts cut, both to you for PASS before they're scheduled. The flagship "Ranking every house bug" (Wed 11/25 5 PM): fact pack and script Wed night.
 - **[MEATBALL] QUALITY FIRST: CONFIRMED (11/17 5:30 PM).** I follow the new top section of MEATBALL_ORDERS: 1 TikTok a day at 7 PM (the bug series), 1 Short a day (that episode's 15-18 s cut), 1 flagship long-form a week on Wed at 5 PM, and the 9-point gate. The pet-POV plan is retired.
   - **Pulled to draft in Metricool (14 posts, 11/17-11/19; list with ids in the skills repo, skills/oh-meatball/data/held.csv):**
     - Tonight: the 7 PM earwig Short and the 9:30 PM hummingbird TikTok.
