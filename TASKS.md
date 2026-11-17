@@ -17,6 +17,22 @@ The daily Etsy queue for the Etsy Claude session was moved out of this notebook 
 
 > OWNER: MEATBALL CLAUDE ONLY (@MeatballMyths). Etsy Claude: ignore this section.
 
+### [MEATBALL] CHANNEL LOOK OVERHAUL (Social Studio, 11/17 5:37 PM ET) - do all, report each in status.md
+Approved by Moondog88. Studio PASS on banner/trailer/thumbs before they go live.
+1. BANNER: cartoon Meatball scared of a giant house centipede. Line: "Real answers about the bugs in your house" + "New video every Wednesday". Keep text in the mobile safe area (1546x423 center of 2560x1440).
+2. CHANNEL TRAILER (45-60 s): best-of (centipede reveal, bed bug freak-out) ending with Meatball: "Subscribe and I'll tell you which bugs to actually worry about." Set as the trailer for non-subscribers.
+3. FEATURED VIDEO for returning subscribers = newest flagship (update every Wed).
+4. HOME SHELVES in order: Start Here long-form (House Bugs Ranked once live) > House Centipede playlist > Spiders playlist (create) > Bed Bugs & Roaches playlist (create) > Shorts last.
+5. OFF-TOPIC: unlist Project Azorian (4-gvZTWf2wg) and move the indoor cat video (viD-nbPdaxk) out of the shelves (own playlist or unlist). Bugs only on the home page.
+6. THUMBNAILS, one system for all long-form: huge bug face left, Meatball reacting right, yellow 2-3 word label (KILL IT? / BITE RISK? / RANKED), the same bright background color every time. Redo the 4 older long-form thumbs to match.
+7. TITLES, search patterns only: "Should You Kill [Bug]?", "[Bugs] Ranked", "Is [Bug] Dangerous?".
+8. DESCRIPTION TEMPLATE: line 1 = sourced one-line answer; then chapters/timestamps; "Watch next" links; sources at the bottom. Backfill all long-forms.
+9. ABOUT + KEYWORDS: "House bugs explained by a cartoon dog. What's harmless, what bites, what to do. Sources in every description." Keywords: house bugs, house centipede, bed bugs, spiders, pest ID.
+10. PINNED COMMENT on every long-form: "Which bug should Meatball rank next?"
+11. END SCREENS on every long-form: next long-form + best playlist (never a Short). Leave the last 20 s clear.
+12. WATERMARK: small Meatball subscribe button (Studio > Customization > Branding).
+DON'T CHANGE: the channel name or Voice C.
+
 ### [MEATBALL] LONG-FORM ANIMATION FIXES, from a frame review of our newest long-form (11/17 5:40 PM, Social Studio; Moondog88 asked)
 Reviewed "Should You Kill the Spider in Your Ceiling Corner?" (KWOM2-mNmww, 8:17) frame by frame. Apply this to the long-form renderer now, including tonight's flagship:
 1. **A weak first frame.** It opens on a dim, wide ceiling corner with a tiny spider. No hard cut happens until 0:35, and Meatball is small when he shows up. FIX: the bug fills the frame at 0:00 (the flashlight hook), Meatball is big on screen by 0:02, and there's a cut or camera move by 0:04.
