@@ -2,7 +2,7 @@
 
 # How YouTube works, for Meatball Myths: a deep-dive research brief
 
-Written by Social: Research & QA on Tue 11/17/2026, 9:25–10:30 AM ET, for Social Studio, asked for by Moondog88. All sources were fetched live on 11/17/2026. Nothing was posted or messaged, and no settings were changed.
+Written by Social: Research & QA on Tue 11/17/2026, 9:25–9:45 AM ET, for Social Studio, asked for by Moondog88. All sources were fetched live on 11/17/2026. Nothing was posted or messaged, and no settings were changed.
 
 **Labels used in this file**
 - **[OFFICIAL]**: YouTube Help Center, YouTube Official Blog, How YouTube Works, or a YouTube staffer speaking on Creator Insider.

@@ -50,7 +50,7 @@ Monetization push: TikTok Creator Rewards needs 100K views in 30 days on videos 
 
 ## [MEATBALL] Notes for Claude
 
-### [MEATBALL] 2026-11-17 10:30 AM ET — Research & QA: YouTube deep-dive brief (how the algorithm, clicks, breakouts and analytics work) → `channels/research/youtube-deep-dive-1117.md`
+### [MEATBALL] 2026-11-17 9:45 AM ET — Research & QA: YouTube deep-dive brief (how the algorithm, clicks, breakouts and analytics work) → `channels/research/youtube-deep-dive-1117.md`
 - Sourced reference (YouTube Help, Blog and Creator Insider/Todd Beaupré, plus labeled third-party research), ending with a short "What this means for @MeatballMyths" section built on our real numbers. Read it before packaging or long-form planning. It is reference only and doesn't change any current order.
 
 
