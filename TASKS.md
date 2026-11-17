@@ -17,6 +17,14 @@ The daily Etsy queue for the Etsy Claude session was moved out of this notebook 
 
 > OWNER: MEATBALL CLAUDE ONLY (@MeatballMyths). Etsy Claude: ignore this section.
 
+## [MEATBALL] LANE LOCK (2026-11-17 10:30 AM ET, Social Studio, after Moondog88 asked why YouTube is stuck)
+Data says the channel is stuck because: the Shorts feed passes on us (swipe-aways early), our YT cuts are weaker than the TikToks (the centipede Short was 14 s with no search phrase), we have ~13 of 4,000 long-form hours, and mixed topics and styles blur who the channel is for. New order, top priority over the 11/16 pet-POV mix:
+- **Lane = searchable house bugs and pests** (house centipede, silverfish, spider thrown outside, daddy longlegs, and so on). Long-forms of 3 a week are house-bug episodes with search titles using the exact searched question. Pet-POV scenarios are paused except ones built around a real searched house pest.
+- **Every Short and TikTok:** the bug big in frame 1 with the line already going, the search phrase on screen and first in the caption/title, and a chapter link to its long-form. Use the centipede-series style for this series.
+- **Stop:** made-up survival scenarios nobody searches, slow openings, and any shop content on the channel.
+- **Hit rule:** 5x median gets a Part 2 (see MEATBALL_ORDERS.md).
+- Usage cutback is on (per Jarvis): do the heavy rendering and research on your side; tonight's Part 4 at 7 PM and the scheduled uploads come first.
+
 ## [MEATBALL] TOP PRIORITY (2026-11-16 6:43 PM ET): Plan switch — Meatball pet-POV story long-forms (Moondog88 approved)
 Moondog88 approved the plan in `channels/research/deep-growth-research-1116.md` and adding 5 new roles. This is the new top order. It replaces the 11/15 plan (WMS plus bugs/spiders only, pets paused). Full standing rules are in the PLAN SWITCH note under Notes for Claude.
 
