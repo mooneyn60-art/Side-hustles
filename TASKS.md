@@ -44,6 +44,8 @@ Monetization push: TikTok Creator Rewards needs 100K views in 30 days on videos 
 - Shelve channels/shorts/compilation-test-plan-v0.md. Compilations break the MASTER_ORDERS long-form rule.
 - Pet-POV episode titles use the question-first pattern in channels/search/title-pattern-1116.md, so the '?' is allowed for these.
 - Every TikTok needs its own 61 s+ cut with new content.
+- Retention rules (channels/retention/baseline-1116.md, section 9): pay something off by 0:07, keep Shorts at 15-20 s, show a scene change and a stake by 0:03, make the creature clear in the first second, and make no conspiracy Shorts. On long-forms, give a reason to stay by 1:00 and a second hook by 1:14. Stop batch-posting TikToks: the 11/16 12:25-12:36 PM batch is stuck at 3-6 views, so spread posts out.
+- Metricool brand 8135499 has TikTok connected to fureverfaces, not @meatballmyths. This is flagged to Moondog88.
 
 ### PLAN SWITCH 11/16 (approved by Moondog88)
 Moondog88 approved switching Meatball Myths to the plan in `channels/research/deep-growth-research-1116.md` and adding 5 new roles. This note is first under Notes for Claude and overrides older Social Studio notes where they conflict, including the 11/15 order (WMS plus bugs/spiders only, pets paused), the 11/16 "pets are paused" / WMS-core direction, and the 5:20 PM growth note that made "Would Meatball Survive?" the flagship serialized survival story.
