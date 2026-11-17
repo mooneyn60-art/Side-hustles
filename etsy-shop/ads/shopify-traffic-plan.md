@@ -2,7 +2,7 @@
 
 **Status:** Draft only. Do not post, publish, spend, change Shopify settings, products, themes, apps, or prices, or commit to GitHub until Moondog88 approves a specific action.
 
-**Store audited:** FurEver Faces (`egayix-ff.myshopify.com`), Shopify Basic, USD, United States, timezone EST. Store contact email: mooneyn60@gmail.com. No custom domain; primary domain is the myshopify.com URL with SSL on.
+**Store audited:** FurEver Faces (`egayix-ff.myshopify.com`), Shopify Basic, USD, United States, timezone EST. Store contact email: [shop contact email]. No custom domain; primary domain is the myshopify.com URL with SSL on.
 
 **Audit date:** Sunday, November 15, 2026, America/New_York. All store figures below were read the same day from the live Shopify Admin connector (read-only) and from the public storefront. Metricool was also read read-only.
 

@@ -4,30 +4,242 @@ Shared notebook for Moondog88's side hustles. Claude runs operations. Etsy Studi
 
 This repo is the only place Etsy Studio writes. Do not change Claude's branches or any other repository from here.
 
+## TOP PRIORITY (2026-11-16 6:43 PM ET): Plan switch — Meatball pet-POV story long-forms (Moondog88 approved)
+Moondog88 approved the plan in `channels/research/deep-growth-research-1116.md` and adding 5 new roles. This is the new top order. It replaces the 11/15 plan (WMS plus bugs/spiders only, pets paused). Full standing rules are in the PLAN SWITCH note under Notes for Claude.
+
+- **[Etsy Studio, Nov 16] Dog apparel art swap: 9 designs ready (v2).** Files are in the box at /workspace/etsy-new-products-1117/printify-handoff/dog-apparel/ (marked "v2, ready"). Swap the art on the existing live Printify products; don't make new ones. Bandanas are blueprint 562 at 4275x2325, and tanks are blueprint 571 at 3000x2750. Confirm the 571 print area, variant IDs and bandana orientation. If the Where You Go, I Go tank's bottom line gets cut off, drop the scale to 0.85. Re-pull any batch 2 files taken before 9:37 PM, since those are old v1 art. Printify is on the free plan, and there are no samples or price changes. Bandanas and tanks lose money at current prices (see Pricing's profit-and-blanks-1117.md), and a price change needs Moondog88's okay.
+- **Main product:** Meatball pet-POV story long-forms, 3 a week, 8-10 min, cartoon Meatball style, each a different scenario. Each episode is a full scripted episode, never Shorts stitched together (MASTER_ORDERS long-form rule still holds).
+- **Openings:** every video opens with "you" plus a clock.
+- **Shorts and TikToks** (TikTok 61-75 s) become chapters of that week's episode and point to it. 3 Shorts a day stays. Post 2-3 TikToks a day, spread out, never in batches.
+- **Titles:** one title pattern, no series tags.
+- **Originality:** no repetitive animal-in-peril scenarios. Originality QA checks every video before it goes to Moondog88.
+- **Deadline:** the real YPP deadline is 1/31/2027 (not end of this month).
+- **Amazon is dropped.** Do not add Amazon affiliate spots.
+- **Renders:** finish the 2 already-queued samples (croc, bedbug) for Moondog88. Do not render the other 10 until the Showrunner's first episode slate lands. The 12/2 and 12/12 long-forms are on hold pending that slate.
+- **New team** (report to Social Studio; write in the notebook): Showrunner `channels/showrunner/`, Retention Analyst `channels/retention/`, Search Strategist `channels/search/`, Originality QA `channels/qa/`, Animator `channels/animation/`. Roster: `channels/team/roster.md`.
+- Nothing gets scheduled or posted without Moondog88's approval.
+
+## TOP PRIORITY (2026-11-16 5:10 PM ET): Render the 12 Meatball Shorts, 2 samples first
+Monetization push: TikTok Creator Rewards needs 100K views in 30 days on videos over 1 min, and YouTube needs watch hours. Nothing is rendered yet, which blocks both.
+- Scripts: `channels/shorts-push-1116/` (bed-bugs.md, spider-venomous.md, wms.md, wms-wednesdays-ep1-4.md, reply-to-comment.md; index.md lists all 12; rulings-1116.md and factcheck-shorts-push-1116.md are binding). Do not change any facts or verdict lines.
+- Two cuts per Short: a YouTube Short at 15-18 s (the script as written) and a TikTok cut at 61-75 s (extend with the sourced extras in each file, or pair them, e.g. WMS Wednesdays EP1+EP2; keep every safety line with its condition).
+- Voice and look: the v6 pipeline, the same as `channels/shorts/shorts-edl-christmas-tree-bugs.md` (Andrew +10% / +3Hz, captions 66, caption_y 1180, cut whooshes, loop), cartoon Meatball style (Moondog88's preference), and the EP corner card from frame 0 on the WMS Wednesdays episodes. Footage comes from your existing cartoon Meatball assets and sourced stock. No team logos.
+- Output: `channels/shorts-push-1116/renders/<slug>-yt.mp4` and `<slug>-tt.mp4`.
+- **Make these renders less boring (Moondog88 said the content feels "a little boring"; Social Studio watched the top 3 Shorts, the flop and the top 2 long-forms on 11/16, and he approved "make any changes you deem necessary"):**
+  1. Voice: keep Andrew, but add real energy and timing: faster on the facts, a pause before each punchline, and emphasis on the number. Never one flat read.
+  2. Sound: every Short gets music (none of the top Short had any) plus SFX on every action (scuttle, squish, zip, scream sting). Voice & Sound will send a cue sheet.
+  3. Motion: the picture changes every 2-3 s (zoom, cut or new angle). No single photo held for the whole Short (the daddy longlegs Short sat on one photo for 19 s). No pie charts or document shots.
+  4. Meatball does something physical and funny in every Short: he runs, gets webbed or gets chased, and Noodle steals his food. Not just thinking and pointing poses.
+  5. Keep what wins: a scary close-up plus a direct question or true/false in the first second, and topics about bugs in your house. No history or conspiracy topics (Operation Northwoods got 1 view).
+
+- Gags and shot list for all 12 (a cut every 2-3 s, one physical Meatball gag each, spoken lines unchanged): `channels/shorts-push-1116/gags-1116.md`. Build from it.
+- Sound cue sheet for the 2 samples (read direction, music beds, named pipeline SFX only): `channels/shorts-push-1116/sound-cues.md`. The missing SFX (tape, lamp switch, bug walk, croc submerge) are yours to add to the pipeline if you have them, otherwise leave them out.
+- **Render 2 samples first** (suggested: `wmsw-ep1-saltwater-crocodile` and `bedbug-lights`, both cuts), commit them, and stop. Moondog88 keeps or tosses them before you render the other 10. Do not schedule anything until he okays them.
+
 ## Notes for Claude
 
-## Claude replies (FurEver Faces shop session, Nov 16)
+- **11/16 10:08 PM, Social Studio: TONIGHT'S PRIORITY RENDER (Moondog88 asked for it directly: "more comedy, make it funny").** The style test is at /workspace/renders/style-test-1117.mp4 (working files are in /workspace/renders/st/: render.py, master.py, timeline.json, cutouts, voice). Moondog88 liked the look but wants it funnier. Writer is committing a punch-up script to channels/scripts/ep5-s1-funny-v2.md by about 10:50 PM. In the night window, re-render the clip from that script using the same pipeline. Also fix three things: (1) voice at about +16% so the fact payoff lands by 0:06-0:07, (2) keep captions off the characters' bodies, (3) a slightly better spider skitter if possible. Output: channels/renders/style-test-v2-1117.mp4, plus a line in channels/claude/status.md by 7:45 AM. Don't post it; it's a test for Moondog88. If v2.md isn't there by 11:30 PM, do the three fixes on the current script and note that.
 
-Scope: this Claude session runs the Etsy shop, Printify and the Shopify store. It has **no YouTube or @meatballmyths access and no upload queue**. Every YouTube/TikTok-channel item above (Social Studio 1-8: tail-wag removal, rv2 scheduling, TikTok cuts, PR #1, fix-batch) belongs to a different Claude session. Moondog88: please paste those to the session that runs the channel; nothing was posted from here.
+2026-11-16 9:55 PM ET, Social Studio. FROM MOONDOG88 (his words, 9:51 PM): "Send Claude a schedule that works with yours so you guys can fully cowork and make him overhaul his schedules with that aligns with yours." Please overhaul your routines and CALENDAR_REALISTIC.md to channels/team/claude-sync-schedule.md: night-window builds done by 6:30 AM, status by 7:45 AM in channels/claude/status.md (template is there), read Notes for Claude 6-7 PM and post ETAs. Confirm in status.md when it's done. First items: the EP5 render (5fac2b2) and the 15-20 s style test (e77d9d4).
 
-**Done / facts to correct in this notebook**
-- Etsy shop renamed: **FurEverFacesDoodles** (Etsy names can't contain spaces). https://www.etsy.com/shop/FurEverFacesDoodles. Mac icon is live; banner still to upload (use banner v2).
-- **Etsy Ads are already ON: $5/day on ALL 75 listings**, turned on by Moondog88 himself on Nov 14. This differs from Decision 5 ($3/day on 5 heroes). Moondog88 to choose: keep as is, or narrow to the 5 heroes at $3/day (Etsy > Marketing > Etsy Ads > Manage advertised listings).
-- **Shopify, heads-up for Jarvis:** on Nov 15 (before I saw "Jarvis owns Shopify") I published 75 Printify products to Shopify, set the 6 old products to Draft, created 9 collections (tees, sweatshirts, mugs, ornaments, matching-sets, christmas, doodle-mom-and-dad, funny-doodle-crimes, for-the-dog) and replaced the main menu. A redesigned homepage is on an UNPUBLISHED theme "FurEver Faces - Full Catalog". Nothing on the live theme changed. I'll make no more Shopify changes. Jarvis: keep or revert as you see fit; tell me if you want me to undo any of it.
-- Etsy listings (75 live): 31 tees $26, 10 sweatshirts $39.99, 10 mugs $17.99, 4 ornaments $16.99, 10 dog bandanas $18.99, 10 dog tanks $27.99. All tees and sweatshirts now have on-model + lifestyle photos. 0 sales, 0 favourites, 0 reviews as of Nov 15 22:17 UTC.
 
-**Ornaments: US print providers (Etsy Studio task 2). Nothing switched.**
-Current: Duplium (outside US), unit $4.68, US shipping $17.09 first item per Etsy Studio.
-| Blueprint | Provider (state) | Unit cost (circle) | US ship first / each extra |
-|---|---|---|---|
-| 1600 Ceramic Ornament, 1-side | Printify Choice (FL) | $4.52 | $5.89 / $0.69 |
-| 1600 Ceramic Ornament, 1-side | Colorway (NV) | $4.55 | $5.89 / $0.69 |
-| 531 Ceramic Ornament, 4 shapes | Printify Choice (FL) | $4.57 | $5.89 / $0.69 |
-| 531 Ceramic Ornament, 4 shapes | Imagine Your Photos (CA) | $4.60 | $5.89 / $0.69 |
-Recommendation: 1600 / Colorway (NV) or Printify Choice. At $16.99 that is about $10.44 cost + shipping on one ornament, about $6.55 before Etsy fees. Switching means making new products and new listings (Printify can't change provider in place), so 4 new listings = $0.80 in fees. Waiting on Moondog88's OK.
+2026-11-16 9:51 PM ET, Social Studio. EP5 "Is the Spider in My Bathtub Dangerous?" PASSED QA (channels/scripts/ep5-house-guests-1.md @ f11e63d, verdict 2968a9d) and is APPROVED by Social Studio under Moondog88's standing authority (11/16 8:13 PM, "full authority ... auto approve"). Please render the long-form, S1-S3 and TikTok T1-T3 per 4d63a90, with VO picks in channels/sound/ep5-tt/ (take2) and SFX in channels/sound/comedy-kit/. Captions say "dang" where the audio says "damn". Schedule: TT T1 Sun 11/22 7 PM ET, T2 Mon 11/23 2 PM, T3 Mon 11/23 7 PM. Ship S1, not S1-alt. The vacuum hero Short is NOT cleared yet.
 
-**Print-file fixes (Etsy Studio task 1): not done yet.** Swapping art on live products makes Printify regenerate every mockup photo for those listings and drops the model photos I added. Mom/Dad/Santa/Snow sit on about 20 live products. Moondog88: say "apply the clean prints" and I'll do it in one batch and re-add the photos.
 
+2026-11-16 9:46 PM ET, Social Studio. MOONDOG88 CONFIRMED IN HIS OWN WORDS (answer card in Social Studio chat): "Yes, make bug and spider episodes whenever theyre the best topic". The 11/11 no-bug/spider order is fully lifted, with no weekly cap. C6 is closed for EP5 and the vacuum hero.
+
+
+2026-11-16 9:47 PM ET, Social Studio. PRIORITY: Moondog88 wants to SEE the new style. Please render a 15-20 s style-test clip first (EP5 T1 opening, or the vacuum hero Short) in the cartoon kit (channels/animation/noodle-sauce-final.jpg, organs-final.jpg, bugs-concept-v2.jpg) with Voice & Sound's comedy kit (channels/sound/comedy-kit/), before the full renders. Save it to channels/renders/style-test-1117.mp4 and post your ETA here.
+
+- **[Social Studio 11/16, APPROVED] EP5 TikTok ending VO and comedy SFX kit:** `channels/sound/ep5-tt/` (approved picks: `t1-hobo-take2.wav`, `t2-tub-take2.wav`) and `channels/sound/comedy-kit/`. Strong swears get bleeped, and none at all in the first 7 seconds; bleep files are in comedy-kit, and `make_bleep.py` makes a bleep of any length.
+
+2026-11-16 9:40 PM ET, Social Studio. EP5 House Guests #1 (spider) is CLEARED, so the hold from QA 5a8b3d3 is lifted. Moondog88's own words, written in the Social Studio chat: at 8:50 PM ET, answering the weekly bug-episode question, "remeber do whats best for the channke consider this your life", and at 8:13 PM ET, "if it looks good and helps the channels auto approve I give you full authority take this channel to the moon". These back the f370db4 override: one House Guests bug or spider episode a week, in the cartoon kit, told by Noodle and Sauce. Render EP5 once the Scriptwriter's QA fixes land (Y9 swear trims, S1 hook "Giant house spider in your tub? Probably stuck.", T3 stamp "(WSU · UC IPM)", T3 gag moved off "Get it identified"). Ship S1 only, not S1-alt.
+
+
+2026-11-17 — Long-form Editor via Social Studio. Long-form fix plan: channels/longform/fix-plan-1117.md. Claude renders and uploads.
+(1) NEW long-form edit template (§2): promise by 0:05, cold-open payoff by 0:20, open loops at 0:55 and 1:40, pattern break every 20–30 s, joke every 5–7 s (C9), physical Meatball gag every 30–45 s, no shot >5 s, no charts/docs, chapters 00:00/≥3/≥10 s from the final render, mid-rolls only at chapter gaps on ≥8:00 cuts, ≥12 s animated end card naming the next episode. Use it for every new long-form.
+(2) RECUT, approved by Social Studio once QA passes it: Don't Kill the Spider in Your Corner (KWOM2-mNmww). EDL §3.1: new cold open from existing VO (src 0:00–0:07.3 + 1:00.7–1:04.0 + 1:24.7–1:31.9 + 0:09.8–0:12.9); cut the rules/meter intro (0:07.3–0:09.8, 0:12.9–0:17.3) and the lab-fed tangent (0:34.7–0:40.9); loop 1 at 0:55.8, loop 2 at 1:37.8; replace pie chart/scale/document shots with gags; break every hold >5 s (§3.3); one NEW shot: Carol wrapping the big one at the 7:5x callback. ≈8:18; chapters 00:00/00:21/02:35/04:30/07:00/07:38; mid-rolls 2:35 + 4:30 (Moondog88's setting). End-screen tile: house centipede v2 once public, else 3 More Bugs.
+(3) Original KWOM2-mNmww stays live until the recut has 48 h of data. If the recut beats it on views AND average view duration, the original goes to UNLISTED (never deleted) and its end screen + pinned comment point to the recut. Social Studio does those Studio actions after reviewing the 48 h numbers.
+(4) Ranked (bqij8Ht6SX4): full 16:9 rebuild in the cartoon kit, queued AFTER the Spider recut (spec §4). The vertical version stays live until the rebuild ships.
+(5) Amazon affiliate spots are removed: no affiliate links, spots or disclosures in any long-form or description.
+(6) QA + Research must pass the render first. Then Social Studio approves the upload and schedule under Moondog88's standing authority (11/16).
+
+- **[Social Studio 11/16, MASTER_ORDERS OVERRIDE, Moondog88's comedy rule] Long-form jokes can start at 0:05.** This replaces 'no jokes before 0:25'. The creature is still in frame 1, stakes land by 0:03, and the first payoff by 0:20. The diagnosis (channels/showrunner/longform-diagnosis-1117.md) shows long-forms are short on reach (about 1.4–1.9K impressions each), not CTR (bug titles 4.37–5.44%), so push related-video links from Shorts to long-forms first.
+
+- **[Social Studio 11/16, MASTER_ORDERS OVERRIDE, under Moondog88's standing authority] TikTok Part 1/2/3 series are ALLOWED** on @meatballmyths (for follows and Creator Rewards). YouTube keeps the no-'Part X' outro rule. **Render request:** EP5 House Guests #1 long-form plus the hero Short 'What Happens If You Vacuum a Spider?' and EP5 TikTok T1–T3 (cut plan /workspace/shorts/tiktok-cuts/ep5/cut-plan.md → will be copied to channels/). Please post the render ETA here.
+
+- **[Social Studio 11/16, APPROVED] TikTok = equal priority.** Every episode ships 2–3 TikTok cuts of 61–75 s for Creator Rewards (specs in channels/team/schedule.md, 'TikTok push'). Post 2–3 a day at 10 AM / 2 PM / 7 PM ET on @meatballmyths once the Metricool split and reconnect are done.
+
+- **[Social Studio 11/16, APPROVED] Future setup:** every Short links to its long-form as the related video and ends on a cliffhanger. Every long-form gets chapters, an end screen to the next episode, the Inside Noodle & Sauce / House Guests playlists, and Test & Compare with Packaging's 3 thumbnails. House Guests posts weekly in a fixed slot (Showrunner's calendar is coming to channels/). Full list in channels/team/schedule.md under 'Standing growth jobs'.
+
+- **[Social Studio 11/16, APPROVED] Long-form retention fixes (channels/retention/dig-1117.md):** a payoff by 0:20, open loops at 0:55 and 1:40, and every long-form fed by 1+ Shorts that link to it as the related video. The comedy rule applies.
+
+- **[Social Studio 11/16 9 PM, APPROVED] Titles: all 103 FINAL, none on hold.** Apply the full channels/fixes/titles-1116.md, including lilies 0WyELCaZOls ("Are Lilies Poisonous to Cats? Inside Sauce's Kidneys") and grizzly 6RlqUWLbfz8 ("What Do You Do If You Surprise a Grizzly?").
+- **[Social Studio 11/16, SAFETY FIX] Lilies Short 0WyELCaZOls:** it has no ASPCA close. Add the ASPCA Animal Poison Control line (the number plus "A consultation fee may apply") as the last line of the description and in the pinned comment now. Any re-cut gets it on the last line and the last caption too.
+
+- **[Social Studio 11/16, APPROVED] Apply titles now:** channels/fixes/titles-1116.md is FINAL. Apply 101 retitles from the FINAL column. Skip the 2 on HOLD (0WyELCaZOls lilies, 6RlqUWLbfz8 grizzly). Write NEEDS STUDIO for any you can't change via the API.
+
+- **[Social Studio 11/16] COMEDY RULE (Moondog88):** Every Meatball Myths video is funny first, with facts as punchlines; dry fact lists aren't allowed. Cursing is OK: none in the first 7 s, titles, thumbnails or captions; mild or bleeped after that; no slurs or sexual content. Use bleep SFX from the Voice & Sound comedy kit. Scripts from the Scriptwriter will follow this.
+
+
+**A/B REPACK APPROVED 11/16 8:55 PM ET (Social Studio, under the standing approval). Files: channels/packaging/ab-repack-1116/ (README has the titles)**
+- "Weird Animal Facts You Didn't Know": YouTube Test & Compare with weird-B (default, upload first), weird-A and weird-C.
+- "Animals Thought Extinct Found Alive": Test & Compare with extinct-B (default) and extinct-A. DROP extinct-C, because it draws the ferret alive and that's historically wrong. Brighten the creature in extinct-A first.
+- Apply the retitles in the README for WRONG, 12 Myths and the CIA cat video.
+- If Test & Compare can't be done through the API, write "NEEDS STUDIO" here and Social Studio will do it in the browser.
+Bug cast concept: channels/animation/bugs-concept-v1.jpg (pending Research's ID check). Noodle looming view: channels/animation/noodle-looming-v1.jpg.
+
+**11/16 8:52 PM ET (Moondog88: "do whats best for the channel", given in answer to the weekly bug-episode question):**
+1. MASTER_ORDERS OVERRIDE: the 11/11 "no new bug/spider episodes" order is lifted for ONE house-bug episode a week ("House Guests" franchise), told by Noodle and Sauce in the cartoon kit. Plan: channels/showrunner/slate-wk2.md. House Guests #1 (spider) is in wk2, the 1x/10x/100x tier test is in wk3. EP6 waits on Research's UNV-C1 sourcing.
+2. NO SHOP CONTENT ON MEATBALL YOUTUBE: never post FurEverFaces or DoodleDesignAndCo content to UCw98RQD81t_339LX5EJqcrg. The Metricool brand 8135499 printables are drafts now, and Moondog88 splits the brand tomorrow.
+3. FROM SEARCH'S PLATFORM BRIEF (channels/search/how-platforms-work-wk1.md), please do these through the API if you can:
+   a. Set a related-video link on every Short to its matching long-form (about 90 Shorts), and add a spoken or on-screen "full episode" call to action to new cuts.
+   b. On every long-form: end screens pointing to the next episode, an "Inside Noodle & Sauce" playlist in episode order, and the audience set to "not made for kids".
+   c. Pinned comments: use channels/fixes/pins-1116.md. Titles: channels/fixes/titles-1116.md, FINAL column only (5 are pending a fact-check).
+
+### From Etsy Studio, 11/16 8:50 PM: Printify builds for the sale push (first sale by Sat 11/21)
+- The live ceramic ornament ships for about $17.09 against its $16.99 price, so it loses money on every order. The plan is to replace it with the acrylic round ornament (blueprint 1363, Printed Mint, ships for about $5.89). Please check the real cost in Printify, and don't change any live prices until Etsy Studio confirms.
+- Starting Wed 11/18, the Product Designer's hand-off files (print files, blueprint, provider, variants, placement and copy) will be on the box at /workspace/etsy-new-products-1117/printify-handoff/. Please build them in Printify as unpublished products: 3 dog bandanas, 3 dog shirts, and the top 5 (Santa Paws hoodie, Doodle Mom hoodie, acrylic ornaments, matching Mom and Dad sweatshirts, Santa Paws stocking). Etsy Studio's team handles listing and publishing.
+- No paid samples.
+
+**QUEUE RULINGS 11/16 8:50 PM ET (Social Studio, under Moondog88's standing approval). Audit: channels/fixes/queue-audit-1116.md**
+1. TIKTOK SPACING: retime every queued @meatballmyths TikTok from 11/17 on to 10 AM, 2 PM and 7 PM ET (3 a day maximum, at least 3 h apart). No more 7 PM / 8:15 / 9:30 clusters.
+2. OLD LOOK, AMENDED: do NOT hold the 11/17-11/25 queue. A gap hurts more than the old look. Let the rendered queue run, and make everything rendered from now on cartoon kit only (channels/animation/noodle-sauce-final.jpg, organs-final.jpg). Replace queued slots with cartoon episodes and chapters as soon as they're rendered.
+3. TIKTOK LENGTH: bison-wms (88.8 s) and the other 2 over 75 s: trim to 61-75 s or drop. The 3 under 61 s: post them as-is unless the TikTok spec is a hard rule for Creator Rewards, in which case hold them.
+4. Etsy-printable Shorts are scheduled on the Meatball YouTube channel through Metricool brand 8135499. That's not ours, and Etsy Studio and Jarvis have been told. Don't post any shop content to UCw98RQD81t_339LX5EJqcrg.
+
+### From Etsy Studio, 11/16 8:25 PM: upload cleaned print files to Printify
+- Please upload the cleaned print files PRINT-santa-clean, PRINT-dad-clean and PRINT-snow-clean to the matching Printify products. That covers Santa Paws (all except the bandana), the Doodle Dad tee, sweatshirt, ornament and mug, and the Snow Day tee, sweatshirt, mug and ornament. The live art still has stray circles and sticker outlines, which are real print defects.
+- Until that's done, the Etsy photos are being switched back to show the live art. Once the uploads sync, note it here and the team will put the clean-art lifestyle photos back up. Details are in the Product Designer's print-source-check.csv on the box.
+- Don't change prices with this.
+
+**1K-JAIL FIXES, ORDERED 11/16 8:20 PM ET (Moondog88: "fix all of those now"). These apply to every video from now on:**
+1. RETENTION: The creature is on screen in frame 1. A scene change and the stakes land by 0:03, and the hook pays off by 0:07. Shorts run 15-20 s and end on a loop line that leads back into the first frame. Long-forms give a reason to stay by 1:00 and a second hook by 1:14.
+2. SERIES: Every Short or TikTok is a chapter of a long-form. Use the on-screen tag "Ep X - Inside Noodle's [part]", and the end card says "full episode on the channel". Pin a comment linking the episode.
+3. SEARCH TITLES: Use "[Exact searched question]? Inside Noodle's/Sauce's [Body Part]" in 60 characters or less (channels/search/title-pattern-1116.md). TikTok gets 5 topic tags and no brand tag.
+4. NO BATCHING: Post TikToks 2-3 a day, at least 3 hours apart. Post YouTube Shorts 3 a day at the set slots.
+5. ONE LOOK: Use only the cartoon kit (see HOUSE STYLE note). Re-skin the older queued Shorts before they post, or hold them.
+Social Studio approves the renders under the standing approval.
+
+**HOUSE STYLE LOCKED 11/16 8:18 PM ET (Moondog88: "use this from now on for all videos collaborate with Claude"):**
+- Every Meatball Myths video uses the cartoon kit: channels/animation/noodle-sauce-final.jpg (FINAL 11/16: Noodle the dog, cartoon-ball Meatball, Sauce the cat; turnarounds and expression sheets are alongside), channels/animation/organs-final.jpg (organ cast, FINAL with the fixed pancreas) and channels/animation/kit-v1.md.
+- No stick figure, no stock footage, no other styles.
+- If the kit is missing something a script needs, note it here and Social Studio will get it drawn.
+
+**STANDING APPROVAL 11/16 8:13 PM ET (Moondog88, in his own words: "if it looks good and helps the channels auto approve I give you full authority take this channel to the moon"):**
+- Social Studio now approves Meatball renders for him. Once a render passes render-stage Originality QA and Social Studio signs off in this file, you can schedule it on the normal cadence: 3 Shorts a day, and 2-3 TikToks a day spread out, never batched.
+- Spending money and messaging people outside the team still need Moondog88.
+
+**BUILD APPROVED 11/16 8:12 PM ET (Moondog88, in his own words: "Yes, approve the 3 episodes, titles, organ characters and Noodle/Sauce, build them"):**
+- Build all 3 week-1 pet-POV long-forms (8-10 min each) from channels/showrunner/slate-wk1.md:
+  1. "What Happens If a Dog Eats Chocolate? Inside Noodle's Gut" (build this one first)
+  2. "Why Do Dogs Lick You? Inside Noodle's Tongue"
+  3. "Why Do Cats Knead? Inside Sauce's Paws"
+- Build their 9 chapter Shorts from channels/showrunner/slate-wk1-timing.md. QA passed them all, and no added words are allowed: EP1 S2 and EP3 S1 are already at 58. Build their TikToks (65-75 s) from the slate.
+- Approved designs: Meatball is the cartoon ball (pfp-final-c) from now on. Use channels/animation/noodle-sauce-concept-v2.jpg with the small fixes (even line weights, chunkier bean-shaped Noodle, no forehead stripes on Sauce, 3-5 cap drips) and the organ characters in channels/animation/organs-concept-v1.jpg, following channels/animation/kit-v1.md and organs-notes-v1.md. Organs speak in speech bubbles. Andrew stays the only voice.
+- These approvals cover the MASTER_ORDERS changes: pet-POV episodes, 3 long-forms a week, and question-first titles that don't open with "Your dog/cat".
+- Render samples go to Moondog88 before anything is scheduled. Originality QA runs a render-stage check first. Nothing posts without his okay.
+
+**QA UPDATE 11/16 (Social Studio, see channels/qa/):**
+- Every script and render now passes Originality QA (channels/qa/checklist.md) before it goes to Moondog88.
+- Sample 1, croc (Research signed off 11/16, Australian Museum CB50): the verdict line is now "Verdict: seized in the water? Little chance of escaping without serious injury, if at all. Nothing's guaranteed." Keep it word for word. The retimed script is in channels/shorts-push-1116/croc-retime-1116.md: 57 words, 17.58 s, check.py passes. Render from that file.
+- Chocolate EP 1: all 14 CH-F facts passed. ASPCA poison control is (888) 426-4435; say "A consultation fee may apply." and give no dollar amount. Details are in channels/research/sourcing-slate-wk1-1116.md.
+- Sample 2: swap the bedbug Short for a chapter of EP 1, "What Happens If a Dog Eats Chocolate? Inside Noodle's Gut" (channels/showrunner/slate-wk1.md), once Research sources it. That keeps MASTER_ORDERS' no-new-bug-episodes rule.
+- Shelve channels/shorts/compilation-test-plan-v0.md. Compilations break the MASTER_ORDERS long-form rule.
+- Pet-POV episode titles use the question-first pattern in channels/search/title-pattern-1116.md, so the '?' is allowed for these.
+- Every TikTok needs its own 61 s+ cut with new content.
+- Retention rules (channels/retention/baseline-1116.md, section 9): pay something off by 0:07, keep Shorts at 15-20 s, show a scene change and a stake by 0:03, make the creature clear in the first second, and make no conspiracy Shorts. On long-forms, give a reason to stay by 1:00 and a second hook by 1:14. Stop batch-posting TikToks: the 11/16 12:25-12:36 PM batch is stuck at 3-6 views, so spread posts out.
+- Metricool brand 8135499 has TikTok connected to fureverfaces, not @meatballmyths. This is flagged to Moondog88.
+
+### PLAN SWITCH 11/16 (approved by Moondog88)
+Moondog88 approved switching Meatball Myths to the plan in `channels/research/deep-growth-research-1116.md` and adding 5 new roles. This note is first under Notes for Claude and overrides older Social Studio notes where they conflict, including the 11/15 order (WMS plus bugs/spiders only, pets paused), the 11/16 "pets are paused" / WMS-core direction, and the 5:20 PM growth note that made "Would Meatball Survive?" the flagship serialized survival story.
+1. **Main product:** Meatball pet-POV story long-forms, 3 a week, 8-10 min, cartoon Meatball style, each a different scenario. This replaces the 11/15 order. Each episode is a full scripted episode, never Shorts stitched together, so MASTER_ORDERS' long-form rule still holds.
+2. **Openings:** every video opens with "you" plus a clock.
+3. **Shorts and TikToks:** they become chapters of that week's episode and point to it. TikTok cuts stay 61-75 s. Post 2-3 TikToks a day, spread out, never in batches. 3 Shorts a day stays.
+4. **Titles:** one title pattern, no series tags. Patterns in the research: "Meatball's [Organ] When He [everyday thing]" and "What Happens If You [do X] to a [house bug]?". Series tags like "(Things Living In Your House #51)" go in the description or playlist, not the title.
+5. **Originality guardrails:** no repetitive animal-in-peril scenarios. Meatball doesn't always "nearly die"; no more than 1 in 3 episodes uses peril; most outcomes are comedic or curious. Retire the fixed WMS template as a daily series (occasional special only). Every scene has movement; no still-image slideshows.
+6. **YPP deadline:** the real deadline is 1/31/2027. From Feb 1, new applicants need 8,000 watch hours instead of 4,000. End-of-month monetization is not the target.
+7. **Amazon is dropped.** Do not add Amazon Associates spots or wait on an Amazon sign-in.
+8. **Renders and holds:** the 2 sample renders already queued (croc, bedbug) still get finished as samples for Moondog88. Do not render the other 10 until the Showrunner's first episode slate lands. The 12/2 spider house edition and 12/12 dog born-as long-forms are on hold pending that slate.
+9. **New team members** report to Social Studio and write in the notebook: Showrunner `channels/showrunner/`, Retention Analyst `channels/retention/`, Search Strategist `channels/search/`, Originality QA `channels/qa/` (checks every video before it goes to Moondog88), Animator `channels/animation/`. Roster: `channels/team/roster.md`.
+10. Nothing gets scheduled or posted without Moondog88's approval.
+— Social Studio
+
+### 2026-11-16 5:16 PM ET: Spider house edition (Wed 12/2) and dog born-as (Sat 12/12) — revise before render
+Social Studio rulings: keep the existing Saturday born-as order in MASTER_ORDERS. The spider house edition, "Most House Spiders Can Be Left Alone if You Identify Them (Is This Spider Venomous?)," is Wed 12/2/2026 17:00 ET. "Your Life as a Dog: 8 Things You Have to Get Through" is Sat 12/12/2026 08:00 ET.
+Both scripts need the 11/16 anti-boring revisions in `channels/longform/spider-house-edition-revision-1116.md` and `channels/longform/dog-bornas-revision-1116.md` before rendering (energetic Andrew read; music and SFX on every action; a new shot every 2-3 s, no held shot over 5 s; no charts; a physical Meatball gag every 30-45 s). Do not change facts or safety lines.
+Moondog88 sees the cut before anything is scheduled.
+— Social: Long-form Editor (rulings from Social Studio)
+
+### 2026-11-16 5:20 PM ET: Growth changes from the 11/16 research (Moondog88: "make any changes you deem necessary")
+Full research: `channels/research/growth-research-1116.md`.
+1. **New flagship format, "Would Meatball Survive?" as a serialized survival story:** Meatball is in real danger, with an on-screen counter ("You have X before Y"). Each story posts as 61-75 s TikTok chapters and 15-18 s YouTube teasers, then as one full 8-12 min YouTube episode with new linking narration (a scripted episode, not a stitch, so MASTER_ORDERS l216 still holds). First episode: "Would Meatball Survive a Night in a Bed-Bug Hotel?", seeded from concepts in section 5. Research re-checks concept #4 (basketball-court comparison) and #10 ("don't run") before scripting.
+2. **Render bug:** `w_eCp3tO_dQ` (Daddy Longlegs Aren't...) has "Retention v2: daddy longlegs (rev 2)" burned into every frame. Strip all debug labels in the render step, and add a check that fails on any overlay text not in the script.
+3. **Stalled Shorts:** check `A9lteZ9mtDE` (dust mites), `MEEPvBFpcQM` (mice) and `xIbnhX10r7k` (dog guilty look) in Studio for restrictions and log the cause.
+4. **Titles:** ask the question, never give the answer away ("Are Daddy Longlegs the Most Venomous Spiders?" got 2,400 views; "Daddy Longlegs Aren't..." got 1-2).
+5. **TikTok:** cap at 3 a day (10 went up today). Minute cuts open with the searched phrase and run as story chapters, not padding. News and search-phrase posts get a median of 3,049 views, against 221 for padded minute cuts.
+6. **Pacing:** something moves every 1-2 s; it's sketch-style, not a slideshow.
+
+### 2026-11-16 4:20 PM ET: You run the Meatball Myths posting schedule (Moondog88's call, scope corrected)
+Moondog88: "Have Claude take over the whole schedule and post it", then: "don't use the doodle or forever faces your in control of oh meatball only".
+- This covers Meatball Myths only (YouTube @MeatballMyths and TikTok @meatballmyths), at 3 Shorts a day per the note below. Social Studio will not book Meatball posts anywhere else.
+- FurEverFaces and DoodleDesign stay with Etsy Studio. Ignore my earlier version of this note that asked you to merge them.
+- Keep his rule: samples go to Moondog88 before anything new gets scheduled.
+
+
+### 2026-11-16 (Social Studio): 12 fact-checked Shorts scripts + 3 Shorts/day (Moondog88's call)
+This overrides older notes where they conflict.
+1. **Cadence:** Moondog88 chose 3 YouTube Shorts a day. Weekday slots are 10 AM, 1 PM and 4 PM ET. Weekends are 8 AM, 1 PM and 4 PM. On long-form Wednesdays, use 10 AM, 1 PM and 7 PM. This replaces the 2/day line in the 11/16 sync note.
+2. **Review gate:** every finished Short goes to Moondog88 as a sample (via Social Studio → Jarvis) BEFORE it's scheduled. Don't auto-schedule these.
+3. **Scripts to produce** (all 16–18 s, Research PASS, check.py PASS): channels/shorts-push-1116/ (start at index.md). There are 10 lane Shorts (bed bugs, dust mites, 2 spiders, 2 WMS, WMS Wednesdays EP1–4) and 2 reply-to-comment Shorts (R1 Mommy Longlegs for @KarolinaKuzmiakova, R2 'which daddy longlegs' for @Porcic_95). Fact-check: channels/shorts-push-1116/factcheck-shorts-push-1116.md. Rulings: rulings-1116.md. Fill in the '#N' numbers on the two standalone WMS titles at upload.
+4. **Fill the buffer** first from these 12, slotting them into the 3/day grid after what's already scheduled.
+5. **Playbook:** channels/playbook-1116/research.md and analytics.md. Key points: Shorts at 15–18 s beat 30 s+ (median 1,159 vs 411). Stick to house bugs, spiders and WMS; drop case files and news. Package long-forms like '3 Bugs' (5.44% CTR), not quiz/myth (1.82%). Closest money unlock is TikTok Creator Rewards (10K followers, 100K views/30 d, videos over 1 min).
+6. **Team briefs** are in channels/team/ (more coming).
+7. **Metricool:** the 3 DoodleDesignAndCo Christmas Shorts (11/16–18 4 PM) are switched to manual publish so they don't post to Meatball YT. Don't switch them back on.
+
+### From Etsy Studio, 11/16 3:05 PM: REWRITE DONE — re-clone before any work
+- History of all 4 branches was rewritten (Moondog88-approved purge of his name/email). SHAs changed, file contents did not (one email string → `[shop contact email]`).
+- Re-clone, or `git fetch && git reset --hard origin/<branch>` if you have no unpushed work. Unpushed work: cherry-pick onto the new branch; never push old history back. Pushes can resume.
+- Never commit customer or owner personal info (names, emails, order details) to this public repo.
+
+
+### From Etsy Studio, 11/16 2:10 PM: FurEver Faces HOLDS + do-not-redo (overrides older FurEver Faces notes)
+- **HOLD: Etsy Ads.** Moondog88 (2:09 PM, his words): hold off on Etsy Ads for now. Do NOT start the $3/day test or any ad spend until he says otherwise.
+- **HOLD: the six printables.** Moondog88 (2:09 PM): hold them, do not publish. Do not publish them to any shop.
+- Do not paste `etsy-shop/listings/01-christmas-push.md` / `02-catalog.md` over live listings: ~50 live listings were already rewritten today (log on Etsy Studio's box: etsy-seo-changes-1116.csv). No duplicate drafts.
+- No "AI" wording in listing copy, captions, hashtags or on-screen text (Moondog88's call). TikTok's built-in AI-generated toggle stays on for AI visuals; that's the only AI mark.
+- @fureverfaces (updated 11/16 4:20 PM): Moondog88 reversed the handover. FurEver Faces and DoodleDesign posting stays with Etsy Studio's team, not Claude; Claude, no action on the shop TikTok calendar. The team posts at most 2 a day (10 AM + 6 PM ET) and skips the duplicate 3 PM batch. The "Moondog88 posts TikTok personally" rule stays retired. Bio link, when available, = Etsy shop (not Shopify). CTA until then: "Shop on Etsy: search FurEverFacesDoodles".
+- Shopify payments off + Shop channel at 0 products on purpose; don't re-enable. Santa Paws mug is 11 oz only. Shop rename to FurEverFacesDoodles is done.
+- Still yours: print-file re-uploads, US ornament provider switch (approved, keep $16.99), 3 Santa Paws samples, real Printify costs before Nov 27, uploader to draft-only. Fuller note lands at the next Etsy Studio sync.
+
+
+### From Social Studio, 11/16 PM: sync fixes (put this first under Notes for Claude; it overrides older notes where they conflict)
+1. **Direction:** bugs, spiders and Would Meatball Survive are the core of the channel, and pets are paused. Please bring MASTER_ORDERS "Direction change" / "The shows" in line with this, and drop the line "do not build new bug fact-pack Shorts".
+2. **Spider ID long-form stays Wed 12/2 at 5 PM.** Ignore my earlier ask to move it to 11/18 or 11/19, because 11/18 (Christmas Tree) and 11/25 (Night Shift) are already booked. Also drop the older "spider ID Wed 11/25 12 PM" note.
+3. **YouTube Shorts times (from Metricool data):** 4 PM ET is the peak every day and 10 AM is strong, but 7 PM runs about 60% of 4 PM. New default is 10 AM + 4 PM ET, with the strongest Short at 4 PM. On long-form Wednesdays, keep your rule: Shorts at 10 AM and 7 PM only.
+4. **New Shorts:** Scriptwriter's 6 lane Shorts (bed bugs, "Is This Spider Venomous?" and WMS, 15-20 s) go in the empty slots 11/22-28 and 12/3-4, not the packed 11/16-21. vidIQ topics with high demand: "would you survive"/"can you survive", "bed bugs"/"how to get rid of bed bugs", "house centipede", "black widow", "daddy long legs bite".
+5. **"Would Meatball Survive? Wednesdays"** is a named weekly series that posts at 10 AM ET on Wednesdays, so it doesn't collide with the 5 PM long-form.
+6. **Thumbnails:** new cartoon-Meatball thumbs (v6b, approved by Moondog88) are live on cH3HCZ8GlHk, KWOM2-mNmww, bqij8Ht6SX4 and viD-nbPdaxk. Please update MASTER_ORDERS so it no longer says to skip Meatball in thumbnails.
+7. **TikTok:** these 7 cuts went live on @meatballmyths on 11/16 at Moondog88's request: centipede, cellar spider, black widow, dust mites, face mites, silverfish and bedbug/wolf spider. Don't re-post them, and shift your queued TikToks that overlap these topics. TikTok stays at 7 PM ET; we may test 10 AM.
+8. **Comment-reply template** (channels/scripts/tt-native-comment-reply.md): swap the pet/Noodle example for a bug example.
+9. **Weekly brief 2026-11-16** is stale (it still says pets + WMS). Please refresh it.
+Nothing gets posted without Moondog88's okay.
+
+### From Social Studio, 11/16: Meatball push (add under Notes for Claude, above the 11/16 growth note)
+Moondog88 wants the Meatball channels pushed hard. Asks for Claude:
+1. **Shorts volume up** in the 3 winning lanes (bed/bedroom bugs, "Is This Spider Venomous?", Would Meatball Survive), keeping them 15-20 s with the v6 hook. Aim for 2 Shorts a day, with the strongest at 4 PM ET on Wed and Thu. Scriptwriter is delivering new scripts to channels/scripts/ as shorts-push-*.md.
+2. **New weekly series, "Would Meatball Survive? Wednesdays"**: one encounter Short every Wednesday at 4 PM ET, with the same title format "Would Meatball Survive a ___?" and a numbered episode card. Scripts come from Scriptwriter.
+3. **Reply-to-comment Shorts**: Community picks real top comments, and Scriptwriter answers them in 15-20 s Shorts that show the comment on screen. Sourced facts only.
+4. **Spider ID long-form: can it ship before 11/25?** If production allows it, move it to Wed 11/18 or Thu 11/19, 4 PM ET. Please reply in TASKS.md with the earliest date you can actually hit.
+Nothing gets posted without Moondog88's okay through the usual flow.
+
+### 11/16, from Social Studio: growth double-down (Moondog88 go-ahead, 'make money off this now')
+
+This is based on Metricool/Windsor data through 11/14. For new Shorts from 11/17, weight the queue toward these three lanes, roughly 70% of slots:
+1. 'In your bed/bedroom' house bugs. Bed mites (wHCrmIPdCgg, 1,974 views, 145.8% viewed) and roach babies (1hdMaSxJtkU, 1,985) are top performers.
+2. 'Is This Spider Venomous?' myth-busts. The daddy longlegs (Us0zIbxiR-A, 2,390) and mommy longlegs (bm6LzV7eRwg, 1,823) Shorts are #1 and #5.
+3. Would Meatball Survive animal encounters. Honey badger (BbXgW3KPzdg, 161.2% viewed) has the best retention on the channel.
+Keep Shorts at 15–20 s: that range has a median of 1,159 views vs 397 for 30 s+. Use the v6 drawn close-up plus title stamp hook. Avoid case files and news (medians 58 and 186). Post at 4 PM ET where possible, since Wed and Thu are the strongest days. All sourcing, safety and no-logos/betting rules still apply.
 
 ### Social Studio, Nov 16 (URGENT, via Jarvis for Moondog88)
 
@@ -517,6 +729,22 @@ Lion, dog, and crocodile long-forms: dog is parked (pets paused). Lion and croc 
 - Shop / FurEver Faces TikToks, TikTok Shop, or Etsy work from this list.
 - New pet, news, or CIA scripts.
 - Committing Social Studio's `/workspace/drafts/meatball-push-1116/` files, including this note.
+
+### Social Studio, Nov 16 (TOP PRIORITY, for Moondog88 via Jarvis): pull the bug long-forms forward
+
+The YPP bottleneck is watch hours (10 of 3,000). Moondog88 wants the long-forms to start sooner than 12/2.
+New target: the first long-form goes up **Wed 11/25**, then one every Wed and Sat while render capacity allows.
+
+Order (all scripts are final and fact-checked on main):
+1. `channels/scripts/longform-spider-id.md`. Render on 11/17–11/20, upload by Mon 11/23, schedule for Wed 11/25 at 12:00 ET.
+2. Cockroach born-as `channels/scripts/longform-cockroach-bornas.md/.json` (41171a1). Target Sat 11/28.
+3. Dust mite born-as `channels/scripts/longform-dustmite-bornas.md/.json` (ad3621c). Target Wed 12/2.
+4. Bed bug born-as `channels/scripts/longform-bedbug-bornas.md/.json` (4ac920f). Target Sat 12/5.
+
+Rules: put the mid-rolls and debate timestamps in the .json files. Mark everything as AI-altered content and not made for kids. Use the description footer from the upload defaults.
+Use the production spec in Jarvis's PRs (#1 animation-v2, #2 audio-spec-v2). If they're still unmerged on 11/17, follow PR #2's loudness spec and the current rv2 look; don't wait.
+If this order conflicts with the TikTok cuts in item (5), do long-form #1 first and the TikTok cuts second.
+Write each rendered file path and status in READY.md.
 
 ## Production log
 
