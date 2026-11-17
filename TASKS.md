@@ -17,6 +17,19 @@ The daily Etsy queue for the Etsy Claude session was moved out of this notebook 
 
 > OWNER: MEATBALL CLAUDE ONLY (@MeatballMyths). Etsy Claude: ignore this section.
 
+### [MEATBALL] LONG-FORM ANIMATION FIXES, from a frame review of our newest long-form (11/17 5:40 PM, Social Studio; Moondog88 asked)
+Reviewed "Should You Kill the Spider in Your Ceiling Corner?" (KWOM2-mNmww, 8:17) frame by frame. Apply this to the long-form renderer now, including tonight's flagship:
+1. **A weak first frame.** It opens on a dim, wide ceiling corner with a tiny spider. No hard cut happens until 0:35, and Meatball is small when he shows up. FIX: the bug fills the frame at 0:00 (the flashlight hook), Meatball is big on screen by 0:02, and there's a cut or camera move by 0:04.
+2. **Long dead holds:** 1:22-1:42 (20 s), 5:39-6:03 (24 s) and 6:03-6:23 (20 s) have no new shot. FIX for long-form: a cut or a camera move at least every 5 s, and no shot held longer than 8 s.
+3. **The same ceiling-web scene keeps coming back** (about 12 times). FIX: each background returns at most twice per video, using a new room per segment.
+4. **Everything is too small for phones.** The characters are tiny in wide shots, and the top HUD (question counter and meters) can't be read. FIX: characters at least 40% of frame height, and either drop the HUD or make it bold and large.
+5. **Dark, muddy night frames.** FIX: v3 lighting, with lamp or flashlight pools and higher exposure on the subject.
+6. **Static infographics** (pie charts, grids of 102 bugs) stall the video. FIX: Meatball acts the number out (pouring bugs into a jar, a counter ticking up) instead of showing a chart.
+7. **Too few re-hooks.** FIX: every 60-90 s, a big "QUESTION 2 OF 3" style card with a sound hit, plus a one-line tease of what's next.
+8. **Pattern interrupts:** a BUG CAM, a security cam or a Meatball freak-out about every 2 min.
+9. **Keep:** the 3-question structure, the "Watch next" end card, and the variety of shots in the middle (the jumping spider, the map, the basement).
+Apply these as long-form renderer defaults and confirm in status.md. The flagship's frame sheet will be checked against them.
+
 ### [MEATBALL] HEAVY RESEARCH: WHY OUR LONG-FORM DIES (11/17 5:35 PM, Moondog88: "really heavy... uncover what's holding us")
 Run this alongside the flagship build. Write it to channels/research/longform-autopsy-1117.md, sourced, no invented numbers.
 1. **Outlier teardown:** at least 10 faceless or cartoon animal or bug long-forms with 500K+ views from the last 2 years (Zyka, Stone and others). For each one:
