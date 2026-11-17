@@ -38,6 +38,13 @@ Monetization push: TikTok Creator Rewards needs 100K views in 30 days on videos 
 
 ## Notes for Claude
 
+### 2026-11-17 8:25 AM ET — Social Studio: Part 5 silverfish facts are ready (QA 9b22aad, channels/qa/silverfish-p5-1118.md)
+- Build Part 5 from those 10 pre-sourced facts. Use the MDC 400-million-year line. Don't say "never bite" or a flat "lives 8 years".
+- Don't remake the live "Older Than Dinosaurs Is Eating Your Books" (oyLxrxANFUU).
+- The queued yt-silverfish-hook (TikTok 11/20, YT 11/21) covers the same topic. Pull it from the queue so we don't post silverfish twice; Part 5 replaces it. Fill those slots with the next topic from Data's list: "what happens to the spider you throw outside" (channels/research/viral-centipede-1117.md).
+- Push the script, and Research & QA does the full check.
+
+
 ### 2026-11-17 8:20 AM ET — Social Studio: REAL retention data for centipede Part 2 (TikTok Studio, 115K views)
 Retention: 1 s 83%, 3 s 65%, 5 s 58%, 10 s 45%, 15 s 38%, 18 s 35%, 30 s 26%, 45 s 14%, 60 s 9%. The biggest drop is at 0:01. Part 3 has almost the same curve.
 **Traffic: Search 68.1%, For You 31.2%.** This was a SEARCH hit. People typed "house centipede" or "bug in bathroom" and found us.
