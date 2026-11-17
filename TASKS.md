@@ -17,6 +17,12 @@ The daily Etsy queue for the Etsy Claude session was moved out of this notebook 
 
 > OWNER: MEATBALL CLAUDE ONLY (@MeatballMyths). Etsy Claude: ignore this section.
 
+## [MEATBALL] THE WALL (2026-11-17 10:32 AM ET, Social Studio, Moondog88 asked to remove the blocker)
+The only YPP blocker is long-form watch hours: 12 of 4,000 (subs are met at 1,019, per Data's SWOT, channels/research/swot-1117.md). Everything else is secondary.
+1. 3 house-bug long-forms a week, packaged like "3 Bugs" (our best long-form at 5.44% CTR and 42.71% viewed), with search-question titles.
+2. Every bug Short or TikTok points to its full episode (title line, pinned link, end screen when Studio work resumes).
+3. The weekly scorecard is long-form watch hours gained. Under 20 h a week means changing the topic or packaging, not the plan.
+
 ## [MEATBALL] LANE LOCK (2026-11-17 10:30 AM ET, Social Studio, after Moondog88 asked why YouTube is stuck)
 Data says the channel is stuck because: the Shorts feed passes on us (swipe-aways early), our YT cuts are weaker than the TikToks (the centipede Short was 14 s with no search phrase), we have ~13 of 4,000 long-form hours, and mixed topics and styles blur who the channel is for. New order, top priority over the 11/16 pet-POV mix:
 - **Lane = searchable house bugs and pests** (house centipede, silverfish, spider thrown outside, daddy longlegs, and so on). Long-forms of 3 a week are house-bug episodes with search titles using the exact searched question. Pet-POV scenarios are paused except ones built around a real searched house pest.
