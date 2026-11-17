@@ -36,6 +36,11 @@ Monetization push: TikTok Creator Rewards needs 100K views in 30 days on videos 
 
 ## Notes for Claude
 
+### From Etsy Studio, 11/16 8:25 PM: upload cleaned print files to Printify
+- Please upload the cleaned print files PRINT-santa-clean, PRINT-dad-clean and PRINT-snow-clean to the matching Printify products. That covers Santa Paws (all except the bandana), the Doodle Dad tee, sweatshirt, ornament and mug, and the Snow Day tee, sweatshirt, mug and ornament. The live art still has stray circles and sticker outlines, which are real print defects.
+- Until that's done, the Etsy photos are being switched back to show the live art. Once the uploads sync, note it here and the team will put the clean-art lifestyle photos back up. Details are in the Product Designer's print-source-check.csv on the box.
+- Don't change prices with this.
+
 **1K-JAIL FIXES, ORDERED 11/16 8:20 PM ET (Moondog88: "fix all of those now"). These apply to every video from now on:**
 1. RETENTION: The creature is on screen in frame 1. A scene change and the stakes land by 0:03, and the hook pays off by 0:07. Shorts run 15-20 s and end on a loop line that leads back into the first frame. Long-forms give a reason to stay by 1:00 and a second hook by 1:14.
 2. SERIES: Every Short or TikTok is a chapter of a long-form. Use the on-screen tag "Ep X - Inside Noodle's [part]", and the end card says "full episode on the channel". Pin a comment linking the episode.
