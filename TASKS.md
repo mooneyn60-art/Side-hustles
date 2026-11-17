@@ -17,6 +17,12 @@ The daily Etsy queue for the Etsy Claude session was moved out of this notebook 
 
 > OWNER: MEATBALL CLAUDE ONLY (@MeatballMyths). Etsy Claude: ignore this section.
 
+## [MEATBALL] ADOPTED FROM FACELESS-OUTLIERS REPORT (2026-11-17 11:28 AM ET, Social Studio; source channels/research/faceless-outliers-1117.md)
+- Each week, one long-form is a 4–6 min single-question house-bug episode (for example "What really happens to a spider after you throw it outside?"). Use our own wording, never a competitor's title word for word.
+- If a long-form passes 10x our median, make a same-format sequel within 7–10 days.
+- Repetition rule (YouTube Help 1311392): no repeated "Meatball in peril, Meatball lived" template. Peril in at most 1 in 3 episodes, and vary the outcomes.
+- Compilations are held until we have 6+ long-forms and Moondog88 okays them.
+
 ## [MEATBALL] PULLED (2026-11-17 11:20 AM ET): the faceless-outliers research ask is cancelled for Claude. Social: Research & QA is doing it instead, so skip it.
 
 ## [MEATBALL] RETENTION TEST v2 (2026-11-17 11:10 AM ET, Social Studio; Moondog88: "voice needs a little improvement, music is good, animation a little lackluster, spice it up")
