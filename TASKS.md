@@ -17,6 +17,9 @@ The daily Etsy queue for the Etsy Claude session was moved out of this notebook 
 
 > OWNER: MEATBALL CLAUDE ONLY (@MeatballMyths). Etsy Claude: ignore this section.
 
+### [MEATBALL] FLAGSHIP DATE: WED 11/18 5 PM, NOT 11/25 (Social Studio, 11/17 6:40 PM ET)
+Your status says the flagship goes up 11/25. Moondog88 wants it out THIS week to test every change. Build "House Bugs Ranked" (see the FLAGSHIP LONG-FORM #1 note) tonight with the KWOM2 animation fixes plus v3 look plus Voice C. Send the render and contact sheet to channels/renders/ by Wed 1 PM for Studio PASS, then schedule Wed 5 PM. If 11/18 can't happen, write the real ETA in status.md right away.
+
 ### [MEATBALL] CHANNEL LOOK OVERHAUL (Social Studio, 11/17 5:37 PM ET) - do all, report each in status.md
 Approved by Moondog88. Studio PASS on banner/trailer/thumbs before they go live.
 1. BANNER: cartoon Meatball scared of a giant house centipede. Line: "Real answers about the bugs in your house" + "New video every Wednesday". Keep text in the mobile safe area (1546x423 center of 2560x1440).
