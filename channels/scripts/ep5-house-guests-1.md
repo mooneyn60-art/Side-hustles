@@ -11,10 +11,11 @@
 - **Comedy first** (Social Studio, 8:57 PM ET): facts land as punchlines. Meatball, his dog, Noodle, and his cat, Sauce, react to and roast the spider, with a joke every 5–7 s (timestamps in Checks). **The pets don't speak** (voice lock, slate flag 9). Their attitude comes through action and Andrew's narration. The Nose crew speaks only in speech-bubble cards.
 - **Joke rule:** jokes can carry attitude and reactions. They never add a number, a new danger claim, a factual motive for the spider or an instruction, and they never sit inside or soften a safety line. Safety lines are marked **CLEAN** and have no gag over them.
 - **Swearing:** none in the first 7 s, the title, thumbnail text, cards, captions or bubbles. After 0:07, spoken lines only: mild swears, or a strong one as [BLEEP]. No slurs, nothing sexual. Every instance is listed in Checks.
-- **PRODUCTION NOTE (Social Studio ruling 3):** burned-in captions mask every swear (e.g. d***), and the audio bleeps any strong one (none remain after the 9:36 PM fix; the two left are mild: damn at 1:44, Damn at 5:02). Spoken swears stay as written in the script.
+- **PRODUCTION NOTE (Social Studio, 11/16 9:40 PM; replaces ruling 3's masking):** NO profanity in any on-screen text or captions, masked forms included. Burned-in captions read "dang" for both damns (1:44.3 and 5:02.9); the audio stays as written. No strong words remain, so nothing is bleeped.
 - **Verdict stamp, everywhere it appears (ruling 2):** `LEAVE IT — OR JAR IT OUT, ONLY IF IT'S NOT A WIDOW OR RECLUSE. NEVER BARE HANDS.`
 - **Hook timing (ruling 1):** in every cut the creature is on screen by 0:03, the stakes are stated by 0:03, and the payoff lands by 0:07. Jokes may start at 0:05. Timestamps are in Checks.
 - **TikTok fix, 9:28 PM ET:** T1 gets reaction beats right before and after the clean bite block (block untouched; still 13.4 s gap, flagged); T3 drops its bite block and refills with jokes; T1/T2 end on approved Part 2/Part 3 cliffhangers (next part's first line, word for word), T3 loops; frame-1 cards are PART N/3; TikToks may run 61–75 s.
+- **Final rulings, 9:40 PM ET:** T3 jar + get-it-identified gap = safety-zone exception (same terms as T1); captions carry no profanity in any form ("dang" for both damns; audio unchanged).
 - **Originality QA FIX, 9:36 PM ET (qa/ep5-house-guests-1-qa.md), with Social Studio's 9:38 PM adjustments:** long-form swears cut to two (damn, Damn); 2:56 "Rough morning.", 4:0x "…because Sauce is made of ice.", 8:50 "Classic."; S1 hook "Giant house spider in your tub? Probably stuck."; T3 stamp credit "(WSU · UC IPM)"; T3 thumbs-up gag moved off the safety lines (no hole), safety lines get silent reactions only; the −0.15 s pre-roll and its production note are removed.
 - **TikTok rulings, 9:31 PM ET:** T1 safety gap = safety-zone exception with a moving-picture reaction note; T3 drops the WSU leave-alone line, adds two short jokes; T2 opening card `PART 2 · STILL IN THE TUB`.
 - **Title answer, 9:24 PM ET:** HS35 setup + the WSU bite sentence (approved C-overlap exception), clean, own WSU card; two verdict jokes cut to fit.
@@ -499,7 +500,7 @@ Cards: "PART 1/3" (3 w → 1.0 s) · "PACIFIC NORTHWEST · GIANT HOUSE SPIDER (W
 
 **VISUAL NOTE (safety lines 51.21–64.47 s): the picture keeps moving. Silent reaction shots only: his dog, Noodle, watching from the bathmat, ears shifting; his cat, Sauce, watching from the sink, tail still. Reactions, not gags: no jokes in the lines, no on-screen text besides the existing IF BITTEN and source cards, and the pets never touch the spider (separate shots, well away from the tub).**
 
-Joke gap over the safety lines (13.4 s): **safety-zone exception (Social Studio, 11/16 9:31 PM)**. The safety wording is unchanged.
+Joke gap over the safety lines (13.39 s): **safety-zone exception (Social Studio, 11/16 9:31 PM)**. Silent visual reactions only, no spoken or card jokes; the safety wording is unchanged.
 
 ### T2 — Is it a hobo spider? (Part 2/3): 217 words / 66.94 s
 
@@ -575,6 +576,8 @@ Cards: "PART 3/3" (3 w → 1.0 s) · "LEAVE IT — OR JAR IT OUT, ONLY IF IT'S N
 **Ending:** Loop: ends on the comment question, cut tight, last frame = the frame-1 spider close-up, so it flows into "How do I get a tub spider out?". Final part, so no PART card.
 
 **VISUAL NOTE (safety lines 5.55–15.73 s: the jar method and 'get it identified'): silent visual reactions only, no gags. His dog, Noodle, watches from the bathmat; his cat, Sauce, watches from the doorway. No on-screen text besides the existing cards; the pets never touch the spider.**
+
+Joke gap over the safety lines (10.53 s): **safety-zone exception (Social Studio, 11/16 9:40 PM)**. Silent visual reactions only, no spoken or card jokes; the safety wording is unchanged.
 
 # Part 4 — Alternate punchlines (2 per key beat)
 
@@ -720,7 +723,7 @@ Method: wc() from /workspace/drafts/shorts-push-1116/.build/check.py. Long-form 
 | T2 creature 0:00, stakes by 0:03, payoff by 0:07; first line a plain question | PASS | stakes 1.54 s, payoff 4.32 s |
 | T3 61–75 s | PASS | 202 w / 62.31 s |
 | T3 ending sets up the next part (or loops) with no new fact | PASS | Loop: ends on the comment question, cut tight, last frame = the frame-1 spider close-up, so it flows into "How do I get a tub spider out?". Final part, so no PART card. |
-| T3 no joke gap over 10 s (silent gag moved off the safety lines, 9:38 PM) | FAIL | max 10.53 s over the clean jar + get-it-identified lines (5.55–15.73 s, 10.18 s of safety wording); gag at 15.93 s, after the safety lines; next largest 5.40 s |
+| T3 no joke gap over 10 s, except the jar + get-it-identified safety lines: safety-zone exception (Social Studio, 11/16 9:40 PM) | PASS | max 10.53 s over the clean jar + get-it-identified lines (5.55–15.73 s, 10.18 s of safety wording); gag at 15.93 s, after the safety lines; next largest 5.40 s |
 | T3 bite block dropped (T1 carries it) | PASS | max joke gap 10.53 s |
 | T3 no credits, no banned, no swearing, one prompt | PASS |  |
 | T3 joke gaps ≤7 s outside clean safety lines | PASS | none |
@@ -737,14 +740,14 @@ Method: wc() from /workspace/drafts/shorts-push-1116/.build/check.py. Long-form 
 
 Long-form narration: 1294 words = 8.35 min at 155 wpm (of 9:00). At 194.5 wpm it would be 6.65 min.
 
-## Swears and bleeps (spoken only; all after 0:07)
+## Swears (spoken only; all after 0:07)
 
-| Where | Time | Word | Line |
-|---|---|---|---|
-| Long-form | 1:44.3 | damn | Same order again, louder. Stay on the damn mat. |
-| Long-form | 5:02.9 | Damn | So the paint chip goes in the trash. Damn it, Meatball. |
+| Where | Time | Spoken (audio) | Burned-in caption | Line |
+|---|---|---|---|---|
+| Long-form | 1:44.3 | damn | dang | Same order again, louder. Stay on the damn mat. |
+| Long-form | 5:02.9 | Damn | Dang | So the paint chip goes in the trash. Damn it, Meatball. |
 
-None in S1, S2, S3, TikToks, title, thumbnail, cards, captions or bubbles. Burned-in captions mask every one (e.g. f***); audio bleeps the strong ones.
+None in S1, S2, S3, TikToks, title, thumbnail, cards, captions or bubbles. Burned-in captions show no profanity at all: they read "dang" for both (9:40 PM ruling); the audio stays as written.
 
 ## Joke timestamps, long-form (149 jokes)
 
@@ -944,12 +947,12 @@ None in S1, S2, S3, TikToks, title, thumbnail, cards, captions or bubbles. Burne
 ## Banned-word grep
 
 Banned (TRUE, FALSE, Myth, Believe, Cartoons, Lied, "Did you know"): **no hits** in this file.
-Watch-list (harmless, kill, safe, evil, villain, drain, plumbing, sewer, pest professional, exterminat): `\bdrains?\b` line 680 (in rules/notes only, never in spoken lines; the spoken checks above are clean).
+Watch-list (harmless, kill, safe, evil, villain, drain, plumbing, sewer, pest professional, exterminat): `\bdrains?\b` line 683 (in rules/notes only, never in spoken lines; the spoken checks above are clean).
 
 ## Conflicts and open items (flagged, not silently changed)
 
 - **Long-form stakes (9:36 PM fix).** No pre-roll: VO starts at 0.00 s and the stakes finish at 2.94 s. There is no pause before the first line to tighten, so the 8 slate words are read at ~163 wpm for that line only (8 words in 2.94 s); the rest stays 155 wpm. Flag: that is a one-line delivery change, not a pause cut.
-- **Captions vs QA C10 (WATCH, open).** QA C10 asks for zero profanity in captions, bleeped or not; ruling 3 says burned-in captions mask swears (d***). With only two mild words left, Social Studio to reconcile.
+- **Captions vs QA C10 (resolved 9:40 PM).** No profanity in any on-screen text or captions, masked forms included; captions read "dang". This matches QA C10.
 - **QA fix 1 (C6): Moondog88's written go for a spider episode is still needed** (slate flag 2). Hold the EP5 render request until then.
 - **Long-form payoff (ruling 2, applied).** The slate's 0:35 first-payoff beat now sits inside the cold open (done by 0:20), and the promise moves to 0:20–1:00. The "First answer, fast, and only for one spider in one region" lead-in is cut, and the payoff line itself carries the Pacific Northwest scope. The opening drops the second HS35 line ("not an extremely active climber"), which still lands at 2:2x and 3:4x. The slate's timed beats for 0:00–1:00 are restructured, not just retimed (Showrunner's file not edited).
 - **Title answer (ruling 3, Social Studio 9:24 PM ET, applied).** Setup: HS35 "these spiders are not aggressive" (WSU, first clause word for word, with the giant house spider / Pacific Northwest condition). Then the WSU bite sentence, word for word: "The bite of the giant house spider is not known to pose any threat to humans." with its own WSU card. Both said clean, with jokes only before ("Housekeeping…") and after ("And Noodle takes the shoe…"). **C-overlap: approved exception (Social Studio, 11/16 9:24 PM) — the only line repeating spider-ID** (s3.l8). To fit, the verdict joke "So the shoe stays retired. Full pension." and "The spider strolls off like it pays rent." are cut.
@@ -958,7 +961,7 @@ Watch-list (harmless, kill, safe, evil, villain, drain, plumbing, sewer, pest pr
 - **Title drops "Inside Noodle's Nose".** Research's 9:09 PM ruling gives the title as exactly "Is the Spider in My Bathtub Dangerous?". The Nose segment stays in the body, the thumbnail and the description.
 - **Required safety line overlaps the spider ID video.** HS64 "unusual or severe reaction → physician, hospital or poison control" is close to spider ID s7.l4. It stays, because the brief requires the if-bitten line.
 - **T1 safety block (ruled 9:31 PM).** The 13.4 s gap over the clean bite block (51.21–64.47 s, 44 words, wording unchanged) is a **safety-zone exception (Social Studio, 11/16 9:31 PM)**. The picture keeps moving with silent reaction shots of his dog, Noodle, and his cat, Sauce (reactions only, no gags, no extra on-screen text, pets never touch the spider).
-- **T3 gap (9:31 + 9:38 PM rulings) — FLAG.** The WSU leave-alone line is dropped (the long-form carries it), with its dependent joke "So, technically, it's on staff." No hole was added (9:38). The thumbs-up gag now plays at 15.93 s, just after "get it identified" ends, over the non-safety Pacific Northwest line; the jar and get-it-identified safety lines (5.55–15.73 s) carry silent visual reactions only. The shoe-pat picture gag moved 4.0 → 5.4 s (over the payoff line), and the salute and Noodle peek were re-timed to 21.0 and 24.0 s (non-safety lines). The resulting max gap is 10.53 s, because the two safety sentences alone run 10.18 s: it cannot get under 10 s without touching them. Proposal: mark it a safety-zone exception, as T1's was. Two short jokes were added after "Housekeeping" to keep T3 at 61–75 s.
+- **T3 gap (ruled 9:40 PM).** The 10.53 s gap over the jar method and get-it-identified lines (5.55–15.73 s) is a **safety-zone exception (Social Studio, 11/16 9:40 PM)**, on the same terms as T1: silent visual reactions only, no spoken or card jokes. The thumbs-up gag stays at 15.93 s, after the safety lines. The WSU leave-alone line and its "on staff" joke are dropped; two short jokes after "Housekeeping" keep T3 at 61–75 s.
 - **Shorts Editor plan notes (their file, not edited).** Our T2 opening card is now `PART 2 · STILL IN THE TUB` (ruled 9:31 PM); their cut-plan.md still says `PART 2 · CAME FOR WATER` and should be updated by them. Their recommended T2 alt (drop "The lookalikes are in the spider ID episode.") is not applied; Studio's call.
 - **Clean safety zones break the 7 s cadence (kept, ruling 4):** 6:48.9–7:13.7; 7:20.3–7:41.4; 7:47.3–8:16.0.
 - **Joke cadence vs series rule.** The slate's "no joke before 0:25" is overridden by ruling 1 (jokes from 0:05).
