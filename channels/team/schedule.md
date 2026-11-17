@@ -41,3 +41,10 @@ Always learning: every Saturday the research from Trends, Search and Retention b
 - Community (daily): first-hour comment replies in Meatball's voice; top 3 comments → Short ideas; "send yours" pin; poll results.
 - Trends + Search (daily/weekly): vidIQ outliers and keywords; topic switches allowed if the cast stays.
 - Retention (daily): scoreboard; weekly drop-off review from Studio graphs.
+
+## TikTok push (added 11/16, Moondog88: "don't leave TikTok out, that's where we can make money now")
+- TikTok gets equal priority with YouTube. Goal: Creator Rewards eligibility and earnings (videos 1 min+).
+- Shorts Editor (every episode): 2–3 TikTok-native cuts of 61–75 s, creature in frame 1, joke every 5–7 s, part-2 cliffhanger or loop ending, captions.
+- Trends (daily): TikTok outliers, trending sounds and formats; weekly Creator Rewards readout from TikTok's own pages.
+- Community (daily): TikTok comment replies, reply-with-video ideas, stitch/duet ideas.
+- Posting: 2–3 a day at 10 AM / 2 PM / 7 PM ET, at least 3 h apart.
