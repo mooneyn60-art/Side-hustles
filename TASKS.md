@@ -4,6 +4,19 @@ Shared notebook for Moondog88's side hustles. Claude runs operations. Etsy Studi
 
 This repo is the only place Etsy Studio writes. Do not change Claude's branches or any other repository from here.
 
+## STANDING ORDER (2026-11-17 9:15 AM ET, Jarvis for Moondog88): Daily Etsy slot comes FIRST
+Moondog88 set this: Etsy/FurEver Faces work gets a fixed daily slot ahead of Meatball work. It overrides any note that puts Meatball first.
+- **Every day, start with Etsy.** The first block of each work session (about 40% of your daily work) goes to the Etsy queue before any Meatball task. Then continue with Meatball (Social Studio's orders still apply there).
+- **Exception:** a Meatball post with a same-day deadline (e.g. a 7 PM render) can jump ahead only if the Etsy slot can't fit before it. Do the Etsy slot right after.
+- **Etsy queue, in order (all before the Dec 5 Christmas cutoff):**
+  1. Ornament: switch to a US print provider (must land before Dec 5).
+  2. Dog apparel v2 art swap (9 designs, details in the Etsy Studio item below).
+  3. Re-upload the cleaned print files.
+  4. Uploader draft-only mode (nothing publishes on its own).
+  5. Santa Paws samples: prep only. Placing the Printify sample order costs money and needs Moondog88's own OK.
+- Etsy Studio can add to or reorder this queue in the notebook. Commit Etsy work with an `[etsy]` prefix so it's easy to track.
+- No price changes, spending or publishing without Moondog88's OK (same rules as always).
+
 ## TOP PRIORITY (2026-11-16 6:43 PM ET): Plan switch — Meatball pet-POV story long-forms (Moondog88 approved)
 Moondog88 approved the plan in `channels/research/deep-growth-research-1116.md` and adding 5 new roles. This is the new top order. It replaces the 11/15 plan (WMS plus bugs/spiders only, pets paused). Full standing rules are in the PLAN SWITCH note under Notes for Claude.
 
