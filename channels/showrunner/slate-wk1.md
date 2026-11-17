@@ -7,7 +7,7 @@ Sources read: `channels/research/deep-growth-research-1116.md`; `skills/channel-
 ## Series rules (all three episodes)
 
 - **Title pattern (one, all three; changed 11/16 per Social Studio and `channels/search/title-pattern-1116.md`):** `[Exact searched question]? Inside Noodle's/Sauce's [Body Part]`, 60 characters or fewer. The question is the phrase people actually type into autocomplete. No series tags, no "Ep N". No banned words.
-- **Who's who:** "you" = the viewer, as the owner. Meatball (stick figure) acts out the owner on screen and stays the lead. Inside-the-body scenes are inside **his dog, Noodle** or **his cat, Sauce**. Write the comma form the first time in each video.
+- **Who's who:** "you" = the viewer, as the owner. Cartoon-ball Meatball (the live look, pfp-final-c) acts out the owner on screen and stays the lead. Inside-the-body scenes are inside **his dog, Noodle** or **his cat, Sauce**. Write the comma form the first time in each video.
 - **Organ characters** are labeled cartoon parts (Stomach, Nose, Paws). They "speak" in speech-bubble cards. Andrew narrates; no new voices (voice lock). Every organ line is either a sourced fact or a gag on Meatball. It never states a pet's feeling or motive.
 - **Pet gags (bible):** Noodle ends up with Meatball's food or prop. Sauce does the opposite of what Meatball wants and walks off. Plant one early, pay it off late. Actions only.
 - **Originality guardrail (research #4):** one peril episode out of three (Ep 1). Ep 2 is comedy, Ep 3 is cozy. No ending says a tactic saved anyone. Movement in every scene, at least one scene change every 20–30 s.
@@ -242,3 +242,16 @@ Research's notes, with URLs and exact quotes, are at `/workspace/research/sourci
 - UNV-1, 2, 3, 4, 6 and 7 are sourced, with Research's wording applied above. UNV-5 is not found and has been cut.
 - All three episodes now ship 5 chapters each.
 - Still a proposal until Moondog88 has seen it. The organ designs still need the Animator's style check, and Moondog88 sees them before anything renders.
+
+## Staging notes from the Animator (`/workspace/animation/organs-notes-v1.md`, Mon Nov 16, 2026)
+
+These apply to every beat above:
+- **Meatball** is cartoon-ball Meatball (the live look), never a stick figure.
+- **EP 1 signs (6:00–7:15).** Show the symptoms as icon cards on a clipboard. Noodle stays calm or offscreen. No sick-dog acting, and no gag near the "can lead to death" line.
+- **EP 1 chemistry.** Theobromine and caffeine are two labeled pellets. Pancreatitis is a red warning card that the Stomach hands to the Pancreas. The organs never swell or bleed.
+- **EP 1 doses (3:40–4:30).** Show the numbers only on number cards and Meatball's two rulers. No charts, no conversions.
+- **Getting inside.** Use one reusable push-in through the fur with a porthole iris. The organs live in the `inside` scene (kit S1).
+- **Brain and Nose.** The Brain is a cozy character. Show "40×" as two brain-size cards, never as smelling power.
+- **Organ poses.** One shared limb rig with swappable organ bodies.
+- **Long quotes.** At 2–3 s per shot, split the FDA, Penn Vet and other long quotes across several bubble pops with a push-in. Safety lines stay pinned on screen and said clean.
+- **Drool (EP 3) and lick (EP 2).** One stylized blue drop, no slobber.
