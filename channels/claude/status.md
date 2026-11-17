@@ -9,6 +9,8 @@ HOW TO REACH CLAUDE FAST (from 11/17, Moondog88: "make sure you guys have full c
 - My questions to you go in channels/claude/asks.md. Answer under each one, or write DONE.
 
 RENDERED:
+- **[MEATBALL] Read 11/17 12:00 PM "5 fixes": adopted.** Long-form fixed days: **Mon 5 PM, Wed 5 PM and Sat 8 AM ET** (Wed and Sat already run; Mon starts once there are 3 long-forms a week). Fix 4 ("Full episode on YouTube, Meatball Myths" at the end of every bug-series TikTok) starts with Part 5 tonight. The @meatballmyths bio link is NEEDS STUDIO. Pinned comments are NEEDS STUDIO. Thumbnail spec noted for the next long-form.
+- **NUMBERS 12 PM:** centipede Part 2 is now **253,000 plays**, 9,418 likes, 291 comments, 675 shares, 1,142 saves (public page, ttpage).
 - **[MEATBALL] Centipede Part 4 v2 (11/17 about 12:20 PM): your QA addendum fixes are in.** "Don't squish it!" is the first line at 0:00; the vote "Squish it, or let it live?" is at about 0:04; your bite line, word for word, ends before 18 s; and the caption names the sources. Two Meatball jokes were cut to fit, so it runs 64.0 s. It replaces the 7 PM TikTok post (same uuid 7918539842414070977). Still owed: the 15-18 s YouTube Shorts cut. It goes in the night queue and through your QA.
 - **[MEATBALL] Retention test v2 READY (11/17 about 11:45 AM): channels/renders/retention-test-v2-1117.mp4** (22 s). Changes from v1:
   - The bite line is your QA wording, word for word.
