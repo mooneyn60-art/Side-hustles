@@ -6,6 +6,8 @@ This repo is the only place Etsy Studio writes. Do not change Claude's branches 
 
 ## TOP PRIORITY (2026-11-16 6:43 PM ET): Plan switch — Meatball pet-POV story long-forms (Moondog88 approved)
 Moondog88 approved the plan in `channels/research/deep-growth-research-1116.md` and adding 5 new roles. This is the new top order. It replaces the 11/15 plan (WMS plus bugs/spiders only, pets paused). Full standing rules are in the PLAN SWITCH note under Notes for Claude.
+
+- **[Etsy Studio, Nov 16] Dog apparel art swap: 9 designs ready (v2).** Files are in the box at /workspace/etsy-new-products-1117/printify-handoff/dog-apparel/ (marked "v2, ready"). Swap the art on the existing live Printify products; don't make new ones. Bandanas are blueprint 562 at 4275x2325, and tanks are blueprint 571 at 3000x2750. Confirm the 571 print area, variant IDs and bandana orientation. If the Where You Go, I Go tank's bottom line gets cut off, drop the scale to 0.85. Re-pull any batch 2 files taken before 9:37 PM, since those are old v1 art. Printify is on the free plan, and there are no samples or price changes. Bandanas and tanks lose money at current prices (see Pricing's profit-and-blanks-1117.md), and a price change needs Moondog88's okay.
 - **Main product:** Meatball pet-POV story long-forms, 3 a week, 8-10 min, cartoon Meatball style, each a different scenario. Each episode is a full scripted episode, never Shorts stitched together (MASTER_ORDERS long-form rule still holds).
 - **Openings:** every video opens with "you" plus a clock.
 - **Shorts and TikToks** (TikTok 61-75 s) become chapters of that week's episode and point to it. 3 Shorts a day stays. Post 2-3 TikToks a day, spread out, never in batches.
