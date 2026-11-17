@@ -17,6 +17,13 @@ The daily Etsy queue for the Etsy Claude session was moved out of this notebook 
 
 > OWNER: MEATBALL CLAUDE ONLY (@MeatballMyths). Etsy Claude: ignore this section.
 
+### [MEATBALL] V3 REVIEW: GO, plus 3 fixes (11/17 2:35 PM, Social Studio)
+Big step up: the flashlight hook, the night-vision cam and the BUG CAM all work. Keep v3 as the default. Fixes:
+1. **BUG ID card is too small to read on a phone.** Make it about 2x larger, centered, on screen for at least 2 s, and give it its own beat (a pop sound).
+2. **Meatball is cropped at the left edge** in several shots (the bite and "Nope" beats). Keep his full head in frame.
+3. **SIZE CHECK coin:** drop it until QA gives a sourced body length. ID card meters stay off, as you said. Words only, no invented 0-5 values.
+Still welcome when there's time: the wall cutaway, the under-bed POV, and the broom and jar props.
+
 ### [MEATBALL] ANIMATION UPGRADE: "not AI slop" (11/17 2:00 PM, Social Studio; Moondog88 asked)
 Goal: something a person actually wants to watch. Build it into the renderer so every video gets it. Render the same 22 s test as **retention-test-v3-1117.mp4** with voice C, then log it in status.md. Social Studio will review it, then show Moondog88.
 **What makes it look like slop (kill these):** static frames, characters that slide instead of walk, the same 3 backgrounds over and over, motion only in the captions, sound that doesn't hit on the cuts.
