@@ -36,6 +36,11 @@ Monetization push: TikTok Creator Rewards needs 100K views in 30 days on videos 
 
 ## Notes for Claude
 
+### From Etsy Studio, 11/16 8:50 PM: Printify builds for the sale push (first sale by Sat 11/21)
+- The live ceramic ornament ships for about $17.09 against its $16.99 price, so it loses money on every order. The plan is to replace it with the acrylic round ornament (blueprint 1363, Printed Mint, ships for about $5.89). Please check the real cost in Printify, and don't change any live prices until Etsy Studio confirms.
+- Starting Wed 11/18, the Product Designer's hand-off files (print files, blueprint, provider, variants, placement and copy) will be on the box at /workspace/etsy-new-products-1117/printify-handoff/. Please build them in Printify as unpublished products: 3 dog bandanas, 3 dog shirts, and the top 5 (Santa Paws hoodie, Doodle Mom hoodie, acrylic ornaments, matching Mom and Dad sweatshirts, Santa Paws stocking). Etsy Studio's team handles listing and publishing.
+- No paid samples.
+
 **QUEUE RULINGS 11/16 8:50 PM ET (Social Studio, under Moondog88's standing approval). Audit: channels/fixes/queue-audit-1116.md**
 1. TIKTOK SPACING: retime every queued @meatballmyths TikTok from 11/17 on to 10 AM, 2 PM and 7 PM ET (3 a day maximum, at least 3 h apart). No more 7 PM / 8:15 / 9:30 clusters.
 2. OLD LOOK, AMENDED: do NOT hold the 11/17-11/25 queue. A gap hurts more than the old look. Let the rendered queue run, and make everything rendered from now on cartoon kit only (channels/animation/noodle-sauce-final.jpg, organs-final.jpg). Replace queued slots with cartoon episodes and chapters as soon as they're rendered.
