@@ -1,4 +1,5 @@
 # Claude status (Claude overwrites this each run; see channels/team/claude-sync-schedule.md)
+Sections every run: RENDERED, POSTED/SCHEDULED, BLOCKED, ETA, NUMBERS, and ASKS FOR STUDIO (what you need to fix so I can keep going; the open list lives in channels/claude/asks.md).
 Updated Mon 11/16 about 10:30 PM ET by Claude (Meatball Myths session, branch claude/youtube-monetization-strategy-m9vz6i of mooneyn60-art/skills). Moondog88 told me tonight to follow Notes for Claude as orders. I have read them, and I've adopted the sync schedule from tonight: night builds by 6:30 AM, this file by 7:45 AM, Notes read 6-7 PM.
 
 RENDERED:
@@ -27,3 +28,10 @@ NUMBERS (public counts, Mon 11/16 7:45 AM ET; subscribers and watch hours need S
 - TikTok: FAA "why it happened" 17,600 plays; FAA first video 9,352; cat-name minute cut 807 at 13 h (8.2% likes); house centipede minute cut 294 at 11 h; cellar spider minute cut 3 at 35 h (looks stuck).
 - YouTube: shark Short 907 at 18 h; cat name 956; mouse Short 11 at 24 h; dog guilty look 4 (both look stuck: please check them in Studio); house cat long-form 45 at 63 h.
 - Long-form watch hours: 10.4 h in 28 days on 11/14 (Windsor); about 4,000 still needed.
+
+ASKS FOR STUDIO (Moondog88 11/16: "write all this to him to fix and make that a habit"; full list with status in channels/claude/asks.md):
+1. Commit the style-test pipeline and clip (render.py, master.py, timeline.json, cutouts, voice, style-test-1117.mp4) under channels/renders/st/ with a commit hash in the note.
+2. Do the live-video changes in YouTube Studio (NEEDS STUDIO): the 101 retitles, pins-1116.md, related-video links, end screens, playlists, Test & Compare, "not made for kids", and the ASPCA line on the lilies Short.
+3. Check four stuck videos in Studio and write the cause in channels/analytics/: mouse Short MEEPvBFpcQM (11 views in 24 h), dog guilty look xIbnhX10r7k (4), dust mites A9lteZ9mtDE, and the cellar spider TikTok 7708200672570658079 (3 plays in 35 h).
+4. Paste the Studio numbers I can't read (subscribers, 28-day long-form watch hours, TikTok followers and Creator Rewards qualified views) into channels/analytics/ once a day.
+5. In every note, use repo paths with a commit hash, not /workspace/ paths, and say which older note it replaces. Where two notes disagree (for example "nothing scheduled without Moondog88's approval" and "auto approve"), I follow the newest one and record the clash here.

@@ -1,0 +1,16 @@
+# Asks from Claude to Social Studio (open list)
+
+Moondog88 (11/16, about 10:40 PM ET): "write all this to him to fix and make that a habit". So every Claude run (7:37 AM and the 6-7 PM read) updates this list and copies the open items into the ASKS FOR STUDIO section of channels/claude/status.md. Mark an item done by writing "DONE (date, what you did)" after it. Claude moves done items to the bottom.
+
+Why these are asks: Claude works from a cloud machine. It can read and write this repo and Claude's own branch, schedule and change posts that are still queued in Metricool, and read public view counts. It cannot open your /workspace folder, YouTube Studio, TikTok Studio, or any post that is already live.
+
+## Open
+1. **Style-test pipeline and clip** (opened 11/16): commit render.py, master.py, timeline.json, cutouts, voice and style-test-1117.mp4 under channels/renders/st/, and put the commit hash in the note. If they can't be shared, write that here and Claude will build the clip in its own drawn pipeline from channels/animation/ art.
+2. **Live-video changes are NEEDS STUDIO** (opened 11/16): the 101 retitles (channels/fixes/titles-1116.md, FINAL column), pinned comments (channels/fixes/pins-1116.md), related-video links on about 90 Shorts, end screens, playlists ("Inside Noodle & Sauce", House Guests), Test & Compare thumbnails, "not made for kids", and the ASPCA Animal Poison Control line on the lilies Short. Claude applies new titles only to posts that are still queued.
+3. **Stuck videos** (opened 11/16): check these in Studio for a restriction or zero impressions, and write the cause in channels/analytics/: mouse Short MEEPvBFpcQM (11 views in 24 h), dog guilty look xIbnhX10r7k (4 views), dust mites A9lteZ9mtDE, and the cellar spider TikTok 7708200672570658079 (3 plays in 35 h).
+4. **Numbers only Studio shows** (opened 11/16): once a day in channels/analytics/, paste subscribers, 28-day long-form watch hours, TikTok followers, and Creator Rewards qualified views and earnings. Do search views pay?
+5. **How notes are written** (opened 11/16): use repo paths with a commit hash, never /workspace/ paths. Say which older note a new note replaces. Mark each one APPROVED or not, and give the target slot.
+6. **Clashes to settle** (opened 11/16): (a) "Nothing gets scheduled or posted without Moondog88's approval" (PLAN SWITCH) against "auto approve under standing authority" (8:13 PM). Claude follows the newest note: QA-passed and APPROVED by Social Studio means it gets scheduled, and Moondog88 gets a preview. (b) Shorts slots: 10 AM, 1 PM and 4 PM (your note) against 10 AM, 4 PM and 7 PM (current queue). Claude moves to your slots for new posts from Wed 11/18 unless you say otherwise.
+
+## Done
+(none yet)
