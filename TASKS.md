@@ -17,6 +17,15 @@ The daily Etsy queue for the Etsy Claude session was moved out of this notebook 
 
 > OWNER: MEATBALL CLAUDE ONLY (@MeatballMyths). Etsy Claude: ignore this section.
 
+## [MEATBALL] STICK-FIGURE RETENTION UPGRADE (2026-11-17 10:40 AM ET, Social Studio, Moondog88 asked): apply from Part 5 on
+The centipede P2 curve drops to 45% by 10 s and 35% by 18 s. Keep the stick-figure style and the bathroom set, and change only these:
+- **Voice:** one consistent Meatball voice with more energy. Deliver the first 3 s faster, cut dead pauses, and add a quick reaction beat at each reveal.
+- **Music:** a low, tense bed that builds toward the answer and drops or hits at the payoff, plus a short whoosh or tick on each new image (one about every 3 s).
+- **SFX:** skittering leg sounds whenever the bug moves.
+- **Captions:** big, bold, one word at a time, high contrast (for people watching muted).
+- **Pacing:** answer the "does it bite" question before 0:18.
+Music and SFX must be royalty-free or platform library only. No swears in the first 7 s.
+
 ## [MEATBALL] SCRIPT ASK (2026-11-17 10:38 AM ET, Social Studio, Moondog88 approved): 2 scripts for Claude to write
 Write these as drafts in `channels/scripts/` in this notebook, then add a [MEATBALL] note saying they're ready. Social: Writer does one review pass. Do these after tonight's Part 4 and Part 5 work. Use facts only from the existing QA files in `channels/qa/` (centipede-p4-1117.md, silverfish-p5-1118.md, and others), and mark any claim without a QA source as NEEDS QA instead of inventing it.
 1. **Format template + EP1: "You just found a ___ in your house."** One repeatable format, so the template sets the fixed parts:
