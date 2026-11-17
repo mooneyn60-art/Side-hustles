@@ -84,13 +84,13 @@ Sources read: `channels/research/deep-growth-research-1116.md`; `skills/channel-
 | 0:12–0:35 | Promise: "Four body parts, one door: nose, legs, tongue, tail. And some of what you think they mean is wrong." | — |
 | 0:35–1:00 | First payoff. AKC: people have about 5–6 million scent receptors; dogs up to 100 million or more by breed; Bloodhounds 300 million. Plant: Meatball's grocery bag. | DB32 |
 | 1:00–2:20 | **Second 1: the nose.** AKC: the smelling part of a dog's brain is 40 times larger than ours (not "smells 40 times better"). Gag: Meatball's shoes become a map card of his whole day. | DB33 |
-| 2:20–3:30 | **Second 3: the jump.** Tufts: an anxious dog *may* also seem extra friendly: approaching again and again, jumping, licking faces, or acting needier. It's a "may", not a diagnosis. Meatball gets knocked onto the couch. | DL-F4; UNV-1 |
+| 2:20–3:30 | **Second 3: the jump.** Tufts: an anxious dog *may* also seem extra friendly: approaching again and again, jumping, licking faces, or acting needier. It's a "may", not a diagnosis. Meatball gets knocked onto the couch. Tip (AKC, 14 Sep 2026): when the dog jumps, calmly take your attention away, and greet him when all four paws are on the floor. No knee, no shove, no grabbing paws. | DL-F4; UNV-1 |
 | 3:30–4:15 | **Midpoint re-hook:** "Then comes the lick. And this is where most of us get it wrong." Meatball leans in for a kiss. | — |
 | 4:15–5:30 | **Twist: "dog licks are kisses."** Penn Vet: a lick isn't a kiss; it's a greeting. If the dog licks someone repeatedly, he *may* be anxious about that person or dog. Penn Vet: dogs don't kiss, and they *may* be frightened by kissing. The joke is on Meatball's pucker. | DL-F1, DL-F3 |
 | 5:30–6:30 | **His own lips: a different signal.** Penn Vet: licking his own lips, anxiety about a situation. AAHA lists lip and nose licking among common distress signs. Texas A&M: lip licking often comes with yawning, but lip-smacking can also mean a snack is expected. Payoff: Noodle ends up with Meatball's sandwich from the grocery bag. | DL-F2, F6, F7, F8 |
-| 6:30–7:30 | **The tail.** Wag direction is a lean, not a rule (MASTER_ORDERS 11/12 wording rule). Research must source it, or the beat becomes "does your dog know how long you were gone?" | UNV-2 or UNV-3 |
+| 6:30–7:30 | **The tail.** Said as a lean, not a rule. Leonetti et al. 2024 (Biology Letters, citing Quaranta 2007): dogs show a right-side wagging bias when they see their owner or a familiar person, and tail wagging is frequently associated with both positive and negative arousal. Then the length of the absence: Rehn & Keeling 2011 found more intense greeting behaviour already after 2 hours apart, in a study of 12 dogs. Never say dogs "know" how long you were gone. | UNV-2, UNV-3 |
 | 7:30–8:00 | **Sauce.** His cat, Sauce, doesn't come to the door. Sauce walks off. No cat claim. | — |
-| 8:00–8:15 | **Payoff.** Recap of the four parts. Condition kept: if the licking is repeated, Penn Vet says the dog *may* be anxious. "If you're worried about it, ask your vet." | DL-F1; UNV-4 |
+| 8:00–8:15 | **Payoff.** Recap of the four parts. Condition kept: if the licking is repeated, Penn Vet says the dog *may* be anxious. Tufts: "Dogs exhibiting frequent anxious behavior should see their veterinarian as soon as possible," and then possibly a behaviorist. Keep the word "frequent". | DL-F1; UNV-4 |
 | 8:15–8:30 | Tease EP 3 (2:56 AM, paws incoming) and the comment question: "What does your dog do in the first 10 seconds you're home?" | — |
 
 **Chapter cuts (each points to EP 2):**
@@ -100,14 +100,16 @@ Sources read: `channels/research/deep-growth-research-1116.md`; `skills/channel-
    - TikTok hook: "How many scent receptors does a dog have?" Body: DB32, DB33, the shoe-map gag.
 2. **Why does my dog jump on me when I come home?** (source 2:20–3:30)
    - Short hook: "Your dog jumps on you at the door. A vet behaviorist says that may not be pure joy." Body: DL-F4 + DL-F1.
-   - TikTok hook: "Why does my dog jump on me when I get home?" Body: DL-F4, F1, plus UNV-1 only if sourced.
+   - TikTok hook: "Why does my dog jump on me when I get home?" Body: DL-F4, F1, then the AKC four-paws tip (UNV-1).
 3. **Is my dog kissing me when he licks?** (source 4:15–5:30)
    - Short hook: "You call it a kiss. Penn Vet says your dog's lick is a greeting." Body: DL-F1 + DL-F3.
    - TikTok hook: "Do dogs kiss you when they lick you?" Body: DL-F1, F3, F4 (hedged).
 4. **Why does my dog lick his lips?** (source 5:30–6:30)
    - Short hook: "Your dog licks his own lips while staring at you. That's a different signal." Body: DL-F2 + DL-F8, with the sandwich payoff.
    - TikTok hook: "Why does my dog keep licking his lips?" Body: DL-F2, F6, F7, F8.
-5. **Which way does a happy dog wag?** (source 6:30–7:30). **Only if UNV-2 is sourced.** Otherwise EP 2 ships 4 chapters.
+5. **Why is my dog so excited when I come home?** (source 6:30–7:30). Built on UNV-3, because the episode-week Shorts can't rerun the posted tail-wag Short.
+   - Short hook: "You were only gone 2 hours. One study found dogs already greeted their owners more intensely after just 2 hours apart." Body: UNV-3 (12 dogs; never "knows") + DB32.
+   - TikTok hook: "Why is my dog so excited when I come home?" Body: UNV-3, then UNV-2 as a lean, then UNV-4 clean.
 - Pinned question (Short): "What does your dog do in the first 10 seconds you're home?"
 
 ---
@@ -126,8 +128,8 @@ Sources read: `channels/research/deep-growth-research-1116.md`; `skills/channel-
 | 3:20–4:20 | **The brain.** iCatCare reads kneading on your lap or chest as the cat linking your relationship with its mother's. Grigg: on a favorite person or bed, it's self-soothing, "almost like a sign of the bond". Said as the sources' reading, with "probably" for "your cat". | CK-F2, CK-F7 |
 | 4:20–4:45 | **Midpoint re-hook:** "So every cat does this, right? No." | — |
 | 4:45–6:00 | **Twist: "all cats knead."** iCatCare: cats grow out of it, but **a few** keep it into adulthood, especially when they're with someone they feel safe with, or on a fluffy cushion or blanket. Fluffy blanket gag: Meatball's belly is the blanket. | CK-F4 |
-| 6:00–7:00 | **The claws.** iCatCare: kneading is perfectly normal, and cats should never be punished for it, because that could break down the bond, even if the claws hurt. A claw-comfort tip only if sourced. | CK-F5; UNV-5 |
-| 7:00–7:45 | **Why 3 AM?** Cat activity at dawn and dusk; needs a source, hedged. Condition line: a sudden change in night behavior, especially in an older cat, is a reason to see a vet. Unsourced, so it's cut unless Research sources it. | UNV-6, UNV-7 |
+| 6:00–7:00 | **The claws.** iCatCare: kneading is perfectly normal, and cats should never be punished for it, because that could break down the bond, even if the claws hurt. No claw tip: UNV-5 was cut, and iCatCare says routine nail trimming isn't advisable, so we don't suggest it. | CK-F5 |
+| 7:00–7:45 | **Why 3 AM?** Cornell: cats are "naturally crepuscular, meaning that they are more active during dawn and dusk". Say "more active", never "most active". Condition line, from AAHA/AAFP: "Senior cats exhibiting new or unusual behavior should be evaluated for medical conditions." Say "new or unusual", not "sudden". No dementia claim. | UNV-6, UNV-7 |
 | 7:45–8:20 | **Payoff.** Sauce ignores the fancy bed, kneads Meatball, then walks off. His dog, Noodle, ends up asleep in the fancy bed. | — |
 | 8:20–8:45 | The clock hits 3:00 AM (callback). "Watch this next" points to EP 1 or the next slate. Comment question: "Where does your cat knead: you, a blanket, or never?" | — |
 
@@ -144,8 +146,10 @@ Sources read: `channels/research/deep-growth-research-1116.md`; `skills/channel-
    - TikTok hook: "Does kneading mean my cat loves me?" Body: CK-F2, F7, F4. Keep "almost like" and "shows that they associate", word for word; no "loves" claim in speech.
 4. **Should I stop my cat from kneading?** (source 6:00–7:00)
    - Short hook: "Your cat's claws hurt when it kneads. Here's why you shouldn't punish it." Body: CK-F5 + CK-F4.
-   - TikTok hook: "How do I stop my cat from kneading me?" Body: CK-F5, plus UNV-5 only if sourced.
-5. **Why is my cat so active at 3 AM?** (source 7:00–7:45). **Only if UNV-6/7 are sourced.**
+   - TikTok hook: "How do I stop my cat from kneading me?" Body: CK-F5 + CK-F4. No claw tip or nail trimming (UNV-5 was cut).
+5. **Why is my cat so active at 3 AM?** (source 7:00–7:45)
+   - Short hook: "It's 3 AM and your cat is wide awake. Cornell says cats are naturally more active at dawn and dusk." Body: UNV-6 + UNV-7, both clean.
+   - TikTok hook: "Why is my cat so active at night?" Body: UNV-6, then UNV-7 with its condition kept.
 - Pinned question (Short): "Where does your cat knead: you, a blanket, or never?"
 
 ---
@@ -165,7 +169,7 @@ Sources read: `channels/research/deep-growth-research-1116.md`; `skills/channel-
 | CH-F7 | 1 | Less dark chocolate is needed to pose a problem; white chocolate has almost no theobromine, but fat and sugar may lead to pancreatitis | Pack | ASPCA chocolate article |
 | CH-F8 | 1 | Cats are sensitive to theobromine; less drawn to chocolate; same advice | Pack | ASPCA |
 | CH-F9 | 1 | Methylxanthine signs incl. abnormal heart rhythm; baking chocolate and cocoa powder are the highest | Pack | ASPCA People Foods to Avoid |
-| CH-F10 | 1 | Note the amount; contact your vet or APCC (888) 426-4435 | Pack | ASPCA. Research: confirm the number, and whether a fee should be mentioned |
+| CH-F10 | 1 | Note the amount; contact your vet or APCC (888) 426-4435. Say "A consultation fee may apply." No dollar amount. | **Sourced** (live) | ASPCA APCC page |
 | CH-F11 | 1 | Merck uses mg/kg (only "different units" is said on screen) | Pack | Merck Veterinary Manual, Chocolate Toxicosis |
 | CH-F12 | 1 | Timing: FDA "a few hours" / Merck "usually 6–12 h" / UC Davis 2–24 h | Pack | FDA; Merck; UC Davis SVM |
 | CH-F13 | 1 | White chocolate "not considered toxic" (UC Davis), shown against ASPCA | Pack | UC Davis SVM |
@@ -184,13 +188,13 @@ Sources read: `channels/research/deep-growth-research-1116.md`; `skills/channel-
 | CK-F4 | 3 | Most grow out of it; a few keep it, especially when they feel safe or are on a fluffy cushion or blanket | Pack | iCatCare |
 | CK-F5 | 3 | Normal; never punish, it could break down the bond | Pack | iCatCare |
 | CK-F6/F7 | 3 | Most likely carried over from kittenhood; self-soothing; "almost like a sign of the bond" | Pack | UC Davis (Emma Grigg) |
-| UNV-1 | 2 | Any "what to do when your dog jumps" tip | **Unverified** | AKC training pages, AVSAB, or a vet-school behavior service. Cut if not found |
-| UNV-2 | 2 | Tail-wag direction (a lean, not a rule) | **Unverified here.** Research: pull the source behind the posted 11/16 tail-wag Short | Peer-reviewed study |
-| UNV-3 | 2 | Fallback: dogs greet more intensely after longer absences | **Unverified.** Candidate to check, not a citation: a study on time left alone at home and dog greeting behavior | Peer-reviewed (Applied Animal Behaviour Science or similar) |
-| UNV-4 | 2 | A "talk to your vet or a behaviorist if…" line, with its trigger | **Unverified** | AVMA / AVSAB / vet school |
-| UNV-5 | 3 | A claw-comfort tip (thick blanket, nail trims) | **Unverified** | iCatCare / AAFP / Cornell Feline Health Center |
-| UNV-6 | 3 | Cats are most active at dawn and dusk (crepuscular) | **Unverified** | iCatCare / Cornell / peer-reviewed |
-| UNV-7 | 3 | A sudden change in night behavior, especially in older cats, means see a vet (keep the condition) | **Unverified** | AAFP / Cornell / Merck Vet Manual |
+| UNV-1 | 2 | When the dog jumps, calmly take your attention away and greet when all four paws are on the floor; no knee, shove or grabbed paws | **Sourced** | AKC, 14 Sep 2026 |
+| UNV-2 | 2 | Right-side wagging bias when dogs see their owner or a familiar person; wagging goes with both positive and negative arousal (a lean, not a rule) | **Sourced as a lean.** The 2007 paper itself was blocked, so we cite the 2024 paper | Leonetti et al. 2024, Biology Letters (citing Quaranta 2007); Siniscalchi 2013 |
+| UNV-3 | 2 | "More intense greeting behaviour … already after 2 h of separation" (12 dogs); never say dogs "know" | **Sourced** | Rehn & Keeling 2011 |
+| UNV-4 | 2 | "Dogs exhibiting frequent anxious behavior should see their veterinarian as soon as possible," then maybe a behaviorist; keep "frequent" | **Sourced** | Tufts, 4 May 2023 |
+| UNV-5 | 3 | A claw-comfort tip | **Not found, cut.** iCatCare says routine nail trimming isn't advisable | — |
+| UNV-6 | 3 | Cats are "naturally crepuscular, meaning that they are more active during dawn and dusk" (not "most active") | **Sourced, hedged** | Cornell |
+| UNV-7 | 3 | "Senior cats exhibiting new or unusual behavior should be evaluated for medical conditions" (not "sudden"; no dementia claim) | **Sourced** | AAHA/AAFP |
 | Scenario | 1–3 | "10 minutes ago", "8 hours", "2:56 AM", "four minutes of sleep" | Scenario clocks, not facts | Show them as scene clocks, never as claims |
 
 No team logos, betting, invented winners or game marks appear in this slate. No computed doses: we don't turn FDA or Merck figures into a per-dog number.
@@ -230,3 +234,11 @@ Notes:
 - **EP 2:** the title now leads with the lick question, so the lick twist at 4:15 is the payoff, and it needs to arrive before about 5:00. The come-home scenario stays as the story frame.
 - **Chapter titles:** use the cut questions already written (e.g. "Why does my dog lick his lips?", "Why does my cat drool when kneading?").
 - **Weeks 2+:** pull from the top questions in the Search doc: grass, licking, chocolate, purring, dog vision.
+
+## Sourcing pass (Mon Nov 16, 2026, 7:00 PM ET)
+
+Research's notes, with URLs and exact quotes, are at `/workspace/research/sourcing-slate-wk1-1116.md`.
+- CH-F1 to CH-F14 passed a live re-read. CH-F10 now carries the fee line.
+- UNV-1, 2, 3, 4, 6 and 7 are sourced, with Research's wording applied above. UNV-5 is not found and has been cut.
+- All three episodes now ship 5 chapters each.
+- Still a proposal until Moondog88 has seen it. The organ designs still need the Animator's style check, and Moondog88 sees them before anything renders.
