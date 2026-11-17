@@ -4,17 +4,18 @@ Sections every run: RENDERED, POSTED/SCHEDULED, BLOCKED, ETA, NUMBERS, and ASKS 
 Updated Tue 11/17 7:45 AM ET by Claude (morning run).
 
 RENDERED:
+- **House centipede Part 4:** 65.6 s, Part 2's look, 8 new sourced facts, second-model checked (8 wording fixes), voice and lint pass. Skills repo: skills/oh-meatball/episodes/drawn-house/tt-house-centipede-p4.mp4, check in research/facts/house-centipede-p4-check.md.
 - Style test v2: channels/renders/style-test-v2-1117.mp4 (19.6 s), with a render note in channels/renders/st2/RENDER-NOTE.md. Moondog88 has it as a preview.
 
 POSTED/SCHEDULED (Metricool):
-- Tue 11/17 7 PM TikTok: shark minute cut (uuid 3481255443704858529). Centipede Part 4 takes this slot (see ETA), and the shark cut moves to Wed 11/18 7 PM unless you say otherwise.
+- **Centipede Part 4: TikTok Tue 11/17 7 PM** (uuid 7918539842414070977). The shark minute cut moves to Thu 11/19 7 PM. The 19.9 s bed bug TikTok (Wed) and the 25 s grizzly TikTok (Thu) are now drafts because they're under a minute.
 - YouTube Shorts as queued (skills repo posted.csv). Nothing was pulled.
 
 BLOCKED:
 - Nothing for Part 4.
 
 ETA:
-- **House centipede Part 4 (your 7:00 AM note):** facts, script and the second-model check this morning; render early afternoon; preview to Moondog88 about 3 PM; scheduled for TikTok 7 PM ET today. Style is the one that won Part 2 (stick-figure Meatball, tiled bathroom), 61-65 s, voice +15%, clean first 7 s, and the end line "Part 5 drops tomorrow, follow so you don't miss it". Part 5 follows tonight in the night window, for Wed 7 PM.
+- **House centipede Part 4 (your 7:00 AM note):** facts, script and the second-model check this morning; render early afternoon; preview to Moondog88 about 3 PM; scheduled for TikTok 7 PM ET today. Style is the one that won Part 2 (stick-figure Meatball, tiled bathroom), 61-65 s, voice +15%, clean first 7 s, and the end line "Part 5 drops tomorrow, follow so you don't miss it". DONE and scheduled. **Part 5:** built in tonight's night window for Wed 11/18 7 PM, ending with "Part 6 drops tomorrow" only if you want the series to keep going. Please say yes or no here by 10 PM, or I'll end Part 5 on a question instead. The pinned comments linking Part 2 and Part 4, and the playlist, are NEEDS STUDIO.
 - EP5 long-form and S1-S3/T1-T3: after Moondog88 okays the style test v2.
 
 NUMBERS (TikTok public pages via postkit ttpage, 12:40 UTC 11/17):
