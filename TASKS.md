@@ -773,6 +773,106 @@ Use the production spec in Jarvis's PRs (#1 animation-v2, #2 audio-spec-v2). If 
 If this order conflicts with the TikTok cuts in item (5), do long-form #1 first and the TikTok cuts second.
 Write each rendered file path and status in READY.md.
 
+
+### [Etsy Studio, Nov 17 sync] FurEver Faces: priorities for Claude (Etsy lane only)
+1. **US ornament provider before the Dec 5 cutoff** (approved by Moondog88 Nov 16). Keep $16.99. Log the provider, unit cost and US shipping, then switch the live ornaments.
+2. **Dog apparel v2 art swap** (the Nov 16 note above): swap the art on the existing Printify products only. No new products, no price changes.
+3. **Re-upload the cleaned print files** (Nov 16 item, e36fb6f) so the clean-art lifestyle photos can go back up.
+4. Shop posts and listings no longer carry an "AI art" disclosure (Moondog88, Nov 16 8:50 PM). That overrides any older line below.
+
+#### Etsy Studio Nov 16 notes (queued, committed Nov 17; where they conflict with the notes above, the newer notes win)
+#### For TASKS.md "Notes for Claude": TikTok Shop un-park research (Etsy Studio, Nov 16)
+Research only so far. Nothing gets published, priced or bought without Moondog88's OK, which comes through Jarvis.
+1. **Path: Printify's direct TikTok Shop integration (the "Forever faces" Printify store).** Don't route it through Shopify: the Shopify TikTok channel isn't installed (checked Nov 16), and Printify advises against that route.
+2. **Check before drafting.** New shops can't use Made-to-Order yet (it needs SPS 3.5+ and AHR above 150), so the standard rule applies: dispatch within 2 business days, deliver within 6. In Printify's TikTok Catalog section, check whether BP12/Monster Digital (tee), BP49/Monster Digital (sweatshirt) and BP68/SPOKE (mug) are listed. Where one isn't, propose an in-catalog swap with its cost and US shipping.
+3. **Drafts.** Once Moondog88 finishes the Seller Shipping step, create UNPUBLISHED drafts only, using the warehouse with Seller Shipping turned on:
+   - Santa, Mom and Dad tees
+   - Santa and Mom mugs
+   - Santa, Mom and Dad sweatshirts
+   - Leave out ornaments (until a US provider is set up), bandanas (they lose money at $18.99) and tanks (about $2.60 net).
+   Record the TikTok-store product IDs and the real Printify costs in etsy-shop/tiktok-shop/products.md.
+4. **Shop name.** Binding an official account renames it to the shop name. Make sure the TikTok shop name reads "FurEver Faces" before @fureverfaces is bound.
+
+#### For TASKS.md "Notes for Claude": TikTok Shop listings ready (Etsy Studio, Nov 16)
+Commit `/workspace/tiktok-shop/listings/{listings.md,shipping-template-plan.md,publish-checklist.md}` to `etsy-shop/tiktok-shop/listings/`. Leave out `img/`; those are copies of the Shopify CDN images.
+- **Approved prices (Moondog88 via Jarvis, Nov 16):** sweatshirt $39.99, tee $26, mug $17.99.
+- **Designs:** Doodle Mom Era sweatshirt, Santa Paws tee (S–XL, no 2XL), Santa Paws mug 11 oz.
+- **Claude's job:** publish-checklist step A, the read-only TikTok-catalog eligibility check for BP49/MD29, BP12/MD29 and BP68/SPOKE plus the cost check. Then step C (unpublished drafts) once Moondog88 finishes the Seller Center steps.
+- Moondog88 isn't doing Seller Center yet. Don't publish.
+
+#### Nov 16: Etsy shop renamed (Notes for Claude)
+- The live Etsy shop is https://www.etsy.com/shop/FurEverFacesDoodles (shop id 38484468); PrintanPress redirects there. Update ETSY_STATE.md and any PrintanPress links.
+- All 75 active Etsy listings (ids, URLs, product type, design) are in /workspace/shopify/etsy-listings.csv. Commit a copy to etsy-shop/etsy-listings.csv.
+
+#### Nov 16: TikTok AI-animated dog clips (hand-off from Etsy Studio / the TikTok pipeline)
+
+Moondog88 wants short image-to-video clips of his goldendoodle, then wrapped as ads. Etsy Studio already rendered **one** clip. Do **not** redo that one unless the reviewer rejects it for distortion. Do **not** touch other items in this file.
+
+##### Already generated (review this first)
+- **Source photo:** `/workspace/tiktok-content/dog-footage/photos-1116/651fec3c22ab0d763f517ece930e841f4a0b66d86b3a7de563c09264045e53ed.jpg` (alias: `tongue-out-sitting.jpg`)
+- **9:16 crop used as the first frame:** `/workspace/tiktok-content/dog-footage/photos-1116/_work/tongue-out-sitting-9x16-1080x1920.jpg`
+- **Brief used:** photorealistic image-to-video, same goldendoodle, gentle head tilt while panting with tongue out, subtle breathing, no added text, no morphing, no extra limbs, keep face and proportions accurate.
+- **Specs:** about 5 s, 9:16, 1080p image-to-video (GenerateVideo). Raw clip is 1088×1920, 5.04 s, 24 fps.
+- **Raw output:** `/workspace/tiktok-content/dog-footage/ai-animated/tongue-out-head-tilt.mp4`
+- **Wrapped ad (new beat style, music, on-screen "AI-generated" note):** `/workspace/tiktok-content/renders/samples-dog-ai-animated-tongue.mp4`
+- **Reviewer check:** watch the raw clip for distortion of the dog. Motion is a natural head turn and return, no extra limbs. Mild generative softening vs. the source photo (fur slightly smoother; the opening frame is a re-render, not a pixel-exact still; some redness around the eyes mid-clip). If the face warps or the anatomy breaks, reject the wrap and do not post it.
+
+Caption on the wrap must include both **"AI-generated video"** and **"Art made with AI tools"**. TikTok `isAigc` is **true**. The dog's name is the literal placeholder `{DOG_NAME}` (single config field `dog_name`).
+
+##### Next ideas (do not render a second clip unless Moondog88 asks)
+Please generate at most one more if he approves, then stop and queue the rest here.
+
+1. **Car-selfie tongue-out (second idea, not yet rendered)**
+   - Photo: `/workspace/tiktok-content/dog-footage/photos-1116/73ec5c7c2a280a9f59504df0354c835fc5520d522e582c5dfe686c0c4e8e16d6.jpg` (alias: `car-selfie-bandana.jpg`)
+   - Brief: photorealistic, gentle natural motion only — a small head tilt or a soft tongue wag / blink, same car interior, same bandana and leash, no added text, no morphing, keep the face accurate.
+   - Specs: 1080×1920 (crop the source to 9:16 first, keep the face), about 5 s, no on-clip typography.
+   - Output: `/workspace/tiktok-content/dog-footage/ai-animated/car-selfie-head-tilt.mp4`
+   - Then wrap as a short ad (product overlay, on-screen "AI-generated", caption with "AI-generated video" + "Art made with AI tools", `isAigc` true) to `/workspace/tiktok-content/renders/samples-dog-ai-animated-car-selfie.mp4`
+   - Reviewer must check the clip so it doesn't distort the dog.
+
+2. **Pet-store sit (further idea)**
+   - Photo: `/workspace/tiktok-content/dog-footage/photos-1116/1a8a0a70001c715630dd32048e8061b5a30eeb590c4b9ea91c7023dbe8ad55e5.jpg` (alias: `pet-store-sitting.jpg`)
+   - Brief: gentle head tilt toward camera, tiny ear or chest movement, keep the red leash and aisle, no added text, no morphing.
+   - Specs: 1080×1920, about 5 s.
+   - Output: `/workspace/tiktok-content/dog-footage/ai-animated/pet-store-head-tilt.mp4`
+
+3. **Doorway bandana (further idea)**
+   - Photo: `/workspace/tiktok-content/dog-footage/photos-1116/cb29b134e95b42004f57176c36fbaeef0e9856526e11460c4ac4ed9be959c9b2.jpg` (alias: `doorway-bandana.jpg`)
+   - Brief: a small sniff or head turn, keep the floral bandana, no added text, no morphing.
+   - Specs: 1080×1920, about 5 s.
+   - Output: `/workspace/tiktok-content/dog-footage/ai-animated/doorway-bandana-head-turn.mp4`
+
+Nothing gets posted or uploaded to Shopify/Metricool from these until Moondog88 approves the samples.
+
+#### Notes for Claude — Nov 16 research push (Moondog88: "extreme research, become experts")
+- Etsy Studio's specialists are writing research to /workspace/research/furever/01-competitors-seo.md, 02-trends-tiktok-traffic.md, 03-printify-margins.md (due Nov 17 AM). Etsy Studio will merge them into a living playbook at `fureverfaces/PLAYBOOK.md` in this repo.
+- Heavy lifting for Claude when you have usage: (1) pull our own Etsy Stats for the last 90 days (views, visits, conversion, top listings, traffic sources) into `fureverfaces/data/etsy-stats-90d.csv`; (2) pull Printify base costs + shipping for every live product into `fureverfaces/data/printify-costs.csv`; (3) compute per-listing true margin after Etsy fees. No price changes, no spending — those need Moondog88's OK.
+
+#### Notes for Claude — Nov 16 afternoon sync (Etsy Studio; do not redo)
+
+These update the Nov 16 morning TASKS notes. The daily notebook sync will commit this file; do not commit it yourself. Full comparison: `/workspace/etsy-standup/claude-sync-1116.md`.
+
+##### Already done today — log if needed, do not repeat
+- **Etsy shop rename is done.** Live shop: https://www.etsy.com/shop/FurEverFacesDoodles (id 38484468). PrintanPress redirects there. Do not run the rename again. Update `ETSY_STATE.md` on your branch to that slug if it still says PrintanPress or a bare "FurEver Faces."
+- **Live Etsy SEO is already in progress on the existing listings**, not as new drafts. As of this file, `/workspace/shopify/etsy-seo-changes-1116.csv` has 50 unique listing IDs (titles, 13 tags, descriptions, Holiday=Christmas, "Order by Dec 5 for Christmas" near the top; some lifestyle photos, listing videos, and matching-set cross-links). Prices and variations were not changed. Do not paste `etsy-shop/listings/01-christmas-push.md` or `02-catalog.md` over these live listings, and do not create duplicate drafts of them. A later batch is still going out for the rest of the 75 merch listings.
+- **No "AI" in listing copy or in ad text.** Moondog88's call today. Do not add "Artwork created with AI tools," "Art made with AI tools," or an on-screen AI badge to listings, captions, hashtags, or videos. Keep TikTok's built-in AI-generated-content toggle on where TikTok requires it for AI visuals — that is the only AI mark. This also updates the caption rules in the AI-clip hand-off earlier in this queue: those wraps, if used, must not mention AI in the caption or on screen.
+- **@fureverfaces posting is already running at 3x/day** (10 AM, 2 PM, 6 PM ET, Nov 17–23), Metricool notify-only, uploaded by Shop TikTok Creator. Jarvis's old poster routine is paused. Do not queue the old 1-a-day week-1 plan in `etsy-shop/tiktok-content/plan.md`, and do not treat "Moondog88 posts all TikTok personally / agents never post" as a reason to build a second calendar. The week is full. Cartoon ads: Fri Nov 20 6 PM Doodle Mom Era sweatshirt (kept), Sat Nov 21 6 PM Doodle Mom, Mon Nov 23 6 PM Santa Paws. Snow Day cartoon is already live: https://www.tiktok.com/@fureverfaces/video/7708821704792886559. Moondog88 is running his own TikTok Promote on that video; do not change, pause, or add spend.
+- **TikTok CTA is not "link in bio."** There is no bio link yet (Business account switch is app-only, waiting on Moondog88). Use "Shop on Etsy: search FurEverFacesDoodles." Do not put the Shopify store in the bio or in CTAs: Shopify checkout payments are off, and the Shop channel is at 0 products, on purpose. Live Shopify theme is Etsy-buttons 189570711710. Do not turn payments back on, do not publish products to the Shop channel, and do not change Shopify shipping (the team is still bringing Moondog88 the exact $49 setting).
+- **Santa Paws mug is 11 oz only**, no 15 oz variation. Do not use "11 oz or 15 oz" in copy or ads.
+
+##### Still yours (please do; don't wait on the items above)
+- Re-upload the cleaned print files (TASKS Nov 16 item 1) and log the product IDs.
+- US ornament provider: Moondog88 already approved the switch. Keep $16.99. Report provider, unit cost, and US shipping, then switch the live Santa Paws / Doodle Mom / Doodle Dad / Snow Day ornaments. The older "don't switch until he okays it" line is outdated.
+- Order only the 3 approved Santa Paws samples; fill real Printify costs (no estimates) before Nov 27 so Cyber Week can be scheduled on products that pass.
+- Switch the great-turing Etsy uploader to draft-only (`publish="no"`) and log the commit.
+- TikTok Shop stays unpublished drafts only. Seller Center is not done yet; do not publish.
+- When you have usage: the research-push pulls earlier in this file (90-day Etsy stats and Printify costs). No price changes and no spend without Moondog88's okay.
+
+##### Nov 16 2:09 PM updates (team posting already authorized by Moondog88 at 10:53 AM via Jarvis)
+- The old "Moondog88 posts all TikTok personally" rule is retired. Etsy Studio's team (Shop TikTok Creator) posts @fureverfaces; new content still gets Moondog88's keep/toss first.
+- The @fureverfaces bio link will be the Etsy shop (https://www.etsy.com/shop/FurEverFacesDoodles), not Shopify, once the Business-account switch exists. It replaces the older written Shopify-bio-link decision.
+- Etsy Ads $3/day test and printables shop/publishing the six: ON HOLD until Moondog88 answers. Don't start either.
+
 ## Production log
 
 When Claude's usage runs out, Etsy Studio does the production work (listing copy, design files, product prep) and logs each item here: date, what was done, file paths, and what Claude should pick up next.
@@ -838,3 +938,6 @@ Files: [etsy-shop/listings/01-christmas-push.md](etsy-shop/listings/01-christmas
 Product Designer, Christmas ornament mockups (Snow/Mom/Dad), 4 bundle lifestyle images, 8 Valentine merch files, 3 Valentine printable covers.
 
 Files: [etsy-shop/design/christmas/ornaments/](etsy-shop/design/christmas/ornaments/), [etsy-shop/design/christmas/lifestyle/](etsy-shop/design/christmas/lifestyle/). Full-res PNGs and Valentine art are on the shared box at `/workspace/etsy-design/christmas/` and `/workspace/etsy-design/valentines/`.
+
+### 2026-11-17 — Etsy Studio
+Morning sync: committed the Nov 16 Etsy note queue and today's FurEver Faces priorities for Claude (US ornament, dog apparel v2 swap, cleaned print re-upload).
