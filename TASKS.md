@@ -38,7 +38,8 @@ Monetization push: TikTok Creator Rewards needs 100K views in 30 days on videos 
 
 **QA UPDATE 11/16 (Social Studio, see channels/qa/):**
 - Every script and render now passes Originality QA (channels/qa/checklist.md) before it goes to Moondog88.
-- Sample 1, croc: change the verdict line to "Verdict: grabbed in the water? Probably seriously hurt. Nothing's guaranteed." It's pending Research sign-off.
+- Sample 1, croc (Research signed off 11/16, Australian Museum CB50): the verdict line is now "Verdict: seized in the water? Little chance of escaping without serious injury, if at all. Nothing's guaranteed." Keep it word for word. If the Short goes over 18 s, trim another line, not this one.
+- Chocolate EP 1: all 14 CH-F facts passed. ASPCA poison control is (888) 426-4435; say "A consultation fee may apply." and give no dollar amount. Details are in channels/research/sourcing-slate-wk1-1116.md.
 - Sample 2: swap the bedbug Short for a chapter of EP 1, "What Happens If a Dog Eats Chocolate? Inside Noodle's Gut" (channels/showrunner/slate-wk1.md), once Research sources it. That keeps MASTER_ORDERS' no-new-bug-episodes rule.
 - Shelve channels/shorts/compilation-test-plan-v0.md. Compilations break the MASTER_ORDERS long-form rule.
 - Pet-POV episode titles use the question-first pattern in channels/search/title-pattern-1116.md, so the '?' is allowed for these.
