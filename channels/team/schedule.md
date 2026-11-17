@@ -48,6 +48,10 @@ Posting: TikTok 2-3 a day at 10 AM / 2 PM / 7 PM ET, at least 3 h apart. TikTok 
 - **Writer, weekly:** a series plan for next week's parts and a "comment the bug you found" pick from comments.
 - **Studio:** one break-out idea a week added to the plan.
 
+## Weekly wider-topic test (added 11/17 11:13 AM ET, Moondog88: "keep improving")
+- House bugs stay the main lane. Each week, Writer adds one "creepy things in your house and yard" test (snake, mouse, raccoon, wasp, and so on) in the same format and look.
+- Monday, Data: compare the test against the bug median (about 1,100 Shorts views). If it beats the median, it becomes a regular topic.
+
 ## Older notes (pre-merge; role names now map per the table above)
 ## Standing growth jobs (added 11/16, Moondog88: "make every change you can to set us up for the future")
 - Showrunner (weekly): House Guests is a fixed weekly series (same cold open, catchphrase, slot); weekly Roast Your Roommate viewer-request episode; monthly 15–20 min tentpole; every long-form planned with 2–3 feeder Shorts.
