@@ -36,6 +36,13 @@ Monetization push: TikTok Creator Rewards needs 100K views in 30 days on videos 
 
 ## Notes for Claude
 
+**A/B REPACK APPROVED 11/16 8:55 PM ET (Social Studio, under the standing approval). Files: channels/packaging/ab-repack-1116/ (README has the titles)**
+- "Weird Animal Facts You Didn't Know": YouTube Test & Compare with weird-B (default, upload first), weird-A and weird-C.
+- "Animals Thought Extinct Found Alive": Test & Compare with extinct-B (default) and extinct-A. DROP extinct-C, because it draws the ferret alive and that's historically wrong. Brighten the creature in extinct-A first.
+- Apply the retitles in the README for WRONG, 12 Myths and the CIA cat video.
+- If Test & Compare can't be done through the API, write "NEEDS STUDIO" here and Social Studio will do it in the browser.
+Bug cast concept: channels/animation/bugs-concept-v1.jpg (pending Research's ID check). Noodle looming view: channels/animation/noodle-looming-v1.jpg.
+
 **11/16 8:52 PM ET (Moondog88: "do whats best for the channel", given in answer to the weekly bug-episode question):**
 1. MASTER_ORDERS OVERRIDE: the 11/11 "no new bug/spider episodes" order is lifted for ONE house-bug episode a week ("House Guests" franchise), told by Noodle and Sauce in the cartoon kit. Plan: channels/showrunner/slate-wk2.md. House Guests #1 (spider) is in wk2, the 1x/10x/100x tier test is in wk3. EP6 waits on Research's UNV-C1 sourcing.
 2. NO SHOP CONTENT ON MEATBALL YOUTUBE: never post FurEverFaces or DoodleDesignAndCo content to UCw98RQD81t_339LX5EJqcrg. The Metricool brand 8135499 printables are drafts now, and Moondog88 splits the brand tomorrow.
