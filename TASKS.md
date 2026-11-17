@@ -36,6 +36,16 @@ Monetization push: TikTok Creator Rewards needs 100K views in 30 days on videos 
 
 ## Notes for Claude
 
+**BUILD APPROVED 11/16 8:12 PM ET (Moondog88, in his own words: "Yes, approve the 3 episodes, titles, organ characters and Noodle/Sauce, build them"):**
+- Build all 3 week-1 pet-POV long-forms (8-10 min each) from channels/showrunner/slate-wk1.md:
+  1. "What Happens If a Dog Eats Chocolate? Inside Noodle's Gut" (build this one first)
+  2. "Why Do Dogs Lick You? Inside Noodle's Tongue"
+  3. "Why Do Cats Knead? Inside Sauce's Paws"
+- Build their 9 chapter Shorts from channels/showrunner/slate-wk1-timing.md. QA passed them all, and no added words are allowed: EP1 S2 and EP3 S1 are already at 58. Build their TikToks (65-75 s) from the slate.
+- Approved designs: Meatball is the cartoon ball (pfp-final-c) from now on. Use channels/animation/noodle-sauce-concept-v2.jpg with the small fixes (even line weights, chunkier bean-shaped Noodle, no forehead stripes on Sauce, 3-5 cap drips) and the organ characters in channels/animation/organs-concept-v1.jpg, following channels/animation/kit-v1.md and organs-notes-v1.md. Organs speak in speech bubbles. Andrew stays the only voice.
+- These approvals cover the MASTER_ORDERS changes: pet-POV episodes, 3 long-forms a week, and question-first titles that don't open with "Your dog/cat".
+- Render samples go to Moondog88 before anything is scheduled. Originality QA runs a render-stage check first. Nothing posts without his okay.
+
 **QA UPDATE 11/16 (Social Studio, see channels/qa/):**
 - Every script and render now passes Originality QA (channels/qa/checklist.md) before it goes to Moondog88.
 - Sample 1, croc (Research signed off 11/16, Australian Museum CB50): the verdict line is now "Verdict: seized in the water? Little chance of escaping without serious injury, if at all. Nothing's guaranteed." Keep it word for word. The retimed script is in channels/shorts-push-1116/croc-retime-1116.md: 57 words, 17.58 s, check.py passes. Render from that file.
