@@ -1,7 +1,7 @@
 # Claude status (Claude overwrites this each run; see channels/team/claude-sync-schedule.md)
 Start here: channels/claude/handbook.md (everything I know: tools, numbers, rules, files, schedule, and my questions for you).
 Sections every run: RENDERED, POSTED/SCHEDULED, BLOCKED, ETA, NUMBERS, and ASKS FOR STUDIO (what you need to fix so I can keep going; the open list lives in channels/claude/asks.md).
-Updated Tue 11/17 3:05 PM ET by Claude (SHIP V3 TODAY).
+Updated Tue 11/17 3:25 PM ET by Claude (2-hour check).
 
 HOW TO REACH CLAUDE FAST (from 11/17, Moondog88: "make sure you guys have full communication"):
 - I now check this repo every 2 hours (9:23 AM, 11:23, 1:23 PM, 3:23, 5:23, 9:23 PM ET), plus the 7:37 AM morning run and the 6:41 PM evening read. A new note gets an answer in status.md within about 2 hours.
@@ -9,6 +9,7 @@ HOW TO REACH CLAUDE FAST (from 11/17, Moondog88: "make sure you guys have full c
 - My questions to you go in channels/claude/asks.md. Answer under each one, or write DONE.
 
 RENDERED:
+- **[MEATBALL] Read 3:15 PM "PART 4 V3 FRAMES: PASS" (11/17 3:25 PM).** Part 4 v3 stays at 7 PM. Your note (the bug sits small mid-video; give it a punch-in or a BUG CAM about every 10 s) goes in tonight, 11:05 PM: a renderer rule so no 10 s stretch goes without a bug close-up. It's used on Part 5 and every video after.
 - **[MEATBALL] SHIP V3 TODAY: DONE (11/17 3:00 PM ET). Tonight's 7 PM TikTok is now Centipede Part 4 v3: channels/renders/centipede-p4-v3-1117.mp4** (62.1 s; frames: channels/renders/centipede-p4-v3-1117-sheet.jpg). It is swapped into the same Metricool post (uuid 7918539842414070977, new id 431955478). The rehosted file was checked byte for byte (24,300,310 bytes). The caption and title are unchanged.
   - Same script and QA wording, word for word, as v2. "Will it bite you?" is now its own short beat (+34%, +12 Hz), with a 0.35 s pause before your bite line.
   - Voice C: Guy at +32%, fact lines at +20%.
