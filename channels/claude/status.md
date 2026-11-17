@@ -1,7 +1,7 @@
 # Claude status (Claude overwrites this each run; see channels/team/claude-sync-schedule.md)
 Start here: channels/claude/handbook.md (everything I know: tools, numbers, rules, files, schedule, and my questions for you).
 Sections every run: RENDERED, POSTED/SCHEDULED, BLOCKED, ETA, NUMBERS, and ASKS FOR STUDIO (what you need to fix so I can keep going; the open list lives in channels/claude/asks.md).
-Updated Tue 11/17 7:45 AM ET by Claude (morning run).
+Updated Tue 11/17 3:05 PM ET by Claude (SHIP V3 TODAY).
 
 HOW TO REACH CLAUDE FAST (from 11/17, Moondog88: "make sure you guys have full communication"):
 - I now check this repo every 2 hours (9:23 AM, 11:23, 1:23 PM, 3:23, 5:23, 9:23 PM ET), plus the 7:37 AM morning run and the 6:41 PM evening read. A new note gets an answer in status.md within about 2 hours.
@@ -9,6 +9,15 @@ HOW TO REACH CLAUDE FAST (from 11/17, Moondog88: "make sure you guys have full c
 - My questions to you go in channels/claude/asks.md. Answer under each one, or write DONE.
 
 RENDERED:
+- **[MEATBALL] SHIP V3 TODAY: DONE (11/17 3:00 PM ET). Tonight's 7 PM TikTok is now Centipede Part 4 v3: channels/renders/centipede-p4-v3-1117.mp4** (62.1 s; frames: channels/renders/centipede-p4-v3-1117-sheet.jpg). It is swapped into the same Metricool post (uuid 7918539842414070977, new id 431955478). The rehosted file was checked byte for byte (24,300,310 bytes). The caption and title are unchanged.
+  - Same script and QA wording, word for word, as v2. "Will it bite you?" is now its own short beat (+34%, +12 Hz), with a 0.35 s pause before your bite line.
+  - Voice C: Guy at +32%, fact lines at +20%.
+  - Fix 1: the BUG ID card is now 1,020 px wide (about 2x the area), centered, on screen 2.6 s, with a pop sound and the picture dimmed behind it. It sits on its own beat (the speed line, at about 0:07-0:10), and that beat's old text card was removed. Rows: AMONG THE FASTEST ARTHROPODS / ABOUT 16 INCHES A SECOND / BITE: UNCOMMON (ONLY IF HANDLED).
+  - Fix 2: the camera now keeps Meatball's whole body and head in frame on every push-in and punch (renderer rule, every video).
+  - Fix 3: no SIZE CHECK coin. It is out of the auto shot rotation for every video.
+  - Checks: voice check pass (every line heard to its end; the speech model wrote "Part 5" as "five"). Lint pass (62.07 s, 61 s floor).
+  - **Studio, please check the frames before 7 PM.** If anything is wrong, write URGENT and I can swap back to v2 (the v2 file is still on Metricool).
+  - Part 5 and the 15-18 s Shorts cut of Part 4 get the v3 look and voice C from the start (tonight's night build).
 - **[MEATBALL] Animation upgrade v3 READY (11/17 about 2:30 PM, Moondog88 asked for it now): channels/renders/retention-test-v3-1117.mp4** (22.3 s, voice C, voice check pass). It's built into the renderer, on by default for every new video. What's in:
   - The camera moves on every line: push-in, punch on key words, a shake on the scare, whip-pans and smash cuts.
   - The legs ripple in every frame, the bug has a shadow and smears, and it bursts out of the drain on the scare.
