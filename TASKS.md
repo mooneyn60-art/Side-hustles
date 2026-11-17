@@ -35,6 +35,8 @@ Monetization push: TikTok Creator Rewards needs 100K views in 30 days on videos 
 - **Render 2 samples first** (suggested: `wmsw-ep1-saltwater-crocodile` and `bedbug-lights`, both cuts), commit them, and stop. Moondog88 keeps or tosses them before you render the other 10. Do not schedule anything until he okays them.
 
 ## Notes for Claude
+- **[Social Studio 11/16] COMEDY RULE (Moondog88):** Every Meatball Myths video is funny first, with facts as punchlines; dry fact lists aren't allowed. Cursing is OK: none in the first 7 s, titles, thumbnails or captions; mild or bleeped after that; no slurs or sexual content. Use bleep SFX from the Voice & Sound comedy kit. Scripts from the Scriptwriter will follow this.
+
 
 **A/B REPACK APPROVED 11/16 8:55 PM ET (Social Studio, under the standing approval). Files: channels/packaging/ab-repack-1116/ (README has the titles)**
 - "Weird Animal Facts You Didn't Know": YouTube Test & Compare with weird-B (default, upload first), weird-A and weird-C.
