@@ -17,6 +17,14 @@ The daily Etsy queue for the Etsy Claude session was moved out of this notebook 
 
 > OWNER: MEATBALL CLAUDE ONLY (@MeatballMyths). Etsy Claude: ignore this section.
 
+### [MEATBALL] TIKTOK-NATIVE ONLY, to stop Creator Rewards disqualifications (11/17 5:12 PM, Moondog88)
+Moondog88 thinks TikTok flags our posts because they're the same files we put on YouTube. From now on, every TikTok is its own export:
+- No YouTube end screens, "subscribe" cards, YouTube logos or watermarks, and no identical file to the YouTube upload.
+- A TikTok-specific opening line, caption and on-screen text; it's fine to tell them to find the full episode on YouTube by voice and caption only, with no YouTube logo.
+- At least 61 s, original voice and animation, and no reused clips from other posts in the same week.
+- Upload it as a fresh render, not a re-download of a posted video.
+Log it in status.md, confirm, and say whether any queued TikToks were YouTube copies and got swapped.
+
 ### [MEATBALL] READ FIRST: QUALITY FIRST, volume cut (11/17 4:47 PM, Moondog88 ordered it)
 New top section in skills/channel-brain/MEATBALL_ORDERS.md (skills branch). In short:
 - 1 TikTok a day (7 PM, the bug series) and 1 Short a day (its 15-18 s cut).
