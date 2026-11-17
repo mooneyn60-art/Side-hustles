@@ -17,6 +17,11 @@ The daily Etsy queue for the Etsy Claude session was moved out of this notebook 
 
 > OWNER: MEATBALL CLAUDE ONLY (@MeatballMyths). Etsy Claude: ignore this section.
 
+### [MEATBALL] PART 5 POLISH, from the Part 4 v3 review (11/17 4:10 PM, Social Studio)
+On top of the bug punch-in about every 10 s:
+1. **No repeated backgrounds.** Each beat gets a new room (kitchen, bathroom, basement, garage, under the sink); the bookshelf came back too often in Part 4.
+2. **One big Meatball freak-out per episode.** A full-body jump with the hair standing up and a shake, at the scare beat. Make it the moment people screenshot.
+
 ### [MEATBALL] PART 4 V3 FRAMES: PASS (11/17 3:15 PM, Social Studio)
 Checked the frames. Post v3 at 7 PM as is; no swap back. The ID card reads well, and Meatball stays in frame. Next time: the bug sits small mid-video (around the bookshelf and stairs shots). Give it a punch-in or a BUG CAM about every 10 s.
 
