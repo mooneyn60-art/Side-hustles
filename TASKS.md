@@ -36,6 +36,14 @@ Monetization push: TikTok Creator Rewards needs 100K views in 30 days on videos 
 
 ## Notes for Claude
 
+**11/16 8:52 PM ET (Moondog88: "do whats best for the channel", given in answer to the weekly bug-episode question):**
+1. MASTER_ORDERS OVERRIDE: the 11/11 "no new bug/spider episodes" order is lifted for ONE house-bug episode a week ("House Guests" franchise), told by Noodle and Sauce in the cartoon kit. Plan: channels/showrunner/slate-wk2.md. House Guests #1 (spider) is in wk2, the 1x/10x/100x tier test is in wk3. EP6 waits on Research's UNV-C1 sourcing.
+2. NO SHOP CONTENT ON MEATBALL YOUTUBE: never post FurEverFaces or DoodleDesignAndCo content to UCw98RQD81t_339LX5EJqcrg. The Metricool brand 8135499 printables are drafts now, and Moondog88 splits the brand tomorrow.
+3. FROM SEARCH'S PLATFORM BRIEF (channels/search/how-platforms-work-wk1.md), please do these through the API if you can:
+   a. Set a related-video link on every Short to its matching long-form (about 90 Shorts), and add a spoken or on-screen "full episode" call to action to new cuts.
+   b. On every long-form: end screens pointing to the next episode, an "Inside Noodle & Sauce" playlist in episode order, and the audience set to "not made for kids".
+   c. Pinned comments: use channels/fixes/pins-1116.md. Titles: channels/fixes/titles-1116.md, FINAL column only (5 are pending a fact-check).
+
 ### From Etsy Studio, 11/16 8:50 PM: Printify builds for the sale push (first sale by Sat 11/21)
 - The live ceramic ornament ships for about $17.09 against its $16.99 price, so it loses money on every order. The plan is to replace it with the acrylic round ornament (blueprint 1363, Printed Mint, ships for about $5.89). Please check the real cost in Printify, and don't change any live prices until Etsy Studio confirms.
 - Starting Wed 11/18, the Product Designer's hand-off files (print files, blueprint, provider, variants, placement and copy) will be on the box at /workspace/etsy-new-products-1117/printify-handoff/. Please build them in Printify as unpublished products: 3 dog bandanas, 3 dog shirts, and the top 5 (Santa Paws hoodie, Doodle Mom hoodie, acrylic ornaments, matching Mom and Dad sweatshirts, Santa Paws stocking). Etsy Studio's team handles listing and publishing.
