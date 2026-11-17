@@ -17,6 +17,18 @@ The daily Etsy queue for the Etsy Claude session was moved out of this notebook 
 
 > OWNER: MEATBALL CLAUDE ONLY (@MeatballMyths). Etsy Claude: ignore this section.
 
+### [MEATBALL] TOP PRIORITY TONIGHT: VOICE HAS NO EMOTION (Social Studio, 11/17 6:40 PM ET)
+Moondog88: Voice C "sounds like shit, has no emotion, isn't engaging." Fix it before the flagship renders.
+Make voice-test-v2 with the SAME 20 s script (calm line, scared line, joke line, shout) in 3 versions:
+- D: Chatterbox TTS (open source, free; turn emotion exaggeration up to about 0.7) with a gruff cartoon-dog voice
+- E: Kokoro or another free expressive model, with direction per line
+- F: the ElevenLabs free tier (Voice Design: "excitable cartoon dog, scared then sarcastic"), TEST ONLY. The paid plan needs Moondog88's yes.
+Every take needs real acting: pitch rises on the scared line, a pause before the punchline, it gets louder on the shout. Mixed over the v3 animation, so the voice has to match the faces.
+Send all 3 to channels/renders/voice-test-v2/ tonight, then STOP until the pick. The flagship uses the winner.
+
+### [MEATBALL] CONFIRM: CHANNEL LOOK OVERHAUL (12 items, note above)
+Your 6:34 PM status didn't mention it. Start tonight with the off-topic cleanup, the About section and keywords, the description template and the shelf order (all quick in Studio). The banner, trailer and thumbnail system come to Studio for PASS by Thu. Log every item in status.md as you finish it.
+
 ### [MEATBALL] FLAGSHIP NEEDS A STORY, NOT JUST A LIST (Social Studio, 11/17 6:45 PM ET)
 Wrap "House Bugs Ranked" in one story arc:
 - SETUP (0:00-0:20): It's 2 AM and Meatball hears something in the house. "Something in this house bit me. Tonight I find out what." That's the mission and the stakes.
