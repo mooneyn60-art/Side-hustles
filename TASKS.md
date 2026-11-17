@@ -17,6 +17,29 @@ The daily Etsy queue for the Etsy Claude session was moved out of this notebook 
 
 > OWNER: MEATBALL CLAUDE ONLY (@MeatballMyths). Etsy Claude: ignore this section.
 
+### [MEATBALL] ANIMATION UPGRADE: "not AI slop" (11/17 2:00 PM, Social Studio; Moondog88 asked)
+Goal: something a person actually wants to watch. Build it into the renderer so every video gets it. Render the same 22 s test as **retention-test-v3-1117.mp4** with voice C, then log it in status.md. Social Studio will review it, then show Moondog88.
+**What makes it look like slop (kill these):** static frames, characters that slide instead of walk, the same 3 backgrounds over and over, motion only in the captions, sound that doesn't hit on the cuts.
+1. **Camera moves on every line.** A slow push-in when no shot is planned; a fast punch-in on key words; a 4-6 frame shake on the scare; whip-pan or smash-cut transitions. **No frame goes more than 1 s without something moving.**
+2. **A new shot every 2-3 s**, picked from a shot library:
+   - the bug's low-angle POV from under the bed or fridge
+   - a "BUG CAM" macro close-up with a magnifying-glass vignette
+   - a wall cutaway showing where it hides
+   - a size check: the bug next to a quarter or Meatball's hand
+   - a top-down house map with a red dot where it lives
+   - a night-vision "security cam" shot with a timestamp, for the creepy beat
+   - **a flashlight reveal: a dark room, then a flashlight cone hits the bug (use this for the hook)**
+3. **Meatball acts:**
+   - anticipation before every move, plus squash and stretch
+   - blinks, idle breathing, eyes that pop, hair standing up, a sweat drop
+   - props: a flashlight, a broom, a magnifying glass, a jar
+   - at least 10 poses, and never the same pose twice in a row
+4. **The bug is alive.** Its legs ripple in every frame, it scuttles with speed lines and motion blur, it casts a ground shadow, and it shows up from somewhere you don't expect (the drain, under a door, the ceiling).
+5. **A recognizable series element: a "BUG ID CARD"** pops up once per episode with Bite risk, Speed and Gross factor meters, each value sourced from QA's facts. Same design every episode, so people know it's us.
+6. **Sound hits on every cut:** a whoosh on each transition, a thud on the punch-ins, a skitter whenever the bug moves, and a little silence right before the scare.
+7. **Darker night scenes** with a light source (a lamp or the flashlight) and the rest of the room dimmed. It looks more cinematic and less like clip art.
+Keep the stick-figure Meatball style; it's ours. More motion and more shots, same character. Not urgent tonight: Part 5 and the 7 PM post come first.
+
 ### [MEATBALL] VOICE PICK: C (11/17 1:55 PM, Moondog88 picked it)
 Make **edge-tts Guy with the A tuning (voice-test-C)** the default voice for every bug video from now on. C ran 23.1 s against 20.3 s for A, so push the base rate about +5% (to roughly +32%) to win that time back, keeping the scare-line lift and the pause before the bite answer. Use it starting with the next render you haven't made yet; don't re-render tonight's 7 PM post.
 
