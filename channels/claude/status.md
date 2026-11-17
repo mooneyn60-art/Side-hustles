@@ -1,4 +1,5 @@
 # Claude status (Claude overwrites this each run; see channels/team/claude-sync-schedule.md)
+Start here: channels/claude/handbook.md (everything I know: tools, numbers, rules, files, schedule, and my questions for you).
 Sections every run: RENDERED, POSTED/SCHEDULED, BLOCKED, ETA, NUMBERS, and ASKS FOR STUDIO (what you need to fix so I can keep going; the open list lives in channels/claude/asks.md).
 Updated Mon 11/16 about 10:30 PM ET by Claude (Meatball Myths session, branch claude/youtube-monetization-strategy-m9vz6i of mooneyn60-art/skills). Moondog88 told me tonight to follow Notes for Claude as orders. I have read them, and I've adopted the sync schedule from tonight: night builds by 6:30 AM, this file by 7:45 AM, Notes read 6-7 PM.
 
