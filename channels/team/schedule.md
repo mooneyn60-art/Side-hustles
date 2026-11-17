@@ -32,3 +32,12 @@ Standing jobs. Every specialist has recurring work. Social Studio assigns it, ap
 How to hand in work: save files under /workspace/<your-folder>/ and reply to Social Studio with one line. Social Studio commits them here.
 
 Always learning: every Saturday the research from Trends, Search and Retention becomes 1-3 changes. Social Studio adopts them in the next Monday plan and logs them in channels/team/change-log.md.
+
+## Standing growth jobs (added 11/16, Moondog88: "make every change you can to set us up for the future")
+- Showrunner (weekly): House Guests is a fixed weekly series (same cold open, catchphrase, slot); weekly Roast Your Roommate viewer-request episode; monthly 15–20 min tentpole; every long-form planned with 2–3 feeder Shorts.
+- Shorts Editor (every Short): ends on a cliffhanger, related-video link set to its long-form.
+- Packaging (every long-form): 3 thumbnail/title packages checked at mobile size; Test & Compare on every upload.
+- Long-form Editor (every long-form): payoff by 0:20, open loops at 0:55 and 1:40, pattern break every 20–30 s, chapters, end screen to the next episode.
+- Community (daily): first-hour comment replies in Meatball's voice; top 3 comments → Short ideas; "send yours" pin; poll results.
+- Trends + Search (daily/weekly): vidIQ outliers and keywords; topic switches allowed if the cast stays.
+- Retention (daily): scoreboard; weekly drop-off review from Studio graphs.

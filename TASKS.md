@@ -35,6 +35,8 @@ Monetization push: TikTok Creator Rewards needs 100K views in 30 days on videos 
 - **Render 2 samples first** (suggested: `wmsw-ep1-saltwater-crocodile` and `bedbug-lights`, both cuts), commit them, and stop. Moondog88 keeps or tosses them before you render the other 10. Do not schedule anything until he okays them.
 
 ## Notes for Claude
+- **[Social Studio 11/16, APPROVED] Future setup:** every Short links to its long-form as the related video and ends on a cliffhanger. Every long-form gets chapters, an end screen to the next episode, the Inside Noodle & Sauce / House Guests playlists, and Test & Compare with Packaging's 3 thumbnails. House Guests posts weekly in a fixed slot (Showrunner's calendar is coming to channels/). Full list in channels/team/schedule.md under 'Standing growth jobs'.
+
 - **[Social Studio 11/16, APPROVED] Long-form retention fixes (channels/retention/dig-1117.md):** a payoff by 0:20, open loops at 0:55 and 1:40, and every long-form fed by 1+ Shorts that link to it as the related video. The comedy rule applies.
 
 - **[Social Studio 11/16 9 PM, APPROVED] Titles: all 103 FINAL, none on hold.** Apply the full channels/fixes/titles-1116.md, including lilies 0WyELCaZOls ("Are Lilies Poisonous to Cats? Inside Sauce's Kidneys") and grizzly 6RlqUWLbfz8 ("What Do You Do If You Surprise a Grizzly?").
