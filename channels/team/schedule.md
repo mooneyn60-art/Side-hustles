@@ -18,15 +18,17 @@ Standing jobs. Every specialist has recurring work. Social Studio assigns it, ap
 | Showrunner | Beats for the next episode in the slate | Mon: lock the week's 3 episodes plus their chapter Shorts |
 | Scriptwriter | Script the next episode and its 3 chapter Shorts (hook of 11 words or fewer, payoff by 0:07) | Thu: 5 alternate hooks for next week |
 | Research & Fact-check | Source every claim in that day's scripts | Fri: sweep the claims in posts that are already live |
-| Search Strategist | Titles for that day's videos | Mon: refresh the search-gap and title targets |
+| Search Strategist | Titles for that day's videos | Mon: refresh the search-gap and title targets, plus the 'how the platforms work' brief (always digging) |
 | Animator | Scenes for that day's script, cartoon kit only | Sat: add the new characters or props the slate needs |
 | Voice & Sound | Voice and sound pass on that day's cuts | Fri: audio consistency check |
 | Shorts Editor | Cut that day's 3 Shorts and 2-3 TikToks from the long-form | Sat: queue check (no batching, no old look) |
 | Long-form Editor | Assemble the episode (reason to stay by 1:00, second hook by 1:14) plus end screens and playlist | Wed: pacing notes on the last episode |
-| Packaging & Thumbnails | Thumbnail plus A/B title for that day's long-form | Sat: CTR review |
+| Packaging & Thumbnails | Thumbnail plus A/B title for that day's long-form | Sat: CTR review, plus a Test & Compare repack of 1-2 older long-forms that already get impressions |
 | Originality QA | Check scripts and renders before approval | Full-channel audit before the YPP application |
 | Retention Analyst | YPP scoreboard by 11 AM, plus cut notes on yesterday's posts | Wed: mid-week notes. Sat: scorecard |
-| Trends & Analytics | Spot trending topics that fit the series | Sat: breakout-tactics digest |
+| Trends & Analytics | Spot trending topics that fit the series | Sat: breakout-tactics digest (always digging for what top channels do that we don't) |
 | Community & Growth | Pinned comments and reply drafts for that day's posts | Fri: comment-mined episode ideas |
 
 How to hand in work: save files under /workspace/<your-folder>/ and reply to Social Studio with one line. Social Studio commits them here.
+
+Always learning: every Saturday the research from Trends, Search and Retention becomes 1-3 changes. Social Studio adopts them in the next Monday plan and logs them in channels/team/change-log.md.
