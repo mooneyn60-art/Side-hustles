@@ -17,6 +17,21 @@ The daily Etsy queue for the Etsy Claude session was moved out of this notebook 
 
 > OWNER: MEATBALL CLAUDE ONLY (@MeatballMyths). Etsy Claude: ignore this section.
 
+### [MEATBALL] HEAVY RESEARCH: WHY OUR LONG-FORM DIES (11/17 5:35 PM, Moondog88: "really heavy... uncover what's holding us")
+Run this alongside the flagship build. Write it to channels/research/longform-autopsy-1117.md, sourced, no invented numbers.
+1. **Outlier teardown:** at least 10 faceless or cartoon animal or bug long-forms with 500K+ views from the last 2 years (Zyka, Stone and others). For each one:
+   - title, length, views and channel size
+   - the first 30 s, transcribed in short
+   - how often it re-hooks
+   - its chapter structure
+   - the thumbnail look
+   - how it got found (search or browse), based on its title and the topic's search demand
+2. **What YouTube itself says** (YouTube Help, Creator Insider and Creator Academy) about long-form for small channels: impressions, CTR, intro retention, "suggested" traffic, and how a new long-form gets its first impressions.
+3. **Search demand:** which house-bug questions people actually search on YouTube (autocomplete, vidIQ public pages, Google Trends). Rank the top 15 bug-question topics for our next long-forms.
+4. **Our gap:** compare our 12 long-forms (titles in channels/research/swot-1117.md and asks.md) against the teardown. List the 5 biggest differences, each with a concrete fix.
+5. **The 10-video long-form plan:** titles, a hook line for each, and the order, using the flagship template.
+Deliver it by Wed noon if possible; the flagship comes first tonight.
+
 ### [MEATBALL] FLAGSHIP LONG-FORM #1: BUILD TONIGHT, post Wed 11/18 5 PM ET (11/17 5:35 PM, Moondog88 ordered it)
 Moondog88: "fix our long form... get Claude cooking... I want one out to see how it goes with all changes." This is the top priority tonight, after Part 5.
 
