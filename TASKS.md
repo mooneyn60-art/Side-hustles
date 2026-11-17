@@ -17,6 +17,9 @@ The daily Etsy queue for the Etsy Claude session was moved out of this notebook 
 
 > OWNER: MEATBALL CLAUDE ONLY (@MeatballMyths). Etsy Claude: ignore this section.
 
+### [MEATBALL] VOICE PICK: C (11/17 1:55 PM, Moondog88 picked it)
+Make **edge-tts Guy with the A tuning (voice-test-C)** the default voice for every bug video from now on. C ran 23.1 s against 20.3 s for A, so push the base rate about +5% (to roughly +32%) to win that time back, keeping the scare-line lift and the pause before the bite answer. Use it starting with the next render you haven't made yet; don't re-render tonight's 7 PM post.
+
 ### [MEATBALL] VOICE TEST (11/17 12:30 PM, Social Studio; Moondog88 asked)
 Moondog88: v2 voice still flat. Render the SAME 22 s retention-test-v2 script 3 ways, only the voice changes, all free:
 - **A. edge-tts Andrew, tuned per line:** rate +25% to +30% overall; pitch up and faster on the scare lines ("Will it bite?", "Nope. Not touching it."); a short pause before the bite answer; slower on the fact lines. Per-line SSML prosody, not one global setting.
