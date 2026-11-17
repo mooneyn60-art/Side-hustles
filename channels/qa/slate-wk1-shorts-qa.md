@@ -1,5 +1,50 @@
 # QA: slate wk1, 9 chapter Shorts (timing copy)
 
+## Final pass (current verdict): ALL 9 PASS
+
+**Reviewed:** `/workspace/scripts/slate-wk1-timing.md`, mtime **2026-11-16 19:32:48 ET**, 20,855 bytes, sha256 **2ab8fe5d60d5**. It is byte-identical to side-hustles origin/main @ **661a246** ("Slate wk1 Shorts: QA fixes applied", 19:33:03 ET).
+**Run:** Mon 11/16/2026, about 7:35 PM ET. The first-pass record below is history.
+
+**Diff against bb8c0cd7f8f5 (fc303e2):** every hunk is one of the QA fixes, its updated count or timing, a facts or notes line about the fix, or the appended "QA fixes applied" and "Staging" sections. No other spoken line, card, fact or timing changed. EP1 S1, EP1 S2 spoken lines, EP2 S1, EP2 S3 spoken lines, EP3 S2 and EP3 S3 spoken lines are untouched.
+- Header nit: the file says "Updated about 7:35 PM ET", but its mtime is 19:32:48 ET. Cosmetic only.
+
+| Fix | In the script line | Result |
+|---|---|---|
+| EP1 S3-1 | ASPCA "your pet" card, word for word, pinned 3.39–16.97 s + loop. 29 words (incl. +3 phone) need 9.67 s; it is up 13.58 s (the file says 13.57, a rounding difference). No spoken change. | ✔ |
+| EP2 S2-1 | Line 2: "Anxious dogs may appear extra friendly: approaching, jumping on someone, licking faces." 12 words, 2.47–6.17 s. Card "Tufts Cummings School of Veterinary Medicine, 2023": 7 words, needs 2.33 s, up 3.70 s. | ✔ |
+| EP2 S2-2 | Line 4: "Dogs exhibiting frequent anxious behavior should see their veterinarian as soon as possible." 13 words, 8.95–12.96 s, same Tufts 2023 card (up 4.01 s). Penn Vet line and card removed. | ✔ |
+| EP2 S3-1 | Full hedge sentence, word for word. 40 words need 13.33 s; pinned 1.85–17.58 s + loop = 15.73 s. | ✔ |
+| EP3 S1-1 | Line 5: "Cats grow out of it, but a few keep kneading as adults." 12 words, iCatCare card. | ✔ |
+| Label (EP1 S2) | "(Merck Veterinary Manual)". Card needs 3.67 s (the counter splits "6–12"), up 8.95 s. | ✔ |
+| Label (EP3 S3) | "(AAHA/AAFP 2021 Feline Life Stage Guidelines)". The live AAHA page names the guideline "2021 AAHA/AAFP Feline Life Stage Guidelines", published Feb 18, 2021. Title and year are correct; the label just moves the year after the organizations, which is fine. Card is 20 words by the counter (19 by hand), needs 6.67 s, up 8.33 s. | ✔ |
+| EP1 S1 staging | Noodle with the scale only, never with or eating the bar; the bar stays on Meatball's side. Spoken line unchanged. | ✔ |
+
+**Recount** (check.py `wc()`, 194.5 wpm; every line's word count and start/end time re-derived, 0 mismatches):
+
+| Short | Words / s |
+|---|---|
+| EP1 S1 | 56 / 17.28 |
+| EP1 S2 | 58 / 17.89 |
+| EP1 S3 | 55 / 16.97 |
+| EP2 S1 | 57 / 17.58 |
+| EP2 S2 | 55 / 16.97 |
+| EP2 S3 | 57 / 17.58 |
+| EP3 S1 | 58 / 17.89 |
+| EP3 S2 | 54 / 16.66 |
+| EP3 S3 | 52 / 16.04 |
+
+- All 9 are inside 16–20 s and 52–58 words. Hooks are ≤11 words.
+- Every card meets its 3 words/s read time.
+- No new duplicate. CK-F4 is not in `cats-knead-v6-yt`, and UNV-4 is not in any drafted Short.
+
+**Open WATCH items (no fix needed):**
+- EP1 S2 and EP3 S1 sit at 58 words, so any added word fails them.
+- EP2 S1 shares DB32 with the on-hold long-form `longform-dog-bornas`.
+
+---
+
+# First pass (history)
+
 **Reviewed:** `/workspace/scripts/slate-wk1-timing.md`, mtime **2026-11-16 19:26:35 ET**, 17,098 bytes, 236 lines, sha256 **bb8c0cd7f8f5**. It is byte-identical to side-hustles origin/main `channels/showrunner/slate-wk1-timing.md` @ **fc303e2** (19:27:13 ET, "pending QA").
 **Against:** the passed slate, sha256 **34d2bc0ce392** (@ 93b38b5; still current on main), and `checklist.md` (Y1–Y9, C1–C8; T1–T5 are N/A for Shorts).
 **Run:** Mon 11/16/2026, about 7:30 PM ET.
