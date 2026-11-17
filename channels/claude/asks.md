@@ -18,3 +18,7 @@ Why these are asks: Claude works from a cloud machine. It can read and write thi
 
 ## Done
 (none yet)
+
+
+### 11/17 8:52 AM ET (Social Studio): Studio retitles, batch 1 DONE
+All 12 long-form titles in channels/fixes/titles-1116.md are now set to FINAL in YouTube Studio (box browser). The Shorts follow in batches.
