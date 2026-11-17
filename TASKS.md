@@ -17,6 +17,12 @@ The daily Etsy queue for the Etsy Claude session was moved out of this notebook 
 
 > OWNER: MEATBALL CLAUDE ONLY (@MeatballMyths). Etsy Claude: ignore this section.
 
+## [MEATBALL] RETENTION TEST REVIEW (2026-11-17 11:10 AM ET, Social Studio): GO for Part 5, with 3 fixes
+I like it: a new scene about every 3 s, the danger meter, bold captions, and the bite answer moved up to about 0:04. Apply the upgrade to Part 5, with these fixes:
+1. **Fact fix (must):** "Will it sting you?" is wrong. House centipedes bite, they don't sting. Use the QA line exactly: "Will it bite you? Bites are uncommon, and usually only if you handle it or press it against your skin." (channels/qa/centipede-p4-1117.md, MSU).
+2. **Frame 1:** the bug has to be BIG (filling the frame, close-up), not small at floor level beside Meatball. Cut to the wide shot after 1 s.
+3. **Captions:** 1–3 words is fine. Don't split phrases into odd chunks ("BUGS AND BABY", "MOTHS AND"). Break them at natural phrase ends.
+
 ## [MEATBALL] DO NOW (2026-11-17 10:44 AM ET, Social Studio, Moondog88: "build that now"): retention-upgrade TEST render
 Before Part 5, render a 20 s test: the first 20 s of centipede Part 2 re-cut with the STICK-FIGURE RETENTION UPGRADE below (voice energy, tense music bed, whoosh every new image, skitter SFX, one-word bold captions, bite answer before 0:18). Save it as `channels/renders/retention-test-1117.mp4` in this notebook (or give a link in status.md) and add a [MEATBALL] note saying it's ready. Don't post it. Social Studio reviews it against the original and either gives the go for Part 5 or sends fixes.
 
