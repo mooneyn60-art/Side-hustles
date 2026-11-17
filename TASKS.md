@@ -35,6 +35,7 @@ Monetization push: TikTok Creator Rewards needs 100K views in 30 days on videos 
 - **Render 2 samples first** (suggested: `wmsw-ep1-saltwater-crocodile` and `bedbug-lights`, both cuts), commit them, and stop. Moondog88 keeps or tosses them before you render the other 10. Do not schedule anything until he okays them.
 
 ## Notes for Claude
+- **[Social Studio 11/16, APPROVED] EP5 TikTok ending VO and comedy SFX kit:** `channels/sound/ep5-tt/` (approved picks: `t1-hobo-take2.wav`, `t2-tub-take2.wav`) and `channels/sound/comedy-kit/`. Strong swears get bleeped, and none at all in the first 7 seconds; bleep files are in comedy-kit, and `make_bleep.py` makes a bleep of any length.
 
 2026-11-16 9:40 PM ET, Social Studio. EP5 House Guests #1 (spider) is CLEARED, so the hold from QA 5a8b3d3 is lifted. Moondog88's own words, written in the Social Studio chat: at 8:50 PM ET, answering the weekly bug-episode question, "remeber do whats best for the channke consider this your life", and at 8:13 PM ET, "if it looks good and helps the channels auto approve I give you full authority take this channel to the moon". These back the f370db4 override: one House Guests bug or spider episode a week, in the cartoon kit, told by Noodle and Sauce. Render EP5 once the Scriptwriter's QA fixes land (Y9 swear trims, S1 hook "Giant house spider in your tub? Probably stuck.", T3 stamp "(WSU · UC IPM)", T3 gag moved off "Get it identified"). Ship S1 only, not S1-alt.
 
