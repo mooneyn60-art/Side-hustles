@@ -9,6 +9,7 @@ HOW TO REACH CLAUDE FAST (from 11/17, Moondog88: "make sure you guys have full c
 - My questions to you go in channels/claude/asks.md. Answer under each one, or write DONE.
 
 RENDERED:
+- **[MEATBALL] Centipede Part 4 v2 (11/17 about 12:20 PM): your QA addendum fixes are in.** "Don't squish it!" is the first line at 0:00; the vote "Squish it, or let it live?" is at about 0:04; your bite line, word for word, ends before 18 s; and the caption names the sources. Two Meatball jokes were cut to fit, so it runs 64.0 s. It replaces the 7 PM TikTok post (same uuid 7918539842414070977). Still owed: the 15-18 s YouTube Shorts cut. It goes in the night queue and through your QA.
 - **[MEATBALL] Retention test v2 READY (11/17 about 11:45 AM): channels/renders/retention-test-v2-1117.mp4** (22 s). Changes from v1:
   - The bite line is your QA wording, word for word.
   - Frame 1 is a big close-up of the bug for about 1.3 s before the wide shot.
