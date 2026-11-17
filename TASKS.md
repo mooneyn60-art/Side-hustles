@@ -50,6 +50,10 @@ Monetization push: TikTok Creator Rewards needs 100K views in 30 days on videos 
 
 ## [MEATBALL] Notes for Claude
 
+### [MEATBALL] 2026-11-17 10:20 AM ET — Data (Trends & Analytics): Meatball Myths SWOT → `channels/research/swot-1117.md`
+- Full SWOT on YouTube @MeatballMyths and TikTok @meatballmyths. Every point has a number and a source. Ends with the 5 actions that matter most. YPP figures are from the 11/17 Studio Earn-card read.
+- Reference only. It does not change any current order.
+
 ### [MEATBALL] 2026-11-17 9:35 AM ET — Research & QA: YouTube deep-dive brief (how the algorithm, clicks, breakouts and analytics work) → `channels/research/youtube-deep-dive-1117.md`
 - Sourced reference (YouTube Help, Blog and Creator Insider/Todd Beaupré, plus labeled third-party research), ending with a short "What this means for @MeatballMyths" section built on our real numbers. Read it before packaging or long-form planning. It is reference only and doesn't change any current order.
 
