@@ -11,7 +11,7 @@ New weekly series (Social Studio 11/16): one encounter Short every Wednesday at 
 
 **Animals:** EP 1 saltwater crocodile (existing pack). EP 2 hippo, EP 3 Komodo dragon, EP 4 Florida alligator: **NEW-FACT** (opened live 2026-11-16; quotes and URLs in `index.md`). None is a repeat of the posted or queued WMS (cassowary, honey badger, box jelly, moose, grizzly, shark, bison, bears vs lions, polar).
 
-## 1. wmsw-ep1-saltwater-crocodile (56 words, 17.28 s)
+## 1. wmsw-ep1-saltwater-crocodile (57 words, 17.58 s)
 
 **Title (exact series format):** Would Meatball Survive a Saltwater Crocodile?
 **Series / episode card:** Would Meatball Survive? Wednesdays · EP 1
@@ -20,23 +20,23 @@ New weekly series (Social Studio 11/16): one encounter Short every Wednesday at 
 
 **Hook (11 words, 3.39 s):** Large saltwater crocodiles can stay underwater up to an hour. You?
 
-**Line 2 window:** 3.39–6.48 s (Meatball gag, acted; Meatball hops in at ~2.3 s).
+**Line 2 window:** 3.39–5.86 s (Meatball gag, acted; Meatball hops in at ~2.3 s).
 
 **Loop sentence:** Would you wade in? And Large saltwater crocodiles can stay underwater up to an hour. You?
 
 **Open comment question (the only prompt; corner pill + pinned):** Would you wade in?
 
-**Verdict (sourced + hedged):** Verdict: in the water, probably not. Nothing's guaranteed.
+**Verdict (sourced + hedged):** Verdict: seized in the water? Little chance of escaping without serious injury, if at all. Nothing's guaranteed.
 
 **Facts:** CB27, CB28, CB42, CB50
 
 | # | Line | src | Visual / location |
 |---|---|---|---|
 | 1 | Large saltwater crocodiles can stay underwater up to an hour. You? | CB28 | Frame 0 (series open): a saltwater crocodile in close-up, eyes and nostrils just above the water, sinking; Meatball hops in small at ~2.3 s. Series stamp top-left: WOULD MEATBALL SURVIVE? WEDNESDAYS. Corner card top-right: EP 1. Card (s1-4): LARGE SALTWATER CROCODILES: UP TO 1 HOUR UNDERWATER. Tag: NT Government. (billabong) |
-| 2 | Meatball held his breath. His cat, Sauce, stopped the stopwatch. |  | Gag, acted: Meatball puffs his cheeks; Sauce paws the stopwatch button. (living room) |
-| 3 | They can attack in knee-deep water, so even wading can be dangerous. | CB27 | Knee-deep water at a river bank, a ripple. Card: CAN ATTACK IN KNEE-DEEP WATER. Tag: Parks Australia (Kakadu). (river shallows) |
+| 2 | Meatball tried. His cat, Sauce, stopped the stopwatch. |  | Gag, acted: Meatball puffs his cheeks; Sauce paws the stopwatch button. (living room) |
+| 3 | They can attack in knee-deep water. | CB27 | Knee-deep water at a river bank, a ripple. Card: CAN ATTACK IN KNEE-DEEP WATER. Tag: Parks Australia (Kakadu). (river shallows) |
 | 4 | Queensland's rule where they live: keep out of the water. | CB42 | Safety card, said clean: IN AREAS WHERE CROCODILES LIVE: KEEP OUT OF THE WATER. STAY MORE THAN 5 METRES FROM THE WATER'S EDGE. KEEP A STURDY OBJECT BETWEEN YOURSELF AND THE WATER. Tag: Queensland Government. (river bank, warning sign) |
-| 5 | Verdict: in the water, probably not. Nothing's guaranteed. | CB50 | Series close: VERDICT stamp: IN THE WATER, PROBABLY NOT / NOTHING'S GUARANTEED. Chips: HEDGED; 'A PERSON SEIZED IN THE WATER BY AN ESTUARINE CROCODILE HAS LITTLE CHANCE OF ESCAPING WITHOUT SERIOUS INJURY, IF AT ALL' (Australian Museum, CB50). EP 1 card stays top-right. (river bank) |
+| 5 | Verdict: seized in the water? Little chance of escaping without serious injury, if at all. Nothing's guaranteed. | CB50 | Series close: VERDICT stamp: SEIZED IN THE WATER? LITTLE CHANCE OF ESCAPING WITHOUT SERIOUS INJURY, IF AT ALL / NOTHING'S GUARANTEED. Chips: HEDGED; 'A PERSON SEIZED IN THE WATER BY AN ESTUARINE CROCODILE HAS LITTLE CHANCE OF ESCAPING WITHOUT SERIOUS INJURY, IF AT ALL' (Australian Museum, CB50). EP 1 card stays top-right. (river bank) |
 | 6 | Would you wade in? And |  | Back on the eyes-above-water close-up in the billabong (hook room). Corner pill: Would you wade in? |
 
 **Pinned comment / corner pill:** Would you wade into a river in crocodile country? Next Wednesday: EP 2.
