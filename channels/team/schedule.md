@@ -25,7 +25,7 @@ Mon-Sat. Specialists work only when they get a task, and skip a day when nothing
 |---|---|---|
 | Writer | Beats and script for the next episode plus 2-3 feeder Shorts and TikTok cuts; titles as search questions; pinned comment and first-hour reply drafts | Mon: lock the week's slate (House Guests weekly, Roast Your Roommate, monthly tentpole). Thu: 5 alternate hooks. Fri: comment-mined ideas |
 | Research & QA | Source every claim in that day's scripts, then run the C1-C12 originality and rules check | Fri: sweep live posts. Full-channel audit before the YPP application |
-| Art & Packaging | Scenes for that day's script (cartoon kit only); 3 thumbnails per long-form at 168 px; VO and SFX direction | Sat: new characters/props; CTR review and Test & Compare repack of 1-2 older long-forms |
+| Art & Packaging | Scenes for that day's script (TikTok/Shorts: keep the winning stick-figure style; new cartoon kit is test-only until it beats it); 3 thumbnails per long-form at 168 px; VO and SFX direction | Sat: new characters/props; CTR review and Test & Compare repack of 1-2 older long-forms |
 | Editor | Cut plans for that day's Shorts (15-20 s) and TikToks (61-75 s); long-form assembly notes (payoff by 0:20, loops at 0:55 and 1:40, end screens, chapters) | Wed: pacing notes. Sat: queue check (no repeats, no old look) |
 | Data | Scoreboard by 11 AM; vidIQ outliers and keywords; TikTok trends and Creator Rewards progress; drop-offs on yesterday's posts | Mon: search-gap refresh. Sat: breakout-tactics digest and scorecard |
 
@@ -34,6 +34,28 @@ How to hand in work: commit to this notebook (or save under /workspace/<your-fol
 Always learning: every Saturday Data's research becomes 1-3 changes. Social Studio adopts them in the next Monday plan and logs them in channels/team/change-log.md.
 
 Posting: TikTok 2-3 a day at 10 AM / 2 PM / 7 PM ET, at least 3 h apart. TikTok gets equal priority with YouTube.
+
+
+## Updates 11/17 (Moondog88: "always use the team, keep schedules up to date, don't kill usage")
+- **Style:** House centipede Part 2 (TikTok 7703357929851800862) hit 71.1K. Keep its stick-figure style for TikTok and Shorts and tweak the pacing only. The cartoon kit stays a side test until it beats this.
+- **Hit rule (daily, Data at 11 AM):** any post at 5x or more of our median gets a Part 2 brief by the Writer the same day and gets built by Claude the next day.
+- **Today 11/17:** Data runs the viral deep dive and writes channels/research/viral-centipede-1117.md by 11 AM. Claude builds centipede Part 4 for 7 PM (TASKS 4afee0d). Research & QA checks Part 4's facts by 4:30 PM.
+- **Usage:** the cutback stays on. One specialist per job, no fan-outs, and no work on quiet days.
+
+## Build the channel, not one video (added 11/17 10:40 AM ET, Moondog88: "we grow as a channel, not by 1 video")
+- **Every week:** one set format ("You just found a ___ in your house"), one numbered series ("House Guests" / centipede parts), and the same look, voice, catchphrase ("Oh, Meatball") and danger meter, so viewers know it's us within a second.
+- **Monday, Data:** weekly scorecard of long-form watch hours gained, returning viewers %, and subs per 1K views. Under 20 h a week means changing the topic or packaging.
+- **Writer, weekly:** a series plan for next week's parts and a "comment the bug you found" pick from comments.
+- **Thursday, long-form review loop (added 11/17, Moondog88: "do this regularly so we grow and don't sit still"):**
+  - **Data:** a 48-hour Studio pull on Wednesday's flagship: CTR, average % viewed, 30 s intro retention, traffic sources, and the drop-off timestamps.
+  - **Social Studio:** a frame-by-frame review of that video against those drop-offs, then a [MEATBALL] fix note to Claude.
+  - **Claude:** a teardown of 3 new outlier long-forms in our niche (structure, hook, packaging), saved to channels/research/.
+  - The fixes become renderer defaults before the next Wednesday flagship.
+- **Studio:** one break-out idea a week added to the plan.
+
+## Weekly wider-topic test (added 11/17 11:13 AM ET, Moondog88: "keep improving")
+- House bugs stay the main lane. Each week, Writer adds one "creepy things in your house and yard" test (snake, mouse, raccoon, wasp, and so on) in the same format and look.
+- Monday, Data: compare the test against the bug median (about 1,100 Shorts views). If it beats the median, it becomes a regular topic.
 
 ## Older notes (pre-merge; role names now map per the table above)
 ## Standing growth jobs (added 11/16, Moondog88: "make every change you can to set us up for the future")

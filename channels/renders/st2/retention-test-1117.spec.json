@@ -1,0 +1,101 @@
+{
+ "series": "Things Living In Your House, Part 21",
+ "sources": [
+  "Connecticut Agricultural Experiment Station, House Centipede fact sheet (K. Dugas): 15 pairs of legs; hunts cockroach nymphs, bed bugs, flies, ants, silverfish, spiders; venomous forcipules sting prey; stinging a human is very rare, only from rough handling; flees when discovered; nocturnal; https://portal.ct.gov/-/media/caes/documents/publications/fact_sheets/entomology/house_centipede_scutigera.pdf",
+  "Penn State Extension, House Centipedes: feeds on silverfish, carpet beetle larvae, cockroaches, spiders; harmless; https://extension.psu.edu/house-centipedes",
+  "Washington State University Extension PestSense, House centipede: hunts flies, cockroaches, moths at night; https://pestsense.cahnrs.wsu.edu/fact-sheet/house-centipede/"
+ ],
+ "photo_credits": [],
+ "voice": "en-US-AndrewMultilingualNeural",
+ "rate": "+18%",
+ "pitch": "+3Hz",
+ "music": "eerie",
+ "music_db": -17,
+ "captions": 104,
+ "caption_y": 1640,
+ "stage": {
+  "creature": "house_centipede",
+  "scene": "bathroom",
+  "scene_p": {
+   "time": "night"
+  },
+  "s": 0.8,
+  "actor": "house_centipede"
+ },
+ "_note": "Retention test for Social Studio (11/17): first lines of Part 2, bite answer moved to line 3, +18% voice, tense bed, whoosh on every cut, skitter on every image, bigger captions. Same checked facts and words as Part 2; no new claims.",
+ "title": "Retention test 11/17 (not for posting)",
+ "tiktok_caption": "house centipede part 2 🐛 it hunts the bed bugs and roaches in your house. Would you let it stay? 🐛 stay / 🙅 squish",
+ "beats": [
+  {
+   "m": "hook",
+   "say": "You just saw the thirty-legged bug in your bathroom.",
+   "sfx": [
+    "scratch@0.1"
+   ]
+  },
+  {
+   "scene": "basement",
+   "m": "chase",
+   "say": "Don't squish it. It's hunting.",
+   "sfx": [
+    "scratch@0.15"
+   ]
+  },
+  {
+   "scene": "kitchen",
+   "m": "fact",
+   "say": "Will it sting you? Almost never. Only if you grab it hard.",
+   "sfx": [
+    "scratch@0.15"
+   ]
+  },
+  {
+   "scene": "kitchen",
+   "m": "xray",
+   "say": "It eats bed bugs and baby cockroaches.",
+   "sfx": [
+    "scratch@0.15"
+   ]
+  },
+  {
+   "scene": "bedroom",
+   "m": "count",
+   "say": "Silverfish. Spiders. Flies.",
+   "sfx": [
+    "scratch@0.15"
+   ]
+  },
+  {
+   "m": "punch",
+   "say": "Squish it, and they all stay.",
+   "sfx": [
+    "scratch@0.15"
+   ]
+  },
+  {
+   "scene": "kitchen",
+   "m": "fact",
+   "say": "It has fifteen pairs of legs, and it uses them to chase.",
+   "sfx": [
+    "scratch@0.15"
+   ]
+  },
+  {
+   "scene": "bedroom",
+   "m": "fact",
+   "say": "It even eats moths and carpet beetle larvae.",
+   "sfx": [
+    "scratch@0.15"
+   ]
+  },
+  {
+   "scene": "basement",
+   "m": "chase",
+   "say": "It would rather run. It's one of the fastest things in your house.",
+   "sfx": [
+    "scratch@0.15"
+   ]
+  }
+ ],
+ "cut_whoosh": true
+}
