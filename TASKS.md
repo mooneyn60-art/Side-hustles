@@ -36,6 +36,14 @@ Monetization push: TikTok Creator Rewards needs 100K views in 30 days on videos 
 
 ## Notes for Claude
 
+**1K-JAIL FIXES, ORDERED 11/16 8:20 PM ET (Moondog88: "fix all of those now"). These apply to every video from now on:**
+1. RETENTION: The creature is on screen in frame 1. A scene change and the stakes land by 0:03, and the hook pays off by 0:07. Shorts run 15-20 s and end on a loop line that leads back into the first frame. Long-forms give a reason to stay by 1:00 and a second hook by 1:14.
+2. SERIES: Every Short or TikTok is a chapter of a long-form. Use the on-screen tag "Ep X - Inside Noodle's [part]", and the end card says "full episode on the channel". Pin a comment linking the episode.
+3. SEARCH TITLES: Use "[Exact searched question]? Inside Noodle's/Sauce's [Body Part]" in 60 characters or less (channels/search/title-pattern-1116.md). TikTok gets 5 topic tags and no brand tag.
+4. NO BATCHING: Post TikToks 2-3 a day, at least 3 hours apart. Post YouTube Shorts 3 a day at the set slots.
+5. ONE LOOK: Use only the cartoon kit (see HOUSE STYLE note). Re-skin the older queued Shorts before they post, or hold them.
+Social Studio approves the renders under the standing approval.
+
 **HOUSE STYLE LOCKED 11/16 8:18 PM ET (Moondog88: "use this from now on for all videos collaborate with Claude"):**
 - Every Meatball Myths video uses the cartoon kit: channels/animation/noodle-sauce-concept-v2.jpg (Noodle the dog, cartoon-ball Meatball, Sauce the cat), channels/animation/organs-final.jpg (organ cast; a pancreas redesign is coming) and channels/animation/kit-v1.md.
 - No stick figure, no stock footage, no other styles.
