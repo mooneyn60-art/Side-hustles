@@ -20,7 +20,7 @@ Written by Social: Research & QA on Tue 11/17/2026, 9:25–9:35 AM ET, for Socia
 3. **Packaging decides the click; the first seconds decide the stay.** YouTube's own A/B tool picks winners by **watch time, not CTR**. On Shorts there is no thumbnail click: the key appeal metric is "stayed to watch." [OFFICIAL, §2]
 4. **Breakouts happen when a video finds viewers beyond its core audience** who choose it and stay satisfied. CTR and average view duration usually *fall* as a video breaks out. Topic size, competition and seasonality cap reach, and old videos can come back in later waves. [OFFICIAL, §3]
 5. **Views are now an exposure count.** Since 8/24/2026, every format counts a view from the first frame (Shorts since 3/31/2025). Use **engaged views, watch time, retention vs your own similar-length videos, and stayed-to-watch**. Raw views, small-sample CTR and cross-channel "benchmarks" are mostly noise. [OFFICIAL, §4]
-6. **For us:** YPP needs **4,000 qualified long-form watch hours**, and Shorts-feed hours don't count. We are at "about 13 of 4,000," and Shorts send "at most 0.49%" of viewers to long videos. Search-first long-form house-bug episodes are the lever, Shorts are discovery, and TikTok-to-YouTube is a side bet. [OUR DATA + OUR ANALYSIS, §5]
+6. **For us:** YPP needs **4,000 qualified long-form watch hours**, and Shorts-feed hours don't count. We are at **12 qualified hours of 4,000** (YouTube Studio Earn card read 11/17, data as of Nov 12, `/workspace/research/studio-read-1117.md`; corrected 11/17 from the earlier "about 13"), and Shorts send "at most 0.49%" of viewers to long videos. Search-first long-form house-bug episodes are the lever, Shorts are discovery, and TikTok-to-YouTube is a side bet. [OUR DATA + OUR ANALYSIS, §5]
 
 ---
 
@@ -167,7 +167,7 @@ Our numbers, quoted exactly:
 
 | Number | File |
 |---|---|
-| "YouTube: no Short has passed 2,445. Shorts send at most 0.49% of their viewers to long videos. Long-form watch hours toward YPP are about 13 of 4,000." | `channels/plan/growth-and-tt-to-yt-1117.md` |
+| "YouTube: no Short has passed 2,445. Shorts send at most 0.49% of their viewers to long videos. Long-form watch hours toward YPP are about 13 of 4,000." | `channels/plan/growth-and-tt-to-yt-1117.md` (the "about 13" is superseded: the official Earn card read 11/17 shows **12** qualified watch hours, data as of Nov 12, `studio-read-1117.md`) |
 | "Best Short is 2,445 (Studio). 8 of 86 reached 1,500. 0 of 86 reached 5,038 (5x of 1,007.5)." | `channels/research/viral-centipede-1117.md` §2 |
 | "Studio's 48 h slice on our best Short: 43 views from YouTube search against 10 from the Shorts feed (n=55, `playbook-1116/analytics.md`)" | viral-centipede §2 |
 | "99.3% new viewers, 0.0% regular. 46.3% stayed and 53.7% swiped (Studio 28d)" | viral-centipede §2 |
@@ -179,7 +179,7 @@ Our numbers, quoted exactly:
 
 **Practical takeaways** (each is OUR ANALYSIS of the sources above)
 
-1. **YPP runs only through long-form watch hours.** Shorts-feed hours don't count, and "about 13 of 4,000" means long-form is the job. The Shorts route (10M qualified views in 90 days) would take roughly 9,900 Shorts at our 1,007.5 median (10,000,000 ÷ 1,007.5), and qualified views will be fewer than public views. It isn't realistic. Keep Shorts for discovery and testing ideas, and put production weight into **house-bug long-forms** (EP5 House Guests and episodes built from the Parts).
+1. **YPP runs only through long-form watch hours.** Shorts-feed hours don't count, and **12 qualified hours of 4,000** (Earn card, 11/17 read, data as of Nov 12) means long-form is the job. The Shorts route (10M qualified views in 90 days) would take roughly 9,900 Shorts at our 1,007.5 median (10,000,000 ÷ 1,007.5), and qualified views will be fewer than public views. It isn't realistic. Keep Shorts for discovery and testing ideas, and put production weight into **house-bug long-forms** (EP5 House Guests and episodes built from the Parts).
 2. **Search is our proven YouTube lane, so title for it.**
    - YouTube search ranks on title, description and content match, plus watch time *for that query*.
    - Our best Short got 43 search views against 10 from the Shorts feed, and TikTok Part 2 was 68.1% search.

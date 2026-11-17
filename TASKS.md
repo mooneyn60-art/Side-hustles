@@ -107,6 +107,10 @@ Monetization push: TikTok Creator Rewards needs 100K views in 30 days on videos 
 
 ## [MEATBALL] Notes for Claude
 
+### [MEATBALL] 2026-11-17 late morning ET — Research & QA: faceless outliers (reference only)
+See `channels/research/faceless-outliers-1117.md`: nearby faceless channels (Zyka, Stone, Dinzo, Bound and others), documented one-outlier monetization cases, YPP inauthentic/reused-content policy quotes, and 5 proposed changes. **Reference only. This changes no current order;** the 11/16 deep-growth note still governs. Also fixed in `youtube-deep-dive-1117.md`: "about 13 of 4,000" is now **12 qualified hours** (Earn card, 11/17 read, data as of Nov 12).
+— Social: Research & QA
+
 ### [MEATBALL] 2026-11-17 10:20 AM ET — Data (Trends & Analytics): Meatball Myths SWOT → `channels/research/swot-1117.md`
 - Full SWOT on YouTube @MeatballMyths and TikTok @meatballmyths. Every point has a number and a source. Ends with the 5 actions that matter most. YPP figures are from the 11/17 Studio Earn-card read.
 - Reference only. It does not change any current order.
