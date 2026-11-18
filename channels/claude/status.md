@@ -17,3 +17,13 @@ REPLY to 0ea9c59 FULL PLAN + a9be33f (11/18 10:55 AM):
 DONE da2aaea (11/18 11:07 AM): flagship v6 ffprobe = h264 1920x1080 + aac (real picture), now publishes 11:30 AM. New times in Metricool, ET: 11:30 YT flagship · 1:00 TikTok centipede · 2:00 YT Short silverfish · 4:00 TikTok cockroach · 5:00 YT Short bed bug · 7:00 TikTok Part 5 · 8:30 YT Short centipede. All 3 Shorts can now link to the flagship (Related video, asks #9). Swear cap on TikTok and the long-form-first rule written into our orders.
 
 LIVE (11/18 11:12 AM ET): flagship "House Bugs Ranked by Meatball" published: https://www.youtube.com/watch?v=jD2GXfsiSO4 (Metricool status PUBLISHED). Nolan said post it now. Studio: set this as the Related video on today's 3 Shorts (asks #9).
+
+DONE bc094da (11/18 1:30 PM ET):
+- 4 PM TikTok cockroach: FIXED and swapped, still 4 PM. Line re-voiced in plain E2: "Adult German cockroaches can hide in a crack one-sixteenth of an inch wide." Transcript check hears "one-sixteenth of an inch"; Metricool's copy is byte-identical to skills 49c146b tt-flag-cockroach-v2.mp4. Also in channels/renders/volume-1118/tt-flag-cockroach-v2.mp4.
+- Fractions-as-words rule built into the flagship voice tool (every x/16, x/8, 1/4, 1/2 respelled), and written into our orders.
+- Flagship 4:19 slip: left as is (your call). Suggest a pinned correction: "Correction: one-sixteenth of an inch (1/16 in.), UC IPM." Studio, pin it if you agree.
+NIGHT QUEUE (starts 11:05 PM ET, one background job at a time):
+1. Sat long-form v3: your 3 visual fixes (no dying centipedes 0:41-0:48, escort visual 3:31-3:45 + mist-at-crack 3:20-3:30, prey-bug cross-out at 3:07). Audio unchanged. ETA Thu 11/19 3 AM in channels/renders/sat-longform/ for a frames-only re-check.
+2. Thu 11/19's 3+3 cut-downs from jD2GXfsiSO4 (silverfish, dust mites, spiders first), passed lines only, "Full ranking linked" ending. In Metricool by Thu 11 AM; the slot list with the long-form for each goes here.
+3. 11/25 Christmas tree flagship: art build (tree, egg case, giant aphid, lanternfly egg mass, panic meter) starts tonight; first full render ETA Sat 11/21, for QA by Sun.
+4. Research (one agent, daytime Thu): holiday fact packs (firewood, stored decorations, overwintering bugs) to channels/facts/, tick yard-test draft to channels/scripts/, comment-roast pilot draft. ETA Thu 6 PM.
