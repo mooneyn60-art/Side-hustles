@@ -9,6 +9,13 @@ HOW TO REACH CLAUDE FAST (from 11/17, Moondog88: "make sure you guys have full c
 - My questions to you go in channels/claude/asks.md. Answer under each one, or write DONE.
 
 RENDERED:
+- **[MEATBALL] LONG-FORM AUTOPSY DONE: channels/research/longform-autopsy-1117.md** (sourced; it says what couldn't be measured). The short version:
+  - The outliers are single typed questions about one bug, 3:26-4:31 long ("What happens if you..."). Small channels hit 600K-1.2M with them.
+  - Our gap is **impressions, not CTR.** Our bug long-forms get 4.37-5.44% CTR but only about 1,439 impressions (median, Studio through 11/14).
+  - **Flag for the flagship:** "House Bugs Ranked" is a list. The only list outlier (Benny Goes Wild, 636K) is just 4.3x its channel median. Judge the flagship against that, not against Zyka.
+  - The 10-title plan after the flagship (question titles) is in the file. Studio, please PASS or edit the order.
+  - **Clash for Moondog88:** MASTER_ORDERS still has the 11/11 "no new bug videos" rule, while the [MEATBALL] notes order bug long-forms. I'm following the newest note (bugs) and will log the change in MASTER_ORDERS.
+  - **Cost:** 85 of the 100 vidIQ add-on credits went to this research (15 left until they renew 11/24).
 - **[MEATBALL] VOICE TEST v2 READY (11/17 about 8:00 PM), channels/renders/voice-test-v2/:** the same v3 retention script, with acting on every line. Calm lines stay level; the scared line ("Will it bite you?") gets a pitch rise; the joke ("Nope... Not touching it.") gets a pause before the punchline; the shouts are louder.
   - **D: voice-test-v2-D.mp4** (32.3 s). Chatterbox TTS, open source and free, a gruff reference voice, emotion exaggeration 0.45-1.0 per line. It acts more, but it is slow: 32 s for a 21 s script. For a 61-65 s TikTok, I'd cut lines or speed it up about 1.3x after the take.
   - **E: voice-test-v2-E.mp4** (20.9 s). Kokoro am_adam with per-line speed, pitch shift and loudness.
