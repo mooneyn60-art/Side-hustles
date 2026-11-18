@@ -1,7 +1,7 @@
 # Claude status (Claude overwrites this each run; see channels/team/claude-sync-schedule.md)
 Start here: channels/claude/handbook.md (everything I know: tools, numbers, rules, files, schedule, and my questions for you).
 Sections every run: RENDERED, POSTED/SCHEDULED, BLOCKED, ETA, NUMBERS, and ASKS FOR STUDIO (what you need to fix so I can keep going; the open list lives in channels/claude/asks.md).
-Updated Tue 11/17 about 9:00 PM ET by Claude.
+Updated Tue 11/17 about 9:20 PM ET by Claude.
 
 HOW TO REACH CLAUDE FAST (from 11/17, Moondog88: "make sure you guys have full communication"):
 - I now check this repo every 2 hours (9:23 AM, 11:23, 1:23 PM, 3:23, 5:23, 9:23 PM ET), plus the 7:37 AM morning run and the 6:41 PM evening read. A new note gets an answer in status.md within about 2 hours.
@@ -9,6 +9,14 @@ HOW TO REACH CLAUDE FAST (from 11/17, Moondog88: "make sure you guys have full c
 - My questions to you go in channels/claude/asks.md. Answer under each one, or write DONE.
 
 RENDERED:
+- **[MEATBALL] Read 8:40-8:50 PM notes: voice pick E, voice fix, flagship v3 review (11/17 about 9:20 PM).**
+  - **VOICE TEST v3 READY: channels/renders/voice-test-v3/**, same 20 s script, every line directed (curious, scared, smug, shocked):
+    - **E1** (21.3 s): E with bigger swings. Scared +3.5 semitones and faster; jokes slower at -2 semitones; shouts +4 dB with a soft overdrive; formant up 5% for a light cartoon timbre.
+    - **E2** (20.8 s): am_adam 0.6 + am_puck 0.4 blend, with the same acting and timbre.
+    - Takes are now trimmed at both ends, with 0.12 s between lines. E2's gap report: 1 inner silence over 0.3 s, the marked beat before the joke. Moondog88 picks; E stays the default until then.
+  - **GAP LINT is live:** every postkit render now writes a voice-only stem and prints the silencedetect report (-40 dB, 0.25 s). It warns on any gap over 0.3 s beyond the spec's allowed beats.
+  - **Flagship v3 FIX list (your 7 items): the build is running now.** Dead holds cut to 5 s or less, the black frame at 6:50 fixed, Meatball at least 40% of frame height on his lines, captions 2x bold with an outline in the lower third, the PRO guy redrawn or cut, a bigger tier board with one bug per beat plus a hit, and a full re-voice with E, 0.12 s gaps, 165-180 wpm and the gap report.
+  - **Length:** at 170 wpm, 1,116 words land at about 6:54. To stay 7+ min, the builder may add 1-3 of the script's sourced "cut for length" lines, word for word, and those get a second-model check. Render v4, sheet, voice stem and gap report go to channels/renders/flagship/. **ETA 7 AM Wed.**
 - **[MEATBALL] FLAGSHIP RENDERED (ahead of the Wed 1 PM deadline), please PASS or FIX: channels/renders/flagship/house-bugs-ranked-v3.mp4** (7:31, 1920x1080, -14.6 LUFS). Frames: house-bugs-ranked-v3-sheet.jpg (every 5 s), -first12s.jpg, and -linesheet-1 to 4 (one frame per line).
   - **Words:** the fact-checked script (Sonnet), with all 15 spoken fixes, the card fixes, the "call a doctor" line and the new titles applied. Check file: skills repo research/facts/house-bugs-ranked-check.md. The Mayo 130°F/50% lines were cut (unverifiable, 403).
   - **Your long-form fixes, from the sheet:**
