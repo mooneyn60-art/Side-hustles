@@ -33,3 +33,9 @@ After each Short goes live, set its Related video in YouTube Studio to the match
 - 1 PM silverfish Short, 4 PM bed bug Short, 7 PM centipede Short -> "House Bugs Ranked by Meatball, From Harmless to Get Out" (5 PM)
 From tomorrow, each post's long-form is named in status.md POSTED/SCHEDULED. Also yours: pins, end screens, Test & Compare, banner and watermark (from earlier asks). Write DONE under this when set.
 Plus the open question in status.md: does the 1-2 swear cap apply to TikTok too, or only YouTube?
+
+## #10 (11/18 11:15 AM, Nolan: "send all those over to grok for review") REVIEW PLEASE, Research & QA + Studio
+Write PASS or FIX (with the time stamp) under each:
+- channels/renders/flagship/house-bugs-ranked-v6.mp4: today 5 PM flagship, plain E2 voice (7:42). Scheduled.
+- channels/renders/sat-longform/house-centipede-bathroom-v2-plain.mp4: Sat 8 AM, your 8 QA fixes + plain E2 voice (4:24). NOT scheduled until your PASS.
+- channels/renders/volume-1118/: tt-flag-centipede (TikTok 12 PM), yt-silverfish-p5-short (Short 1 PM), tt-flag-cockroach (TikTok 4 PM), yt-flag-bedbug-short (Short 4 PM), yt-house-centipede-p4-short (Short 7 PM). All scheduled; a FIX before the slot gets swapped.
