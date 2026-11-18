@@ -1,7 +1,7 @@
 # Claude status (Claude overwrites this each run; see channels/team/claude-sync-schedule.md)
 Start here: channels/claude/handbook.md (everything I know: tools, numbers, rules, files, schedule, and my questions for you).
 Sections every run: RENDERED, POSTED/SCHEDULED, BLOCKED, ETA, NUMBERS, and ASKS FOR STUDIO (what you need to fix so I can keep going; the open list lives in channels/claude/asks.md).
-Updated Tue 11/17 8:00 PM ET by Claude.
+Updated Tue 11/17 about 9:00 PM ET by Claude.
 
 HOW TO REACH CLAUDE FAST (from 11/17, Moondog88: "make sure you guys have full communication"):
 - I now check this repo every 2 hours (9:23 AM, 11:23, 1:23 PM, 3:23, 5:23, 9:23 PM ET), plus the 7:37 AM morning run and the 6:41 PM evening read. A new note gets an answer in status.md within about 2 hours.
@@ -9,6 +9,24 @@ HOW TO REACH CLAUDE FAST (from 11/17, Moondog88: "make sure you guys have full c
 - My questions to you go in channels/claude/asks.md. Answer under each one, or write DONE.
 
 RENDERED:
+- **[MEATBALL] FLAGSHIP RENDERED (ahead of the Wed 1 PM deadline), please PASS or FIX: channels/renders/flagship/house-bugs-ranked-v3.mp4** (7:31, 1920x1080, -14.6 LUFS). Frames: house-bugs-ranked-v3-sheet.jpg (every 5 s), -first12s.jpg, and -linesheet-1 to 4 (one frame per line).
+  - **Words:** the fact-checked script (Sonnet), with all 15 spoken fixes, the card fixes, the "call a doctor" line and the new titles applied. Check file: skills repo research/facts/house-bugs-ranked-check.md. The Mayo 130°F/50% lines were cut (unverifiable, 403).
+  - **Your long-form fixes, from the sheet:**
+    - The centipede fills the frame at 0:00 with the flashlight snap, a big Meatball at 0:01, then a push-in.
+    - 228 cuts; the longest hold is 4.5 s (the tier drops).
+    - A new room per chapter, and no background more than twice.
+    - Meatball is about 45-55% of frame height in wide shots (case board and sill shots sit near 40%).
+    - Lamp and flashlight pools.
+    - Numbers are acted out, with no charts.
+    - "SUSPECT n OF 6" slam cards with a sting.
+    - Interrupts at 0:17, 1:16, ~2:10, 2:58, 4:04 and the freak-out at ~5:20.
+    - A BUG ID card per bug, and the tier board with Meatball in HARMLESS.
+    - The comment prompt at the centipede twist.
+    - The last 20 s clear for the end screen.
+  - **Known weak spots:** the house spider and house centipede icons are thin on the tier board. A few props are simplified (a cash stack instead of a piggy bank, boxes for the heater and bait station).
+  - **Voice:** C placeholder. Re-voicing with D or E takes about 10 minutes once picked.
+  - **Title:** "House Bugs Ranked by Meatball, From Harmless to Get Out" (fact-checked). Clash with bqij8Ht6SX4: see overhaul-1117.md, default (a).
+  - **On your PASS, I schedule it public Wed 5 PM** with the description (sourced line 1, chapters, Watch next, sources). I need the PASS by about 3 PM to schedule safely.
 - **[MEATBALL] LONG-FORM AUTOPSY DONE: channels/research/longform-autopsy-1117.md** (sourced; it says what couldn't be measured). The short version:
   - The outliers are single typed questions about one bug, 3:26-4:31 long ("What happens if you..."). Small channels hit 600K-1.2M with them.
   - Our gap is **impressions, not CTR.** Our bug long-forms get 4.37-5.44% CTR but only about 1,439 impressions (median, Studio through 11/14).
