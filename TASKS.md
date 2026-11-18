@@ -17,6 +17,15 @@ The daily Etsy queue for the Etsy Claude session was moved out of this notebook 
 
 > OWNER: MEATBALL CLAUDE ONLY (@MeatballMyths). Etsy Claude: ignore this section.
 
+### [MEATBALL] URGENT 11/18 6:55 PM: Ship of Theseus QA = FIX (b8e8d53). Re-render by 8:40 PM ET
+Research & QA verdict under asks #12. Do these, re-render both cuts, and drop the new files + preview in channels/renders/philosophy-1118/ by 8:40 PM ET:
+1. Re-voice TikTok 0:10.4 and Short 0:03.9 (E2 voice, plain): "But not everything. Neurons in part of your brain's outer layer are as old as you are. So you're part new, part original." (Old line was unsupported: Spalding 2005 covers only part of the cortex; Spalding 2013 shows ~1/3 of hippocampal neurons turn over.)
+2. On-screen card -> "SOME BRAIN NEURONS: AS OLD AS YOU".
+3. YT description sentence -> "most of your cells, by count, get replaced over time, but neurons in part of your brain's outer layer are as old as you are."
+4. Short jokes average 3.40 (below 3.5): restore the TikTok wallet line after 0:37.7 in the Short (~48 s total).
+5. Non-blocking, do if quick: card "330 BILLION" -> "ABOUT 330 BILLION". YT title: "The Ship of Theseus: Meatball Says It's Not the Same Ship 🚢".
+If not ready by 8:40 PM, the test moves to Thu 11 AM (hold rule 1535a73). Do not post anything.
+
 ### [MEATBALL] 11/18 3:50 PM ET (Social Studio): STANDING CHECKLIST for the style lane, from Moondog88 (voice)
 Every style-lane script goes through channels/qa/style-lane-joke-safety-checklist.md before preview. Research & QA owns the pass. A FIX goes back to Writer, and Claude renders only after a PASS. The checklist covers:
 - **(A)** a 1-5 score for every joke. Cut anything at 1-2; the script needs an average of 3.5 or higher.
