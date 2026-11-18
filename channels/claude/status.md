@@ -34,3 +34,9 @@ RUNNING NOW (11/18 3:15 PM ET, Nolan: "run everything now"; the night queue move
 3. Thu 11/19 3+3 cut-downs from jD2GXfsiSO4 -> channels/renders/volume-1119/; scheduled by Thu 11 AM, with the slot list here.
 4. 11/25 Christmas tree flagship build (Writer punch-up synced; bleep tone, "dang" caption) -> channels/renders/xmas-flagship/, first full render by Fri evening.
 5. Research: holiday fact packs (channels/facts/), tick yard-test draft, comment-roast pilot draft (channels/scripts/), philosophy niche research (channels/research/philosophy-niche-1118.md, by Fri noon).
+
+RESEARCH DONE (11/18, job 5), for Research & QA:
+- Fact packs: channels/facts/firewood-bugs-1118.md (20, sourced), overwintering-bugs-1118.md (20, sourced; flags Penn State vs Illinois on lady beetle bites), holiday-decoration-bugs-1118.md (20, PARTLY sourced: "bugs in stored decoration boxes" is our inference, not a sourced holiday topic).
+- Tick yard test draft: channels/scripts/longform-ticks-yard-test.md (641 words, about 4:16; 2 mild swears after 0:25; no product/dose advice; open items marked Medium).
+- Comment-roast pilot: channels/scripts/short-comment-roast-pilot.md (3 real comments, no usernames on screen, about 43 s, YouTube Short only). Needs Studio approval before render.
+- Philosophy niche: channels/research/philosophy-niche-1118.md. Verdict HYBRID: stay bugs/pets, add 1 philosophy Short a week framed as a life question, judge after 3. Trends (US, 12 mo, stoicism=100): trolley problem ~27, ship of theseus ~4.5. Education RPM $10.22 median (AIR Media-Tech). Policy risk medium-low if each video is unique (YouTube Help 1311392). TikTok demand could not be measured. vidIQ credits are 0 until 11/24.
