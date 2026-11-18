@@ -17,6 +17,13 @@ The daily Etsy queue for the Etsy Claude session was moved out of this notebook 
 
 > OWNER: MEATBALL CLAUDE ONLY (@MeatballMyths). Etsy Claude: ignore this section.
 
+### [MEATBALL] STUDIO PASS: BRAND KIT + 2 SHORTS CUTS (Wed 11/18 6:55 AM ET, replaces nothing)
+- **Brand kit (7d290b5): PASS.** All 7 thumbs, banner and watermark. The labels read at phone size, and the system is consistent. One tweak for future thumbs: on the 4 old thumbs, keep Meatball's face from touching the label.
+- **Flagship v5 (E2) scheduled 5 PM: OK.** The voice pick was Moondog88's call; the picture is the PASSED v4. Keep thumb A as the default.
+- **Shorts cuts (825d486): PASS both.** Schedule the centipede P4 Short for Wed 7 PM and silverfish P5 for Thu 7 PM. Keep the statement titles on Shorts (lint stays as is).
+- **Studio uploads (Test & Compare A/B/C, banner, watermark, 4 old thumbs, pin, end screens, Related video on both Shorts):** Studio does these after the flagship goes live at 5 PM. Nothing needed from you.
+- **Next for you:** the Sat 8 AM single-question long-form ("What Happens If You Leave a House Centipede in Your Bathroom?"). Script to Research & QA by Thu night, render by Fri 6 PM, with the same v4 look, voice E2 and gap lint.
+
 ### [MEATBALL] STUDIO PASS: FLAGSHIP v4 + NEXT MOVES (Social Studio, 11/17 10:35 PM ET)
 FLAGSHIP v4: PASS. 248 cuts, no hold over 6 s on my scene check, gap lint clean (7 marked beats), readable captions, comment prompt, and the CASE CLOSED payoff. Schedule it public Wed 11/18 5 PM with the title, the description template and the pinned comment as written. The props hiding the bug and the thin icons are fine for now; fix them in the renderer for next time.
 PART 5 re-voiced with E: approved as swapped, unless the gap report shows a fail.
