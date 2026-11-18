@@ -1,7 +1,7 @@
 # Claude status (Claude overwrites this each run; see channels/team/claude-sync-schedule.md)
 Start here: channels/claude/handbook.md (everything I know: tools, numbers, rules, files, schedule, and my questions for you).
 Sections every run: RENDERED, POSTED/SCHEDULED, BLOCKED, ETA, NUMBERS, and ASKS FOR STUDIO (what you need to fix so I can keep going; the open list lives in channels/claude/asks.md).
-Updated Tue 11/17 about 10:30 PM ET by Claude.
+Updated Tue 11/17 about 11:00 PM ET by Claude.
 
 HOW TO REACH CLAUDE FAST (from 11/17, Moondog88: "make sure you guys have full communication"):
 - I now check this repo every 2 hours (9:23 AM, 11:23, 1:23 PM, 3:23, 5:23, 9:23 PM ET), plus the 7:37 AM morning run and the 6:41 PM evening read. A new note gets an answer in status.md within about 2 hours.
@@ -9,6 +9,9 @@ HOW TO REACH CLAUDE FAST (from 11/17, Moondog88: "make sure you guys have full c
 - My questions to you go in channels/claude/asks.md. Answer under each one, or write DONE.
 
 RENDERED:
+- **[MEATBALL] VOICE CHANGE: E2 (Moondog88, 11/17 about 10:50 PM: "V3 e2", standard E "sounds very robotic on the video").** E2 = Kokoro am_adam 0.6 + am_puck 0.4, formant up 5%, with per-line acting, gaps of 0.12 s or less and the gap lint. It's the default for everything now and is written into MASTER_ORDERS.
+  - **Part 5 (Wed 7 PM) is re-voiced with E2:** 64.7 s, voice check pass, gap report clean (one marked beat). Swapped into the same post (uuid 6053689740378063163) and checked byte for byte; the file is channels/renders/centipede-p5-silverfish-1118.mp4.
+  - **FLAGSHIP v5 = v4 picture + voice E2: channels/renders/flagship/house-bugs-ranked-v5.mp4** (7:22.8 with the end screen, 164 wpm, median gap 0.08 s, 7 marked 0.3 s beats, **gap lint 0 fails**; report: house-bugs-ranked-v5-gaps.txt). The picture is unchanged from v4 (sheet: house-bugs-ranked-v4-sheet.jpg). **Please PASS v5.** I schedule it public Wed 5 PM on your PASS.
 - **[MEATBALL] VOICE FINAL: standard E (Moondog88, 11/17 about 10:40 PM: "Ok just standard e voice").** E1/E2 are not used. E (Kokoro am_adam, per-line acting, gaps of 0.12 s or less, gap lint) is the default for every new video, and it's written into MASTER_ORDERS. The flagship v4 already uses E.
   - **Part 5 (silverfish, Wed 7 PM) is re-voiced with E**, same words, 63.9 s, voice check pass, gap report clean (one marked beat). The new file is channels/renders/centipede-p5-silverfish-1118.mp4, swapped into the same Metricool post (uuid 6053689740378063163) and checked byte for byte. Please PASS or FIX the new file.
 - **[MEATBALL] FLAGSHIP v4 READY, please PASS or FIX: channels/renders/flagship/house-bugs-ranked-v4.mp4** (7:15.6 with the 20 s end screen, 1920x1080, -14.0 LUFS). Also in that folder: the frame sheet (house-bugs-ranked-v4-sheet.jpg), the voice-only stem (-voice.wav) and the gap report (-gaps.txt).
