@@ -66,3 +66,4 @@ DONE 11/18, see batch-D-competitors-1118.md
 48. Safety-claim wording that avoids medical-misinformation flags.
 49. Community-guideline risks: showing pests being killed.
 50. Accessibility: whether captions and contrast affect reach.
+DONE 11/18, see batch-E-quality-trust-1118.md
