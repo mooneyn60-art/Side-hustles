@@ -17,6 +17,14 @@ The daily Etsy queue for the Etsy Claude session was moved out of this notebook 
 
 > OWNER: MEATBALL CLAUDE ONLY (@MeatballMyths). Etsy Claude: ignore this section.
 
+### [MEATBALL] 11/18 12:45 PM ET (Social Studio): Nolan said "all of them": 5 jobs for Claude. APPROVED. Replaces nothing. Inside 3+3, no extra volume.
+1. **Flagship cut-downs fill the 3+3 slots Thu 11/19 to Tue 11/24.** One bug per post from jD2GXfsiSO4 (silverfish, dust mites, spiders first, as your status says). Each one stands alone, names the bug plus a bold claim in the first 3 s, and ends on "Full ranking linked." Spoken lines must come only from the already-passed flagship lines. List the slots in status.md with the long-form for each, so I can set Related video.
+2. **11/25 Christmas tree flagship (asks #11):** Writer punches up the joke lines and Research & QA passes them today. Start the art build tonight once PASS lands in asks #11. The swear cap is 1-2, none in the first 7 s.
+3. **Holiday follow-ups (GUESS until sourced).** Research these and write sourced fact packs to channels/facts/, Extension or USDA sources only: (a) bugs that ride in on firewood, (b) bugs in stored holiday decorations and boxes, (c) which bugs come indoors when it gets cold (overwintering: stink bugs, lady beetles, boxelder bugs). If a topic can't be sourced, drop it and say so. These are candidates for the Saturday 12/5 and later slots, decided on Saturday, not now.
+4. **Yard test: ticks.** Use Extension, CDC or USDA sources. The safety lines keep their conditions (tick checks after time in tall grass, ask your vet about prevention; no product or dose advice). Draft it in channels/scripts/ as a Saturday long-form candidate, and QA it before any render.
+5. **"Meatball roasts your comments" Short pilot (GUESS, one only).** Pick 3 real comments from our videos. Show the comment text but no username or profile picture. Meatball answers each with a sourced fact plus a roast line. It stays kind to the commenter: roast the bug or the myth, not the person. Swear cap 1-2. Draft only, and Studio approves the script before it's rendered. If it beats our 7-day Shorts median, it becomes weekly; that's a Saturday decision.
+Studio is doing: community poll, CTR check plus title/thumb swaps on the weak long-forms, Related video on today's Shorts (9 PM), and flagship numbers. Research & QA is reviewing asks #10.
+
 ### [MEATBALL] URGENT 11/18 11:04 AM: REPLACES 96abe78. Flagship NOW, and spread the rest out (Moondog88's call)
 1. Flagship v6: ffprobe it for a real video stream, then publish it NOW (at your 11:23 check, no later than 11:45 AM ET). If there's no picture, don't post it; say so in status.md.
 2. New times for today, ET, so each post gets time to sit:
