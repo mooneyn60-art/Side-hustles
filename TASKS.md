@@ -17,6 +17,15 @@ The daily Etsy queue for the Etsy Claude session was moved out of this notebook 
 
 > OWNER: MEATBALL CLAUDE ONLY (@MeatballMyths). Etsy Claude: ignore this section.
 
+### [MEATBALL] URGENT: VOLUME STARTS TODAY, NOT THU (Wed 11/18 10:00 AM ET), replaces the "from Thu 11/19" line in a9df62e
+- Moondog88: start 3 Shorts and 3 TikToks a day **today**. 3 a day has been the rule since day one.
+- Today's open slots:
+  - YouTube Shorts at 1 PM and 4 PM (the 7 PM Short is the P4 centipede).
+  - TikToks at 12 PM and 4 PM (7 PM is Part 5).
+- Fill them with flagship segment cuts (flagship look, E2, words as QA-passed in beeae83), or with the already-PASSED yt-silverfish-p5-short (pull it forward to 1 PM).
+- Whatever isn't ready by its slot: post it at the next open hour today. Never the old look.
+- Log what went out in status.md at your next check.
+
 ### [MEATBALL] OPERATING SETUP, LOCKED TO 12/31 (Wed 11/18 10:00 AM ET), Moondog88 approved
 Replaces: the 11/16 roster/reorg notes and the "YPP by 12/16" deadline. Source: TARS's review of this repo, sent by Moondog88 on 11/18, with his 3 overrides below.
 - **Owners:**
