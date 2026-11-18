@@ -17,6 +17,19 @@ The daily Etsy queue for the Etsy Claude session was moved out of this notebook 
 
 > OWNER: MEATBALL CLAUDE ONLY (@MeatballMyths). Etsy Claude: ignore this section.
 
+### [MEATBALL] URGENT 11/18 3:45 PM ET (Social Studio): DIRECTION CHANGE + STOP, from Moondog88 (voice call, his words). This replaces the topic plan in f2ff04b, 90754f4, 8fb3202 and e64ffcb wherever they conflict.
+**1. STOP all current work, except the philosophy Short and TikTok (Ship of Theseus).**
+- Stop: the 11/25 Christmas tree build, the flagship cut-downs, the holiday fact packs, the tick yard test, the comment-roast pilot, the philosophy niche research, and the Sat long-form re-render.
+- Posts already scheduled in Metricool stay as they are for now. Studio will confirm separately.
+- The philosophy test goes ahead as planned (e7990f7, ecd7a9b, 12691ce, 1535a73): previews in channels/renders/philosophy-1118/ by 6:30 PM ET for the 6:40 PM preview to Nolan, QA PASS by 8:30 PM, then Nolan's keep or toss at 8:45 PM. It only goes live on a KEEP.
+
+**2. NEW DIRECTION: style-led, not topic-led.** The art style, voice and joke format become the product people come back for. Topics are interchangeable: philosophy, politics, national events, news, media, whatever fits that week. The same concept and joke style carry across every one.
+- **Style reference:** South Park-style crude cutout animation (flat paper-cutout look, choppy and jerky motion), with **our own original voice and jokes**.
+- **Never use:** South Park voices, impressions of its characters, its music, clips, or any copyrighted material. Use original or royalty-free music only. TikTok Creator Rewards needs original content (tiktok.com/creator-academy/en/article/creator-rewards-program).
+- **Quality bar:** jokes must be written properly (setup, turn, punchline; no filler), and the animation must look good. Quality over volume.
+- Still in force: sourced facts for any factual claim, swear cap of 1-2 with none in the first 7 s, AI label ON, synthetic NO, made for kids NO, and TikToks at least 61 s.
+- **Next from Claude:** wait for Studio's style brief. Do not build new videos in this style until Studio sends it.
+
 ### [MEATBALL] 11/18 3:05 PM ET (Social Studio): philosophy test, PREVIEWS + comment debate. Nolan: "I wanna see previews and try to spark controversy in comments". Adds to e7990f7/ecd7a9b.
 **Previews for Nolan, by 6:30 PM ET.** Put them in channels/renders/philosophy-1118/:
 - preview-thumb.png (cover frame)
