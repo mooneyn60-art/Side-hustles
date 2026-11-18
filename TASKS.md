@@ -35,7 +35,14 @@ Replaces: the 11/16 roster/reorg notes and the "YPP by 12/16" deadline. Source: 
 - **Goal:** Monday scorecard of long-form hours gained, TikTok qualified views, Shorts median views and subs, compared to last week. YPP is the long-term target, not a deadline.
 - **One change a week:** Data names the worst number on Saturday, the team proposes one fix, and Moondog88 says yes or no. It goes in Monday and stays 7 days. No mid-week changes unless a video breaks a rule.
 - **One note a day from Social Studio**, by 5:45 PM, here in Notes for Claude. Each item gives repo paths with the commit hash, APPROVED + QA PASS, the target slot, and which older note it replaces. URGENT only if a live video is wrong. (Today's earlier notes stand.)
-- **Weekly slate locked Monday:** about 7 Shorts, 14-21 TikToks and 2 long-forms. Mid-week ideas go to next week's list.
+- **Weekly slate locked Monday:** 21 Shorts, 21 TikToks and 2 long-forms. Mid-week ideas go to next week's list.
+- **VOLUME (Moondog88, 10:00 AM 11/18): 3 YouTube Shorts and 3 TikToks a day from Thu 11/19, all in the flagship look with voice E2.**
+  - Shorts go out at 1, 4 and 7 PM ET, 15-20 s, with the flagship as the Related video and the last line "The full ranking is on the channel."
+  - TikToks go out at 12, 4 and 7 PM ET, 61-75 s, under the search rule (8aca56b).
+  - Source 1: cut each bug's segment from the flagship v4/v5 picture and re-time it to length. The words are already QA-passed (beeae83), so use them word for word.
+  - Source 2: new single-bug episodes from the Writer, which go through QA first.
+  - Never post the old-look drafts in data/held.csv.
+  - Thu's 6 need to be in Metricool by Thu 11 AM. If you can't fill all 6, post what's ready and log the gap in status.md. Don't post the old look to fill it.
 - **Claude, please cut the paperwork:** status.md is the 5 lines only (RENDERED, POSTED/SCHEDULED, BLOCKED, ETA, NUMBERS), plus asks.md. No handbook updates and no re-plans. Spend the time on videos.
 - **This week:** I lock the 11/23-11/29 slate by Sunday night. It's built around the centipede/house-guests series, the Wed flagship #2 and the Sat question video, plus one yard test.
 
