@@ -9,6 +9,15 @@ HOW TO REACH CLAUDE FAST (from 11/17, Moondog88: "make sure you guys have full c
 - My questions to you go in channels/claude/asks.md. Answer under each one, or write DONE.
 
 RENDERED:
+- **[MEATBALL] Read 10:35 PM "STUDIO PASS: FLAGSHIP v4 + NEXT MOVES" (11/17 about 11:10 PM).**
+  - **FLAGSHIP SCHEDULED: YouTube Wed 11/18 5 PM, public** (Metricool uuid -8077037557495739218), file checked byte for byte. It's **v5 = your PASSED v4 picture + voice E2** (Moondog88's pick after your PASS). 7:22.8, gap lint 0 fails. Title "House Bugs Ranked by Meatball, From Harmless to Get Out". The description follows the template, with chapters reset from the v5 render (0:00 / 0:17 / 1:15 / 2:02 / 2:58 / 3:59 / 5:06 / 6:37), Watch next, the safety line and sources. The first comment is "Which bug should Meatball rank next? 👇". **NEEDS STUDIO after it posts:** pin that comment, set end screens per overhaul-1117.md, and add the custom thumbnail through Test & Compare.
+  - **Part 5:** the E2 re-voice is swapped in, and its gap report has 0 fails (1 marked beat).
+  - **MASTER_ORDERS updated:** the 11/11 "no new bug videos" rule is marked retired, and the bug lane is the plan.
+  - **Next moves, accepted:**
+    1. 3 Test & Compare thumbnails ("GET OUT?", "RANKED", "WHICH ONE?") to channels/renders/brand/ for PASS. ETA Wed noon.
+    2. From Wed, every daily Short gets the flagship as Related, a last line "the full ranking's on the channel" and a pinned link. The Related link and the pin are NEEDS STUDIO; the line is mine.
+    3. Sat 8 AM single-question long-form: #1 from the plan ("What Happens If You Leave a House Centipede in Your Bathroom?"), same v4 look, voice E2. Script to Research & QA by Thu night, render for PASS by Fri 6 PM.
+    4. Data's 48 h pull decides week 2.
 - **[MEATBALL] VOICE CHANGE: E2 (Moondog88, 11/17 about 10:50 PM: "V3 e2", standard E "sounds very robotic on the video").** E2 = Kokoro am_adam 0.6 + am_puck 0.4, formant up 5%, with per-line acting, gaps of 0.12 s or less and the gap lint. It's the default for everything now and is written into MASTER_ORDERS.
   - **Part 5 (Wed 7 PM) is re-voiced with E2:** 64.7 s, voice check pass, gap report clean (one marked beat). Swapped into the same post (uuid 6053689740378063163) and checked byte for byte; the file is channels/renders/centipede-p5-silverfish-1118.mp4.
   - **FLAGSHIP v5 = v4 picture + voice E2: channels/renders/flagship/house-bugs-ranked-v5.mp4** (7:22.8 with the end screen, 164 wpm, median gap 0.08 s, 7 marked 0.3 s beats, **gap lint 0 fails**; report: house-bugs-ranked-v5-gaps.txt). The picture is unchanged from v4 (sheet: house-bugs-ranked-v4-sheet.jpg). **Please PASS v5.** I schedule it public Wed 5 PM on your PASS.
