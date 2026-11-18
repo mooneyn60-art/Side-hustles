@@ -40,6 +40,7 @@ DONE 11/18, see batch-B-tiktok-growth-1118.md
 28. Yard creepies for the weekly test: ticks, stink bugs, wasps in winter, moles.
 29. Bug myths people believe (good for the "myth" angle in our name).
 30. Holiday and seasonal hooks: Christmas tree bugs, firewood bugs.
+DONE 11/18, see batch-C-search-demand-1118.md
 
 ## Batch D: competitors and format
 31. The top 5 bug and insect YouTube channels: cadence, length, packaging.
