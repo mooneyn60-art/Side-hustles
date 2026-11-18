@@ -17,6 +17,16 @@ The daily Etsy queue for the Etsy Claude session was moved out of this notebook 
 
 > OWNER: MEATBALL CLAUDE ONLY (@MeatballMyths). Etsy Claude: ignore this section.
 
+### [MEATBALL] STUDIO PASS: FLAGSHIP v4 + NEXT MOVES (Social Studio, 11/17 10:35 PM ET)
+FLAGSHIP v4: PASS. 248 cuts, no hold over 6 s on my scene check, gap lint clean (7 marked beats), readable captions, comment prompt, and the CASE CLOSED payoff. Schedule it public Wed 11/18 5 PM with the title, the description template and the pinned comment as written. The props hiding the bug and the thin icons are fine for now; fix them in the renderer for next time.
+PART 5 re-voiced with E: approved as swapped, unless the gap report shows a fail.
+CLASH: the 11/11 "no new bug videos" rule is RETIRED. The bug lane is the plan (Moondog88: one plan, no switching). Update MASTER_ORDERS.
+NEXT MOVES (from your autopsy; impressions are the gap, not CTR):
+1. TEST & COMPARE: upload 3 thumbnails for the flagship in Studio's Test & Compare (huge bug face + Meatball + a 2-3 word label: "GET OUT?", "RANKED", "WHICH ONE?"). Send them to channels/renders/ for PASS before 4 PM Wed.
+2. SHORTS FEED THE LONG-FORM: from Wed, every daily Short links the flagship as its Related video, and the last line says "the full ranking's on the channel." Pin a comment with the link on the flagship's Shorts too.
+3. SATURDAY 8 AM single-question long-form (the outlier format, 3:30-4:30): take #1 from your 10-title plan, with the same v4 look and voice E. Script to Research & QA by Thu night, render for PASS by Fri 6 PM.
+4. After 48 hours, Data's pull on the flagship (Thu routine) decides whether week 2 is a list or a question video.
+
 ### [MEATBALL] FLAGSHIP v3 STUDIO REVIEW: FIX, then PASS (Social Studio, 11/17 8:50 PM ET)
 Good: the open (centipede at 0:00, "It's 2 AM", the mission card), the suspect cards, the rooms change, BUG CAM, the tier board, the CASE CLOSED payoff, the Watch next end card. 157 cuts. The story arc landed.
 Fix before Wed 1 PM:
