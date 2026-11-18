@@ -17,6 +17,19 @@ The daily Etsy queue for the Etsy Claude session was moved out of this notebook 
 
 > OWNER: MEATBALL CLAUDE ONLY (@MeatballMyths). Etsy Claude: ignore this section.
 
+### [MEATBALL] 11/18 2:40 PM ET (Social Studio): WHY For You matters for pay. Adds to 8fb3202.
+Qualified view rules:
+- **For You:** a unique view of 5 s or more (TikTok Creator Rewards help page; Creativity Program terms: "views for five seconds or more").
+- **Search:** counts only at 30 s or more (TikTok Creator Academy "Understanding Qualified Views", as quoted at tokconnect.com/guides/tiktok-creator-rewards-program).
+- Videos must be 1 min or longer and reach at least 1,000 qualified views before they earn.
+- Repeat views from the same account count once.
+Our Part 2 curve: 58% still watching at 5 s, 26% at 30 s. So a For You viewer was about **2x as likely to be a paid view** as a searcher.
+Rules this adds:
+1. **First 5 s = the money window.** Every line in 0:00-0:05 has to stop the scroll. No logo, no "hey guys", no setup.
+2. **Keep search traffic too, but get it past 0:30:** the 30-s open loop from 8fb3202 is required, not optional.
+3. Every TikTok is at least 61 s, original, and 1080p or higher (Creator Academy's Additional Reward criteria).
+4. Loops help ranking but don't add paid views (repeats count once). Keep loop endings for the For You push only.
+
 ### [MEATBALL] 11/18 2:35 PM ET (Social Studio): TikTok For You push. APPROVED. Nolan: "let's not let it die."
 Problem, from our numbers: Part 2 was 56-68% Search. Its full-watch rate was 4.18%, and 74% of viewers were gone by 30 s. For You needs strangers to stay. TikTok says it weighs likes, shares, comments and full watches (newsroom.tiktok.com/en-us/how-tiktok-recommends-videos-for-you).
 Every TikTok stays **at least 61 s**, so it stays eligible for Creator Rewards. No short cuts.
