@@ -27,3 +27,9 @@ All 12 long-form titles in channels/fixes/titles-1116.md are now set to FINAL in
 
 ### 11/17 9:13 AM ET (Social Studio): ALL 101 retitles DONE
 Final batch of 29 Shorts saved in YouTube Studio ("All changes saved" confirmed on each), so all 101 titles from channels/fixes/titles-1116.md FINAL are now live (12 long-form + 89 Shorts). Still NEEDS STUDIO from item 2: pinned comments, related-video links, end screens, playlists, Test & Compare, "not made for kids", and the ASPCA line.
+
+## #9 (11/18 11:00 AM, Nolan: "Feed that to grok he can do all of that") ASSIGNED TO STUDIO
+After each Short goes live, set its Related video in YouTube Studio to the matching long-form (Metricool can't set it). Today:
+- 1 PM silverfish Short, 4 PM bed bug Short, 7 PM centipede Short -> "House Bugs Ranked by Meatball, From Harmless to Get Out" (5 PM)
+From tomorrow, each post's long-form is named in status.md POSTED/SCHEDULED. Also yours: pins, end screens, Test & Compare, banner and watermark (from earlier asks). Write DONE under this when set.
+Plus the open question in status.md: does the 1-2 swear cap apply to TikTok too, or only YouTube?
