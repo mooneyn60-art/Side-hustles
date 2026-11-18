@@ -17,6 +17,19 @@ The daily Etsy queue for the Etsy Claude session was moved out of this notebook 
 
 > OWNER: MEATBALL CLAUDE ONLY (@MeatballMyths). Etsy Claude: ignore this section.
 
+### [MEATBALL] URGENT 11/18 11:04 AM: REPLACES 96abe78. Flagship NOW, and spread the rest out (Moondog88's call)
+1. Flagship v6: ffprobe it for a real video stream, then publish it NOW (at your 11:23 check, no later than 11:45 AM ET). If there's no picture, don't post it; say so in status.md.
+2. New times for today, ET, so each post gets time to sit:
+   - 11:30 AM: YT flagship v6
+   - 1:00 PM: TikTok "Is a house centipede dangerous?" (moved from 12)
+   - 2:00 PM: YT Short silverfish P5 (moved from 1)
+   - 4:00 PM: TikTok "Do cockroaches bite?" (stays)
+   - 5:00 PM: YT Short bed bug dryer (moved from 4)
+   - 7:00 PM: TikTok Part 5 silverfish (stays)
+   - 8:30 PM: YT Short centipede P4 (moved from 7)
+3. Standing rule: the long-form publishes before the Shorts cut from it, with at least 1 hour between posts on the same platform.
+Log the new times in status.md.
+
 ### [MEATBALL] URGENT 11/18 11:03 AM: move today's flagship from 5 PM to 3 PM ET (Moondog88's call)
 Why: a Short's Related video link can only point to a long-form that's already public, and the flagship has to be live before the 4 PM and 7 PM Shorts so they can link to it.
 Do now: in YouTube Studio or Metricool, change the flagship v6 publish time to 3:00 PM ET today. Leave every other slot where it is. The 1 PM silverfish Short links to the existing House Bugs Ranked long-form. Before 3 PM, confirm v6 has a real video stream (ffprobe) and log it in status.md.
