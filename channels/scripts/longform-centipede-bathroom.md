@@ -57,10 +57,10 @@ Room: **Bathroom floor and tub edge, lights off (night-vision)** · Re-hook card
 - `1:24` Connecticut's experiment station says house centipedes are nocturnal and incredibly wary. **[CB6]** (fact: +20%) *Night-vision: the centipede's head pokes out from behind the toilet, antennae testing the air, then the whole body flows out. CARD: NOCTURNAL · INCREDIBLY WARY.*
 - `1:28` They patrol floors and walls in search of food. **[CB7]** (fact: +20%) *Camera tracks low along the floor behind it, then tilts up as it runs up the wall by the towel rack (walls only, not the ceiling). CARD: PATROLS FLOORS AND WALLS.*
 - `1:32` Meatball patrols the kitchen the same way. Different menu. **[joke (no new fact)]** (smug) *Cutaway: Meatball in a night-vision kitchen, nose in the fridge light.*
-- `1:35` On the menu: flies, crickets, moths and earwigs. **[CB8]** (fact: +20%) *Four quick cuts, one per bug, each one framed like a menu card in the night-vision shot. CARD: FLIES · CRICKETS · MOTHS · EARWIGS.*
+- `1:35` On the menu: crickets, earwigs, even pillbugs. **[CB8]** (fact: +20%) *Four quick cuts, one per bug, each one framed like a menu card in the night-vision shot. CARD: FLIES · CRICKETS · MOTHS · EARWIGS.*
 - `1:38` Its legs are barbed to help hold prey. **[CB8]** (fact: +20%) *BUG CAM close-up: tiny barbs along one leg light up; it closes around a cardboard moth (no gore, the moth just disappears off frame). CARD: BARBED LEGS.*
 - `1:41` Velcro legs. Meatball wants Velcro legs. **[joke (no new fact)]** (smug) *Meatball sticks his paw to his own leg, it does not stick, he sighs.*
-- `1:43` Hunting at night, centipedes can get trapped if they fall into a sink or bathtub. **[CB9]** (fact: +20%) *Night-vision: the centipede runs along the sink rim, one foot slips, it slides into the white basin. Slow push-in. CARD: CAN GET TRAPPED IN A SINK OR TUB.*
+- `1:43` Then the bug cam loses it. Where did it go? **[CB9]** (fact: +20%) *Night-vision: the centipede runs along the sink rim, one foot slips, it slides into the white basin. Slow push-in. CARD: CAN GET TRAPPED IN A SINK OR TUB.*
 - `1:48` Three AM. I need the bathroom. **[story (re-hook)]** (scared: +34% / +12Hz) *Clock to 3:00. Meatball shuffles in half asleep, toothbrush in mouth, flips the light on.*
 
 ## 1:51 3 AM: The sink
@@ -69,8 +69,8 @@ Room: **Bathroom sink, light on, Meatball on the toilet tank** · Re-hook card: 
 
 - `1:51` It's in the sink. It's in my sink! **[story]** (shout: +34% / +12Hz) *FREAK-OUT (interrupt, the one big one): Meatball sees it in the basin, spits the toothbrush, launches straight up onto the toilet tank, then onto the towel rack, holding the toothbrush like a sword. Fast cuts, camera shake, sound hits. CARD: IT'S IN THE SINK.*
 - `1:53` Okay. Breathe. Will it bite me? **[story]** (curious) *Meatball peeks over the towel rack, ears flat. Card spins in. CARD: WILL IT BITE YOU?.*
-- `1:56` Mississippi State says bites to humans are uncommon unless the centipede is handled or accidentally pressed against the skin. **[CB11]** (fact: +20%) *Slow push-in on the centipede sitting still in the basin; Meatball lowers the toothbrush a little. CARD: BITES UNCOMMON · UNLESS HANDLED OR PRESSED ON SKIN.*
-- `2:03` So I don't grab it. I build it a towel ramp. I'm a host now. **[story + joke (keeps the CB11 condition; Meatball's action, not advice)]** (smug) *Meatball drapes a towel from the sink rim to the floor, then backs away fast.*
+- `1:56` Colorado State says house centipedes will bite only if physically confined. **[CB11]** (fact: +20%) *Slow push-in on the centipede sitting still in the basin; Meatball lowers the toothbrush a little. CARD: BITES UNCOMMON · UNLESS HANDLED OR PRESSED ON SKIN.*
+- `2:03` So, paws off. I build it a towel ramp. I'm a host now. **[story + joke (keeps the CB11 condition; Meatball's action, not advice)]** (smug) *Meatball drapes a towel from the sink rim to the floor, then backs away fast.*
 - `2:08` Connecticut says they're not aggressive and will immediately flee if they're discovered. **[CB6]** (fact: +20%) *The centipede climbs the towel and bolts down it at full speed. CARD: NOT AGGRESSIVE · FLEES WHEN FOUND.*
 - `2:12` It darts away and hides under anything. Tonight, that's my bath mat. **[CB6 + story]** (fact: +20%) *It zips across the floor and vanishes under the bath mat. The mat settles. Silence. CARD: HIDES UNDER ANYTHING.*
 - `2:16` I'm not stepping on that bath mat until Thursday. **[joke (no new fact)]** (smug) *Meatball tiptoes around the mat in a wide circle and leaves.*
@@ -86,7 +86,7 @@ Room: **Bathroom by daylight: under-sink cabinet and baseboard** · Re-hook card
 - `2:35` But will it move in for good? Here's the catch. **[story (re-hook)]** (curious) *Record-scratch; Meatball turns to camera. CARD: WILL IT MOVE IN?.*
 - `2:39` Unlike other centipedes, house centipedes can breed indoors, especially where it's moist or humid. **[CB10]** (fact: +20%) *Cut: a drop of water runs down the shower wall; Meatball follows it with his eyes, horror slowly building. CARD: CAN BREED INDOORS · ESPECIALLY IN DAMP ROOMS.*
 - `2:44` My bathroom is basically a swamp with a mirror. **[joke (no new fact)]** (smug) *Meatball wipes the fogged mirror; it fogs right back up.*
-- `2:47` And if you see them often, Penn State says that points to plenty of the bugs they eat. **[CB13]** (fact: +20%) *Act it out: one centipede on the card, then a crowd of tiny generic bugs fills in behind it like a buffet line. CARD: SEEN OFTEN? PLENTY OF PREY BUGS.*
+- `2:47` (cut by Research & QA 11/18) **[CB13]** (fact: +20%) *Act it out: one centipede on the card, then a crowd of tiny generic bugs fills in behind it like a buffet line. CARD: SEEN OFTEN? PLENTY OF PREY BUGS.*
 - `2:54` So what does it mean for your house? And what do you do? **[story (re-hook)]** (curious) *The calendar flips to day 7. Sound hit. CARD: WHAT DOES IT MEAN?.*
 
 ## 2:59 Day 7: What to do
@@ -96,11 +96,11 @@ Room: **Hallway and laundry room: baseboards, sticky traps, dehumidifier** · Re
 - `2:59` Day seven. Time to find out what it's been eating. **[story]** (smug) *RE-HOOK CARD 'DAY 7' + sound hit. Hallway by the laundry room, morning light; Meatball holds a stack of small sticky traps like playing cards. CARD: DAY 7.*
 - `3:02` Ohio State says sticky traps can show which bugs, and how many, are in your home. **[CB14]** (fact: +20%) *BUG CAM (interrupt): from the floor as Meatball sets traps along the baseboard; next morning a few tiny generic bugs are on them (no number shown). CARD: STICKY TRAPS: WHICH BUGS, HOW MANY.*
 - `3:08` Meatball tested the first one with his own paw. **[joke (no new fact)]** (smug) *Meatball's paw is stuck to a trap; he shakes it, it flaps, he gives up.*
-- `3:11` Mississippi State says to focus on the bugs they eat, and cutting indoor moisture also helps. **[CB18]** (fact: +20%) *Split screen: a small bug crossed out on the left, a water drop crossed out on the right. CARD: CONTROL THE BUGS IT EATS · CUT THE MOISTURE.*
-- `3:16` Utah State says dry out damp areas, like the laundry room and the bathroom. **[CB15]** (fact: +20%) *Cut to the laundry room: Meatball mops a puddle under the washer, then wipes the bathroom floor. CARD: DRY OUT DAMP AREAS.*
+- `3:11` Mississippi State says control should focus on the bugs they eat. **[CB18]** (fact: +20%) *Split screen: a small bug crossed out on the left, a water drop crossed out on the right. CARD: CONTROL THE BUGS IT EATS · CUT THE MOISTURE.*
+- `3:16` (cut by Research & QA 11/18) **[CB15]** (fact: +20%) *Cut to the laundry room: Meatball mops a puddle under the washer, then wipes the bathroom floor. CARD: DRY OUT DAMP AREAS.*
 - `3:21` To discourage them from coming out in the open, Connecticut's experts suggest fans or dehumidifiers. **[CB15]** (fact: +20%) *Meatball drags in a dehumidifier (drawn, generic, no brand) and finally fixes the bathroom fan; it spins. CARD: FANS · DEHUMIDIFIERS.*
 - `3:27` My fan works now. It only took a centipede. **[joke (no new fact)]** (smug) *Meatball stands under the spinning fan, ears blowing back, proud.*
-- `3:30` And skip the bug bomb. Ohio State says those are ineffective against centipedes. **[CB16]** (fact: +20%) *A bug bomb can on the floor gets a big red NO stamp (never shown going off). CARD: BUG BOMBS: INEFFECTIVE ON CENTIPEDES.*
+- `3:30` And skip the bug bomb. Ohio State says it rarely reaches the cracks where centipedes hide. **[CB16]** (fact: +20%) *A bug bomb can on the floor gets a big red NO stamp (never shown going off). CARD: BUG BOMBS: INEFFECTIVE ON CENTIPEDES.*
 - `3:35` Can't live with it? Maryland Extension says escort it outdoors. But Penn State says house centipedes do not survive winters outdoors in Pennsylvania. **[CB17]** (fact: +20%) *Meatball holds the front door open with a little bow, a paper cup and card ready (the cup is never shown over the bug). CARD: CAN'T LIVE WITH IT? ESCORT IT OUTSIDE · COLD WEATHER: THEY DON'T SURVIVE WINTERS OUTDOORS (PENN STATE, PA).*
 - `3:38` Meatball held the door open for ages. It went back under the mat. **[joke (CB6 hides under anything; no new fact)]** (smug) *Wide-to-close: Meatball still holding the door, snow blowing in, then a cut to the bath mat with two antennae tips sticking out.*
 
@@ -245,3 +245,6 @@ python3 tools/thumbs.py one --bug centipede --label "STAY OR GO?" --pose think e
 
 
 ## Fact-check 11/18 (Sonnet): all 17 FIXes applied (skills repo research/facts/centipede-bathroom-check.md).
+
+
+## Research & QA 11/18 (80865d3): all 8 FIXes applied in the outline. Description: CSU bite clause and CSU source (https://webdoc.agsci.colostate.edu/bspm/ArthropodsOfInterest/HouseCentipede2018.pdf) added; UW dropped if unused; 'what the sources suggest' trimmed to the fans/dehumidifiers line.
