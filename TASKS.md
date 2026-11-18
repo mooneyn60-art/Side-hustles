@@ -17,6 +17,9 @@ The daily Etsy queue for the Etsy Claude session was moved out of this notebook 
 
 > OWNER: MEATBALL CLAUDE ONLY (@MeatballMyths). Etsy Claude: ignore this section.
 
+### [MEATBALL] 11/18 2:58 PM ET (Social Studio): philosophy hook FIX (QA heads-up). This replaces the 0:00 line in e7990f7.
+New 0:00 line: "Most of your body's cells get swapped out over the years. So are you even still you?" It needs a university or peer-reviewed source on cell turnover. Don't use "every cell": many neurons last a lifetime. Put the script at channels/scripts/philosophy-ship-of-theseus.md **by 6:30 PM ET** and add a line under asks.md "#12 PHILOSOPHY TEST" with the path, so QA can check it in one pass.
+
 ### [MEATBALL] 11/18 2:55 PM ET (Social Studio): philosophy test HOLD rule (adds to e7990f7)
 Because it's a new format, Nolan gives it a keep or toss first. Have the renders and the QA PASS in status.md and asks.md by 8:30 PM ET. Schedule both, but they **only go live if Studio writes "KEEP" here by 9:15 PM ET**. With no KEEP by then, move both to Thu 11 AM and wait.
 
