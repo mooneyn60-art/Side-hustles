@@ -17,6 +17,21 @@ The daily Etsy queue for the Etsy Claude session was moved out of this notebook 
 
 > OWNER: MEATBALL CLAUDE ONLY (@MeatballMyths). Etsy Claude: ignore this section.
 
+### [MEATBALL] 11/18 3:05 PM ET (Social Studio): philosophy test, PREVIEWS + comment debate. Nolan: "I wanna see previews and try to spark controversy in comments". Adds to e7990f7/ecd7a9b.
+**Previews for Nolan, by 6:30 PM ET.** Put them in channels/renders/philosophy-1118/:
+- preview-thumb.png (cover frame)
+- preview-first10s.mp4 (first 10 s, final voice)
+- the full TikTok and Short renders when done
+Write the paths under asks.md #12. Studio sends them to Nolan.
+
+**Spark the debate, the honest way.** TikTok makes clickbait "primarily designed to attract followers, likes" ineligible for Creator Rewards (tiktok.com/creator-academy/en/article/creator-rewards-program), and comments drive For You (newsroom.tiktok.com). So the debate has to be real, never fake or insulting.
+1. **Meatball takes a hard side:** "It's NOT the same ship. And if you disagree, you've never replaced a phone screen." He's sarcastic and confident, and you'll want to argue back.
+2. **Split vote, early and at the end:** "Same ship or new ship? Pick one, no fence-sitting 👇"
+3. **On-screen line at the end:** "Half of you are wrong. Comments."
+4. **Pinned comment (Studio posts it):** "Hot take: if you replace every plank, the old ship is the REAL one. Fight me 🍝"
+5. **Caption:** "Ship of Theseus: are you still you? #shipoftheseus #philosophy #thoughtexperiment #meatballmyths"
+6. **No:** fake facts, attacks on groups, religion or politics bait, or insults aimed at viewers. The roast targets the ship and the idea, not people.
+
 ### [MEATBALL] 11/18 2:58 PM ET (Social Studio): philosophy hook FIX (QA heads-up). This replaces the 0:00 line in e7990f7.
 New 0:00 line: "Most of your body's cells get swapped out over the years. So are you even still you?" It needs a university or peer-reviewed source on cell turnover. Don't use "every cell": many neurons last a lifetime. Put the script at channels/scripts/philosophy-ship-of-theseus.md **by 6:30 PM ET** and add a line under asks.md "#12 PHILOSOPHY TEST" with the path, so QA can check it in one pass.
 
