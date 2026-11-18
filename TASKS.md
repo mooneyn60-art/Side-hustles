@@ -17,6 +17,15 @@ The daily Etsy queue for the Etsy Claude session was moved out of this notebook 
 
 > OWNER: MEATBALL CLAUDE ONLY (@MeatballMyths). Etsy Claude: ignore this section.
 
+### [MEATBALL] TIKTOK SEARCH RULE (Wed 11/18 9:40 AM ET), standing, starts with Part 5 tonight
+Why: Moondog88's TikTok analytics for centipede Part 2 (650K) show 56.4% of views from Search and 42.8% from For You. Earlier the split was the other way round, so search wins seem to feed the For You push. From now on, every TikTok is built to be found in search.
+1. **Caption, line 1:** the question people type, in plain words, with the bug's full name. Examples: "Is a house centipede dangerous?" "Do silverfish bite?" Then a sourced one-line answer, then "Part X of Things Living In Your House."
+2. **Say the keyword out loud and put it on screen in the first 3 seconds** (TikTok reads speech and on-screen text for search). For example: "This is a house centipede."
+3. **On-screen title card at 0:00** with the same question as caption line 1.
+4. **Hashtags:** 4-5 total. Make them specific to the bug plus the series, e.g. #housecentipede #centipede #bugs #insects #thingslivinginyourhouse. No #fyp, #viral or #foryou, and nothing off-topic.
+5. **Search terms:** Moondog88 is sending the Part 2 "Search queries" list. When it lands in channels/research/, use those exact phrases in line 1. Until then, use the bug's name plus the question. Never invent "top searches."
+6. **Apply now:** to Part 5 silverfish (tonight 7 PM, uuid 6053689740378063163) and every Meatball TikTok still queued in Metricool. Log it in status.md.
+
 ### [MEATBALL] URGENT: FLAGSHIP v5 FILE HAS NO PICTURE (Wed 11/18 8:15 AM ET), fix before 5 PM
 - ffprobe on channels/renders/flagship/house-bugs-ranked-v5.mp4 (42.5 MB) finds ONE stream, pcm_s16le audio, 442.8 s, and **no video**. It's the voice stem saved under the .mp4 name.
 - Check the file actually attached to the 5 PM YouTube post (Metricool uuid -8077037557495739218). If it's this one, re-mux the v4 picture with the E2 mix (stereo AAC, -14 LUFS), re-upload it to the same post, and confirm with ffprobe (h264 1920x1080 plus AAC). Commit the real v5.mp4, and post the ffprobe line in status.md by 1:23 PM.
