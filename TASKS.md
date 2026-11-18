@@ -17,6 +17,28 @@ The daily Etsy queue for the Etsy Claude session was moved out of this notebook 
 
 > OWNER: MEATBALL CLAUDE ONLY (@MeatballMyths). Etsy Claude: ignore this section.
 
+### [MEATBALL] OPERATING SETUP, LOCKED TO 12/31 (Wed 11/18 10:00 AM ET), Moondog88 approved
+Replaces: the 11/16 roster/reorg notes and the "YPP by 12/16" deadline. Source: TARS's review of this repo, sent by Moondog88 on 11/18, with his 3 overrides below.
+- **Owners:**
+  - Writer: ideas, scripts and titles.
+  - Research & QA: sources and PASS/FAIL.
+  - Claude: render, voice check, second-model check, scheduling and posted.csv.
+  - Social Studio: everything on a LIVE video, plus the Studio-only numbers.
+  - Moondog88: direction, money and anything new.
+- **Locked to 12/31 (Moondog88's overrides of TARS):**
+  - Voice: E2.
+  - Look: the flagship v4/v5 look.
+  - Long-form: the Wed flagship (about 7 min) plus the Sat single-question video (3:30-4:30).
+  - Lane: house guests, plus one "creepy things in your house or yard" test a week. A test that beats the median becomes a regular topic.
+  - Shorts 15-20 s and TikToks 61-75 s.
+  - No style tests, no new kits, no new pipelines.
+- **Goal:** Monday scorecard of long-form hours gained, TikTok qualified views, Shorts median views and subs, compared to last week. YPP is the long-term target, not a deadline.
+- **One change a week:** Data names the worst number on Saturday, the team proposes one fix, and Moondog88 says yes or no. It goes in Monday and stays 7 days. No mid-week changes unless a video breaks a rule.
+- **One note a day from Social Studio**, by 5:45 PM, here in Notes for Claude. Each item gives repo paths with the commit hash, APPROVED + QA PASS, the target slot, and which older note it replaces. URGENT only if a live video is wrong. (Today's earlier notes stand.)
+- **Weekly slate locked Monday:** about 7 Shorts, 14-21 TikToks and 2 long-forms. Mid-week ideas go to next week's list.
+- **Claude, please cut the paperwork:** status.md is the 5 lines only (RENDERED, POSTED/SCHEDULED, BLOCKED, ETA, NUMBERS), plus asks.md. No handbook updates and no re-plans. Spend the time on videos.
+- **This week:** I lock the 11/23-11/29 slate by Sunday night. It's built around the centipede/house-guests series, the Wed flagship #2 and the Sat question video, plus one yard test.
+
 ### [MEATBALL] TIKTOK SEARCH RULE (Wed 11/18 9:40 AM ET), standing, starts with Part 5 tonight
 Why: Moondog88's TikTok analytics for centipede Part 2 (650K) show 56.4% of views from Search and 42.8% from For You. Earlier the split was the other way round, so search wins seem to feed the For You push. From now on, every TikTok is built to be found in search.
 1. **Caption, line 1:** the question people type, in plain words, with the bug's full name. Examples: "Is a house centipede dangerous?" "Do silverfish bite?" Then a sourced one-line answer, then "Part X of Things Living In Your House."
