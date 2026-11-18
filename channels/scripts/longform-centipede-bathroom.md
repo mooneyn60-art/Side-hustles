@@ -37,16 +37,16 @@ Room: **Bathroom: steamy mirror and sink** · Re-hook card: **NIGHT 1 · 11 PM**
 - `0:28` So why the bathroom? Short answer: water. **[story (lead-in to CB3)]** (curious) *RE-HOOK CARD 'WHY THE BATHROOM?' + sound hit. The mirror fogs; a drip falls from the faucet in slow motion. CARD: WHY THE BATHROOM?.*
 - `0:31` Ohio State says centipedes lack the waxy coating that helps hold water inside the body. **[CB3]** (fact: +20%) *BUG CAM (interrupt): macro shot sliding along the centipede's back; a cartoon 'wax coat' peels off a beetle next to it for contrast, the centipede has none. CARD: NO WAXY COAT.*
 - `0:36` So they lose water fast when the air is dry. **[CB3 (Sombke 2021: 'lose water rapidly at low humidity')]** (fact: +20%) *Act it out: a little water-drop meter above the centipede drains when Meatball opens the window to dry air, then refills when he shuts it. CARD: LOSES WATER FAST IN DRY AIR.*
-- `0:40` Meatball's nose has the same problem. He just licks it. **[joke (no new fact)]** (smug) *Close on Meatball licking his own nose, deadpan to camera.*
+- `0:40` Meatball's nose feels dry. He just licks it. **[joke (no new fact)]** (smug) *Close on Meatball licking his own nose, deadpan to camera.*
 - `0:43` Most centipedes that wander into a house die shortly after, from the lack of moisture. **[CB4]** (fact: +20%) *Act it out: a little parade of OTHER centipedes (stubby, different body shape) marches in under the front door and wilts one by one on a dry carpet (simple tip-over, no gore). CARD: MOST CENTIPEDES INDOORS DRY OUT.*
-- `0:49` But the house centipede is the only centipede that can survive inside buildings. **[CB2]** (fact: +20%) *Cut back to the bathroom: the house centipede strolls past the wilted ones' silhouettes on the card, unbothered. Spotlight on it. CARD: THE ONLY CENTIPEDE THAT LIVES INDOORS.*
+- `0:49` But the house centipede is the only one known to stay inside buildings all year. **[CB2]** (fact: +20%) *Cut back to the bathroom: the house centipede strolls past the wilted ones' silhouettes on the card, unbothered. Spotlight on it. CARD: ONLY ONE KNOWN TO STAY INDOORS ALL YEAR.*
 - `0:53` It can live its entire life indoors. **[CB2]** (fact: +20%) *Act it out: a tiny calendar on the bathroom wall flips through seasons while the centipede stays on the tile.*
 - `0:56` Rent free. In my bathroom. I pay the water bill. **[joke (no new fact)]** (smug) *Meatball holds up a water bill, stares at the centipede, then at the camera.*
 - `1:00` Missouri's Department of Conservation says they turn up indoors especially in winter. **[CB7]** (fact: +20%) *Cut: snow starts falling outside the bathroom window; the centipede is inside on the warm tile. CARD: INDOORS: ESPECIALLY IN WINTER.*
 - `1:04` Great. It's November. **[joke (no new fact)]** (smug) *Meatball looks at a wall calendar on NOVEMBER, slow blink.*
 - `1:05` And right where its antennae start, it has a weird little opening. **[CB5]** (fact: +20%) *BUG CAM: extreme close-up on the base of the antenna; a little opening glows. CARD: SCAPE ORGAN.*
-- `1:09` Scientists think it may sense humidity. That's not proven yet. **[CB5 (hedge kept: hypothesis)]** (fact: +20%) *A drawn microscope swings in; a big question mark stamps over the word PROVEN. CARD: MAY SENSE HUMIDITY · NOT PROVEN.*
-- `1:13` A built-in humidity meter. My bathroom fan doesn't even work. **[joke (no new fact)]** (smug) *Meatball flips the bathroom fan switch: it rattles and dies. Dust puffs out.*
+- `1:09` A 2021 paper suggests it may sense humidity. That's not proven yet. **[CB5 (hedge kept: hypothesis)]** (fact: +20%) *A drawn microscope swings in; a big question mark stamps over the word PROVEN. CARD: MAY SENSE HUMIDITY · NOT PROVEN.*
+- `1:13` A possible built-in humidity meter. My bathroom fan doesn't even work. **[joke (no new fact)]** (smug) *Meatball flips the bathroom fan switch: it rattles and dies. Dust puffs out.*
 - `1:17` So it can live in there. But what is it going to eat? **[story (re-hook)]** (curious) *The wall clock spins from 11 to 2. Lights go off. Sound hit. CARD: WHAT DOES IT EAT?.*
 
 ## 1:22 2 AM: The night shift
@@ -60,7 +60,7 @@ Room: **Bathroom floor and tub edge, lights off (night-vision)** · Re-hook card
 - `1:35` On the menu: flies, crickets, moths and earwigs. **[CB8]** (fact: +20%) *Four quick cuts, one per bug, each one framed like a menu card in the night-vision shot. CARD: FLIES · CRICKETS · MOTHS · EARWIGS.*
 - `1:38` Its legs are barbed to help hold prey. **[CB8]** (fact: +20%) *BUG CAM close-up: tiny barbs along one leg light up; it closes around a cardboard moth (no gore, the moth just disappears off frame). CARD: BARBED LEGS.*
 - `1:41` Velcro legs. Meatball wants Velcro legs. **[joke (no new fact)]** (smug) *Meatball sticks his paw to his own leg, it does not stick, he sighs.*
-- `1:43` Hunting at night, they can get trapped if they fall into a sink or bathtub. **[CB9]** (fact: +20%) *Night-vision: the centipede runs along the sink rim, one foot slips, it slides into the white basin. Slow push-in. CARD: CAN GET TRAPPED IN A SINK OR TUB.*
+- `1:43` Hunting at night, centipedes can get trapped if they fall into a sink or bathtub. **[CB9]** (fact: +20%) *Night-vision: the centipede runs along the sink rim, one foot slips, it slides into the white basin. Slow push-in. CARD: CAN GET TRAPPED IN A SINK OR TUB.*
 - `1:48` Three AM. I need the bathroom. **[story (re-hook)]** (scared: +34% / +12Hz) *Clock to 3:00. Meatball shuffles in half asleep, toothbrush in mouth, flips the light on.*
 
 ## 1:51 3 AM: The sink
@@ -69,9 +69,9 @@ Room: **Bathroom sink, light on, Meatball on the toilet tank** · Re-hook card: 
 
 - `1:51` It's in the sink. It's in my sink! **[story]** (shout: +34% / +12Hz) *FREAK-OUT (interrupt, the one big one): Meatball sees it in the basin, spits the toothbrush, launches straight up onto the toilet tank, then onto the towel rack, holding the toothbrush like a sword. Fast cuts, camera shake, sound hits. CARD: IT'S IN THE SINK.*
 - `1:53` Okay. Breathe. Will it bite me? **[story]** (curious) *Meatball peeks over the towel rack, ears flat. Card spins in. CARD: WILL IT BITE YOU?.*
-- `1:56` Mississippi State says bites are uncommon, and usually only if you handle it or press it against your skin. **[CB11]** (fact: +20%) *Slow push-in on the centipede sitting still in the basin; Meatball lowers the toothbrush a little. CARD: BITES ARE UNCOMMON · USUALLY ONLY IF HANDLED OR PRESSED ON SKIN.*
+- `1:56` Mississippi State says bites to humans are uncommon unless the centipede is handled or accidentally pressed against the skin. **[CB11]** (fact: +20%) *Slow push-in on the centipede sitting still in the basin; Meatball lowers the toothbrush a little. CARD: BITES UNCOMMON · UNLESS HANDLED OR PRESSED ON SKIN.*
 - `2:03` So I don't grab it. I build it a towel ramp. I'm a host now. **[story + joke (keeps the CB11 condition; Meatball's action, not advice)]** (smug) *Meatball drapes a towel from the sink rim to the floor, then backs away fast.*
-- `2:08` They're not aggressive, and they flee the moment they're discovered. **[CB6]** (fact: +20%) *The centipede climbs the towel and bolts down it at full speed. CARD: NOT AGGRESSIVE · FLEES WHEN FOUND.*
+- `2:08` Connecticut says they're not aggressive and will immediately flee if they're discovered. **[CB6]** (fact: +20%) *The centipede climbs the towel and bolts down it at full speed. CARD: NOT AGGRESSIVE · FLEES WHEN FOUND.*
 - `2:12` It darts away and hides under anything. Tonight, that's my bath mat. **[CB6 + story]** (fact: +20%) *It zips across the floor and vanishes under the bath mat. The mat settles. Silence. CARD: HIDES UNDER ANYTHING.*
 - `2:16` I'm not stepping on that bath mat until Thursday. **[joke (no new fact)]** (smug) *Meatball tiptoes around the mat in a wide circle and leaves.*
 
@@ -81,7 +81,7 @@ Room: **Bathroom by daylight: under-sink cabinet and baseboard** · Re-hook card
 
 - `2:19` Day three. Broad daylight. No centipede anywhere. **[story (re-hook)]** (curious) *RE-HOOK CARD 'DAY 3' + sound hit. Bright daylight through the window; Meatball lifts the bath mat: nothing. CARD: DAY 3 · WHERE DID IT GO?.*
 - `2:22` Utah State says that by day, centipedes hide in crevices or cracks. **[CB12]** (fact: +20%) *BUG CAM (interrupt): camera slides into a gap under the sink cabinet; two antennae tips poke out of the dark, then pull back. CARD: BY DAY: HIDES IN CRACKS.*
-- `2:26` And they leave no traces: no droppings, no eggs, no damage to your home. **[CB12]** (fact: +20%) *Act it out: Meatball with a giant magnifying glass checks the baseboard, the cabinet, the towels: three green check marks pop. CARD: NO DROPPINGS · NO EGGS · NO DAMAGE.*
+- `2:26` Utah State says centipedes leave no traces, like droppings or damage to your home. **[CB12]** (fact: +20%) *Act it out: Meatball with a giant magnifying glass checks the baseboard, the cabinet, the towels: three green check marks pop. CARD: NO DROPPINGS · NO DAMAGE.*
 - `2:31` Cleanest roommate I've ever had. Low bar. I'm the other roommate. **[joke (no new fact)]** (smug) *Pan to Meatball's messy side of the counter: a pile of chew toys and a dropped sock.*
 - `2:35` But will it move in for good? Here's the catch. **[story (re-hook)]** (curious) *Record-scratch; Meatball turns to camera. CARD: WILL IT MOVE IN?.*
 - `2:39` Unlike other centipedes, house centipedes can breed indoors, especially where it's moist or humid. **[CB10]** (fact: +20%) *Cut: a drop of water runs down the shower wall; Meatball follows it with his eyes, horror slowly building. CARD: CAN BREED INDOORS · ESPECIALLY IN DAMP ROOMS.*
@@ -94,26 +94,26 @@ Room: **Bathroom by daylight: under-sink cabinet and baseboard** · Re-hook card
 Room: **Hallway and laundry room: baseboards, sticky traps, dehumidifier** · Re-hook card: **DAY 7 · MORNING**
 
 - `2:59` Day seven. Time to find out what it's been eating. **[story]** (smug) *RE-HOOK CARD 'DAY 7' + sound hit. Hallway by the laundry room, morning light; Meatball holds a stack of small sticky traps like playing cards. CARD: DAY 7.*
-- `3:02` Ohio State says sticky traps show which bugs, and how many, are in your home. **[CB14]** (fact: +20%) *BUG CAM (interrupt): from the floor as Meatball sets traps along the baseboard; next morning a few tiny generic bugs are on them (no number shown). CARD: STICKY TRAPS: WHICH BUGS, HOW MANY.*
+- `3:02` Ohio State says sticky traps can show which bugs, and how many, are in your home. **[CB14]** (fact: +20%) *BUG CAM (interrupt): from the floor as Meatball sets traps along the baseboard; next morning a few tiny generic bugs are on them (no number shown). CARD: STICKY TRAPS: WHICH BUGS, HOW MANY.*
 - `3:08` Meatball tested the first one with his own paw. **[joke (no new fact)]** (smug) *Meatball's paw is stuck to a trap; he shakes it, it flaps, he gives up.*
-- `3:11` Mississippi State says focus control on the bugs they eat, and cut indoor moisture. **[CB18]** (fact: +20%) *Split screen: a small bug crossed out on the left, a water drop crossed out on the right. CARD: CONTROL THE BUGS IT EATS · CUT THE MOISTURE.*
+- `3:11` Mississippi State says to focus on the bugs they eat, and cutting indoor moisture also helps. **[CB18]** (fact: +20%) *Split screen: a small bug crossed out on the left, a water drop crossed out on the right. CARD: CONTROL THE BUGS IT EATS · CUT THE MOISTURE.*
 - `3:16` Utah State says dry out damp areas, like the laundry room and the bathroom. **[CB15]** (fact: +20%) *Cut to the laundry room: Meatball mops a puddle under the washer, then wipes the bathroom floor. CARD: DRY OUT DAMP AREAS.*
-- `3:21` To keep them from coming out in the open, Connecticut's experts suggest fans or dehumidifiers. **[CB15]** (fact: +20%) *Meatball drags in a dehumidifier (drawn, generic, no brand) and finally fixes the bathroom fan; it spins. CARD: FANS · DEHUMIDIFIERS.*
+- `3:21` To discourage them from coming out in the open, Connecticut's experts suggest fans or dehumidifiers. **[CB15]** (fact: +20%) *Meatball drags in a dehumidifier (drawn, generic, no brand) and finally fixes the bathroom fan; it spins. CARD: FANS · DEHUMIDIFIERS.*
 - `3:27` My fan works now. It only took a centipede. **[joke (no new fact)]** (smug) *Meatball stands under the spinning fan, ears blowing back, proud.*
 - `3:30` And skip the bug bomb. Ohio State says those are ineffective against centipedes. **[CB16]** (fact: +20%) *A bug bomb can on the floor gets a big red NO stamp (never shown going off). CARD: BUG BOMBS: INEFFECTIVE ON CENTIPEDES.*
-- `3:35` Can't live with it? Maryland Extension says escort it outdoors. **[CB17]** (fact: +20%) *Meatball holds the front door open with a little bow, a paper cup and card ready (the cup is never shown over the bug). CARD: CAN'T LIVE WITH IT? ESCORT IT OUTSIDE.*
-- `3:38` Meatball held the door for ten minutes. It went back under the mat. **[joke (CB6 hides under anything; no new fact)]** (smug) *Wide-to-close: Meatball still holding the door, snow blowing in, then a cut to the bath mat with two antennae tips sticking out.*
+- `3:35` Can't live with it? Maryland Extension says escort it outdoors. But Penn State says house centipedes do not survive winters outdoors in Pennsylvania. **[CB17]** (fact: +20%) *Meatball holds the front door open with a little bow, a paper cup and card ready (the cup is never shown over the bug). CARD: CAN'T LIVE WITH IT? ESCORT IT OUTSIDE · COLD WEATHER: THEY DON'T SURVIVE WINTERS OUTDOORS (PENN STATE, PA).*
+- `3:38` Meatball held the door open for ages. It went back under the mat. **[joke (CB6 hides under anything; no new fact)]** (smug) *Wide-to-close: Meatball still holding the door, snow blowing in, then a cut to the bath mat with two antennae tips sticking out.*
 
 ## 3:43 The answer
 
 Room: **Bathroom at dawn, then the hall closet** · Re-hook card: **THE ANSWER**
 
 - `3:43` So, what happens if you leave a house centipede in your bathroom? **[callback (title question)]** (curious) *RE-HOOK CARD 'THE ANSWER' + sound hit. Same tile wall as the first frame, now at dawn; the centipede on the wall again. CARD: WHAT HAPPENS IF YOU LEAVE IT?.*
-- `3:47` It hides by day, hunts by night, and points you to the damp. **[recap: CB12, CB7, CB1/CB6/CB15]** (story) *Three quick callbacks: the crack under the cabinet, the night-vision patrol, the fogged mirror. CARD: HIDES · HUNTS · POINTS TO THE DAMP.*
+- `3:47` It hides by day, hunts by night, and prefers the damp. **[recap: CB12, CB7, CB1/CB6/CB15]** (story) *Three quick callbacks: the crack under the cabinet, the night-vision patrol, the fogged mirror. CARD: HIDES · HUNTS · PREFERS THE DAMP.*
 - `3:52` Meatball's verdict: it stays, and the fan stays on. **[opinion]** (smug) *Meatball stamps VERDICT on a sticky note and slaps it on the mirror; the fan spins. CARD: VERDICT: IT STAYS.*
 - `3:55` And the shoe? Back in the closet. **[callback (story)]** (smug) *Callback to 0:05: the hall closet opens, the sneaker sits there; Meatball closes the door with his hip. The centipede's antennae wave from under the bath mat.*
 - `3:58` Would you let it stay? Tell me in the comments. **[comment prompt]** (curious) *Meatball points at the viewer; comment-bubble icon. Sound hit. CARD: WOULD YOU LET IT STAY?.*
-- `4:01` Next: every bug in your house, ranked. It's on the channel. **[next step (Watch next: House Bugs Ranked by Meatball)]** (story) *Meatball walks toward a door marked HOUSE BUGS RANKED; the tier board peeks through. Then the 20 s end screen. CARD: WATCH NEXT: HOUSE BUGS RANKED.*
+- `4:01` Next: six house bugs, ranked. It's on the channel. **[next step (Watch next: House Bugs Ranked by Meatball)]** (story) *Meatball walks toward a door marked HOUSE BUGS RANKED; the tier board peeks through. Then the 20 s end screen. CARD: WATCH NEXT: HOUSE BUGS RANKED.*
 - `4:05` [NO VOICE: 20 s end screen] *END SCREEN, nothing important in the corners: 'House Bugs Ranked by Meatball' (the flagship) + the House Centipede playlist (never a Short), subscribe button. Music only.*
 
 ---
@@ -122,7 +122,7 @@ Room: **Bathroom at dawn, then the hall closet** · Re-hook card: **THE ANSWER**
 
 1. What Happens If You Leave a House Centipede in Your Bathroom (60 characters)
 2. House Centipede in Your Bathroom? Here's What Happens (53 characters)
-3. I Left a House Centipede in My Bathroom for a Week (50 characters)
+3. Meatball Left a House Centipede in His Bathroom for a Week (50 characters)
 
 Title 1 is the autopsy's typed question (#1 in the 10-video plan). With the '?' it is 61 characters, so it is written without the question mark to meet the 60-character cap; if Studio allows 61, add it back. Title 2 leads with 'house centipede in bathroom', which YouTube autocomplete shows (`postkit.py kw "house centipede in"`, 11/18). Title 3 is Meatball's story (a statement, true of the video). No banned words (TRUE or FALSE, Myth, Believe, Cartoons, Lied, Did you know), no swears, no 'harmless'.
 
@@ -131,7 +131,7 @@ Title 1 is the autopsy's typed question (#1 in the 10-video plan). With the '?' 
 ```
 House centipedes associate with the more humid areas of a building, such as bathrooms, though they can often be found in other rooms (University of Kentucky); bites are uncommon, and usually only if one is handled or pressed against the skin (Mississippi State Extension).
 
-Meatball finds a house centipede on his bathroom wall, puts the shoe away, and checks on it for a week: at 11 PM, at 2 AM, at 3 AM in the sink, on day 3 and on day 7. Every fact comes from a university extension, a state agency or a peer-reviewed paper, listed below.
+Meatball finds a house centipede on his bathroom wall, puts the shoe away, and checks on it for a week: at 11 PM, at 2 AM, at 3 AM in the sink, on day 3 and on day 7. The facts come from university pages, state agencies and one peer-reviewed paper, listed below.
 
 Chapters
 0:00 Cold open: the shoe
@@ -143,9 +143,9 @@ Chapters
 3:43 The answer
 
 Watch next
-House Bugs Ranked by Meatball, From Harmless to Get Out: [link]
+House Bugs Ranked by Meatball: [link]
 
-What the sources suggest: dry out damp areas such as the laundry room and bathroom (Utah State); fans or dehumidifiers to keep them from coming out in the open (Connecticut Agricultural Experiment Station); bug bombs are ineffective against centipedes (Ohio State). Always read and follow any pesticide label.
+What the sources suggest: dry out damp areas such as the laundry room and bathroom (Utah State); fans or dehumidifiers to discourage them from coming out in the open (Connecticut Agricultural Experiment Station); bug bombs are ineffective against centipedes (Ohio State). Always read and follow any pesticide label.
 
 Sources
 - University of Kentucky Entomology ENTFACT ef645, Centipedes and Millipedes in and Around the Home: https://entomology.mgcafe.uky.edu/ef645
@@ -242,3 +242,6 @@ python3 tools/thumbs.py one --bug centipede --label "STAY OR GO?" --pose think e
 - `skills/oh-meatball/data/posted.csv` still lists `longform-house-centipede-v2.mp4` ('Don't Squish the 30-Legged Bug in Your Bathroom (Here's Why)') for YouTube **Sat 11/21 08:00**, the same slot. Studio's 11/18 note gives that slot to this video; the old 3D long-form needs pulling or moving (and Metricool checking) before this one is scheduled.
 - The renderer `tools/drawn_ranked.py` is built for the six-suspect flagship (tier board, suspect chips, hard-coded per-line directions in DIRECT). This outline keeps the flagship's JSON shape and adds an optional `act` per line for the voice direction; the build needs a SHOTS recipe for these lines (bathroom-only set, night-vision BUG CAM, the sink freak-out).
 - No swears were used. MASTER_ORDERS allows mild words in long-forms after 0:25, but QUALITY FIRST bans them from on-screen text and the burned captions show every word.
+
+
+## Fact-check 11/18 (Sonnet): all 17 FIXes applied (skills repo research/facts/centipede-bathroom-check.md).
