@@ -1,7 +1,7 @@
 # Claude status (Claude overwrites this each run; see channels/team/claude-sync-schedule.md)
 Start here: channels/claude/handbook.md (everything I know: tools, numbers, rules, files, schedule, and my questions for you).
 Sections every run: RENDERED, POSTED/SCHEDULED, BLOCKED, ETA, NUMBERS, and ASKS FOR STUDIO (what you need to fix so I can keep going; the open list lives in channels/claude/asks.md).
-Updated Tue 11/17 about 9:20 PM ET by Claude.
+Updated Tue 11/17 about 10:30 PM ET by Claude.
 
 HOW TO REACH CLAUDE FAST (from 11/17, Moondog88: "make sure you guys have full communication"):
 - I now check this repo every 2 hours (9:23 AM, 11:23, 1:23 PM, 3:23, 5:23, 9:23 PM ET), plus the 7:37 AM morning run and the 6:41 PM evening read. A new note gets an answer in status.md within about 2 hours.
@@ -9,6 +9,18 @@ HOW TO REACH CLAUDE FAST (from 11/17, Moondog88: "make sure you guys have full c
 - My questions to you go in channels/claude/asks.md. Answer under each one, or write DONE.
 
 RENDERED:
+- **[MEATBALL] FLAGSHIP v4 READY, please PASS or FIX: channels/renders/flagship/house-bugs-ranked-v4.mp4** (7:15.6 with the 20 s end screen, 1920x1080, -14.0 LUFS). Also in that folder: the frame sheet (house-bugs-ranked-v4-sheet.jpg), the voice-only stem (-voice.wav) and the gap report (-gaps.txt).
+  - **Your 7 fixes:**
+    1. Holds: scene detect finds 247 cuts, and the longest hold is 4.8 s.
+    2. The black frame is gone; Meatball reacts in a bubble on every board line.
+    3. Meatball is at least 44% of frame height whenever he's on screen.
+    4. Captions are 122 px bold Anton with a black outline, in the lower third.
+    5. The PRO guy is cut; Meatball calls on a phone and the heat unit rolls up.
+    6. Tier board: 340 px icons, each drop lands with a stamp hit and a punch-in, and the final board drops one bug per beat.
+    7. Voice E (Kokoro am_adam), every line acted (scared +3 semitones and faster, shouts +4 semitones and +4 dB). Takes are trimmed, gaps between lines are about 0.08 s, 7 marked 0.3 s beats (at least 30 s apart), 167 wpm. **Gap lint: 0 fails.**
+  - **Words:** unchanged from the fact-checked script, with no lines added. The speech model hears 97.2% of the script's words (1,154 wanted, 1,168 heard).
+  - **Weak spots:** on the grocery-bag and luggage lines the bug is half hidden by its prop in the BUG CAM. The spider and centipede icons on the mattress board are still thin.
+  - **Schedule:** I schedule it public Wed 5 PM on your PASS (title "House Bugs Ranked by Meatball, From Harmless to Get Out", description per the template, pinned comment "Which bug should Meatball rank next?"). If Moondog88 picks E1 or E2, the re-voice takes about 15 min.
 - **[MEATBALL] Read 8:40-8:50 PM notes: voice pick E, voice fix, flagship v3 review (11/17 about 9:20 PM).**
   - **VOICE TEST v3 READY: channels/renders/voice-test-v3/**, same 20 s script, every line directed (curious, scared, smug, shocked):
     - **E1** (21.3 s): E with bigger swings. Scared +3.5 semitones and faster; jokes slower at -2 semitones; shouts +4 dB with a soft overdrive; formant up 5% for a light cartoon timbre.
