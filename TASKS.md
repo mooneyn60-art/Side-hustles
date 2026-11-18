@@ -17,6 +17,50 @@ The daily Etsy queue for the Etsy Claude session was moved out of this notebook 
 
 > OWNER: MEATBALL CLAUDE ONLY (@MeatballMyths). Etsy Claude: ignore this section.
 
+### [MEATBALL] 11/18 FULL PLAN OF ACTION from Social Studio, approved by Moondog88. GET CRANKING. (Expands a9be33f; keeps the 8cebe4f setup and the a9df62e 3+3 volume.)
+Moondog88 approved this today. Do all of it from the next render on, and log progress in status.md (5 lines). Research files: channels/research/ (knowledge-gaps, batch-A through batch-E, all dated 1118).
+
+A. EVERY VIDEO, starting now
+1. Related video on every Short goes to the matching long-form. Say and show "full video linked" in the last 5 seconds, and the long-form pays off that hook within 10 seconds. (YouTube Blog, 14 Jul 2026)
+2. The first 3 seconds have the bug's full name plus a bold claim or a visual result. The TikTok caption's first line is the typed question. (blossai; Search Engine Land)
+3. Every part stands alone, with no recap. Never reupload a winner unchanged. (blossai; TikTok integrity guidelines)
+4. Shorts pacing: the picture changes within 2 seconds, a cut, punch-in or graphic every 3 to 5 seconds, and cards held 2 to 4 seconds. (viibeo)
+5. Settings: Made for Kids = NO. YouTube altered/synthetic = No, since it's animated. TikTok AI label stays ON. (YouTube Help 9528076 and 14328491)
+6. Facts come only from Extension or USDA. No diagnosis or treatment advice. No killing shown for shock or in thumbnails. (YouTube Help 13813322 and 2802008)
+7. Closed captions uploaded on long-forms, and burned-in captions kept. (3Play/Discovery: +7.32% views)
+
+B. NEW: EDGIER VOICE (Moondog88's call; ad rules sourced)
+Meatball gets sharper and a little ruder: sarcastic, deadpan, roasting the bug and the homeowner's panic. It's a grown-up comedy tone, which also backs the not-for-kids setting (that link is a GUESS, not sourced).
+Swearing rules, from YouTube's advertiser-friendly guidelines (support.google.com/youtube/answer/6162278):
+- OK: "hell", "damn", bleeped or muted swears, and abbreviations like WTF, in the video.
+- Moderate words like "shit" are OK occasionally in the video. NEVER in titles, thumbnails or the first line of a caption, because that limits ad earnings.
+- NEVER any f-word in titles or thumbnails (no ads). No slurs, ever. Don't swear "at the start or throughout most of the video."
+- House rule: at most 1 to 2 light swears or bleeps per video, used as punchlines, and never in the first 7 seconds (the hook stays clean and searchable).
+- Joke targets: the bug, Meatball and the situation. Never people, groups or real brands. No team logos or betting.
+Examples of the register: "Is that a house centipede? Yeah. Fifteen pairs of legs and zero rent paid." / "Silverfish have been eating your books since before dinosaurs. Damn, respect." / "*BLEEP*, that's a brown recluse. No it isn't. Calm down."
+Writer drafts the jokes; Research & QA checks facts and swear count before scheduling.
+
+C. FORMAT
+8. Wednesday flagship goes to 8 to 12 minutes of real content, starting next week (the 11/25 flagship). Moondog88 approved the change today, so the Saturday wait is skipped. The Saturday video can run past 4 minutes when the topic holds. (SociaVault; YPP: only long-form hours count, and we have 12.7 of 4,000)
+9. Shorts keep coming from our own long-forms. That's allowed, with a unique hook per cut. (YouTube Help 15824265)
+
+D. TOPICS: put these on the 11/23 to 11/29 slate, highest search demand first
+- "Can Christmas trees have bugs?" goes out within 7 days, it's time-sensitive. Don't tell people to spray the tree. (Modern Pest survey: 22% have found bugs in a tree)
+- Bed bugs: "What do bed bug bites look like?" (about 550K/month even in winter)
+- "Is this a brown recluse?" (165K/month)
+- German vs American roach
+- Stink bugs in the house in winter (49.5K/month)
+- Mice in the house: signs, and mouse vs rat
+- Yard test: ticks first, moles as backup, no wasps until summer
+- A house-bug tier list ("should it stay or go"), each bug still searchable on its own
+- "What happens if..." titles for Shorts and Saturday
+Each needs Research & QA sourcing before it renders.
+
+E. KEEP
+3 Shorts (1, 4 and 7 PM) and 3 TikToks (12, 4 and 7 PM) a day. Voice E2: confirm "plain voice" in a658fdd means E2, and if not, fix it. TikToks 61 to 90 seconds. Post times stay the same this week.
+
+Reply in status.md with what's done and the commit hashes.
+
 ### [MEATBALL] 11/18 daily note from Social Studio: research-backed changes (replaces nothing; adds to a9df62e/945437a)
 All 50 research topics done. Files: channels/research/knowledge-gaps-1118.md (e6db4e4), batch-A (c5537ec), batch-B (b5588da, 85f4ed8), batch-C (e127a6b, d1dadc4), batch-D (1a9bd18, 7b412a0), batch-E (3f7144f, 78cac05). Apply from the next render on. Do NOT re-render anything already scheduled today.
 1. Every Short: set Related video to the matching long-form, and say plus show "full video linked" in the last 5 seconds. The long-form opens on that same hook within its first 10 seconds. (YouTube Blog 14 Jul 2026, batch-A)
