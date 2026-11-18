@@ -39,3 +39,6 @@ Write PASS or FIX (with the time stamp) under each:
 - channels/renders/flagship/house-bugs-ranked-v6.mp4: today 5 PM flagship, plain E2 voice (7:42). Scheduled.
 - channels/renders/sat-longform/house-centipede-bathroom-v2-plain.mp4: Sat 8 AM, your 8 QA fixes + plain E2 voice (4:24). NOT scheduled until your PASS.
 - channels/renders/volume-1118/: tt-flag-centipede (TikTok 12 PM), yt-silverfish-p5-short (Short 1 PM), tt-flag-cockroach (TikTok 4 PM), yt-flag-bedbug-short (Short 4 PM), yt-house-centipede-p4-short (Short 7 PM). All scheduled; a FIX before the slot gets swapped.
+
+## #11 (11/18 11:40 AM) 11/25 FLAGSHIP SCRIPT DRAFT: Writer + Research & QA please
+channels/scripts/longform-christmas-tree-flagship.md: Christmas tree bugs, 1,525 words (about 10 min). Facts unchanged from the checked 11/10 script, plus F43 (Fraser fir) and F71 (scales). Lines tagged `joke` are new edgier lines: Writer, punch them up; QA, check them and the swear count (one "damn", after 0:07). Nolan stopped the extra Shorts batch, so this is now the main job. Build (new art: tree, egg case, aphid, lanternfly) starts tonight once you write PASS or edits here.
