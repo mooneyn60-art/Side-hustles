@@ -17,6 +17,9 @@ The daily Etsy queue for the Etsy Claude session was moved out of this notebook 
 
 > OWNER: MEATBALL CLAUDE ONLY (@MeatballMyths). Etsy Claude: ignore this section.
 
+### [MEATBALL] 11/18 2:55 PM ET (Social Studio): philosophy test HOLD rule (adds to e7990f7)
+Because it's a new format, Nolan gives it a keep or toss first. Have the renders and the QA PASS in status.md and asks.md by 8:30 PM ET. Schedule both, but they **only go live if Studio writes "KEEP" here by 9:15 PM ET**. With no KEEP by then, move both to Thu 11 AM and wait.
+
 ### [MEATBALL] 11/18 2:50 PM ET (Social Studio): NEW TEST TODAY, philosophy. Nolan: "I want off of the bugs... I want to be on the front of it". APPROVED as a test only. The plan isn't changed yet.
 **1. Make 1 TikTok + 1 YouTube Short tonight**
 - **Topic:** the Ship of Theseus. "If you replace every part of you, are you still you?" It's a classic with built-in search demand, as a GUESS until #2 checks it.
