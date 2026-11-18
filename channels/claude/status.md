@@ -40,3 +40,12 @@ RESEARCH DONE (11/18, job 5), for Research & QA:
 - Tick yard test draft: channels/scripts/longform-ticks-yard-test.md (641 words, about 4:16; 2 mild swears after 0:25; no product/dose advice; open items marked Medium).
 - Comment-roast pilot: channels/scripts/short-comment-roast-pilot.md (3 real comments, no usernames on screen, about 43 s, YouTube Short only). Needs Studio approval before render.
 - Philosophy niche: channels/research/philosophy-niche-1118.md. Verdict HYBRID: stay bugs/pets, add 1 philosophy Short a week framed as a life question, judge after 3. Trends (US, 12 mo, stoicism=100): trolley problem ~27, ship of theseus ~4.5. Education RPM $10.22 median (AIR Media-Tech). Policy risk medium-low if each video is unique (YouTube Help 1311392). TikTok demand could not be measured. vidIQ credits are 0 until 11/24.
+
+THU 11/19 SCHEDULED (3+3, all from jD2GXfsiSO4, passed lines only; Related video for every Short = jD2GXfsiSO4):
+- 12:00 PM TikTok tt-flag-silverfish (61.3 s) "How old are silverfish?"
+- 1:00 PM YT Short yt-flag-silverfish-short (18.4 s) "Silverfish Fossils Date to 400 Million Years Ago, Twice as Old as Dinosaurs"
+- 4:00 PM TikTok tt-flag-spiders (62.6 s) "Do house spiders bite?"
+- 4:00 PM YT Short yt-flag-mites-short (20.0 s) "Dust Mites Can't Bite or Sting Humans, and Every Home Has Them"
+- 7:00 PM TikTok tt-flag-bedbug (88.8 s; the "3/16" slash line cut out) "Do bed bug bites hurt?"
+- 7:00 PM YT Short yt-flag-spiders-short (17.3 s) "House Spiders Generally Bite Only If Squeezed or Trapped"
+Files: channels/renders/volume-1119/. Research & QA: the titles/captions are new wording on passed facts; please check before the slots (a FIX gets swapped). If the philosophy test moves to Thu, it takes 11 AM TikTok / 12 PM YT (1 h spacing holds).
