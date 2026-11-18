@@ -10,7 +10,7 @@ Titles: Never Bring a Christmas Tree Inside Before You Check for This / Can Chri
 - Before your Christmas tree comes through the door, check it for one thing: a tan blob that looks like a toasted marshmallow.  ``
 - Inside it: a hundred eggs. Maybe several hundred.  `F23 F27 F29`
 - And your warm living room is about to tell them it's spring.  `F17 F47`
-- Merry Christmas. You're a dad now. Of three hundred.  `joke`
+- Merry Christmas. Your tree came with a free toddler starter pack.  `joke`
 - That's stowaway number one. Nine things can ride in on that tree.  ``
 - Six you can ignore. One you vacuum. One you clip off. And one matters outside your house, not in it.  ``
 - And the internet says there are twenty-five thousand bugs in there. We'll check that number first.  `F1`
@@ -22,7 +22,7 @@ Titles: Never Bring a Christmas Tree Inside Before You Check for This / Can Chri
 - Some trees. Norwegian trees. Spruce and pine.  `F3 F5`
 - And tiny means tiny. Springtails, bark lice, mites, a moth, the odd spider.  `F4`
 - The article doesn't say how they were counted, and I couldn't find the study behind it.  `F7`
-- So the scariest number on the internet is one guy, one sentence, twelve years ago. Classic.  `joke`
+- So the internet's scariest bug stat is basically a rumor in a lab coat. Stellar work, internet.  `joke`
 - A Dutch natural history museum says nobody has done that study in the Netherlands yet.  `F6`
 - The biologist's own home test is easy. Shake your tree over a white sheet and look.  `F8`
 - In the U.S., Iowa State says a buggy tree carries a few to several hundred.  `F13`
@@ -37,11 +37,11 @@ Titles: Never Bring a Christmas Tree Inside Before You Check for This / Can Chri
 - In fall, a mantis glues a blob of foam to a twig, and the foam hardens.  `F23 F24`
 - It can look like spray foam insulation. Light brown, about an inch and a half wide.  `F30`
 - The big ones, from the Chinese mantis, are the size of a ping-pong ball.  `F31`
-- A ping-pong ball. Full of babies. On the tree you're about to hang tinsel on.  `joke`
+- A ping-pong ball. Full of babies. Wedged in your tree like the world's worst ornament.  `joke`
 - The native Carolina mantis makes a slim one. Half an inch to an inch, tan, with a ribbed top.  `F32`
 - Penn State lists four mantis species that leave these on conifer twigs.  `F34`
 - And Illinois Extension says mantises commonly prefer Fraser fir Christmas trees for laying eggs.  `F43`
-- Of course they do. They have taste. Expensive taste.  `joke`
+- Of course they do. Bougie little bugs. Fir snobs, honestly.  `joke`
 - How many eggs? Missouri's extension says about a hundred. Mississippi State says several hundred for the big kind.  `F23 F27`
 - So: a hundred to several hundred, depending on the mantis.  `F29`
 - Outside, they would sit there until spring.  `F24`
@@ -49,11 +49,11 @@ Titles: Never Bring a Christmas Tree Inside Before You Check for This / Can Chri
 - A fresh tree can last three to four weeks indoors. So it's a photo finish.  `F81 F35`
 - Then the sad part. There is nothing for them to eat in your living room.  ``
 - So they eat each other.  `F36`
-- Nothing says holiday spirit like your new kids eating each other under the tree.  `joke`
+- Nothing says peace on Earth like siblings eating each other under the tree.  `joke`
 - And Illinois Extension says the ones that are left will likely starve.  `F37`
 - If it happens anyway, Missouri's extension suggests feeding them small flies or tiny pet-store crickets.  `F42`
 - I am not making that up.  ``
-- You came for a Christmas tree. You leave running a damn bug daycare.  `joke`
+- Congratulations. Your festive pine just became a damn daycare for tiny cannibals.  `joke`
 - Better plan. Step one of the tree check: look for the marshmallow.  ``
 - Found one? Don't crush it. Clip the twig.  `F39 F40`
 - Tuck it into an evergreen outside.  `F40`
@@ -64,12 +64,12 @@ Titles: Never Bring a Christmas Tree Inside Before You Check for This / Can Chri
 ## 2. The one people call a tick (STOWAWAY 2 OF 9)
 - Stowaway two is the one that makes people yell tick.  ``
 - Dark. Round. Long legs. Walking off the tree and onto your presents.  `F48 F55`
-- And you, a grown adult, screaming at a present.  `joke`
+- Very spooky. Very dramatic. Very much not what it looks like.  `joke`
 - It's a giant conifer aphid. Up to about an eighth of an inch.  `F48`
 - N.C. State calls them among the largest aphids we have.  `F49`
 - North Carolina State says people often mistake them for ticks.  `F50`
 - So count the legs. An aphid has six. Ticks and spiders have eight.  `F56`
-- Yes, I'm asking you to count the legs on a bug. It's Christmas. Be brave.  `joke`
+- Yes, we're counting bug legs at Christmas. This aphid made it everyone's problem.  `joke`
 - N.C. State says they don't bite, sting or carry disease. And they won't eat your houseplants.  `F54 (NC State); Penn State and Illinois for houseplants`
 - The warmth wakes them up, and they wander.  `F55`
 - As the tree dries out, they move onto the decorations and the furniture.  `F58`
@@ -94,7 +94,7 @@ Titles: Never Bring a Christmas Tree Inside Before You Check for This / Can Chri
 - Iowa State sums up the tiny ones. They can't bite or sting, and they won't live long enough to grow or multiply.  `F20`
 - Newly hatched aphids and spiderlings are about a sixteenth of an inch.  `F22`
 - Most of them starve or dry out.  `F21`
-- Your living room is basically the worst vacation they've ever booked.  `joke`
+- Your living room is the worst resort they've ever booked. Dry, foodless, terrible.  `joke`
 - Penn State's rule for anything you find: leave it on the tree until the tree goes out, and vacuum whatever lands on the walls or ceiling.  `F75`
 
 ## 9. The one that matters outside (STOWAWAY 9 OF 9)
@@ -113,7 +113,7 @@ Titles: Never Bring a Christmas Tree Inside Before You Check for This / Can Chri
 - Penn State says aerosol insecticides are often flammable and usually not labelled for indoor use.  `F60`
 - Illinois Extension just says never.  `F61`
 - North Carolina State's entomologists put it this way: with the lights on, you could set the tree on fire.  `F63`
-- Bug spray plus Christmas lights. That's not pest control, that's a news story.  `joke`
+- Bug spray plus Christmas lights. Whoever started that tip deserves a [BLEEP] lump of coal.  `joke`
 - And you don't need it. Iowa State says spraying a fresh-cut tree isn't necessary or recommended.  `F62`
 - Should you hose the tree off outside first? North Carolina State says you can. The Norwegian biologist says don't, because washing damages the tree. Shaking is the step most advice agrees on.  `F80 F9 F76`
 - Same idea for firewood. Illinois says bring in a day or two of wood at a time, because things wake up in there too.  `F84 F86`
@@ -133,3 +133,21 @@ Titles: Never Bring a Christmas Tree Inside Before You Check for This / Can Chri
 - Check for the marshmallow, and go get the tree.  ``
 - And that egg case you tucked into the bush? In spring, it hatches where there is actually something to eat.  `F24 F40`
 - Next, the skinny spider in the corner of your ceiling. Don't squish that one either.  ``
+
+## Changelog
+
+- 2026-11-18, 12:42 PM ET, Writer punch-up of the 10 `joke` lines (sarcastic roast of the bug or the myth, never the viewer). Fact, safety and other non-joke lines untouched, word for word. Timestamps are at 155 wpm from 0:00, old → new. Header 'Words: 1525' left as is: the new total is 1531 words (+6), 9:50.32 → 9:52.65 at 155 wpm.
+- Swears: 2 total, both spoken punchlines only, none in the first 7 s, title or thumbnail. 'damn' at 3:39.87 (caption: 'dang'); [BLEEP] at 8:18.19 (caption drops the bleeped word: 'deserves a lump of coal'). No profanity in captions or on-screen text.
+
+| Old time → new time | Words old → new | Old line | New line |
+|---|---|---|---|
+| 0:16.26 → 0:16.26 | 9 → 11 | Merry Christmas. You're a dad now. Of three hundred. | Merry Christmas. Your tree came with a free toddler starter pack. |
+| 1:05.81 → 1:06.58 | 16 → 17 | So the scariest number on the internet is one guy, one sentence, twelve years ago. Classic. | So the internet's scariest bug stat is basically a rumor in a lab coat. Stellar work, internet. |
+| 2:20.90 → 2:22.06 | 15 → 15 | A ping-pong ball. Full of babies. On the tree you're about to hang tinsel on. | A ping-pong ball. Full of babies. Wedged in your tree like the world's worst ornament. |
+| 2:44.13 → 2:45.29 | 9 → 10 | Of course they do. They have taste. Expensive taste. | Of course they do. Bougie little bugs. Fir snobs, honestly. |
+| 3:20.52 → 3:22.06 | 14 → 13 | Nothing says holiday spirit like your new kids eating each other under the tree. | Nothing says peace on Earth like siblings eating each other under the tree. |
+| 3:38.71 → 3:39.87 | 13 → 12 | You came for a Christmas tree. You leave running a damn bug daycare. | Congratulations. Your festive pine just became a damn daycare for tiny cannibals. |
+| 4:20.13 → 4:20.90 | 9 → 11 | And you, a grown adult, screaming at a present. | Very spooky. Very dramatic. Very much not what it looks like. |
+| 4:41.42 → 4:42.97 | 15 → 13 | Yes, I'm asking you to count the legs on a bug. It's Christmas. Be brave. | Yes, we're counting bug legs at Christmas. This aphid made it everyone's problem. |
+| 6:51.10 → 6:51.87 | 11 → 13 | Your living room is basically the worst vacation they've ever booked. | Your living room is the worst resort they've ever booked. Dry, foodless, terrible. |
+| 8:16.65 → 8:18.19 | 13 → 15 | Bug spray plus Christmas lights. That's not pest control, that's a news story. | Bug spray plus Christmas lights. Whoever started that tip deserves a [BLEEP] lump of coal. |
