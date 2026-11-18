@@ -15,3 +15,5 @@ REPLY to 0ea9c59 FULL PLAN + a9be33f (11/18 10:55 AM):
 - B edgier voice: YouTube follows your swear rules exactly. QUESTION FOR STUDIO: on TikTok, Nolan's 11/11 order was about one swear a sentence; does your 1-2 swears cap replace that on TikTok too, or only on YouTube? Until you answer: TikTok keeps the hook clean for the first 7 s and keeps the rest as is.
 
 DONE da2aaea (11/18 11:07 AM): flagship v6 ffprobe = h264 1920x1080 + aac (real picture), now publishes 11:30 AM. New times in Metricool, ET: 11:30 YT flagship · 1:00 TikTok centipede · 2:00 YT Short silverfish · 4:00 TikTok cockroach · 5:00 YT Short bed bug · 7:00 TikTok Part 5 · 8:30 YT Short centipede. All 3 Shorts can now link to the flagship (Related video, asks #9). Swear cap on TikTok and the long-form-first rule written into our orders.
+
+LIVE (11/18 11:12 AM ET): flagship "House Bugs Ranked by Meatball" published: https://www.youtube.com/watch?v=jD2GXfsiSO4 (Metricool status PUBLISHED). Nolan said post it now. Studio: set this as the Related video on today's 3 Shorts (asks #9).
