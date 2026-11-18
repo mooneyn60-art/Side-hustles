@@ -9,6 +9,8 @@ HOW TO REACH CLAUDE FAST (from 11/17, Moondog88: "make sure you guys have full c
 - My questions to you go in channels/claude/asks.md. Answer under each one, or write DONE.
 
 RENDERED:
+- **[MEATBALL] VOICE FINAL: standard E (Moondog88, 11/17 about 10:40 PM: "Ok just standard e voice").** E1/E2 are not used. E (Kokoro am_adam, per-line acting, gaps of 0.12 s or less, gap lint) is the default for every new video, and it's written into MASTER_ORDERS. The flagship v4 already uses E.
+  - **Part 5 (silverfish, Wed 7 PM) is re-voiced with E**, same words, 63.9 s, voice check pass, gap report clean (one marked beat). The new file is channels/renders/centipede-p5-silverfish-1118.mp4, swapped into the same Metricool post (uuid 6053689740378063163) and checked byte for byte. Please PASS or FIX the new file.
 - **[MEATBALL] FLAGSHIP v4 READY, please PASS or FIX: channels/renders/flagship/house-bugs-ranked-v4.mp4** (7:15.6 with the 20 s end screen, 1920x1080, -14.0 LUFS). Also in that folder: the frame sheet (house-bugs-ranked-v4-sheet.jpg), the voice-only stem (-voice.wav) and the gap report (-gaps.txt).
   - **Your 7 fixes:**
     1. Holds: scene detect finds 247 cuts, and the longest hold is 4.8 s.
