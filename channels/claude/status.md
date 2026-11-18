@@ -1,7 +1,7 @@
 # Claude status (Claude overwrites this each run; see channels/team/claude-sync-schedule.md)
 Start here: channels/claude/handbook.md (everything I know: tools, numbers, rules, files, schedule, and my questions for you).
 Sections every run: RENDERED, POSTED/SCHEDULED, BLOCKED, ETA, NUMBERS, and ASKS FOR STUDIO (what you need to fix so I can keep going; the open list lives in channels/claude/asks.md).
-Updated Tue 11/17 about 11:00 PM ET by Claude.
+Updated Wed 11/18 7:45 AM ET by Claude (morning run).
 
 HOW TO REACH CLAUDE FAST (from 11/17, Moondog88: "make sure you guys have full communication"):
 - I now check this repo every 2 hours (9:23 AM, 11:23, 1:23 PM, 3:23, 5:23, 9:23 PM ET), plus the 7:37 AM morning run and the 6:41 PM evening read. A new note gets an answer in status.md within about 2 hours.
@@ -9,6 +9,37 @@ HOW TO REACH CLAUDE FAST (from 11/17, Moondog88: "make sure you guys have full c
 - My questions to you go in channels/claude/asks.md. Answer under each one, or write DONE.
 
 RENDERED:
+- Read 6:55 AM "STUDIO PASS: BRAND KIT + 2 SHORTS CUTS". Done:
+  - **Shorts scheduled:** centipede P4 Short **Wed 7 PM** (uuid -6037382144699971034) and silverfish P5 Short **Thu 7 PM** (uuid -5401533295240854032). Statement titles, files checked byte for byte. Each has a first comment pointing to the flagship. The pin and the Related video are yours after 5 PM.
+  - Thumb A stays the flagship default (already set).
+  - Next: the Sat 8 AM single-question long-form "What Happens If You Leave a House Centipede in Your Bathroom?". Fact pack and script today, to Research & QA by Thu night; render by Fri 6 PM (v4 look, voice E2, gap lint).
+
+POSTED/SCHEDULED (Metricool, read 11/18 7:40 AM):
+- Wed 11/18: 5 PM flagship "House Bugs Ranked by Meatball" (YouTube, thumb A) | 7 PM centipede P4 Short (YouTube) | 7 PM Part 5 silverfish TikTok (E2).
+- Thu 11/19: 7 PM silverfish P5 Short (YouTube).
+- Everything else is draft (31 old-look posts pulled 11/17, listed in skills repo data/held.csv).
+
+BLOCKED:
+- ElevenLabs (voice F) needs Moondog88's account. It's parked, since E2 was picked.
+- Live-video changes (pins, end screens, Related, Test & Compare, banner/watermark uploads, About/shelves/playlists from channels/fixes/overhaul-1117.md) are NEEDS STUDIO. You said you'd do them after 5 PM.
+
+ETA:
+- Sat long-form script: Thu night. Render: Fri 6 PM.
+
+NUMBERS (TikTok public pages via postkit ttpage, 11/18 7:39 AM ET; the TikTok median is 233 per your 11/17 note):
+- Centipede **Part 2**: **650,600 plays**, 29,200 likes, 687 comments, 1,895 shares, 3,494 saves (it was 253,000 at noon 11/17).
+- Centipede **Part 4 (v3 look)**: **293 plays** at 12.6 h, 5 likes, 0 comments or shares. That's 1.3x the median, not a hit (the hit line is 1,165). The Part 2 audience didn't carry over. Part 5 tonight is the second data point for the v3 look.
+- Cassowary 368, electric eel 347, dog guilty look 272 (flat listing, the newest 4).
+- Not measured: YouTube numbers this morning. Windsor and the yt-dlp pull come with the evening read, after the flagship is live.
+
+ASKS FOR STUDIO (open list in channels/claude/asks.md):
+- The live-video items above (overhaul-1117.md and the flagship after 5 PM).
+- 3 stuck videos to check in Studio (asks #3).
+- Daily numbers only Studio shows: subs, watch hours, TikTok followers, Creator Rewards (asks #4).
+- BUG ID meter values: no longer needed (the cards use sourced rows only). Closing ask #8.
+
+
+---- older entries ----
 - **[MEATBALL] BRAND KIT READY, please PASS: channels/renders/brand/** (one-page view: brand-sheet.jpg)
   - **Flagship Test & Compare:** thumb-flagship-A-getout.png (bed bug + "GET OUT?" + a tier hint marking GET OUT), -B-ranked.png (centipede + "RANKED"), -C-whichone.png (centipede + "WHICH ONE?"). All share the same blue background, and every label reads at 320x180 (phone-check/).
   - **The 4 old long-form thumbs redone:** thumb-cH3HCZ8GlHk.png "NEVER KILL?", thumb-xeAsg5ECpgw.png "3 MORE", thumb-bqij8Ht6SX4.png "RANKED", thumb-KWOM2-mNmww.png "KILL IT?".

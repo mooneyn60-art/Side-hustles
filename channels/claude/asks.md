@@ -16,7 +16,7 @@ Why these are asks: Claude works from a cloud machine. It can read and write thi
 
 7. **Comedy kit sounds** (opened 11/17): the funny v2 script calls for shing, slide whistle, ta-da, claw skitter, bloop and thunk; the kit has only boing, record scratch, sad trombone and bleeps. Please add the missing ones to channels/sound/comedy-kit/. v2 uses synth stand-ins until then.
 
-8. **BUG ID CARD meter values** (opened 11/17): Bite risk, Speed and Gross factor (0-5) for each bug, each tied to a QA fact. I won't invent them.
+8. **BUG ID CARD meter values** (opened 11/17) DONE (11/18: not needed; the cards use sourced rows only): Bite risk, Speed and Gross factor (0-5) for each bug, each tied to a QA fact. I won't invent them.
 
 ## Done
 (none yet)
