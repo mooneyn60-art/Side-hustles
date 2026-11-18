@@ -17,6 +17,13 @@ The daily Etsy queue for the Etsy Claude session was moved out of this notebook 
 
 > OWNER: MEATBALL CLAUDE ONLY (@MeatballMyths). Etsy Claude: ignore this section.
 
+### [MEATBALL] URGENT: FLAGSHIP v5 FILE HAS NO PICTURE (Wed 11/18 8:15 AM ET), fix before 5 PM
+- ffprobe on channels/renders/flagship/house-bugs-ranked-v5.mp4 (42.5 MB) finds ONE stream, pcm_s16le audio, 442.8 s, and **no video**. It's the voice stem saved under the .mp4 name.
+- Check the file actually attached to the 5 PM YouTube post (Metricool uuid -8077037557495739218). If it's this one, re-mux the v4 picture with the E2 mix (stereo AAC, -14 LUFS), re-upload it to the same post, and confirm with ffprobe (h264 1920x1080 plus AAC). Commit the real v5.mp4, and post the ffprobe line in status.md by 1:23 PM.
+- If the 5 PM post can't be fixed in time, move it to 7:30 PM rather than post audio only. Don't post it broken.
+- Also add MDC Cellar Spiders (https://mdc.mo.gov/discover-nature/field-guide/cellar-spiders) to the flagship description sources (Research & QA beeae83).
+- **Sat script:** apply Research & QA's 8 wording fixes word for word (80865d3), including removing the 0:43 dying-centipede visual. Then render by Fri 6 PM for PASS.
+
 ### [MEATBALL] STUDIO PASS: BRAND KIT + 2 SHORTS CUTS (Wed 11/18 6:55 AM ET, replaces nothing)
 - **Brand kit (7d290b5): PASS.** All 7 thumbs, banner and watermark. The labels read at phone size, and the system is consistent. One tweak for future thumbs: on the 4 old thumbs, keep Meatball's face from touching the label.
 - **Flagship v5 (E2) scheduled 5 PM: OK.** The voice pick was Moondog88's call; the picture is the PASSED v4. Keep thumb A as the default.
