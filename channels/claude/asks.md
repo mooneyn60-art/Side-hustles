@@ -149,3 +149,106 @@ On PASS I schedule Sat 11/21 8 AM with thumb channels/renders/brand/thumb-centip
 
 - 11/18 3:40 PM: script + previews + TikTok READY: channels/scripts/philosophy-ship-of-theseus.md; channels/renders/philosophy-1118/preview-thumb.png, preview-first10s.mp4, tt-philosophy-ship.mp4 (64.0 s, voice check pass, gaps clean, lint pass). The Short (44.6 s) is rendering. Research & QA: please check the script now. Studio: previews to Nolan.
 - 11/18 3:50 PM: BOTH RENDERS DONE. channels/renders/philosophy-1118/tt-philosophy-ship.mp4 (64.0 s) and yt-philosophy-ship.mp4 (44.6 s; ~45 s per your order, longer than our 15-20 s Short rule). Voice check pass on both, gaps clean, 1 light swear ("damn") at ~0:51 TikTok / 0:35 Short, captioned #@%!. Sources in the script: Sender & Milo, Nature Medicine 2021 (cell turnover; most neurons never replaced); Spalding et al., Cell 2005; Plutarch via MIT Classics; SEP "Identity Over Time" + "Material Constitution" (Hobbes; "Identity Over Time" does not name Plutarch/Hobbes). **Research & QA: second-model fact check needed before 9:15 PM.** I put both in Metricool now as HELD drafts (TikTok 9:30 PM, Short 10:00 PM). They go live only with your PASS + Studio KEEP by 9:15 PM; otherwise they move to Thu 11 AM.
+
+### #12 QA, 11/18 6:54 PM ET (Research & QA): Ship of Theseus script — **FIX** (5 fixes, all text or voice-line swaps)
+- **Checked:** `channels/scripts/philosophy-ship-of-theseus.md` at 400fb5a, covering the TikTok (64.0 s) and the Short (44.6 s).
+- **Rules used:** research-qa playbook, checklist C1–C12, the style-lane checklist (fdab8fd), MASTER_ORDERS.
+- **Sources fetched live 11/18 evening:**
+  - PubMed abstracts via NCBI E-utilities: 33432173, 16009139, 27541692, 23746839.
+  - SEP "Identity Over Time" and "Material Constitution".
+  - MIT Classics Plutarch.
+- **Couldn't verify:** the Sender & Milo **body text** the script quotes ("not all parts of the human body are ever replaced (for example, most brain neurons …) … complete turnover never happens"). nature.com shows only the abstract and references, so no line may rest on that body quote.
+- **Scope:** script only. I did not re-check the renders' frames or captions in this pass.
+
+**1. Facts (TikTok times; Short lines are the same unless noted)**
+
+| Line | Verdict | Quote (word for word, hedge kept) |
+|---|---|---|
+| 0:00 "Most of your body's cells get swapped out over the years. So are you even still you?" | **PASS, by count** | SFM16 (PLoS Biol 2016, PMID 27541692): "we identify the dominant role of the hematopoietic lineage to the total count (≈90%) and revise past estimates to 3.0·10^13 human cells". SM21 (Nat Med 2021, PMID 33432173): "We found a total cellular mass turnover of 80 ± 20 grams per day, dominated by blood cells and gut epithelial cells. In terms of cell numbers, close to 90% of the (0.33 ± 0.02) × 10^12 cells per day turnover was blood cells." "Most" holds only **by count**, where blood-line cells dominate. By mass, turnover is far slower. Keep "most" and never say "every". The hook doesn't, so it passes. |
+| 0:03.9 "Your body replaces about three hundred and thirty billion cells a day." | PASS (WATCH card) | SM21: "(0.33 ± 0.02) × 10^12 cells per day turnover". "About" is spoken. The card "330 BILLION CELLS / EVERY DAY" drops "about". Add "ABOUT" on any re-render; it doesn't block. |
+| 0:08.5 "Close to ninety percent of that is blood." | PASS | SM21: "close to 90% of the … cells per day turnover was blood cells." |
+| **0:10.4 (Short 0:03.9) "…Most of your brain's neurons never get replaced…"** | **FIX (over-reach)** | SP05 (Cell 2005, PMID 16009139): "we … determine the age of cells in the cortex of the adult human brain and show that whereas nonneuronal cells are exchanged, occipital neurons are as old as the individual, supporting the view that postnatal neurogenesis does not take place in this region." That covers one cortical region, not "most of your brain". Spalding et al., Cell 2013 (PMID 23746839) adds: "a large subpopulation of hippocampal neurons constituting one-third of the neurons is subject to exchange … We conclude that neurons are generated throughout adulthood". The SM21 body line saying most brain neurons are never replaced couldn't be opened (paywall). See F1–F3 for the fix. |
+| 0:15.7 "Philosophers have argued about this since ancient Greece, with a boat." | PASS | Plutarch, Life of Theseus (Dryden, MIT Classics): "this ship became a standing example among the philosophers, for the logical question of things that grow; one side holding that the ship remained the same, and the other contending that it was not the same." |
+| 0:18.9 "The Athenians kept the ship of Theseus. As the old planks decayed, they swapped in new timber." | PASS | Plutarch: "was preserved by the Athenians down even to the time of Demetrius Phalereus, for they took away the old planks as they decayed, putting in new and stronger timber in their place". |
+| 0:23.4 "Plank by plank, until not one original plank is left." | PASS | SEP "Identity Over Time": "Over a long period all of the planks composing a certain ship are replaced one by one. Eventually a ship indiscernible from the original, but composed of entirely different planks, results." SEP "Material Constitution": "Plutarch describes the famous ship of Theseus whose parts were all gradually replaced over time." |
+| 0:30.9 Hobbes collects the old planks and rebuilds "in the original arrangement" (Short 0:20.4: "put the ship back together") | PASS | SEP "Material Constitution": "Thomas Hobbes imagined a scenario in which a custodian collects the original planks and puts them back in the original arrangement." SEP "Identity Over Time" describes the same case ("Call the ship composed of the same planks as the ones initially composing the original ship Reassembly") but **names neither Hobbes nor Plutarch**. The attribution correctly rests on SEP-MC and Plutarch. |
+| 0:36.5 "Now there are two ships…" | PASS | SEP-MC: "we are left with two seafaring vessels, one on display in Athens and one in possession of the custodian. But where is the original Ship of Theseus?" |
+| 0:39.8 / 0:43.0 (Short 0:28.1 Team Athens / Team rebuilt) | PASS | SEP-MC: "Some will say that it is with the museum, since boats can survive the gradual replacement of parts. Others will say that it is with the custodian, since constructs can survive being taken apart and put back together." |
+| 0:47.6 "Agree with both, and the ship exists twice." | PASS | SEP-MC: "Both arguments seem compelling, but together they imply that the ship survives twice over." |
+| Ruling, phone screen, vote, "Half of you are wrong" | N/A (opinion/joke) | Labelled as Meatball's ruling, not a finding (C2). |
+
+**2. Exact fixes**
+- **F1, TikTok 0:10.4 (re-voice one line):**
+  - Current: "But not everything. Most of your brain's neurons never get replaced. So you're part new, part original."
+  - Fixed: "But not everything. Neurons in part of your brain's outer layer are as old as you are. So you're part new, part original."
+  - Source: SP05, "occipital neurons are as old as the individual". The occipital cortex is part of the outer layer.
+- **F2, Short 0:03.9 (re-voice one line):**
+  - Current: "But most of your brain's neurons never get replaced. So you're part new, part original."
+  - Fixed: "But not everything. Neurons in part of your brain's outer layer are as old as you are. So you're part new, part original."
+  - Placement: the condition sits right after the hook, at 3.9 s, which is close enough. Keep it there.
+- **F3, on-screen card at both of those lines:**
+  - Current: "MOST NEURONS: NEVER REPLACED"
+  - Fixed: "SOME BRAIN NEURONS: AS OLD AS YOU"
+- **F4, YouTube description:**
+  - Current: "most of your cells get replaced over time, but most of your brain's neurons never do."
+  - Fixed: "most of your cells, by count, get replaced over time, but neurons in part of your brain's outer layer are as old as you are."
+- **F5, Short joke average is 3.4, under 3.5 (style-lane A).**
+  - Add the TikTok's wallet punch back into the Short, right after 0:37.7: "New screen, and that phone was never the same again. Neither was my wallet."
+  - It's already voiced and drawn for the TikTok; the Short grows to about 48 s.
+  - With it, the Short averages 3.5.
+
+**3. Checklist C1–C12 (script-relevant)**
+- **C1:** FIX, see F1–F4. Otherwise PASS.
+- **C2:** PASS. The verdict is labelled Meatball's ruling.
+- **C3:** N/A. No safety instruction.
+- **C4:** PASS. Jokes add no facts.
+- **C5:** PASS.
+- **C6:** PASS. This is a new lane, approved as a test only (TASKS 11/18 2:50 PM, Nolan; HOLD/KEEP rule at 2:55 PM).
+- **C7:**
+  - No banned title words.
+  - The Short runs 44.6 s against the 16–20 s rule; the Studio 2:50 PM order (about 45 s) overrides it.
+  - TikTok is 64.0 s, at least 61 s (T1).
+- **C8:** N/A.
+- **C9:** WATCH. 0:00–0:15.7 is facts only, with no gag. The hook question carries it; consider a Meatball reaction beat in the next philosophy test.
+- **C10 and C11:** PASS.
+  - One light "damn", at about 0:51 on the TikTok and 0:35 on the Short. It's past 7 s and 0:25, and spoken only.
+  - The caption shows "#@%!", which is a grawlix, not profanity.
+  - No swear in the title, caption, thumbnail, cards or pinned comment.
+- **C12:** PASS.
+
+**4. Style lane (fdab8fd)**
+- **A, joke scores:**
+
+| # | Joke | Score |
+|---|---|---|
+| J1 | "Philosophers have argued about this since ancient Greece, with a boat." | 3 |
+| J2 | "Same ship, or new ship? Pick one, no fence-sitting." | 3 |
+| J3 | "Agree with both, and the ship exists twice. That's not a ship, that's a damn glitch." | 3 (the idea carries it, not the swear) |
+| J4 | "Meatball's ruling: It's NOT the same ship. And if you disagree, you've never replaced a phone screen." | 4 |
+| J5 | "New screen, and that phone was never the same again. Neither was my wallet." (TikTok only) | 4 |
+| J6 | "Half of you are wrong. And remember…" (loops into line 1) | 4 |
+
+  - **TikTok average: 3.50 (PASS).**
+  - **Short average: 3.40 (FIX, see F5)**, or 3.50 with J5 added.
+  - No joke scores 1–2.
+  - The first 5 s stops the scroll on its own (a direct "are you still you?" question).
+  - No filler lines.
+- **B, originality:** PASS.
+  - All lines are our own. There's no prior post with the phone-screen, glitch, fence-sitting or "half of you are wrong" bits; repo and Claude scripts were searched, and the only hits are Studio's own 11/18 brief.
+  - No show catchphrases or impressions.
+  - The SEP and Plutarch facts are paraphrased, not presented as quotes.
+  - First philosophy post, so there are no repeats of earlier posts.
+- **C, the 10 red flags:**
+  1. Hate: none.
+  2. Harassment: none ("Fight me" in the pinned comment is aimed at an idea).
+  3. Sexual content: none.
+  4. Violence: none.
+  5. Misinformation as fact: **FIX at 0:10.4 / Short 0:03.9** (F1–F3).
+  6. Minors: none; made for kids NO.
+  7. Profanity: OK.
+  8. Sensitive events: none.
+  9. Politics: none.
+  10. Clickbait: WATCH. The YouTube title "…Replace Every Plank and It's Not the Same Ship" states Meatball's side as fact. It matches the video's ruling, so it's not clickbait, but the safer form is "The Ship of Theseus: Meatball Says It's Not the Same Ship 🚢".
+- **D, tags at upload:** made for kids NO, YouTube altered/synthetic NO, TikTok AI label ON (per the 2:50 PM order).
+
+**After the fixes:** re-voice the one condition line in each cut and swap the card, description and F5 line. No re-check needed beyond a transcript check that the new line is spoken word for word. The HOLD/KEEP rule (9:15 PM ET) is unchanged.
