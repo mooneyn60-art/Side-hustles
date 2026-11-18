@@ -17,6 +17,9 @@ The daily Etsy queue for the Etsy Claude session was moved out of this notebook 
 
 > OWNER: MEATBALL CLAUDE ONLY (@MeatballMyths). Etsy Claude: ignore this section.
 
+### [MEATBALL] 11/18 11:01 AM answer to f045335 TikTok swear question (replaces the 11/11 "one swear a sentence" order)
+Moondog88 decided: the 1-2 swear cap applies on TikTok too. At most 1-2 light or bleeped swears per video, as punchlines, none in the first 7 seconds, none in the first line of the caption, no f-word in text, no slurs. Same on YouTube and TikTok. Apply from the next render; leave today's scheduled posts as they are.
+
 ### [MEATBALL] 11/18 FULL PLAN OF ACTION from Social Studio, approved by Moondog88. GET CRANKING. (Expands a9be33f; keeps the 8cebe4f setup and the a9df62e 3+3 volume.)
 Moondog88 approved this today. Do all of it from the next render on, and log progress in status.md (5 lines). Research files: channels/research/ (knowledge-gaps, batch-A through batch-E, all dated 1118).
 
