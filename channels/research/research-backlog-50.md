@@ -53,6 +53,7 @@ DONE 11/18, see batch-C-search-demand-1118.md
 38. Kids vs. adult audience signals, and the made-for-kids risk with a cartoon style.
 39. Faceless and animated channel monetization case studies.
 40. Comment patterns on bug videos: what viewers ask next.
+DONE 11/18, see batch-D-competitors-1118.md
 
 ## Batch E: production quality and trust
 41. TTS voice perception: do AI voices hurt retention? Any studies.

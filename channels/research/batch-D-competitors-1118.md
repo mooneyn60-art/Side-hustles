@@ -65,3 +65,71 @@ In the animal niche, TierZoo is the clear model: animals are treated as video-ga
 2. Put a criteria-based house-bug ranking (danger, “should you let it stay,” usefulness) on the Saturday proposal list, with on-screen stats in the TierZoo “build” style. YouTube’s blog recorded more than 1B views on “tier list” titles in H1 2025 and says the format works as long-form and as Shorts. Each ranked bug should still stand alone for search, per Batch B. [YouTube Blog — The tier list phenomenon](https://blog.youtube/culture-and-trends/tier-list/); [Plugged In — TierZoo](https://www.pluggedin.com/youtube-reviews/tierzoo/)
 
 3. In the Wednesday flagship and Saturday video, copy the small-team Kurzgesagt structure, not its 1,200-hour production: ask one question in the first seconds, give each fact its own visual beat, ground the hook in “what this means in your house,” and keep a sources line in the description. Affordable motion can stay “strategic static” (light movement on stills, pans, small loops) rather than fully animating every shot. This supports the locked ~7-minute flagship length, which is already closer to Deep Look’s short explainers (avg 2:30, 90% under 5 min) than to AntsCanada’s ~24-minute weekly vlogs. [Viducer](https://viducer.ai/blog/how-to-make-videos-like-kurzgesagt); [AIR Media-Tech](https://air.io/en/youtube-hacks/affordable-animation-workflows-for-creators-without-pixar-budgets); [ReachRanking — Deep Look](https://reachranking.com/youtube/UC-3SbfTPJsL8fJAPKiVqBLg)
+
+## Part 2 (topics 36-40)
+
+Social Studio, 18 November 2026 (America/New_York). Web-search snippets only; no live YouTube or TikTok dashboards. This part does not repeat Part 1's channel cadence, TikTok hook, Kurzgesagt-structure, 90-day trend, or tier-list findings.
+
+### 36. "What happens if..." question videos: an outlier study
+
+The format has sourced outliers in science and education, though not in a house-bug sample.
+
+On TED-Ed, TubeMind lists “What happens if you eat a silica gel packet? - Vivian Jiang” (published 31 Mar 2026) at 1.7M views, 3.5× the channel’s median. [TubeMind — TED-Ed](https://tubemind.io/channels/UCsooa4yRKGN_zEE8iknghZA)
+
+On What If (@whatifscienceshow), TubeMind’s strongest recent outlier (as of 11 Nov 2026) is the Short “What If You Grew 1cm Every Second?” at 3.3M views, 72× the channel’s median (published 30 Apr 2026). Other April–May 2026 “What If…” Shorts landed at 21×, 9.9×, 9.4×, and 7.3×. [TubeMind — What If](https://tubemind.io/channels/UCphTF9wHwhCt-BzIq-s4V-g)
+
+A Returbe study of 26,000+ long-form videos from about 2,800 English channels with 1,000–100,000 subscribers (October 2026) found a 15.4% 3×-outlier rate in science and education, and named explainer formats (“what happens if…”, “why does…”) as a format that travels well in that niche. [Returbe — YouTube niches with low competition in 2026](https://returbe.com/blog/youtube-niches-with-low-competition)
+
+**UNVERIFIED:** a house-bug or pest-niche “what happens if…” outlier study with sourced view counts. The figures above are science/education generally, not insect channels.
+
+### 37. Pest-control company channels: what they rank for
+
+They rank for search-intent ID, “signs you have X,” DIY-versus-pro, and local service queries, not for myth explainers.
+
+Pest Badger is described in a 2026 interview as about the fourth-largest pest-control YouTube channel, at about 120,000 subscribers. The operator says the channel grew on educational videos people search for (how to identify pests, what to do with a wasp nest, when to call a pro versus DIY), then added behind-the-scenes and “crazy pest” stories, with titles aimed at service-area keywords such as “how to get rid of wasps in Michigan” and “best pest control Green Bay.” [Local Marketing Secrets — Jonas Olson / Pest Badger](https://danleibrandt.com/local-marketing-secrets/jonas-olson)
+
+A pest-control YouTube playbook lists the high-search formats as pest ID (“termite or ant?”), “signs you have ___,” and DIY-but-know-the-limit explainers, with behind-the-scenes treatment videos as low-search/high-trust. It says to put the searched phrase in the first 60 characters of the title, for example “Carpenter Ants vs Termites: How to Tell the Difference (Austin, TX).” [Mujgos — How to promote pest control on YouTube](https://mujgos.com/pest-control/how-to-promote-pest-control-on-youtube/)
+
+A 2026 pest-control content calendar adds that YouTube videos can also appear in Google results for queries such as “termite control [city],” “how to get rid of carpenter ants,” and “bed bug treatment.” [Cube Creative — 52-Week Pest Control Content Calendar for 2026](https://cubecreative.design/blog/pest-control-marketing/complete-2026-calendar-and-content-strategy)
+
+**UNVERIFIED:** a current keyword-ranking export (Search Console or similar) for a named pest-control company channel.
+
+### 38. Kids vs. adult audience signals, and the made-for-kids risk with a cartoon style
+
+Animation alone does not make a video “made for kids,” but cartoon characters are one of the official factors, and a wrong or overridden setting would break the Shorts-to-long-form funnel.
+
+YouTube’s help page, citing FTC COPPA guidance, says a video is child-directed if children are the primary audience, or if they are one intended audience (“mixed audience”). Factors include subject matter, intended or actual audience, child actors, “characters, celebrities, or toys that appeal to children, including animated characters or cartoon figures,” child-directed language, child-appealing activities (songs, games, early education), advertising to children, and other audience evidence. [YouTube Help — Determining if your content is “made for kids”](https://support.google.com/youtube/answer/9528076)
+
+The official FAQ says a video is not automatically made for kids just because children may incidentally see it, or because it is “family friendly.” One listed example of general-audience content, absent other signals of intent to target kids, is “an animated program that appeals to everyone.” A 13+ disclaimer is not, by itself, enough for the FTC to treat the video as not made for kids. YouTube also says not to rely on its systems to set the audience; it can override a setting, after which the creator can appeal only once. [YouTube Help — FAQ about “made for kids”](https://support.google.com/youtube/answer/9684541)
+
+A 2026 explainer summarizing those policies notes the operational cost of marking a video made for kids “to be safe”: comments, cards, end screens, and personalized ads are lost. [FYProof — YouTube Made for Kids Setting and COPPA, Explained](https://fyproof.com/guides/youtube-made-for-kids-setting)
+
+### 39. Faceless and animated channel monetization case studies
+
+Third-party estimates, not official YouTube payouts, put animated and faceless education-adjacent channels in a mid RPM band, with Shorts far lower. Long-form views and audience geography drive the money.
+
+Peeksy’s 2026 teardown of nine faceless channels, using Social Blade estimated CPM ranges, lists LifeNoggin (about 3.6M subscribers, fully animated, faceless) at an estimated $7,000–$18,000 per month and an RPM around $2.00–$4.50. Nearby comparables in the same piece: Be Amazed about $2.50–$4.00 RPM; Casual Geographic about $2.50–$5.00; Aperture (science/future-tech) about $3.50–$7.00. The same article’s rule of thumb for a 100,000-subscriber faceless channel with 300,000–500,000 monthly views is about $600–$1,500 a month in AdSense before production costs. [Peeksy — Faceless YouTube channel revenue: what 9 channels made](https://peeksydashboard.app/blog/faceless-channel-revenue-2026)
+
+Returbe’s October 2026 niche table lists science and education RPM at about $6.50. [Returbe — YouTube niches with low competition in 2026](https://returbe.com/blog/youtube-niches-with-low-competition)
+
+ByNiche’s animated-stories niche card (updated 17 Nov 2026) is a weaker match for Meatball’s lane, but it does show the Shorts gap: long-form RPM about $1.2–$3, Shorts about $0.04–$0.1 per 1,000 views, with 77% of tracked channels faceless. [ByNiche — Animated stories](https://byniche.app/en/niches/animated-stories)
+
+**UNVERIFIED:** official AdSense or RPM figures for a house-bug or pest-education animated channel. All dollar figures above are third-party estimates.
+
+### 40. Comment patterns on bug videos: what viewers ask next
+
+No sourced, cross-channel study of YouTube comment text on bug or insect videos was found. What is sourced is the question pest-control creators say they are asked most often after a treatment or ID video: safety around pets and kids, then what the product does and what the viewer can do.
+
+In “The Most Effective Spider Treatment Nobody Talks About!”, the presenter says the number-one asked question on the channel is “Is it safe for pets? And is it safe for kids?” [YouTube — The Most Effective Spider Treatment Nobody Talks About!](https://www.youtube.com/watch?v=N4eAjUsjwuM)
+
+A r/pestcontrol thread asking technicians for their top customer questions gives the same cluster: how toxic or safe a product is for pets, children, and bees; how long it lasts; what it actually treats; what the customer can do to help; and cost. [r/pestcontrol — top 5 questions](https://www.reddit.com/r/pestcontrol/comments/1b8gx1k/what_are_the_top_5_questions_youre_asked_by_a/)
+
+**UNVERIFIED:** a quantified ranking of YouTube comment types on bug-education videos (ID requests versus safety versus “what about this other species”).
+
+## Supported changes from part 2 (up to 3)
+
+1. Test a “What happens if…” house-stakes title on Shorts and on the Saturday video (for example, “What happens if a stink bug winters in your wall?”), with the keyword still said and shown in the first 3 seconds. TED-Ed’s silica-gel “What happens if…” video ran at 3.5× its channel median (1.7M views). What If’s “What If…” Shorts reached as high as 72× (3.3M). Returbe’s October 2026 small-channel study flags “what happens if…” explainers as a format that travels in science and education (15.4% 3×-outlier rate). Each video should still stand alone for search, per Batch B. This is a title and hook test, not a copy of What If’s cosmic CGI. [TubeMind — TED-Ed](https://tubemind.io/channels/UCsooa4yRKGN_zEE8iknghZA); [TubeMind — What If](https://tubemind.io/channels/UCphTF9wHwhCt-BzIq-s4V-g); [Returbe](https://returbe.com/blog/youtube-niches-with-low-competition)
+
+2. Set every Meatball Myths upload to “No, it’s not made for kids,” and keep titles, thumbnails, and language aimed at homeowners (search questions and house stakes), not children. Cartoon characters are an official COPPA factor; a 13+ disclaimer is not enough by itself; and YouTube can override the setting. If a video is marked or overridden to made-for-kids, comments (so no pinned comments) and end screens and cards (so no Related-video link) go away, which would break the Shorts-to-long-form funnel already planned from YouTube’s own guidance. [YouTube Help — Determining if your content is “made for kids”](https://support.google.com/youtube/answer/9528076); [YouTube Help — FAQ](https://support.google.com/youtube/answer/9684541); [FYProof](https://fyproof.com/guides/youtube-made-for-kids-setting)
+
+3. Do not chase pest-company keywords such as “pest control [city]” or treatment how-tos. Those channels already target ID, “signs you have X,” DIY-versus-pro, and local service queries. Stay in the myth, ID, and “what happens if” house-guest lane. In the last 5 seconds and the pinned comment, tee up the question those viewers ask next — “is it dangerous / is this [pest]?” and “what about pets and kids?” — with sourced wording and no unsourced medical or treatment claims. [Mujgos](https://mujgos.com/pest-control/how-to-promote-pest-control-on-youtube/); [Pest Badger interview](https://danleibrandt.com/local-marketing-secrets/jonas-olson); [spider-treatment video](https://www.youtube.com/watch?v=N4eAjUsjwuM)
