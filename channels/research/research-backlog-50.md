@@ -14,6 +14,7 @@ Rules: every finding needs a source link or our own numbers. Mark unproven claim
 8. Pinned comments and community posts: whether they help reach.
 9. Upload time and day for long-form, US audience.
 10. YPP: the current rules, including whether Shorts views count toward the 10M path.
+DONE 11/18, see batch-A-youtube-growth-1118.md
 
 ## Batch B: growth mechanics (TikTok)
 11. Creator Rewards: qualified-view rules and RPM ranges.
