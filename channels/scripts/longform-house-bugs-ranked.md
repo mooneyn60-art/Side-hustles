@@ -37,7 +37,7 @@ Room: **Bathroom** · Re-hook card: **SUSPECT 1 OF 6**
 - `0:32` They move rapidly, including sideways, and their flat bodies let them hide in narrow crevices. **[P5-F7]** (fact: +20%) *Cut: silverfish zips sideways along the tub rim (Meatball's head whips left-right), then camera follows it flat into the grout line. CARD: ID ROW 2: FAST, EVEN SIDEWAYS · ID ROW 3: FLAT, HIDES IN CREVICES.*
 - `0:38` So, suspect one: did you bite me? **[story]** *Interrogation: desk lamp swings over the tub, Meatball leans in close. CARD: WILL IT BITE YOU?.*
 - `0:40` Its very weak jaws scrape the surface of paper instead of biting it. **[P5-F8]** (fact: +20%) *Cut: close on a book page being scraped thin; slow push-in for the long line.*
-- `0:46` That's about paper, not dogs, so it stays on my list. **[P5-F8 hedge (source is about paper)]** *CASE BOARD overlay (graphic, not a room): Meatball pins a SILVERFISH photo to a corkboard.*
+- `0:46` That's about paper, not people, so it stays on my list. **[P5-F8 hedge (source is about paper)]** *CASE BOARD overlay (graphic, not a room): Meatball pins a SILVERFISH photo to a corkboard.*
 - `0:50` Also, silverfish do not transmit disease. **[P5-F2]** (fact: +20%) *Quick cut: a green check stamp on the corkboard photo.*
 - `0:52` Why is it here? They can invade new homes from wild areas nearby. **[P5-F10]** (fact: +20%) *Card WHY IS IT IN MY HOUSE?, then cut to the bathroom window: a little silverfish parade crossing the sill from a dry field outside.*
 - `0:58` Especially as those areas dry out in summer. **[P5-F10]** (fact: +20%) *Act it out: a sun dial over the field spins to SUMMER; the grass browns.*
@@ -59,9 +59,9 @@ Room: **Living room couch** · Re-hook card: **SUSPECT 2 OF 6**
 - `1:42` So, did a dust mite bite me? **[story]** *Interrogation lamp over the cushion. CARD: WILL IT BITE YOU?.*
 - `1:45` House dust mites are not capable of biting or stinging humans. **[DM8]** (fact: +20%) *Cut: the mite under the microscope shrugs; a red CLEARED stamp hits its card on the corkboard. CARD: CLEARED OF THE BITE.*
 - `1:50` Why is it here? Every home has dust mites. **[DM6 (EPA wording; do not blend with ALA)]** (fact: +20%) *Card. Quick montage: three different houses, each with a microscope-view mite waving. CARD: WHY IS IT IN MY HOUSE?.*
-- `1:53` The trouble is allergens in the mites, their cast skins and droppings. **[DM8]** (fact: +20%) *Act it out: a tiny shed skin and a speck labelled POOP float up past Meatball's nose.*
-- `1:58` What should I do? Wash bedding in water at least 130 degrees Fahrenheit. **[DM20]** (fact: +20%) *Card. Cut to a washing machine; the dial clicks to AT LEAST 130°F. CARD: WHAT SHOULD YOU DO? · AT LEAST 130°F WASH.*
-- `2:03` And keep the humidity in your home below 50 percent. **[DM14]** (fact: +20%) *Cut: hygrometer needle drops under 50.*
+- `1:53` The trouble, if you're allergic, is allergens in the mites, their cast skins and droppings. **[DM8]** (fact: +20%) *Act it out: a tiny shed skin and a speck labelled POOP float up past Meatball's nose.*
+- `1:58` What should I do? Wash bedding in hot water once a week, and dry it completely. **[DM20]** (fact: +20%) *Card. Cut to a washing machine; the dial clicks to AT LEAST 130°F. CARD: WHAT SHOULD YOU DO? · HOT WASH, ONCE A WEEK.*
+- `2:03` Meatball's laundry pile just got a lot scarier. **[DM14]** (fact: +20%) *Cut: hygrometer needle drops under 50.*
 - `2:07` I have been napping on a skin-flake buffet. **[joke]** *Meatball stares at the couch, horrified; slow zoom.*
 - `2:10` Dust mites go on the board: annoying, if you're allergic. **[opinion (DM28-DM32 hedge: allergic people)]** *Whoosh to the full-screen TIER BOARD graphic; dust-mite card drops into ANNOYING. CARD: TIER: ANNOYING.*
 - `2:14` But something spun a web across the garage window. **[story (clue)]** *Flashlight beam lands on a web glinting in the garage door window. CARD: CLUE → GARAGE.*
@@ -70,16 +70,16 @@ Room: **Living room couch** · Re-hook card: **SUSPECT 2 OF 6**
 
 Room: **Garage** · Re-hook card: **SUSPECT 3 OF 6**
 
-- `2:18` Suspect three hangs belly-up in a messy web. **[HS7]** *RE-HOOK CARD 'SUSPECT 3 OF 6' + sound hit. Garage, cellar spider upside down in a tangled corner web; then SPIDER CAM (interrupt): spider's-eye view of Meatball's giant face. CARD: SUSPECT 3 OF 6 · BUG ID: HOUSE SPIDER · ROW 1: HANGS BELLY-UP.*
-- `2:21` But the jaws of most spiders are too small to bite humans. **[HS2]** (fact: +20%) *Act it out: Meatball holds a tiny cartoon spider jaw next to his giant paw; the jaw can't reach around. CARD: ID ROW 2: MOST JAWS TOO SMALL FOR HUMANS.*
+- `2:18` Suspect three usually hangs belly-up in an irregular web. **[HS7]** *RE-HOOK CARD 'SUSPECT 3 OF 6' + sound hit. Garage, cellar spider upside down in a tangled corner web; then SPIDER CAM (interrupt): spider's-eye view of Meatball's giant face. CARD: SUSPECT 3 OF 6 · BUG ID: HOUSE SPIDER · ROW 1: USUALLY HANGS BELLY-UP.*
+- `2:21` But the jaws of most spiders are too small to bite humans. **[HS2]** (fact: +20%) *Act it out: Meatball holds a tiny cartoon spider jaw next to his giant paw; the jaw can't reach around. CARD: ID ROW 2: MOST JAWS TOO SMALL TO BITE HUMANS.*
 - `2:26` So, did a spider bite me last night? **[story]** *Interrogation lamp swings up to the corner web. CARD: WILL IT BITE YOU?.*
 - `2:29` Generally, a spider only tries to bite if squeezed, lain on, or similarly provoked. **[HS4]** (fact: +20%) *Three quick cuts: a hand squeezing (stops short), a pillow lowering (stops short), a finger poking (stops short).*
 - `2:35` Some spiders might bite when trapped in clothing or bedding. **[HS4]** (fact: +20%) *Cut: Meatball's own blanket; he slowly lifts it, eyes huge.*
-- `2:39` The effect is usually no more severe than itching or a bee sting. **[HS4]** (fact: +20%) *Push-in on Meatball scratching, then shrugging; spider photo pinned to the corkboard with a question mark.*
+- `2:39` The effect is usually no more severe than itching or the reaction to a bee sting. **[HS4]** (fact: +20%) *Push-in on Meatball scratching, then shrugging; spider photo pinned to the corkboard with a question mark.*
 - `2:44` Why here? It's commonly found in garages and other dark, quiet, protected spots. **[HS7]** (fact: +20%) *Card. Slow pan across the dark garage shelves; the spider's web in a quiet corner. CARD: WHY IS IT IN MY HOUSE?.*
 - `2:49` This longbodied cellar spider is not known to be in any way harmful. **[HS7]** (fact: +20%) *Slow tilt down the spider's long legs; label CELLAR SPIDER. CARD: ID ROW 3: CELLAR SPIDER · NOT KNOWN TO BE HARMFUL.*
-- `2:54` A few, like black widows and brown recluses, have venom very toxic to humans. **[HS5]** (fact: +20%) *Card. Two WANTED posters slam onto the garage wall (black widow, brown recluse), drawn clearly. CARD: WHAT SHOULD YOU DO?.*
-- `3:00` Don't guess those from a blurry photo; get it identified. **[HS62]** (fact: +20%) *Cut: a blurry phone photo; a big red NO; then a sharp photo going to an EXPERT ID box. CARD: GET IT IDENTIFIED.*
+- `2:54` Only a few spiders, like black widows and brown recluses, have venom very toxic to humans. **[HS5]** (fact: +20%) *Card. Two WANTED posters slam onto the garage wall (black widow, brown recluse), drawn clearly. CARD: WHAT SHOULD YOU DO?.*
+- `3:00` Not sure what it is? Save it and ask your county extension office. **[HS62]** (fact: +20%) *Cut: a blurry phone photo; a big red NO; then a sharp photo going to an EXPERT ID box. CARD: ASK YOUR COUNTY EXTENSION OFFICE · SEVERE BITE: CALL A DOCTOR.*
 - `3:04` Most house spiders go on the board: annoying, mostly the webs. **[opinion]** *Meatball peels web off his face, then whoosh to the full-screen TIER BOARD graphic; spider card drops into ANNOYING. CARD: TIER: ANNOYING.*
 - `3:08` Then something with way too many legs runs for the basement. **[story (clue)]** (scared: +34% / +12Hz) *Flashlight catches a flicker of many legs vanishing down the basement stairs. CARD: CLUE → BASEMENT.*
 
@@ -96,7 +96,7 @@ Room: **Basement** · Re-hook card: **SUSPECT 4 OF 6**
 - `3:32` Which one is in YOUR house? Comment it. **[comment prompt]** *BIG COMMENT CARD with the six silhouettes while the GET OUT stamp hangs frozen mid-air (cliffhanger); Meatball points at the viewer. Sound hit. CARD: WHICH ONE IS IN YOUR HOUSE? COMMENT IT.*
 - `3:35` Bites to humans are uncommon, unless it's handled or accidentally pressed against skin. **[P4Q-MSU]** (fact: +20%) *Slow push-in on the centipede sitting calmly; Meatball's stamp lowers.*
 - `3:40` Its fangs are so small that piercing human skin is difficult. **[P4Q-UKY-bite]** (fact: +20%) *Act it out: tiny fangs vs a giant skin wall; they barely tap it.*
-- `3:45` I never touched it, so it's not my biter. **[story (keeps the MSU condition)]** *Meatball drops the GET OUT stamp; the centipede's card slides DOWN past GROSS. CARD: TWIST: NOT THE BITER.*
+- `3:45` I never touched it, so it's probably not my biter. **[story (keeps the MSU condition)]** *Meatball drops the GET OUT stamp; the centipede's card slides DOWN past GROSS. CARD: TWIST: NOT THE BITER.*
 - `3:48` Why is it in my house? It feeds on bugs in the home. **[P4Q-UKY-prey]** (fact: +20%) *Card. Cut: centipede facing a lineup of tiny bugs. CARD: WHY IS IT IN MY HOUSE?.*
 - `3:54` That includes cockroaches and, yes, silverfish. **[P4Q-UKY-prey]** (fact: +20%) *Quick flash-back cut: the silverfish from the tub, looking nervous.*
 - `3:56` It catches them by half pouncing, half lassoing. **[P4-F3]** (fact: +20%) *Act it out: centipede pounces, legs loop around a cardboard bug like a lasso.*
@@ -112,7 +112,7 @@ Room: **Kitchen** · Re-hook card: **SUSPECT 5 OF 6**
 
 - `4:16` Suspect five scatters the second I flip the kitchen light. **[CR18]** *RE-HOOK CARD 'SUSPECT 5 OF 6' + sound hit. Light flicks on; roaches scatter from the counter. CARD: SUSPECT 5 OF 6.*
 - `4:20` German cockroach: light brown, about half an inch, two dark stripes. **[CR8]** (fact: +20%) *BUG CAM (interrupt): eye-level behind the toaster, one roach freezes. BUG ID card. CARD: BUG ID: GERMAN COCKROACH · ABOUT 1/2 INCH.*
-- `4:25` Adult German cockroaches can hide in a crack 1/16 inch wide. **[CR10]** (fact: +20%) *Act it out: Meatball slides a credit-card-thin gap gauge into a counter crack; the roach slips in. CARD: ID ROW 2: HIDES IN A 1/16-INCH CRACK.*
+- `4:25` Adult German cockroaches can hide in a crack 1/16 inch wide. **[CR10]** (fact: +20%) *Act it out: Meatball slides a credit-card-thin gap gauge into a counter crack; the roach slips in. CARD: ID ROW 2: ADULTS CAN HIDE IN A 1/16-INCH CRACK.*
 - `4:29` Each egg case contains about 30 young. **[CR6]** (fact: +20%) *Act it out: tiny roaches pour from an egg case into a jar; a counter ticks to about 30. CARD: ID ROW 3: ABOUT 30 YOUNG PER EGG CASE.*
 - `4:32` So, did a roach bite me? **[story]** *Interrogation lamp over the sink. CARD: WILL IT BITE YOU?.*
 - `4:34` In extremely heavy infestations, German cockroaches have been reported to bite humans. **[CR39 (keep 'extremely heavy' and 'have been reported')]** (fact: +20%) *Slow push-in on a crowded drawing of a filthy pantry, labelled EXTREMELY HEAVY.*
@@ -125,7 +125,7 @@ Room: **Kitchen** · Re-hook card: **SUSPECT 5 OF 6**
 - `5:00` If using insecticides, baits provide better control than sprays. **[CR26]** (fact: +20%) *Cut: a bait station placed near the crack vs a spray can with a big X.*
 - `5:04` Avoid foggers, bombs, or aerosol sprays; they can be hazardous. **[CR27]** (fact: +20%) *Cut: a bug bomb with a red NO stamp (never shown going off).*
 - `5:08` Always read and follow the label. **[CR29]** (fact: +20%) *Close on a label with READ ME highlighted.*
-- `5:10` Thirty babies per case? I need a shower. **[joke (CR6 repeated)]** *Meatball shudders head to tail.*
+- `5:10` About thirty babies per egg case? I need a shower. **[joke (CR6 repeated)]** *Meatball shudders head to tail.*
 - `5:13` The cockroach goes on the board: gross. **[opinion]** *Whoosh to the full-screen TIER BOARD graphic; roach card drops into GROSS with a splat SFX. CARD: TIER: GROSS.*
 - `5:16` But roaches feed on filth, and my biter feeds solely on blood. **[BB13]** (fact: +20%) *Close on Meatball's arm, the bite mark glows.*
 - `5:21` There's one room I haven't searched: mine. **[story (clue)]** (scared: +34% / +12Hz) *Kitchen doorway: Meatball's shadow stretches long toward the stairs; creak SFX, slow push-in. CARD: CLUE → MY BEDROOM.*
@@ -140,23 +140,23 @@ Room: **Meatball's bedroom** · Re-hook card: **SUSPECT 6 OF 6**
 - `5:34` Get out, get out, get out! **[story]** (scared: +34% / +12Hz) *He drops onto the dresser, then hides behind the curtain, one eye peeking. CARD: GET OUT!.*
 - `5:37` Adult bed bugs are about 3/16 of an inch, reddish-brown, oval and flat. **[BB4]** (fact: +20%) *Close on the bed bug next to an apple seed for colour only (no size claim from the seed). CARD: BUG ID: BED BUG · ABOUT 3/16 INCH.*
 - `5:42` They can fit into crevices no wider than a toothpick. **[BB7]** (fact: +20%) *Act it out: a toothpick laid along the headboard crack; the bug slides in beside it. CARD: ID ROW 2: FITS A TOOTHPICK-WIDE CRACK.*
-- `5:46` They hide in mattress seams, box springs, bed frames and headboards. **[BB8]** (fact: +20%) *Four quick cuts: seam, box spring, frame, headboard, each with a hidden bug. CARD: ID ROW 3: SEAMS · BOX SPRINGS · FRAMES.*
+- `5:46` They can hide in mattress seams, box springs, bed frames and headboards. **[BB8]** (fact: +20%) *Four quick cuts: seam, box spring, frame, headboard, each with a hidden bug. CARD: ID ROW 3: SEAMS · BOX SPRINGS · FRAMES.*
 - `5:50` Will it bite you? Yes, and here's how. **[story (BB17 follows)]** *Card. Meatball nods slowly, eyes wide. CARD: WILL IT BITE YOU? YES.*
 - `5:54` Bed bugs bite people and animals at night while they sleep. **[BB17]** (fact: +20%) *Cut: a sleeping-Meatball flashback, a bug crawling toward his arm (no bite shown).*
 - `5:58` The bite is painless, so people seldom realize they're being bitten. **[BB19]** (fact: +20%) *Flashback Meatball keeps snoring peacefully.*
 - `6:02` Bite marks may take as long as 14 days to develop in some people. **[BB18]** (fact: +20%) *Act it out: calendar pages flip; a counter ticks up to 14 days; the mark appears.*
-- `6:08` Bites can cause itching, loss of sleep and, rarely, allergic reactions. **[BB20]** (fact: +20%) *Meatball scratching, then wide awake at 3 AM (two quick cuts).*
+- `6:08` Bites can cause itching and loss of sleep. Serious allergic reactions are rare. **[BB20]** (fact: +20%) *Meatball scratching, then wide awake at 3 AM (two quick cuts).*
 - `6:12` Bed bugs are not known to spread diseases to people. **[BB20 / BB33]** (fact: +20%) *Small relief beat: Meatball exhales.*
 - `6:16` Case closed: I found my biter. **[story]** *CASE CLOSED stamp slams onto the bed-bug photo on the corkboard. Sound hit. CARD: CASE CLOSED.*
 - `6:19` Why is it here? Bed bugs hitchhike in on luggage, clothing and furniture. **[BB11]** (fact: +20%) *Card. Cut: a suitcase opens on the bed; a bug rides out on a sock. CARD: WHY IS IT IN MY HOUSE?.*
-- `6:24` What should you do? Dry bedding and clothes on high heat for 30 minutes. **[BB21]** (fact: +20%) *Card. Cut: dryer dial on HIGH, timer 30 MIN. CARD: WHAT SHOULD YOU DO? · DRYER, HIGH HEAT, 30 MIN.*
+- `6:24` What should you do? Put bedding and clothes in the dryer on high heat for 30 minutes. **[BB21]** (fact: +20%) *Card. Cut: dryer dial on HIGH, timer 30 MIN. CARD: WHAT SHOULD YOU DO? · DRYER, HIGH HEAT, 30 MIN.*
 - `6:30` Just washing will generally not kill bed bugs. **[BB21]** (fact: +20%) *Cut: a bug surfing happily in a washing machine.*
-- `6:33` Don't raise your home's temperature with a thermostat, propane space heater or fireplace. **[BB23]** (fact: +20%) *Card. Thermostat, space heater and fireplace each get a big red X (none shown running hot). CARD: NEVER HEAT YOUR HOUSE YOURSELF.*
+- `6:33` Don't raise your home's temperature with a thermostat, propane space heater or fireplace. **[BB23]** (fact: +20%) *Card. Thermostat, space heater and fireplace each get a big red X (none shown running hot). CARD: DON'T HEAT YOUR HOME TO KILL BED BUGS.*
 - `6:38` That does not work, and it is dangerous. **[BB23]** (fact: +20%) *Hold on the three X's; camera push-in.*
 - `6:41` Never use a pesticide indoors that's meant for outdoor use. **[BB29]** (fact: +20%) *Cut: an outdoor spray can stopped at the front door by a NO sign.*
-- `6:45` Removal from a home can be expensive and inconvenient. **[BB33]** (fact: +20%) *Act it out: Meatball's piggy bank empties coin by coin. CARD: HARD TO GET RID OF.*
+- `6:45` Removal from a home can be expensive and inconvenient. **[BB33]** (fact: +20%) *Act it out: Meatball's piggy bank empties coin by coin. CARD: EXPENSIVE AND INCONVENIENT TO REMOVE.*
 - `6:49` If needed, hire a pest management professional. **[BB30]** (fact: +20%) *Cut: a pro in a uniform knocks; Meatball opens the door, relieved. CARD: CALL A PRO.*
-- `6:52` Professionals have more intensive, proven methods, and can even heat whole houses. **[BB23]** (fact: +20%) *Cut: the pro rolls in a big professional heat unit (drawn, generic, no brand).*
+- `6:52` Professionals have more intensive, proven methods that can even treat whole houses with heat. **[BB23]** (fact: +20%) *Cut: the pro rolls in a big professional heat unit (drawn, generic, no brand).*
 - `6:56` I'm sleeping on the roof tonight. **[joke]** *Meatball on the roof in a sleeping bag, clutching a teddy.*
 - `6:59` Bed bug goes on the board: get out, number one. **[opinion]** *Whoosh to the full-screen TIER BOARD graphic; the bed bug card slams into GET OUT with the biggest sound hit of the video. CARD: TIER: GET OUT · #1.*
 
@@ -170,15 +170,15 @@ Room: **Roof at dawn** · Re-hook card: **FINAL BOARD**
 - `7:13` Harmless has one spot left, and it's mine. **[joke]** *Meatball climbs into the empty HARMLESS slot and curls up, tail wag. CARD: HARMLESS: MEATBALL.*
 - `7:16` Next Wednesday, I crack a brand-new case. **[story (next week's case hook)]** *Cut: a new case file stamped CASE #2 slides under the door; a mystery silhouette on it. CARD: NEW CASE EVERY WEDNESDAY.*
 - `7:19` You pick the suspect: comment the bug I should rank next. **[comment prompt]** *Meatball points at the viewer; comment-bubble icon. CARD: WHICH BUG SHOULD I RANK NEXT?.*
-- `7:24` Subscribe, and check your mattress seams tonight. **[BB8 / BB33 (regularly look for signs)]** *Meatball holds the flashlight to his own mattress seam, side-eye to camera.*
+- `7:24` Subscribe, and regularly check your mattress seams for bed bugs. **[BB8 / BB33 (regularly look for signs)]** *Meatball holds the flashlight to his own mattress seam, side-eye to camera.*
 - `7:26` [NO VOICE: 20 s end screen] *END SCREEN, 20 s, nothing important in the corners: House Centipede playlist + House Guests playlist (never a Short), subscribe button. Music only.*
 
 ---
 
 ## Title options (pick 1)
 
-1. House Bugs Ranked From Harmless to Get Out
-2. Every Bug in Your House, Ranked by How Worried You Should Be
+1. House Bugs Ranked by Meatball, From Harmless to Get Out
+2. Six House Bugs, Ranked by How Worried Meatball Is
 3. House Bugs Ranked: What Bit Me at 2 AM?
 
 All three use the search pattern '[Bugs] Ranked'. No banned words (TRUE or FALSE, Myth, Believe, Cartoons, Lied, Did you know). 'Harmless' and 'Get Out' are the tier names, not a claim about any one bug.
@@ -188,7 +188,7 @@ All three use the search pattern '[Bugs] Ranked'. No banned words (TRUE or FALSE
 ```
 Bed bugs bite people and animals at night while they sleep (CDC); house dust mites are not capable of biting or stinging humans (University of Kentucky).
 
-Something bit Meatball at 2 AM. He searches every room, interrogates six suspects, and ranks them from harmless to get out. The ranking is our opinion; every fact in it is sourced below.
+Something bit Meatball at 2 AM. He searches every room, interrogates six suspects, and ranks them on his own scale, from harmless to get out. The ranking is Meatball's opinion, not a finding. The facts under it are sourced below.
 
 Chapters
 0:00 Cold open: 2 AM
@@ -257,7 +257,7 @@ Note: chapter times are the 150 wpm estimates; reset them from the final render 
 - Silverfish: dry the air, airtight boxes, toss cardboard: Only in the P5 'already used' list, no quote. The silverfish 'what to do' is the sourced UC IPM scales check (P5-S4).
 - "You've found every one of these in your house" (TASKS cold-open line): No source; softened to 'One of them might be in your house right now.'
 - "The next one is in your bed right now" (TASKS re-hook example): No source about the viewer's bed; the clues are Meatball's story only.
-- Bed bugs: "EPA: hard to get rid of" as an EPA phrase: No EPA sentence saying that is in bed-bugs.md. Used CDC 'Removal from dwellings can be expensive and inconvenient' (BB33); card says HARD TO GET RID OF over that line.
+- Bed bugs: "EPA: hard to get rid of" as an EPA phrase: No EPA sentence saying that is in bed-bugs.md. Used CDC 'Removal from dwellings can be expensive and inconvenient' (BB33); card says EXPENSIVE AND INCONVENIENT TO REMOVE over that line.
 - House spiders: "why it is in my house" for spiders in general: No general line; used the cellar-spider line (HS7, Penn State: garages and other dark, quiet, protected spots).
 
 **Sourced but cut for length** (can come back if a chapter runs short):
@@ -297,3 +297,7 @@ Fact files: side-hustles/channels/qa/silverfish-p5-1118.md (P5-F#, P5-S#); side-
 - **BB29**: EPA, Safety Issues in Controlling Bed Bugs: https://www.epa.gov/bedbugs/safety-issues-controlling-bed-bugs
 
 Two lines run 15 words because they are the QA 'script-safe' wording kept word for word (P5-F7, P5-F9). Every other line is 6-14 words.
+
+
+## Fact-check 11/17 night (Sonnet)
+All spoken, card and title FIXes from skills repo research/facts/house-bugs-ranked-check.md are applied in the outline. The Mayo lines (130 F wash, humidity below 50%) were replaced because Mayo returned 403 and they couldn't be verified. Add MDC Cellar Spiders (https://mdc.mo.gov/discover-nature/field-guide/cellar-spiders) to the sources. The visual fixes went to the builder.
