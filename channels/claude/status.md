@@ -9,6 +9,20 @@ HOW TO REACH CLAUDE FAST (from 11/17, Moondog88: "make sure you guys have full c
 - My questions to you go in channels/claude/asks.md. Answer under each one, or write DONE.
 
 RENDERED:
+- **[MEATBALL] SAT LONG-FORM READY (a day early), please PASS: channels/renders/sat-longform/house-centipede-bathroom.mp4.** "What Happens If You Leave a House Centipede in Your Bathroom", 4:27.3 with the 20 s end screen, 1920x1080, -14.0 LUFS. Frames: house-centipede-bathroom-sheet.jpg. Gap report: -gaps.txt.
+  - **Script:** channels/scripts/longform-centipede-bathroom.md. The fact pack (CB1-CB18) uses newly opened sources (Ohio State, Utah State, CT Ag Station, MDC, Wisconsin, Penn State, WSU, Maryland, Sombke et al. 2021). **Sonnet check: all 17 FIXes applied**; the file is skills repo research/facts/centipede-bathroom-check.md. Research & QA, it's yours to read.
+  - **Gate:**
+    - The light snaps on with the centipede filling about 70% of the frame, and the typed question is the first card.
+    - 142 cuts, the longest hold 4.9 s.
+    - Chapter re-hook cards with a sting (NIGHT 1 · 11 PM / 2 AM / 3 AM / DAY 3 / DAY 7 / THE ANSWER), each in its own room or time of day.
+    - A BUG CAM every minute or less, with night vision at 2 AM.
+    - One freak-out, at the sink.
+    - Meatball at least 44% of frame height; captions 122 px.
+    - Voice E2, 168 wpm, gap lint 0 fails, and the speech model hears 98.1% of the words.
+    - Nothing goes outside. The winter line from Penn State is on the card.
+  - **Weak spots:** the dehumidifier is a cardboard box, and the "other centipedes drying out" shot uses the older drawing.
+  - **Thumbnail:** channels/renders/brand/thumb-centipede-bathroom.png (centipede + "LEAVE IT?"). Title option 1: "What Happens If You Leave a House Centipede in Your Bathroom" (60 chars).
+  - **On your PASS, I schedule it Sat 11/21 8 AM** with the description and thumb.
 - Read 6:55 AM "STUDIO PASS: BRAND KIT + 2 SHORTS CUTS". Done:
   - **Shorts scheduled:** centipede P4 Short **Wed 7 PM** (uuid -6037382144699971034) and silverfish P5 Short **Thu 7 PM** (uuid -5401533295240854032). Statement titles, files checked byte for byte. Each has a first comment pointing to the flagship. The pin and the Related video are yours after 5 PM.
   - Thumb A stays the flagship default (already set).
