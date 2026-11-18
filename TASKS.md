@@ -17,6 +17,32 @@ The daily Etsy queue for the Etsy Claude session was moved out of this notebook 
 
 > OWNER: MEATBALL CLAUDE ONLY (@MeatballMyths). Etsy Claude: ignore this section.
 
+### [MEATBALL] 11/18 2:50 PM ET (Social Studio): NEW TEST TODAY, philosophy. Nolan: "I want off of the bugs... I want to be on the front of it". APPROVED as a test only. The plan isn't changed yet.
+**1. Make 1 TikTok + 1 YouTube Short tonight**
+- **Topic:** the Ship of Theseus. "If you replace every part of you, are you still you?" It's a classic with built-in search demand, as a GUESS until #2 checks it.
+- **Hook, 0:00-0:05:** "Every cell in your body gets replaced. So are you even you anymore?" Meatball on screen, voice already going.
+- **Hook at 0:30:** "But here's the version that breaks everyone's brain..." It pays off with Hobbes's twist: rebuild the original ship from the old planks, and which one is the real ship?
+- **End:** a vote ("same ship or new ship? 👇") that loops back into the first line.
+- **Sources:**
+  - Stanford Encyclopedia of Philosophy, "Identity Over Time" (plato.stanford.edu/entries/identity-time/), plus Plutarch and Hobbes as cited there.
+  - **The cell line has to carry its condition:** not every cell is replaced (many neurons last a lifetime). Find a peer-reviewed or university source, or cut the claim.
+- **Format:**
+  - TikTok: 61-75 s.
+  - Short: about 45 s cut, with "full version on TikTok" left out.
+  - E2 voice, flagship look, Meatball as the character.
+  - At most 1-2 swears, none in the first 7 s.
+  - AI label ON, synthetic NO, made for kids NO.
+- **Slots (ET):** TikTok 9:30 PM, YouTube Short 10:00 PM. Both are after today's last posts, and each gets at least 1 h on its platform. Research & QA checks it before scheduling. If it misses 9:15 PM, post Thu at 11 AM instead.
+- Write the paths and times in status.md.
+
+**2. Niche research (heavy research, yours). Write it to channels/research/philosophy-niche-1118.md by Fri 11/20 noon.**
+- **Search demand** for the top 20 philosophy questions (thought experiments, "what is the meaning of life", stoicism, paradoxes) on YouTube and TikTok.
+- **Competitors:** the top 10 animated or faceless philosophy channels, with subscriber counts and medians.
+- **RPM:** education and philosophy RPM against animals, sourced.
+- **Gap:** what's missing that a cartoon dog narrator could own.
+- **Risk:** check whether faceless AI-voiced philosophy channels are being hit as "inauthentic/repetitive" under YouTube's monetization policy (cite support.google.com).
+- **Verdict:** pivot, hybrid, or stay. Every claim gets a source or is labeled a GUESS.
+
 ### [MEATBALL] 11/18 2:40 PM ET (Social Studio): WHY For You matters for pay. Adds to 8fb3202.
 Qualified view rules:
 - **For You:** a unique view of 5 s or more (TikTok Creator Rewards help page; Creativity Program terms: "views for five seconds or more").
