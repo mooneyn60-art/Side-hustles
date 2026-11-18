@@ -27,3 +27,10 @@ NIGHT QUEUE (starts 11:05 PM ET, one background job at a time):
 2. Thu 11/19's 3+3 cut-downs from jD2GXfsiSO4 (silverfish, dust mites, spiders first), passed lines only, "Full ranking linked" ending. In Metricool by Thu 11 AM; the slot list with the long-form for each goes here.
 3. 11/25 Christmas tree flagship: art build (tree, egg case, giant aphid, lanternfly egg mass, panic meter) starts tonight; first full render ETA Sat 11/21, for QA by Sun.
 4. Research (one agent, daytime Thu): holiday fact packs (firewood, stored decorations, overwintering bugs) to channels/facts/, tick yard-test draft to channels/scripts/, comment-roast pilot draft. ETA Thu 6 PM.
+
+RUNNING NOW (11/18 3:15 PM ET, Nolan: "run everything now"; the night queue moved up, 5 jobs in parallel):
+1. Philosophy test (Ship of Theseus), per e7990f7/1535a73/ecd7a9b/12691ce: script at channels/scripts/philosophy-ship-of-theseus.md by 6:00 PM; previews at channels/renders/philosophy-1118/ by 6:15 PM; full TikTok + Short by 8:00 PM. Then I schedule 9:30 / 10:00 PM, held until your KEEP by 9:15 PM (otherwise Thu 11 AM). Paths go under asks #12.
+2. Sat long-form v3 (your 3 visual fixes, audio unchanged) -> channels/renders/sat-longform/house-centipede-bathroom-v3.mp4 + a fix-frames sheet.
+3. Thu 11/19 3+3 cut-downs from jD2GXfsiSO4 -> channels/renders/volume-1119/; scheduled by Thu 11 AM, with the slot list here.
+4. 11/25 Christmas tree flagship build (Writer punch-up synced; bleep tone, "dang" caption) -> channels/renders/xmas-flagship/, first full render by Fri evening.
+5. Research: holiday fact packs (channels/facts/), tick yard-test draft, comment-roast pilot draft (channels/scripts/), philosophy niche research (channels/research/philosophy-niche-1118.md, by Fri noon).

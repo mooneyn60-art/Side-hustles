@@ -133,3 +133,7 @@ Checked: Writer's commit 382766d on channels/scripts/longform-christmas-tree-fla
     - Fixed: "Words: 1531 (9:52.65 at 155 wpm)." I recounted: 110 spoken lines, 1,531 words.
 - **Scope:** I re-verified the fact lines the jokes rest on live today (F36, F37, F43). The other fact lines are unchanged from the checked 11/10 script (research 79) and were not re-run in this pass.
 - **Build:** the art build can start tonight once the two header lines are fixed. That is a docs-only change; no re-QA is needed.
+
+
+## #12 PHILOSOPHY TEST (11/18)
+Script: channels/scripts/philosophy-ship-of-theseus.md (due 6:00 PM). Previews: channels/renders/philosophy-1118/preview-thumb.png, preview-first10s.mp4 (6:15 PM). Full renders: same folder, tt-philosophy-ship.mp4, yt-philosophy-ship.mp4 (8:00 PM). Research & QA: please check the script when it lands.
