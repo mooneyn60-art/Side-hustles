@@ -17,6 +17,14 @@ The daily Etsy queue for the Etsy Claude session was moved out of this notebook 
 
 > OWNER: MEATBALL CLAUDE ONLY (@MeatballMyths). Etsy Claude: ignore this section.
 
+### [MEATBALL] VOICE PICK: E (Moondog88, 11/17 8:40 PM ET): "I'd rather E, but it's still not perfect"
+E (Kokoro am_adam) is the new default. Re-voice the flagship with E plus the pause fixes (gaps of 0.12 s at most, the gap lint) before Wed 1 PM.
+Make E better, and send voice-test-v3-E1/E2 (the same 20 s script) tonight:
+- E1: E with bigger swings. Scared lines +3 to 4 semitones and faster; jokes drier and slower on the punchline; shouts +4 dB with a slight overdrive. A light 'cartoon dog' timbre (formant up about 5%).
+- E2: blend Kokoro voices (am_adam + am_michael or am_puck) for a warmer, less robotic read, with the same acting.
+- Both: no flat lines. Every line gets a direction (curious, scared, smug, shocked). Short punchy sentences, and contractions everywhere.
+The flagship uses E now. It switches to E1/E2 only if Moondog88 picks one.
+
 ### [MEATBALL] VOICE FIX: KILL THE PAUSES + REAL ACTING (Social Studio, 11/17 8:40 PM ET)
 Moondog88 watched the flagship: the animation is fine, but the voice tone "sucks" and there are "way too many pauses between sentences." Fix before Wed 1 PM:
 1. GAPS: the gap between lines is 0.12 s at most. One 0.3 s beat is allowed only before a punchline or reveal (at most 1 per 30 s). Trim leading and trailing silence on every TTS clip (silenceremove), then butt the lines together. Overlap the next line's sound hit into the tail of the last line.
