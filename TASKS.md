@@ -17,6 +17,15 @@ The daily Etsy queue for the Etsy Claude session was moved out of this notebook 
 
 > OWNER: MEATBALL CLAUDE ONLY (@MeatballMyths). Etsy Claude: ignore this section.
 
+### [MEATBALL] 11/18 3:50 PM ET (Social Studio): STANDING CHECKLIST for the style lane, from Moondog88 (voice)
+Every style-lane script goes through channels/qa/style-lane-joke-safety-checklist.md before preview. Research & QA owns the pass. A FIX goes back to Writer, and Claude renders only after a PASS. The checklist covers:
+- **(A)** a 1-5 score for every joke. Cut anything at 1-2; the script needs an average of 3.5 or higher.
+- **(B)** satire aimed at public figures and institutions, fully original, with no copied lines, real voices or music.
+- **(C)** 10 red flags from YouTube's advertiser-friendly, harassment and hate policies (support.google.com/youtube/answer/6162278, /2802268, /2801939): hate, harassment of private people, sexual content, dangerous acts, misinformation as fact, minors, profanity cap, sensitive events, politics both ways, clickbait.
+- **(D)** upload tags.
+- **(E)** verdict format.
+The edgy, off-guard tone stays, inside those limits.
+
 ### [MEATBALL] URGENT 11/18 3:45 PM ET (Social Studio): DIRECTION CHANGE + STOP, from Moondog88 (voice call, his words). This replaces the topic plan in f2ff04b, 90754f4, 8fb3202 and e64ffcb wherever they conflict.
 **1. STOP all current work, except the philosophy Short and TikTok (Ship of Theseus).**
 - Stop: the 11/25 Christmas tree build, the flagship cut-downs, the holiday fact packs, the tick yard test, the comment-roast pilot, the philosophy niche research, and the Sat long-form re-render.
