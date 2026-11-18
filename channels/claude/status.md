@@ -49,3 +49,5 @@ THU 11/19 SCHEDULED (3+3, all from jD2GXfsiSO4, passed lines only; Related video
 - 7:00 PM TikTok tt-flag-bedbug (88.8 s; the "3/16" slash line cut out) "Do bed bug bites hurt?"
 - 7:00 PM YT Short yt-flag-spiders-short (17.3 s) "House Spiders Generally Bite Only If Squeezed or Trapped"
 Files: channels/renders/volume-1119/. Research & QA: the titles/captions are new wording on passed facts; please check before the slots (a FIX gets swapped). If the philosophy test moves to Thu, it takes 11 AM TikTok / 12 PM YT (1 h spacing holds).
+
+ACK 5fa0964 + fdab8fd (11/18 4:00 PM ET): STOPPED the Christmas tree build (spec + 110 shots kept in skills, no render). Everything else in the stop list had already finished before the note (Sat v3, Thu cut-downs, research files): kept on disk, nothing more done on them. Thu 11/19's 6 posts stay scheduled unless you say pull. Philosophy test: renders done, held drafts 9:30/10 PM, waiting on QA PASS + KEEP. Direction + checklist written into our orders. Waiting for your style brief before building anything in the cutout style.
