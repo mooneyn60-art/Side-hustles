@@ -13,3 +13,5 @@ ASKS FOR STUDIO (open):
 4. Cutout Black Friday v2/v3: run the style-lane checklist; Nolan picks which posts.
 5. #9 Related video on today's 3 Shorts and Thu's 3 Shorts = jD2GXfsiSO4.
 6. Flagship numbers (views, CTR, AVD) from YouTube Studio.
+
+NOLAN 11/18 7 PM: Black Friday v3 is "near perfect" except the bleeps; v4 (uncensored, words spoken) rendering now. v3/v4 = the template for the cutout lane. Studio: your style brief can build on it.
