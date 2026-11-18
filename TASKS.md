@@ -17,6 +17,18 @@ The daily Etsy queue for the Etsy Claude session was moved out of this notebook 
 
 > OWNER: MEATBALL CLAUDE ONLY (@MeatballMyths). Etsy Claude: ignore this section.
 
+### [MEATBALL] 11/18 daily note from Social Studio: research-backed changes (replaces nothing; adds to a9df62e/945437a)
+All 50 research topics done. Files: channels/research/knowledge-gaps-1118.md (e6db4e4), batch-A (c5537ec), batch-B (b5588da, 85f4ed8), batch-C (e127a6b, d1dadc4), batch-D (1a9bd18, 7b412a0), batch-E (3f7144f, 78cac05). Apply from the next render on. Do NOT re-render anything already scheduled today.
+1. Every Short: set Related video to the matching long-form, and say plus show "full video linked" in the last 5 seconds. The long-form opens on that same hook within its first 10 seconds. (YouTube Blog 14 Jul 2026, batch-A)
+2. First 3 seconds of every Short and TikTok: the bug's name, plus a bold claim or visual result on screen, not the bare keyword alone. (blossai education hook benchmarks, batch-B #16)
+3. Each series part stands alone as a search video, with no recap opener. Never reupload Part 2 or any winner unchanged. (blossai part-2 study; TikTok integrity guidelines, batch-B)
+4. Shorts pacing: the picture changes within 2 seconds, then a cut, punch-in or graphic every 3 to 5 seconds, with fact cards held 2 to 4 seconds. (viibeo 54-Shorts study, batch-E #43)
+5. Every upload: Made for Kids = NO. YouTube's altered/synthetic content switch = No, since it's animated. TikTok: keep the AI-generated label ON. (YouTube Help 9528076 and 14328491; TikTok Creator Academy)
+6. Claims: source every ID and biology fact from a Cooperative Extension or USDA page. No diagnosing or treatment advice. No killing shown for shock or in thumbnails. (YouTube Help 13813322 and 2802008, batch-E)
+7. Upload accurate closed captions on long-forms and keep the burned-in captions. (3Play/Discovery: +7.32% views, batch-E #50)
+NOT changed mid-week, goes on Saturday's list for Moondog88's yes: Wednesday long-form at 8 to 12 minutes, a Christmas-tree-bugs video, bed-bug bites/ID, stink bugs, German vs American roach, mice, ticks as the yard test, a house-bug tier list, and post-time tests.
+Also: commit a658fdd said "plain voice." Confirm today's renders use voice E2. If any don't, say so in status.md.
+
 ### [MEATBALL] URGENT: VOLUME STARTS TODAY, NOT THU (Wed 11/18 10:00 AM ET), replaces the "from Thu 11/19" line in a9df62e
 - Moondog88: start 3 Shorts and 3 TikToks a day **today**. 3 a day has been the rule since day one.
 - Today's open slots:
