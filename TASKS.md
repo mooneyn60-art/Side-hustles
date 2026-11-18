@@ -370,6 +370,53 @@ Monetization push: TikTok Creator Rewards needs 100K views in 30 days on videos 
 
 ## [MEATBALL] Notes for Claude
 
+### [MEATBALL] 2026-11-18 morning ET — Research & QA: Sat long-form "What Happens If You Leave a House Centipede in Your Bathroom?" — FIX (8 fixes, 4 watch)
+Script checked: `channels/scripts/longform-centipede-bathroom.md` at `650ff78` (11/18 7:55 AM ET). 62 spoken lines, 32 of them carrying CB facts.
+- **All 31 CB quotes were re-opened live this morning and match word for word:** UKY ef645, OSU ENT-50, USU, CT CAES, MDC, UW, MSU, Penn State, UMD, Sombke 2021, UARK, WSU. Every hedge is kept, no line is CUT for sourcing, and there are no swears anywhere.
+- **The FIXes are originality fixes.** Each one repeats something from Parts 1–4, the 11/7 "150 babies" cut, the 11/15 "leg it drops" cut, or today's flagship. They also cover one animal-death visual.
+- Exact wording is below. Run the gap lint and re-time after the edits; the cuts trim about 12 s, which leaves roughly 4:13 total. Reference: `channels/qa/longform-house-bugs-ranked-qa.md` for the flagship lines.
+1. **1:56, bite line (it repeats the flagship's MSU sentence word for word).**
+   - Current: "Mississippi State says bites to humans are uncommon unless the centipede is handled or accidentally pressed against the skin."
+   - Fixed: "Colorado State says house centipedes will bite only if physically confined." Card: BITES ONLY IF PHYSICALLY CONFINED.
+   - Source: CSU, https://webdoc.agsci.colostate.edu/bspm/ArthropodsOfInterest/HouseCentipede2018.pdf (live 11/18): "House centipedes are not aggressive and will bite only if physically confined."
+   - The condition is kept. Also swap the description's first-sentence bite clause to this CSU wording, and add CSU to Sources.
+2. **2:03 (the flagship has "Don't grab it").**
+   - Current: "So I don't grab it. I build it a towel ramp. I'm a host now."
+   - Fixed: "So, paws off. I build it a towel ramp. I'm a host now." Story line only; it keeps the CSU condition.
+3. **1:43 (CB9 tub/sink trap: the 11/15 cut said "Some fall into your tub at night and get trapped", and the flagship uses a tub trap for silverfish).**
+   - Current: "Hunting at night, centipedes can get trapped if they fall into a sink or bathtub."
+   - Fixed: "Then the bug cam loses it. Where did it go?" **[story]**. Visual: night-vision pans an empty floor. Card: WHERE DID IT GO? Drop the slip-into-the-basin shot.
+   - The 3 AM sink scene stays as Meatball's story, with no "trapped" claim. Drop UW from Sources if nothing else uses it.
+4. **1:35 (Parts 1–3's prey list already had flies and moths).**
+   - Current: "On the menu: flies, crickets, moths and earwigs."
+   - Fixed: "On the menu: crickets, earwigs, even pillbugs." Card: CRICKETS · EARWIGS · PILLBUGS.
+   - Sources: MDC, https://mdc.mo.gov/discover-nature/field-guide/house-centipede: "Their diet consists of cockroach nymphs, spiders, silverfish, crickets, bedbugs, flies, moths, and earwigs". UKY, https://entomology.mgcafe.uky.edu/ef645: "including (but not limited to) cockroaches, crickets, pillbugs/sowbugs, and silverfish".
+5. **2:47 CUT (CB13 repeats the 11/15 cut's "Seeing lots? You may have a bigger bug problem").**
+   - Current: "And if you see them often, Penn State says that points to plenty of the bugs they eat." Delete it; the 2:44 joke runs straight into 2:54.
+   - The sticky-trap line (3:02, OSU) still covers "what it's been eating".
+6. **3:11 and 3:16 (dry out the damp: Parts 1–3 "dry out the damp", 11/7 "fix the damp spots", 11/15 "dry the room, fix leaks").**
+   - 3:11 current: "Mississippi State says to focus on the bugs they eat, and cutting indoor moisture also helps."
+   - 3:11 fixed: "Mississippi State says control should focus on the bugs they eat." Source: MSU, https://www.accessibility.extension.msstate.edu/newsletters/bugs-eye-view/2015/house-centipede-no-29: "Efforts to control house centipedes should focus on controlling the other household insect pests on which they feed". Card: CONTROL THE BUGS IT EATS.
+   - 3:16: delete it ("Utah State says dry out damp areas, like the laundry room and the bathroom.").
+   - Keep 3:21 (CT fans/dehumidifiers, with its "to discourage them from coming out in the open" purpose) as the one moisture line. It's a new detail. Trim the description's "What the sources suggest" to match.
+7. **3:30, bug bomb (the flagship's 5:04 uses the same "bug bomb gets a red NO stamp, never shown going off" gag).**
+   - Current: "And skip the bug bomb. Ohio State says those are ineffective against centipedes."
+   - Fixed: "And skip the bug bomb. Ohio State says it rarely reaches the cracks where centipedes hide." Source: OSU, https://ohioline.osu.edu/factsheet/ENT-50: "ineffective against centipedes as these products do not leave behind any active residues and they rarely reach the cracks or crevices where centipedes are hiding."
+   - New visual: drawn mist stops at the cabinet edge while the antennae wave safely from the crack. The can itself is never shown going off. Card: BUG BOMBS DON'T REACH THE CRACKS.
+8. **0:43 visual (animal death on screen; checklist Y3, Help 1311392 "Unsatisfying or Off-putting").**
+   - Current: "a little parade of OTHER centipedes … wilts one by one on a dry carpet (simple tip-over…)".
+   - Fixed: the stubby centipedes stay as grey silhouettes on the card with a DRY AIR stamp. Nobody wilts or tips over on screen. The spoken line is unchanged (PASS, UKY: "Most millipedes and centipedes will die shortly after entering a structure due to the lack of moisture.").
+
+**Kept on purpose:** 3:35 still has the Penn State winter caveat ("do not survive winters outdoors in Pennsylvania"), even though 11/7 had a similar line. It's the escort advice's condition, so it stays with the UMD line; cut both together or neither. 2:26 is better trimmed to "Utah State says centipedes leave no traces, like droppings." because the "no damage to your home" half echoes the 11/15 "won't harm … house". That one's optional, since the source supports it.
+
+**Watch (no block):**
+- The 1:51 freak-out repeats the flagship's shout-and-launch shape ("Bed bug! … in my bed!" / "It's in my sink!", jumping up onto furniture). Consider a different gag, e.g. the toothbrush foam drips while he slow-turns.
+- The "WILL IT BITE YOU?" card and the 2 AM bug cam are now shared beats with the flagship. That's fine as a format, but vary them in future episodes (Help 1311392, same situation / same outcome).
+- **Title:** this follows Zyka's "What Happens If You [verb] a [bug]…" pattern (e.g. Zyka's "What Happens If You Trap a Spider and Forget About It?"), but it is not a clone.
+- **Rule 7 / C2:** "Meatball's verdict: it stays" is labelled as his opinion; no tactic saves Meatball.
+
+— Social: Research & QA
+
 ### [MEATBALL] 2026-11-17 late morning ET — Research & QA: faceless outliers (reference only)
 See `channels/research/faceless-outliers-1117.md`: nearby faceless channels (Zyka, Stone, Dinzo, Bound and others), documented one-outlier monetization cases, YPP inauthentic/reused-content policy quotes, and 5 proposed changes. **Reference only. This changes no current order;** the 11/16 deep-growth note still governs. Also fixed in `youtube-deep-dive-1117.md`: "about 13 of 4,000" is now **12 qualified hours** (Earn card, 11/17 read, data as of Nov 12).
 — Social: Research & QA
