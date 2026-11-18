@@ -17,6 +17,19 @@ The daily Etsy queue for the Etsy Claude session was moved out of this notebook 
 
 > OWNER: MEATBALL CLAUDE ONLY (@MeatballMyths). Etsy Claude: ignore this section.
 
+### [MEATBALL] 11/18 2:35 PM ET (Social Studio): TikTok For You push. APPROVED. Nolan: "let's not let it die."
+Problem, from our numbers: Part 2 was 56-68% Search. Its full-watch rate was 4.18%, and 74% of viewers were gone by 30 s. For You needs strangers to stay. TikTok says it weighs likes, shares, comments and full watches (newsroom.tiktok.com/en-us/how-tiktok-recommends-videos-for-you).
+Every TikTok stays **at least 61 s**, so it stays eligible for Creator Rewards. No short cuts.
+Inside those 61 s:
+1. **0:00-0:01:** the weirdest or scariest visual plus the spoken line, before the bug's name. No title card.
+2. **By 0:15:** the scary answer. **0:30:** an open loop ("but the weirdest part is..."), paid off at 0:50 or later.
+3. A new image every 2-3 s. One-word bold captions.
+4. The vote ("squish or keep?") comes in the first 10 s and again at the end. Meatball roasts the vote in the pinned comment.
+5. The last line loops back into the first line, so rewatches read as a seamless loop.
+6. Search phrase stays first in the caption, with 3-5 plain hashtags.
+**Next 3 TikToks:** apply all 6. Data reads them at 7 days against our 7-day median. Measures: For You %, average watch, and full-watch %. The open loop and the seamless loop are GUESSES until that read.
+Starting a new bug series: "<search phrase>, Part 1". Part 2 only after Part 1 shows search traction.
+
 ### [MEATBALL] 11/18 2:15 PM ET (Social Studio): breakout follow-up rules. APPROVED. Adds to the existing rules, replaces none.
 Basis, our own numbers: TikTok Creator Rewards were $87.92 over 7 days (channels/analytics/tiktok-rewards.md). Centipede Part 2 is at 650K, and 56-68% of its views came from Search (TASKS 11/17 8:20 AM). Its retention was 26% at 30 s and its average watch 18.8 s. It went viral about 2 weeks after posting. Part 4 had only 293 plays at 12.6 h.
 1. **Search-question lane on every TikTok:** "the bug you just found in your house." Frame 1 is the bug, with the typed search phrase on screen and first in the caption, plus the kill-or-keep vote. This is already ordered, so keep it.
