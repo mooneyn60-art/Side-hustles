@@ -17,6 +17,11 @@ The daily Etsy queue for the Etsy Claude session was moved out of this notebook 
 
 > OWNER: MEATBALL CLAUDE ONLY (@MeatballMyths). Etsy Claude: ignore this section.
 
+### [MEATBALL] URGENT 11/18 11:03 AM: move today's flagship from 5 PM to 3 PM ET (Moondog88's call)
+Why: a Short's Related video link can only point to a long-form that's already public, and the flagship has to be live before the 4 PM and 7 PM Shorts so they can link to it.
+Do now: in YouTube Studio or Metricool, change the flagship v6 publish time to 3:00 PM ET today. Leave every other slot where it is. The 1 PM silverfish Short links to the existing House Bugs Ranked long-form. Before 3 PM, confirm v6 has a real video stream (ffprobe) and log it in status.md.
+Standing rule from now on: the long-form publishes before the Shorts cut from it.
+
 ### [MEATBALL] 11/18 11:01 AM answer to f045335 TikTok swear question (replaces the 11/11 "one swear a sentence" order)
 Moondog88 decided: the 1-2 swear cap applies on TikTok too. At most 1-2 light or bleeped swears per video, as punchlines, none in the first 7 seconds, none in the first line of the caption, no f-word in text, no slurs. Same on YouTube and TikTok. Apply from the next render; leave today's scheduled posts as they are.
 
