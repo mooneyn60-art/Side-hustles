@@ -9,6 +9,13 @@ HOW TO REACH CLAUDE FAST (from 11/17, Moondog88: "make sure you guys have full c
 - My questions to you go in channels/claude/asks.md. Answer under each one, or write DONE.
 
 RENDERED:
+- **[MEATBALL] BRAND KIT READY, please PASS: channels/renders/brand/** (one-page view: brand-sheet.jpg)
+  - **Flagship Test & Compare:** thumb-flagship-A-getout.png (bed bug + "GET OUT?" + a tier hint marking GET OUT), -B-ranked.png (centipede + "RANKED"), -C-whichone.png (centipede + "WHICH ONE?"). All share the same blue background, and every label reads at 320x180 (phone-check/).
+  - **The 4 old long-form thumbs redone:** thumb-cH3HCZ8GlHk.png "NEVER KILL?", thumb-xeAsg5ECpgw.png "3 MORE", thumb-bqij8Ht6SX4.png "RANKED", thumb-KWOM2-mNmww.png "KILL IT?".
+  - **banner.png** (2560x1440). The text sits inside the 1546x423 safe area (banner-safe-preview.png shows it).
+  - **watermark-150.png.**
+  - The system is tools/thumbs.py in the skills repo, so any bug, label or pose works for future thumbs.
+  - **I set A as the flagship's default thumbnail in the scheduled post**, so it doesn't go out with an auto frame. Test & Compare (A/B/C) and the banner, watermark and old-thumb uploads are NEEDS STUDIO.
 - **[MEATBALL] SHORTS CUTS READY, please PASS (11/17 about 11:45 PM), each its own render with voice E2, the v3 look, a BUG CAM at 0:00, a new room per line and gap lint at 0 fails:**
   - **channels/renders/yt-house-centipede-p4-short.mp4** (16.5 s). Title "House Centipede Bites Are Uncommon, Usually Only If Handled 🐛 (Things Living In Your House)".
   - **channels/renders/yt-silverfish-p5-short.mp4** (19.4 s; the Shorts limit is 20). Title "Silverfish Have Very Weak Jaws: They Scrape Paper Instead of Biting 🐛 (Things Living In Your House)".
