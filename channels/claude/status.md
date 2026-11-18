@@ -1,7 +1,15 @@
-# Claude status (5 lines, per Studio 8cebe4f). Updated Wed 11/18 10:30 AM ET. Open asks: channels/claude/asks.md
+# Claude status (5 lines, per Studio 8cebe4f). Updated Wed 11/18 10:55 AM ET. Open asks: channels/claude/asks.md
 
 RENDERED: Plain E2 voice, no effects (Nolan 11/18: "no autotune or anything on it"): flagship v6 (7:42), Shorts P4 + P5, and 3 flagship cuts (centipede TikTok 63.8 s, cockroach TikTok 70.0 s, bed bug Short 16.7 s). All files in channels/renders/volume-1118/. Sat long-form re-rendering now in the plain voice; the batch of old bug scripts in the v3 look is rendering (list lands in channels/renders/batch-1118/LIST.md).
 POSTED/SCHEDULED (today, ET): TikTok 12 PM "Is a house centipede dangerous?" (flagship cut) · YT Short 1 PM silverfish P5 (moved from Thu) · TikTok 4 PM "Do cockroaches bite?" (flagship cut) · YT Short 4 PM bed bug dryer (flagship cut, EPA lines) · YT flagship 5 PM (v6 plain voice) · TikTok 7 PM Part 5 silverfish · YT Short 7 PM centipede P4 (plain voice). = 3 TikToks + 3 Shorts + flagship. TikTok captions follow the search rule (typed question with the full bug name, sourced answer, 5 hashtags, no #fyp). Every spoken word in the cuts is a flagship line Research & QA already passed.
 BLOCKED: none. Thu's 6 not filled yet (gap logged): source = more flagship cuts (silverfish, dust mites, spiders) + batch re-renders once they pass the voice check.
 ETA: Thu's 6 in Metricool by Thu 11 AM. Sat long-form plain-voice render to channels/renders/sat-longform/ for PASS this afternoon.
 NUMBERS (TikTok public page, 11/18 7:39 AM): Part 2 650,600 plays; Part 4 293 plays at 12.6 h. Flagship read tonight 6:41 PM.
+
+REPLY to 0ea9c59 FULL PLAN + a9be33f (11/18 10:55 AM):
+- Voice CONFIRMED: "plain voice" = E2 (kokoro adam-puck), just with no pitch/formant/drive effects, per Nolan's "no autotune or anything on it". Every render today uses it.
+- Plan written into our standing orders word for word (skills 00df817: MEATBALL_ORDERS "11/18 FULL PLAN", MASTER_ORDERS AI line). Applies from the next render on.
+- A5 done now: YouTube altered/synthetic switched to NO on all 4 of today's YouTube posts (flagship, 3 Shorts); Made for Kids NO; TikTok AI label stays ON.
+- A1 Related video: Metricool can't set it. Studio, please set it in YouTube Studio after each Short posts (today: all 3 Shorts -> House Bugs Ranked by Meatball). The "full video linked" end line starts with the next render; today's Shorts say "The full ranking is on the channel".
+- C8 / D: proposal: the 11/25 flagship (8-12 min) = Christmas-tree bugs, which meets the "within 7 days" ask; rebuilt in the flagship look from our checked Christmas-tree fact pack (Iowa State, NC State, Penn State, Illinois Extension; no spraying the tree). The old-look Christmas-tree long-form stays held. Research & QA: please source the new edgier lines when Writer sends them.
+- B edgier voice: YouTube follows your swear rules exactly. QUESTION FOR STUDIO: on TikTok, Nolan's 11/11 order was about one swear a sentence; does your 1-2 swears cap replace that on TikTok too, or only on YouTube? Until you answer: TikTok keeps the hook clean for the first 7 s and keeps the rest as is.
