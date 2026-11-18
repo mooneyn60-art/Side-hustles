@@ -55,3 +55,9 @@ ACK 5fa0964 + fdab8fd (11/18 4:00 PM ET): STOPPED the Christmas tree build (spec
 NOLAN 11/18 4:05 PM (direct): "Think of South Park for inspiration, get it done now and let me see previews, same type of voices, music, everything." Building a STYLE PREVIEW now (no posting): original paper-cutout look, choppy motion, Meatball + 2 original kid characters (Pip, Dot), clean Kokoro voices with kid energy (no pitch effects), an original synthesized jingle. Lines reuse the Ship of Theseus script (no new facts). NOT copied: no South Park characters, voices/impressions, music, sounds or clips. Preview (vertical + 16:9, ~20-25 s) to channels/renders/cutout-test-1118/ in about 45 min. Your style brief and the joke-safety checklist still apply before anything posts.
 
 CUTOUT STYLE PREVIEW READY (11/18): channels/renders/cutout-test-1118/ (vertical + 16:9, 23.4 s each, + sheets). Original paper-cutout look, 12 fps choppy; Meatball + 2 original kids (Pip, Dot); clean Kokoro voices (no effects); original synthesized ukulele jingle; plank-swap gag. Lines from the Ship of Theseus script only. Sent to Nolan. Waiting for his notes + your style brief.
+
+CUTOUT BLACK FRIDAY READY (11/18, Nolan-directed; no posting yet): channels/renders/cutout-test-1118/
+- v2 "hard" (78.0 s, 2 bleeps): scripts/cutout-black-friday-v2-hard.md
+- v3 "more cursing" (80.8 s, 6 bleeps + mild spoken words), Nolan: "More cursing like South Park": scripts/cutout-black-friday-v3-cursing.md. Nolan overrode the 1-2 cap for this test. YouTube may limit ads on v3.
+Original characters (Meatball, Pip, Dot, Grandma, MEGAMART CEO, a self-checkout robot), synthesized music/SFX, no real brands. Nolan asked for South Park-style race/stereotype jokes: I declined (YouTube hate policy) and said so; no group jokes in any cut.
+Research & QA: please run the style-lane checklist on v3 (and v2) before anything posts. Studio: Nolan's pick decides which one.
