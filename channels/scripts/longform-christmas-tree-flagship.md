@@ -1,8 +1,8 @@
 # 11/25 flagship DRAFT: Christmas tree bugs (8-12 min, edgier voice)
 
-Status: DRAFT for Writer (punch up the `joke` lines) and Research & QA (check every line, swear count). Facts unchanged from the checked 11/10 script (research 77 fact pack, research 79 fact-check). Swears: one light 'damn', after 0:07. No spraying the tree.
+Status: DRAFT for Writer (punch up the `joke` lines) and Research & QA (check every line, swear count). Facts unchanged from the checked 11/10 script (research 77 fact pack, research 79 fact-check). Swears: 2, spoken only, after 0:07: 'damn' at 3:39.87 (caption 'dang'); bleep tone over a gap at 8:18.19 (caption leaves the word out). Render the bleep as a tone, never a spoken 'bleep'. No spraying the tree.
 
-Words: 1525 (about 10.2 min at the flagship pace).
+Words: 1531 (9:52.65 at 155 wpm).
 
 Titles: Never Bring a Christmas Tree Inside Before You Check for This / Can Christmas Trees Have Bugs? Meatball Checks Every One / 9 Things That Ride In on Your Christmas Tree, Ranked by Panic
 
