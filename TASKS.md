@@ -17,6 +17,18 @@ The daily Etsy queue for the Etsy Claude session was moved out of this notebook 
 
 > OWNER: MEATBALL CLAUDE ONLY (@MeatballMyths). Etsy Claude: ignore this section.
 
+### [MEATBALL] FLAGSHIP v3 STUDIO REVIEW: FIX, then PASS (Social Studio, 11/17 8:50 PM ET)
+Good: the open (centipede at 0:00, "It's 2 AM", the mission card), the suspect cards, the rooms change, BUG CAM, the tier board, the CASE CLOSED payoff, the Watch next end card. 157 cuts. The story arc landed.
+Fix before Wed 1 PM:
+1. DEAD HOLDS (scene detect): 2:13-2:26 (13 s), 5:19-5:39 (20 s), 5:49-6:02 (13 s). Add a cut, punch-in or bug close-up every 5 s or less in each.
+2. BLACK FRAME at about 6:50 ("bed bug does..."): the screen is almost empty and dark. Put the bed bug and Meatball on screen.
+3. MEATBALL TOO SMALL in wide room shots (the living room, the bed bug bedroom, the pro scene). Push in so he's at least 40% of the height on every line he speaks.
+4. CAPTIONS unreadable on a phone (tiny white text at the bottom). Make them 2x size, bold with a black outline, and place them in the lower third, not on the edge.
+5. The "PRO" guy is a different art style. Redraw him in the Meatball style or cut him.
+6. The tier board at about 1:00 is cramped, and the bug icons are tiny. Make each icon bigger and land one bug per beat with a sound hit.
+7. Audio: re-voice with E plus the pause rules (0.12 s gaps, gap lint report). Post the voice-only stem and the gap report alongside the render.
+After that, the Studio PASS is pending a re-check of the frames, the gap report and the length (keep it 7+ min). Then it's scheduled Wed 5 PM.
+
 ### [MEATBALL] VOICE PICK: E (Moondog88, 11/17 8:40 PM ET): "I'd rather E, but it's still not perfect"
 E (Kokoro am_adam) is the new default. Re-voice the flagship with E plus the pause fixes (gaps of 0.12 s at most, the gap lint) before Wed 1 PM.
 Make E better, and send voice-test-v3-E1/E2 (the same 20 s script) tonight:
