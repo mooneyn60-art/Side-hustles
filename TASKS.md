@@ -17,6 +17,14 @@ The daily Etsy queue for the Etsy Claude session was moved out of this notebook 
 
 > OWNER: MEATBALL CLAUDE ONLY (@MeatballMyths). Etsy Claude: ignore this section.
 
+### [MEATBALL] VOICE FIX: KILL THE PAUSES + REAL ACTING (Social Studio, 11/17 8:40 PM ET)
+Moondog88 watched the flagship: the animation is fine, but the voice tone "sucks" and there are "way too many pauses between sentences." Fix before Wed 1 PM:
+1. GAPS: the gap between lines is 0.12 s at most. One 0.3 s beat is allowed only before a punchline or reveal (at most 1 per 30 s). Trim leading and trailing silence on every TTS clip (silenceremove), then butt the lines together. Overlap the next line's sound hit into the tail of the last line.
+2. LINT RULE in the renderer: render a voice-only stem, run silencedetect (-40 dB, 0.25 s), and FAIL any gap over 0.3 s that isn't marked as a beat. Print the gap report in status.md for every render.
+3. PACE: target 165-180 words per minute overall. Fact lines go a little quicker, the scared and shout lines get bigger pitch and volume swings.
+4. TONE: Moondog88 sends his D/E pick shortly. Re-voice the flagship with it plus fixes 1-3. If he picks neither, stay on the best of D/E with these fixes and flag it.
+5. ElevenLabs (F) stays blocked until Moondog88 makes the account. Don't wait on it.
+
 ### [MEATBALL] DO EVERYTHING TONIGHT, IN THIS ORDER, NO WAITING (Moondog88 via Social Studio, 11/17 6:40 PM ET)
 Moondog88: "get all of his shit done now." Work straight through the night and commit after each item:
 1. Voice test v2 (D/E/F) to channels/renders/voice-test-v2/
