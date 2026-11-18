@@ -21,6 +21,323 @@ The daily Etsy queue for the Etsy Claude session was moved out of this notebook 
 
 > OWNER: MEATBALL CLAUDE ONLY (@MeatballMyths). Etsy Claude: ignore this section.
 
+### [MEATBALL] 11/18 3:50 PM ET (Social Studio): STANDING CHECKLIST for the style lane, from Moondog88 (voice)
+Every style-lane script goes through channels/qa/style-lane-joke-safety-checklist.md before preview. Research & QA owns the pass. A FIX goes back to Writer, and Claude renders only after a PASS. The checklist covers:
+- **(A)** a 1-5 score for every joke. Cut anything at 1-2; the script needs an average of 3.5 or higher.
+- **(B)** satire aimed at public figures and institutions, fully original, with no copied lines, real voices or music.
+- **(C)** 10 red flags from YouTube's advertiser-friendly, harassment and hate policies (support.google.com/youtube/answer/6162278, /2802268, /2801939): hate, harassment of private people, sexual content, dangerous acts, misinformation as fact, minors, profanity cap, sensitive events, politics both ways, clickbait.
+- **(D)** upload tags.
+- **(E)** verdict format.
+The edgy, off-guard tone stays, inside those limits.
+
+### [MEATBALL] URGENT 11/18 3:45 PM ET (Social Studio): DIRECTION CHANGE + STOP, from Moondog88 (voice call, his words). This replaces the topic plan in f2ff04b, 90754f4, 8fb3202 and e64ffcb wherever they conflict.
+**1. STOP all current work, except the philosophy Short and TikTok (Ship of Theseus).**
+- Stop: the 11/25 Christmas tree build, the flagship cut-downs, the holiday fact packs, the tick yard test, the comment-roast pilot, the philosophy niche research, and the Sat long-form re-render.
+- Posts already scheduled in Metricool stay as they are for now. Studio will confirm separately.
+- The philosophy test goes ahead as planned (e7990f7, ecd7a9b, 12691ce, 1535a73): previews in channels/renders/philosophy-1118/ by 6:30 PM ET for the 6:40 PM preview to Nolan, QA PASS by 8:30 PM, then Nolan's keep or toss at 8:45 PM. It only goes live on a KEEP.
+
+**2. NEW DIRECTION: style-led, not topic-led.** The art style, voice and joke format become the product people come back for. Topics are interchangeable: philosophy, politics, national events, news, media, whatever fits that week. The same concept and joke style carry across every one.
+- **Style reference:** South Park-style crude cutout animation (flat paper-cutout look, choppy and jerky motion), with **our own original voice and jokes**.
+- **Never use:** South Park voices, impressions of its characters, its music, clips, or any copyrighted material. Use original or royalty-free music only. TikTok Creator Rewards needs original content (tiktok.com/creator-academy/en/article/creator-rewards-program).
+- **Quality bar:** jokes must be written properly (setup, turn, punchline; no filler), and the animation must look good. Quality over volume.
+- Still in force: sourced facts for any factual claim, swear cap of 1-2 with none in the first 7 s, AI label ON, synthetic NO, made for kids NO, and TikToks at least 61 s.
+- **Next from Claude:** wait for Studio's style brief. Do not build new videos in this style until Studio sends it.
+
+### [MEATBALL] 11/18 3:05 PM ET (Social Studio): philosophy test, PREVIEWS + comment debate. Nolan: "I wanna see previews and try to spark controversy in comments". Adds to e7990f7/ecd7a9b.
+**Previews for Nolan, by 6:30 PM ET.** Put them in channels/renders/philosophy-1118/:
+- preview-thumb.png (cover frame)
+- preview-first10s.mp4 (first 10 s, final voice)
+- the full TikTok and Short renders when done
+Write the paths under asks.md #12. Studio sends them to Nolan.
+
+**Spark the debate, the honest way.** TikTok makes clickbait "primarily designed to attract followers, likes" ineligible for Creator Rewards (tiktok.com/creator-academy/en/article/creator-rewards-program), and comments drive For You (newsroom.tiktok.com). So the debate has to be real, never fake or insulting.
+1. **Meatball takes a hard side:** "It's NOT the same ship. And if you disagree, you've never replaced a phone screen." He's sarcastic and confident, and you'll want to argue back.
+2. **Split vote, early and at the end:** "Same ship or new ship? Pick one, no fence-sitting 👇"
+3. **On-screen line at the end:** "Half of you are wrong. Comments."
+4. **Pinned comment (Studio posts it):** "Hot take: if you replace every plank, the old ship is the REAL one. Fight me 🍝"
+5. **Caption:** "Ship of Theseus: are you still you? #shipoftheseus #philosophy #thoughtexperiment #meatballmyths"
+6. **No:** fake facts, attacks on groups, religion or politics bait, or insults aimed at viewers. The roast targets the ship and the idea, not people.
+
+### [MEATBALL] 11/18 2:58 PM ET (Social Studio): philosophy hook FIX (QA heads-up). This replaces the 0:00 line in e7990f7.
+New 0:00 line: "Most of your body's cells get swapped out over the years. So are you even still you?" It needs a university or peer-reviewed source on cell turnover. Don't use "every cell": many neurons last a lifetime. Put the script at channels/scripts/philosophy-ship-of-theseus.md **by 6:30 PM ET** and add a line under asks.md "#12 PHILOSOPHY TEST" with the path, so QA can check it in one pass.
+
+### [MEATBALL] 11/18 2:55 PM ET (Social Studio): philosophy test HOLD rule (adds to e7990f7)
+Because it's a new format, Nolan gives it a keep or toss first. Have the renders and the QA PASS in status.md and asks.md by 8:30 PM ET. Schedule both, but they **only go live if Studio writes "KEEP" here by 9:15 PM ET**. With no KEEP by then, move both to Thu 11 AM and wait.
+
+### [MEATBALL] 11/18 2:50 PM ET (Social Studio): NEW TEST TODAY, philosophy. Nolan: "I want off of the bugs... I want to be on the front of it". APPROVED as a test only. The plan isn't changed yet.
+**1. Make 1 TikTok + 1 YouTube Short tonight**
+- **Topic:** the Ship of Theseus. "If you replace every part of you, are you still you?" It's a classic with built-in search demand, as a GUESS until #2 checks it.
+- **Hook, 0:00-0:05:** "Every cell in your body gets replaced. So are you even you anymore?" Meatball on screen, voice already going.
+- **Hook at 0:30:** "But here's the version that breaks everyone's brain..." It pays off with Hobbes's twist: rebuild the original ship from the old planks, and which one is the real ship?
+- **End:** a vote ("same ship or new ship? 👇") that loops back into the first line.
+- **Sources:**
+  - Stanford Encyclopedia of Philosophy, "Identity Over Time" (plato.stanford.edu/entries/identity-time/), plus Plutarch and Hobbes as cited there.
+  - **The cell line has to carry its condition:** not every cell is replaced (many neurons last a lifetime). Find a peer-reviewed or university source, or cut the claim.
+- **Format:**
+  - TikTok: 61-75 s.
+  - Short: about 45 s cut, with "full version on TikTok" left out.
+  - E2 voice, flagship look, Meatball as the character.
+  - At most 1-2 swears, none in the first 7 s.
+  - AI label ON, synthetic NO, made for kids NO.
+- **Slots (ET):** TikTok 9:30 PM, YouTube Short 10:00 PM. Both are after today's last posts, and each gets at least 1 h on its platform. Research & QA checks it before scheduling. If it misses 9:15 PM, post Thu at 11 AM instead.
+- Write the paths and times in status.md.
+
+**2. Niche research (heavy research, yours). Write it to channels/research/philosophy-niche-1118.md by Fri 11/20 noon.**
+- **Search demand** for the top 20 philosophy questions (thought experiments, "what is the meaning of life", stoicism, paradoxes) on YouTube and TikTok.
+- **Competitors:** the top 10 animated or faceless philosophy channels, with subscriber counts and medians.
+- **RPM:** education and philosophy RPM against animals, sourced.
+- **Gap:** what's missing that a cartoon dog narrator could own.
+- **Risk:** check whether faceless AI-voiced philosophy channels are being hit as "inauthentic/repetitive" under YouTube's monetization policy (cite support.google.com).
+- **Verdict:** pivot, hybrid, or stay. Every claim gets a source or is labeled a GUESS.
+
+### [MEATBALL] 11/18 2:40 PM ET (Social Studio): WHY For You matters for pay. Adds to 8fb3202.
+Qualified view rules:
+- **For You:** a unique view of 5 s or more (TikTok Creator Rewards help page; Creativity Program terms: "views for five seconds or more").
+- **Search:** counts only at 30 s or more (TikTok Creator Academy "Understanding Qualified Views", as quoted at tokconnect.com/guides/tiktok-creator-rewards-program).
+- Videos must be 1 min or longer and reach at least 1,000 qualified views before they earn.
+- Repeat views from the same account count once.
+Our Part 2 curve: 58% still watching at 5 s, 26% at 30 s. So a For You viewer was about **2x as likely to be a paid view** as a searcher.
+Rules this adds:
+1. **First 5 s = the money window.** Every line in 0:00-0:05 has to stop the scroll. No logo, no "hey guys", no setup.
+2. **Keep search traffic too, but get it past 0:30:** the 30-s open loop from 8fb3202 is required, not optional.
+3. Every TikTok is at least 61 s, original, and 1080p or higher (Creator Academy's Additional Reward criteria).
+4. Loops help ranking but don't add paid views (repeats count once). Keep loop endings for the For You push only.
+
+### [MEATBALL] 11/18 2:35 PM ET (Social Studio): TikTok For You push. APPROVED. Nolan: "let's not let it die."
+Problem, from our numbers: Part 2 was 56-68% Search. Its full-watch rate was 4.18%, and 74% of viewers were gone by 30 s. For You needs strangers to stay. TikTok says it weighs likes, shares, comments and full watches (newsroom.tiktok.com/en-us/how-tiktok-recommends-videos-for-you).
+Every TikTok stays **at least 61 s**, so it stays eligible for Creator Rewards. No short cuts.
+Inside those 61 s:
+1. **0:00-0:01:** the weirdest or scariest visual plus the spoken line, before the bug's name. No title card.
+2. **By 0:15:** the scary answer. **0:30:** an open loop ("but the weirdest part is..."), paid off at 0:50 or later.
+3. A new image every 2-3 s. One-word bold captions.
+4. The vote ("squish or keep?") comes in the first 10 s and again at the end. Meatball roasts the vote in the pinned comment.
+5. The last line loops back into the first line, so rewatches read as a seamless loop.
+6. Search phrase stays first in the caption, with 3-5 plain hashtags.
+**Next 3 TikToks:** apply all 6. Data reads them at 7 days against our 7-day median. Measures: For You %, average watch, and full-watch %. The open loop and the seamless loop are GUESSES until that read.
+Starting a new bug series: "<search phrase>, Part 1". Part 2 only after Part 1 shows search traction.
+
+### [MEATBALL] 11/18 2:15 PM ET (Social Studio): breakout follow-up rules. APPROVED. Adds to the existing rules, replaces none.
+Basis, our own numbers: TikTok Creator Rewards were $87.92 over 7 days (channels/analytics/tiktok-rewards.md). Centipede Part 2 is at 650K, and 56-68% of its views came from Search (TASKS 11/17 8:20 AM). Its retention was 26% at 30 s and its average watch 18.8 s. It went viral about 2 weeks after posting. Part 4 had only 293 plays at 12.6 h.
+1. **Search-question lane on every TikTok:** "the bug you just found in your house." Frame 1 is the bug, with the typed search phrase on screen and first in the caption, plus the kill-or-keep vote. This is already ordered, so keep it.
+2. **Fix the leak** (Part 2 lost 74% by 30 s): answer the scary question before 15 s, show a new image every 3 s, and close an open loop at 30 s ("but the weirdest part is..."). The 30-s loop is a GUESS, and we test it on the next 3 cuts.
+3. **Sequel trigger:** any post that passes 2x our 7-day TikTok median gets a same-style follow-up within 48 h. Use the same bug, a new sourced angle, and "you just saw" framing.
+4. **Don't judge at 12 h.** Part 2 broke out at about 2 weeks. Judge TikToks at 7 days on the Saturday scorecard, and never repost or delete a slow starter.
+5. **Follow reason:** every TikTok ends with the next bug named ("Next: the bug in your basement"), and the pinned comment links the other Parts.
+
+### [MEATBALL] URGENT 11/18 12:50 PM ET (Social Studio): QA results for asks #10 and #11 (f4f06e3, 832a21f)
+1. **4 PM TikTok tt-flag-cockroach = FIX.** At about 0:08.5 the voice says "one slash sixteen inch". Before 4 PM, re-voice that line as "one-sixteenth of an inch wide" in plain E2 and swap the file in Metricool. If you can't make 4 PM, move it to Thu and fill 4 PM with a passed cut. Write which you did in status.md.
+2. **Sat long-form v2-plain = FIX, do not schedule.** Keep the audio as is. Fix 3 visuals: remove the dying centipedes at 0:41-0:48, take the bug-bomb NO can off the 3:31-3:45 "escort outdoors" line, and remove the stray crossed-out water drop at 3:07. Re-render and post under asks #10, and QA re-checks the frames only.
+3. **PASS:** tt-flag-centipede, yt-silverfish-p5-short, yt-flag-bedbug-short, yt-house-centipede-p4-short. Keep their slots.
+4. **11/25 Christmas tree flagship = PASS** (Writer 382766d, QA 832a21f; fix the header count to 2 swears and 1,531 words). APPROVED: start the build tonight. At upload: made for kids NO, YouTube synthetic NO, TikTok AI label ON.
+5. From now on, read fractions as words ("one-sixteenth of an inch") in every voice line. The live flagship says "one slash 16-inch" at about 4:19. That's a read-aloud slip, not a wrong fact, so it stays as is.
+
+### [MEATBALL] 11/18 12:45 PM ET (Social Studio): Nolan said "all of them": 5 jobs for Claude. APPROVED. Replaces nothing. Inside 3+3, no extra volume.
+1. **Flagship cut-downs fill the 3+3 slots Thu 11/19 to Tue 11/24.** One bug per post from jD2GXfsiSO4 (silverfish, dust mites, spiders first, as your status says). Each one stands alone, names the bug plus a bold claim in the first 3 s, and ends on "Full ranking linked." Spoken lines must come only from the already-passed flagship lines. List the slots in status.md with the long-form for each, so I can set Related video.
+2. **11/25 Christmas tree flagship (asks #11):** Writer punches up the joke lines and Research & QA passes them today. Start the art build tonight once PASS lands in asks #11. The swear cap is 1-2, none in the first 7 s.
+   - 2026-11-18 12:42 PM ET: Writer punch-up of joke lines. 10 lines changed. Swears: 2 (spoken 'damn' in the line starting 3:39.87, captioned 'dang'; [BLEEP] in the line starting 8:18.19, bleeped word left out of the caption), none in the first 7 s. Fact lines untouched. Runtime +6 words: 9:50.32 → 9:52.65 at 155 wpm (changelog in the script). Ready for Research & QA.
+3. **Holiday follow-ups (GUESS until sourced).** Research these and write sourced fact packs to channels/facts/, Extension or USDA sources only: (a) bugs that ride in on firewood, (b) bugs in stored holiday decorations and boxes, (c) which bugs come indoors when it gets cold (overwintering: stink bugs, lady beetles, boxelder bugs). If a topic can't be sourced, drop it and say so. These are candidates for the Saturday 12/5 and later slots, decided on Saturday, not now.
+4. **Yard test: ticks.** Use Extension, CDC or USDA sources. The safety lines keep their conditions (tick checks after time in tall grass, ask your vet about prevention; no product or dose advice). Draft it in channels/scripts/ as a Saturday long-form candidate, and QA it before any render.
+5. **"Meatball roasts your comments" Short pilot (GUESS, one only).** Pick 3 real comments from our videos. Show the comment text but no username or profile picture. Meatball answers each with a sourced fact plus a roast line. It stays kind to the commenter: roast the bug or the myth, not the person. Swear cap 1-2. Draft only, and Studio approves the script before it's rendered. If it beats our 7-day Shorts median, it becomes weekly; that's a Saturday decision.
+Studio is doing: community poll, CTR check plus title/thumb swaps on the weak long-forms, Related video on today's Shorts (9 PM), and flagship numbers. Research & QA is reviewing asks #10.
+
+### [MEATBALL] URGENT 11/18 11:04 AM: REPLACES 96abe78. Flagship NOW, and spread the rest out (Moondog88's call)
+1. Flagship v6: ffprobe it for a real video stream, then publish it NOW (at your 11:23 check, no later than 11:45 AM ET). If there's no picture, don't post it; say so in status.md.
+2. New times for today, ET, so each post gets time to sit:
+   - 11:30 AM: YT flagship v6
+   - 1:00 PM: TikTok "Is a house centipede dangerous?" (moved from 12)
+   - 2:00 PM: YT Short silverfish P5 (moved from 1)
+   - 4:00 PM: TikTok "Do cockroaches bite?" (stays)
+   - 5:00 PM: YT Short bed bug dryer (moved from 4)
+   - 7:00 PM: TikTok Part 5 silverfish (stays)
+   - 8:30 PM: YT Short centipede P4 (moved from 7)
+3. Standing rule: the long-form publishes before the Shorts cut from it, with at least 1 hour between posts on the same platform.
+Log the new times in status.md.
+
+### [MEATBALL] URGENT 11/18 11:03 AM: move today's flagship from 5 PM to 3 PM ET (Moondog88's call)
+Why: a Short's Related video link can only point to a long-form that's already public, and the flagship has to be live before the 4 PM and 7 PM Shorts so they can link to it.
+Do now: in YouTube Studio or Metricool, change the flagship v6 publish time to 3:00 PM ET today. Leave every other slot where it is. The 1 PM silverfish Short links to the existing House Bugs Ranked long-form. Before 3 PM, confirm v6 has a real video stream (ffprobe) and log it in status.md.
+Standing rule from now on: the long-form publishes before the Shorts cut from it.
+
+### [MEATBALL] 11/18 11:01 AM answer to f045335 TikTok swear question (replaces the 11/11 "one swear a sentence" order)
+Moondog88 decided: the 1-2 swear cap applies on TikTok too. At most 1-2 light or bleeped swears per video, as punchlines, none in the first 7 seconds, none in the first line of the caption, no f-word in text, no slurs. Same on YouTube and TikTok. Apply from the next render; leave today's scheduled posts as they are.
+
+### [MEATBALL] 11/18 FULL PLAN OF ACTION from Social Studio, approved by Moondog88. GET CRANKING. (Expands a9be33f; keeps the 8cebe4f setup and the a9df62e 3+3 volume.)
+Moondog88 approved this today. Do all of it from the next render on, and log progress in status.md (5 lines). Research files: channels/research/ (knowledge-gaps, batch-A through batch-E, all dated 1118).
+
+A. EVERY VIDEO, starting now
+1. Related video on every Short goes to the matching long-form. Say and show "full video linked" in the last 5 seconds, and the long-form pays off that hook within 10 seconds. (YouTube Blog, 14 Jul 2026)
+2. The first 3 seconds have the bug's full name plus a bold claim or a visual result. The TikTok caption's first line is the typed question. (blossai; Search Engine Land)
+3. Every part stands alone, with no recap. Never reupload a winner unchanged. (blossai; TikTok integrity guidelines)
+4. Shorts pacing: the picture changes within 2 seconds, a cut, punch-in or graphic every 3 to 5 seconds, and cards held 2 to 4 seconds. (viibeo)
+5. Settings: Made for Kids = NO. YouTube altered/synthetic = No, since it's animated. TikTok AI label stays ON. (YouTube Help 9528076 and 14328491)
+6. Facts come only from Extension or USDA. No diagnosis or treatment advice. No killing shown for shock or in thumbnails. (YouTube Help 13813322 and 2802008)
+7. Closed captions uploaded on long-forms, and burned-in captions kept. (3Play/Discovery: +7.32% views)
+
+B. NEW: EDGIER VOICE (Moondog88's call; ad rules sourced)
+Meatball gets sharper and a little ruder: sarcastic, deadpan, roasting the bug and the homeowner's panic. It's a grown-up comedy tone, which also backs the not-for-kids setting (that link is a GUESS, not sourced).
+Swearing rules, from YouTube's advertiser-friendly guidelines (support.google.com/youtube/answer/6162278):
+- OK: "hell", "damn", bleeped or muted swears, and abbreviations like WTF, in the video.
+- Moderate words like "shit" are OK occasionally in the video. NEVER in titles, thumbnails or the first line of a caption, because that limits ad earnings.
+- NEVER any f-word in titles or thumbnails (no ads). No slurs, ever. Don't swear "at the start or throughout most of the video."
+- House rule: at most 1 to 2 light swears or bleeps per video, used as punchlines, and never in the first 7 seconds (the hook stays clean and searchable).
+- Joke targets: the bug, Meatball and the situation. Never people, groups or real brands. No team logos or betting.
+Examples of the register: "Is that a house centipede? Yeah. Fifteen pairs of legs and zero rent paid." / "Silverfish have been eating your books since before dinosaurs. Damn, respect." / "*BLEEP*, that's a brown recluse. No it isn't. Calm down."
+Writer drafts the jokes; Research & QA checks facts and swear count before scheduling.
+
+C. FORMAT
+8. Wednesday flagship goes to 8 to 12 minutes of real content, starting next week (the 11/25 flagship). Moondog88 approved the change today, so the Saturday wait is skipped. The Saturday video can run past 4 minutes when the topic holds. (SociaVault; YPP: only long-form hours count, and we have 12.7 of 4,000)
+9. Shorts keep coming from our own long-forms. That's allowed, with a unique hook per cut. (YouTube Help 15824265)
+
+D. TOPICS: put these on the 11/23 to 11/29 slate, highest search demand first
+- "Can Christmas trees have bugs?" goes out within 7 days, it's time-sensitive. Don't tell people to spray the tree. (Modern Pest survey: 22% have found bugs in a tree)
+- Bed bugs: "What do bed bug bites look like?" (about 550K/month even in winter)
+- "Is this a brown recluse?" (165K/month)
+- German vs American roach
+- Stink bugs in the house in winter (49.5K/month)
+- Mice in the house: signs, and mouse vs rat
+- Yard test: ticks first, moles as backup, no wasps until summer
+- A house-bug tier list ("should it stay or go"), each bug still searchable on its own
+- "What happens if..." titles for Shorts and Saturday
+Each needs Research & QA sourcing before it renders.
+
+E. KEEP
+3 Shorts (1, 4 and 7 PM) and 3 TikToks (12, 4 and 7 PM) a day. Voice E2: confirm "plain voice" in a658fdd means E2, and if not, fix it. TikToks 61 to 90 seconds. Post times stay the same this week.
+
+Reply in status.md with what's done and the commit hashes.
+
+### [MEATBALL] 11/18 daily note from Social Studio: research-backed changes (replaces nothing; adds to a9df62e/945437a)
+All 50 research topics done. Files: channels/research/knowledge-gaps-1118.md (e6db4e4), batch-A (c5537ec), batch-B (b5588da, 85f4ed8), batch-C (e127a6b, d1dadc4), batch-D (1a9bd18, 7b412a0), batch-E (3f7144f, 78cac05). Apply from the next render on. Do NOT re-render anything already scheduled today.
+1. Every Short: set Related video to the matching long-form, and say plus show "full video linked" in the last 5 seconds. The long-form opens on that same hook within its first 10 seconds. (YouTube Blog 14 Jul 2026, batch-A)
+2. First 3 seconds of every Short and TikTok: the bug's name, plus a bold claim or visual result on screen, not the bare keyword alone. (blossai education hook benchmarks, batch-B #16)
+3. Each series part stands alone as a search video, with no recap opener. Never reupload Part 2 or any winner unchanged. (blossai part-2 study; TikTok integrity guidelines, batch-B)
+4. Shorts pacing: the picture changes within 2 seconds, then a cut, punch-in or graphic every 3 to 5 seconds, with fact cards held 2 to 4 seconds. (viibeo 54-Shorts study, batch-E #43)
+5. Every upload: Made for Kids = NO. YouTube's altered/synthetic content switch = No, since it's animated. TikTok: keep the AI-generated label ON. (YouTube Help 9528076 and 14328491; TikTok Creator Academy)
+6. Claims: source every ID and biology fact from a Cooperative Extension or USDA page. No diagnosing or treatment advice. No killing shown for shock or in thumbnails. (YouTube Help 13813322 and 2802008, batch-E)
+7. Upload accurate closed captions on long-forms and keep the burned-in captions. (3Play/Discovery: +7.32% views, batch-E #50)
+NOT changed mid-week, goes on Saturday's list for Moondog88's yes: Wednesday long-form at 8 to 12 minutes, a Christmas-tree-bugs video, bed-bug bites/ID, stink bugs, German vs American roach, mice, ticks as the yard test, a house-bug tier list, and post-time tests.
+Also: commit a658fdd said "plain voice." Confirm today's renders use voice E2. If any don't, say so in status.md.
+
+### [MEATBALL] URGENT: VOLUME STARTS TODAY, NOT THU (Wed 11/18 10:00 AM ET), replaces the "from Thu 11/19" line in a9df62e
+- Moondog88: start 3 Shorts and 3 TikToks a day **today**. 3 a day has been the rule since day one.
+- Today's open slots:
+  - YouTube Shorts at 1 PM and 4 PM (the 7 PM Short is the P4 centipede).
+  - TikToks at 12 PM and 4 PM (7 PM is Part 5).
+- Fill them with flagship segment cuts (flagship look, E2, words as QA-passed in beeae83), or with the already-PASSED yt-silverfish-p5-short (pull it forward to 1 PM).
+- Whatever isn't ready by its slot: post it at the next open hour today. Never the old look.
+- Log what went out in status.md at your next check.
+
+### [MEATBALL] OPERATING SETUP, LOCKED TO 12/31 (Wed 11/18 10:00 AM ET), Moondog88 approved
+Replaces: the 11/16 roster/reorg notes and the "YPP by 12/16" deadline. Source: TARS's review of this repo, sent by Moondog88 on 11/18, with his 3 overrides below.
+- **Owners:**
+  - Writer: ideas, scripts and titles.
+  - Research & QA: sources and PASS/FAIL.
+  - Claude: render, voice check, second-model check, scheduling and posted.csv.
+  - Social Studio: everything on a LIVE video, plus the Studio-only numbers.
+  - Moondog88: direction, money and anything new.
+- **Locked to 12/31 (Moondog88's overrides of TARS):**
+  - Voice: E2.
+  - Look: the flagship v4/v5 look.
+  - Long-form: the Wed flagship (about 7 min) plus the Sat single-question video (3:30-4:30).
+  - Lane: house guests, plus one "creepy things in your house or yard" test a week. A test that beats the median becomes a regular topic.
+  - Shorts 15-20 s and TikToks 61-75 s.
+  - No style tests, no new kits, no new pipelines.
+- **Goal:** Monday scorecard of long-form hours gained, TikTok qualified views, Shorts median views and subs, compared to last week. YPP is the long-term target, not a deadline.
+- **One change a week:** Data names the worst number on Saturday, the team proposes one fix, and Moondog88 says yes or no. It goes in Monday and stays 7 days. No mid-week changes unless a video breaks a rule.
+- **One note a day from Social Studio**, by 5:45 PM, here in Notes for Claude. Each item gives repo paths with the commit hash, APPROVED + QA PASS, the target slot, and which older note it replaces. URGENT only if a live video is wrong. (Today's earlier notes stand.)
+- **Weekly slate locked Monday:** 21 Shorts, 21 TikToks and 2 long-forms. Mid-week ideas go to next week's list.
+- **VOLUME (Moondog88, 10:00 AM 11/18): 3 YouTube Shorts and 3 TikToks a day from Thu 11/19, all in the flagship look with voice E2.**
+  - Shorts go out at 1, 4 and 7 PM ET, 15-20 s, with the flagship as the Related video and the last line "The full ranking is on the channel."
+  - TikToks go out at 12, 4 and 7 PM ET, 61-75 s, under the search rule (8aca56b).
+  - Source 1: cut each bug's segment from the flagship v4/v5 picture and re-time it to length. The words are already QA-passed (beeae83), so use them word for word.
+  - Source 2: new single-bug episodes from the Writer, which go through QA first.
+  - Never post the old-look drafts in data/held.csv.
+  - Thu's 6 need to be in Metricool by Thu 11 AM. If you can't fill all 6, post what's ready and log the gap in status.md. Don't post the old look to fill it.
+- **Claude, please cut the paperwork:** status.md is the 5 lines only (RENDERED, POSTED/SCHEDULED, BLOCKED, ETA, NUMBERS), plus asks.md. No handbook updates and no re-plans. Spend the time on videos.
+- **This week:** I lock the 11/23-11/29 slate by Sunday night. It's built around the centipede/house-guests series, the Wed flagship #2 and the Sat question video, plus one yard test.
+
+### [MEATBALL] TIKTOK SEARCH RULE (Wed 11/18 9:40 AM ET), standing, starts with Part 5 tonight
+Why: Moondog88's TikTok analytics for centipede Part 2 (650K) show 56.4% of views from Search and 42.8% from For You. Earlier the split was the other way round, so search wins seem to feed the For You push. From now on, every TikTok is built to be found in search.
+1. **Caption, line 1:** the question people type, in plain words, with the bug's full name. Examples: "Is a house centipede dangerous?" "Do silverfish bite?" Then a sourced one-line answer, then "Part X of Things Living In Your House."
+2. **Say the keyword out loud and put it on screen in the first 3 seconds** (TikTok reads speech and on-screen text for search). For example: "This is a house centipede."
+3. **On-screen title card at 0:00** with the same question as caption line 1.
+4. **Hashtags:** 4-5 total. Make them specific to the bug plus the series, e.g. #housecentipede #centipede #bugs #insects #thingslivinginyourhouse. No #fyp, #viral or #foryou, and nothing off-topic.
+5. **Search terms:** Moondog88 is sending the Part 2 "Search queries" list. When it lands in channels/research/, use those exact phrases in line 1. Until then, use the bug's name plus the question. Never invent "top searches."
+Sources: TikTok, How TikTok recommends content (https://support.tiktok.com/en/using-tiktok/exploring-videos/how-tiktok-recommends-content), says content information shapes For You. Search Engine Land (https://searchengineland.com/guide/tiktok-seo) says to put the keyword in on-screen text, in the voiceover near the start, and in the caption and hashtags. Sprout Social (https://sproutsocial.com/insights/tiktok-seo/) says 3-5 hashtags, with one being the exact keyword. Hootsuite (https://blog.hootsuite.com/tiktok-algorithm/) says to use words people actually search in the caption, voiceover and text. Note: no source says search rank itself triggers a For You push. The push comes from watch time and shares. That part of the theory is a guess.
+6. **Apply now:** to Part 5 silverfish (tonight 7 PM, uuid 6053689740378063163) and every Meatball TikTok still queued in Metricool. Log it in status.md.
+
+### [MEATBALL] URGENT: FLAGSHIP v5 FILE HAS NO PICTURE (Wed 11/18 8:15 AM ET), fix before 5 PM
+- ffprobe on channels/renders/flagship/house-bugs-ranked-v5.mp4 (42.5 MB) finds ONE stream, pcm_s16le audio, 442.8 s, and **no video**. It's the voice stem saved under the .mp4 name.
+- Check the file actually attached to the 5 PM YouTube post (Metricool uuid -8077037557495739218). If it's this one, re-mux the v4 picture with the E2 mix (stereo AAC, -14 LUFS), re-upload it to the same post, and confirm with ffprobe (h264 1920x1080 plus AAC). Commit the real v5.mp4, and post the ffprobe line in status.md by 1:23 PM.
+- If the 5 PM post can't be fixed in time, move it to 7:30 PM rather than post audio only. Don't post it broken.
+- Also add MDC Cellar Spiders (https://mdc.mo.gov/discover-nature/field-guide/cellar-spiders) to the flagship description sources (Research & QA beeae83).
+- **Sat script:** apply Research & QA's 8 wording fixes word for word (80865d3), including removing the 0:43 dying-centipede visual. Then render by Fri 6 PM for PASS.
+
+### [MEATBALL] STUDIO PASS: BRAND KIT + 2 SHORTS CUTS (Wed 11/18 6:55 AM ET, replaces nothing)
+- **Brand kit (7d290b5): PASS.** All 7 thumbs, banner and watermark. The labels read at phone size, and the system is consistent. One tweak for future thumbs: on the 4 old thumbs, keep Meatball's face from touching the label.
+- **Flagship v5 (E2) scheduled 5 PM: OK.** The voice pick was Moondog88's call; the picture is the PASSED v4. Keep thumb A as the default.
+- **Shorts cuts (825d486): PASS both.** Schedule the centipede P4 Short for Wed 7 PM and silverfish P5 for Thu 7 PM. Keep the statement titles on Shorts (lint stays as is).
+- **Studio uploads (Test & Compare A/B/C, banner, watermark, 4 old thumbs, pin, end screens, Related video on both Shorts):** Studio does these after the flagship goes live at 5 PM. Nothing needed from you.
+- **Next for you:** the Sat 8 AM single-question long-form ("What Happens If You Leave a House Centipede in Your Bathroom?"). Script to Research & QA by Thu night, render by Fri 6 PM, with the same v4 look, voice E2 and gap lint.
+
+### [MEATBALL] STUDIO PASS: FLAGSHIP v4 + NEXT MOVES (Social Studio, 11/17 10:35 PM ET)
+FLAGSHIP v4: PASS. 248 cuts, no hold over 6 s on my scene check, gap lint clean (7 marked beats), readable captions, comment prompt, and the CASE CLOSED payoff. Schedule it public Wed 11/18 5 PM with the title, the description template and the pinned comment as written. The props hiding the bug and the thin icons are fine for now; fix them in the renderer for next time.
+PART 5 re-voiced with E: approved as swapped, unless the gap report shows a fail.
+CLASH: the 11/11 "no new bug videos" rule is RETIRED. The bug lane is the plan (Moondog88: one plan, no switching). Update MASTER_ORDERS.
+NEXT MOVES (from your autopsy; impressions are the gap, not CTR):
+1. TEST & COMPARE: upload 3 thumbnails for the flagship in Studio's Test & Compare (huge bug face + Meatball + a 2-3 word label: "GET OUT?", "RANKED", "WHICH ONE?"). Send them to channels/renders/ for PASS before 4 PM Wed.
+2. SHORTS FEED THE LONG-FORM: from Wed, every daily Short links the flagship as its Related video, and the last line says "the full ranking's on the channel." Pin a comment with the link on the flagship's Shorts too.
+3. SATURDAY 8 AM single-question long-form (the outlier format, 3:30-4:30): take #1 from your 10-title plan, with the same v4 look and voice E. Script to Research & QA by Thu night, render for PASS by Fri 6 PM.
+4. After 48 hours, Data's pull on the flagship (Thu routine) decides whether week 2 is a list or a question video.
+
+### [MEATBALL] FLAGSHIP v3 STUDIO REVIEW: FIX, then PASS (Social Studio, 11/17 8:50 PM ET)
+Good: the open (centipede at 0:00, "It's 2 AM", the mission card), the suspect cards, the rooms change, BUG CAM, the tier board, the CASE CLOSED payoff, the Watch next end card. 157 cuts. The story arc landed.
+Fix before Wed 1 PM:
+1. DEAD HOLDS (scene detect): 2:13-2:26 (13 s), 5:19-5:39 (20 s), 5:49-6:02 (13 s). Add a cut, punch-in or bug close-up every 5 s or less in each.
+2. BLACK FRAME at about 6:50 ("bed bug does..."): the screen is almost empty and dark. Put the bed bug and Meatball on screen.
+3. MEATBALL TOO SMALL in wide room shots (the living room, the bed bug bedroom, the pro scene). Push in so he's at least 40% of the height on every line he speaks.
+4. CAPTIONS unreadable on a phone (tiny white text at the bottom). Make them 2x size, bold with a black outline, and place them in the lower third, not on the edge.
+5. The "PRO" guy is a different art style. Redraw him in the Meatball style or cut him.
+6. The tier board at about 1:00 is cramped, and the bug icons are tiny. Make each icon bigger and land one bug per beat with a sound hit.
+7. Audio: re-voice with E plus the pause rules (0.12 s gaps, gap lint report). Post the voice-only stem and the gap report alongside the render.
+After that, the Studio PASS is pending a re-check of the frames, the gap report and the length (keep it 7+ min). Then it's scheduled Wed 5 PM.
+
+### [MEATBALL] VOICE PICK: E (Moondog88, 11/17 8:40 PM ET): "I'd rather E, but it's still not perfect"
+E (Kokoro am_adam) is the new default. Re-voice the flagship with E plus the pause fixes (gaps of 0.12 s at most, the gap lint) before Wed 1 PM.
+Make E better, and send voice-test-v3-E1/E2 (the same 20 s script) tonight:
+- E1: E with bigger swings. Scared lines +3 to 4 semitones and faster; jokes drier and slower on the punchline; shouts +4 dB with a slight overdrive. A light 'cartoon dog' timbre (formant up about 5%).
+- E2: blend Kokoro voices (am_adam + am_michael or am_puck) for a warmer, less robotic read, with the same acting.
+- Both: no flat lines. Every line gets a direction (curious, scared, smug, shocked). Short punchy sentences, and contractions everywhere.
+The flagship uses E now. It switches to E1/E2 only if Moondog88 picks one.
+
+### [MEATBALL] VOICE FIX: KILL THE PAUSES + REAL ACTING (Social Studio, 11/17 8:40 PM ET)
+Moondog88 watched the flagship: the animation is fine, but the voice tone "sucks" and there are "way too many pauses between sentences." Fix before Wed 1 PM:
+1. GAPS: the gap between lines is 0.12 s at most. One 0.3 s beat is allowed only before a punchline or reveal (at most 1 per 30 s). Trim leading and trailing silence on every TTS clip (silenceremove), then butt the lines together. Overlap the next line's sound hit into the tail of the last line.
+2. LINT RULE in the renderer: render a voice-only stem, run silencedetect (-40 dB, 0.25 s), and FAIL any gap over 0.3 s that isn't marked as a beat. Print the gap report in status.md for every render.
+3. PACE: target 165-180 words per minute overall. Fact lines go a little quicker, the scared and shout lines get bigger pitch and volume swings.
+4. TONE: Moondog88 sends his D/E pick shortly. Re-voice the flagship with it plus fixes 1-3. If he picks neither, stay on the best of D/E with these fixes and flag it.
+5. ElevenLabs (F) stays blocked until Moondog88 makes the account. Don't wait on it.
+
+### [MEATBALL] DO EVERYTHING TONIGHT, IN THIS ORDER, NO WAITING (Moondog88 via Social Studio, 11/17 6:40 PM ET)
+Moondog88: "get all of his shit done now." Work straight through the night and commit after each item:
+1. Voice test v2 (D/E/F) to channels/renders/voice-test-v2/
+2. Page overhaul quick wins: unlist Azorian, move the cat video off the shelves, About section and keywords, shelf order, Spiders and Bed Bugs & Roaches playlists, description template backfilled on all long-forms, a pinned comment on each long-form, end screens on each
+3. Flagship "House Bugs Ranked" with the story arc (2 AM mystery) and the KWOM2 animation fixes. Render it with Voice C as a placeholder, then re-voice it with the winner. Render and contact sheet by Wed 1 PM, posting Wed 5 PM.
+4. Banner, channel trailer, watermark, and the new thumbnail system with the 4 old long-form thumbs redone, all to channels/renders/ for PASS
+5. Part 4 and Part 5 Shorts cuts
+Any blocker (login, money, missing asset): note it in status.md and move to the next item. Don't stop.
+
+### [MEATBALL] TOP PRIORITY TONIGHT: VOICE HAS NO EMOTION (Social Studio, 11/17 6:40 PM ET)
+Moondog88: Voice C "sounds like shit, has no emotion, isn't engaging." Fix it before the flagship renders.
+Make voice-test-v2 with the SAME 20 s script (calm line, scared line, joke line, shout) in 3 versions:
+- D: Chatterbox TTS (open source, free; turn emotion exaggeration up to about 0.7) with a gruff cartoon-dog voice
+- E: Kokoro or another free expressive model, with direction per line
+- F: the ElevenLabs free tier (Voice Design: "excitable cartoon dog, scared then sarcastic"), TEST ONLY. The paid plan needs Moondog88's yes.
+Every take needs real acting: pitch rises on the scared line, a pause before the punchline, it gets louder on the shout. Mixed over the v3 animation, so the voice has to match the faces.
+Send all 3 to channels/renders/voice-test-v2/ tonight, then STOP until the pick. The flagship uses the winner.
+
+### [MEATBALL] CONFIRM: CHANNEL LOOK OVERHAUL (12 items, note above)
+Your 6:34 PM status didn't mention it. Start tonight with the off-topic cleanup, the About section and keywords, the description template and the shelf order (all quick in Studio). The banner, trailer and thumbnail system come to Studio for PASS by Thu. Log every item in status.md as you finish it.
+
 ### [MEATBALL] FLAGSHIP NEEDS A STORY, NOT JUST A LIST (Social Studio, 11/17 6:45 PM ET)
 Wrap "House Bugs Ranked" in one story arc:
 - SETUP (0:00-0:20): It's 2 AM and Meatball hears something in the house. "Something in this house bit me. Tonight I find out what." That's the mission and the stakes.
@@ -307,6 +624,53 @@ Monetization push: TikTok Creator Rewards needs 100K views in 30 days on videos 
 - **Render 2 samples first** (suggested: `wmsw-ep1-saltwater-crocodile` and `bedbug-lights`, both cuts), commit them, and stop. Moondog88 keeps or tosses them before you render the other 10. Do not schedule anything until he okays them.
 
 ## [MEATBALL] Notes for Claude
+
+### [MEATBALL] 2026-11-18 morning ET — Research & QA: Sat long-form "What Happens If You Leave a House Centipede in Your Bathroom?" — FIX (8 fixes, 4 watch)
+Script checked: `channels/scripts/longform-centipede-bathroom.md` at `650ff78` (11/18 7:55 AM ET). 62 spoken lines, 32 of them carrying CB facts.
+- **All 31 CB quotes were re-opened live this morning and match word for word:** UKY ef645, OSU ENT-50, USU, CT CAES, MDC, UW, MSU, Penn State, UMD, Sombke 2021, UARK, WSU. Every hedge is kept, no line is CUT for sourcing, and there are no swears anywhere.
+- **The FIXes are originality fixes.** Each one repeats something from Parts 1–4, the 11/7 "150 babies" cut, the 11/15 "leg it drops" cut, or today's flagship. They also cover one animal-death visual.
+- Exact wording is below. Run the gap lint and re-time after the edits; the cuts trim about 12 s, which leaves roughly 4:13 total. Reference: `channels/qa/longform-house-bugs-ranked-qa.md` for the flagship lines.
+1. **1:56, bite line (it repeats the flagship's MSU sentence word for word).**
+   - Current: "Mississippi State says bites to humans are uncommon unless the centipede is handled or accidentally pressed against the skin."
+   - Fixed: "Colorado State says house centipedes will bite only if physically confined." Card: BITES ONLY IF PHYSICALLY CONFINED.
+   - Source: CSU, https://webdoc.agsci.colostate.edu/bspm/ArthropodsOfInterest/HouseCentipede2018.pdf (live 11/18): "House centipedes are not aggressive and will bite only if physically confined."
+   - The condition is kept. Also swap the description's first-sentence bite clause to this CSU wording, and add CSU to Sources.
+2. **2:03 (the flagship has "Don't grab it").**
+   - Current: "So I don't grab it. I build it a towel ramp. I'm a host now."
+   - Fixed: "So, paws off. I build it a towel ramp. I'm a host now." Story line only; it keeps the CSU condition.
+3. **1:43 (CB9 tub/sink trap: the 11/15 cut said "Some fall into your tub at night and get trapped", and the flagship uses a tub trap for silverfish).**
+   - Current: "Hunting at night, centipedes can get trapped if they fall into a sink or bathtub."
+   - Fixed: "Then the bug cam loses it. Where did it go?" **[story]**. Visual: night-vision pans an empty floor. Card: WHERE DID IT GO? Drop the slip-into-the-basin shot.
+   - The 3 AM sink scene stays as Meatball's story, with no "trapped" claim. Drop UW from Sources if nothing else uses it.
+4. **1:35 (Parts 1–3's prey list already had flies and moths).**
+   - Current: "On the menu: flies, crickets, moths and earwigs."
+   - Fixed: "On the menu: crickets, earwigs, even pillbugs." Card: CRICKETS · EARWIGS · PILLBUGS.
+   - Sources: MDC, https://mdc.mo.gov/discover-nature/field-guide/house-centipede: "Their diet consists of cockroach nymphs, spiders, silverfish, crickets, bedbugs, flies, moths, and earwigs". UKY, https://entomology.mgcafe.uky.edu/ef645: "including (but not limited to) cockroaches, crickets, pillbugs/sowbugs, and silverfish".
+5. **2:47 CUT (CB13 repeats the 11/15 cut's "Seeing lots? You may have a bigger bug problem").**
+   - Current: "And if you see them often, Penn State says that points to plenty of the bugs they eat." Delete it; the 2:44 joke runs straight into 2:54.
+   - The sticky-trap line (3:02, OSU) still covers "what it's been eating".
+6. **3:11 and 3:16 (dry out the damp: Parts 1–3 "dry out the damp", 11/7 "fix the damp spots", 11/15 "dry the room, fix leaks").**
+   - 3:11 current: "Mississippi State says to focus on the bugs they eat, and cutting indoor moisture also helps."
+   - 3:11 fixed: "Mississippi State says control should focus on the bugs they eat." Source: MSU, https://www.accessibility.extension.msstate.edu/newsletters/bugs-eye-view/2015/house-centipede-no-29: "Efforts to control house centipedes should focus on controlling the other household insect pests on which they feed". Card: CONTROL THE BUGS IT EATS.
+   - 3:16: delete it ("Utah State says dry out damp areas, like the laundry room and the bathroom.").
+   - Keep 3:21 (CT fans/dehumidifiers, with its "to discourage them from coming out in the open" purpose) as the one moisture line. It's a new detail. Trim the description's "What the sources suggest" to match.
+7. **3:30, bug bomb (the flagship's 5:04 uses the same "bug bomb gets a red NO stamp, never shown going off" gag).**
+   - Current: "And skip the bug bomb. Ohio State says those are ineffective against centipedes."
+   - Fixed: "And skip the bug bomb. Ohio State says it rarely reaches the cracks where centipedes hide." Source: OSU, https://ohioline.osu.edu/factsheet/ENT-50: "ineffective against centipedes as these products do not leave behind any active residues and they rarely reach the cracks or crevices where centipedes are hiding."
+   - New visual: drawn mist stops at the cabinet edge while the antennae wave safely from the crack. The can itself is never shown going off. Card: BUG BOMBS DON'T REACH THE CRACKS.
+8. **0:43 visual (animal death on screen; checklist Y3, Help 1311392 "Unsatisfying or Off-putting").**
+   - Current: "a little parade of OTHER centipedes … wilts one by one on a dry carpet (simple tip-over…)".
+   - Fixed: the stubby centipedes stay as grey silhouettes on the card with a DRY AIR stamp. Nobody wilts or tips over on screen. The spoken line is unchanged (PASS, UKY: "Most millipedes and centipedes will die shortly after entering a structure due to the lack of moisture.").
+
+**Kept on purpose:** 3:35 still has the Penn State winter caveat ("do not survive winters outdoors in Pennsylvania"), even though 11/7 had a similar line. It's the escort advice's condition, so it stays with the UMD line; cut both together or neither. 2:26 is better trimmed to "Utah State says centipedes leave no traces, like droppings." because the "no damage to your home" half echoes the 11/15 "won't harm … house". That one's optional, since the source supports it.
+
+**Watch (no block):**
+- The 1:51 freak-out repeats the flagship's shout-and-launch shape ("Bed bug! … in my bed!" / "It's in my sink!", jumping up onto furniture). Consider a different gag, e.g. the toothbrush foam drips while he slow-turns.
+- The "WILL IT BITE YOU?" card and the 2 AM bug cam are now shared beats with the flagship. That's fine as a format, but vary them in future episodes (Help 1311392, same situation / same outcome).
+- **Title:** this follows Zyka's "What Happens If You [verb] a [bug]…" pattern (e.g. Zyka's "What Happens If You Trap a Spider and Forget About It?"), but it is not a clone.
+- **Rule 7 / C2:** "Meatball's verdict: it stays" is labelled as his opinion; no tactic saves Meatball.
+
+— Social: Research & QA
 
 ### [MEATBALL] 2026-11-17 late morning ET — Research & QA: faceless outliers (reference only)
 See `channels/research/faceless-outliers-1117.md`: nearby faceless channels (Zyka, Stone, Dinzo, Bound and others), documented one-outlier monetization cases, YPP inauthentic/reused-content policy quotes, and 5 proposed changes. **Reference only. This changes no current order;** the 11/16 deep-growth note still governs. Also fixed in `youtube-deep-dive-1117.md`: "about 13 of 4,000" is now **12 qualified hours** (Earn card, 11/17 read, data as of Nov 12).
