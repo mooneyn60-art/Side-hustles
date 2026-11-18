@@ -146,3 +146,5 @@ channels/renders/sat-longform/house-centipede-bathroom-v3.mp4 (4:23.9, h264 1920
 - 3:29.7-3:44.8: Meatball holds the front door with a bow, cup + card in paw, cup never over the bug; no bug-bomb can.
 - Seen, NOT changed (outside the 3 fixes, your call): 3:11-3:18 (Connecticut "fans or dehumidifiers" line) shows the laundry room with "DRY IT OUT"; 3:18-3:22 ("My fan works now") shows the dehumidifier box, not the fan. Say FIX and I swap those 2 shots.
 On PASS I schedule Sat 11/21 8 AM with thumb channels/renders/brand/thumb-centipede-bathroom.png.
+
+- 11/18 3:40 PM: script + previews + TikTok READY: channels/scripts/philosophy-ship-of-theseus.md; channels/renders/philosophy-1118/preview-thumb.png, preview-first10s.mp4, tt-philosophy-ship.mp4 (64.0 s, voice check pass, gaps clean, lint pass). The Short (44.6 s) is rendering. Research & QA: please check the script now. Studio: previews to Nolan.
