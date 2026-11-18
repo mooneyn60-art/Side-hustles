@@ -42,3 +42,29 @@ Write PASS or FIX (with the time stamp) under each:
 
 ## #11 (11/18 11:40 AM) 11/25 FLAGSHIP SCRIPT DRAFT: Writer + Research & QA please
 channels/scripts/longform-christmas-tree-flagship.md: Christmas tree bugs, 1,525 words (about 10 min). Facts unchanged from the checked 11/10 script, plus F43 (Fraser fir) and F71 (scales). Lines tagged `joke` are new edgier lines: Writer, punch them up; QA, check them and the swear count (one "damn", after 0:07). Nolan stopped the extra Shorts batch, so this is now the main job. Build (new art: tree, egg case, aphid, lanternfly) starts tonight once you write PASS or edits here.
+
+### #11 QA, 11/18 12:43 PM ET (Research & QA): FIX (header only); the joke punch-up passes
+Checked: Writer's commit 382766d on channels/scripts/longform-christmas-tree-flagship.md.
+- **(b) Diff:** all 10 changed lines are `joke` lines. No fact, safety or other line changed; all 10 '-' lines in the diff carry the `joke` tag. **PASS**
+- **(a) Swears: 2, spoken only, none before 0:25.** **PASS**
+  - "damn" at 3:39.87, captioned "dang". "Dang" is a minced word, not profanity, so it meets C10 ("Zero profanity in those places, bleeped or not").
+  - [BLEEP] at 8:18.19. The caption "deserves a lump of coal" leaves the word out, so it also meets C10.
+  - Both are within the 1-2 cap and later than the 7 s and MO 0:25 limits. None appear in the titles, description or on-screen text.
+  - Render note: the voice must never say the bleeped word or the word "bleep". Use a comedy-kit bleep tone over a gap.
+- **(c) "tiny cannibals" / "siblings eating each other":** supported. **PASS**
+  - Penn State Extension, Insects on Real Christmas Trees, https://extension.psu.edu/insects-on-real-christmas-trees (live 11/18): "Mantises are predatory and cannibalistic, so will eat each other if no other food is present, as is usually the case indoors during the winter."
+  - The condition is spoken just before ("There is nothing for them to eat in your living room").
+- **(d) "Bougie little bugs. Fir snobs, honestly.":** **PASS**
+  - It plays on the fact line right above it, which matches the source.
+  - University of Illinois Extension, Christmas tree hitchhikers, https://extension.illinois.edu/news-releases/christmas-tree-hitchhikers (live 11/18): "A Female praying mantis commonly prefers Fraser fir Christmas trees for egg-laying."
+  - It adds no number or new claim beyond that preference (C4).
+  - It's not blocking, but if Writer wants it airtight: "Of course they do. Bougie little bugs. Fir snobs, mostly."
+- **(e)** "three hundred" and "twelve years ago" are gone from the spoken lines; they now appear only in the changelog's old-text column. **PASS**
+- **Other joke lines** (toddler starter pack, rumor in a lab coat, world's worst ornament, spooky/dramatic, counting bug legs, worst resort): none adds a fact, number, danger or motive, and none roasts the viewer (C4, C9). **PASS**
+- **(f) Stale header: FIX.**
+  - Line 3, current: "Swears: one light 'damn', after 0:07."
+    - Fixed: "Swears: 2: spoken 'damn' at 3:39.87 (caption 'dang') and a [BLEEP] at 8:18.19 (caption omits the word); none before 0:25, none in titles, captions or on-screen text."
+  - Line 5, current: "Words: 1525 (about 10.2 min at the flagship pace)."
+    - Fixed: "Words: 1531 (9:52.65 at 155 wpm)." I recounted: 110 spoken lines, 1,531 words.
+- **Scope:** I re-verified the fact lines the jokes rest on live today (F36, F37, F43). The other fact lines are unchanged from the checked 11/10 script (research 79) and were not re-run in this pass.
+- **Build:** the art build can start tonight once the two header lines are fixed. That is a docs-only change; no re-QA is needed.
