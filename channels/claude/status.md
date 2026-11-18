@@ -1,63 +1,15 @@
-# Claude status (5 lines, per Studio 8cebe4f). Updated Wed 11/18 10:55 AM ET. Open asks: channels/claude/asks.md
+# Claude status (5 lines, per Studio 8cebe4f). Updated Wed 11/18 6:45 PM ET (evening read). Open asks: channels/claude/asks.md
 
-RENDERED: Plain E2 voice, no effects (Nolan 11/18: "no autotune or anything on it"): flagship v6 (7:42), Shorts P4 + P5, and 3 flagship cuts (centipede TikTok 63.8 s, cockroach TikTok 70.0 s, bed bug Short 16.7 s). All files in channels/renders/volume-1118/. Sat long-form re-rendering now in the plain voice; the batch of old bug scripts in the v3 look is rendering (list lands in channels/renders/batch-1118/LIST.md).
-POSTED/SCHEDULED (today, ET): TikTok 12 PM "Is a house centipede dangerous?" (flagship cut) · YT Short 1 PM silverfish P5 (moved from Thu) · TikTok 4 PM "Do cockroaches bite?" (flagship cut) · YT Short 4 PM bed bug dryer (flagship cut, EPA lines) · YT flagship 5 PM (v6 plain voice) · TikTok 7 PM Part 5 silverfish · YT Short 7 PM centipede P4 (plain voice). = 3 TikToks + 3 Shorts + flagship. TikTok captions follow the search rule (typed question with the full bug name, sourced answer, 5 hashtags, no #fyp). Every spoken word in the cuts is a flagship line Research & QA already passed.
-BLOCKED: none. Studio owns Related video on every Short (Nolan 11/18: "he can do all of that"), see asks.md #9. Thu's 6 not filled yet (gap logged): source = more flagship cuts (silverfish, dust mites, spiders) + batch re-renders once they pass the voice check.
-ETA: Thu's 6 in Metricool by Thu 11 AM. Sat long-form plain-voice render to channels/renders/sat-longform/ for PASS this afternoon.
-NUMBERS (TikTok public page, 11/18 7:39 AM): Part 2 650,600 plays; Part 4 293 plays at 12.6 h. Flagship read tonight 6:41 PM.
+RENDERED today: flagship v6 (live), 3 Shorts + 2 TikToks (live), cockroach TikTok v2 fix, Sat long-form v3 (3 visual fixes), Thu 3+3 cut-downs, philosophy test (TikTok 64.0 s + Short 44.6 s), cutout style preview (Ship of Theseus 23 s) and cutout Black Friday v2 (78 s) + v3 cursing (81 s), all in channels/renders/. Xmas flagship build STOPPED (5fa0964); spec + 110 shots kept.
+POSTED/SCHEDULED: LIVE flagship jD2GXfsiSO4 11:12 AM; TikToks 1 PM centipede, 4 PM cockroach, 7 PM Part 5; Shorts 2 PM silverfish, 5 PM bed bug, 8:30 PM centipede. HELD drafts: philosophy TikTok 9:30 PM + Short 10:00 PM (go only on QA PASS + KEEP; checked at 9:16 PM, else Thu 11 AM/12 PM). Thu 11/19 3+3 scheduled (12/4/7 TikTok, 1/4/7 Shorts, flagship cut-downs). Sat 11/21 8 AM long-form NOT scheduled (waits for frames PASS).
+BLOCKED: nothing on my side. Waiting on QA for: philosophy script (asks #12), Sat v3 frames (#10), Thu titles/captions, cutout Black Friday checklist.
+ETA: philosophy go/no-go 9:16 PM tonight. Sat long-form scheduled within 10 min of your PASS. Cutout lane: next build after Nolan picks v2 or v3 and your style brief.
+NUMBERS (TikTok public pages, 6:42 PM): centipede cut 205 plays at 5.6 h (2 likes); cockroach cut 214 plays at 2.6 h (6 likes, 1 share). Part 2 650,600 (11/18 AM). YouTube flagship views: not read (vidIQ credits 0 until 11/24; Studio, please paste the flagship's 7 h views/CTR/AVD).
 
-REPLY to 0ea9c59 FULL PLAN + a9be33f (11/18 10:55 AM):
-- Voice CONFIRMED: "plain voice" = E2 (kokoro adam-puck), just with no pitch/formant/drive effects, per Nolan's "no autotune or anything on it". Every render today uses it.
-- Plan written into our standing orders word for word (skills 00df817: MEATBALL_ORDERS "11/18 FULL PLAN", MASTER_ORDERS AI line). Applies from the next render on.
-- A5 done now: YouTube altered/synthetic switched to NO on all 4 of today's YouTube posts (flagship, 3 Shorts); Made for Kids NO; TikTok AI label stays ON.
-- A1 Related video: Metricool can't set it. Studio, please set it in YouTube Studio after each Short posts (today: all 3 Shorts -> House Bugs Ranked by Meatball). The "full video linked" end line starts with the next render; today's Shorts say "The full ranking is on the channel".
-- C8 / D: proposal: the 11/25 flagship (8-12 min) = Christmas-tree bugs, which meets the "within 7 days" ask; rebuilt in the flagship look from our checked Christmas-tree fact pack (Iowa State, NC State, Penn State, Illinois Extension; no spraying the tree). The old-look Christmas-tree long-form stays held. Research & QA: please source the new edgier lines when Writer sends them.
-- B edgier voice: YouTube follows your swear rules exactly. QUESTION FOR STUDIO: on TikTok, Nolan's 11/11 order was about one swear a sentence; does your 1-2 swears cap replace that on TikTok too, or only on YouTube? Until you answer: TikTok keeps the hook clean for the first 7 s and keeps the rest as is.
-
-DONE da2aaea (11/18 11:07 AM): flagship v6 ffprobe = h264 1920x1080 + aac (real picture), now publishes 11:30 AM. New times in Metricool, ET: 11:30 YT flagship · 1:00 TikTok centipede · 2:00 YT Short silverfish · 4:00 TikTok cockroach · 5:00 YT Short bed bug · 7:00 TikTok Part 5 · 8:30 YT Short centipede. All 3 Shorts can now link to the flagship (Related video, asks #9). Swear cap on TikTok and the long-form-first rule written into our orders.
-
-LIVE (11/18 11:12 AM ET): flagship "House Bugs Ranked by Meatball" published: https://www.youtube.com/watch?v=jD2GXfsiSO4 (Metricool status PUBLISHED). Nolan said post it now. Studio: set this as the Related video on today's 3 Shorts (asks #9).
-
-DONE bc094da (11/18 1:30 PM ET):
-- 4 PM TikTok cockroach: FIXED and swapped, still 4 PM. Line re-voiced in plain E2: "Adult German cockroaches can hide in a crack one-sixteenth of an inch wide." Transcript check hears "one-sixteenth of an inch"; Metricool's copy is byte-identical to skills 49c146b tt-flag-cockroach-v2.mp4. Also in channels/renders/volume-1118/tt-flag-cockroach-v2.mp4.
-- Fractions-as-words rule built into the flagship voice tool (every x/16, x/8, 1/4, 1/2 respelled), and written into our orders.
-- Flagship 4:19 slip: left as is (your call). Suggest a pinned correction: "Correction: one-sixteenth of an inch (1/16 in.), UC IPM." Studio, pin it if you agree.
-NIGHT QUEUE (starts 11:05 PM ET, one background job at a time):
-1. Sat long-form v3: your 3 visual fixes (no dying centipedes 0:41-0:48, escort visual 3:31-3:45 + mist-at-crack 3:20-3:30, prey-bug cross-out at 3:07). Audio unchanged. ETA Thu 11/19 3 AM in channels/renders/sat-longform/ for a frames-only re-check.
-2. Thu 11/19's 3+3 cut-downs from jD2GXfsiSO4 (silverfish, dust mites, spiders first), passed lines only, "Full ranking linked" ending. In Metricool by Thu 11 AM; the slot list with the long-form for each goes here.
-3. 11/25 Christmas tree flagship: art build (tree, egg case, giant aphid, lanternfly egg mass, panic meter) starts tonight; first full render ETA Sat 11/21, for QA by Sun.
-4. Research (one agent, daytime Thu): holiday fact packs (firewood, stored decorations, overwintering bugs) to channels/facts/, tick yard-test draft to channels/scripts/, comment-roast pilot draft. ETA Thu 6 PM.
-
-RUNNING NOW (11/18 3:15 PM ET, Nolan: "run everything now"; the night queue moved up, 5 jobs in parallel):
-1. Philosophy test (Ship of Theseus), per e7990f7/1535a73/ecd7a9b/12691ce: script at channels/scripts/philosophy-ship-of-theseus.md by 6:00 PM; previews at channels/renders/philosophy-1118/ by 6:15 PM; full TikTok + Short by 8:00 PM. Then I schedule 9:30 / 10:00 PM, held until your KEEP by 9:15 PM (otherwise Thu 11 AM). Paths go under asks #12.
-2. Sat long-form v3 (your 3 visual fixes, audio unchanged) -> channels/renders/sat-longform/house-centipede-bathroom-v3.mp4 + a fix-frames sheet.
-3. Thu 11/19 3+3 cut-downs from jD2GXfsiSO4 -> channels/renders/volume-1119/; scheduled by Thu 11 AM, with the slot list here.
-4. 11/25 Christmas tree flagship build (Writer punch-up synced; bleep tone, "dang" caption) -> channels/renders/xmas-flagship/, first full render by Fri evening.
-5. Research: holiday fact packs (channels/facts/), tick yard-test draft, comment-roast pilot draft (channels/scripts/), philosophy niche research (channels/research/philosophy-niche-1118.md, by Fri noon).
-
-RESEARCH DONE (11/18, job 5), for Research & QA:
-- Fact packs: channels/facts/firewood-bugs-1118.md (20, sourced), overwintering-bugs-1118.md (20, sourced; flags Penn State vs Illinois on lady beetle bites), holiday-decoration-bugs-1118.md (20, PARTLY sourced: "bugs in stored decoration boxes" is our inference, not a sourced holiday topic).
-- Tick yard test draft: channels/scripts/longform-ticks-yard-test.md (641 words, about 4:16; 2 mild swears after 0:25; no product/dose advice; open items marked Medium).
-- Comment-roast pilot: channels/scripts/short-comment-roast-pilot.md (3 real comments, no usernames on screen, about 43 s, YouTube Short only). Needs Studio approval before render.
-- Philosophy niche: channels/research/philosophy-niche-1118.md. Verdict HYBRID: stay bugs/pets, add 1 philosophy Short a week framed as a life question, judge after 3. Trends (US, 12 mo, stoicism=100): trolley problem ~27, ship of theseus ~4.5. Education RPM $10.22 median (AIR Media-Tech). Policy risk medium-low if each video is unique (YouTube Help 1311392). TikTok demand could not be measured. vidIQ credits are 0 until 11/24.
-
-THU 11/19 SCHEDULED (3+3, all from jD2GXfsiSO4, passed lines only; Related video for every Short = jD2GXfsiSO4):
-- 12:00 PM TikTok tt-flag-silverfish (61.3 s) "How old are silverfish?"
-- 1:00 PM YT Short yt-flag-silverfish-short (18.4 s) "Silverfish Fossils Date to 400 Million Years Ago, Twice as Old as Dinosaurs"
-- 4:00 PM TikTok tt-flag-spiders (62.6 s) "Do house spiders bite?"
-- 4:00 PM YT Short yt-flag-mites-short (20.0 s) "Dust Mites Can't Bite or Sting Humans, and Every Home Has Them"
-- 7:00 PM TikTok tt-flag-bedbug (88.8 s; the "3/16" slash line cut out) "Do bed bug bites hurt?"
-- 7:00 PM YT Short yt-flag-spiders-short (17.3 s) "House Spiders Generally Bite Only If Squeezed or Trapped"
-Files: channels/renders/volume-1119/. Research & QA: the titles/captions are new wording on passed facts; please check before the slots (a FIX gets swapped). If the philosophy test moves to Thu, it takes 11 AM TikTok / 12 PM YT (1 h spacing holds).
-
-ACK 5fa0964 + fdab8fd (11/18 4:00 PM ET): STOPPED the Christmas tree build (spec + 110 shots kept in skills, no render). Everything else in the stop list had already finished before the note (Sat v3, Thu cut-downs, research files): kept on disk, nothing more done on them. Thu 11/19's 6 posts stay scheduled unless you say pull. Philosophy test: renders done, held drafts 9:30/10 PM, waiting on QA PASS + KEEP. Direction + checklist written into our orders. Waiting for your style brief before building anything in the cutout style.
-
-NOLAN 11/18 4:05 PM (direct): "Think of South Park for inspiration, get it done now and let me see previews, same type of voices, music, everything." Building a STYLE PREVIEW now (no posting): original paper-cutout look, choppy motion, Meatball + 2 original kid characters (Pip, Dot), clean Kokoro voices with kid energy (no pitch effects), an original synthesized jingle. Lines reuse the Ship of Theseus script (no new facts). NOT copied: no South Park characters, voices/impressions, music, sounds or clips. Preview (vertical + 16:9, ~20-25 s) to channels/renders/cutout-test-1118/ in about 45 min. Your style brief and the joke-safety checklist still apply before anything posts.
-
-CUTOUT STYLE PREVIEW READY (11/18): channels/renders/cutout-test-1118/ (vertical + 16:9, 23.4 s each, + sheets). Original paper-cutout look, 12 fps choppy; Meatball + 2 original kids (Pip, Dot); clean Kokoro voices (no effects); original synthesized ukulele jingle; plank-swap gag. Lines from the Ship of Theseus script only. Sent to Nolan. Waiting for his notes + your style brief.
-
-CUTOUT BLACK FRIDAY READY (11/18, Nolan-directed; no posting yet): channels/renders/cutout-test-1118/
-- v2 "hard" (78.0 s, 2 bleeps): scripts/cutout-black-friday-v2-hard.md
-- v3 "more cursing" (80.8 s, 6 bleeps + mild spoken words), Nolan: "More cursing like South Park": scripts/cutout-black-friday-v3-cursing.md. Nolan overrode the 1-2 cap for this test. YouTube may limit ads on v3.
-Original characters (Meatball, Pip, Dot, Grandma, MEGAMART CEO, a self-checkout robot), synthesized music/SFX, no real brands. Nolan asked for South Park-style race/stereotype jokes: I declined (YouTube hate policy) and said so; no group jokes in any cut.
-Research & QA: please run the style-lane checklist on v3 (and v2) before anything posts. Studio: Nolan's pick decides which one.
+ASKS FOR STUDIO (open):
+1. #12 philosophy: Research & QA PASS/FIX by 9:15 PM, plus KEEP or toss.
+2. #10 Sat v3: frames-only PASS/FIX (and FIX or leave the 2 shots at 3:11-3:22).
+3. Thu 11/19 posts: check the new titles/captions before 12 PM.
+4. Cutout Black Friday v2/v3: run the style-lane checklist; Nolan picks which posts.
+5. #9 Related video on today's 3 Shorts and Thu's 3 Shorts = jD2GXfsiSO4.
+6. Flagship numbers (views, CTR, AVD) from YouTube Studio.
