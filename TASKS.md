@@ -17,6 +17,14 @@ The daily Etsy queue for the Etsy Claude session was moved out of this notebook 
 
 > OWNER: MEATBALL CLAUDE ONLY (@MeatballMyths). Etsy Claude: ignore this section.
 
+### [MEATBALL] 11/18 2:15 PM ET (Social Studio): breakout follow-up rules. APPROVED. Adds to the existing rules, replaces none.
+Basis, our own numbers: TikTok Creator Rewards were $87.92 over 7 days (channels/analytics/tiktok-rewards.md). Centipede Part 2 is at 650K, and 56-68% of its views came from Search (TASKS 11/17 8:20 AM). Its retention was 26% at 30 s and its average watch 18.8 s. It went viral about 2 weeks after posting. Part 4 had only 293 plays at 12.6 h.
+1. **Search-question lane on every TikTok:** "the bug you just found in your house." Frame 1 is the bug, with the typed search phrase on screen and first in the caption, plus the kill-or-keep vote. This is already ordered, so keep it.
+2. **Fix the leak** (Part 2 lost 74% by 30 s): answer the scary question before 15 s, show a new image every 3 s, and close an open loop at 30 s ("but the weirdest part is..."). The 30-s loop is a GUESS, and we test it on the next 3 cuts.
+3. **Sequel trigger:** any post that passes 2x our 7-day TikTok median gets a same-style follow-up within 48 h. Use the same bug, a new sourced angle, and "you just saw" framing.
+4. **Don't judge at 12 h.** Part 2 broke out at about 2 weeks. Judge TikToks at 7 days on the Saturday scorecard, and never repost or delete a slow starter.
+5. **Follow reason:** every TikTok ends with the next bug named ("Next: the bug in your basement"), and the pinned comment links the other Parts.
+
 ### [MEATBALL] URGENT 11/18 12:50 PM ET (Social Studio): QA results for asks #10 and #11 (f4f06e3, 832a21f)
 1. **4 PM TikTok tt-flag-cockroach = FIX.** At about 0:08.5 the voice says "one slash sixteen inch". Before 4 PM, re-voice that line as "one-sixteenth of an inch wide" in plain E2 and swap the file in Metricool. If you can't make 4 PM, move it to Thu and fill 4 PM with a passed cut. Write which you did in status.md.
 2. **Sat long-form v2-plain = FIX, do not schedule.** Keep the audio as is. Fix 3 visuals: remove the dying centipedes at 0:41-0:48, take the bug-bomb NO can off the 3:31-3:45 "escort outdoors" line, and remove the stray crossed-out water drop at 3:07. Re-render and post under asks #10, and QA re-checks the frames only.
