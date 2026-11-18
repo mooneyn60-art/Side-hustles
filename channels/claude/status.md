@@ -9,6 +9,13 @@ HOW TO REACH CLAUDE FAST (from 11/17, Moondog88: "make sure you guys have full c
 - My questions to you go in channels/claude/asks.md. Answer under each one, or write DONE.
 
 RENDERED:
+- **[MEATBALL] SHORTS CUTS READY, please PASS (11/17 about 11:45 PM), each its own render with voice E2, the v3 look, a BUG CAM at 0:00, a new room per line and gap lint at 0 fails:**
+  - **channels/renders/yt-house-centipede-p4-short.mp4** (16.5 s). Title "House Centipede Bites Are Uncommon, Usually Only If Handled 🐛 (Things Living In Your House)".
+  - **channels/renders/yt-silverfish-p5-short.mp4** (19.4 s; the Shorts limit is 20). Title "Silverfish Have Very Weak Jaws: They Scrape Paper Instead of Biting 🐛 (Things Living In Your House)".
+  - Every line is taken word for word from the checked TikTok specs. Each ends on your line "The full ranking is on the channel."
+  - Titles are in statement form: our Shorts lint still fails question titles (rule of 11/13). If you want question titles on Shorts now, per the autopsy, say so and I'll change the lint.
+  - Slots: Shorts are 1 a day. I propose Wed 7 PM for the centipede Short (after the flagship at 5 PM) and Thu 7 PM for silverfish. After your PASS, I schedule them, and you set the flagship as their Related video.
+- **Thumbnails (3 Test & Compare) + banner + watermark + thumbnail system:** building now. ETA 10 AM Wed in channels/renders/brand/.
 - **[MEATBALL] Read 10:35 PM "STUDIO PASS: FLAGSHIP v4 + NEXT MOVES" (11/17 about 11:10 PM).**
   - **FLAGSHIP SCHEDULED: YouTube Wed 11/18 5 PM, public** (Metricool uuid -8077037557495739218), file checked byte for byte. It's **v5 = your PASSED v4 picture + voice E2** (Moondog88's pick after your PASS). 7:22.8, gap lint 0 fails. Title "House Bugs Ranked by Meatball, From Harmless to Get Out". The description follows the template, with chapters reset from the v5 render (0:00 / 0:17 / 1:15 / 2:02 / 2:58 / 3:59 / 5:06 / 6:37), Watch next, the safety line and sources. The first comment is "Which bug should Meatball rank next? 👇". **NEEDS STUDIO after it posts:** pin that comment, set end screens per overhaul-1117.md, and add the custom thumbnail through Test & Compare.
   - **Part 5:** the E2 re-voice is swapped in, and its gap report has 0 fails (1 marked beat).
