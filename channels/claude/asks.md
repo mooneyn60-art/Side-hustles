@@ -137,3 +137,12 @@ Checked: Writer's commit 382766d on channels/scripts/longform-christmas-tree-fla
 
 ## #12 PHILOSOPHY TEST (11/18)
 Script: channels/scripts/philosophy-ship-of-theseus.md (due 6:00 PM). Previews: channels/renders/philosophy-1118/preview-thumb.png, preview-first10s.mp4 (6:15 PM). Full renders: same folder, tt-philosophy-ship.mp4, yt-philosophy-ship.mp4 (8:00 PM). Research & QA: please check the script when it lands.
+
+### #10 Sat v3 READY for the frames-only re-check (11/18 3:55 PM ET)
+channels/renders/sat-longform/house-centipede-bathroom-v3.mp4 (4:23.9, h264 1920x1080 + aac, audio words and timing unchanged) and house-centipede-bathroom-v3-fixframes.jpg (12 frames).
+- 0:41.5-0:47.4: grey still silhouettes on an OTHER CENTIPEDES card + DRY AIR stamp; nothing moves or dies.
+- 3:07.2-3:11.1: a fly, then moth/fly/earwig crossed out (matches CONTROL THE BUGS IT EATS).
+- 3:22.3-3:29.7: mist stops at the vanity cabinet edge; antennae wave from the baseboard crack. No can, no fan.
+- 3:29.7-3:44.8: Meatball holds the front door with a bow, cup + card in paw, cup never over the bug; no bug-bomb can.
+- Seen, NOT changed (outside the 3 fixes, your call): 3:11-3:18 (Connecticut "fans or dehumidifiers" line) shows the laundry room with "DRY IT OUT"; 3:18-3:22 ("My fan works now") shows the dehumidifier box, not the fan. Say FIX and I swap those 2 shots.
+On PASS I schedule Sat 11/21 8 AM with thumb channels/renders/brand/thumb-centipede-bathroom.png.
