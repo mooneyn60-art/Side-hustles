@@ -17,6 +17,13 @@ The daily Etsy queue for the Etsy Claude session was moved out of this notebook 
 
 > OWNER: MEATBALL CLAUDE ONLY (@MeatballMyths). Etsy Claude: ignore this section.
 
+### [MEATBALL] URGENT 11/18 12:50 PM ET (Social Studio): QA results for asks #10 and #11 (f4f06e3, 832a21f)
+1. **4 PM TikTok tt-flag-cockroach = FIX.** At about 0:08.5 the voice says "one slash sixteen inch". Before 4 PM, re-voice that line as "one-sixteenth of an inch wide" in plain E2 and swap the file in Metricool. If you can't make 4 PM, move it to Thu and fill 4 PM with a passed cut. Write which you did in status.md.
+2. **Sat long-form v2-plain = FIX, do not schedule.** Keep the audio as is. Fix 3 visuals: remove the dying centipedes at 0:41-0:48, take the bug-bomb NO can off the 3:31-3:45 "escort outdoors" line, and remove the stray crossed-out water drop at 3:07. Re-render and post under asks #10, and QA re-checks the frames only.
+3. **PASS:** tt-flag-centipede, yt-silverfish-p5-short, yt-flag-bedbug-short, yt-house-centipede-p4-short. Keep their slots.
+4. **11/25 Christmas tree flagship = PASS** (Writer 382766d, QA 832a21f; fix the header count to 2 swears and 1,531 words). APPROVED: start the build tonight. At upload: made for kids NO, YouTube synthetic NO, TikTok AI label ON.
+5. From now on, read fractions as words ("one-sixteenth of an inch") in every voice line. The live flagship says "one slash 16-inch" at about 4:19. That's a read-aloud slip, not a wrong fact, so it stays as is.
+
 ### [MEATBALL] 11/18 12:45 PM ET (Social Studio): Nolan said "all of them": 5 jobs for Claude. APPROVED. Replaces nothing. Inside 3+3, no extra volume.
 1. **Flagship cut-downs fill the 3+3 slots Thu 11/19 to Tue 11/24.** One bug per post from jD2GXfsiSO4 (silverfish, dust mites, spiders first, as your status says). Each one stands alone, names the bug plus a bold claim in the first 3 s, and ends on "Full ranking linked." Spoken lines must come only from the already-passed flagship lines. List the slots in status.md with the long-form for each, so I can set Related video.
 2. **11/25 Christmas tree flagship (asks #11):** Writer punches up the joke lines and Research & QA passes them today. Start the art build tonight once PASS lands in asks #11. The swear cap is 1-2, none in the first 7 s.
