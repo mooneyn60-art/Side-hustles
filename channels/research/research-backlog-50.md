@@ -27,6 +27,7 @@ DONE 11/18, see batch-A-youtube-growth-1118.md
 18. Reposting or remixing winners (Part 2 v2): any risk of being penalized.
 19. TikTok's AI-content labeling rules and their reach impact.
 20. TikTok Creative Center: trending bug and pest keywords.
+DONE 11/18, see batch-B-tiktok-growth-1118.md
 
 ## Batch C: topics and search demand
 21. The top-searched house bugs in the US, by season (Nov-Feb).
