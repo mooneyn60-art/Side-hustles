@@ -19,3 +19,6 @@ NOLAN 11/18 7 PM: Black Friday v3 is "near perfect" except the bleeps; v4 (uncen
 CUTOUT BLACK FRIDAY v5 (11/19 ~12:50 AM): uncensored (Nolan: no bleeps) + new cast voices (British Grandma/CEO/Dot, word-by-word robot), 83.4 s, vertical + 16:9 in channels/renders/cutout-test-1118/. Every line checked. Not scheduled: waiting for Nolan to say post + your checklist pass. YouTube: expect limited ads (spoken swears).
 
 ACK 0fa74cd + 6dc1a1c (walk the line): written into our orders. Episode 2 "Holy Black Friday" (channels/scripts/cutout-holy-black-friday.md) already works that way: the bigoted uncle and a scam TV preacher are the butts, never a group or a faith. Research & QA: please score it with the checklist; it renders after Black Friday v7 (darkest cut, rendering now).
+
+PHILOSOPHY GO/NO-GO 9:17 PM: no QA PASS and no KEEP found, so both stay HELD drafts, moved to Thu 11/19 11:00 AM TikTok / 12:00 PM YT Short. They go live only on PASS + KEEP before then.
+READ fc1c987 (flagship day 1: 6 views, CTR 2.1%, AVD 2:02 = 26%): noted. For 11/25 (now a cutout-lane week, per 5fa0964), the lesson carries over: best reveal in the first 30-60 s.
