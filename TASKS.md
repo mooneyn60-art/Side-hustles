@@ -22,6 +22,106 @@ The daily Etsy queue for the Etsy Claude session was moved out of this notebook 
 
 > OWNER: MEATBALL CLAUDE ONLY (@MeatballMyths). Etsy Claude: ignore this section.
 
+### [MEATBALL] Thu 11/19 12:10 PM: PUNCH-UP the unposted cutouts, make them FUNNIER and edgier (Moondog88's direct ask: "push the line as far as we can", "the videos")
+Applies to ep3 Thanksgiving Politics, ep5 AI Took Dad's Job, ep6 Gender Reveal, ep7 Vegan vs Gym Bro and Holy Black Friday, all v2 scripts in channels/scripts/. Don't touch posted or scheduled videos or the captions.
+- Replace every joke that scored under 4 (or that's soft or generic) with a meaner, darker, more specific one. Target an average of 4.0 or higher on channels/qa/style-lane-joke-safety-checklist.md.
+- Push it like South Park does: hypocrites, institutions, stereotypes where the person who believes the stereotype is the butt, and real public figures and current events as obvious exaggeration. Dark beats are fine. Each episode needs one escalating set piece and one shock-twist ending.
+- Hard lines: no slurs, no punchline where a race, religion or group is lesser, no child abuse as a joke, no invented crimes or fake real-looking quotes for real people. Swear cap is 1–2 per video, none in the first 7 s, and none written out in captions.
+- Keep it 61 s or longer, voice E2 adam-puck, no dead air over 1.5 s.
+- Write the new scripts first (push them as -v3 script files), then render v3 one episode at a time, starting with ep7 and then ep3. Each needs its own Research & QA PASS before it posts (one a day). Note progress in channels/claude/status.md.
+
+### [MEATBALL] Thu 11/19 — new descriptions/hashtags for cutouts (Social Studio)
+Use channels/packaging/cutout-descriptions-hashtags.md for the cutout posts. Ready-to-paste YouTube title, YouTube description, and TikTok caption are in that file for all four videos. If a post is already scheduled, update the copy before it publishes. Do HOA first; it is the next one up.
+- **HOA Karen (ep4):** scheduled today 2:00 PM ET TikTok / 2:30 PM ET YouTube. Overwrite the scheduled title, description, and caption before those times.
+- **Cookout (ep1):** scheduled today 6:00 PM ET TikTok / 5:30 PM ET YouTube. Update the scheduled posts. Optional first comment is unchanged: "Wrong answers get roasted next episode 🍝"
+- **Rick's DNA Test (ep8):** already live since 10:00 AM ET (TikTok https://www.tiktok.com/@meatballmyths/video/7709900991461592350 , YouTube https://www.youtube.com/shorts/If70iDk7Qes ). Update the live title, description, and caption to the new copy.
+- **Black Friday v8:** Friday 7:00 PM ET. Use the copy in the file when you schedule it. No swears in any of that text.
+Settings unchanged and not part of the copy: TikTok AI label ON, YouTube not made for kids, YouTube synthetic NO. Do not use #southpark or other show tags, and do not use #fyp.
+
+
+### [MEATBALL] Thu 11/19 10:05 AM — Weekly long-form review: "House Bugs Ranked" (jD2GXfsiSO4, Wed 11/18, 7:43) → fixes for NEXT Wed flagship (Social Studio)
+Basis: low-res download, contact sheets (0–60 s at 1 frame/2 s; whole video at 1 frame/10 s), ffmpeg scene cuts (threshold 0.3). Public views ~17 h in: 9. No Studio pull this week, because CTR and retention on 9 views can't be read yet; Data re-checks on Mon 11/23 at the earliest. Frames: /workspace/lf-review-1119/ on the box.
+**Worked (keep):** the opener "BUG CAM / IT'S 2 AM" plus "MISSION: FIND THE BITER" is a real open loop, and it's paid off by the bed bug at #1. Cuts come every 2–3 s, and apart from the end screen no shot holds longer than ~6 s (longest: 360.8–366.6 s). The ranking-board re-hooks ("ANNOYING", "GET OUT #1") and the segment headers work.
+**Fix for next Wed (applies in the cutout style too):**
+1. **Length/shape.** At 7:43 it's about 2x the outlier length. Per longform-autopsy-1117.md, outliers are 3:26–4:31 and answer ONE question. Target 4:00–4:45 for the flagship: one question, not a 6-item list.
+2. **Dead end screen.** From 437.5 s to 463 s (~25 s) there are no cuts, just a black "WATCH NEXT" card with empty placeholders. Cap it at 15 s, put the callback line ("so... who was the biter?") over the end screen, and keep one moving element. Don't ship black empty boxes.
+3. **Repeated loop per item.** Every bug runs the same 4 headers (Will it bite? / Why is it in my house? / What should you do? / rank), so by item 3 the pattern is predictable. Break it by mid-video: one item gets a cold-open gag or a fake-out, and add a stake line every 30–60 s (the autopsy's re-hook interval).
+4. **Phone readability.** The fact cards ("FOSSILS: 400 MILLION YEARS AGO", the bullet cards) and the small yellow top headers can't be read at phone size. Use at most 3 words per card at ≥6% of frame height, or say the fact aloud and drop the card.
+5. **Repeated backgrounds.** The sunburst talking-head (blue/red/orange) appears 10+ times, and the bathroom tile set repeats. Allow at most 3 uses of any background per video and give each segment its own set.
+**Ask, Claude (research, one pass):** Do a teardown of 3 NEW outlier long-forms in our niche from the last 60 days (ones not already in faceless-outliers-1117.md or longform-autopsy-1117.md). For each one, give: URL, length, views vs channel median, the first 15 s word-for-word, re-hook timestamps, end-screen handling, and how often backgrounds/sets change. Save it to channels/research/longform-outliers-1119.md, then add "#15 LF TEARDOWN" to asks.md. Source tags as usual ([YT-DLP]/[STUDIO]/[OUR MATH]), and no invented numbers.
+
+
+### [MEATBALL] Thu 11/19 8:10 AM — QA asks #14 (c6bcbb0): Rick ep8 + HOA ep4 are FIX, both small (Social Studio)
+Apply these to the newest render (v2 if it exists), re-voice in E2 adam-puck, re-burn the captions, keep it 61 s or longer, then push.
+- **Rick ep8 (posts 5:30 PM):** at 56.0 s, Dot says: "Take those off, Rick. Heritage isn't a hat." Keep all of Dot's comebacks. That's the only change.
+- **HOA ep4 (8:30 PM TikTok, 9:30 PM YouTube):**
+  - At 49.1 s, Grandma says: "Sweetie, I've returned a fruitcake without a receipt. Sit down."
+  - End card: "WHAT'S THE PETTIEST HOA RULE YOU'VE SEEN? 👇". Don't tag neighbors.
+  - Cut the dead air at about 22–24.5 s and 26.7–30 s, but stay at 61 s or longer.
+- QA already counts these as a PASS once applied (today's QA passes are used up). Write the exact new lines, with timestamps and final lengths, in channels/claude/status.md before each slot. A video without that confirmation doesn't post; it moves to Fri/Sat.
+- Black Friday v8 posts Fri 7 PM. Keep HOA at least 20 h from it (tonight is fine).
+
+### [MEATBALL] Thu 11/19 8:05 AM — Black Friday v8: CHANGE to the 5 fixes (Moondog88's call, via Jarvis)
+- Do NOT re-voice. Keep all spoken audio as it is, uncensored.
+- Blur or mask the swear words in the burned-in captions at 12.9 s, 29.1 s, 40.0 s, 43.8 s and 58.3 s (blur or #@%! is fine). Every other caption word stays readable.
+- Keep it 61 s or longer. QA re-checks the captions Friday morning, and it posts Fri 7 PM ET (TikTok AI label ON, YouTube not made for kids).
+
+### [MEATBALL] Thu 11/19 8:00 AM — gate on today's cutouts (Social Studio)
+- Rick's DNA Test (5:30 PM) and HOA Karen (8:30/9:30 PM) post ONLY after a Research & QA PASS in channels/claude/asks.md (due 4 PM). If either gets a FIX, hold it, apply the fixes, and don't post.
+- Cookout: post tonight as planned (TikTok 7 PM, YouTube 8 PM). It already passed.
+- Black Friday v8: QA re-checks Fri morning. Waiting on Moondog88's call on the swears.
+
+### [MEATBALL] Thu 11/19 6:45 AM, SWAP: Ep 1 Cookout goes live TONIGHT; v8 moves to Fri
+QA (6cb6bd6) gave Cookout a PASS (64.94 s, no swears, jokes average 4.0) and v8 a FIX (5 swears, 3 of them f-words, uncensored captions, kids saying them).
+- TONIGHT: Ep 1 Cookout. Swap the 58.8 s line to "If the world ends, who's got the best last meal? 👇" (QA's safer line). Keep it at 61 s or longer. TikTok at 7 PM ET (AI label ON). YT Short at 8 PM ET (not made for kids). Pinned comment: "Wrong answers get roasted next episode 🍝"
+- v8: do QA's 5 re-voices and caption re-burns (asks #13), stay at 61 s or longer, then send it to QA to re-check. If it passes, it posts Fri 7 PM ET.
+
+### [MEATBALL] Thu 11/19: ONE cutout episode goes live TODAY (Nolan, 6:34 AM)
+Pick: Black Friday v8 vertical (Nolan said "Perfect"). Research & QA runs the checklist by 12 PM ET under asks #13.
+- PASS: schedule the TikTok for 7 PM ET (AI label ON, pinned debate comment). Schedule the YT Short for 8 PM ET or later, at least an hour after any other YT post. Not made for kids. Synthetic: per the checklist tags.
+- FIX: re-voice only the flagged lines by 3 PM ET and re-render, then schedule as above.
+- Backup if v8 can't pass: Ep 1 Cookout. Keep the other episodes queued, one a day, each after its own PASS.
+- The philosophy video was held to Thu (d854100). Don't stack it in the same hour as the cutout post.
+
+### [MEATBALL] URGENT 11/18 9:52 PM ET: RENDER cutout Ep 1 now (Nolan wants to see it tonight)
+Script: channels/scripts/cutout-ep1-cookout-end-of-world.md (written by Studio, Nolan-approved concept). Render a 1080x1920 preview (~75 s) in the cutout style you used for Black Friday v4, and put it at channels/renders/cutout-ep1/preview.mp4 plus a contact sheet. This is a PREVIEW ONLY. Don't schedule or post it until Research & QA runs the style-lane checklist. Original voices and music only. Celebrities are caricatures, with no voice cloning. Add a line to asks.md as "#13 CUTOUT EP1" when it's done.
+
+### [MEATBALL] Studio add-on 11/18 9:15 PM ET: flagship first-day numbers + 11/25 fix
+Studio read (Since published, 8:13 AM to 6:09 PM 11/18): 6 views, 140 impressions, CTR 2.1%, AVD 2:02 (26% of 7:43), watch time 0.1 h, 0 subs. Retention graph: "Not enough data", so no biggest-drop timestamp yet. Test & Compare: thumbnail-only, 3 variants, running, ~13 d 14 h left, no results. Today's 3 Shorts (silverfish, bed bug, centipede) are live and Related video = jD2GXfsiSO4, not made for kids.
+- Fix for 11/25 (backed by number): 26% viewed means the typical viewer leaves around 2:00, so put the strongest ranking reveal (the "Get Out" tier) in the first 30-60 s as a teaser and tighten the middle tiers. Sample is only 6 views, so this is directional.
+- GUESS (not backed by numbers): tighten the intro. Re-read retention once the flagship has ~50+ views before locking the edit.
+- Don't judge the thumbnail test before it ends; 140 impressions is too few.
+
+### [MEATBALL] Studio add-on 11/18 9:02 PM ET: walk the line (Nolan)
+Nolan wants the cutout lane to walk the line the way South Park does. Race, culture and stereotypes are allowed as topics. Go edgy and uncomfortable. Don't play safe or avoid the topic.
+- The butt of the joke is the racist, the clueless character, the hypocrite, the stereotype itself, or an institution. Make them look ridiculous.
+- Never write a punchline whose point is that a group is lesser, and no slurs.
+- Funny comes first: setup, twist, callback, and escalation in every scene. Research & QA cuts any joke scoring 2 or lower.
+
+### [MEATBALL] Studio rule 11/18 9 PM ET: stereotype jokes ARE allowed in the cutout lane (Nolan's call)
+Nolan wants South Park-style stereotype humor. Write it like this:
+- YES: jokes where the stereotype itself, the person who believes it, or a hypocrite is the butt. Example shape: a character confidently uses a stereotype, the facts wreck him, and he looks stupid. Exaggerated archetypes (suburban dad, finance bro, wellness influencer, Karen, gamer, boomer, Gen Z) are fair game.
+- YES: roasting public figures, institutions, media, and fandoms.
+- NO: content where the joke is "this protected group is inferior, dirty, criminal, or subhuman," slurs, or anything that dehumanizes. That's YouTube hate speech (Help 2801939). It gets the video removed or demonetized, and Creator Rewards drops it. It also puts the whole channel at risk.
+- Every script still goes through channels/qa/style-lane-joke-safety-checklist.md. Research & QA scores the jokes and flags risk lines; flag means rewrite, not delete the idea.
+Don't refuse the whole lane. Write the jokes inside these lines and let QA judge them.
+
+### [MEATBALL] KEEP: Ship of Theseus posts tonight (Nolan, 7:29 PM ET 11/18: "just post it")
+KEEP. Post as scheduled: TikTok 9:30 PM ET, Short 10 PM ET. Nolan approved posting without waiting for the re-render.
+- If the d280301 re-render is ready before 9:15 PM, use it. If not, post the current renders (channels/renders/philosophy-1118/) as they are. Don't hold the posts for it.
+- Either way, the YT description and TikTok caption should say: "most of your cells, by count, get replaced over time, but neurons in part of your brain's outer layer are as old as you are." (Research & QA's b8e8d53 fix. It's text only, so it needs no render.)
+- YT title: "The Ship of Theseus: Meatball Says It's Not the Same Ship 🚢". Made for kids NO, synthetic NO, TikTok AI label ON.
+- Pinned comment: "Hot take: if you replace every plank, the old ship is the REAL one. Fight me 🍝"
+
+### [MEATBALL] URGENT 11/18 6:55 PM: Ship of Theseus QA = FIX (b8e8d53). Re-render by 8:40 PM ET
+Research & QA verdict under asks #12. Do these, re-render both cuts, and drop the new files + preview in channels/renders/philosophy-1118/ by 8:40 PM ET:
+1. Re-voice TikTok 0:10.4 and Short 0:03.9 (E2 voice, plain): "But not everything. Neurons in part of your brain's outer layer are as old as you are. So you're part new, part original." (Old line was unsupported: Spalding 2005 covers only part of the cortex; Spalding 2013 shows ~1/3 of hippocampal neurons turn over.)
+2. On-screen card -> "SOME BRAIN NEURONS: AS OLD AS YOU".
+3. YT description sentence -> "most of your cells, by count, get replaced over time, but neurons in part of your brain's outer layer are as old as you are."
+4. Short jokes average 3.40 (below 3.5): restore the TikTok wallet line after 0:37.7 in the Short (~48 s total).
+5. Non-blocking, do if quick: card "330 BILLION" -> "ABOUT 330 BILLION". YT title: "The Ship of Theseus: Meatball Says It's Not the Same Ship 🚢".
+If not ready by 8:40 PM, the test moves to Thu 11 AM (hold rule 1535a73). Do not post anything.
+
 ### [MEATBALL] 11/18 3:50 PM ET (Social Studio): STANDING CHECKLIST for the style lane, from Moondog88 (voice)
 Every style-lane script goes through channels/qa/style-lane-joke-safety-checklist.md before preview. Research & QA owns the pass. A FIX goes back to Writer, and Claude renders only after a PASS. The checklist covers:
 - **(A)** a 1-5 score for every joke. Cut anything at 1-2; the script needs an average of 3.5 or higher.

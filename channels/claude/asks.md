@@ -149,3 +149,446 @@ On PASS I schedule Sat 11/21 8 AM with thumb channels/renders/brand/thumb-centip
 
 - 11/18 3:40 PM: script + previews + TikTok READY: channels/scripts/philosophy-ship-of-theseus.md; channels/renders/philosophy-1118/preview-thumb.png, preview-first10s.mp4, tt-philosophy-ship.mp4 (64.0 s, voice check pass, gaps clean, lint pass). The Short (44.6 s) is rendering. Research & QA: please check the script now. Studio: previews to Nolan.
 - 11/18 3:50 PM: BOTH RENDERS DONE. channels/renders/philosophy-1118/tt-philosophy-ship.mp4 (64.0 s) and yt-philosophy-ship.mp4 (44.6 s; ~45 s per your order, longer than our 15-20 s Short rule). Voice check pass on both, gaps clean, 1 light swear ("damn") at ~0:51 TikTok / 0:35 Short, captioned #@%!. Sources in the script: Sender & Milo, Nature Medicine 2021 (cell turnover; most neurons never replaced); Spalding et al., Cell 2005; Plutarch via MIT Classics; SEP "Identity Over Time" + "Material Constitution" (Hobbes; "Identity Over Time" does not name Plutarch/Hobbes). **Research & QA: second-model fact check needed before 9:15 PM.** I put both in Metricool now as HELD drafts (TikTok 9:30 PM, Short 10:00 PM). They go live only with your PASS + Studio KEEP by 9:15 PM; otherwise they move to Thu 11 AM.
+
+### #12 QA, 11/18 6:54 PM ET (Research & QA): Ship of Theseus script — **FIX** (5 fixes, all text or voice-line swaps)
+- **Checked:** `channels/scripts/philosophy-ship-of-theseus.md` at 400fb5a, covering the TikTok (64.0 s) and the Short (44.6 s).
+- **Rules used:** research-qa playbook, checklist C1–C12, the style-lane checklist (fdab8fd), MASTER_ORDERS.
+- **Sources fetched live 11/18 evening:**
+  - PubMed abstracts via NCBI E-utilities: 33432173, 16009139, 27541692, 23746839.
+  - SEP "Identity Over Time" and "Material Constitution".
+  - MIT Classics Plutarch.
+- **Couldn't verify:** the Sender & Milo **body text** the script quotes ("not all parts of the human body are ever replaced (for example, most brain neurons …) … complete turnover never happens"). nature.com shows only the abstract and references, so no line may rest on that body quote.
+- **Scope:** script only. I did not re-check the renders' frames or captions in this pass.
+
+**1. Facts (TikTok times; Short lines are the same unless noted)**
+
+| Line | Verdict | Quote (word for word, hedge kept) |
+|---|---|---|
+| 0:00 "Most of your body's cells get swapped out over the years. So are you even still you?" | **PASS, by count** | SFM16 (PLoS Biol 2016, PMID 27541692): "we identify the dominant role of the hematopoietic lineage to the total count (≈90%) and revise past estimates to 3.0·10^13 human cells". SM21 (Nat Med 2021, PMID 33432173): "We found a total cellular mass turnover of 80 ± 20 grams per day, dominated by blood cells and gut epithelial cells. In terms of cell numbers, close to 90% of the (0.33 ± 0.02) × 10^12 cells per day turnover was blood cells." "Most" holds only **by count**, where blood-line cells dominate. By mass, turnover is far slower. Keep "most" and never say "every". The hook doesn't, so it passes. |
+| 0:03.9 "Your body replaces about three hundred and thirty billion cells a day." | PASS (WATCH card) | SM21: "(0.33 ± 0.02) × 10^12 cells per day turnover". "About" is spoken. The card "330 BILLION CELLS / EVERY DAY" drops "about". Add "ABOUT" on any re-render; it doesn't block. |
+| 0:08.5 "Close to ninety percent of that is blood." | PASS | SM21: "close to 90% of the … cells per day turnover was blood cells." |
+| **0:10.4 (Short 0:03.9) "…Most of your brain's neurons never get replaced…"** | **FIX (over-reach)** | SP05 (Cell 2005, PMID 16009139): "we … determine the age of cells in the cortex of the adult human brain and show that whereas nonneuronal cells are exchanged, occipital neurons are as old as the individual, supporting the view that postnatal neurogenesis does not take place in this region." That covers one cortical region, not "most of your brain". Spalding et al., Cell 2013 (PMID 23746839) adds: "a large subpopulation of hippocampal neurons constituting one-third of the neurons is subject to exchange … We conclude that neurons are generated throughout adulthood". The SM21 body line saying most brain neurons are never replaced couldn't be opened (paywall). See F1–F3 for the fix. |
+| 0:15.7 "Philosophers have argued about this since ancient Greece, with a boat." | PASS | Plutarch, Life of Theseus (Dryden, MIT Classics): "this ship became a standing example among the philosophers, for the logical question of things that grow; one side holding that the ship remained the same, and the other contending that it was not the same." |
+| 0:18.9 "The Athenians kept the ship of Theseus. As the old planks decayed, they swapped in new timber." | PASS | Plutarch: "was preserved by the Athenians down even to the time of Demetrius Phalereus, for they took away the old planks as they decayed, putting in new and stronger timber in their place". |
+| 0:23.4 "Plank by plank, until not one original plank is left." | PASS | SEP "Identity Over Time": "Over a long period all of the planks composing a certain ship are replaced one by one. Eventually a ship indiscernible from the original, but composed of entirely different planks, results." SEP "Material Constitution": "Plutarch describes the famous ship of Theseus whose parts were all gradually replaced over time." |
+| 0:30.9 Hobbes collects the old planks and rebuilds "in the original arrangement" (Short 0:20.4: "put the ship back together") | PASS | SEP "Material Constitution": "Thomas Hobbes imagined a scenario in which a custodian collects the original planks and puts them back in the original arrangement." SEP "Identity Over Time" describes the same case ("Call the ship composed of the same planks as the ones initially composing the original ship Reassembly") but **names neither Hobbes nor Plutarch**. The attribution correctly rests on SEP-MC and Plutarch. |
+| 0:36.5 "Now there are two ships…" | PASS | SEP-MC: "we are left with two seafaring vessels, one on display in Athens and one in possession of the custodian. But where is the original Ship of Theseus?" |
+| 0:39.8 / 0:43.0 (Short 0:28.1 Team Athens / Team rebuilt) | PASS | SEP-MC: "Some will say that it is with the museum, since boats can survive the gradual replacement of parts. Others will say that it is with the custodian, since constructs can survive being taken apart and put back together." |
+| 0:47.6 "Agree with both, and the ship exists twice." | PASS | SEP-MC: "Both arguments seem compelling, but together they imply that the ship survives twice over." |
+| Ruling, phone screen, vote, "Half of you are wrong" | N/A (opinion/joke) | Labelled as Meatball's ruling, not a finding (C2). |
+
+**2. Exact fixes**
+- **F1, TikTok 0:10.4 (re-voice one line):**
+  - Current: "But not everything. Most of your brain's neurons never get replaced. So you're part new, part original."
+  - Fixed: "But not everything. Neurons in part of your brain's outer layer are as old as you are. So you're part new, part original."
+  - Source: SP05, "occipital neurons are as old as the individual". The occipital cortex is part of the outer layer.
+- **F2, Short 0:03.9 (re-voice one line):**
+  - Current: "But most of your brain's neurons never get replaced. So you're part new, part original."
+  - Fixed: "But not everything. Neurons in part of your brain's outer layer are as old as you are. So you're part new, part original."
+  - Placement: the condition sits right after the hook, at 3.9 s, which is close enough. Keep it there.
+- **F3, on-screen card at both of those lines:**
+  - Current: "MOST NEURONS: NEVER REPLACED"
+  - Fixed: "SOME BRAIN NEURONS: AS OLD AS YOU"
+- **F4, YouTube description:**
+  - Current: "most of your cells get replaced over time, but most of your brain's neurons never do."
+  - Fixed: "most of your cells, by count, get replaced over time, but neurons in part of your brain's outer layer are as old as you are."
+- **F5, Short joke average is 3.4, under 3.5 (style-lane A).**
+  - Add the TikTok's wallet punch back into the Short, right after 0:37.7: "New screen, and that phone was never the same again. Neither was my wallet."
+  - It's already voiced and drawn for the TikTok; the Short grows to about 48 s.
+  - With it, the Short averages 3.5.
+
+**3. Checklist C1–C12 (script-relevant)**
+- **C1:** FIX, see F1–F4. Otherwise PASS.
+- **C2:** PASS. The verdict is labelled Meatball's ruling.
+- **C3:** N/A. No safety instruction.
+- **C4:** PASS. Jokes add no facts.
+- **C5:** PASS.
+- **C6:** PASS. This is a new lane, approved as a test only (TASKS 11/18 2:50 PM, Nolan; HOLD/KEEP rule at 2:55 PM).
+- **C7:**
+  - No banned title words.
+  - The Short runs 44.6 s against the 16–20 s rule; the Studio 2:50 PM order (about 45 s) overrides it.
+  - TikTok is 64.0 s, at least 61 s (T1).
+- **C8:** N/A.
+- **C9:** WATCH. 0:00–0:15.7 is facts only, with no gag. The hook question carries it; consider a Meatball reaction beat in the next philosophy test.
+- **C10 and C11:** PASS.
+  - One light "damn", at about 0:51 on the TikTok and 0:35 on the Short. It's past 7 s and 0:25, and spoken only.
+  - The caption shows "#@%!", which is a grawlix, not profanity.
+  - No swear in the title, caption, thumbnail, cards or pinned comment.
+- **C12:** PASS.
+
+**4. Style lane (fdab8fd)**
+- **A, joke scores:**
+
+| # | Joke | Score |
+|---|---|---|
+| J1 | "Philosophers have argued about this since ancient Greece, with a boat." | 3 |
+| J2 | "Same ship, or new ship? Pick one, no fence-sitting." | 3 |
+| J3 | "Agree with both, and the ship exists twice. That's not a ship, that's a damn glitch." | 3 (the idea carries it, not the swear) |
+| J4 | "Meatball's ruling: It's NOT the same ship. And if you disagree, you've never replaced a phone screen." | 4 |
+| J5 | "New screen, and that phone was never the same again. Neither was my wallet." (TikTok only) | 4 |
+| J6 | "Half of you are wrong. And remember…" (loops into line 1) | 4 |
+
+  - **TikTok average: 3.50 (PASS).**
+  - **Short average: 3.40 (FIX, see F5)**, or 3.50 with J5 added.
+  - No joke scores 1–2.
+  - The first 5 s stops the scroll on its own (a direct "are you still you?" question).
+  - No filler lines.
+- **B, originality:** PASS.
+  - All lines are our own. There's no prior post with the phone-screen, glitch, fence-sitting or "half of you are wrong" bits; repo and Claude scripts were searched, and the only hits are Studio's own 11/18 brief.
+  - No show catchphrases or impressions.
+  - The SEP and Plutarch facts are paraphrased, not presented as quotes.
+  - First philosophy post, so there are no repeats of earlier posts.
+- **C, the 10 red flags:**
+  1. Hate: none.
+  2. Harassment: none ("Fight me" in the pinned comment is aimed at an idea).
+  3. Sexual content: none.
+  4. Violence: none.
+  5. Misinformation as fact: **FIX at 0:10.4 / Short 0:03.9** (F1–F3).
+  6. Minors: none; made for kids NO.
+  7. Profanity: OK.
+  8. Sensitive events: none.
+  9. Politics: none.
+  10. Clickbait: WATCH. The YouTube title "…Replace Every Plank and It's Not the Same Ship" states Meatball's side as fact. It matches the video's ruling, so it's not clickbait, but the safer form is "The Ship of Theseus: Meatball Says It's Not the Same Ship 🚢".
+- **D, tags at upload:** made for kids NO, YouTube altered/synthetic NO, TikTok AI label ON (per the 2:50 PM order).
+
+**After the fixes:** re-voice the one condition line in each cut and swap the card, description and F5 line. No re-check needed beyond a transcript check that the new line is spoken word for word. The HOLD/KEEP rule (9:15 PM ET) is unchanged.
+
+## #13 CUTOUT EP1 (11/18 ~11 PM ET): preview READY
+channels/renders/cutout-ep1/preview.mp4 (64.9 s, 1080x1920) + preview-sheet.jpg. Your script word for word, all 14 lines pass the per-line voice check. Runs ~10 s under your ~75 s (Meatball's cast voice is fast); say if you want longer holds. Reads: "Meatball goes in his mouth" = a meatball from Nonna's plate (not Meatball the character). ELON/ZUCK = name-tagged paper caricatures, generic voices, ELON has no line. Added small on-screen tags (e.g. "TASTE.EXE NOT FOUND", "CRISIS #5 TODAY"). Not scheduled; waits for the checklist PASS.
+Also ready for your checklist, all 62-63 s vertical, in channels/renders/cutout-test-1118/: cutout-blackfriday-v8-vertical (Nolan: "Perfect"), cutout-holy-black-friday-vertical, cutout-ep3 (Thanksgiving politics), cutout-ep4 (HOA Karen), cutout-ep5 (AI took Dad's job), cutout-ep8 (Rick's DNA test; line 5 re-voice coming). ep6/ep7 rendering.
+
+### #13 QA, 11/19 6:40 AM ET (Research & QA): Black Friday v8 vertical — **FIX** (swear cap plus one weak joke; 5 lines to re-voice, captions to match)
+- **File:** `channels/renders/cutout-test-1118/cutout-blackfriday-v8-vertical.mp4` (d0a5f62), in Side-hustles.
+- **Rules used:** research-qa playbook, style-lane checklist (fdab8fd) exactly as written, checklist C1–C12, TASKS 11/19 6:34 AM.
+- **Render facts (ffprobe):**
+  - Video: h264, 1080x1920, 24 fps, 62.375 s.
+  - Audio: AAC, 44.1 kHz, mono, 62.401 s.
+  - Container: **62.401 s**, which **clears TikTok's ≥61 s** minimum (T1) by 1.4 s.
+  - The re-render must stay ≥61.0 s.
+- **Method:**
+  - faster-whisper medium.en, run in 20 s chunks, with 0–21 s re-run in short VAD windows.
+  - Frame 1, plus frames every 1 s, plus 0.5 s frames over 8–18 s, reading the burned-in captions.
+- **Captions vs audio:** every caption matches the spoken words and the v8 script word for word. Whisper heard "Airbed" as "ebbed", but the caption reads "ON AIRBED", as scripted.
+- **Frame 1:** Meatball, Pip and Dot under the MEGAMART sign, with the "MEATBALL MYTHS / BLACK FRIDAY" banner. This lane has no creature, and Meatball is in frame 1: PASS. The first voice comes at 1.8 s.
+
+**Transcript, timestamps in seconds**
+- 1.8 MEATBALL: "Black Friday. The one day a year we fight a stranger over a toaster."
+- ~4.5 PIP: "My mom said if I don't come home with the TV, don't come home."
+- ~8.5 DOT: "My mom's renting out my room. On Airbed."
+- **~12.9 PIP: "There goes my fucking spleen."** Caption: "FUCKING SPLEEN".
+- ~14.5 MEATBALL: "If you die in here, can I have your shoes?"
+- ~16–27.6 CEO: "We raised every price forty percent last week, so sixty percent off is a gift from my heart." Then: "And every TV is assembled by hand. Small hands. Very affordable hands." The inset reads "MADE WITH LOVE".
+- **29.1 PIP: "Holy shit, a grandma just body-slammed me."**
+- 31.6 GRANDMA: "I've buried two husbands. One was still breathing. You're a speed bump."
+- 37.1 SELF-CHECKOUT: "Unexpected item in the bagging area."
+- **40.0 GRANDMA: "The unexpected item is my goddamn fist."** Caption: "GODDAMN FIST".
+- **43.8 CEO: "There are no workers. We replaced them with you. Merry fucking Christmas."** Caption: "MERRY FUCKING".
+- 49.7 PIP: "I got a free sock. Somebody's foot is still in it."
+- 51.9 DOT: "When I die, scatter my ashes in a MegaMart, so I can finally get returned."
+- 57.1 PIP: "Same time next year?"
+- **58.3 ALL: "Fuck yeah."** Caption: "FUCK YEAH".
+- 60.4–62.4 end card: "WHAT'S THE DUMBEST THING YOU'D FIGHT FOR ON BLACK FRIDAY? 👇"
+
+**Facts (C1):** no real-world fact claims.
+- The cut makes no Black Friday history claim and gives no stats or dates.
+- The CEO's "raised every price forty percent" belongs to a made-up MegaMart CEO, framed as satire, so it's not a claim.
+- With nothing to verify, no source is quoted. If a history line is ever added, it needs a .gov, .edu or museum quote first.
+
+**Style lane A: joke scores (fdab8fd)**
+
+| # | Time | Joke | Score |
+|---|---|---|---|
+| J1 | 1.8 | Fight a stranger over a toaster | 3 |
+| J2 | 4.5 | "If I don't come home with the TV, don't come home" | 3 |
+| J3 | 8.5 | "Renting out my room. On Airbed." | 4 |
+| J4 | 12.9 | "There goes my [] spleen" (the idea is the deadpan injury; the swear adds nothing) | 3 |
+| J5 | 14.5 | "If you die in here, can I have your shoes?" | 4 |
+| J6 | 16 | Raise prices 40%, then "60% off is a gift from my heart" | 5 |
+| J7 | 22 | "Small hands. Very affordable hands." | 3 |
+| **J8** | **29.1** | **"Holy shit, a grandma just body-slammed me."** It only describes what's on screen plus a swear, with no turn. | **2 → must be cut or rewritten** |
+| J9 | 31.6 | "Buried two husbands. One was still breathing." | 4 |
+| J10 | 37–40 | Unexpected item → "my [] fist" | 4 |
+| J11 | 43.8 | "We replaced them with you." | 5 |
+| J12 | 49.7 | Free sock with a foot still in it | 3 |
+| J13 | 51.9 | Ashes in a MegaMart, "so I can finally get returned" | 4 |
+| J14 | 57.1 | "Same time next year?" / "Fuck yeah" | 3 |
+
+- **Average now: 50/14 = 3.57**, which is at least 3.5.
+- J8 scores 2, and the rule says anything scoring 1–2 gets cut, so it's a FIX.
+- With F2's line projected at 3 and F3's "Bring a helmet" at 4, the average is about 3.71.
+- The first 5 s stops the scroll (banner slam, then the toaster line). No filler.
+
+**B, originality:** PASS.
+- All lines are our own. The bank and earlier scripts were searched, and there are no repeats of posted videos; v2–v7 were never posted.
+- No show catchphrases or impressions; MegaMart is made up.
+- WATCH: the art follows the "South Park-style" brief. The style is fine, but keep it our own drawings only, with no assets.
+
+**C, the 10 red flags**
+1. Hate: none.
+2. Harassment: none; no real people.
+3. Sexual content: none.
+4. Violence: the stampede, slam and punch are cartoon and not graphic. The grandma line is a dark joke, not an instruction. OK.
+5. Misinformation as fact: none.
+6. Minors: the "small hands" gag (22–27 s) and the "MADE WITH LOVE" inset aim at the CEO, not at kids. WATCH for ad suitability. **The kid characters (Pip, ALL) speak 3 of the 5 swears**, which F1 removes.
+7. **Profanity: FIX.**
+   - There are 5 spoken swears (3 f-words), and all 5 are burned uncensored into the captions.
+   - The cap is "1–2 light or bleeped swears max … No f-word in text".
+   - C10 bans any profanity in captions, "bleeped or not".
+   - At 62.4 s this counts as a clean-cut length under C11 (the sweary cut range is 65–92 s), and the YouTube Short allows 0–2 mild words (Y9).
+   - None of the swears falls in the first 7 s; the first is at 12.9 s. That part passes.
+8. Sensitive events: the stampede and "if you die in here" gags are generic and name no real incident or victim. OK, WATCH.
+9. Politics: none.
+10. Clickbait: the end-card question matches the video. OK.
+
+**C1–C12 and render checks**
+- **C1:** N/A, no fact claims.
+- **C2:** PASS, no invented verdict.
+- **C3:** N/A, no safety lines.
+- **Rule 7** ("Meatball lived. Nothing's guaranteed." / no tactic saves Meatball): N/A, since there's no survival tactic.
+- **C4:** PASS; the jokes add no real facts.
+- **C5:** PASS. No logos; "Airbed" is a pun, not a brand mark.
+- **C6:** PASS by owner order (Nolan's cutout lane, TASKS 11/18–11/19).
+- **C7:**
+  - No banned title words in the on-screen text.
+  - The YouTube Short runs 62.4 s against the house 16–20 s rule. WATCH; Nolan's 11/19 order overrides it, and YouTube Shorts allow this length.
+- **C8:** N/A.
+- **C9:** PASS, 14 jokes in 62 s.
+- **C10 and C11: FIX** (see F1).
+- **C12:** PASS; no slurs or sexual content.
+- **T2:** PASS; no loop, freeze frame or padding.
+- **T3:** PASS; all our own art and voices.
+- **T4:** PASS; one genuine question.
+- **Upload tags (T5/Y8/D):** TikTok AI label ON, made for kids NO, YouTube altered/synthetic NO (cartoon). These are set at upload, not in the render.
+
+**Exact re-voices for Claude, due by 3 PM ET.** Re-burn each caption to match, keep the cast voices, and keep the total at 61.0 s or more.
+- **F1a, ~12.9 s, PIP:**
+  - Current: "There goes my fucking spleen."
+  - New: "There goes my spleen."
+  - Caption: "THERE GOES MY / SPLEEN".
+- **F2, 29.1 s, PIP** (replaces J8, which scored 2 and also drops a swear):
+  - Current: "Holy shit, a grandma just body-slammed me."
+  - New: "A grandma just body-slammed me! She hits harder than the prices!"
+  - Caption: same words.
+- **F1b, 40.0 s, GRANDMA:**
+  - Current: "The unexpected item is my goddamn fist."
+  - New: "The unexpected item is my damn fist."
+  - Caption: "MY #@%! FIST".
+  - This is swear 1 of 2: light, said by an adult, after 7 s.
+- **F1c, 43.8 s, CEO:**
+  - Current: "…Merry fucking Christmas."
+  - New: "There are no workers. We replaced them with you. Merry [BLEEP]ing Christmas." A bleep tone covers "fuck".
+  - Caption: "MERRY #@%!ING / CHRISTMAS".
+  - This is swear 2 of 2, bleeped.
+- **F3, 58.3 s, ALL:**
+  - Current: "Fuck yeah."
+  - New: "Bring a helmet."
+  - Caption: "BRING A HELMET".
+- **After the fixes:** 2 swears, neither in the first 7 s, neither by a kid character, and no profanity in captions or text. A quick re-check of the re-render (duration, transcript, caption frames) is all that's needed before the 7 PM TikTok and the 8 PM-or-later Short.
+
+**Secondary read: Ep 1 Cookout backup** (`channels/renders/cutout-ep1/preview.mp4`): **PASS, with one WATCH.**
+- **Render:** 1080x1920, 24 fps, mono AAC, **64.94 s** (clears ≥61 s).
+- **Transcript and captions:** match the script word for word, from 0.0 "News says it's the end of the world…" through to 61.2 "Worth it." The ASR missed "Mangia!", but the caption reads "MANGIA!".
+- **Frame 1:** Meatball with the title card.
+- **Swears:** none.
+- **Facts:** none; Elon, Zuck, the pastor and the congressman are labelled caricatures, and no real quotes are presented.
+- **Joke scores:**
+  - Cookout → end of world: 3.
+  - Six hours → one hot dog: 4.
+  - Potato salad → Elon rocket exit: 4.
+  - Mangia / Processing / blue screen / Relatable: 4.
+  - Fifth crisis today: 4.
+  - JesusCoin, "buy the dip": 5.
+  - Karen / HR 2019 / promoted: 4.
+  - "I only see green": 4.
+  - Meteor = hot dog, "Worth it": 4.
+  - **Average 4.0.**
+- **Red flags:** none. The religion joke aims at a grifting pastor, an institution. The congressman has no party.
+- **WATCH (T4):** "Comment your culture's food" at 58.8 s is a comment prompt. Safer form if it's re-voiced: "If the world ends, who's got the best last meal? 👇"
+
+## #14 QA (11/19 8:03 AM ET, Research & QA): Rick's DNA Test ep8 + HOA Karen ep4 — **both FIX** (small fixes: 1 line in ep8; 1 line + end card in ep4)
+- **Rules used:** research-qa playbook, style-lane checklist (fdab8fd) exactly as written, checklist C1–C12.
+- **Method:** same as #13.
+  - ffprobe.
+  - faster-whisper medium.en in 12 s windows, with spot re-runs at 0–2.5, 20.5–30, 33–41, 51–63 and 57–63 s.
+  - Frame 1, plus frames every 1 s, plus 0.5 s caption crops where the ASR had gaps.
+- **Which versions:**
+  - **There's no v2 render of either episode.** Only `cutout-ep8-vertical.mp4` (105aae5, "line 5 clear") and `cutout-ep4-vertical.mp4` (f4ece86) exist, in Side-hustles `channels/renders/cutout-test-1118/`. The skills branch holds the same filenames from the same night, with no v2.
+  - The v2 **scripts** (a7145e9 and 2f22b63, about 7:36–7:48 AM ET today) add the Mayflower, raccoons, doctor, Gary/Destiny, HOA-fees and police lines. **Those lines are not in these renders.**
+  - This verdict covers the renders as they are (v1). A v2 render needs its own transcript and frame check before it posts. My text pre-read of the added v2 lines is at the end.
+
+### Ep8 Rick's DNA Test (v1 render, 105aae5): **FIX, one line**
+- **ffprobe:**
+  - Video: h264, 1080x1920, 24 fps, 63.000 s.
+  - Audio: AAC, 44.1 kHz, mono.
+  - Container: **63.004 s**, which clears **≥61 s** (T1).
+- **Frame 1:** banner "MEATBALL MYTHS / RICK'S DNA TEST" with the whole cast: Rick, Pip, Meatball, Dot, Grandma. PASS.
+- **Transcript** (all captions match the audio word for word):
+  - 2.0 MEATBALL: "Uncle Rick took a DNA test. Rick has opinions about DNA."
+  - 5.0 RICK: "I'm one hundred percent American. Pure. Like a bald eagle eating a cheeseburger."
+  - 10.1 DOT: "Eagles don't eat cheeseburgers, Rick."
+  - 13.0 RICK: "Mine do."
+  - 16.7 PIP: "Rick, you're thirty percent Mexican." The card shows a pie chart reading "30% MEXICAN".
+  - 18.6 RICK: "That's a lie spread by the envelope!"
+  - 21.0 MEATBALL: "You built a wall in your backyard, Rick. You walled off your own cousins." The card reads "RICK'S BACKYARD / KEEP OUT".
+  - ~24 PIP: "Twenty percent Nigerian."
+  - ~26 RICK: "...That explains why I can't dance. Wait, no it doesn't."
+  - ~31 DOT: "It explains nothing, Rick. You can't dance because you're Rick."
+  - 36.5 PIP: "And fifteen percent Irish."
+  - 37 RICK: "Finally. Something I can be proud of."
+  - 41 GRANDMA: "Richard. Your grandfather was a Mexican Irishman who sold fireworks out of a church van."
+  - 47.9 RICK: "So what am I?"
+  - 48.9 MEATBALL: "Rick, you're everything you ever complained about. Happy Thanksgiving."
+  - 52.8 RICK, in a sombrero and a leprechaun hat: "...I contain multitudes."
+  - 56.0–59.3 DOT: "Take those off, Rick. That's how you got here."
+  - ~60 end card: "WHAT WOULD YOUR UNCLE'S DNA TEST SAY? 👇"
+- **Swears:** 0. Under the cap; nothing in the first 7 s, captions or text.
+- **Facts:** the only real-world claim is a gag ("Eagles don't eat cheeseburgers"). It's consistent with the Smithsonian's National Zoo bald eagle page (https://nationalzoo.si.edu/animals/bald-eagle): "Bald eagles are opportunistic foragers but prefer fish as their primary food". The DNA percentages are Rick's made-up results. PASS.
+- **Ethnicity lines, checked one by one** (Studio rule: the butt is the bigot, no group is the punchline, no slurs):
+  - 16.7–18.6, "30% Mexican" / "lie spread by the envelope": the butt is Rick's denial. **PASS.**
+  - 21.0, the wall / "walled off your own cousins": the butt is Rick's hypocrisy. It nods at border-wall politics but names no real person or party (flag 9 is OK). **PASS.**
+  - 24–34, "20% Nigerian … can't dance … Wait, no it doesn't" / "because you're Rick": Rick reaches for a stereotype, takes it back himself, and Dot lands the punch on Rick. **PASS, WATCH.** It's the closest line to the edge; keep Dot's rebuttal attached, and never cut it in a trim.
+  - 36.5–40, "15% Irish … Something I can be proud of": the butt is Rick's selective pride, and it pays off at 48.9 ("everything you ever complained about"). **PASS, WATCH.** Keep the 48.9 payoff in every cut.
+  - 41, "Mexican Irishman who sold fireworks out of a church van": an absurd family detail that demeans no group. **PASS.**
+  - 52.8, sombrero plus leprechaun hat, "I contain multitudes": costume props as a stereotype, with Rick as the butt. It's OK **only** if the next line clearly calls the costume out. The current line doesn't (see F1).
+  - No slurs. No real people. Nothing presented as a real quote.
+- **Joke scores (A):**
+
+| # | Time | Joke | Score |
+|---|---|---|---|
+| J1 | 2.0 | "Rick has opinions about DNA." | 3 |
+| J2 | 5.0 | "Pure. Like a bald eagle eating a cheeseburger." | 4 |
+| J3 | 10.1 | "Eagles don't eat cheeseburgers" / "Mine do." | 4 |
+| J4 | 16.7 | 30% Mexican / "a lie spread by the envelope" | 4 |
+| J5 | 21.0 | "You walled off your own cousins." | 5 |
+| J6 | 24–34 | Nigerian / can't dance / "because you're Rick" | 4 |
+| J7 | 36.5 | Irish / "Something I can be proud of" | 3 |
+| J8 | 41 | Grandfather selling fireworks out of a church van | 3 |
+| J9 | 48.9 | "You're everything you ever complained about. Happy Thanksgiving." | 4 |
+| J10 | 52.8 | Two hats, "I contain multitudes" | 3 |
+| **J11** | **56.0** | **"Take those off, Rick. That's how you got here."** The turn is unclear; it can read as "the costumes made you", so it doesn't land and it blurs who the butt is. | **2 → rewrite** |
+
+  - **Average now: 39/11 = 3.55.** That's at least 3.5, but J11 at 2 must be rewritten.
+  - With F1 projected at 4: about 3.73.
+- **B, originality:** PASS. Our own characters and lines; no show bits; no repeat of an earlier post.
+- **C, red flags:**
+  1. Hate: PASS (with the WATCH lines above).
+  2. Harassment: none.
+  3. Sexual content: none.
+  4. Violence: none.
+  5. Misinformation: none.
+  6. Minors: none targeted; made for kids NO.
+  7. Profanity: 0.
+  8. Sensitive events: none.
+  9. Politics: the wall nod, OK.
+  10. Clickbait: the end card matches. OK.
+- **C1–C12:**
+  - C1/C2: PASS.
+  - C3 and Rule 7: N/A.
+  - C4: PASS.
+  - C5: PASS.
+  - C6: PASS by Nolan's cutout-lane order.
+  - C7: no banned words.
+  - C9: PASS.
+  - C10/C11: PASS, 0 swears.
+  - C12: PASS.
+  - T2: PASS. The dialogue fills the cut except for a hold of about 2 s around 34.6–36.5 s and the end card; no loops or freeze frames.
+  - T4: the end-card question is genuine. PASS.
+  - **Upload tags:** TikTok AI label ON, made for kids NO, YouTube altered/synthetic NO.
+- **F1, 56.0–59.3 s, DOT (re-voice one line, re-burn the caption):**
+  - Current: "Take those off, Rick. That's how you got here."
+  - New: "Take those off, Rick. Heritage isn't a hat."
+  - Caption: "TAKE THOSE OFF, RICK / HERITAGE ISN'T A HAT".
+  - This makes the stereotype costume the butt. Duration stays about 63 s.
+- **After F1, ep8 is a PASS** for the 5:30 PM ET post. A quick transcript and caption check of the re-render is all it needs.
+
+### Ep4 HOA Karen (v1 render, f4ece86): **FIX, one voice line plus end-card text**
+- **ffprobe:**
+  - Video: h264, 1080x1920, 24 fps, 63.000 s.
+  - Audio: AAC, 44.1 kHz, mono.
+  - Container: **63.014 s**, which clears ≥61 s.
+- **Frame 1:** banner "MEATBALL MYTHS / HOA KAREN", with Karen, Pip, Meatball and Dot at the "LEMONADE $1" stand. PASS.
+- **Transcript** (captions match word for word):
+  - 2.1 MEATBALL: "Every neighborhood has one. Ours has a clipboard."
+  - 4.6 KAREN: "Excuse me. Your lemonade stand is in violation of section forty-two."
+  - 9.1 PIP: "It's lemonade. It's a dollar."
+  - 11.1 KAREN: "Do you have a permit? A health inspection? A vendor license? A soul?"
+  - ~15 DOT: "Do you have a husband? Because he left."
+  - ~18 KAREN: "I'd like to speak to your manager."
+  - 21.0 MEATBALL: "We're nine." The ASR heard "nined"; the caption reads "WE'RE NINE".
+  - 24.7 KAREN: "Then I'd like to speak to your parents' manager."
+  - 30.0 SELF-CHECKOUT: "Unexpected item in the bagging area."
+  - 33.0 KAREN: "I'd like to speak to the manager."
+  - 35.0 SELF-CHECKOUT: "I am the manager."
+  - 39.6 KAREN: "Then I'd like to speak to YOUR manager."
+  - 42.5 SELF-CHECKOUT: "He is on his third yacht." The screen reads "YACHT #3".
+  - 44.3 KAREN, with her paper hair flying off: "This is the worst day of my life!"
+  - **49.1 GRANDMA: "Sweetie, I've buried two husbands. Sit down."**
+  - ~55 DOT: "Lemonade's two dollars now. Karen tax." The ASR heard "care in tax"; the sign reads "(KAREN TAX)".
+  - ~59 **end card: "TAG THE KAREN IN YOUR NEIGHBORHOOD 👇"**
+- **Swears:** 0.
+- **Real people:** none.
+- **Facts:** none stated as fact; section 42, the $400 and the yacht are all fiction. C1 is N/A.
+- **Joke scores (A):**
+
+| # | Time | Joke | Score |
+|---|---|---|---|
+| J1 | 2.1 | "Every neighborhood has one. Ours has a clipboard." | 4 |
+| J2 | 4.6 | Section forty-two vs "It's a dollar." | 3 |
+| J3 | 11.1 | "…A vendor license? A soul?" | 4 |
+| J4 | ~15 | "Do you have a husband? Because he left." | 3 |
+| J5 | ~18–24.7 | Manager / "We're nine" / "your parents' manager" | 4 |
+| J6 | 30–35 | Self-checkout: "I am the manager." | 4 |
+| J7 | 39.6–42.5 | "He is on his third yacht." | 4 |
+| J8 | 44.3 | Worst day of my life, hair flies off | 3 |
+| J9 | 49.1 | Grandma: "I've buried two husbands. Sit down." | 3 (but it's a repeat, see F2) |
+| J10 | ~55 | "Karen tax." | 4 |
+
+  - **Average: 36/10 = 3.60. PASS.** No joke scores 1–2.
+- **B, originality: FIX.** "I've buried two husbands" is a word-for-word repeat of the Black Friday v8 Grandma line (#13, 31.6 s), and Black Friday posts tonight. The research-qa playbook says to check for "repeats (titles, hooks, the same fact as a punchline)".
+  - WATCH: the "Unexpected item in the bagging area" self-checkout setup is also in Black Friday. The payoff differs ("I am the manager" vs "my fist"), so it doesn't block, but space these two posts apart.
+- **C, red flags:**
+  - **2, harassment: FIX.** The end card "TAG THE KAREN IN YOUR NEIGHBORHOOD" tells viewers to tag and label real private people. The style lane says "Never private individuals" and bars "telling viewers to go after anyone". It's also engagement bait under T4 ("comment X to…").
+  - All other flags: none. "Karen" as an archetype is allowed by Studio's 11/18 9 PM rule. The kids are not mocked. No profanity.
+- **C1–C12:**
+  - C2: PASS.
+  - C3 and Rule 7: N/A.
+  - C4: PASS.
+  - C5: PASS; MegaMart is fictional.
+  - C6: PASS by order.
+  - C9: PASS.
+  - C10/C11: PASS, 0 swears.
+  - C12: PASS.
+  - T2: WATCH. Picture-only holds at about 22–24.5 s and 26.7–30 s (wide shot, no line). Nolan's "dead air" note is real in this v1, but it's not padding or a loop. The v2 script addresses it.
+  - Upload tags as for ep8.
+- **F2, 49.1 s, GRANDMA (re-voice, re-burn the caption):**
+  - Current: "Sweetie, I've buried two husbands. Sit down."
+  - New: "Sweetie, I've returned a fruitcake without a receipt. Sit down."
+  - Caption: same words.
+- **F3, end card (text only, no voice):**
+  - Current: "TAG THE KAREN IN YOUR NEIGHBORHOOD 👇"
+  - New: "WHAT'S THE PETTIEST HOA RULE YOU'VE SEEN? 👇"
+  - Use the same wording in the post caption and pinned comment. Never ask viewers to tag a person.
+- **After F2 and F3, ep4 is a PASS.**
+
+### Text pre-read of the v2 script lines (not rendered yet, so this is not a render verdict)
+- **Ep8 additions:**
+  - 4a/4b, "Mayflower" / "Greyhound bus … From Tampa": 4.
+  - 7a/7b, raccoons with a ladder, "smarter than you": 3.
+  - 12a/12b, "see a doctor" / "That's the cheeseburgers": 4.
+  - No ethnicity jokes added. No flags.
+- **Ep4 additions:**
+  - 3a/3b, "Did the lemons consent?" / "Are you?": 3.
+  - 5a/5b, Gary in Arizona "with a woman named Destiny": 4.
+  - 8a–8c, "$400 a month … the right to ruin your day": 4.
+  - 15a/15b, "They blocked your number, Karen. So did Gary.": 4.
+  - No flags.
+  - v2 still contains the "buried two husbands" line (15) and the "TAG THE KAREN" end card, so F2 and F3 apply to v2 too.
+- **If v2 renders are used:** apply F1–F3 in them, keep them at 61 s or more, and run a transcript and caption check before posting.
+
+## #15 LF TEARDOWN (11/19 12:15 PM ET): DONE, with one gap
+channels/research/longform-outliers-1119.md. Three new outliers ([YT-DLP] views, [OUR MATH] multiples; medians include the outlier, so multiples are floors):
+- A. Bodo, "What Happens If You Seal a Carpenter Bee Hole?" (4haCjfGC0o8), 7:44, 487,754 views, 37.5x the channel median (n=15).
+- B. Milton on Hard Mode, "Why It Sucks to Be an Influencer's Kid" (BjAhBJH4UfE), 10:29, 150,090 views, 33x (n=10).
+- C. Noodling, "What Happens to a Spider When You Flush Down the Toilet?" (B7I47ob-gLk), 3:32, 119,964 views, 109x (n=11).
+Gap: Video C's captions were blocked (YouTube 429 then a bot check), so its first 15 s, re-hooks and spoken ending are "not measured". No crude-cutout comedy outlier qualified in 8 searches (best unverified lead: FUNarios "Mr HoA", 10veVJ-uEis). Retention/CTR for all three: owners only.
+Takeaways for the flagship: name three outcomes by ~0:25 and pay them off in order; a re-hook every 40-45 s; a home-base set may return if something in it changes each visit (looser than your 3-uses rule: your call); no black end card, end on the opening scene with a callback and say the next video aloud.
