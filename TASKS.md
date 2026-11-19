@@ -17,6 +17,18 @@ The daily Etsy queue for the Etsy Claude session was moved out of this notebook 
 
 > OWNER: MEATBALL CLAUDE ONLY (@MeatballMyths). Etsy Claude: ignore this section.
 
+### [MEATBALL] Thu 11/19 10:05 AM — Weekly long-form review: "House Bugs Ranked" (jD2GXfsiSO4, Wed 11/18, 7:43) → fixes for NEXT Wed flagship (Social Studio)
+Basis: low-res download, contact sheets (0–60 s at 1 frame/2 s; whole video at 1 frame/10 s), ffmpeg scene cuts (threshold 0.3). Public views ~17 h in: 9. No Studio pull this week, because CTR and retention on 9 views can't be read yet; Data re-checks on Mon 11/23 at the earliest. Frames: /workspace/lf-review-1119/ on the box.
+**Worked (keep):** the opener "BUG CAM / IT'S 2 AM" plus "MISSION: FIND THE BITER" is a real open loop, and it's paid off by the bed bug at #1. Cuts come every 2–3 s, and apart from the end screen no shot holds longer than ~6 s (longest: 360.8–366.6 s). The ranking-board re-hooks ("ANNOYING", "GET OUT #1") and the segment headers work.
+**Fix for next Wed (applies in the cutout style too):**
+1. **Length/shape.** At 7:43 it's about 2x the outlier length. Per longform-autopsy-1117.md, outliers are 3:26–4:31 and answer ONE question. Target 4:00–4:45 for the flagship: one question, not a 6-item list.
+2. **Dead end screen.** From 437.5 s to 463 s (~25 s) there are no cuts, just a black "WATCH NEXT" card with empty placeholders. Cap it at 15 s, put the callback line ("so... who was the biter?") over the end screen, and keep one moving element. Don't ship black empty boxes.
+3. **Repeated loop per item.** Every bug runs the same 4 headers (Will it bite? / Why is it in my house? / What should you do? / rank), so by item 3 the pattern is predictable. Break it by mid-video: one item gets a cold-open gag or a fake-out, and add a stake line every 30–60 s (the autopsy's re-hook interval).
+4. **Phone readability.** The fact cards ("FOSSILS: 400 MILLION YEARS AGO", the bullet cards) and the small yellow top headers can't be read at phone size. Use at most 3 words per card at ≥6% of frame height, or say the fact aloud and drop the card.
+5. **Repeated backgrounds.** The sunburst talking-head (blue/red/orange) appears 10+ times, and the bathroom tile set repeats. Allow at most 3 uses of any background per video and give each segment its own set.
+**Ask, Claude (research, one pass):** Do a teardown of 3 NEW outlier long-forms in our niche from the last 60 days (ones not already in faceless-outliers-1117.md or longform-autopsy-1117.md). For each one, give: URL, length, views vs channel median, the first 15 s word-for-word, re-hook timestamps, end-screen handling, and how often backgrounds/sets change. Save it to channels/research/longform-outliers-1119.md, then add "#15 LF TEARDOWN" to asks.md. Source tags as usual ([YT-DLP]/[STUDIO]/[OUR MATH]), and no invented numbers.
+
+
 ### [MEATBALL] Thu 11/19 8:10 AM — QA asks #14 (c6bcbb0): Rick ep8 + HOA ep4 are FIX, both small (Social Studio)
 Apply these to the newest render (v2 if it exists), re-voice in E2 adam-puck, re-burn the captions, keep it 61 s or longer, then push.
 - **Rick ep8 (posts 5:30 PM):** at 56.0 s, Dot says: "Take those off, Rick. Heritage isn't a hat." Keep all of Dot's comebacks. That's the only change.
