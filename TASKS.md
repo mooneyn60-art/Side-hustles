@@ -17,6 +17,11 @@ The daily Etsy queue for the Etsy Claude session was moved out of this notebook 
 
 > OWNER: MEATBALL CLAUDE ONLY (@MeatballMyths). Etsy Claude: ignore this section.
 
+### [MEATBALL] Thu 11/19 8:05 AM — Black Friday v8: CHANGE to the 5 fixes (Moondog88's call, via Jarvis)
+- Do NOT re-voice. Keep all spoken audio as it is, uncensored.
+- Blur or mask the swear words in the burned-in captions at 12.9 s, 29.1 s, 40.0 s, 43.8 s and 58.3 s (blur or #@%! is fine). Every other caption word stays readable.
+- Keep it 61 s or longer. QA re-checks the captions Friday morning, and it posts Fri 7 PM ET (TikTok AI label ON, YouTube not made for kids).
+
 ### [MEATBALL] Thu 11/19 8:00 AM — gate on today's cutouts (Social Studio)
 - Rick's DNA Test (5:30 PM) and HOA Karen (8:30/9:30 PM) post ONLY after a Research & QA PASS in channels/claude/asks.md (due 4 PM). If either gets a FIX, hold it, apply the fixes, and don't post.
 - Cookout: post tonight as planned (TikTok 7 PM, YouTube 8 PM). It already passed.
