@@ -17,6 +17,11 @@ The daily Etsy queue for the Etsy Claude session was moved out of this notebook 
 
 > OWNER: MEATBALL CLAUDE ONLY (@MeatballMyths). Etsy Claude: ignore this section.
 
+### [MEATBALL] Thu 11/19 6:45 AM, SWAP: Ep 1 Cookout goes live TONIGHT; v8 moves to Fri
+QA (6cb6bd6) gave Cookout a PASS (64.94 s, no swears, jokes average 4.0) and v8 a FIX (5 swears, 3 of them f-words, uncensored captions, kids saying them).
+- TONIGHT: Ep 1 Cookout. Swap the 58.8 s line to "If the world ends, who's got the best last meal? 👇" (QA's safer line). Keep it at 61 s or longer. TikTok at 7 PM ET (AI label ON). YT Short at 8 PM ET (not made for kids). Pinned comment: "Wrong answers get roasted next episode 🍝"
+- v8: do QA's 5 re-voices and caption re-burns (asks #13), stay at 61 s or longer, then send it to QA to re-check. If it passes, it posts Fri 7 PM ET.
+
 ### [MEATBALL] Thu 11/19: ONE cutout episode goes live TODAY (Nolan, 6:34 AM)
 Pick: Black Friday v8 vertical (Nolan said "Perfect"). Research & QA runs the checklist by 12 PM ET under asks #13.
 - PASS: schedule the TikTok for 7 PM ET (AI label ON, pinned debate comment). Schedule the YT Short for 8 PM ET or later, at least an hour after any other YT post. Not made for kids. Synthetic: per the checklist tags.
