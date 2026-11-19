@@ -1,5 +1,5 @@
 # Cutout episode 2: HOLY BLACK FRIDAY (Nolan 11/19: South Park-style takes on hot topics, don't hold back)
-Targets: a fictional scam TV megachurch preacher (greed, fraud, hypocrisy) and a fictional bigoted uncle at Thanksgiving. The joke always lands on the bigot or the hypocrite, never on any race, religion or its believers. Swears spoken. No real people, churches or brands. Cast: Meatball, Pip, Dot, Grandma + new PASTOR CHAD (white teeth, gold suit, headset mic) and UNCLE RICK (sunburn, trucker hat with a flag, folding chair).
+Walk-the-line rule (Studio 0fa74cd/6dc1a1c): Rick's stereotype gets wrecked by facts and he looks stupid; archetypes (influencer, finance bro, boomer) are fair game. Targets: a fictional scam TV megachurch preacher (greed, fraud, hypocrisy) and a fictional bigoted uncle at Thanksgiving. The joke always lands on the bigot or the hypocrite, never on any race, religion or its believers. Swears spoken. No real people, churches or brands. Cast: Meatball, Pip, Dot, Grandma + new KAYLEE (wellness influencer, ring light) and BRAD (finance bro, vest) + PASTOR CHAD (white teeth, gold suit, headset mic) and UNCLE RICK (sunburn, trucker hat with a flag, folding chair).
 
 [Banner slam: MEATBALL MYTHS / HOLY BLACK FRIDAY] (jingle)
 SCENE 1: Thanksgiving table at Pip's house. Uncle Rick at the head, carving a burnt turkey.
@@ -12,6 +12,14 @@ SCENE 1: Thanksgiving table at Pip's house. Uncle Rick at the head, carving a bu
 6. PIP: The tag on your hat says made overseas.
 7. UNCLE RICK: (long pause) ...That's a lie spread by the media.
 8. MEATBALL: Rick, you hate foreigners, but your whole personality was shipped in a container.
+8a. UNCLE RICK: Everybody knows immigrants are stealing all the jobs.
+8b. DOT: Rick, you got fired for sleeping in a forklift.
+8c. UNCLE RICK: A forklift an immigrant probably drove better than me!
+8d. PIP: ...That's not the point you think it is, Rick.
+8e. (Cousin KAYLEE, wellness influencer, filming herself) KAYLEE: Hey besties! Today I'm detoxing from turkey with my seventy-dollar celery juice. Link in bio.
+8f. MEATBALL: Kaylee, your detox tea is just a laxative with a ring light.
+8g. (Cousin BRAD, finance bro, vest, AirPods) BRAD: Bro, Thanksgiving is a bear market for carbs. I'm all in on protein.
+8h. GRANDMA: Bradley, you lost your house on a coin named after a dog.
    (TV in the corner flips on by itself: PASTOR CHAD, glowing)
 SCENE 2: TV studio, gold stage, a donation phone number spinning.
 9. PASTOR CHAD: Friends! The Lord spoke to me this morning. He said, Chad, you need a fourth jet.
