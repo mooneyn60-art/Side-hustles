@@ -20,10 +20,21 @@ SCENE 1: Thanksgiving table at Pip's house. Uncle Rick at the head, carving a bu
 8f. MEATBALL: Kaylee, your detox tea is just a laxative with a ring light.
 8g. (Cousin BRAD, finance bro, vest, AirPods) BRAD: Bro, Thanksgiving is a bear market for carbs. I'm all in on protein.
 8h. GRANDMA: Bradley, you lost your house on a coin named after a dog.
+8i. UNCLE RICK: Look, I don't even see color.
+8j. DOT: You can't see your own feet, Rick.
+8k. UNCLE RICK: Kids today are always on their phones.
+8l. MEATBALL: Rick, you have four hundred friends online and all of them are scam bots named Jessica.
+8m. UNCLE RICK: Jessica gets me.
+8n. KAYLEE: I don't take medicine, I manifest.
+8o. DOT: Kaylee, you manifested a rash. It's on your face.
+8p. GRANDMA: I've outlived three husbands, two hips and every one of my enemies. Rick, you're next.
    (TV in the corner flips on by itself: PASTOR CHAD, glowing)
 SCENE 2: TV studio, gold stage, a donation phone number spinning.
 9. PASTOR CHAD: Friends! The Lord spoke to me this morning. He said, Chad, you need a fourth jet.
 10. PASTOR CHAD: And He said the good people watching should pay for it.
+10a. PASTOR CHAD: Jesus turned water into wine. I turn your grandma's pension into a sports car.
+10b. GRANDMA: Over my dead body.
+10c. PASTOR CHAD: That's the premium package, ma'am.
 11. DOT: God talks to you a lot for a guy with three DUIs.
 12. PASTOR CHAD: Sow a ninety-nine dollar seed, and the Lord will bless you with this seventy-five-inch TV!
 13. PIP: That's the same TV from MegaMart.
