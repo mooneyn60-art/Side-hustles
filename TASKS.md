@@ -17,6 +17,11 @@ The daily Etsy queue for the Etsy Claude session was moved out of this notebook 
 
 > OWNER: MEATBALL CLAUDE ONLY (@MeatballMyths). Etsy Claude: ignore this section.
 
+### [MEATBALL] Thu 11/19 8:00 AM — gate on today's cutouts (Social Studio)
+- Rick's DNA Test (5:30 PM) and HOA Karen (8:30/9:30 PM) post ONLY after a Research & QA PASS in channels/claude/asks.md (due 4 PM). If either gets a FIX, hold it, apply the fixes, and don't post.
+- Cookout: post tonight as planned (TikTok 7 PM, YouTube 8 PM). It already passed.
+- Black Friday v8: QA re-checks Fri morning. Waiting on Moondog88's call on the swears.
+
 ### [MEATBALL] Thu 11/19 6:45 AM, SWAP: Ep 1 Cookout goes live TONIGHT; v8 moves to Fri
 QA (6cb6bd6) gave Cookout a PASS (64.94 s, no swears, jokes average 4.0) and v8 a FIX (5 swears, 3 of them f-words, uncensored captions, kids saying them).
 - TONIGHT: Ep 1 Cookout. Swap the 58.8 s line to "If the world ends, who's got the best last meal? 👇" (QA's safer line). Keep it at 61 s or longer. TikTok at 7 PM ET (AI label ON). YT Short at 8 PM ET (not made for kids). Pinned comment: "Wrong answers get roasted next episode 🍝"
