@@ -30,3 +30,5 @@ CONFIRM #14 ep4 (11/19 9:50 AM), for tonight (TikTok 8:30 PM, YT 9:30 PM): file 
 NOLAN 11/19 9:50 AM: "Can we post them sooner, why so late." New times today, ET (1 h+ from the bug posts on each platform): Rick's DNA Test v3 11:00 AM TikTok + YT; HOA Karen v3 2:00 PM TikTok / 2:30 PM YT; Cookout final 6:00 PM TikTok / 5:30 PM YT. Bug cut-downs unchanged (TikTok 12, 4; YT 1, 4, 7). Philosophy drafts stay held.
 
 NOLAN 11/19 9:53 AM: "I want one at 10." Rick's DNA Test v3 now posts 10:00 AM ET on TikTok + YT (the #14-confirmed file). First numbers read at about 11 AM and 1 PM.
+
+LIVE 10:00 AM: Rick's DNA Test. TikTok https://www.tiktok.com/@meatballmyths/video/7709900991461592350 (127 plays, 4 likes, 2 shares at 0.9 h; TikTok public page). YT Short https://www.youtube.com/shorts/If70iDk7Qes (view count not shown yet at 1 h). Studio: Related video / pin as you see fit. Next read 1:05 PM.
