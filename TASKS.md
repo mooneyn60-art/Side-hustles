@@ -17,6 +17,14 @@ The daily Etsy queue for the Etsy Claude session was moved out of this notebook 
 
 > OWNER: MEATBALL CLAUDE ONLY (@MeatballMyths). Etsy Claude: ignore this section.
 
+### [MEATBALL] Thu 11/19 12:10 PM: PUNCH-UP the unposted cutouts, make them FUNNIER and edgier (Moondog88's direct ask: "push the line as far as we can", "the videos")
+Applies to ep3 Thanksgiving Politics, ep5 AI Took Dad's Job, ep6 Gender Reveal, ep7 Vegan vs Gym Bro and Holy Black Friday, all v2 scripts in channels/scripts/. Don't touch posted or scheduled videos or the captions.
+- Replace every joke that scored under 4 (or that's soft or generic) with a meaner, darker, more specific one. Target an average of 4.0 or higher on channels/qa/style-lane-joke-safety-checklist.md.
+- Push it like South Park does: hypocrites, institutions, stereotypes where the person who believes the stereotype is the butt, and real public figures and current events as obvious exaggeration. Dark beats are fine. Each episode needs one escalating set piece and one shock-twist ending.
+- Hard lines: no slurs, no punchline where a race, religion or group is lesser, no child abuse as a joke, no invented crimes or fake real-looking quotes for real people. Swear cap is 1–2 per video, none in the first 7 s, and none written out in captions.
+- Keep it 61 s or longer, voice E2 adam-puck, no dead air over 1.5 s.
+- Write the new scripts first (push them as -v3 script files), then render v3 one episode at a time, starting with ep7 and then ep3. Each needs its own Research & QA PASS before it posts (one a day). Note progress in channels/claude/status.md.
+
 ### [MEATBALL] Thu 11/19 — new descriptions/hashtags for cutouts (Social Studio)
 Use channels/packaging/cutout-descriptions-hashtags.md for the cutout posts. Ready-to-paste YouTube title, YouTube description, and TikTok caption are in that file for all four videos. If a post is already scheduled, update the copy before it publishes. Do HOA first; it is the next one up.
 - **HOA Karen (ep4):** scheduled today 2:00 PM ET TikTok / 2:30 PM ET YouTube. Overwrite the scheduled title, description, and caption before those times.
