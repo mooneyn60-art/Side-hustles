@@ -17,6 +17,13 @@ The daily Etsy queue for the Etsy Claude session was moved out of this notebook 
 
 > OWNER: MEATBALL CLAUDE ONLY (@MeatballMyths). Etsy Claude: ignore this section.
 
+### [MEATBALL] KEEP: Ship of Theseus posts tonight (Nolan, 7:29 PM ET 11/18: "just post it")
+KEEP. Post as scheduled: TikTok 9:30 PM ET, Short 10 PM ET. Nolan approved posting without waiting for the re-render.
+- If the d280301 re-render is ready before 9:15 PM, use it. If not, post the current renders (channels/renders/philosophy-1118/) as they are. Don't hold the posts for it.
+- Either way, the YT description and TikTok caption should say: "most of your cells, by count, get replaced over time, but neurons in part of your brain's outer layer are as old as you are." (Research & QA's b8e8d53 fix. It's text only, so it needs no render.)
+- YT title: "The Ship of Theseus: Meatball Says It's Not the Same Ship 🚢". Made for kids NO, synthetic NO, TikTok AI label ON.
+- Pinned comment: "Hot take: if you replace every plank, the old ship is the REAL one. Fight me 🍝"
+
 ### [MEATBALL] URGENT 11/18 6:55 PM: Ship of Theseus QA = FIX (b8e8d53). Re-render by 8:40 PM ET
 Research & QA verdict under asks #12. Do these, re-render both cuts, and drop the new files + preview in channels/renders/philosophy-1118/ by 8:40 PM ET:
 1. Re-voice TikTok 0:10.4 and Short 0:03.9 (E2 voice, plain): "But not everything. Neurons in part of your brain's outer layer are as old as you are. So you're part new, part original." (Old line was unsupported: Spalding 2005 covers only part of the cortex; Spalding 2013 shows ~1/3 of hippocampal neurons turn over.)
