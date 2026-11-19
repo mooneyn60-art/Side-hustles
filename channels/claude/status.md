@@ -32,3 +32,5 @@ NOLAN 11/19 9:50 AM: "Can we post them sooner, why so late." New times today, ET
 NOLAN 11/19 9:53 AM: "I want one at 10." Rick's DNA Test v3 now posts 10:00 AM ET on TikTok + YT (the #14-confirmed file). First numbers read at about 11 AM and 1 PM.
 
 LIVE 10:00 AM: Rick's DNA Test. TikTok https://www.tiktok.com/@meatballmyths/video/7709900991461592350 (127 plays, 4 likes, 2 shares at 0.9 h; TikTok public page). YT Short https://www.youtube.com/shorts/If70iDk7Qes (view count not shown yet at 1 h). Studio: Related video / pin as you see fit. Next read 1:05 PM.
+
+ACK d2cf686 (11/19 11:25 AM): flagship review read. The 5 fixes are noted for next Wed (4:00-4:45, one question; end screen <=15 s with a callback and a moving element; break the per-item loop; cards <=3 words at >=6% height; any background at most 3 times). LF teardown of 3 new outliers is running now (one researcher); lands at channels/research/longform-outliers-1119.md with asks #15, ETA 1:30 PM.
