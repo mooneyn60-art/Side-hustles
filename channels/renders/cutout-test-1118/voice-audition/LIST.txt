@@ -1,0 +1,18 @@
+MEATBALL A: kokoro:adam-puck@speed=1.36  (current: am_adam 0.6 + am_puck 0.4, American)
+MEATBALL B: kokoro:aud-mb-b@speed=1.3,pause=0.18  (am_puck, younger American kid)
+MEATBALL C: kokoro:aud-mb-c@speed=1.25,pause=0.18  (bm_fable 0.6 + am_puck 0.4, British smartass)
+PIP A: kokoro:pip@speed=1.34,pause=0.16  (current: am_puck 0.6 + af_sky 0.4, American)
+PIP B: kokoro:aud-pip-b@speed=1.42,pause=0.14  (am_puck 0.4 + af_bella 0.6, higher, faster)
+PIP C: kokoro:aud-pip-c@speed=1.4,pause=0.14  (bf_lily 0.5 + am_puck 0.5, British-ish nervous)
+DOT A: kokoro:dot@speed=1.2,pause=0.16  (current: af_sky 0.5 + af_river 0.5, American)
+DOT B: kokoro:aud-dot-b@speed=1.1,pause=0.3  (af_nicole 0.7 + af_river 0.3, breathy bored)
+DOT C: kokoro:aud-dot-c@speed=1.1,pause=0.3  (bf_emma 0.7 + af_river 0.3, dry British)
+GRANDMA A: kokoro:grandma@speed=1.18,pause=0.16  (current: bf_isabella 0.6 + af_heart 0.4)
+GRANDMA B: kokoro:aud-gran-b@speed=1.05,pause=0.3  (bf_alice, British, older)
+GRANDMA C: kokoro:aud-gran-c@speed=1.0,pause=0.4  (bf_emma 0.5 + bf_isabella 0.5, British, sweet then scary (pauses)) say: Back off... you little shit. I've been training since July. And I have nothing. Left. To lose.
+CEO A: kokoro:ceo@speed=1.3,pause=0.16  (current: am_michael 0.5 + bm_lewis 0.5)
+CEO B: kokoro:aud-ceo-b@speed=1.15,pause=0.25  (bm_george 0.7 + bm_lewis 0.3, posh British)
+CEO C: kokoro:aud-ceo-c@speed=1.2,pause=0.25  (am_onyx 0.5 + am_eric 0.5, deep American announcer)
+SELF-CHECKOUT A: kokoro:kiosk@speed=1.0,pause=0.15  (current: am_echo 0.6 + bm_george 0.4)
+SELF-CHECKOUT B: kokoro:aud-bot-b@speed=0.9,pause=0.3  (bm_daniel, flat British machine)
+SELF-CHECKOUT C: kokoro:aud-bot-c@speed=0.92,pause=0.35  (am_echo 0.5 + af_alloy 0.5, monotone, word by word) say: Please. Wait. For. An. Associate.
