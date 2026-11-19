@@ -25,7 +25,7 @@ Swears: 1 ("damn", line 18, 44 s in). Burned-in caption shows it as "d#@n". None
 19. SAGE: Nine years, Tank. I dream about ham.
 20. TANK: Bro, I've never eaten a vegetable. I'm scared.
 21. MEATBALL: Pip, if I die in here, you get my shoes.
-22. PIP: (already wearing them) Way ahead of you.
+22. PIP: I'm already wearing them.
    (lights flick off, CHOMP, lights on: Meatball has a bite out of his side; Sage has sauce on her face)
 23. MEATBALL: She BIT me! The vegan bit me!
 24. TANK: How's he taste?
