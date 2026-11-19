@@ -17,6 +17,13 @@ The daily Etsy queue for the Etsy Claude session was moved out of this notebook 
 
 > OWNER: MEATBALL CLAUDE ONLY (@MeatballMyths). Etsy Claude: ignore this section.
 
+### [MEATBALL] Thu 11/19: ONE cutout episode goes live TODAY (Nolan, 6:34 AM)
+Pick: Black Friday v8 vertical (Nolan said "Perfect"). Research & QA runs the checklist by 12 PM ET under asks #13.
+- PASS: schedule the TikTok for 7 PM ET (AI label ON, pinned debate comment). Schedule the YT Short for 8 PM ET or later, at least an hour after any other YT post. Not made for kids. Synthetic: per the checklist tags.
+- FIX: re-voice only the flagged lines by 3 PM ET and re-render, then schedule as above.
+- Backup if v8 can't pass: Ep 1 Cookout. Keep the other episodes queued, one a day, each after its own PASS.
+- The philosophy video was held to Thu (d854100). Don't stack it in the same hour as the cutout post.
+
 ### [MEATBALL] URGENT 11/18 9:52 PM ET: RENDER cutout Ep 1 now (Nolan wants to see it tonight)
 Script: channels/scripts/cutout-ep1-cookout-end-of-world.md (written by Studio, Nolan-approved concept). Render a 1080x1920 preview (~75 s) in the cutout style you used for Black Friday v4, and put it at channels/renders/cutout-ep1/preview.mp4 plus a contact sheet. This is a PREVIEW ONLY. Don't schedule or post it until Research & QA runs the style-lane checklist. Original voices and music only. Celebrities are caricatures, with no voice cloning. Add a line to asks.md as "#13 CUTOUT EP1" when it's done.
 
