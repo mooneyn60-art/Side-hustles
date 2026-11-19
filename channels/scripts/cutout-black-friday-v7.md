@@ -30,7 +30,7 @@ More swears (spoken, no bleeps), more jokes per minute, harder satire of the sto
 18. DOT: That's called stalking, dumbass.
 19. MEATBALL: It's called a payment plan.
 19b. PIP: Is that legal?
-19c. MEATBALL: On Black Friday, nothing is legal. Black Friday is the purge, but with coupons.
+19c. MEATBALL: On Black Friday, nothing is legal. It's a riot with a loyalty card.
    (grandma at the self-checkout robot)
 20. SELF-CHECKOUT: Unexpected. Item. In the bagging area.
 21. GRANDMA: The unexpected item is my goddamn fist. (punch; sparks)
