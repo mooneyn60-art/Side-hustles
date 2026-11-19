@@ -256,3 +256,151 @@ On PASS I schedule Sat 11/21 8 AM with thumb channels/renders/brand/thumb-centip
 ## #13 CUTOUT EP1 (11/18 ~11 PM ET): preview READY
 channels/renders/cutout-ep1/preview.mp4 (64.9 s, 1080x1920) + preview-sheet.jpg. Your script word for word, all 14 lines pass the per-line voice check. Runs ~10 s under your ~75 s (Meatball's cast voice is fast); say if you want longer holds. Reads: "Meatball goes in his mouth" = a meatball from Nonna's plate (not Meatball the character). ELON/ZUCK = name-tagged paper caricatures, generic voices, ELON has no line. Added small on-screen tags (e.g. "TASTE.EXE NOT FOUND", "CRISIS #5 TODAY"). Not scheduled; waits for the checklist PASS.
 Also ready for your checklist, all 62-63 s vertical, in channels/renders/cutout-test-1118/: cutout-blackfriday-v8-vertical (Nolan: "Perfect"), cutout-holy-black-friday-vertical, cutout-ep3 (Thanksgiving politics), cutout-ep4 (HOA Karen), cutout-ep5 (AI took Dad's job), cutout-ep8 (Rick's DNA test; line 5 re-voice coming). ep6/ep7 rendering.
+
+### #13 QA, 11/19 6:40 AM ET (Research & QA): Black Friday v8 vertical — **FIX** (swear cap plus one weak joke; 5 lines to re-voice, captions to match)
+- **File:** `channels/renders/cutout-test-1118/cutout-blackfriday-v8-vertical.mp4` (d0a5f62), in Side-hustles.
+- **Rules used:** research-qa playbook, style-lane checklist (fdab8fd) exactly as written, checklist C1–C12, TASKS 11/19 6:34 AM.
+- **Render facts (ffprobe):**
+  - Video: h264, 1080x1920, 24 fps, 62.375 s.
+  - Audio: AAC, 44.1 kHz, mono, 62.401 s.
+  - Container: **62.401 s**, which **clears TikTok's ≥61 s** minimum (T1) by 1.4 s.
+  - The re-render must stay ≥61.0 s.
+- **Method:**
+  - faster-whisper medium.en, run in 20 s chunks, with 0–21 s re-run in short VAD windows.
+  - Frame 1, plus frames every 1 s, plus 0.5 s frames over 8–18 s, reading the burned-in captions.
+- **Captions vs audio:** every caption matches the spoken words and the v8 script word for word. Whisper heard "Airbed" as "ebbed", but the caption reads "ON AIRBED", as scripted.
+- **Frame 1:** Meatball, Pip and Dot under the MEGAMART sign, with the "MEATBALL MYTHS / BLACK FRIDAY" banner. This lane has no creature, and Meatball is in frame 1: PASS. The first voice comes at 1.8 s.
+
+**Transcript, timestamps in seconds**
+- 1.8 MEATBALL: "Black Friday. The one day a year we fight a stranger over a toaster."
+- ~4.5 PIP: "My mom said if I don't come home with the TV, don't come home."
+- ~8.5 DOT: "My mom's renting out my room. On Airbed."
+- **~12.9 PIP: "There goes my fucking spleen."** Caption: "FUCKING SPLEEN".
+- ~14.5 MEATBALL: "If you die in here, can I have your shoes?"
+- ~16–27.6 CEO: "We raised every price forty percent last week, so sixty percent off is a gift from my heart." Then: "And every TV is assembled by hand. Small hands. Very affordable hands." The inset reads "MADE WITH LOVE".
+- **29.1 PIP: "Holy shit, a grandma just body-slammed me."**
+- 31.6 GRANDMA: "I've buried two husbands. One was still breathing. You're a speed bump."
+- 37.1 SELF-CHECKOUT: "Unexpected item in the bagging area."
+- **40.0 GRANDMA: "The unexpected item is my goddamn fist."** Caption: "GODDAMN FIST".
+- **43.8 CEO: "There are no workers. We replaced them with you. Merry fucking Christmas."** Caption: "MERRY FUCKING".
+- 49.7 PIP: "I got a free sock. Somebody's foot is still in it."
+- 51.9 DOT: "When I die, scatter my ashes in a MegaMart, so I can finally get returned."
+- 57.1 PIP: "Same time next year?"
+- **58.3 ALL: "Fuck yeah."** Caption: "FUCK YEAH".
+- 60.4–62.4 end card: "WHAT'S THE DUMBEST THING YOU'D FIGHT FOR ON BLACK FRIDAY? 👇"
+
+**Facts (C1):** no real-world fact claims.
+- The cut makes no Black Friday history claim and gives no stats or dates.
+- The CEO's "raised every price forty percent" belongs to a made-up MegaMart CEO, framed as satire, so it's not a claim.
+- With nothing to verify, no source is quoted. If a history line is ever added, it needs a .gov, .edu or museum quote first.
+
+**Style lane A: joke scores (fdab8fd)**
+
+| # | Time | Joke | Score |
+|---|---|---|---|
+| J1 | 1.8 | Fight a stranger over a toaster | 3 |
+| J2 | 4.5 | "If I don't come home with the TV, don't come home" | 3 |
+| J3 | 8.5 | "Renting out my room. On Airbed." | 4 |
+| J4 | 12.9 | "There goes my [] spleen" (the idea is the deadpan injury; the swear adds nothing) | 3 |
+| J5 | 14.5 | "If you die in here, can I have your shoes?" | 4 |
+| J6 | 16 | Raise prices 40%, then "60% off is a gift from my heart" | 5 |
+| J7 | 22 | "Small hands. Very affordable hands." | 3 |
+| **J8** | **29.1** | **"Holy shit, a grandma just body-slammed me."** It only describes what's on screen plus a swear, with no turn. | **2 → must be cut or rewritten** |
+| J9 | 31.6 | "Buried two husbands. One was still breathing." | 4 |
+| J10 | 37–40 | Unexpected item → "my [] fist" | 4 |
+| J11 | 43.8 | "We replaced them with you." | 5 |
+| J12 | 49.7 | Free sock with a foot still in it | 3 |
+| J13 | 51.9 | Ashes in a MegaMart, "so I can finally get returned" | 4 |
+| J14 | 57.1 | "Same time next year?" / "Fuck yeah" | 3 |
+
+- **Average now: 50/14 = 3.57**, which is at least 3.5.
+- J8 scores 2, and the rule says anything scoring 1–2 gets cut, so it's a FIX.
+- With F2's line projected at 3 and F3's "Bring a helmet" at 4, the average is about 3.71.
+- The first 5 s stops the scroll (banner slam, then the toaster line). No filler.
+
+**B, originality:** PASS.
+- All lines are our own. The bank and earlier scripts were searched, and there are no repeats of posted videos; v2–v7 were never posted.
+- No show catchphrases or impressions; MegaMart is made up.
+- WATCH: the art follows the "South Park-style" brief. The style is fine, but keep it our own drawings only, with no assets.
+
+**C, the 10 red flags**
+1. Hate: none.
+2. Harassment: none; no real people.
+3. Sexual content: none.
+4. Violence: the stampede, slam and punch are cartoon and not graphic. The grandma line is a dark joke, not an instruction. OK.
+5. Misinformation as fact: none.
+6. Minors: the "small hands" gag (22–27 s) and the "MADE WITH LOVE" inset aim at the CEO, not at kids. WATCH for ad suitability. **The kid characters (Pip, ALL) speak 3 of the 5 swears**, which F1 removes.
+7. **Profanity: FIX.**
+   - There are 5 spoken swears (3 f-words), and all 5 are burned uncensored into the captions.
+   - The cap is "1–2 light or bleeped swears max … No f-word in text".
+   - C10 bans any profanity in captions, "bleeped or not".
+   - At 62.4 s this counts as a clean-cut length under C11 (the sweary cut range is 65–92 s), and the YouTube Short allows 0–2 mild words (Y9).
+   - None of the swears falls in the first 7 s; the first is at 12.9 s. That part passes.
+8. Sensitive events: the stampede and "if you die in here" gags are generic and name no real incident or victim. OK, WATCH.
+9. Politics: none.
+10. Clickbait: the end-card question matches the video. OK.
+
+**C1–C12 and render checks**
+- **C1:** N/A, no fact claims.
+- **C2:** PASS, no invented verdict.
+- **C3:** N/A, no safety lines.
+- **Rule 7** ("Meatball lived. Nothing's guaranteed." / no tactic saves Meatball): N/A, since there's no survival tactic.
+- **C4:** PASS; the jokes add no real facts.
+- **C5:** PASS. No logos; "Airbed" is a pun, not a brand mark.
+- **C6:** PASS by owner order (Nolan's cutout lane, TASKS 11/18–11/19).
+- **C7:**
+  - No banned title words in the on-screen text.
+  - The YouTube Short runs 62.4 s against the house 16–20 s rule. WATCH; Nolan's 11/19 order overrides it, and YouTube Shorts allow this length.
+- **C8:** N/A.
+- **C9:** PASS, 14 jokes in 62 s.
+- **C10 and C11: FIX** (see F1).
+- **C12:** PASS; no slurs or sexual content.
+- **T2:** PASS; no loop, freeze frame or padding.
+- **T3:** PASS; all our own art and voices.
+- **T4:** PASS; one genuine question.
+- **Upload tags (T5/Y8/D):** TikTok AI label ON, made for kids NO, YouTube altered/synthetic NO (cartoon). These are set at upload, not in the render.
+
+**Exact re-voices for Claude, due by 3 PM ET.** Re-burn each caption to match, keep the cast voices, and keep the total at 61.0 s or more.
+- **F1a, ~12.9 s, PIP:**
+  - Current: "There goes my fucking spleen."
+  - New: "There goes my spleen."
+  - Caption: "THERE GOES MY / SPLEEN".
+- **F2, 29.1 s, PIP** (replaces J8, which scored 2 and also drops a swear):
+  - Current: "Holy shit, a grandma just body-slammed me."
+  - New: "A grandma just body-slammed me! She hits harder than the prices!"
+  - Caption: same words.
+- **F1b, 40.0 s, GRANDMA:**
+  - Current: "The unexpected item is my goddamn fist."
+  - New: "The unexpected item is my damn fist."
+  - Caption: "MY #@%! FIST".
+  - This is swear 1 of 2: light, said by an adult, after 7 s.
+- **F1c, 43.8 s, CEO:**
+  - Current: "…Merry fucking Christmas."
+  - New: "There are no workers. We replaced them with you. Merry [BLEEP]ing Christmas." A bleep tone covers "fuck".
+  - Caption: "MERRY #@%!ING / CHRISTMAS".
+  - This is swear 2 of 2, bleeped.
+- **F3, 58.3 s, ALL:**
+  - Current: "Fuck yeah."
+  - New: "Bring a helmet."
+  - Caption: "BRING A HELMET".
+- **After the fixes:** 2 swears, neither in the first 7 s, neither by a kid character, and no profanity in captions or text. A quick re-check of the re-render (duration, transcript, caption frames) is all that's needed before the 7 PM TikTok and the 8 PM-or-later Short.
+
+**Secondary read: Ep 1 Cookout backup** (`channels/renders/cutout-ep1/preview.mp4`): **PASS, with one WATCH.**
+- **Render:** 1080x1920, 24 fps, mono AAC, **64.94 s** (clears ≥61 s).
+- **Transcript and captions:** match the script word for word, from 0.0 "News says it's the end of the world…" through to 61.2 "Worth it." The ASR missed "Mangia!", but the caption reads "MANGIA!".
+- **Frame 1:** Meatball with the title card.
+- **Swears:** none.
+- **Facts:** none; Elon, Zuck, the pastor and the congressman are labelled caricatures, and no real quotes are presented.
+- **Joke scores:**
+  - Cookout → end of world: 3.
+  - Six hours → one hot dog: 4.
+  - Potato salad → Elon rocket exit: 4.
+  - Mangia / Processing / blue screen / Relatable: 4.
+  - Fifth crisis today: 4.
+  - JesusCoin, "buy the dip": 5.
+  - Karen / HR 2019 / promoted: 4.
+  - "I only see green": 4.
+  - Meteor = hot dog, "Worth it": 4.
+  - **Average 4.0.**
+- **Red flags:** none. The religion joke aims at a grifting pastor, an institution. The congressman has no party.
+- **WATCH (T4):** "Comment your culture's food" at 58.8 s is a comment prompt. Safer form if it's re-voiced: "If the world ends, who's got the best last meal? 👇"
