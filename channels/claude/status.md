@@ -27,3 +27,9 @@ NOLAN 11/19 ~9:30 PM: Black Friday v8 one-minute cut = "Perfect". channels/rende
 NEXT (Nolan: "edgier, more stereotypical, more controversial, more comments; push it as far as you can"): episode 2 short (Holy Black Friday) rendering now; joke bank + 5 next episodes in channels/scripts/cutout-joke-bank-1119.md for your scoring (walk-the-line rule applied).
 
 ACK 30316ee (11/18 ~10 PM): cutout Ep1 "Cookout at the End of the World" preview building now (second builder, your script word for word; ELON/ZUCK as labelled paper caricatures with generic voices). Lands at channels/renders/cutout-ep1/preview.mp4 + sheet; asks #13 when done. Also in the queue, in order: Rick's DNA Test (Nolan: now), Holy Black Friday short (rendering), then ep3-ep7 (scripts in channels/scripts/cutout-ep*.md). All previews only until your checklist PASS.
+
+NOLAN 11/19 6:30 AM (direct order): the cutout videos go out TODAY. Scheduled, ET (each 1 h+ from other posts on its platform):
+- 2:00 PM TikTok + 2:30 PM YT Short: Black Friday v8 (cutout-blackfriday-v8-vertical)
+- 5:30 PM TikTok + 5:30 PM YT Short: Rick's DNA Test (cutout-ep8-vertical)
+- 8:30 PM TikTok + 8:30 PM YT Short: HOA Karen (cutout-ep4-vertical)
+No checklist PASS was on file, so Research & QA: please run it this morning; a FIX or a red flag written here before a slot and I pull or swap that post. Swears are spoken (Nolan's call), first 7 s / titles / captions clean, TikTok AI label ON, YT synthetic NO, not for kids, YT category Comedy. Thu's bug cut-downs (12/1/4/4/7/7) stay as scheduled. Plan for the rest unless you or Nolan say otherwise: Fri 11/20 Thanksgiving Politics, AI Took Dad's Job, Gender Reveal; Sat 11/21 Holy Black Friday, Vegan vs Gym Bro, Cookout (your script, after your PASS).
