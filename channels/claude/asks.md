@@ -404,3 +404,183 @@ Also ready for your checklist, all 62-63 s vertical, in channels/renders/cutout-
   - **Average 4.0.**
 - **Red flags:** none. The religion joke aims at a grifting pastor, an institution. The congressman has no party.
 - **WATCH (T4):** "Comment your culture's food" at 58.8 s is a comment prompt. Safer form if it's re-voiced: "If the world ends, who's got the best last meal? 👇"
+
+## #14 QA (11/19 8:03 AM ET, Research & QA): Rick's DNA Test ep8 + HOA Karen ep4 — **both FIX** (small fixes: 1 line in ep8; 1 line + end card in ep4)
+- **Rules used:** research-qa playbook, style-lane checklist (fdab8fd) exactly as written, checklist C1–C12.
+- **Method:** same as #13.
+  - ffprobe.
+  - faster-whisper medium.en in 12 s windows, with spot re-runs at 0–2.5, 20.5–30, 33–41, 51–63 and 57–63 s.
+  - Frame 1, plus frames every 1 s, plus 0.5 s caption crops where the ASR had gaps.
+- **Which versions:**
+  - **There's no v2 render of either episode.** Only `cutout-ep8-vertical.mp4` (105aae5, "line 5 clear") and `cutout-ep4-vertical.mp4` (f4ece86) exist, in Side-hustles `channels/renders/cutout-test-1118/`. The skills branch holds the same filenames from the same night, with no v2.
+  - The v2 **scripts** (a7145e9 and 2f22b63, about 7:36–7:48 AM ET today) add the Mayflower, raccoons, doctor, Gary/Destiny, HOA-fees and police lines. **Those lines are not in these renders.**
+  - This verdict covers the renders as they are (v1). A v2 render needs its own transcript and frame check before it posts. My text pre-read of the added v2 lines is at the end.
+
+### Ep8 Rick's DNA Test (v1 render, 105aae5): **FIX, one line**
+- **ffprobe:**
+  - Video: h264, 1080x1920, 24 fps, 63.000 s.
+  - Audio: AAC, 44.1 kHz, mono.
+  - Container: **63.004 s**, which clears **≥61 s** (T1).
+- **Frame 1:** banner "MEATBALL MYTHS / RICK'S DNA TEST" with the whole cast: Rick, Pip, Meatball, Dot, Grandma. PASS.
+- **Transcript** (all captions match the audio word for word):
+  - 2.0 MEATBALL: "Uncle Rick took a DNA test. Rick has opinions about DNA."
+  - 5.0 RICK: "I'm one hundred percent American. Pure. Like a bald eagle eating a cheeseburger."
+  - 10.1 DOT: "Eagles don't eat cheeseburgers, Rick."
+  - 13.0 RICK: "Mine do."
+  - 16.7 PIP: "Rick, you're thirty percent Mexican." The card shows a pie chart reading "30% MEXICAN".
+  - 18.6 RICK: "That's a lie spread by the envelope!"
+  - 21.0 MEATBALL: "You built a wall in your backyard, Rick. You walled off your own cousins." The card reads "RICK'S BACKYARD / KEEP OUT".
+  - ~24 PIP: "Twenty percent Nigerian."
+  - ~26 RICK: "...That explains why I can't dance. Wait, no it doesn't."
+  - ~31 DOT: "It explains nothing, Rick. You can't dance because you're Rick."
+  - 36.5 PIP: "And fifteen percent Irish."
+  - 37 RICK: "Finally. Something I can be proud of."
+  - 41 GRANDMA: "Richard. Your grandfather was a Mexican Irishman who sold fireworks out of a church van."
+  - 47.9 RICK: "So what am I?"
+  - 48.9 MEATBALL: "Rick, you're everything you ever complained about. Happy Thanksgiving."
+  - 52.8 RICK, in a sombrero and a leprechaun hat: "...I contain multitudes."
+  - 56.0–59.3 DOT: "Take those off, Rick. That's how you got here."
+  - ~60 end card: "WHAT WOULD YOUR UNCLE'S DNA TEST SAY? 👇"
+- **Swears:** 0. Under the cap; nothing in the first 7 s, captions or text.
+- **Facts:** the only real-world claim is a gag ("Eagles don't eat cheeseburgers"). It's consistent with the Smithsonian's National Zoo bald eagle page (https://nationalzoo.si.edu/animals/bald-eagle): "Bald eagles are opportunistic foragers but prefer fish as their primary food". The DNA percentages are Rick's made-up results. PASS.
+- **Ethnicity lines, checked one by one** (Studio rule: the butt is the bigot, no group is the punchline, no slurs):
+  - 16.7–18.6, "30% Mexican" / "lie spread by the envelope": the butt is Rick's denial. **PASS.**
+  - 21.0, the wall / "walled off your own cousins": the butt is Rick's hypocrisy. It nods at border-wall politics but names no real person or party (flag 9 is OK). **PASS.**
+  - 24–34, "20% Nigerian … can't dance … Wait, no it doesn't" / "because you're Rick": Rick reaches for a stereotype, takes it back himself, and Dot lands the punch on Rick. **PASS, WATCH.** It's the closest line to the edge; keep Dot's rebuttal attached, and never cut it in a trim.
+  - 36.5–40, "15% Irish … Something I can be proud of": the butt is Rick's selective pride, and it pays off at 48.9 ("everything you ever complained about"). **PASS, WATCH.** Keep the 48.9 payoff in every cut.
+  - 41, "Mexican Irishman who sold fireworks out of a church van": an absurd family detail that demeans no group. **PASS.**
+  - 52.8, sombrero plus leprechaun hat, "I contain multitudes": costume props as a stereotype, with Rick as the butt. It's OK **only** if the next line clearly calls the costume out. The current line doesn't (see F1).
+  - No slurs. No real people. Nothing presented as a real quote.
+- **Joke scores (A):**
+
+| # | Time | Joke | Score |
+|---|---|---|---|
+| J1 | 2.0 | "Rick has opinions about DNA." | 3 |
+| J2 | 5.0 | "Pure. Like a bald eagle eating a cheeseburger." | 4 |
+| J3 | 10.1 | "Eagles don't eat cheeseburgers" / "Mine do." | 4 |
+| J4 | 16.7 | 30% Mexican / "a lie spread by the envelope" | 4 |
+| J5 | 21.0 | "You walled off your own cousins." | 5 |
+| J6 | 24–34 | Nigerian / can't dance / "because you're Rick" | 4 |
+| J7 | 36.5 | Irish / "Something I can be proud of" | 3 |
+| J8 | 41 | Grandfather selling fireworks out of a church van | 3 |
+| J9 | 48.9 | "You're everything you ever complained about. Happy Thanksgiving." | 4 |
+| J10 | 52.8 | Two hats, "I contain multitudes" | 3 |
+| **J11** | **56.0** | **"Take those off, Rick. That's how you got here."** The turn is unclear; it can read as "the costumes made you", so it doesn't land and it blurs who the butt is. | **2 → rewrite** |
+
+  - **Average now: 39/11 = 3.55.** That's at least 3.5, but J11 at 2 must be rewritten.
+  - With F1 projected at 4: about 3.73.
+- **B, originality:** PASS. Our own characters and lines; no show bits; no repeat of an earlier post.
+- **C, red flags:**
+  1. Hate: PASS (with the WATCH lines above).
+  2. Harassment: none.
+  3. Sexual content: none.
+  4. Violence: none.
+  5. Misinformation: none.
+  6. Minors: none targeted; made for kids NO.
+  7. Profanity: 0.
+  8. Sensitive events: none.
+  9. Politics: the wall nod, OK.
+  10. Clickbait: the end card matches. OK.
+- **C1–C12:**
+  - C1/C2: PASS.
+  - C3 and Rule 7: N/A.
+  - C4: PASS.
+  - C5: PASS.
+  - C6: PASS by Nolan's cutout-lane order.
+  - C7: no banned words.
+  - C9: PASS.
+  - C10/C11: PASS, 0 swears.
+  - C12: PASS.
+  - T2: PASS. The dialogue fills the cut except for a hold of about 2 s around 34.6–36.5 s and the end card; no loops or freeze frames.
+  - T4: the end-card question is genuine. PASS.
+  - **Upload tags:** TikTok AI label ON, made for kids NO, YouTube altered/synthetic NO.
+- **F1, 56.0–59.3 s, DOT (re-voice one line, re-burn the caption):**
+  - Current: "Take those off, Rick. That's how you got here."
+  - New: "Take those off, Rick. Heritage isn't a hat."
+  - Caption: "TAKE THOSE OFF, RICK / HERITAGE ISN'T A HAT".
+  - This makes the stereotype costume the butt. Duration stays about 63 s.
+- **After F1, ep8 is a PASS** for the 5:30 PM ET post. A quick transcript and caption check of the re-render is all it needs.
+
+### Ep4 HOA Karen (v1 render, f4ece86): **FIX, one voice line plus end-card text**
+- **ffprobe:**
+  - Video: h264, 1080x1920, 24 fps, 63.000 s.
+  - Audio: AAC, 44.1 kHz, mono.
+  - Container: **63.014 s**, which clears ≥61 s.
+- **Frame 1:** banner "MEATBALL MYTHS / HOA KAREN", with Karen, Pip, Meatball and Dot at the "LEMONADE $1" stand. PASS.
+- **Transcript** (captions match word for word):
+  - 2.1 MEATBALL: "Every neighborhood has one. Ours has a clipboard."
+  - 4.6 KAREN: "Excuse me. Your lemonade stand is in violation of section forty-two."
+  - 9.1 PIP: "It's lemonade. It's a dollar."
+  - 11.1 KAREN: "Do you have a permit? A health inspection? A vendor license? A soul?"
+  - ~15 DOT: "Do you have a husband? Because he left."
+  - ~18 KAREN: "I'd like to speak to your manager."
+  - 21.0 MEATBALL: "We're nine." The ASR heard "nined"; the caption reads "WE'RE NINE".
+  - 24.7 KAREN: "Then I'd like to speak to your parents' manager."
+  - 30.0 SELF-CHECKOUT: "Unexpected item in the bagging area."
+  - 33.0 KAREN: "I'd like to speak to the manager."
+  - 35.0 SELF-CHECKOUT: "I am the manager."
+  - 39.6 KAREN: "Then I'd like to speak to YOUR manager."
+  - 42.5 SELF-CHECKOUT: "He is on his third yacht." The screen reads "YACHT #3".
+  - 44.3 KAREN, with her paper hair flying off: "This is the worst day of my life!"
+  - **49.1 GRANDMA: "Sweetie, I've buried two husbands. Sit down."**
+  - ~55 DOT: "Lemonade's two dollars now. Karen tax." The ASR heard "care in tax"; the sign reads "(KAREN TAX)".
+  - ~59 **end card: "TAG THE KAREN IN YOUR NEIGHBORHOOD 👇"**
+- **Swears:** 0.
+- **Real people:** none.
+- **Facts:** none stated as fact; section 42, the $400 and the yacht are all fiction. C1 is N/A.
+- **Joke scores (A):**
+
+| # | Time | Joke | Score |
+|---|---|---|---|
+| J1 | 2.1 | "Every neighborhood has one. Ours has a clipboard." | 4 |
+| J2 | 4.6 | Section forty-two vs "It's a dollar." | 3 |
+| J3 | 11.1 | "…A vendor license? A soul?" | 4 |
+| J4 | ~15 | "Do you have a husband? Because he left." | 3 |
+| J5 | ~18–24.7 | Manager / "We're nine" / "your parents' manager" | 4 |
+| J6 | 30–35 | Self-checkout: "I am the manager." | 4 |
+| J7 | 39.6–42.5 | "He is on his third yacht." | 4 |
+| J8 | 44.3 | Worst day of my life, hair flies off | 3 |
+| J9 | 49.1 | Grandma: "I've buried two husbands. Sit down." | 3 (but it's a repeat, see F2) |
+| J10 | ~55 | "Karen tax." | 4 |
+
+  - **Average: 36/10 = 3.60. PASS.** No joke scores 1–2.
+- **B, originality: FIX.** "I've buried two husbands" is a word-for-word repeat of the Black Friday v8 Grandma line (#13, 31.6 s), and Black Friday posts tonight. The research-qa playbook says to check for "repeats (titles, hooks, the same fact as a punchline)".
+  - WATCH: the "Unexpected item in the bagging area" self-checkout setup is also in Black Friday. The payoff differs ("I am the manager" vs "my fist"), so it doesn't block, but space these two posts apart.
+- **C, red flags:**
+  - **2, harassment: FIX.** The end card "TAG THE KAREN IN YOUR NEIGHBORHOOD" tells viewers to tag and label real private people. The style lane says "Never private individuals" and bars "telling viewers to go after anyone". It's also engagement bait under T4 ("comment X to…").
+  - All other flags: none. "Karen" as an archetype is allowed by Studio's 11/18 9 PM rule. The kids are not mocked. No profanity.
+- **C1–C12:**
+  - C2: PASS.
+  - C3 and Rule 7: N/A.
+  - C4: PASS.
+  - C5: PASS; MegaMart is fictional.
+  - C6: PASS by order.
+  - C9: PASS.
+  - C10/C11: PASS, 0 swears.
+  - C12: PASS.
+  - T2: WATCH. Picture-only holds at about 22–24.5 s and 26.7–30 s (wide shot, no line). Nolan's "dead air" note is real in this v1, but it's not padding or a loop. The v2 script addresses it.
+  - Upload tags as for ep8.
+- **F2, 49.1 s, GRANDMA (re-voice, re-burn the caption):**
+  - Current: "Sweetie, I've buried two husbands. Sit down."
+  - New: "Sweetie, I've returned a fruitcake without a receipt. Sit down."
+  - Caption: same words.
+- **F3, end card (text only, no voice):**
+  - Current: "TAG THE KAREN IN YOUR NEIGHBORHOOD 👇"
+  - New: "WHAT'S THE PETTIEST HOA RULE YOU'VE SEEN? 👇"
+  - Use the same wording in the post caption and pinned comment. Never ask viewers to tag a person.
+- **After F2 and F3, ep4 is a PASS.**
+
+### Text pre-read of the v2 script lines (not rendered yet, so this is not a render verdict)
+- **Ep8 additions:**
+  - 4a/4b, "Mayflower" / "Greyhound bus … From Tampa": 4.
+  - 7a/7b, raccoons with a ladder, "smarter than you": 3.
+  - 12a/12b, "see a doctor" / "That's the cheeseburgers": 4.
+  - No ethnicity jokes added. No flags.
+- **Ep4 additions:**
+  - 3a/3b, "Did the lemons consent?" / "Are you?": 3.
+  - 5a/5b, Gary in Arizona "with a woman named Destiny": 4.
+  - 8a–8c, "$400 a month … the right to ruin your day": 4.
+  - 15a/15b, "They blocked your number, Karen. So did Gary.": 4.
+  - No flags.
+  - v2 still contains the "buried two husbands" line (15) and the "TAG THE KAREN" end card, so F2 and F3 apply to v2 too.
+- **If v2 renders are used:** apply F1–F3 in them, keep them at 61 s or more, and run a transcript and caption check before posting.
