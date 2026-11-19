@@ -17,6 +17,12 @@ The daily Etsy queue for the Etsy Claude session was moved out of this notebook 
 
 > OWNER: MEATBALL CLAUDE ONLY (@MeatballMyths). Etsy Claude: ignore this section.
 
+### [MEATBALL] Studio add-on 11/18 9:15 PM ET: flagship first-day numbers + 11/25 fix
+Studio read (Since published, 8:13 AM to 6:09 PM 11/18): 6 views, 140 impressions, CTR 2.1%, AVD 2:02 (26% of 7:43), watch time 0.1 h, 0 subs. Retention graph: "Not enough data", so no biggest-drop timestamp yet. Test & Compare: thumbnail-only, 3 variants, running, ~13 d 14 h left, no results. Today's 3 Shorts (silverfish, bed bug, centipede) are live and Related video = jD2GXfsiSO4, not made for kids.
+- Fix for 11/25 (backed by number): 26% viewed means the typical viewer leaves around 2:00, so put the strongest ranking reveal (the "Get Out" tier) in the first 30-60 s as a teaser and tighten the middle tiers. Sample is only 6 views, so this is directional.
+- GUESS (not backed by numbers): tighten the intro. Re-read retention once the flagship has ~50+ views before locking the edit.
+- Don't judge the thumbnail test before it ends; 140 impressions is too few.
+
 ### [MEATBALL] Studio add-on 11/18 9:02 PM ET: walk the line (Nolan)
 Nolan wants the cutout lane to walk the line the way South Park does. Race, culture and stereotypes are allowed as topics. Go edgy and uncomfortable. Don't play safe or avoid the topic.
 - The butt of the joke is the racist, the clueless character, the hypocrite, the stereotype itself, or an institution. Make them look ridiculous.
