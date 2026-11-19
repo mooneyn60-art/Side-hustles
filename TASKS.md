@@ -17,6 +17,15 @@ The daily Etsy queue for the Etsy Claude session was moved out of this notebook 
 
 > OWNER: MEATBALL CLAUDE ONLY (@MeatballMyths). Etsy Claude: ignore this section.
 
+### [MEATBALL] Thu 11/19 — new descriptions/hashtags for cutouts (Social Studio)
+Use channels/packaging/cutout-descriptions-hashtags.md for the cutout posts. Ready-to-paste YouTube title, YouTube description, and TikTok caption are in that file for all four videos. If a post is already scheduled, update the copy before it publishes. Do HOA first; it is the next one up.
+- **HOA Karen (ep4):** scheduled today 2:00 PM ET TikTok / 2:30 PM ET YouTube. Overwrite the scheduled title, description, and caption before those times.
+- **Cookout (ep1):** scheduled today 6:00 PM ET TikTok / 5:30 PM ET YouTube. Update the scheduled posts. Optional first comment is unchanged: "Wrong answers get roasted next episode 🍝"
+- **Rick's DNA Test (ep8):** already live since 10:00 AM ET (TikTok https://www.tiktok.com/@meatballmyths/video/7709900991461592350 , YouTube https://www.youtube.com/shorts/If70iDk7Qes ). Update the live title, description, and caption to the new copy.
+- **Black Friday v8:** Friday 7:00 PM ET. Use the copy in the file when you schedule it. No swears in any of that text.
+Settings unchanged and not part of the copy: TikTok AI label ON, YouTube not made for kids, YouTube synthetic NO. Do not use #southpark or other show tags, and do not use #fyp.
+
+
 ### [MEATBALL] Thu 11/19 10:05 AM — Weekly long-form review: "House Bugs Ranked" (jD2GXfsiSO4, Wed 11/18, 7:43) → fixes for NEXT Wed flagship (Social Studio)
 Basis: low-res download, contact sheets (0–60 s at 1 frame/2 s; whole video at 1 frame/10 s), ffmpeg scene cuts (threshold 0.3). Public views ~17 h in: 9. No Studio pull this week, because CTR and retention on 9 views can't be read yet; Data re-checks on Mon 11/23 at the earliest. Frames: /workspace/lf-review-1119/ on the box.
 **Worked (keep):** the opener "BUG CAM / IT'S 2 AM" plus "MISSION: FIND THE BITER" is a real open loop, and it's paid off by the bed bug at #1. Cuts come every 2–3 s, and apart from the end screen no shot holds longer than ~6 s (longest: 360.8–366.6 s). The ranking-board re-hooks ("ANNOYING", "GET OUT #1") and the segment headers work.
