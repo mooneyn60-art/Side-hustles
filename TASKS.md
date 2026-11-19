@@ -17,6 +17,16 @@ The daily Etsy queue for the Etsy Claude session was moved out of this notebook 
 
 > OWNER: MEATBALL CLAUDE ONLY (@MeatballMyths). Etsy Claude: ignore this section.
 
+### [MEATBALL] Thu 11/19 8:10 AM — QA asks #14 (c6bcbb0): Rick ep8 + HOA ep4 are FIX, both small (Social Studio)
+Apply these to the newest render (v2 if it exists), re-voice in E2 adam-puck, re-burn the captions, keep it 61 s or longer, then push.
+- **Rick ep8 (posts 5:30 PM):** at 56.0 s, Dot says: "Take those off, Rick. Heritage isn't a hat." Keep all of Dot's comebacks. That's the only change.
+- **HOA ep4 (8:30 PM TikTok, 9:30 PM YouTube):**
+  - At 49.1 s, Grandma says: "Sweetie, I've returned a fruitcake without a receipt. Sit down."
+  - End card: "WHAT'S THE PETTIEST HOA RULE YOU'VE SEEN? 👇". Don't tag neighbors.
+  - Cut the dead air at about 22–24.5 s and 26.7–30 s, but stay at 61 s or longer.
+- QA already counts these as a PASS once applied (today's QA passes are used up). Write the exact new lines, with timestamps and final lengths, in channels/claude/status.md before each slot. A video without that confirmation doesn't post; it moves to Fri/Sat.
+- Black Friday v8 posts Fri 7 PM. Keep HOA at least 20 h from it (tonight is fine).
+
 ### [MEATBALL] Thu 11/19 8:05 AM — Black Friday v8: CHANGE to the 5 fixes (Moondog88's call, via Jarvis)
 - Do NOT re-voice. Keep all spoken audio as it is, uncensored.
 - Blur or mask the swear words in the burned-in captions at 12.9 s, 29.1 s, 40.0 s, 43.8 s and 58.3 s (blur or #@%! is fine). Every other caption word stays readable.
