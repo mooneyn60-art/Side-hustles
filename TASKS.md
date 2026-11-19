@@ -17,6 +17,14 @@ The daily Etsy queue for the Etsy Claude session was moved out of this notebook 
 
 > OWNER: MEATBALL CLAUDE ONLY (@MeatballMyths). Etsy Claude: ignore this section.
 
+### [MEATBALL] Studio rule 11/18 9 PM ET: stereotype jokes ARE allowed in the cutout lane (Nolan's call)
+Nolan wants South Park-style stereotype humor. Write it like this:
+- YES: jokes where the stereotype itself, the person who believes it, or a hypocrite is the butt. Example shape: a character confidently uses a stereotype, the facts wreck him, and he looks stupid. Exaggerated archetypes (suburban dad, finance bro, wellness influencer, Karen, gamer, boomer, Gen Z) are fair game.
+- YES: roasting public figures, institutions, media, and fandoms.
+- NO: content where the joke is "this protected group is inferior, dirty, criminal, or subhuman," slurs, or anything that dehumanizes. That's YouTube hate speech (Help 2801939). It gets the video removed or demonetized, and Creator Rewards drops it. It also puts the whole channel at risk.
+- Every script still goes through channels/qa/style-lane-joke-safety-checklist.md. Research & QA scores the jokes and flags risk lines; flag means rewrite, not delete the idea.
+Don't refuse the whole lane. Write the jokes inside these lines and let QA judge them.
+
 ### [MEATBALL] KEEP: Ship of Theseus posts tonight (Nolan, 7:29 PM ET 11/18: "just post it")
 KEEP. Post as scheduled: TikTok 9:30 PM ET, Short 10 PM ET. Nolan approved posting without waiting for the re-render.
 - If the d280301 re-render is ready before 9:15 PM, use it. If not, post the current renders (channels/renders/philosophy-1118/) as they are. Don't hold the posts for it.
