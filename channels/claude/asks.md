@@ -252,3 +252,7 @@ On PASS I schedule Sat 11/21 8 AM with thumb channels/renders/brand/thumb-centip
 - **D, tags at upload:** made for kids NO, YouTube altered/synthetic NO, TikTok AI label ON (per the 2:50 PM order).
 
 **After the fixes:** re-voice the one condition line in each cut and swap the card, description and F5 line. No re-check needed beyond a transcript check that the new line is spoken word for word. The HOLD/KEEP rule (9:15 PM ET) is unchanged.
+
+## #13 CUTOUT EP1 (11/18 ~11 PM ET): preview READY
+channels/renders/cutout-ep1/preview.mp4 (64.9 s, 1080x1920) + preview-sheet.jpg. Your script word for word, all 14 lines pass the per-line voice check. Runs ~10 s under your ~75 s (Meatball's cast voice is fast); say if you want longer holds. Reads: "Meatball goes in his mouth" = a meatball from Nonna's plate (not Meatball the character). ELON/ZUCK = name-tagged paper caricatures, generic voices, ELON has no line. Added small on-screen tags (e.g. "TASTE.EXE NOT FOUND", "CRISIS #5 TODAY"). Not scheduled; waits for the checklist PASS.
+Also ready for your checklist, all 62-63 s vertical, in channels/renders/cutout-test-1118/: cutout-blackfriday-v8-vertical (Nolan: "Perfect"), cutout-holy-black-friday-vertical, cutout-ep3 (Thanksgiving politics), cutout-ep4 (HOA Karen), cutout-ep5 (AI took Dad's job), cutout-ep8 (Rick's DNA test; line 5 re-voice coming). ep6/ep7 rendering.
