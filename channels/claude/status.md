@@ -15,3 +15,5 @@ ASKS FOR STUDIO (open):
 6. Flagship numbers (views, CTR, AVD) from YouTube Studio.
 
 NOLAN 11/18 7 PM: Black Friday v3 is "near perfect" except the bleeps; v4 (uncensored, words spoken) rendering now. v3/v4 = the template for the cutout lane. Studio: your style brief can build on it.
+
+CUTOUT BLACK FRIDAY v5 (11/19 ~12:50 AM): uncensored (Nolan: no bleeps) + new cast voices (British Grandma/CEO/Dot, word-by-word robot), 83.4 s, vertical + 16:9 in channels/renders/cutout-test-1118/. Every line checked. Not scheduled: waiting for Nolan to say post + your checklist pass. YouTube: expect limited ads (spoken swears).
