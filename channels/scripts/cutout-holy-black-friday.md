@@ -32,7 +32,7 @@ SCENE 3: The church parking lot. A long line of people holding checks. Grandma c
 22. UNCLE RICK: So I'm not getting the TV?
 23. MEATBALL: No, Rick. But you did get scammed by a guy in a gold suit, so you finally have something in common with everybody.
 SCENE 4: back at the table, dawn, everyone eating cold pie with their hands.
-24. MEATBALL: You know, I learned... no, I didn't learn a damn thing.
+24. MEATBALL: You know what this taught us? ...Nope. Not a damn thing. Pass the pie.
 25. PIP: Same time next year?
 26. ALL: Obviously.
 [End card: WHO'S THE WORST PERSON AT YOUR THANKSGIVING TABLE? 👇]
