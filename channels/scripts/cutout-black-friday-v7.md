@@ -1,4 +1,4 @@
-# Cutout Black Friday v7 (Nolan 11/19: "a little more humor" + "Can we get edgier humor"): darker, cruder; still no group jokes, no slurs, no real brands.
+# Cutout Black Friday v7 (Nolan 11/19: "a little more humor" + "Can we get edgier humor"): + "I want really edgy jokes, a really bad one": darkest pass; still no group jokes, nothing sexual, no slurs, no real brands.
 More swears (spoken, no bleeps), more jokes per minute, harder satire of the store and the CEO, crude kid insults between the three kids. Still none in the first 7 s / title / first caption line / thumbnail; no slurs; no jokes about any race, ethnicity, religion, gender, disability or other group. No real brands or people.
 
 [Banner slam: MEATBALL MYTHS / BLACK FRIDAY] (jingle)
@@ -7,6 +7,9 @@ More swears (spoken, no bleeps), more jokes per minute, harder satire of the sto
 3. DOT: My mom said if I come home, she's renting out my room. On Airbed.
 3b. PIP: Your mom's a genius.
 3c. DOT: My mom's a landlord, Pip. It's worse.
+3d. MEATBALL: My dad left to get Black Friday deals six years ago. Still hasn't come back.
+3e. PIP: Maybe there's a really long line.
+3f. MEATBALL: There's a new family, Pip. It's a very long line.
 4. MEATBALL: Relax. We go in fast, grab the damn TV, and leave with our dignity.
 4b. PIP: I peed a little.
 4c. DOT: You peed a lot, Pip. It's in my boot.
@@ -18,6 +21,7 @@ More swears (spoken, no bleeps), more jokes per minute, harder satire of the sto
 8. DOT: That's not a sale, you jackass. That's a hostage situation with coupons.
 9. CEO: And remember: if you get trampled, that's not an injury. That's engagement.
 9b. CEO: Our staff gave up Thanksgiving to be here. We thanked them with a pizza party. One slice. They're sharing it.
+9c. CEO: And every TV is assembled by hand! Small hands. Very affordable hands.
 10. MEATBALL: This guy is the biggest piece of shit I've ever seen, and I've seen Pip's science project.
 11. PIP: It was a volcano!
 12. MEATBALL: It was a turd in a cup, Pip.
@@ -28,7 +32,7 @@ More swears (spoken, no bleeps), more jokes per minute, harder satire of the sto
    (tiny grandma flies in, body-slams Pip)
 14. PIP: Holy shit! A grandma just body-slammed me!
 15. GRANDMA: Back off... you little shit. I've been training since July. And I have nothing. Left. To lose.
-15b. GRANDMA: I've buried two husbands, sweetie. You're a speed bump.
+15b. GRANDMA: I've buried two husbands, sweetie. One of them was still breathing. You're a speed bump.
 16. DOT: Respect.
 17a. MEATBALL: Okay. I would sell Pip's kidney for this TV.
 17b. PIP: You already sold one for a game console!
@@ -42,6 +46,7 @@ More swears (spoken, no bleeps), more jokes per minute, harder satire of the sto
 20. SELF-CHECKOUT: Unexpected. Item. In the bagging area.
 21. GRANDMA: The unexpected item is my goddamn fist. (punch; sparks)
 22. SELF-CHECKOUT: Please. Wait. For. An. Associate.
+22b. SELF-CHECKOUT: Would you like to round up. To buy the CEO. A third yacht.
 23. CEO: There are no associates. We replaced them with you. Merry fucking Christmas.
    (dawn, parking lot; Pip holds one sock; Dot's receipt longer than she is)
 24. MEATBALL: You know, guys, Black Friday taught us something. It's not about the stuff. It's about the people...
