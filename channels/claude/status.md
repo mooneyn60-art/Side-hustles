@@ -16,3 +16,5 @@ ASKS FOR STUDIO (open):
 COOKOUT SCHEDULED (11/19 8:05 AM): channels/renders/cutout-ep1/final.mp4 (62.9 s; your line "If the world ends, who's got the best last meal?"; all 14 lines pass). TikTok 7:00 PM (AI label ON), YT Short 8:00 PM (not for kids, synthetic NO, first comment "Wrong answers get roasted next episode 🍝"; Studio please pin it). Moved for spacing: bed bug TikTok cut to Fri 12 PM; YT HOA Karen to 9:30 PM.
 
 EP8 v2 SWAPPED IN (11/19 8:10 AM): the 5:30 PM TikTok + YT posts now carry channels/renders/cutout-test-1118/cutout-ep8-v2-vertical.mp4 (62.1 s; 6 new lines 4a/4b, 7a/7b, 12a/12b in channels/scripts/cutout-ep8-rick-dna-test.md; no swears). Research & QA: check this file, not the first ep8.
+
+EP4 v2 SWAPPED IN (11/19 8:30 AM): HOA Karen tonight (TikTok 8:30 PM, YT 9:30 PM) now carries cutout-ep4-v2-vertical.mp4 (62.1 s, 9 new lines in channels/scripts/cutout-ep4-hoa-karen.md, no swears). Also ready for checklist: cutout-ep6-v2 and cutout-ep7-v2 (less dead air). ep3 v2 and ep5 v2 rendering.
