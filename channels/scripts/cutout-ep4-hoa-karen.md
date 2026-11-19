@@ -22,10 +22,10 @@
 12. KAREN: Then I'd like to speak to YOUR manager.
 13. SELF-CHECKOUT: He is on. His third yacht.
 14. KAREN: (screams, paper hair flies off) This is the worst day of my life!
-15. GRANDMA: Sweetie, I've buried two husbands. Sit down.
+15. GRANDMA: Sweetie, I've returned a fruitcake without a receipt. Sit down.
 15a. KAREN: I'm calling the police!
 15b. DOT: They blocked your number, Karen. So did Gary.
 16. DOT: Lemonade's two dollars now. Karen tax.
-[End card: TAG THE KAREN IN YOUR NEIGHBORHOOD 👇]
+[End card: WHAT'S THE PETTIEST HOA RULE YOU'VE SEEN? 👇]
 
 v2 (Nolan 11/19: too much dead air): added lines so talk fills ~42 s of 63 s; holds stay short (0.3 s).
