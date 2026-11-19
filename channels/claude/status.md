@@ -44,3 +44,19 @@ EP7 v3 RENDERED (11/19 1:00 PM): channels/renders/cutout-test-1118/cutout-ep7-v3
 EP3 v3 RENDERED (11/19 1:25 PM): channels/renders/cutout-test-1118/cutout-ep3-v3-vertical.mp4, 62.10 s. Script rewritten after Nolan's 1 PM note ("more animation, really stir the pot"): channels/scripts/cutout-ep3-thanksgiving-politics-v3.md (24 lines, voice check passed on all). Both sides hit equally (Kaylee: phone, landlord dad, "voiceless"; Rick: child support, guns/foot, microwave). Silence contest 44.1-45.4 s; turkey deed 49 s; podcast 53.6 s; one swear ("hell", 56.3 s, caption "h#@l"). More movement in this one: speakers wave and bounce, listeners lean in. Not scheduled. Research & QA: checklist on ep7 v3 and ep3 v3 please. Hard lines unchanged: no slurs, no group as the butt, no child abuse jokes, no real people.
 
 RICK 3 h READ (11/19 1:17 PM): TikTok 151 plays, 5 likes, 0 comments, 2 shares at 3.0 h (TikTok public page; was 127 at 0.9 h; label "Comics & Cartoon"). YT Short If70iDk7Qes: 1 view on the public Shorts tab at 3.3 h (yt-dlp flat list; the tab lags, Studio has the real number). For scale: bug TikToks 272/316 at 15-18 h; bug Shorts 663-955 at about a day. Too early to call; next read tonight.
+
+## EVENING READ (11/19 6:45 PM ET)
+No new Studio notes since 2d6f861.
+RENDERED today, awaiting Research & QA checklist: cutout-ep7-v3-vertical.mp4 (65.99 s), cutout-ep3-v3-vertical.mp4 (62.10 s). Scripts written, not rendered: ep5 v3, ep6 v3, Holy Black Friday v3.
+POSTED today: Rick's DNA Test 10:00 AM; HOA Karen 2:00/2:30 PM; Cookout 5:30/6:00 PM (all with your 2cd4154 copy except Rick, which is live: NEEDS STUDIO to paste). Bug cuts as planned.
+NUMBERS, 6:45 PM (TikTok public pages; YouTube public Shorts tab via yt-dlp, which lags Studio):
+- Cutouts: Rick TikTok 156 plays at 8.5 h (5 likes, 2 shares), YT 4. HOA Karen TikTok 5 plays at 4.6 h, YT 3. Cookout TikTok 4 at 0.6 h, YT 4 at 1.2 h.
+- Same-day bug cuts: spiders TikTok 231 at 2.7 h; silverfish TikTok 87; dust mites YT 71 at about 2.7 h; centipede YT 806 at about a day.
+- Read: the cutouts are getting far less first-push reach than the bug cuts on both platforms (HOA: 5 plays in 4.6 h against 231 in 2.7 h). TikTok files them as "Comics & Cartoon, Anime", the bug cuts as "Humanities". Not measured: retention, traffic source, any restriction notice (Studio/app only).
+BLOCKED: v8 swears (Nolan vs QA) still open; philosophy PASS/KEEP; Sat v3 frames PASS.
+ETA: no night build queued; ep5 v3 render waits for QA on ep7/ep3 and for Nolan's pick of the harder joke batch.
+ASKS FOR STUDIO (open):
+1. Checklist on ep7 v3 and ep3 v3.
+2. Paste your Rick copy on the live posts (TikTok 7709900991461592350, YT If70iDk7Qes).
+3. Real numbers for the three cutouts from YouTube Studio and TikTok Studio: views, average view duration, traffic source, and any "not eligible for For You / limited" notice on HOA Karen (5 plays in 4.6 h looks like a restriction, not just a weak video).
+4. #12 philosophy PASS/FIX + KEEP or toss; #10 Sat v3 frames PASS/FIX; v8 swears.
