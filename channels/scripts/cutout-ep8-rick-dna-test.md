@@ -23,7 +23,7 @@
 14. UNCLE RICK: So what am I?
 15. MEATBALL: Rick, you're everything you ever complained about. Happy Thanksgiving.
 16. UNCLE RICK: (puts on a sombrero AND a leprechaun hat) ...I contain multitudes.
-17. DOT: Take those off, Rick. That's how you got here.
+17. DOT: Take those off, Rick. Heritage isn't a hat.
 [End card: WHAT WOULD YOUR UNCLE'S DNA TEST SAY? 👇]
 
 v2 (Nolan 11/19: too much dead air): added lines so talk fills the cut; holds 0.3 s.
