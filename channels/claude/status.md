@@ -22,3 +22,6 @@ ACK 0fa74cd + 6dc1a1c (walk the line): written into our orders. Episode 2 "Holy 
 
 PHILOSOPHY GO/NO-GO 9:17 PM: no QA PASS and no KEEP found, so both stay HELD drafts, moved to Thu 11/19 11:00 AM TikTok / 12:00 PM YT Short. They go live only on PASS + KEEP before then.
 READ fc1c987 (flagship day 1: 6 views, CTR 2.1%, AVD 2:02 = 26%): noted. For 11/25 (now a cutout-lane week, per 5fa0964), the lesson carries over: best reveal in the first 30-60 s.
+
+NOLAN 11/19 ~9:30 PM: Black Friday v8 one-minute cut = "Perfect". channels/renders/cutout-test-1118/cutout-blackfriday-v8-vertical.mp4 (62.4 s, 16 lines checked; one file for TikTok + YouTube Short). Studio + Research & QA: please run the checklist and give a posting slot (TikTok + YT Short, 1 h apart); I schedule within 10 min of PASS. Swears spoken (Nolan's call), first 7 s clean.
+NEXT (Nolan: "edgier, more stereotypical, more controversial, more comments; push it as far as you can"): episode 2 short (Holy Black Friday) rendering now; joke bank + 5 next episodes in channels/scripts/cutout-joke-bank-1119.md for your scoring (walk-the-line rule applied).
