@@ -18,10 +18,19 @@ SCENE 1: Thanksgiving table at Pip's house. Uncle Rick at the head, carving a bu
 8d. PIP: ...That's not the point you think it is, Rick.
 8e. (Cousin KAYLEE, wellness influencer, filming herself) KAYLEE: Hey besties! Today I'm detoxing from turkey with my seventy-dollar celery juice. Link in bio.
 8f. MEATBALL: Kaylee, your detox tea is just a laxative with a ring light.
+8f1. KAYLEE: I'm like, super spiritual. I did yoga in Bali once.
+8f2. DOT: You took a selfie with a monk and made it your whole personality.
 8g. (Cousin BRAD, finance bro, vest, AirPods) BRAD: Bro, Thanksgiving is a bear market for carbs. I'm all in on protein.
 8h. GRANDMA: Bradley, you lost your house on a coin named after a dog.
 8i. UNCLE RICK: Look, I don't even see color.
 8j. DOT: You can't see your own feet, Rick.
+8j1. UNCLE RICK: And I'm not racist. I've got plenty of Black friends.
+8j2. PIP: Name one.
+8j3. UNCLE RICK: (long pause) ...Black Friday.
+8j4. DOT: That's a sale, Rick. You're friends with a sale.
+8j5. UNCLE RICK: Okay, okay, here's a good one. So a guy from Mexico, a guy from China and a...
+     (Grandma throws the gravy boat; it bonks Rick dead center; he slides under the table)
+8j6. GRANDMA: Not at my table, Richard.
 8k. UNCLE RICK: Kids today are always on their phones.
 8l. MEATBALL: Rick, you have four hundred friends online and all of them are scam bots named Jessica.
 8m. UNCLE RICK: Jessica gets me.
@@ -39,6 +48,7 @@ SCENE 2: TV studio, gold stage, a donation phone number spinning.
 12. PASTOR CHAD: Sow a ninety-nine dollar seed, and the Lord will bless you with this seventy-five-inch TV!
 13. PIP: That's the same TV from MegaMart.
 14. PASTOR CHAD: The Lord shops sales, Pip.
+14a. (Chad holds up a protest-style sign: GOD HATES TAXES) PASTOR CHAD: And the Lord says: never pay them. Send that money to me instead.
 15. UNCLE RICK: (already dialing) Finally, a man of God who gets me.
 16. MEATBALL: Rick. He just took your rent money live on TV and called it a blessing.
 17. UNCLE RICK: That's between me and my lord and savior, Chad.
