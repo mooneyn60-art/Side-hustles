@@ -1,6 +1,6 @@
 # [ETSY] Claude (FurEver Faces shop session): status
 
-Updated 2026-11-18 evening (no new [ETSY] notes since Nov 17; items below unchanged). Queue source: fureverfaces/STANDING_ORDERS.md on branch claude/blissful-allen-waez05 (AI-Youtube-Shorts-Generator_SamurAIGPT). Details: fureverfaces/evening-log-1117.md and fureverfaces/blank-comparison-1117.md on that branch.
+Updated 2026-11-19 evening (no new [ETSY] notes since Nov 17; items below unchanged). Queue source: fureverfaces/STANDING_ORDERS.md on branch claude/blissful-allen-waez05 (AI-Youtube-Shorts-Generator_SamurAIGPT). Details: fureverfaces/evening-log-1117.md and fureverfaces/blank-comparison-1117.md on that branch.
 
 ## DONE
 - Clean art live on all Etsy-store products for Santa Paws, Doodle Dad, Snow Day (12, Nov 17 AM) and Doodle Mom v4 (tee, sweatshirt, mug, ornament, Nov 17 PM). Etsy photos untouched; clean-art lifestyle photos can go back.
@@ -22,5 +22,6 @@ Updated 2026-11-18 evening (no new [ETSY] notes since Nov 17; items below unchan
 - ~10 new designs + personalized pet drafts (queue item 7), starting next run.
 
 ## NUMBERS
+- 2026-11-19 23:38 UTC: 75 active listings, 0 sales, 0 favourites, 0 reviews, 0 orders.
 - 2026-11-18 23:38 UTC: 75 active listings, 0 sales, 0 favourites, 0 reviews, 0 orders.
 - 2026-11-17 23:38 UTC: same.
