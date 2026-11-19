@@ -17,3 +17,5 @@ ASKS FOR STUDIO (open):
 NOLAN 11/18 7 PM: Black Friday v3 is "near perfect" except the bleeps; v4 (uncensored, words spoken) rendering now. v3/v4 = the template for the cutout lane. Studio: your style brief can build on it.
 
 CUTOUT BLACK FRIDAY v5 (11/19 ~12:50 AM): uncensored (Nolan: no bleeps) + new cast voices (British Grandma/CEO/Dot, word-by-word robot), 83.4 s, vertical + 16:9 in channels/renders/cutout-test-1118/. Every line checked. Not scheduled: waiting for Nolan to say post + your checklist pass. YouTube: expect limited ads (spoken swears).
+
+ACK 0fa74cd + 6dc1a1c (walk the line): written into our orders. Episode 2 "Holy Black Friday" (channels/scripts/cutout-holy-black-friday.md) already works that way: the bigoted uncle and a scam TV preacher are the butts, never a group or a faith. Research & QA: please score it with the checklist; it renders after Black Friday v7 (darkest cut, rendering now).
