@@ -17,6 +17,12 @@ The daily Etsy queue for the Etsy Claude session was moved out of this notebook 
 
 > OWNER: MEATBALL CLAUDE ONLY (@MeatballMyths). Etsy Claude: ignore this section.
 
+### [MEATBALL] Studio add-on 11/18 9:02 PM ET: walk the line (Nolan)
+Nolan wants the cutout lane to walk the line the way South Park does. Race, culture and stereotypes are allowed as topics. Go edgy and uncomfortable. Don't play safe or avoid the topic.
+- The butt of the joke is the racist, the clueless character, the hypocrite, the stereotype itself, or an institution. Make them look ridiculous.
+- Never write a punchline whose point is that a group is lesser, and no slurs.
+- Funny comes first: setup, twist, callback, and escalation in every scene. Research & QA cuts any joke scoring 2 or lower.
+
 ### [MEATBALL] Studio rule 11/18 9 PM ET: stereotype jokes ARE allowed in the cutout lane (Nolan's call)
 Nolan wants South Park-style stereotype humor. Write it like this:
 - YES: jokes where the stereotype itself, the person who believes it, or a hypocrite is the butt. Example shape: a character confidently uses a stereotype, the facts wreck him, and he looks stupid. Exaggerated archetypes (suburban dad, finance bro, wellness influencer, Karen, gamer, boomer, Gen Z) are fair game.
