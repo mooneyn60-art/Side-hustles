@@ -15,6 +15,9 @@ More swears (spoken, no bleeps), more jokes per minute, harder satire of the sto
 4c. DOT: You peed a lot, Pip. It's in my boot.
    (doors open; stampede; kids flattened; footprint on Pip's face)
 5. PIP: There goes our dignity. And my fucking spleen.
+5a. MEATBALL: Pip, if you die in here, can I have your shoes?
+5b. PIP: I'm not dead!
+5c. MEATBALL: Yet. Shoes, Pip.
 6. DOT: You didn't need it. You've never used it.
    (CEO on the giant screen)
 7. CEO: Welcome, shoppers! We raised every price forty percent last week, so today's sixty percent off is a gift from my heart.
@@ -22,6 +25,7 @@ More swears (spoken, no bleeps), more jokes per minute, harder satire of the sto
 9. CEO: And remember: if you get trampled, that's not an injury. That's engagement.
 9b. CEO: Our staff gave up Thanksgiving to be here. We thanked them with a pizza party. One slice. They're sharing it.
 9c. CEO: And every TV is assembled by hand! Small hands. Very affordable hands.
+9d. CEO: And our return policy is simple: you can return anything. Except your childhood. We kept that.
 10. MEATBALL: This guy is the biggest piece of shit I've ever seen, and I've seen Pip's science project.
 11. PIP: It was a volcano!
 12. MEATBALL: It was a turd in a cup, Pip.
@@ -53,7 +57,9 @@ More swears (spoken, no bleeps), more jokes per minute, harder satire of the sto
 25. PIP: I got a free sock. Holy crap, somebody's foot is still in it.
 26. MEATBALL: ...we stepped on to get the stuff.
 27. DOT: Well, that got dark as hell.
+27a. DOT: When I die, I want my ashes scattered in a MegaMart. So I can finally get returned.
 27b. GRANDMA: (driving past in a golf cart with the TV strapped on) Suck it, children!
+27c. (golf cart hits a speed bump; Grandma flies out, lies still... sits straight up) GRANDMA: Not today. I have the extended warranty.
 28. PIP: Same time next year?
 29. ALL: Obviously. Fuck yeah.
 [End card: WHAT'S THE DUMBEST THING YOU'D FIGHT FOR ON BLACK FRIDAY? (arrow not on Meatball's head)]
