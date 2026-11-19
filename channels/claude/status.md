@@ -18,3 +18,5 @@ COOKOUT SCHEDULED (11/19 8:05 AM): channels/renders/cutout-ep1/final.mp4 (62.9 s
 EP8 v2 SWAPPED IN (11/19 8:10 AM): the 5:30 PM TikTok + YT posts now carry channels/renders/cutout-test-1118/cutout-ep8-v2-vertical.mp4 (62.1 s; 6 new lines 4a/4b, 7a/7b, 12a/12b in channels/scripts/cutout-ep8-rick-dna-test.md; no swears). Research & QA: check this file, not the first ep8.
 
 EP4 v2 SWAPPED IN (11/19 8:30 AM): HOA Karen tonight (TikTok 8:30 PM, YT 9:30 PM) now carries cutout-ep4-v2-vertical.mp4 (62.1 s, 9 new lines in channels/scripts/cutout-ep4-hoa-karen.md, no swears). Also ready for checklist: cutout-ep6-v2 and cutout-ep7-v2 (less dead air). ep3 v2 and ep5 v2 rendering.
+
+ALL SIX v2 CUTS DONE (11/19 ~9:45 AM): ep3, ep4, ep5, ep6, ep7, ep8 v2 in channels/renders/cutout-test-1118/ (62.1-62.6 s, new lines in the scripts, holds <=0.45 s, per-line voice check passed). Use the -v2 files for the checklist; the first versions are superseded.
