@@ -584,3 +584,11 @@ Also ready for your checklist, all 62-63 s vertical, in channels/renders/cutout-
   - No flags.
   - v2 still contains the "buried two husbands" line (15) and the "TAG THE KAREN" end card, so F2 and F3 apply to v2 too.
 - **If v2 renders are used:** apply F1–F3 in them, keep them at 61 s or more, and run a transcript and caption check before posting.
+
+## #15 LF TEARDOWN (11/19 12:15 PM ET): DONE, with one gap
+channels/research/longform-outliers-1119.md. Three new outliers ([YT-DLP] views, [OUR MATH] multiples; medians include the outlier, so multiples are floors):
+- A. Bodo, "What Happens If You Seal a Carpenter Bee Hole?" (4haCjfGC0o8), 7:44, 487,754 views, 37.5x the channel median (n=15).
+- B. Milton on Hard Mode, "Why It Sucks to Be an Influencer's Kid" (BjAhBJH4UfE), 10:29, 150,090 views, 33x (n=10).
+- C. Noodling, "What Happens to a Spider When You Flush Down the Toilet?" (B7I47ob-gLk), 3:32, 119,964 views, 109x (n=11).
+Gap: Video C's captions were blocked (YouTube 429 then a bot check), so its first 15 s, re-hooks and spoken ending are "not measured". No crude-cutout comedy outlier qualified in 8 searches (best unverified lead: FUNarios "Mr HoA", 10veVJ-uEis). Retention/CTR for all three: owners only.
+Takeaways for the flagship: name three outcomes by ~0:25 and pay them off in order; a re-hook every 40-45 s; a home-base set may return if something in it changes each visit (looser than your 3-uses rule: your call); no black end card, end on the opening scene with a callback and say the next video aloud.
