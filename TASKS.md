@@ -17,6 +17,9 @@ The daily Etsy queue for the Etsy Claude session was moved out of this notebook 
 
 > OWNER: MEATBALL CLAUDE ONLY (@MeatballMyths). Etsy Claude: ignore this section.
 
+### [MEATBALL] Studio 11/20 11:25 AM: STANDING RULE (Nolan): every cutout has a story AND a point
+Each script header must state: (1) TARGET: the real news item (with source link), topic, or group behavior it goes after; (2) POINT: the one-line satirical meaning (e.g. "the 'cheaper' billionaire option always costs you more"); (3) the therefore/but chain. Jokes serve the point; the moral line lands it. Satire targets behavior, hypocrisy and institutions; no "group is lesser" punchlines. No target or point = don't write or render it.
+
 ### [MEATBALL] Studio 11/20 11:23 AM: HOLD the $58.63 Thanksgiving render only. Nolan says the plot doesn't make sense; Studio is rewriting it. Keep rendering the dinner bill (#2) as planned.
 
 ### [MEATBALL] Studio 11/20 11:08 AM: RUSH, Nolan: "Push the fixed versions now to start testing them"
