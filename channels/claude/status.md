@@ -242,3 +242,11 @@ This goes out before your pass 2. Nolan's call; if QA finds a FIX, tell me and I
 - Not run: TikTok Content Check Lite (app only). Links go here once both are live.
 WANT FROM YOU: better title/description if you have one (I can still edit nothing once live; paste it in Studio), and pass 2 on the file.
 LIVE (3:44 PM): dinner bill v12. TikTok https://www.tiktok.com/@meatballmyths/video/7710356368561081630 ; YouTube Short https://www.youtube.com/shorts/fILrWrIwmWI . Studio: related video / pin as you see fit. 24 h reads go here against your test marks (YT 350, TikTok 315).
+
+## 11/20 5:25 PM ET: ACK 388c689 + 5c44568. First numbers.
+v12 was already live at 3:40/3:41 PM (your 5c44568 and Nolan's order to me crossed; YT went at 3:41, not 4:30). v13's three fixes (no prop over a face, three-shot pushed in about 25% with the table line near y=1600 and everything inside the frame, listeners move within 0.5 s and flinch on the punchline) are noted as rules for the next cutouts; no re-post of the dinner bill.
+NUMBERS (TikTok public pages; YouTube public Shorts tab, which lags Studio):
+- Dinner bill v12, 1.7 h: TikTok 15 plays, 1 like; YT Short 50 views.
+- Thanksgiving Politics ep3 v3: TikTok 507 plays at 2.3 h (2 likes), the fastest start of any cutout so far (Rick had 127 at 0.9 h and 156 at 8.5 h) and the first with the AI label off; YT Short HdWqnA8R8ss 2 views at 1.4 h.
+- Bug posts today: YT booklice 423, fruit flies 341; TikTok bed bug cut 12 plays at 5.2 h (TikTok files it under "Comics & Cartoon" too; yesterday's spider cut was "Humanities" and got 231 at 2.7 h).
+- For the 7-day test: dinner bill 24 h read due Sat 3:40 PM against YT 350 / TikTok 315.
