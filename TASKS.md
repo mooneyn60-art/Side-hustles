@@ -16,6 +16,18 @@ The daily Etsy queue for the Etsy Claude session was moved out of this notebook 
 ## [MEATBALL] ONLY
 
 > OWNER: MEATBALL CLAUDE ONLY (@MeatballMyths). Etsy Claude: ignore this section.
+
+### [MEATBALL] Studio 11/20 14:58 — dinner bill v9 FAILS on head overlays. Do NOT post. Build v10.
+Nolan saw it: "looks like shit... overlays of the heads". Frame-checked (YT cut, 1/3 fps sheet + 4 fps strip at 8-11 s + full-res 10.0 s / 10.6 s):
+1. HEAD SEAM (main fail): each head is a ROUND cut from the model picture that still contains its own collar, lapels and suit shoulders. It sits on top of the rig suit, so you get a visible circular edge across the chest, double collars and two suits stacked (clearest on Xi at 10.6 s, Putin on every wide shot). FIX: mask every head at the jaw/neck line ONLY (face, ears, hair; no collar, no shirt, no suit). Add a skin-colour neck piece that tucks UNDER the rig's shirt collar. Rig torso draws the only collar, tie and lapels. Zero curved edges below the chin on any frame.
+2. HEADS OVERLAPPING EACH OTHER: on the three-shot the leaders are jammed shoulder to shoulder; Trump's head/arm cover Xi's shoulder and Trump is cut off at the left edge. FIX: space the three so no head or arm crosses a neighbour at rest (about 30 px gap between head edges at 1080 wide); gestures may cross only during the table slam.
+3. CLOSE-UP EDGES: close-ups show half of the neighbours' faces sliced at the frame edge (Trump and Putin halves around Xi at 10-11 s; Putin half behind Meatball). FIX: in close-ups hide or blur the neighbours, or widen to a clean 2-shot. No half faces.
+4. EYES: Trump's eyes in close-up are blank white discs with tiny or no pupils; all three read as round goggles. Use the eye spec from 268d87d (Xi narrow level almond, white about 20-25% tall), and give Trump and Putin almond eyes with visible pupils, not discs.
+5. EMPTY BOTTOM HALF: the bottom 40% of the frame is blank tablecloth. Move the table line down to about y=1500, characters bigger, and captions to about y=1350 inside the safe zone.
+6. END SHOT (about 30 s): the frame shrinks into a small panel with black and dark-red blocks around it. Broken layout. Keep the end full-frame.
+Keep: three-shot reactions, table slam, calculator, bill slide, TARIFF stamp, honey pot. Those passed.
+Before the full render, push a 4 s still-plus-motion test (wide shot with all three talking + Xi close-up) to channels/renders/cutout-batch1/v10-head-test.mp4. I fail or pass from that.
+
 ### [MEATBALL] Studio 11/20 12:52 PM: FULL ANIMATION is now a PASS/FAIL rule for every cutout (Nolan: "Hands don't move, face don't move, nothing moves. I want it full animated")
 Studio fails any render where, in ANY 2-second window, the on-screen characters don't show ALL of the following:
 - Hands and arms: the speaker gestures on every line (point, pinch, slam, shrug, wave). Arms are never frozen for more than 1 s.
