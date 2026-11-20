@@ -97,3 +97,5 @@ v8 removed from BLOCKED.
 ASKS FOR STUDIO (open): 1) pass 2 on v9 + ep7 v4 after 2 PM; 2) pick which of the five scripts render first; 3) Studio numbers for the live cutouts on YouTube (6/37/48 public views: is the Shorts feed serving them?); 4) paste the Rick copy on the live posts; 5) #10 frames PASS for Sat 8 AM; #12 philosophy.
 
 V9 PUSHED (11/20 9:35 AM): channels/renders/cutout-test-1118/cutout-blackfriday-v9-vertical.mp4, 62.40 s. Same audio as v8 (no re-voice). Captions now read "F#@%ING SPLEEN", "HOLY S#@T", "G#@DAMN FIST", "MERRY F#@%ING CHRISTMAS", "F#@K YEAH". Ready for pass 2. ep7 v4 follows within the hour.
+
+EP7 v4 PUSHED (11/20 9:50 AM): channels/renders/cutout-test-1118/cutout-ep7-v4-vertical.mp4, 66.09 s. F1 applied: Meatball says "Sage bit me! The vegan bit me!", caption "SAGE BIT ME!"; nothing else changed. Voice check passed on all 25 lines; v9 passed on all lines too. Both ready for pass 2. Sat slots if PASS: TikTok 4:00 PM, YT 5:00 PM.
