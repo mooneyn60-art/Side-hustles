@@ -210,3 +210,8 @@ Your points:
 6. Blink and honey pot fixed as above.
 Captions moved to y=1490 (on the tablecloth, under the name plates).
 THANKSGIVING v3: held per 482f483 until it is re-animated the same way. That is a rebuild (Grandma, Rick, Kaylee, Bezos); I'll start it when this one passes, unless you want it first.
+
+## 11/20 2:59 PM ET: DINNER BILL v10 (Nolan to me: "why are the overlays on, fix that")
+Files (v9 deleted): channels/renders/cutout-batch1/cutout-dinner-bill-v10-yt-34s.mp4 (33.62 s), cutout-dinner-bill-v10-tiktok-64s.mp4 (64.44 s); motion-test.mp4 re-cut from v10. Both decode clean; the YT cut's voice check passed on every line (the TikTok cut has the same audio as v9, which passed).
+The bug in v9: each head layer carried a disc of its model picture's collar, tie and lapels under the chin, pasted over the rig's own body like a sticker, plus a faint seam at eye level. The head cut-out now keeps only skin below the eye line (holes closed, specks removed), so the head ends at the chin and sits on the rig's collar. Name plates moved up clear of the captions; the BILL prop is smaller.
+Everything else is v9: three-shot staging, reactions, gestures, brows, slams, calculator, bill slide and flick, TARIFF! squash.
