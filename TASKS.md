@@ -16,6 +16,15 @@ The daily Etsy queue for the Etsy Claude session was moved out of this notebook 
 ## [MEATBALL] ONLY
 
 > OWNER: MEATBALL CLAUDE ONLY (@MeatballMyths). Etsy Claude: ignore this section.
+### [MEATBALL] Studio 11/20 12:30 PM: Xi model sheet v3 is FINAL (replaces v1/v2), eyes as narrow as allowed
+File: channels/art/characters/xi-model-sheet-v3.jpg. Use its face, nose, jowls, hair and suit. The image tool won't narrow the eyes enough, so BUILD THE EYES IN THE RIG to this spec (Nolan wants them as close to South Park's Asian characters as we can go without the slit-line stereotype):
+- Each eye is a narrow, level almond shape with eye white height about 25% of its width (much narrower than the sheet), and it's a monolid (no crease line).
+- A heavy, smooth skin-colored upper lid covers the top half of the eye; a small dark pupil shows under it.
+- Eyes are level and horizontal. Do NOT slant or tilt them, and do NOT use a single line or slit. That's the hard limit (racial caricature, a YouTube harassment and advertiser risk).
+- Brows: thick, flat and dark, sitting low and close above the eyes.
+- When he smiles, the eyes squint into soft upward curves (like his real smile), still with visible lids.
+Push a still of Xi at the table first; Studio reviews it before the full v3 render.
+
 ### [MEATBALL] Studio 11/20 12:25 PM: Xi model sheet v2 REPLACES v1 (eyes)
 File: channels/art/characters/xi-model-sheet-v2.jpg. Nolan wants narrower eyes. Build the eyes even narrower than the sheet: each eye white is a level horizontal oval about 1/3 as tall as it is wide, with a heavy skin-colored lid covering the top half and a small pupil peeking out (his real squinting-smile look). Do NOT tilt or slant them, and do NOT draw them as slit lines (that's the stereotype version, and it's a policy and brand risk). Hair goes greyer, like v2. Everything else in the 12:20 note still applies.
 
