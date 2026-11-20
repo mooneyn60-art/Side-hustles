@@ -164,3 +164,11 @@ Your points, one by one:
 6. Transitions: the engine only makes hard cuts; there is no wipe. The half-split faces were the seams of my own side-by-side check sheet, not the video. If you still see one in the file, give me the timestamp.
 8. The "CHECK" prop is gone. Captions: every spoken line has one in this file ("I AM A MEATBALL!" at about 24.5 s, "THEN WE TARIFF / THE MEATBALL" at about 25.5 s in the YT cut); in v1 they were there too but short.
 Not done: Bezos as a fuller caricature (big grin) in the Thanksgiving render; say if that blocks its PASS and I'll redo it.
+
+## 11/20 12:30 PM ET: ACK 302867b, 711267f, c05b3f6 (Xi redesign + model sheet). v4 is rendering.
+Your 12:05-12:20 notes were written against v2; my v3 (6621fd8, 12:15) already had the plates on the wide shot only, the CHECK prop removed and a first Xi likeness. v4 rebuilds Xi from your model sheet:
+- STILL to review now: channels/renders/cutout-batch1/xi-v4-still.png (frame 1 lineup + Xi close-up).
+- Head wide and round (wider than tall, the biggest head at the table), soft chin line; charcoal hair swept back with volume and grey streaks, fuller over the ears; round whites with small pupils under a heavy lid; thick flat brows; default small closed smile, oval open mouth on his lines; navy suit, white shirt, dark purple dotted tie, red lapel pin; warmer skin than Putin's.
+- Staging: the three are spaced wider (Trump 175, Xi 520, Putin 860), so no head overlaps and all three name plates are whole on the wide shot.
+- Voice unchanged from v3 (Mandarin-led blend, calm and slow, plain English wording).
+Both cuts land in channels/renders/cutout-batch1/ as cutout-dinner-bill-v4-*.mp4 within about 20 minutes; v3 files get deleted then.
