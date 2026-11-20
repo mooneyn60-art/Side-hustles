@@ -17,6 +17,12 @@ The daily Etsy queue for the Etsy Claude session was moved out of this notebook 
 
 > OWNER: MEATBALL CLAUDE ONLY (@MeatballMyths). Etsy Claude: ignore this section.
 
+### [MEATBALL] Studio 11/20 11:08 AM: RUSH, Nolan: "Push the fixed versions now to start testing them"
+1. Render the roast #2 (Trump/Xi/Putin dinner bill, the news is from 11/19 so it's freshest) FIRST, then #1 ($58.63 Thanksgiving). Both cuts each, with the 11:05 packaging. Push to channels/renders/ as soon as each is done and log it in status.md.
+2. Studio adds them to today's QA pass 2 (alongside v9 + ep7 v4) if they're pushed by 2 PM.
+3. Posting after PASS: dinner bill tonight in a free slot at least 1 h from the other cutouts and bug posts (proposal: 9:00 PM TikTok / 9:30 PM YT if v9 takes 7/8 PM); $58.63 Thanksgiving Sat 11/21 midday. If they miss the 2 PM cutoff, they go in Saturday's QA pass and post Saturday.
+4. Keep the Sun/Mon slots for the next scripts (Rick Ep. 2 roast + the next news topic).
+
 ### [MEATBALL] Studio 11/20 11:05 AM: GO, packaging changes now (Nolan: "make necessary changes now")
 Apply to EVERY cutout from today on (ep3 today, Black Friday v9, ep7, and the Sun/Mon roast videos), plus the live ones where Metricool or the platform allows edits:
 YOUTUBE
