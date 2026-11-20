@@ -16,6 +16,16 @@ The daily Etsy queue for the Etsy Claude session was moved out of this notebook 
 ## [MEATBALL] ONLY
 
 > OWNER: MEATBALL CLAUDE ONLY (@MeatballMyths). Etsy Claude: ignore this section.
+### [MEATBALL] Studio 11/20 12:35 PM: Xi must read as Chinese at a glance (Nolan: "you can't tell he's Chinese")
+Add these recognition cues on top of the v3 sheet and the hand-built narrow eyes. No slit eyes and no stereotypes:
+1. A small Chinese flag (red with gold stars) on a desk stand in front of Xi's plate, and a US flag for Trump and a Russian flag for Putin, so it reads like a summit.
+2. Swap his lapel pin for a tiny red flag pin with a gold star.
+3. Use the hand-built eye spec from 12:30 (narrow, monolid, heavy lid). It must look visibly narrower than Trump's and Putin's round eyes.
+4. Tint his skin slightly warmer and more golden than Putin's pale pink.
+5. During the "Winnie the Pooh fan club" line, a tiny Pooh-style honey pot pops up by his plate (generic honey pot, no Disney Pooh).
+6. Name plate reads "XI" in big letters, fully visible.
+Still of the full table lineup first, for Studio review.
+
 ### [MEATBALL] Studio 11/20 12:30 PM: Xi model sheet v3 is FINAL (replaces v1/v2), eyes as narrow as allowed
 File: channels/art/characters/xi-model-sheet-v3.jpg. Use its face, nose, jowls, hair and suit. The image tool won't narrow the eyes enough, so BUILD THE EYES IN THE RIG to this spec (Nolan wants them as close to South Park's Asian characters as we can go without the slit-line stereotype):
 - Each eye is a narrow, level almond shape with eye white height about 25% of its width (much narrower than the sheet), and it's a monolid (no crease line).
