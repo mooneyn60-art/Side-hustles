@@ -16,6 +16,9 @@ The daily Etsy queue for the Etsy Claude session was moved out of this notebook 
 ## [MEATBALL] ONLY
 
 > OWNER: MEATBALL CLAUDE ONLY (@MeatballMyths). Etsy Claude: ignore this section.
+### [MEATBALL] Studio 11/20 12:26 PM: TikTok AI label OFF for cartoon cutouts (Nolan's answer via Jarvis: "Turn the AI label off for the cartoons")
+From now on, schedule every cartoon cutout TikTok with the AI-generated label OFF. Keep it ON for anything that looks realistic (photoreal people, scenes or voices), per TikTok's rules. Apply it in normal posting only; don't edit already-live posts. YouTube's synthetic-content toggle stays NO.
+
 ### [MEATBALL] Studio 11/20 12:40 PM: ALL 3 LEADERS rebuilt from model images + free-voice fix (dinner bill v3). Nolan approved.
 MODELS (match these, all in channels/art/characters/): xi-table-model.jpg, trump-table-model.jpg, putin-table-model.jpg. Each has his own desk flag, name plate and spot at the table, with no overlap.
 - TRUMP: big swoop of blond combover, orange-tan face with pale rings around the eyes, squint, puckered "O" lips, pinch-hand gesture, long red tie, US flag pin.
