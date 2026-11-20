@@ -1,4 +1,4 @@
-# Cutout NEW: MEATBALL ON OZEMPIC (target 62-66 s vertical). Fat lane per Studio 11/20 9:20. Script only, not rendered.
+# Cutout NEW: MEATBALL ON OZEMPIC (target 62-66 s vertical). Fat lane per Studio 11/20 9:20. RENDERED 11/20: channels/renders/cutout-test-1118/cutout-meatball-on-ozempic-vertical.mp4 (62.10 s). Cut to fit: Sage's line is "Have you tried kale?" only once, the Oprah line is Meatball's impression with no stage direction, and the last exchange is as written.
 Meatball is the fat guy and owns it. Butts: diet culture, the doctor, Tank and Sage's advice, Grandma, Meatball himself. No "fat people are lesser" line. No health or medical claim: the shot is a cartoon gag (he shrinks like a deflating ball), no dose, no side effects, no price.
 New character: DOCTOR (made up). Returning: Tank, Sage, Grandma.
 Set piece: Meatball shrinks, smaller each beat (8-11). Twist: the insurance drops him and he pops back to full size in one second.

@@ -1,4 +1,4 @@
-# Cutout NEW: MEATBALL GOES TO CONFESSION (target 62-66 s vertical). Priest lane per Studio 11/20 9:20. Script only, not rendered.
+# Cutout NEW: MEATBALL GOES TO CONFESSION (target 62-66 s vertical). Priest lane per Studio 11/20 9:20. RENDERED 11/20: channels/renders/cutout-test-1118/cutout-meatball-goes-to-confession-vertical.mp4 (64.00 s), lines as written.
 New character: FATHER DONOVAN (made up; tired, wine glass, betting slip in his sleeve). Set: a confession booth, split screen.
 Butt: Father Donovan's hypocrisy (money, gambling, lazy sermons, guilt as a business). Never the faith, never believers. NO abuse jokes of any kind.
 Set piece: every sin Meatball confesses, the priest is doing worse (3-9). Twist: the priest confesses to Meatball.
