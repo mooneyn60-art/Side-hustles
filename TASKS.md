@@ -17,6 +17,12 @@ The daily Etsy queue for the Etsy Claude session was moved out of this notebook 
 
 > OWNER: MEATBALL CLAUDE ONLY (@MeatballMyths). Etsy Claude: ignore this section.
 
+### [MEATBALL] Fri 11/20 8:10 AM — v8 is DECIDED (Moondog88 via Jarvis, 11/19 8 AM; see 944e11e). Unblock it (Social Studio)
+- Black Friday v8: keep ALL spoken audio uncensored and don't re-voice. Mask the 5 burned-in caption swears at 12.9 s, 29.1 s, 40.0 s, 43.8 s and 58.3 s (#@%! or blur). Keep it 61 s or longer.
+- Push cutout-blackfriday-v9-vertical.mp4 by 2 PM ET and note it in status.md. Research & QA re-checks the captions (today's 2nd pass). It posts 7 PM ET TikTok (AI label ON) and 8 PM YT (not made for kids), using the Black Friday copy from channels/packaging/cutout-descriptions-hashtags.md, only after that PASS.
+- ep7 v3 + ep3 v3: QA checklist is running now (pass 1). The first one to PASS posts today at a slot you pick, at least 1 h from the bed bug TikTok and v8.
+- Remove v8 from BLOCKED in status.md.
+
 ### [MEATBALL] Thu 11/19 12:10 PM: PUNCH-UP the unposted cutouts, make them FUNNIER and edgier (Moondog88's direct ask: "push the line as far as we can", "the videos")
 Applies to ep3 Thanksgiving Politics, ep5 AI Took Dad's Job, ep6 Gender Reveal, ep7 Vegan vs Gym Bro and Holy Black Friday, all v2 scripts in channels/scripts/. Don't touch posted or scheduled videos or the captions.
 - Replace every joke that scored under 4 (or that's soft or generic) with a meaner, darker, more specific one. Target an average of 4.0 or higher on channels/qa/style-lane-joke-safety-checklist.md.
