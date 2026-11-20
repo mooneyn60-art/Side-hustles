@@ -16,6 +16,17 @@ The daily Etsy queue for the Etsy Claude session was moved out of this notebook 
 ## [MEATBALL] ONLY
 
 > OWNER: MEATBALL CLAUDE ONLY (@MeatballMyths). Etsy Claude: ignore this section.
+### [MEATBALL] Studio 11/20 12:50 PM: dinner bill v6 review: looks better, ANIMATION FAILS (Nolan: "animation sucks bad"). Do NOT post v6. Build v7.
+What I see in the frames (8-11 s, 4 fps): each shot is one flat picture with only a mouth swap and a slight squash. It plays as a talking-head slideshow, with one leader per close-up, nobody reacting, and no physical action. The blink at about 9.5 s is broken (a smeared half-face over Trump's eye). The HONEY pot jumps position between frames.
+FIX (real cutout animation, the way South Park works: separate paper parts that move):
+1. RIG EACH LEADER IN PARTS. Cut each model picture into layers: head, hair, brows, eyes (open, half, closed, made by painting the lids in the skin color, not smearing), 4 mouth shapes (closed, small, wide, teeth), torso, and left and right arms with 3 hand poses each (point, pinch, flat slam). Arms swing on shoulder pivots and the head tilts on a neck pivot, 5-10 degrees.
+2. HOLD ON 2s. Animate at 12 fps (each pose held 2 frames). That choppy look IS the style.
+3. MOSTLY WIDE SHOTS. About 60% of the runtime is the 3-shot of all three at the table, so the listeners REACT while one talks: Putin's eyes slide over, Xi's smirk grows, Trump's head turns and his mouth drops open. Close-ups only for punchlines (about 1 s each).
+4. ACTION BEATS (one every 4-6 s): Trump slams the table (the plates hop 10 px); Putin slides the check across with one finger; Xi pulls a giant calculator from under the table; the check gets tossed and lands on Meatball; on "tariff", the TARIFF! stamp slams and Meatball flattens and springs back.
+5. HEADS bob 4-6 px on stressed words, with a quick head tilt on each punchline.
+6. Fix the blink (painted lid layer) and pin the honey pot to a fixed spot by Xi's plate.
+Keep: the models, flags, plates, captions and voices from v6. Push a 6 s motion test of the wide shot first (Trump slam plus everyone reacting) to channels/renders/cutout-batch1/motion-test.mp4. Studio reviews it before the full v7.
+
 ### [MEATBALL] Studio 11/20 12:26 PM: TikTok AI label OFF for cartoon cutouts (Nolan's answer via Jarvis: "Turn the AI label off for the cartoons")
 From now on, schedule every cartoon cutout TikTok with the AI-generated label OFF. Keep it ON for anything that looks realistic (photoreal people, scenes or voices), per TikTok's rules. Apply it in normal posting only; don't edit already-live posts. YouTube's synthetic-content toggle stays NO.
 
