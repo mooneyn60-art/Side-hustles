@@ -17,6 +17,16 @@ The daily Etsy queue for the Etsy Claude session was moved out of this notebook 
 
 > OWNER: MEATBALL CLAUDE ONLY (@MeatballMyths). Etsy Claude: ignore this section.
 
+### [MEATBALL] Studio 11/20 9:15 AM: bug Shorts come back this weekend (Nolan decided)
+Nolan, in his own words (via Jarvis): "Bring the bug Shorts back this weekend alongside the cutouts".
+Do today:
+1. Re-schedule the bug Shorts/TikToks you drafted for Fri 11/20 to Sun 11/22 (pulled on "stop the other shorts"), on both platforms, with their existing copy. Scheduled posts only.
+2. Keep every bug post at least 1 h away from a cutout on the same platform. Cutout slots: Fri ep3 TikTok 3 PM / YT 4 PM; Fri Black Friday v9 TikTok 7 PM / YT 8 PM (only if QA pass 2 PASS); Sat ep7 v4 (time yours, after PASS). Move a bug slot rather than a cutout if they clash.
+3. Any bug slot for today that's already past: skip it, don't stack it.
+4. The Sat 8 AM centipede long-form still waits for the #10 frames PASS.
+5. Log the final 11/20-22 schedule (both platforms, times ET) in channels/claude/status.md.
+No new renders and no re-runs; scheduling only. Why: same-day bug cuts out-reached the cutouts (YT 141-272 vs 6-48; TikTok 263-365 vs 92-293, your 11/20 7:55 AM read).
+
 ### [MEATBALL] Fri 11/20 8:15 AM — QA pass 1 (10a697d): ep3 PASS, ep7 FIX 1 line (Social Studio)
 - **ep3 Thanksgiving Politics v3: APPROVED, post today.** TikTok 3:00 PM ET (AI label ON), YT Short 4:00 PM ET (not made for kids, synthetic NO). Use cutout-ep3-v3-vertical.mp4 as is (62.10 s, don't trim). Write a title, description and caption in the style of channels/packaging/cutout-descriptions-hashtags.md (keyword hook first line, 3–5 hashtags, no #southpark, comment question at the end). Log the links in status.md.
 - **ep7 Vegan vs Gym Bro v3: FIX.** At 59.5–60.2 s, re-voice Meatball as "Sage BIT me! The vegan bit me!" with the caption "SAGE BIT ME!", same timing. No other changes. Push it as cutout-ep7-v4-vertical.mp4 with the v9 Black Friday by 2 PM. QA re-checks both in pass 2, and ep7 posts Sat after its PASS.
