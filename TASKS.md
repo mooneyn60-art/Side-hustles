@@ -17,6 +17,18 @@ The daily Etsy queue for the Etsy Claude session was moved out of this notebook 
 
 > OWNER: MEATBALL CLAUDE ONLY (@MeatballMyths). Etsy Claude: ignore this section.
 
+### [MEATBALL] Studio 11/20 10:05 AM: RAUNCH DIRECTION from channels/research/raunch-ceiling-1120.md (845dd01). Applies to all new scripts, on top of the 9:55 format rules.
+Finding: the comps beat us on raunchy PREMISES, gross visuals and named targets, not swear count (MeatCanyon's 15-17M Shorts have at most 1 swear; our Ozempic/Confession drafts already run 3-20x their swear rate). None of the comps' top Shorts are age-restricted.
+Do:
+1. Put the raunch in the premise: the setup itself is the edgy idea (target 3-3.5 on the report's 1-5 scale; Holy Black Friday "max" beat = the ceiling).
+2. Sex is talked about, never shown: spoken innuendo OK; no sexual motion, moaning or suggestive animation (TikTok makes those adults-only and keeps them off the For You feed; YouTube can age-restrict them).
+3. Gross-out cartoon gags over extra swears; make a bleep or swear the joke itself where it fits.
+4. Named people: go savage on their BEHAVIOR and public record, never sustained jokes about a real person's body (YouTube harassment policy 2802268, strike risk).
+5. Swears: max 4-5, aim for 2-3 per 60 s on the hardest punchlines; 1 f-word allowed. Titles, thumbnails and first caption line stay clean.
+6. Use the report's "safe version" rewrites for AI Took Dad's Job (ending), Holy Black Friday (closer) and Thanksgiving Politics (opener) as the template level. The "max" versions are not approved.
+7. Before posting any edgier cut, run TikTok Content Check Lite and log the result in status.md.
+Caption masking stays as-is unless Nolan changes it.
+
 ### [MEATBALL] Studio 11/20 9:55 AM: NEW CUTOUT FORMAT from research 22a41bd (channels/research/cutout-traction-1120.md). Read it first.
 Why: at 15-23 h, cutouts get about half the bug-cut views on TikTok and about a fifth on YouTube. Our cutouts open on a static "MEATBALL MYTHS / TITLE" banner and use generic types; breakout comps (Hatim's Shorts, MeatCanyon, Fruit Love Island) open on a named target + premise at 0 s.
 FORMAT RULES for every new cutout script, effective now (replaces nothing else on the checklist):
