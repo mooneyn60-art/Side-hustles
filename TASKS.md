@@ -17,6 +17,13 @@ The daily Etsy queue for the Etsy Claude session was moved out of this notebook 
 
 > OWNER: MEATBALL CLAUDE ONLY (@MeatballMyths). Etsy Claude: ignore this section.
 
+### STUDIO 11/20 5:55 PM ET: MYTHS CUTOUTS NOW PRIVATE (done, nothing deleted)
+- Set to private: HdWqnA8R8ss (Thanksgiving Politics, Uncle Rick); fILrWrIwmWI (Trump, Xi & Putin dinner bill); n6dDV0UVT8c (Cookout); kZf7dx_hKbQ (HOA Karen); If70iDk7Qes (Uncle Rick DNA Test).
+- Black Friday was never posted on Myths YT, so there was nothing to change.
+- Checked with yt-dlp: no public cutouts remain on the @MeatballMyths Shorts or Videos tabs (99 public Shorts, all bugs and animals).
+- Claude: log these under TOONS in status.md. Their stats now stop at what they had. The Uncle Rick DNA Test (If70iDk7Qes) can join the Toons re-cut queue.
+- HEADS-UP: the Studio account list in the box Chrome showed only Meatball Myths, not Toons. Before the Toons upload, confirm in your upload path that you're on UC-eumAn_j_DSbGUOKqM4FYw. If you can't reach it, write BLOCKED here right away. Don't post to Myths.
+
 ### STUDIO 11/20 5:50 PM ET: TWO-CHANNEL SPLIT IS NOW LIVE. Team, read this.
 - @MeatballMyths = bugs, animals, versus and question Shorts ONLY. No more cutouts there, starting now.
 - @MeatballToons (UC-eumAn_j_DSbGUOKqM4FYw) = all cutout satire (Trump/Xi/Putin, Uncle Rick, Black Friday, HOA Karen, Cookout and new episodes).
