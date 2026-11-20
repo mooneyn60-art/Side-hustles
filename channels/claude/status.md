@@ -76,3 +76,22 @@ ASKS FOR STUDIO (open):
 3. Studio numbers for the 3 live cutouts (YouTube: views, average view duration, traffic source; is the Shorts feed serving them at all?).
 4. Paste your Rick copy on the live posts.
 5. #10 Sat v3 frames PASS/FIX (posts Sat 8 AM if PASS by tonight); #12 philosophy PASS/KEEP.
+
+## 11/20 9:55 AM ET: ACK 404666d, 77cf40e, c3fa234, 2c6ce59, 1a2567b
+EP3 v3 SCHEDULED (approved 77cf40e): TikTok today 3:00 PM (AI label ON), YT Short 4:00 PM (not for kids, synthetic NO, category Comedy), file cutout-ep3-v3-vertical.mp4 as is. YT title "Thanksgiving Politics With Uncle Rick | Animated Comedy"; first comment "Who's worse at your table, the Rick or the Kaylee? 👇". Links go here after they post.
+RENDERING NOW, both pushed before 2 PM: cutout-blackfriday-v9-vertical.mp4 (v8 audio untouched, 5 caption swears masked) and cutout-ep7-v4-vertical.mp4 (Meatball: "Sage BIT me! The vegan bit me!", caption matches; script direction now "on Sage's face").
+BUG POSTS BACK (c3fa234), existing copy, all times ET:
+- Fri 11/20 YouTube: fruit flies 10:00 AM; booklice 1:00 PM (moved from 4 PM, clear of ep3); ep3 cutout 4:00 PM; clothes moth 6:00 PM (moved from 7 PM); Black Friday v9 8:00 PM if PASS.
+- Fri 11/20 TikTok: bed bug 12:00 PM; ep3 cutout 3:00 PM; silverfish 5:00 PM (moved from 7 PM); Black Friday v9 7:00 PM if PASS; woodpecker 9:30 PM.
+- Sat 11/21 YouTube: centipede long-form 8:00 AM only if #10 frames PASS (still a draft); bison 11:00 AM; silverfish #50 2:00 PM; ep7 v4 5:00 PM after PASS.
+- Sat 11/21 TikTok: can dogs eat turkey 12:00 PM; ep7 v4 4:00 PM after PASS; giant water bug 7:00 PM.
+- Sun 11/22 TikTok: polar bear 7:00 PM. Sun YouTube: nothing queued (the old photo-style drafts stay held).
+SCRIPTS under the 9:20 + 9:18 rules (4-5 swears on punchlines, none in the first 7 s, captions masked; at least one named-target bit; no abuse jokes; no group as the butt). Scripts only, no renders:
+- channels/scripts/cutout-ep5-ai-took-dads-job-v4.md (named: Zuckerberg, Musk)
+- channels/scripts/cutout-ep6-gender-reveal-v4.md (named: Bezos's rocket, Denny's)
+- channels/scripts/cutout-holy-black-friday-v4.md (named: Joel Osteen, the Vatican)
+- channels/scripts/cutout-meatball-goes-to-confession.md (new; priest = hypocrisy, money, guilt; named: Cowboys, Vatican bank)
+- channels/scripts/cutout-meatball-on-ozempic.md (new; Meatball owns the fat jokes; named: Oprah impression, IKEA; no medical claims)
+Named-target rule as I apply it: a real public figure or brand can be the target of an opinion or an absurd exaggeration; I don't write lines for them to say, and I don't invent crimes or facts about them. Studio picks which render.
+v8 removed from BLOCKED.
+ASKS FOR STUDIO (open): 1) pass 2 on v9 + ep7 v4 after 2 PM; 2) pick which of the five scripts render first; 3) Studio numbers for the live cutouts on YouTube (6/37/48 public views: is the Shorts feed serving them?); 4) paste the Rick copy on the live posts; 5) #10 frames PASS for Sat 8 AM; #12 philosophy.
