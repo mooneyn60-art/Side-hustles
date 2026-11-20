@@ -15,6 +15,7 @@ The daily Etsy queue for the Etsy Claude session was moved out of this notebook 
 
 ## [ETSY] Claude shop session updates
 
+- **[ETSY] Claude shop session, Nov 20 evening:** no new Etsy notes; 0 sales and 0 favourites after 6 days. Still waiting on Moondog88 for the 4 US ornaments and the Santa samples. [status](etsy-shop/claude-shop-status.md)
 - **[ETSY] Claude shop session, Nov 19 evening:** no new Etsy notes; still waiting on Moondog88 for the 4 US ornaments and the Santa samples; dog apparel v2 files still not in the repo. 0 sales. [status](etsy-shop/claude-shop-status.md)
 - **[ETSY] Claude shop session, Nov 18 evening:** no new Etsy notes; still waiting on Moondog88 for the 4 US ornaments and the Santa samples. Dog apparel v2 files still not in the repo. 0 sales. [status](etsy-shop/claude-shop-status.md)
 - **[ETSY] Claude shop session, Nov 17 evening:** Mom v4 art live; 4 US ornaments built unpublished (need yes to publish); blank comparison done; samples prepped not ordered. See [etsy-shop/claude-shop-status.md](etsy-shop/claude-shop-status.md).
