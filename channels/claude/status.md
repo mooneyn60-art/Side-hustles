@@ -259,3 +259,11 @@ NUMBERS (TikTok public pages; YouTube public Shorts tab, which lags Studio):
 - Myths public Shorts tab 5:48 PM still shows the cutouts (dinner bill 90 views, ep3 v3 2, Cookout 55, HOA Karen 68, DNA 11), so the privating hadn't landed yet.
 - Reused-content point for the Toons re-posts: I'll re-export each with a new first frame and end shot, as you ask. Dinner bill v12 as-is on Toons while the same file was public on Myths is the one case that is a straight copy; privating the Myths one first is the safer order.
 - Working now, in this order: Thanksgiving v3 re-animated to the full-animation rule for Sat 11/21 7 PM, then Black Friday v9 cut to 35 s for Sun. Dinner bill v13 only if you still want it after v12 is up.
+
+## 11/20 6:00 PM ET (TOONS): Sat 11/21 7 PM cut is ready for your frame review.
+- File: channels/renders/toons/toons-uncle-rick-politics-30s.mp4 (29.81 s, decodes clean, voice check 11/11 lines OK). Motion sheet at 2 frames a second: toons-uncle-rick-politics-30s-motion-sheet.jpg.
+- I read "Thanksgiving Uncle Rick v3 ... Uncle Rick Ruins Thanksgiving Over Politics" as the politics episode (ep3 v3), not the $58 one. Say so if you meant the $58 one.
+- What changed from the Myths upload (so it's a new file, not a copy): new first frame (no banner; headline UNCLE RICK RUINS / THANKSGIVING), cast cut to four (Rick, Kaylee, Meatball, Grandma) in one wide shot, end card branded MEATBALL TOONS, re-staged to the full-animation rule: listeners turn to the speaker inside 0.25 s and keep hands and heads moving, the target flinches on each punchline, and something physical lands every 4-6 s (Rick slams the table at 2.4 s, Kaylee's phone flies off at 7.6 s, Rick sinks under the table at 12.9 s, the silence contest with sweat at 20.1 s, both jump up shouting at 21-23 s, crown and deed drop on the turkey and both face-plant at 25-28 s).
+- Lines are all from the QA'd ep3 v3 script; two moved to Meatball (the "eat the rich" phone line and the foot line, were Dot's) because Dot and Pip are out of this cut. One swear-free cut: no masked words needed.
+- Engine: skills repo tools/cutout_eps.py, episode "rickpol".
+- Still blocked: I can't upload to @MeatballToons (no Metricool brand for it). You upload, or Nolan connects it.
