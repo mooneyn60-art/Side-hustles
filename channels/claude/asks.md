@@ -592,3 +592,158 @@ channels/research/longform-outliers-1119.md. Three new outliers ([YT-DLP] views,
 - C. Noodling, "What Happens to a Spider When You Flush Down the Toilet?" (B7I47ob-gLk), 3:32, 119,964 views, 109x (n=11).
 Gap: Video C's captions were blocked (YouTube 429 then a bot check), so its first 15 s, re-hooks and spoken ending are "not measured". No crude-cutout comedy outlier qualified in 8 searches (best unverified lead: FUNarios "Mr HoA", 10veVJ-uEis). Retention/CTR for all three: owners only.
 Takeaways for the flagship: name three outcomes by ~0:25 and pay them off in order; a re-hook every 40-45 s; a home-base set may return if something in it changes each visit (looser than your 3-uses rule: your call); no black end card, end on the opening scene with a callback and say the next video aloud.
+
+## #15 QA, Fri 11/20 pass 1 (8:10 AM ET, Research & QA): Ep7 Vegan vs Gym Bro v3 = **FIX (one line)**; Ep3 Thanksgiving Politics v3 = **PASS**
+- **Numbering note:** Studio asked for this as #15. The heading "#15 LF TEARDOWN" (11/19) already uses that number, so this entry is labeled "#15 QA" to keep the two apart.
+- **Rules used:** research-qa playbook, style-lane checklist (fdab8fd) exactly as written, checklist C1–C12, and Studio's 11/20 rules: exactly 1 masked swear, none in the first 7 s, title or on-screen text; 61 s or longer; no repeats from Black Friday, Rick ep8 or HOA ep4.
+- **Method:**
+  - ffprobe.
+  - faster-whisper medium.en in 12 s windows with VAD, plus word-level re-runs at ep7 55–63 s and ep3 51.5–55.5 s.
+  - Frame 1, frames every 1 s, and 0.25 s caption crops around each swear (ep7 45–50 s, ep3 53.5–58.5 s).
+- **Inputs:**
+  - Renders: `channels/renders/cutout-test-1118/cutout-ep7-v3-vertical.mp4` (4ef1784) and `cutout-ep3-v3-vertical.mp4` (7085ad9).
+  - Scripts: `channels/scripts/cutout-ep7-vegan-vs-gymbro-v3.md` and `cutout-ep3-thanksgiving-politics-v3.md`.
+
+### Ep7 "VEGAN VS GYM BRO" v3: **FIX, one line (F1)**
+- **ffprobe:**
+  - Video: h264, 1080x1920, 24 fps.
+  - Audio: AAC, 44.1 kHz, mono.
+  - Container: **65.992 s**, which clears **61 s or more**.
+- **Frame 1:** banner "MEATBALL MYTHS", then "VEGAN VS GYM BRO" at about 1 s, with the full cast. PASS.
+- **Render vs. v3 script:** all 25 lines are voiced in order, and no unscripted lines were added.
+- **Captions vs. audio:** they match word for word. ASR slips I checked against the captions: "a grave" at 11.0 is a mishearing of "a gravy" (the 10 s window hears "gravy"), and "You know, Sage" is the script's "We know, Sage".
+- **Swear:** exactly **1**, "Damn" at **47.0 s** (DOT, line 18).
+  - The caption shows **"D#@N"** at about 47.0 s, so it's masked.
+  - Nothing in the first 7 s, the banner, the title text, the end card or on-screen signs ("OAT", "PRO", "ONLY MEAT"). **PASS.**
+- **Transcript, edgy lines, and who the butt is:**
+  - 1.8 MEATBALL: "Two roommates, one fridge, and I'm the only one here who is literally food." Butt: Meatball himself.
+  - 5.2 / 7.1 SAGE: "I don't eat anything with a face." MEATBALL: "I have a face, Sage. Stop looking at it." Butt: Sage.
+  - 8.8 TANK: "Bro, I eat forty eggs a day. My doctor called my blood 'a gravy.'" Butt: Tank. It's an absurd made-up quote from a fictional doctor, not a health claim (flag 5 OK).
+  - 12.3 DOT: "Your heart is working overtime for a guy who can't spell overtime." Butt: Tank, as a person; it isn't aimed at any group. PASS.
+  - 15.8–22.8 SAGE: "Did I mention I'm vegan?" PIP: "At my grandpa's funeral, Sage. During the eulogy." SAGE: "He'd still be here if he'd tried lentils." Butt: Sage's tactlessness. The death is fictional, with no real person or event (flag 8 OK).
+  - 23.2–27.6 TANK: "I can't put my arms down, bro. Haven't since March." PIP: "How do you wipe?" TANK: "My mom comes Tuesdays." Butt: Tank. Bathroom humor, nothing sexual (flag 3 OK).
+  - 28.1–30.8 SAGE: "I make my own deodorant." MEATBALL: "We know, Sage. The birds left." Butt: Sage.
+  - 31.2–39.2 SAGE: "I haven't had protein since 2019. I fainted at my own wedding." TANK: "I haven't had a feeling since 2019. I flexed at my dad's funeral." Butt: each one's own extreme.
+  - 39.5–42.9 SAGE: "I buried my cat in the compost. She's tomatoes now." Butt: Sage. A fictional pet, nothing graphic on screen (flag 4 OK).
+  - 43.2–46.7 TANK: "My left pec has its own heartbeat, bro. Doctor says that's the bad one." Butt: Tank, with absurd framing (flag 5 OK).
+  - 47.0–50.0 DOT: "Damn. You two are one salad and one push-up away from a coroner." Butt: both of them.
+  - 50.9–58.3 SAGE: "Nine years, Tank. I dream about ham." TANK: "Bro, I've never eaten a vegetable. I'm scared." MEATBALL: "Pip, if I die in here, you get my shoes." PIP: "I'm already wearing them."
+  - Blackout, CHOMP, a bite out of Meatball. This is cartoon peril with sauce, not gore (flag 4 OK).
+  - **59.5 MEATBALL: "She bit me! The vegan bit me!"** The caption reads "SHE BIT ME!" **See F1.**
+  - 60.6 TANK: "How's he taste?" 61.5 SAGE: "Like nine years of lies." Butt: Sage's self-denial.
+  - End card: "TEAM VEGAN OR TEAM GYM BRO? 👇". It's a two-sided poll and doesn't ask viewers to target anyone (flag 2 OK).
+- **Groups:** vegans and gym-goers are lifestyle choices, not protected traits. Both characters are roasted equally, and no line says either group is lesser. No slurs, and no real people.
+- **F1, 59.5–60.2 s (MEATBALL):**
+  - **Problem:** on screen, Sage is drawn with a full beard (every Sage frame, 5–43 s and 60.5–62 s), while the line calls Sage "she". It's the climax line, so it can read as misgendering or a trans joke that nobody wrote. That's the edge of flag 1 (gender identity), and it invites a comment pile-on.
+  - **Fix:** re-voice and re-caption with no pronoun.
+  - Current: "She BIT me! The vegan bit me!"
+  - **Replace with: "Sage BIT me! The vegan bit me!"** The caption becomes "SAGE BIT ME!", with the same timing (about 0.7 s).
+  - Also change the script direction "Sage has sauce on her face" to "on Sage's face". Alternative only if art is cheaper than audio: redraw Sage without the beard and keep the line.
+- **Joke scores (A):**
+
+| # | Time | Joke | Score |
+|---|---|---|---|
+| J1 | 1.8 | "the only one here who is literally food" | 3 |
+| J2 | 5.2 | "I have a face, Sage. Stop looking at it." | 4 |
+| J3 | 8.8 | forty eggs / blood "a gravy" | 4 |
+| J4 | 12.3 | "can't spell overtime" | 3 |
+| J5 | 15.8 | vegan at the eulogy / "tried lentils" | 4 |
+| J6 | 23.2 | arms up since March / "My mom comes Tuesdays" | 5 |
+| J7 | 28.1 | deodorant / "The birds left" | 3 |
+| J8 | 31.2 | no protein / fainted at own wedding | 4 |
+| J9 | 35.6 | no feeling / flexed at dad's funeral | 4 |
+| J10 | 39.5 | cat in compost / "She's tomatoes now" | 5 |
+| J11 | 43.2 | pec heartbeat / "that's the bad one" | 4 |
+| J12 | 47.0 | "Damn… one salad and one push-up away from a coroner" | 3 |
+| J13 | 50.9 | dreams about ham / scared of vegetables | 3 |
+| J14 | 56.2 | "you get my shoes" / "already wearing them" | 4 |
+| J15 | 59.5 | the vegan bites Meatball | 4 |
+| J16 | 60.6 | "Like nine years of lies." | 5 |
+
+  - **Average: 62/16 = 3.88**, which clears 3.5. No joke scores 1–2, so nothing needs a rewrite for score.
+- **Originality:**
+  - No line repeats Black Friday, Rick ep8 or HOA ep4. I checked against the #13/#14 transcripts.
+  - Near-misses I checked: BF "When I die, scatter my ashes…" vs ep7 "if I die in here, you get my shoes" (different bit), and BF/HOA "I've buried two husbands" vs ep7 "buried my cat in the compost" (different bit).
+  - No show catchphrases. Our own art. **PASS.**
+- **Red flags C1–C10:**
+  - 1: **WATCH, F1.**
+  - 2 through 10: OK. That covers 2 (no private people or call-outs), 3 (no sexual content), 4 (cartoon bite only), 5 (doctor lines framed as absurd), 6 (no minors), 7 (1 light masked swear at 47 s), 8 (fictional deaths only), 9 (no politics) and 10 (banner and end card match the video).
+- **C1–C12 / D:**
+  - Frame-1 cast and banner: PASS. Length: PASS. 1080x1920: PASS.
+  - At upload: Made for kids NO, YouTube altered/synthetic NO (cartoon), TikTok AI label ON.
+  - Rule 7: no "verified facts" or health claims are made, so there's nothing to source.
+- **After F1 is re-voiced:** this becomes a PASS. Only 59.5–60.2 s needs re-checking.
+
+### Ep3 "THANKSGIVING POLITICS" v3: **PASS**
+- **ffprobe:**
+  - Video: h264, 1080x1920, 24 fps.
+  - Audio: AAC, 44.1 kHz, mono.
+  - Container: **62.101 s**, which clears **61 s or more**. The margin is only 1.1 s, so don't trim.
+- **Frame 1:** banner "MEATBALL MYTHS", then "THANKSGIVING POLITICS" at about 1 s, with the cast at the striped table and the turkey. PASS.
+- **Render vs. v3 script:** all 24 lines are voiced in order. Animation directions show up on screen:
+  - shake and sweat at about 45–47 s;
+  - crown plus "DEED" on the turkey at about 48–52 s;
+  - "ON AIR" sign, microphone and "RIGGED with Rick & Kaylee" at about 53–56 s.
+- **Captions vs. audio:** they match.
+  - ASR heard "Kaley"/"Kelly" for "Kaylee", "He started" for "They started" (caption "THEY STARTED A"), and "The well is rigged" for "The will is rigged".
+  - The last one is two voices in unison at 52.6–53.0 s, and the caption shows "RIGGED!".
+  - I treat all three as ASR slips on overlapping or fast speech, not caption errors. **WATCH:** if anyone re-renders, make "will" crisp at 52.6 s.
+- **Swear:** exactly **1**, "hell" at **56.4 s** (GRANDMA, line 24).
+  - The caption shows **"H#@L"** at about 56.5 s, so it's masked.
+  - Nothing in the first 7 s, the banner, the title text, the end card ("WHO'S WORSE, RICK OR KAYLEE? 👇") or the signs ("DEED", "ON AIR", "RIGGED with Rick & Kaylee"). **PASS.**
+- **Transcript, edgy lines, and who the butt is:**
+  - 1.8 MEATBALL: "Thanksgiving. The one day your family remembers why they moved away." Butt: families in general.
+  - ~4.5–8.5 RICK: "Pass the potatoes. And don't pass any socialism." KAYLEE: "Potatoes are colonialism, Rick." Butts: Rick, then Kaylee. These are ideas, not groups.
+  - 8.5–12.3 DOT: "You posted 'eat the rich' from a twelve hundred dollar phone, Kaylee." Butt: Kaylee's performative posting.
+  - 12.6–16.6 KAYLEE: "Billionaires shouldn't exist!" PIP: "Your dad owns nine apartment buildings." KAYLEE: "That's different. That's my money." Butt: Kaylee's hypocrisy.
+  - 17.2–21.9 RICK: "I'm pro-life. Every child is a blessing." GRANDMA: "Richard, you owe child support in three states."
+    - Butt: Rick's hypocrisy (a deadbeat dad), not pro-life people or any child.
+    - **WATCH (YouTube ad-friendly "controversial issues"):** abortion is mentioned in passing, not as a focus. That's fine at this weight; don't add to it.
+  - 22–26 RICK: "The government is spying on me through my microwave." GRANDMA: "They listened for one week and asked to be transferred." Butt: Rick.
+  - 26.5–31.9 RICK: "They're coming for my guns!" DOT: "You shot your own foot, Rick. Twice. Same foot." Butt: Rick. The injury is told, not shown, with no gore (flag 4 OK).
+  - 32–35 KAYLEE: "I speak for the voiceless." MEATBALL: "They asked you to stop, Kaylee. In writing." Butt: Kaylee. The "voiceless" are the ones who come out on top.
+  - 35–41 BRAD: "I don't vote. I'm a sovereign citizen." GRANDMA: "You're forty and you live in my basement, Bradley. You're barely a tenant." Butt: Brad.
+    - "I don't vote" is a character trait, not voting information (flag 9 OK).
+  - 41–47 GRANDMA: "I'm eighty-six. The house goes to whoever shuts up first." Silence beat. RICK: "Taxation is theft!" KAYLEE: "That's problematic!" Butt: both of them.
+  - 47.5–52 GRANDMA: "You're both out. The turkey gets the house. He's the only one here who died for something." Butt: the whole family.
+  - 52.6–56.2 RICK + KAYLEE: "The will is rigged!" MEATBALL: "They started a podcast. It has two million listeners."
+    - Butt: both of them, plus podcast culture.
+    - "Rigged" is about a family will, with no election, date, voting method or result (flag 9 OK, WATCH).
+  - 56.4 GRANDMA: "Oh, hell. Give the turkey the car too."
+- **Politics balance (flag 9):**
+  - Right-coded jabs: Rick's lines on socialism, pro-life, the microwave, guns and taxation.
+  - Left-coded jabs: Kaylee's lines on colonialism, eat the rich, billionaires, the voiceless and "problematic".
+  - That's an even split. No party is named, no real politician appears, and there's no call to action. **PASS.**
+- **Groups / real people:** no slurs. No line says any group is lesser; every punch lands on a fictional individual's hypocrisy. No real people. **PASS.**
+- **Joke scores (A):**
+
+| # | Time | Joke | Score |
+|---|---|---|---|
+| J1 | 1.8 | "remembers why they moved away" | 4 |
+| J2 | ~4.5 | "don't pass any socialism" / "Potatoes are colonialism" | 4 |
+| J3 | 8.5 | "eat the rich" from a $1,200 phone | 3 |
+| J4 | 12.6 | billionaires / dad's nine buildings / "That's my money" | 4 |
+| J5 | 17.2 | pro-life / "child support in three states" | 5 |
+| J6 | 22 | microwave / "asked to be transferred" | 5 |
+| J7 | 26.5 | guns / "Twice. Same foot." | 4 |
+| J8 | 32 | "voiceless" / "They asked you to stop… In writing." | 5 |
+| J9 | 35 | sovereign citizen / "barely a tenant" | 4 |
+| J10 | 41 | silence contest / both blurt slogans | 4 |
+| J11 | 47.5 | turkey "died for something" | 5 |
+| J12 | 52.6 | "The will is rigged!" / podcast with two million listeners | 4 |
+| J13 | 56.4 | "Oh, hell. Give the turkey the car too." | 3 |
+
+  - **Average: 54/13 = 4.15**, which clears 3.5. No joke scores 1–2.
+- **Originality:**
+  - No repeated lines from Black Friday, Rick ep8 or HOA ep4.
+  - Uncle Rick and Grandma calling him "Richard" are recurring characters, as in ep8, but every line is new. HOA's "speak to your manager" / "buried two husbands" lines and BF's "unexpected item" line are not reused. **PASS.**
+- **Red flags C1–C10:**
+  - 1 through 8 and 10: OK. That covers 1, 2 and 3; 4 (no gore); 5 (no factual claims); 6 (no minors); 7 (1 light masked swear at 56 s); 8; and 10 (the title matches the video).
+  - 9: OK, WATCH (see above).
+- **C1–C12 / D:**
+  - Frame-1 cast and banner: PASS. Length: PASS, but don't trim. 1080x1920: PASS.
+  - At upload: Made for kids NO, altered/synthetic NO, TikTok AI label ON.
+
+### Re-voice list for Claude
+- **Ep7, 59.5–60.2 s, MEATBALL:** "Sage BIT me! The vegan bit me!" The caption becomes "SAGE BIT ME!". Then send it back for a re-check of that window only.
+- **Ep3:** nothing required.

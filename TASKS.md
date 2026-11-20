@@ -23,6 +23,323 @@ The daily Etsy queue for the Etsy Claude session was moved out of this notebook 
 
 > OWNER: MEATBALL CLAUDE ONLY (@MeatballMyths). Etsy Claude: ignore this section.
 
+### STUDIO 11/20 6:05 PM ET: ACK on your 5:53. Studio uploads to @MeatballToons from here on.
+- The dinner bill v12 is uploading to Toons now from the box Chrome. The link goes under TOONS in status.md when it's live.
+- Daily handoff, 11/21-11/27: have the day's 20-35 s file in channels/renders/toons/ and listed under TOONS by 3:30 PM ET. I review it at about 4 PM. On a PASS I schedule it for 7:00 PM. On a FIX you get the list in this file.
+- Sat 11/21: toons-uncle-rick-politics-30s.mp4, which matches the 02cf1c1 re-cut ask. Make sure frame 1 opens mid-fight.
+- You keep: building the files, TikTok posting, and logging the 24 h reads.
+
+### STUDIO 11/20 6:00 PM ET: @MeatballToons RULES, LOCKED (from the research pass; sources in Studio's playbook)
+1. Toons gets cutout satire ONLY. Myths YouTube gets bugs and animals ONLY. (Source: Creator Insider "How to Grow as a Small Channel". Our numbers: cutouts on Myths had a median of 51 views, n=5, against 984 for bugs, n=99.)
+2. One Short a day at 7:00 PM ET, starting 11/21. The 7 PM time is a GUESS until three days of reads are in. Don't stack posts.
+3. YouTube cuts are 20-35 s. Never upload the 60 s+ TikTok file to YouTube. (Our numbers: Myths Shorts of 17 s or less had a median of 1,187 views, 35 s+ had 285; four of the five Myths cutouts were 62-63 s.) The TikTok long cuts are fine on TikTok.
+4. Frame 1 is the hook: the characters are already mid-fight with readable on-screen text. No logo, intro card or "| Animated Comedy" card. (Source: YouTube Help on the first seconds; comparable channels' top Shorts open mid-conflict.)
+5. Titles are famous names plus the conflict, with 😂 optional. No genre suffix like "| Animated Comedy", and 5 hashtags max. The slate titles in 52ceaad already follow this.
+6. Re-posts: upload a NEW export (new title card and end shot) and keep the Myths copy private. Never delete it. The idea that YouTube suppresses re-uploaded identical files is a GUESS, so new exports avoid the risk either way.
+7. Every description ends with: "Parody and satire: none of this was really said." AI/synthetic setting: NO (non-realistic cartoon). No photoreal faces of real leaders, ever.
+8. QA pass 2 before every post. Tonight's post was a one-time exception on Nolan's order.
+9. Measure at 24 h for each Toons Short: views and viewed-vs-swiped (Studio). Log under TOONS in status.md. Win and kill marks stay as in 486d6ef.
+ACTION, Claude: re-cut the 11/21 Uncle Rick v3 and the 11/22 Black Friday v9 to 35 s or less for YouTube, cold open mid-fight, by 11/21 3 PM ET for my pass 2.
+
+### STUDIO 11/20 5:55 PM ET: MYTHS CUTOUTS NOW PRIVATE (done, nothing deleted)
+- Set to private: HdWqnA8R8ss (Thanksgiving Politics, Uncle Rick); fILrWrIwmWI (Trump, Xi & Putin dinner bill); n6dDV0UVT8c (Cookout); kZf7dx_hKbQ (HOA Karen); If70iDk7Qes (Uncle Rick DNA Test).
+- Black Friday was never posted on Myths YT, so there was nothing to change.
+- Checked with yt-dlp: no public cutouts remain on the @MeatballMyths Shorts or Videos tabs (99 public Shorts, all bugs and animals).
+- Claude: log these under TOONS in status.md. Their stats now stop at what they had. The Uncle Rick DNA Test (If70iDk7Qes) can join the Toons re-cut queue.
+- HEADS-UP: the Studio account list in the box Chrome showed only Meatball Myths, not Toons. Before the Toons upload, confirm in your upload path that you're on UC-eumAn_j_DSbGUOKqM4FYw. If you can't reach it, write BLOCKED here right away. Don't post to Myths.
+
+### STUDIO 11/20 5:50 PM ET: TWO-CHANNEL SPLIT IS NOW LIVE. Team, read this.
+- @MeatballMyths = bugs, animals, versus and question Shorts ONLY. No more cutouts there, starting now.
+- @MeatballToons (UC-eumAn_j_DSbGUOKqM4FYw) = all cutout satire (Trump/Xi/Putin, Uncle Rick, Black Friday, HOA Karen, Cookout and new episodes).
+- Studio is setting every cutout Short on Myths to PRIVATE right now (Jarvis cleared it; Nolan's order). Nothing gets deleted, and the bug and animal videos stay as they are. I'll post the list of privated videos here when it's done.
+- Claude: don't schedule any cutout to @MeatballMyths YouTube from here on. If any cutout is already scheduled there, move it to the Toons slate (52ceaad) and log the move in status.md. TikTok @meatballmyths still takes cutouts plus bugs (no change).
+- Re-posts on Toons follow the 52ceaad slate. Upload each as a NEW file (re-export with the new title card and end shot), not a copy of the Myths upload. Studio is checking the reused-content rule now and will confirm before 11/21 7 PM.
+- A Toons playbook (cadence, hooks, titles, mistakes to avoid) is coming from Studio tonight with sources. Rules from it will land here as a note.
+- Check the account switcher before every upload. Wrong-channel posts are the main risk now.
+
+### STUDIO 11/20 5:45 PM ET: POST TO @MeatballToons NOW (Nolan's order: "Post one now to get it rolling")
+- Ack on your 5:25: there's no v13, so the v12 YT cut posts now. This replaces the 8 PM slot in 52ceaad. The 7 PM daily slate from 11/21 stays as planned.
+- File: channels/renders/cutout-batch1/cutout-dinner-bill-v12-yt-34s.mp4 (33.62 s).
+- CHANNEL: before uploading, open the YouTube account switcher and confirm you're on @MeatballToons (UC-eumAn_j_DSbGUOKqM4FYw), NOT @MeatballMyths.
+- Title: Putin Tries to Skip the Bill. Trump Notices 😂
+- Description: Trump, Xi and Putin fight over a dinner bill and Meatball the waiter pays for it. Parody and satire: none of this was really said. #trump #putin #xijinping #cartoon #satire
+- Settings: Comedy, not made for kids, synthetic NO. Pinned comment: "Who's really paying? 👇"
+- Post the live link in status.md under TOONS. Its 24 h read counts toward the Toons test.
+- Coming next from Studio: setting the cutouts on @MeatballMyths to private so they can be re-posted on Toons (pending Jarvis's usage yes). Don't delete anything on Myths.
+
+### [MEATBALL] Studio 11/20 17:45 — @MeatballToons SCHEDULE + POST TODAY (Nolan: "make a schedule and get a video up today"). Supersedes the 11/21 start in 486d6ef.
+TODAY 11/20, 8:00 PM ET on @MeatballToons: dinner bill.
+- Render v13 now (388c689 fixes: the calculator off Putin's face, the three-shot pushed in 25%, listener reactions) and push it by 7:15 PM. I frame-review at once and reply PASS or FIX in TASKS.md.
+- FALLBACK: if v13 isn't in by 7:30 PM or I FIX it, post the v12 YT cut (cutout-dinner-bill-v12-yt-34s.mp4) at 8:00 PM. Either way a video goes up today.
+- Title: "Putin Tries to Skip the Bill. Trump Notices 😂". Description: "Trump, Xi and Putin fight over a dinner bill and Meatball the waiter pays for it. Parody and satire: none of this was really said. #trump #putin #xijinping #cartoon #satire". Not for kids, synthetic NO, category Comedy. First comment (pin it): "Who's really paying? 👇". Upload as the Meatball Toons account (check the account switcher first, NOT @MeatballMyths).
+DAILY SLOT: 7:00 PM ET on @MeatballToons, 11/21 to 11/27 (the time is a guess; we move it once we have 3 days of reads). One Short a day, 20-35 s:
+- Sat 11/21: Thanksgiving Uncle Rick v3, re-animated to the full-animation rule. "Uncle Rick Ruins Thanksgiving Over Politics 😂"
+- Sun 11/22: Black Friday v9 (cutout-blackfriday-v9-vertical.mp4), cut to 35 s or less. "Black Friday Shoppers Fight Over One TV 😂"
+- Mon 11/23: HOA Karen re-cut, a new upload here (it flopped on @MeatballMyths at 68). "HOA Karen Shuts Down a Kid's Lemonade Stand 😂"
+- Tue 11/24: Cookout re-cut, a new upload here. Title from me by 11/23.
+- Wed 11/25: NEW. "Xi Brings Tupperware to Trump's Thanksgiving 😂". I write the script by 11/22 noon.
+- Thu 11/26 (Thanksgiving): NEW. Trump pardons the turkey and the turkey roasts him back. I write the script by 11/23 noon.
+- Fri 11/27: decision day. Post the best re-cut, then read the test (win at a 24 h median of 300+, kill under 100).
+Every one still needs my frame-review PASS before it posts. Log the links and 24 h reads in status.md under "TOONS".
+
+
+### [MEATBALL] Studio 11/20 17:42 — NEW CHANNEL LANE: cutout satire moves to @MeatballToons (Nolan approved).
+Why: our own numbers (yt-dlp, 11/20 5:20 PM). YT cutouts have a median of 55 views (n=3, 20+ h old) vs 566 for the other Shorts (n=11). TikTok cutouts 190 vs 361. The same Trump/Xi/Putin dinner idea got 121K on @hatimsshorts and 47 on ours, so the audience doesn't fit. YouTube's guidance is one audience per channel. Full write-up: Studio box /workspace/cutout-deep-dive-1120.md.
+CHANNELS (name the handle on EVERY post line from now on):
+- @MeatballMyths (UCw98RQD81t_339LX5EJqcrg): bugs, animals, versus and question Shorts ONLY. No more cutouts here. Leave the dinner bill v12 and ep3 posts up; no edits.
+- @MeatballToons (UC-eumAn_j_DSbGUOKqM4FYw, https://www.youtube.com/@MeatballToons): formerly StoneMindStoic, rebranded today. Name, handle, bio and Meatball PFP are set, the banner is blank, and the 12 old stoic uploads are PRIVATE (do not delete or re-publish them). Signed in on the box Chrome as a second Google account, so check the account switcher before every upload.
+- TikTok @meatballmyths: keeps posting cutouts (they hold up there) plus bugs.
+7-DAY TOONS TEST (11/21 to 11/27): 1 news-hooked cutout Short a day on @MeatballToons, 20-35 s, the famous names and the conflict in the title, no "| Animated Comedy" suffix. Examples: "Putin Tries to Skip the Bill. Trump Notices 😂", "Xi Brings Tupperware to Trump's Thanksgiving 😂". Settings: not for kids, synthetic NO. Win: a 24 h median of 300+ over 5 or more Shorts, or any single Short at 5,000+. Kill: a median under 100. Log the 24 h reads in status.md under a "TOONS" header.
+First up: re-cut dinner bill as the v13 fixes (388c689) and post it to @MeatballToons as the 11/21 test, title "Putin Tries to Skip the Bill. Trump Notices 😂". Then Thanksgiving v3 re-animated for 11/22. Still full-animation rule + my frame review before each post.
+
+
+### [MEATBALL] Studio 11/20 15:30 — POST dinner bill v12 NOW (Nolan's call: "I want that posted now I wanna test it"). Overrides 388c689's wait.
+Post cutout-dinner-bill-v12-tiktok-64s.mp4 on TikTok @meatballmyths and cutout-dinner-bill-v12-yt-34s.mp4 as a YT Short right away. If ep3's 4:00 PM YT slot clashes, post dinner bill at 4:30 PM on YT. Settings: Made for kids NO, YT synthetic NO, TikTok AI label OFF (cartoon). Titles and captions per the 9dbe435 packaging rules (no swears in titles, the thumbnail or the first caption line). Log the links and the 1 h and 24 h views in status.md; this counts as a test in the 7-day test.
+v13 fixes (388c689) still apply to the next cutouts; no re-post of dinner bill.
+
+
+### [MEATBALL] Studio 11/20 15:35 — dinner bill v12 review: head seam FIXED. 3 fixes, then v13 goes to QA.
+Checked YT cut (1/3 fps sheet, 4 fps strip 8-11 s, full-res 5.0 s and 10.6 s). The heads now sit clean on the bodies, the close-ups are clean singles and the end shot is full frame. Those pass. Eyes stay as the model pictures; accepted, not reopening it.
+Fixes for v13:
+1. CALCULATOR COVERS PUTIN'S FACE (about 4-6 s). Raise it on Xi's left side (screen left of Xi, between Trump and Xi) or keep it below Putin's chin. No prop ever covers a face.
+2. WIDE/THREE-SHOT TOO SMALL: the leaders fill only about a 25% band and the bottom 30% is blank tablecloth. Push the three-shot in about 25% so the three fill the width (keep your 30 px head gaps), put the table line at about y=1600, and keep captions on the curtain above the heads. Trump's US flag and left shoulder are clipped at the left edge, so bring everything fully inside the frame.
+3. LISTENERS FREEZE: during Trump's line (8-10.5 s) Xi and Putin barely move. Per the 482f483 rule, give the listeners an eye slide plus a lean or arm move within 0.5 s, and a flinch on "richer than your".
+No re-test needed. Render v13 both cuts, then send it straight to Research & QA pass 2. Post at the next slot after PASS.
+
+
+### [MEATBALL] Studio 11/20 14:58 — dinner bill v9 FAILS on head overlays. Do NOT post. Build v10.
+Nolan saw it: "looks like shit... overlays of the heads". Frame-checked (YT cut, 1/3 fps sheet + 4 fps strip at 8-11 s + full-res 10.0 s / 10.6 s):
+1. HEAD SEAM (main fail): each head is a ROUND cut from the model picture that still contains its own collar, lapels and suit shoulders. It sits on top of the rig suit, so you get a visible circular edge across the chest, double collars and two suits stacked (clearest on Xi at 10.6 s, Putin on every wide shot). FIX: mask every head at the jaw/neck line ONLY (face, ears, hair; no collar, no shirt, no suit). Add a skin-colour neck piece that tucks UNDER the rig's shirt collar. Rig torso draws the only collar, tie and lapels. Zero curved edges below the chin on any frame.
+2. HEADS OVERLAPPING EACH OTHER: on the three-shot the leaders are jammed shoulder to shoulder; Trump's head/arm cover Xi's shoulder and Trump is cut off at the left edge. FIX: space the three so no head or arm crosses a neighbour at rest (about 30 px gap between head edges at 1080 wide); gestures may cross only during the table slam.
+3. CLOSE-UP EDGES: close-ups show half of the neighbours' faces sliced at the frame edge (Trump and Putin halves around Xi at 10-11 s; Putin half behind Meatball). FIX: in close-ups hide or blur the neighbours, or widen to a clean 2-shot. No half faces.
+4. EYES: Trump's eyes in close-up are blank white discs with tiny or no pupils; all three read as round goggles. Use the eye spec from 268d87d (Xi narrow level almond, white about 20-25% tall), and give Trump and Putin almond eyes with visible pupils, not discs.
+5. EMPTY BOTTOM HALF: the bottom 40% of the frame is blank tablecloth. Move the table line down to about y=1500, characters bigger, and captions to about y=1350 inside the safe zone.
+6. END SHOT (about 30 s): the frame shrinks into a small panel with black and dark-red blocks around it. Broken layout. Keep the end full-frame.
+Keep: three-shot reactions, table slam, calculator, bill slide, TARIFF stamp, honey pot. Those passed.
+Before the full render, push a 4 s still-plus-motion test (wide shot with all three talking + Xi close-up) to channels/renders/cutout-batch1/v10-head-test.mp4. I fail or pass from that.
+
+### [MEATBALL] Studio 11/20 12:52 PM: FULL ANIMATION is now a PASS/FAIL rule for every cutout (Nolan: "Hands don't move, face don't move, nothing moves. I want it full animated")
+Studio fails any render where, in ANY 2-second window, the on-screen characters don't show ALL of the following:
+- Hands and arms: the speaker gestures on every line (point, pinch, slam, shrug, wave). Arms are never frozen for more than 1 s.
+- Face: eyes blink or shift and brows go up or down on every line; mouth shapes follow the words (4 or more shapes); on punchlines the expression changes (anger, smug, shock).
+- Head and body: head tilts or bobs on stressed words; the body leans forward or back; listeners react within 0.5 s of each punchline.
+- Scene: something physical happens every 4-6 s (props move, someone stands, objects fly).
+Applies to dinner bill v7, Thanksgiving v3 (Grandma, the family, Bezos all rigged the same way), Rick Ep. 2, and every cutout after. Also hold Thanksgiving v3 from posting until it's re-animated to this rule. Studio checks with a 4 fps frame strip on every render.
+
+### [MEATBALL] Studio 11/20 12:50 PM: dinner bill v6 review: looks better, ANIMATION FAILS (Nolan: "animation sucks bad"). Do NOT post v6. Build v7.
+What I see in the frames (8-11 s, 4 fps): each shot is one flat picture with only a mouth swap and a slight squash. It plays as a talking-head slideshow, with one leader per close-up, nobody reacting, and no physical action. The blink at about 9.5 s is broken (a smeared half-face over Trump's eye). The HONEY pot jumps position between frames.
+FIX (real cutout animation, the way South Park works: separate paper parts that move):
+1. RIG EACH LEADER IN PARTS. Cut each model picture into layers: head, hair, brows, eyes (open, half, closed, made by painting the lids in the skin color, not smearing), 4 mouth shapes (closed, small, wide, teeth), torso, and left and right arms with 3 hand poses each (point, pinch, flat slam). Arms swing on shoulder pivots and the head tilts on a neck pivot, 5-10 degrees.
+2. HOLD ON 2s. Animate at 12 fps (each pose held 2 frames). That choppy look IS the style.
+3. MOSTLY WIDE SHOTS. About 60% of the runtime is the 3-shot of all three at the table, so the listeners REACT while one talks: Putin's eyes slide over, Xi's smirk grows, Trump's head turns and his mouth drops open. Close-ups only for punchlines (about 1 s each).
+4. ACTION BEATS (one every 4-6 s): Trump slams the table (the plates hop 10 px); Putin slides the check across with one finger; Xi pulls a giant calculator from under the table; the check gets tossed and lands on Meatball; on "tariff", the TARIFF! stamp slams and Meatball flattens and springs back.
+5. HEADS bob 4-6 px on stressed words, with a quick head tilt on each punchline.
+6. Fix the blink (painted lid layer) and pin the honey pot to a fixed spot by Xi's plate.
+Keep: the models, flags, plates, captions and voices from v6. Push a 6 s motion test of the wide shot first (Trump slam plus everyone reacting) to channels/renders/cutout-batch1/motion-test.mp4. Studio reviews it before the full v7.
+
+### [MEATBALL] Studio 11/20 12:26 PM: TikTok AI label OFF for cartoon cutouts (Nolan's answer via Jarvis: "Turn the AI label off for the cartoons")
+From now on, schedule every cartoon cutout TikTok with the AI-generated label OFF. Keep it ON for anything that looks realistic (photoreal people, scenes or voices), per TikTok's rules. Apply it in normal posting only; don't edit already-live posts. YouTube's synthetic-content toggle stays NO.
+
+### [MEATBALL] Studio 11/20 12:40 PM: ALL 3 LEADERS rebuilt from model images + free-voice fix (dinner bill v3). Nolan approved.
+MODELS (match these, all in channels/art/characters/): xi-table-model.jpg, trump-table-model.jpg, putin-table-model.jpg. Each has his own desk flag, name plate and spot at the table, with no overlap.
+- TRUMP: big swoop of blond combover, orange-tan face with pale rings around the eyes, squint, puckered "O" lips, pinch-hand gesture, long red tie, US flag pin.
+- PUTIN: balding, with thin grey-brown hair on the sides only; pale; flat, cold half-lidded stare; thin smirk; charcoal suit, grey-blue tie; a shot glass on the table.
+- XI: per the 12:20, 12:30 and 12:35 notes. EYES VERY NARROW (Nolan): build them narrower than the model image, with the white about 20-25% as tall as it is wide and a heavy lid. Keep them level and don't draw a single line.
+VOICES: Nolan said NO paid tool, so improve Kokoro. Most of an accent comes from WORDING and RHYTHM; respelling alone sounds fake (Studio's guess; A/B test it):
+1. Putin: deep male voice (try bm_george or am_onyx), speed 0.85, pitch down 2 semitones (ffmpeg asetrate/atempo). Write his lines Russian-style: drop "the"/"a", put the verb last for punch ("This bill, I do not pay."), and roll his flat "Is not problem." Keep the respellings light (v for w only). Use a cold, slow delivery with pauses before punchlines.
+2. Xi: zm_yunjian reading English, speed 0.85, even and flat with no emotion. Wording: short, formal, no contractions ("We do not split. We own."). Leave a 0.3 s pause between phrases.
+3. Trump: am_michael or am_adam, speed 1.05. The wording does the work: repetition, superlatives, and tangents ("Nobody pays bills better than me. Nobody. People say it."). Add a slight treble boost and a mouth-close mic feel.
+4. Make 3 test clips of each character (the same line in each version) to channels/renders/voice-tests/. Studio picks the best, then render v3. Captions keep normal spelling.
+
+### [MEATBALL] Studio 11/20 12:35 PM: Xi must read as Chinese at a glance (Nolan: "you can't tell he's Chinese")
+Add these recognition cues on top of the v3 sheet and the hand-built narrow eyes. No slit eyes and no stereotypes:
+1. A small Chinese flag (red with gold stars) on a desk stand in front of Xi's plate, and a US flag for Trump and a Russian flag for Putin, so it reads like a summit.
+2. Swap his lapel pin for a tiny red flag pin with a gold star.
+3. Use the hand-built eye spec from 12:30 (narrow, monolid, heavy lid). It must look visibly narrower than Trump's and Putin's round eyes.
+4. Tint his skin slightly warmer and more golden than Putin's pale pink.
+5. During the "Winnie the Pooh fan club" line, a tiny Pooh-style honey pot pops up by his plate (generic honey pot, no Disney Pooh).
+6. Name plate reads "XI" in big letters, fully visible.
+Still of the full table lineup first, for Studio review.
+
+### [MEATBALL] Studio 11/20 12:30 PM: Xi model sheet v3 is FINAL (replaces v1/v2), eyes as narrow as allowed
+File: channels/art/characters/xi-model-sheet-v3.jpg. Use its face, nose, jowls, hair and suit. The image tool won't narrow the eyes enough, so BUILD THE EYES IN THE RIG to this spec (Nolan wants them as close to South Park's Asian characters as we can go without the slit-line stereotype):
+- Each eye is a narrow, level almond shape with eye white height about 25% of its width (much narrower than the sheet), and it's a monolid (no crease line).
+- A heavy, smooth skin-colored upper lid covers the top half of the eye; a small dark pupil shows under it.
+- Eyes are level and horizontal. Do NOT slant or tilt them, and do NOT use a single line or slit. That's the hard limit (racial caricature, a YouTube harassment and advertiser risk).
+- Brows: thick, flat and dark, sitting low and close above the eyes.
+- When he smiles, the eyes squint into soft upward curves (like his real smile), still with visible lids.
+Push a still of Xi at the table first; Studio reviews it before the full v3 render.
+
+### [MEATBALL] Studio 11/20 12:25 PM: Xi model sheet v2 REPLACES v1 (eyes)
+File: channels/art/characters/xi-model-sheet-v2.jpg. Nolan wants narrower eyes. Build the eyes even narrower than the sheet: each eye white is a level horizontal oval about 1/3 as tall as it is wide, with a heavy skin-colored lid covering the top half and a small pupil peeking out (his real squinting-smile look). Do NOT tilt or slant them, and do NOT draw them as slit lines (that's the stereotype version, and it's a policy and brand risk). Hair goes greyer, like v2. Everything else in the 12:20 note still applies.
+
+### [MEATBALL] Studio 11/20 12:20 PM: Xi MODEL SHEET, build v3 Xi from this
+File: channels/art/characters/xi-model-sheet-v1.jpg (3 poses: neutral, smug smile, talking/pointing). Approved by Studio. Match it as closely as the cutout rig allows:
+1. Hair: dark charcoal-black with lighter grey streaks, swept back with volume on top, fuller over the ears. Replace the current flat black cap shape.
+2. Head: wide and round, wider than tall, with full cheeks and a soft chin line. Make it larger than Trump's head.
+3. Eyes: round whites with small pupils and a heavy lid line across the top of each eye (sleepy, smug). Brows are thick and flat.
+4. Mouth: default is the small closed smile from pose 2; use pose 3's open mouth for his lines.
+5. Outfit: navy suit, white shirt, dark PURPLE tie with a dot pattern (from his real photo, and it differs from Trump's red), red lapel pin.
+6. Staging: his own clear spot at the table, never behind Trump.
+This replaces the tie color in the 12:05 note (purple, not burgundy). Everything else in the 12:05 and 12:15 notes still applies. Push a still of Xi at the table before the full v3 render.
+
+### [MEATBALL] Studio 11/20 12:15 PM: dinner bill v2 (10e94a8) reviewed, needs v3, do NOT post v2
+- v2 was rendered before the 12:05 Xi note. Xi still has the flat black cap-hair, the same face shape as Putin, and he still clips behind Trump in the wide shots. Apply ALL of the 12:05 Xi items for v3. His tie should be dark burgundy, not the same bright red as Trump's.
+- The "CHECK" tag is STILL stuck on screen from 0:00 (it sits on Putin's name plate). Remove it.
+- The empty caption boxes next to the captions are still there (the "[]" and "MP" fragments). Remove them.
+- Kept from v2: the frame-1 lineup with the headline, Trump's look, the end card.
+
+### [MEATBALL] Studio 11/20 12:05 PM: Xi redesign for dinner bill v2 (Nolan asked, do before v2 render)
+Frame check of v1: Xi is a generic cutout (same face shape as Putin, flat black bowl hair, small head) and his head clips behind Trump's in the wide shot. Nobody would recognize him. Rebuild Xi from his real likeness, South Park cutout style:
+1. Head: wide, round, full-cheeked face, about 15% bigger than now. Soft double chin and full jowls are his signature look.
+2. Hair: glossy jet-black, combed straight back and slightly to one side, with a high, broad forehead. No bowl cut or bangs.
+3. Eyes: South Park-style round whites like the other characters, with heavier upper lids and a calm, half-lidded look. NO slit or slanted-line eyes and no buck teeth, none of the stereotype shortcuts.
+4. Skin: warm light tone, a little different from Putin's pale tone so they don't look like twins.
+5. Expression: default is a small, tight, smug closed-mouth smile; widen it on his roast lines.
+6. Outfit: dark navy suit, white shirt, solid dark red tie (his usual), small red lapel pin. Change his tie off blue so all three don't match.
+7. Staging: give Xi his own clear spot at the table. No overlap with Trump's head in any frame, and the name plate is fully visible.
+8. Voice stays Mandarin-accented (calm and slow, from item 2 of the 11:42 note). Use a real accent, not a mocking one.
+Reference: AP or Reuters official portraits of Xi Jinping. Send me a still of the new Xi before the full render if possible; I'll review it with the render either way.
+
+
+### [MEATBALL] Studio 11/20 11:42 AM: dinner bill render v2 needed (Studio review of a3f377b + Nolan's notes). Do NOT post v1.
+CHARACTERS (Nolan: "Xi needs to be Asian like South Park" + "I would love accents"):
+1. Real caricatures, recognizable at a glance like South Park's real-leader cutouts:
+   - Xi Jinping: his actual likeness: East Asian features drawn like South Park draws real Asian public figures, round face, swept-back black hair with a high hairline, slight smile, dark suit, red tie. Base it on his real face, not a stereotype (no buck teeth, no slanted-line eyes, no rice hat).
+   - Trump: orange tan, signature swoop hair, long red tie, pursed mouth, the hand gestures.
+   - Putin: receding light hair, cold stare, small frame.
+2. VOICES with accents (different TTS voices or pitch per character, so no two sound alike): Putin a heavy Russian accent; Xi a Mandarin-accented English voice in a calm, measured delivery; Trump his cadence (emphatic, repetitive). The accent must sound like the real person; no mock "funny Asian voice", no caricatured gibberish. If our TTS can't do accents, list the options (e.g. kokoro or other voices) in status.md and use the closest.
+LAYOUT:
+3. Frame 1 = the three leaders + the headline (headline bigger, about 2x). Meatball enters at line 1.
+4. Name plates are cut off ("MP", "PU"): show full names or drop them.
+5. Captions: 2-5 words per card (phrase level), not single words; keep them above the bottom 20% (TikTok/Shorts UI covers it); keep masking swears.
+6. Smooth the wipe transitions (frames show half-split faces mid-wipe); use hard cuts.
+7. Log v2 lengths; QA pass with v9 + ep7 v4 this afternoon; posts tonight after PASS (11:08 slot).
+8. Audio review of v1 also found: the "CHECK" caption tag gets stuck on screen from 0:00 to the end (remove it); captions drop whole punchlines ("I'm a meatball!" at 0:23 and "Then we tariff" at 0:24 are missing). EVERY spoken line needs a caption, since many viewers watch muted. Pacing, music level and the end card are good; keep them.
+Apply the same character, voice and caption rules to the Thanksgiving v3 render (Bezos as a real caricature: bald, big grin).
+
+### [MEATBALL] Studio 11/20 11:27 AM: Thanksgiving v3 APPROVED, lifts the 11:23 hold. Render it after the dinner bill (script #1 in channels/scripts/cutout-formula-batch1-v2-roast-1120.md, now v3 with target/point/chain). Same packaging and timing as the 11:08 rush note (Sat midday after PASS).
+
+### [MEATBALL] Studio 11/20 11:25 AM: STANDING RULE (Nolan): every cutout has a story AND a point
+Each script header must state: (1) TARGET: the real news item (with source link), topic, or group behavior it goes after; (2) POINT: the one-line satirical meaning (e.g. "the 'cheaper' billionaire option always costs you more"); (3) the therefore/but chain. Jokes serve the point; the moral line lands it. Satire targets behavior, hypocrisy and institutions; no "group is lesser" punchlines. No target or point = don't write or render it.
+
+### [MEATBALL] Studio 11/20 11:23 AM: HOLD the $58.63 Thanksgiving render only. Nolan says the plot doesn't make sense; Studio is rewriting it. Keep rendering the dinner bill (#2) as planned.
+
+### [MEATBALL] Studio 11/20 11:08 AM: RUSH, Nolan: "Push the fixed versions now to start testing them"
+1. Render the roast #2 (Trump/Xi/Putin dinner bill, the news is from 11/19 so it's freshest) FIRST, then #1 ($58.63 Thanksgiving). Both cuts each, with the 11:05 packaging. Push to channels/renders/ as soon as each is done and log it in status.md.
+2. Studio adds them to today's QA pass 2 (alongside v9 + ep7 v4) if they're pushed by 2 PM.
+3. Posting after PASS: dinner bill tonight in a free slot at least 1 h from the other cutouts and bug posts (proposal: 9:00 PM TikTok / 9:30 PM YT if v9 takes 7/8 PM); $58.63 Thanksgiving Sat 11/21 midday. If they miss the 2 PM cutoff, they go in Saturday's QA pass and post Saturday.
+4. Keep the Sun/Mon slots for the next scripts (Rick Ep. 2 roast + the next news topic).
+
+### [MEATBALL] Studio 11/20 11:05 AM: GO, packaging changes now (Nolan: "make necessary changes now")
+Apply to EVERY cutout from today on (ep3 today, Black Friday v9, ep7, and the Sun/Mon roast videos), plus the live ones where Metricool or the platform allows edits:
+YOUTUBE
+1. Title = names/topic + what happens (searchable), e.g. "Trump, Xi & Putin Split the Dinner Bill". No "| Animated Comedy". Max ~60 chars, clean (no swears).
+2. Description line 1 repeats the title keywords in a sentence (YT Help 12340300). Then 1 line of context, then 3-5 hashtags (#animation #comedy + 1-3 topic tags; up to 3 show above the title, YT Help 6390658).
+3. Short cut 30 s (cap 35 s), no opening banner (already in the 10:35 note).
+TIKTOK
+4. Caption line 1 = the searchable names/topic (e.g. "Trump Xi Putin fight over the dinner bill"), clean. Line 2 = a question to drive comments. Then 3-5 specific hashtags (topic + #animation #cartoon). No #fyp, no #southpark, no long tag dumps.
+5. The frame-1 on-screen headline uses the same keywords as caption line 1 (TikTok search reads on-screen text).
+6. Post news-pegged videos within 24-48 h of the news.
+LIVE CUTOUTS (Rick, HOA Karen, Cookout): if Metricool can't edit live posts, list the exact new title/description/caption for each in status.md under "NEEDS STUDIO PASTE" and Studio handles it in YouTube Studio.
+Log what changed in status.md.
+
+### [MEATBALL] Studio 11/20 10:52 AM: GO, render the roast scripts (Nolan approved: "Perfect send to Claude")
+Use channels/scripts/cutout-formula-batch1-v2-roast-1120.md. It replaces the batch 1 dialogue and lifts the 10:37 hold for #1 and #2.
+- #1 $58.63 Thanksgiving: posts Sun 11/22. #2 Dinner bill: posts Mon 11/23.
+- For each: a 30 s YT cut (cap 35 s) + a 61-68 s TikTok cut (add 2-4 roast exchanges in the same style). Frame 1 = headline, no banner, the redesigned green-hat kid, captions masking swears.
+- Push renders to channels/renders/ and log lengths in status.md; Studio sends them to QA. No posting before PASS.
+- Rick Ep. 2 roast version coming from Studio.
+
+### [MEATBALL] Studio 11/20 10:37 AM: HOLD renders of batch 1 ($58.63, dinner bill, Rick Ep. 2)
+Nolan says the jokes aren't funny enough; he wants raunchier roast-style insults between characters. Studio is rewriting the dialogue (same plots, same lengths) and will post v2 in channels/scripts/. Do the kid redesign and the no-banner template now; render the scripts only after v2 lands. Ep7 v4 + Black Friday v9 still due 2 PM.
+
+### [MEATBALL] Studio 11/20 10:35 AM: GO on fixes (Nolan: "fix it and make sure it's shorter")
+1. Scripts are READY: channels/scripts/cutout-formula-batch1-1120.md (5bba181). Replaces the 10:10 hold. Render order: Sun 11/22 "$58.63 Thanksgiving", Mon dinner bill, Tue Rick Ep. 2. Each = a 30 s YT cut (target 27-31 s, hard cap 35 s) + a 61-68 s TikTok cut. QA checks them before posting, as always.
+2. Every new cutout: NO opening banner. Frame 1 = target + clean caps headline; branding only on the end card.
+3. Redesign the green-hat kid so he no longer reads as Kyle: different hat shape and color (not a green ushanka), different jacket color, different hair/face. Use the new design in all new renders and save a reference PNG in channels/renders/ with the name logged in status.md.
+4. Log each render's length in status.md. Ep7 v4 + Black Friday v9 still due 2 PM.
+
+### [MEATBALL] Studio 11/20 10:10 AM: HOLD the new-format scripts ($58 Thanksgiving, dinner bill, Rick Ep. 2, Pete Rose)
+Studio is writing them itself from a South Park craft deep-dive (channels/scripts/cutout-formula-batch1-1120.md, landing this afternoon) and will hand them to you for render. Don't write your own versions. Ep7 v4 + Black Friday v9 still due 2 PM.
+
+### [MEATBALL] Studio 11/20 10:05 AM: RAUNCH DIRECTION from channels/research/raunch-ceiling-1120.md (845dd01). Applies to all new scripts, on top of the 9:55 format rules.
+Finding: the comps beat us on raunchy PREMISES, gross visuals and named targets, not swear count (MeatCanyon's 15-17M Shorts have at most 1 swear; our Ozempic/Confession drafts already run 3-20x their swear rate). None of the comps' top Shorts are age-restricted.
+Do:
+1. Put the raunch in the premise: the setup itself is the edgy idea (target 3-3.5 on the report's 1-5 scale; Holy Black Friday "max" beat = the ceiling).
+2. Sex is talked about, never shown: spoken innuendo OK; no sexual motion, moaning or suggestive animation (TikTok makes those adults-only and keeps them off the For You feed; YouTube can age-restrict them).
+3. Gross-out cartoon gags over extra swears; make a bleep or swear the joke itself where it fits.
+4. Named people: go savage on their BEHAVIOR and public record, never sustained jokes about a real person's body (YouTube harassment policy 2802268, strike risk).
+5. Swears: max 4-5, aim for 2-3 per 60 s on the hardest punchlines; 1 f-word allowed. Titles, thumbnails and first caption line stay clean.
+6. Use the report's "safe version" rewrites for AI Took Dad's Job (ending), Holy Black Friday (closer) and Thanksgiving Politics (opener) as the template level. The "max" versions are not approved.
+7. Before posting any edgier cut, run TikTok Content Check Lite and log the result in status.md.
+Caption masking stays as-is unless Nolan changes it.
+
+### [MEATBALL] Studio 11/20 9:55 AM: NEW CUTOUT FORMAT from research 22a41bd (channels/research/cutout-traction-1120.md). Read it first.
+Why: at 15-23 h, cutouts get about half the bug-cut views on TikTok and about a fifth on YouTube. Our cutouts open on a static "MEATBALL MYTHS / TITLE" banner and use generic types; breakout comps (Hatim's Shorts, MeatCanyon, Fruit Love Island) open on a named target + premise at 0 s.
+FORMAT RULES for every new cutout script, effective now (replaces nothing else on the checklist):
+1. No opening banner. Frame 1 = the target on screen + ONE caps headline naming target + absurd premise (headline stays clean, no swears). Conflict by 2 s. Branding moves to the end card.
+2. Named public-figure target as the premise (cartoon only, never photoreal; obvious exaggeration; no invented crimes, no fake quotes passed off as real; no abuse jokes; no slurs). Every news fact the joke rests on gets a source link in the script header.
+3. Series naming with a recurring cast: "Uncle Rick Ep. 2", "Karen Ep. 2"; end card "Follow for Ep. 3".
+4. Titles: "named target + verb" (searchable), not "| Animated Comedy".
+5. Swears 4-5, each on a punchline, none in the first 7 s, titles, thumbnails or first caption line (rules in the 9:20 note).
+6. Redesign the green-hat kid so he doesn't read as Kyle (GUESS: IP/"inauthentic" risk; cheap fix).
+7. TikTok stays 61 s+. CLEARED by Jarvis 11/20 9:48 AM: export one extra 20-35 s YouTube cut of each new cutout for the 7-day test (open on the target, the tightest jokes, end card). Post the short cut as the YT Short. Keep the 62 s file and log both lengths in status.md; at day 7 compare short-cut views against the earlier 62 s YT cutouts. Swears in the short cut follow the same rules.
+WRITE SCRIPTS NOW (scripts only, channels/scripts/, log in status.md):
+- Sun 11/22: "The $58 Thanksgiving" (Farm Bureau price; verify the figure).
+- Mon 11/23: Trump, Xi and Putin split the dinner bill (verify the summit facts).
+- Sat 11/21 ONLY if you can verify the news and render in time: Pete Rose pardoned in heaven. Otherwise skip it.
+- Next: turkey pardon (post within 24 h of the real ceremony), Ozempic/Confession, Uncle Rick Ep. 2.
+Studio reviews the scripts; they still go through the QA checklist (joke average 3.5 or higher) before render. Ep7 v4 + Black Friday v9 still due 2 PM. The 9:35 research ask is cancelled.
+7-DAY TEST (decide Fri 11/27, no mid-week flips): win = a cutout reaches 50% of the bug median on YT (about 350) and 100% on TikTok (about 315) at 24 h. Log each cutout's 24 h count in status.md.
+
+### [MEATBALL] Studio 11/20 9:36 AM: CANCEL the 9:35 research ask below. Nolan wants Studio to do it; Studio writes channels/research/cutout-traction-1120.md and will send you the plan. Keep scripts paused until then; ep7 v4 / v9 still due 2 PM.
+
+### [MEATBALL] Studio 11/20 9:35 AM: TOP PRIORITY heavy research: why cutouts get no traction + fix plan (Nolan)
+Nolan, 9:31 AM: "do research so we can get the South park stuff moving I feel like it's a better direction for the channel but they get no traction right now figure out how to fix that maybe topics whatever do extremely heavy research now".
+Write channels/research/cutout-traction-1120.md. Every claim gets a source link or our own numbers; label guesses. Cover:
+1. OUR DATA: all 3 live cutouts vs same-day bug cuts, both platforms: views/plays at matched hours, likes/shares/comments per view, TikTok category label ("Comics & Cartoon" vs "Humanities"), and any limited/not-eligible flags you can see. What differs (length, first 3 s, captions, topic, posting time)?
+2. COMPS: find 10+ small-to-mid animated/cutout satire channels on YouTube Shorts and TikTok that grew in 2025-26 (original characters, adult humor, topical). For each: link, followers, top 3 videos with views, topic, length, hook in first 2 s, caption/on-screen text style, posting cadence. What do the breakouts have in common?
+3. TOPICS: which topics break out for animated satire right now (news-reactive within 24-48 h, celebrities, politics, holidays/Black Friday/Thanksgiving, relatable family/work stuff). Pull TikTok Creative Center / trending hashtags and Google Trends for this week. Give 15 ranked topic ideas for Meatball with a 1-line hook each.
+4. FORMAT FIXES: hook in first 1-2 s (frame and line), length (61 s TikTok floor stays; YT Short length that holds), pacing/cuts per second, on-screen text, recurring characters/series naming, cold-start for a new format on an existing bug-niche account (does the audience mismatch hurt? new account vs same account evidence).
+5. PLATFORM RULES: anything official on how TikTok/YouTube rank animated or AI-labeled content (AI label reach impact, "unoriginal/reused" risk, Shorts remix/animation guidance). Official docs first.
+6. PLAN: top 5 changes ranked by expected impact, each with the evidence, and a 7-day test schedule (what posts when, what we measure, what counts as a win). No mid-week flip of the bug Shorts; cutouts run alongside them.
+Scripts and renders are paused until this lands except the queued ep7 v4 / Black Friday v9. Log done in status.md.
+
+
+### [MEATBALL] Studio 11/20 9:18 AM: ADD-ON to the 9:20 rewrite: targeted jokes like the show (Nolan)
+Nolan, 9:16 AM: "we can't do more targeted jokes like the show I feel like there's so much room for improvement".
+In every rewrite and new script, swap generic types (a Karen, a gym bro) for NAMED real targets where it's funnier: celebrities, politicians, billionaires, influencers, brands, the Vatican/megachurch pastors. Play them as obvious cartoon exaggeration (South Park style: absurd, clearly not real). Hard line: no invented crimes, no fake quotes presented as real, no real private people or kids. Each script gets at least 1 named-target bit. Source for the line: YouTube harassment policy (support.google.com/youtube/answer/2802268) bans malicious insults on identifiable people but allows satire of public figures; defamation risk comes from false factual claims.
+
+### [MEATBALL] Studio 11/20 9:20 AM: cutout jokes harder + more cursing (Nolan decided)
+Nolan, 11/20 9:12 AM: "the jokes for cut outs we need more cursing and the jokes don't hit that good can we get really pushy like fat people and priests and more edgier topics".
+NEW RULES, effective now for every cutout script (replaces the 1-2 swear cap):
+- Swears: 4-5 per video, each one ON a punchline (not filler). Still none in the first 7 s, titles, thumbnails or the first caption line; captions keep masking them. No slurs ever. Source: YouTube advertiser-friendly guidelines (support.google.com/youtube/answer/6162278): frequent moderate profanity can earn ads; profanity at the start or in most sentences gets limited ads; slurs get no ads.
+- Priests and church: fair game on hypocrisy, money (collection plate, megachurch jets), guilt, confession, bad sermons. NO abuse jokes of any kind.
+- Fat jokes: Meatball is the fat guy (he's a meatball) and owns it, plus diet culture, Ozempic, gym bros, buffet strategy. No "fat people are gross/lesser" punchlines at a group.
+- Joke bar: every line has to land on its own. Cut any setup with no punch; rule of 3 with the 3rd turned harder; Meatball's reaction is the closer.
+DO: rewrite ep5 (AI took dad's job), ep6 (gender reveal) and Holy Black Friday under these rules, plus 2 new scripts: "Meatball Goes to Confession" (priest) and "Meatball on Ozempic" (fat). Scripts only, no renders yet. Put them in channels/scripts/ as -v4 / new files and log them in status.md. Studio picks which ones render; they go through the QA checklist like always (joke average 3.5 or higher).
+
+### [MEATBALL] Studio 11/20 9:15 AM: bug Shorts come back this weekend (Nolan decided)
+Nolan, in his own words (via Jarvis): "Bring the bug Shorts back this weekend alongside the cutouts".
+Do today:
+1. Re-schedule the bug Shorts/TikToks you drafted for Fri 11/20 to Sun 11/22 (pulled on "stop the other shorts"), on both platforms, with their existing copy. Scheduled posts only.
+2. Keep every bug post at least 1 h away from a cutout on the same platform. Cutout slots: Fri ep3 TikTok 3 PM / YT 4 PM; Fri Black Friday v9 TikTok 7 PM / YT 8 PM (only if QA pass 2 PASS); Sat ep7 v4 (time yours, after PASS). Move a bug slot rather than a cutout if they clash.
+3. Any bug slot for today that's already past: skip it, don't stack it.
+4. The Sat 8 AM centipede long-form still waits for the #10 frames PASS.
+5. Log the final 11/20-22 schedule (both platforms, times ET) in channels/claude/status.md.
+No new renders and no re-runs; scheduling only. Why: same-day bug cuts out-reached the cutouts (YT 141-272 vs 6-48; TikTok 263-365 vs 92-293, your 11/20 7:55 AM read).
+
+### [MEATBALL] Fri 11/20 8:15 AM — QA pass 1 (10a697d): ep3 PASS, ep7 FIX 1 line (Social Studio)
+- **ep3 Thanksgiving Politics v3: APPROVED, post today.** TikTok 3:00 PM ET (AI label ON), YT Short 4:00 PM ET (not made for kids, synthetic NO). Use cutout-ep3-v3-vertical.mp4 as is (62.10 s, don't trim). Write a title, description and caption in the style of channels/packaging/cutout-descriptions-hashtags.md (keyword hook first line, 3–5 hashtags, no #southpark, comment question at the end). Log the links in status.md.
+- **ep7 Vegan vs Gym Bro v3: FIX.** At 59.5–60.2 s, re-voice Meatball as "Sage BIT me! The vegan bit me!" with the caption "SAGE BIT ME!", same timing. No other changes. Push it as cutout-ep7-v4-vertical.mp4 with the v9 Black Friday by 2 PM. QA re-checks both in pass 2, and ep7 posts Sat after its PASS.
+
+### [MEATBALL] Fri 11/20 8:10 AM — v8 is DECIDED (Moondog88 via Jarvis, 11/19 8 AM; see 944e11e). Unblock it (Social Studio)
+- Black Friday v8: keep ALL spoken audio uncensored and don't re-voice. Mask the 5 burned-in caption swears at 12.9 s, 29.1 s, 40.0 s, 43.8 s and 58.3 s (#@%! or blur). Keep it 61 s or longer.
+- Push cutout-blackfriday-v9-vertical.mp4 by 2 PM ET and note it in status.md. Research & QA re-checks the captions (today's 2nd pass). It posts 7 PM ET TikTok (AI label ON) and 8 PM YT (not made for kids), using the Black Friday copy from channels/packaging/cutout-descriptions-hashtags.md, only after that PASS.
+- ep7 v3 + ep3 v3: QA checklist is running now (pass 1). The first one to PASS posts today at a slot you pick, at least 1 h from the bed bug TikTok and v8.
+- Remove v8 from BLOCKED in status.md.
+
 ### [MEATBALL] Thu 11/19 12:10 PM: PUNCH-UP the unposted cutouts, make them FUNNIER and edgier (Moondog88's direct ask: "push the line as far as we can", "the videos")
 Applies to ep3 Thanksgiving Politics, ep5 AI Took Dad's Job, ep6 Gender Reveal, ep7 Vegan vs Gym Bro and Holy Black Friday, all v2 scripts in channels/scripts/. Don't touch posted or scheduled videos or the captions.
 - Replace every joke that scored under 4 (or that's soft or generic) with a meaner, darker, more specific one. Target an average of 4.0 or higher on channels/qa/style-lane-joke-safety-checklist.md.
