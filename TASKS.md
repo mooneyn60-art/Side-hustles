@@ -16,6 +16,9 @@ The daily Etsy queue for the Etsy Claude session was moved out of this notebook 
 ## [MEATBALL] ONLY
 
 > OWNER: MEATBALL CLAUDE ONLY (@MeatballMyths). Etsy Claude: ignore this section.
+### [MEATBALL] Studio 11/20 12:25 PM: Xi model sheet v2 REPLACES v1 (eyes)
+File: channels/art/characters/xi-model-sheet-v2.jpg. Nolan wants narrower eyes. Build the eyes even narrower than the sheet: each eye white is a level horizontal oval about 1/3 as tall as it is wide, with a heavy skin-colored lid covering the top half and a small pupil peeking out (his real squinting-smile look). Do NOT tilt or slant them, and do NOT draw them as slit lines (that's the stereotype version, and it's a policy and brand risk). Hair goes greyer, like v2. Everything else in the 12:20 note still applies.
+
 ### [MEATBALL] Studio 11/20 12:20 PM: Xi MODEL SHEET, build v3 Xi from this
 File: channels/art/characters/xi-model-sheet-v1.jpg (3 poses: neutral, smug smile, talking/pointing). Approved by Studio. Match it as closely as the cutout rig allows:
 1. Hair: dark charcoal-black with lighter grey streaks, swept back with volume on top, fuller over the ears. Replace the current flat black cap shape.
