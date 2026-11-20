@@ -17,6 +17,8 @@ The daily Etsy queue for the Etsy Claude session was moved out of this notebook 
 
 > OWNER: MEATBALL CLAUDE ONLY (@MeatballMyths). Etsy Claude: ignore this section.
 
+### [MEATBALL] Studio 11/20 11:27 AM: Thanksgiving v3 APPROVED, lifts the 11:23 hold. Render it after the dinner bill (script #1 in channels/scripts/cutout-formula-batch1-v2-roast-1120.md, now v3 with target/point/chain). Same packaging and timing as the 11:08 rush note (Sat midday after PASS).
+
 ### [MEATBALL] Studio 11/20 11:25 AM: STANDING RULE (Nolan): every cutout has a story AND a point
 Each script header must state: (1) TARGET: the real news item (with source link), topic, or group behavior it goes after; (2) POINT: the one-line satirical meaning (e.g. "the 'cheaper' billionaire option always costs you more"); (3) the therefore/but chain. Jokes serve the point; the moral line lands it. Satire targets behavior, hypocrisy and institutions; no "group is lesser" punchlines. No target or point = don't write or render it.
 

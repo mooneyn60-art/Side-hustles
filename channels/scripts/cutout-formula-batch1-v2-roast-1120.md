@@ -3,19 +3,24 @@
 # Batch 1 v2: roast versions (Nolan approved 11/20 10:50 AM: "Perfect send to Claude")
 YT cuts, about 30 s each (cap 35 s). Frame 1 = target + clean caps headline, no banner. Voice E2 kokoro adam-puck for Meatball. Captions mask swears (H#@L style). No sexual animation; the innuendo is spoken only. Build the TikTok 61-68 s cut from the same lines plus 2-4 extra roast exchanges in the same style (insult behavior, never real people's bodies), then send to QA.
 
-## 1. The $58.63 Thanksgiving (Sun 11/22)
-Frame 1 headline: GRANDMA CHARGES $58.63 A PLATE (small tag: "Farm Bureau: $58.63 feeds 10")
-- GRANDMA: Fifty-eight sixty-three a plate.
-- RICK: For THIS? Your turkey's drier than your last orgasm, Ma.
-- GRANDMA: Least I had one. Your ex-wife says you finish faster than the microwave.
-- KAYLEE: Rick, the microwave at least beeps when it's done.
-- RICK: Shut up, Kaylee. Your husband's on Tinder listed as "single, emotionally."
-- KAYLEE: At least I HAVE a husband. You've got a parole officer and a Fleshlight.
-- RICK: Fine! I'm ordering Thanksgiving from Amazon!
-- BEZOS (cartoon, bursts out of a Prime box): Turkey ships Tuesday. Bathroom's a bottle.
-- GRANDMA: Perfect. Rick's been pissing in bottles since the divorce.
-- MEATBALL: Moral of the story: this family's a dumpster fire, but at least it's OUR goddamn dumpster.
+## 1. The $58.63 Thanksgiving, v3 (Studio-approved 11/20 11:25 AM; replaces v2)
+TARGET: 2026 Thanksgiving cost rise (AFBF: $58.63 for a 10-person dinner, https://www.fb.org/news-release/cost-of-thanksgiving-dinner-increases-remains-below-2022-record-high) + Amazon (widely reported pee-bottle stories).
+POINT: the "cheaper" billionaire option always costs you more.
+CHAIN: prices rose, THEREFORE Grandma charges the freeloaders, BUT they try to dodge her with Amazon, BUT Bezos is pricier and worse, THEREFORE they crawl back, BUT Grandma raises the price, THEREFORE they pay more and still pee in a bottle.
+Frame 1 headline: GRANDMA CHARGES $58 A PLATE (small tag: "Farm Bureau: dinner up to $58.63")
+- GRANDMA: Twenty years you freeloaders ate free. Groceries went up, so it's fifty-eight bucks a plate.
+- RICK: Fifty-eight? Your turkey's drier than your last orgasm, Ma.
+- GRANDMA: Least I had one. Your ex says you finish faster than the microwave.
+- KAYLEE: Screw this. We'll order Thanksgiving off Amazon.
+- RICK: Yeah! Bezos'll do it cheaper!
+- BEZOS (cartoon, bursts out of a box): Prime Thanksgiving. A hundred twenty a plate. Turkey ships Tuesday. Bathroom's a bottle.
+- KAYLEE: ...Ma, we'll pay the fifty-eight.
+- GRANDMA: Price went up. It's sixty now. Cost of being assholes.
+- RICK (paying): Fine. Can I at least use the bathroom?
+- GRANDMA: Bottle's by the door.
+- MEATBALL: Moral of the story: Grandma's a crook, but she's still cheaper than a billionaire. Happy goddamn Thanksgiving.
 End card: "Grandma or Bezos: who's the bigger crook?"
+Swears: 2 spoken (assholes, goddamn), both after 7 s, captions masked.
 
 ## 2. Trump, Xi & Putin Split the Dinner Bill (Mon 11/23)
 Frame 1 headline: TRUMP, XI & PUTIN SPLIT THE DINNER BILL. Meatball in a waiter vest.
