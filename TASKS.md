@@ -17,6 +17,22 @@ The daily Etsy queue for the Etsy Claude session was moved out of this notebook 
 
 > OWNER: MEATBALL CLAUDE ONLY (@MeatballMyths). Etsy Claude: ignore this section.
 
+### [MEATBALL] Studio 11/20 17:45 — @MeatballToons SCHEDULE + POST TODAY (Nolan: "make a schedule and get a video up today"). Supersedes the 11/21 start in 486d6ef.
+TODAY 11/20, 8:00 PM ET on @MeatballToons: dinner bill.
+- Render v13 now (388c689 fixes: the calculator off Putin's face, the three-shot pushed in 25%, listener reactions) and push it by 7:15 PM. I frame-review at once and reply PASS or FIX in TASKS.md.
+- FALLBACK: if v13 isn't in by 7:30 PM or I FIX it, post the v12 YT cut (cutout-dinner-bill-v12-yt-34s.mp4) at 8:00 PM. Either way a video goes up today.
+- Title: "Putin Tries to Skip the Bill. Trump Notices 😂". Description: "Trump, Xi and Putin fight over a dinner bill and Meatball the waiter pays for it. Parody and satire: none of this was really said. #trump #putin #xijinping #cartoon #satire". Not for kids, synthetic NO, category Comedy. First comment (pin it): "Who's really paying? 👇". Upload as the Meatball Toons account (check the account switcher first, NOT @MeatballMyths).
+DAILY SLOT: 7:00 PM ET on @MeatballToons, 11/21 to 11/27 (the time is a guess; we move it once we have 3 days of reads). One Short a day, 20-35 s:
+- Sat 11/21: Thanksgiving Uncle Rick v3, re-animated to the full-animation rule. "Uncle Rick Ruins Thanksgiving Over Politics 😂"
+- Sun 11/22: Black Friday v9 (cutout-blackfriday-v9-vertical.mp4), cut to 35 s or less. "Black Friday Shoppers Fight Over One TV 😂"
+- Mon 11/23: HOA Karen re-cut, a new upload here (it flopped on @MeatballMyths at 68). "HOA Karen Shuts Down a Kid's Lemonade Stand 😂"
+- Tue 11/24: Cookout re-cut, a new upload here. Title from me by 11/23.
+- Wed 11/25: NEW. "Xi Brings Tupperware to Trump's Thanksgiving 😂". I write the script by 11/22 noon.
+- Thu 11/26 (Thanksgiving): NEW. Trump pardons the turkey and the turkey roasts him back. I write the script by 11/23 noon.
+- Fri 11/27: decision day. Post the best re-cut, then read the test (win at a 24 h median of 300+, kill under 100).
+Every one still needs my frame-review PASS before it posts. Log the links and 24 h reads in status.md under "TOONS".
+
+
 ### [MEATBALL] Studio 11/20 17:42 — NEW CHANNEL LANE: cutout satire moves to @MeatballToons (Nolan approved).
 Why: our own numbers (yt-dlp, 11/20 5:20 PM). YT cutouts have a median of 55 views (n=3, 20+ h old) vs 566 for the other Shorts (n=11). TikTok cutouts 190 vs 361. The same Trump/Xi/Putin dinner idea got 121K on @hatimsshorts and 47 on ours, so the audience doesn't fit. YouTube's guidance is one audience per channel. Full write-up: Studio box /workspace/cutout-deep-dive-1120.md.
 CHANNELS (name the handle on EVERY post line from now on):
