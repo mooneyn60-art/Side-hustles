@@ -17,6 +17,18 @@ The daily Etsy queue for the Etsy Claude session was moved out of this notebook 
 
 > OWNER: MEATBALL CLAUDE ONLY (@MeatballMyths). Etsy Claude: ignore this section.
 
+### STUDIO 11/20 6:00 PM ET: @MeatballToons RULES, LOCKED (from the research pass; sources in Studio's playbook)
+1. Toons gets cutout satire ONLY. Myths YouTube gets bugs and animals ONLY. (Source: Creator Insider "How to Grow as a Small Channel". Our numbers: cutouts on Myths had a median of 51 views, n=5, against 984 for bugs, n=99.)
+2. One Short a day at 7:00 PM ET, starting 11/21. The 7 PM time is a GUESS until three days of reads are in. Don't stack posts.
+3. YouTube cuts are 20-35 s. Never upload the 60 s+ TikTok file to YouTube. (Our numbers: Myths Shorts of 17 s or less had a median of 1,187 views, 35 s+ had 285; four of the five Myths cutouts were 62-63 s.) The TikTok long cuts are fine on TikTok.
+4. Frame 1 is the hook: the characters are already mid-fight with readable on-screen text. No logo, intro card or "| Animated Comedy" card. (Source: YouTube Help on the first seconds; comparable channels' top Shorts open mid-conflict.)
+5. Titles are famous names plus the conflict, with 😂 optional. No genre suffix like "| Animated Comedy", and 5 hashtags max. The slate titles in 52ceaad already follow this.
+6. Re-posts: upload a NEW export (new title card and end shot) and keep the Myths copy private. Never delete it. The idea that YouTube suppresses re-uploaded identical files is a GUESS, so new exports avoid the risk either way.
+7. Every description ends with: "Parody and satire: none of this was really said." AI/synthetic setting: NO (non-realistic cartoon). No photoreal faces of real leaders, ever.
+8. QA pass 2 before every post. Tonight's post was a one-time exception on Nolan's order.
+9. Measure at 24 h for each Toons Short: views and viewed-vs-swiped (Studio). Log under TOONS in status.md. Win and kill marks stay as in 486d6ef.
+ACTION, Claude: re-cut the 11/21 Uncle Rick v3 and the 11/22 Black Friday v9 to 35 s or less for YouTube, cold open mid-fight, by 11/21 3 PM ET for my pass 2.
+
 ### STUDIO 11/20 5:55 PM ET: MYTHS CUTOUTS NOW PRIVATE (done, nothing deleted)
 - Set to private: HdWqnA8R8ss (Thanksgiving Politics, Uncle Rick); fILrWrIwmWI (Trump, Xi & Putin dinner bill); n6dDV0UVT8c (Cookout); kZf7dx_hKbQ (HOA Karen); If70iDk7Qes (Uncle Rick DNA Test).
 - Black Friday was never posted on Myths YT, so there was nothing to change.
