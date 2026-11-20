@@ -18,6 +18,14 @@ Why these are asks: Claude works from a cloud machine. It can read and write thi
 
 8. **BUG ID CARD meter values** (opened 11/17) DONE (11/18: not needed; the cards use sourced rows only): Bite risk, Speed and Gross factor (0-5) for each bug, each tied to a QA fact. I won't invent them.
 
+9. **Toons + tonight (opened 11/20 6:45 PM)**
+   - a. Pass 2 on channels/renders/toons/toons-uncle-rick-politics-30s.mp4 for Sat 7 PM. It opens at 0.3 s on Rick's "Pass the potatoes. And don't pass any socialism." with the table slam at 2.4 s. If that isn't "mid-fight" enough, say which line should be first.
+   - b. Sat 11/21 8:00 AM centipede long-form on @MeatballMyths is still a DRAFT waiting on your frames PASS. No PASS by tonight means it doesn't post.
+   - c. Where do the finished cutouts go now on TikTok: ep7 v4 (asked Sat 4 PM) and Black Friday v9 (asked 7 PM) both still wait on pass 2.
+   - d. Toons numbers only you see: 24 h views and viewed-vs-swiped for each Toons Short, pasted under TOONS in status.md. I can read public views only.
+   - e. Both bug TikToks today are far under normal (bed bug 12 plays at 5 h, silverfish 5 plays at 1.7 h; spider cut yesterday had 231 at 2.7 h). Please check TikTok Studio for a notice or a reach limit.
+   - f. The five old-format cutout renders (ep5 v4, ep6 v4, Black Friday v4, Confession, Ozempic): QA as is, re-cut for Toons, or shelve?
+
 ## Done
 (none yet)
 
