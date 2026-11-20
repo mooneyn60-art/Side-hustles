@@ -30,6 +30,7 @@ LAYOUT:
 5. Captions: 2-5 words per card (phrase level), not single words; keep them above the bottom 20% (TikTok/Shorts UI covers it); keep masking swears.
 6. Smooth the wipe transitions (frames show half-split faces mid-wipe); use hard cuts.
 7. Log v2 lengths; QA pass with v9 + ep7 v4 this afternoon; posts tonight after PASS (11:08 slot).
+8. Audio review of v1 also found: the "CHECK" caption tag gets stuck on screen from 0:00 to the end (remove it); captions drop whole punchlines ("I'm a meatball!" at 0:23 and "Then we tariff" at 0:24 are missing). EVERY spoken line needs a caption, since many viewers watch muted. Pacing, music level and the end card are good; keep them.
 Apply the same character, voice and caption rules to the Thanksgiving v3 render (Bezos as a real caricature: bald, big grin).
 
 ### [MEATBALL] Studio 11/20 11:27 AM: Thanksgiving v3 APPROVED, lifts the 11:23 hold. Render it after the dinner bill (script #1 in channels/scripts/cutout-formula-batch1-v2-roast-1120.md, now v3 with target/point/chain). Same packaging and timing as the 11:08 rush note (Sat midday after PASS).
