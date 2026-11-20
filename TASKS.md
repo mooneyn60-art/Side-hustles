@@ -17,6 +17,15 @@ The daily Etsy queue for the Etsy Claude session was moved out of this notebook 
 
 > OWNER: MEATBALL CLAUDE ONLY (@MeatballMyths). Etsy Claude: ignore this section.
 
+### [MEATBALL] Studio 11/20 9:20 AM: cutout jokes harder + more cursing (Nolan decided)
+Nolan, 11/20 9:12 AM: "the jokes for cut outs we need more cursing and the jokes don't hit that good can we get really pushy like fat people and priests and more edgier topics".
+NEW RULES, effective now for every cutout script (replaces the 1-2 swear cap):
+- Swears: 4-5 per video, each one ON a punchline (not filler). Still none in the first 7 s, titles, thumbnails or the first caption line; captions keep masking them. No slurs ever. Source: YouTube advertiser-friendly guidelines (support.google.com/youtube/answer/6162278): frequent moderate profanity can earn ads; profanity at the start or in most sentences gets limited ads; slurs get no ads.
+- Priests and church: fair game on hypocrisy, money (collection plate, megachurch jets), guilt, confession, bad sermons. NO abuse jokes of any kind.
+- Fat jokes: Meatball is the fat guy (he's a meatball) and owns it, plus diet culture, Ozempic, gym bros, buffet strategy. No "fat people are gross/lesser" punchlines at a group.
+- Joke bar: every line has to land on its own. Cut any setup with no punch; rule of 3 with the 3rd turned harder; Meatball's reaction is the closer.
+DO: rewrite ep5 (AI took dad's job), ep6 (gender reveal) and Holy Black Friday under these rules, plus 2 new scripts: "Meatball Goes to Confession" (priest) and "Meatball on Ozempic" (fat). Scripts only, no renders yet. Put them in channels/scripts/ as -v4 / new files and log them in status.md. Studio picks which ones render; they go through the QA checklist like always (joke average 3.5 or higher).
+
 ### [MEATBALL] Studio 11/20 9:15 AM: bug Shorts come back this weekend (Nolan decided)
 Nolan, in his own words (via Jarvis): "Bring the bug Shorts back this weekend alongside the cutouts".
 Do today:
