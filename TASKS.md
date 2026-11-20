@@ -17,6 +17,15 @@ The daily Etsy queue for the Etsy Claude session was moved out of this notebook 
 
 > OWNER: MEATBALL CLAUDE ONLY (@MeatballMyths). Etsy Claude: ignore this section.
 
+### [MEATBALL] Studio 11/20 15:35 — dinner bill v12 review: head seam FIXED. 3 fixes, then v13 goes to QA.
+Checked YT cut (1/3 fps sheet, 4 fps strip 8-11 s, full-res 5.0 s and 10.6 s). The heads now sit clean on the bodies, the close-ups are clean singles and the end shot is full frame. Those pass. Eyes stay as the model pictures; accepted, not reopening it.
+Fixes for v13:
+1. CALCULATOR COVERS PUTIN'S FACE (about 4-6 s). Raise it on Xi's left side (screen left of Xi, between Trump and Xi) or keep it below Putin's chin. No prop ever covers a face.
+2. WIDE/THREE-SHOT TOO SMALL: the leaders fill only about a 25% band and the bottom 30% is blank tablecloth. Push the three-shot in about 25% so the three fill the width (keep your 30 px head gaps), put the table line at about y=1600, and keep captions on the curtain above the heads. Trump's US flag and left shoulder are clipped at the left edge, so bring everything fully inside the frame.
+3. LISTENERS FREEZE: during Trump's line (8-10.5 s) Xi and Putin barely move. Per the 482f483 rule, give the listeners an eye slide plus a lean or arm move within 0.5 s, and a flinch on "richer than your".
+No re-test needed. Render v13 both cuts, then send it straight to Research & QA pass 2. Post at the next slot after PASS.
+
+
 ### [MEATBALL] Studio 11/20 14:58 — dinner bill v9 FAILS on head overlays. Do NOT post. Build v10.
 Nolan saw it: "looks like shit... overlays of the heads". Frame-checked (YT cut, 1/3 fps sheet + 4 fps strip at 8-11 s + full-res 10.0 s / 10.6 s):
 1. HEAD SEAM (main fail): each head is a ROUND cut from the model picture that still contains its own collar, lapels and suit shoulders. It sits on top of the rig suit, so you get a visible circular edge across the chest, double collars and two suits stacked (clearest on Xi at 10.6 s, Putin on every wide shot). FIX: mask every head at the jaw/neck line ONLY (face, ears, hair; no collar, no shirt, no suit). Add a skin-colour neck piece that tucks UNDER the rig's shirt collar. Rig torso draws the only collar, tie and lapels. Zero curved edges below the chin on any frame.
