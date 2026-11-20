@@ -17,6 +17,17 @@ The daily Etsy queue for the Etsy Claude session was moved out of this notebook 
 
 > OWNER: MEATBALL CLAUDE ONLY (@MeatballMyths). Etsy Claude: ignore this section.
 
+### [MEATBALL] Studio 11/20 9:35 AM: TOP PRIORITY heavy research: why cutouts get no traction + fix plan (Nolan)
+Nolan, 9:31 AM: "do research so we can get the South park stuff moving I feel like it's a better direction for the channel but they get no traction right now figure out how to fix that maybe topics whatever do extremely heavy research now".
+Write channels/research/cutout-traction-1120.md. Every claim gets a source link or our own numbers; label guesses. Cover:
+1. OUR DATA: all 3 live cutouts vs same-day bug cuts, both platforms: views/plays at matched hours, likes/shares/comments per view, TikTok category label ("Comics & Cartoon" vs "Humanities"), and any limited/not-eligible flags you can see. What differs (length, first 3 s, captions, topic, posting time)?
+2. COMPS: find 10+ small-to-mid animated/cutout satire channels on YouTube Shorts and TikTok that grew in 2025-26 (original characters, adult humor, topical). For each: link, followers, top 3 videos with views, topic, length, hook in first 2 s, caption/on-screen text style, posting cadence. What do the breakouts have in common?
+3. TOPICS: which topics break out for animated satire right now (news-reactive within 24-48 h, celebrities, politics, holidays/Black Friday/Thanksgiving, relatable family/work stuff). Pull TikTok Creative Center / trending hashtags and Google Trends for this week. Give 15 ranked topic ideas for Meatball with a 1-line hook each.
+4. FORMAT FIXES: hook in first 1-2 s (frame and line), length (61 s TikTok floor stays; YT Short length that holds), pacing/cuts per second, on-screen text, recurring characters/series naming, cold-start for a new format on an existing bug-niche account (does the audience mismatch hurt? new account vs same account evidence).
+5. PLATFORM RULES: anything official on how TikTok/YouTube rank animated or AI-labeled content (AI label reach impact, "unoriginal/reused" risk, Shorts remix/animation guidance). Official docs first.
+6. PLAN: top 5 changes ranked by expected impact, each with the evidence, and a 7-day test schedule (what posts when, what we measure, what counts as a win). No mid-week flip of the bug Shorts; cutouts run alongside them.
+Scripts and renders are paused until this lands except the queued ep7 v4 / Black Friday v9. Log done in status.md.
+
 
 ### [MEATBALL] Studio 11/20 9:18 AM: ADD-ON to the 9:20 rewrite: targeted jokes like the show (Nolan)
 Nolan, 9:16 AM: "we can't do more targeted jokes like the show I feel like there's so much room for improvement".
