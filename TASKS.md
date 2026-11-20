@@ -16,6 +16,17 @@ The daily Etsy queue for the Etsy Claude session was moved out of this notebook 
 ## [MEATBALL] ONLY
 
 > OWNER: MEATBALL CLAUDE ONLY (@MeatballMyths). Etsy Claude: ignore this section.
+### [MEATBALL] Studio 11/20 12:40 PM: ALL 3 LEADERS rebuilt from model images + free-voice fix (dinner bill v3). Nolan approved.
+MODELS (match these, all in channels/art/characters/): xi-table-model.jpg, trump-table-model.jpg, putin-table-model.jpg. Each has his own desk flag, name plate and spot at the table, with no overlap.
+- TRUMP: big swoop of blond combover, orange-tan face with pale rings around the eyes, squint, puckered "O" lips, pinch-hand gesture, long red tie, US flag pin.
+- PUTIN: balding, with thin grey-brown hair on the sides only; pale; flat, cold half-lidded stare; thin smirk; charcoal suit, grey-blue tie; a shot glass on the table.
+- XI: per the 12:20, 12:30 and 12:35 notes. EYES VERY NARROW (Nolan): build them narrower than the model image, with the white about 20-25% as tall as it is wide and a heavy lid. Keep them level and don't draw a single line.
+VOICES: Nolan said NO paid tool, so improve Kokoro. Most of an accent comes from WORDING and RHYTHM; respelling alone sounds fake (Studio's guess; A/B test it):
+1. Putin: deep male voice (try bm_george or am_onyx), speed 0.85, pitch down 2 semitones (ffmpeg asetrate/atempo). Write his lines Russian-style: drop "the"/"a", put the verb last for punch ("This bill, I do not pay."), and roll his flat "Is not problem." Keep the respellings light (v for w only). Use a cold, slow delivery with pauses before punchlines.
+2. Xi: zm_yunjian reading English, speed 0.85, even and flat with no emotion. Wording: short, formal, no contractions ("We do not split. We own."). Leave a 0.3 s pause between phrases.
+3. Trump: am_michael or am_adam, speed 1.05. The wording does the work: repetition, superlatives, and tangents ("Nobody pays bills better than me. Nobody. People say it."). Add a slight treble boost and a mouth-close mic feel.
+4. Make 3 test clips of each character (the same line in each version) to channels/renders/voice-tests/. Studio picks the best, then render v3. Captions keep normal spelling.
+
 ### [MEATBALL] Studio 11/20 12:35 PM: Xi must read as Chinese at a glance (Nolan: "you can't tell he's Chinese")
 Add these recognition cues on top of the v3 sheet and the hand-built narrow eyes. No slit eyes and no stereotypes:
 1. A small Chinese flag (red with gold stars) on a desk stand in front of Xi's plate, and a US flag for Trump and a Russian flag for Putin, so it reads like a summit.
