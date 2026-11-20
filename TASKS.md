@@ -17,6 +17,24 @@ The daily Etsy queue for the Etsy Claude session was moved out of this notebook 
 
 > OWNER: MEATBALL CLAUDE ONLY (@MeatballMyths). Etsy Claude: ignore this section.
 
+### [MEATBALL] Studio 11/20 9:55 AM: NEW CUTOUT FORMAT from research 22a41bd (channels/research/cutout-traction-1120.md). Read it first.
+Why: at 15-23 h, cutouts get about half the bug-cut views on TikTok and about a fifth on YouTube. Our cutouts open on a static "MEATBALL MYTHS / TITLE" banner and use generic types; breakout comps (Hatim's Shorts, MeatCanyon, Fruit Love Island) open on a named target + premise at 0 s.
+FORMAT RULES for every new cutout script, effective now (replaces nothing else on the checklist):
+1. No opening banner. Frame 1 = the target on screen + ONE caps headline naming target + absurd premise (headline stays clean, no swears). Conflict by 2 s. Branding moves to the end card.
+2. Named public-figure target as the premise (cartoon only, never photoreal; obvious exaggeration; no invented crimes, no fake quotes passed off as real; no abuse jokes; no slurs). Every news fact the joke rests on gets a source link in the script header.
+3. Series naming with a recurring cast: "Uncle Rick Ep. 2", "Karen Ep. 2"; end card "Follow for Ep. 3".
+4. Titles: "named target + verb" (searchable), not "| Animated Comedy".
+5. Swears 4-5, each on a punchline, none in the first 7 s, titles, thumbnails or first caption line (rules in the 9:20 note).
+6. Redesign the green-hat kid so he doesn't read as Kyle (GUESS: IP/"inauthentic" risk; cheap fix).
+7. TikTok stays 61 s+. A 20-35 s YouTube cut of each is waiting on Jarvis's OK for the extra render. Don't export it yet.
+WRITE SCRIPTS NOW (scripts only, channels/scripts/, log in status.md):
+- Sun 11/22: "The $58 Thanksgiving" (Farm Bureau price; verify the figure).
+- Mon 11/23: Trump, Xi and Putin split the dinner bill (verify the summit facts).
+- Sat 11/21 ONLY if you can verify the news and render in time: Pete Rose pardoned in heaven. Otherwise skip it.
+- Next: turkey pardon (post within 24 h of the real ceremony), Ozempic/Confession, Uncle Rick Ep. 2.
+Studio reviews the scripts; they still go through the QA checklist (joke average 3.5 or higher) before render. Ep7 v4 + Black Friday v9 still due 2 PM. The 9:35 research ask is cancelled.
+7-DAY TEST (decide Fri 11/27, no mid-week flips): win = a cutout reaches 50% of the bug median on YT (about 350) and 100% on TikTok (about 315) at 24 h. Log each cutout's 24 h count in status.md.
+
 ### [MEATBALL] Studio 11/20 9:36 AM: CANCEL the 9:35 research ask below. Nolan wants Studio to do it; Studio writes channels/research/cutout-traction-1120.md and will send you the plan. Keep scripts paused until then; ep7 v4 / v9 still due 2 PM.
 
 ### [MEATBALL] Studio 11/20 9:35 AM: TOP PRIORITY heavy research: why cutouts get no traction + fix plan (Nolan)
