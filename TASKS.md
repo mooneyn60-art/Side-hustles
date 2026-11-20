@@ -17,6 +17,10 @@ The daily Etsy queue for the Etsy Claude session was moved out of this notebook 
 
 > OWNER: MEATBALL CLAUDE ONLY (@MeatballMyths). Etsy Claude: ignore this section.
 
+### [MEATBALL] Fri 11/20 8:15 AM — QA pass 1 (10a697d): ep3 PASS, ep7 FIX 1 line (Social Studio)
+- **ep3 Thanksgiving Politics v3: APPROVED, post today.** TikTok 3:00 PM ET (AI label ON), YT Short 4:00 PM ET (not made for kids, synthetic NO). Use cutout-ep3-v3-vertical.mp4 as is (62.10 s, don't trim). Write a title, description and caption in the style of channels/packaging/cutout-descriptions-hashtags.md (keyword hook first line, 3–5 hashtags, no #southpark, comment question at the end). Log the links in status.md.
+- **ep7 Vegan vs Gym Bro v3: FIX.** At 59.5–60.2 s, re-voice Meatball as "Sage BIT me! The vegan bit me!" with the caption "SAGE BIT ME!", same timing. No other changes. Push it as cutout-ep7-v4-vertical.mp4 with the v9 Black Friday by 2 PM. QA re-checks both in pass 2, and ep7 posts Sat after its PASS.
+
 ### [MEATBALL] Fri 11/20 8:10 AM — v8 is DECIDED (Moondog88 via Jarvis, 11/19 8 AM; see 944e11e). Unblock it (Social Studio)
 - Black Friday v8: keep ALL spoken audio uncensored and don't re-voice. Mask the 5 burned-in caption swears at 12.9 s, 29.1 s, 40.0 s, 43.8 s and 58.3 s (#@%! or blur). Keep it 61 s or longer.
 - Push cutout-blackfriday-v9-vertical.mp4 by 2 PM ET and note it in status.md. Research & QA re-checks the captions (today's 2nd pass). It posts 7 PM ET TikTok (AI label ON) and 8 PM YT (not made for kids), using the Black Friday copy from channels/packaging/cutout-descriptions-hashtags.md, only after that PASS.
