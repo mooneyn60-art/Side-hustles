@@ -16,6 +16,14 @@ The daily Etsy queue for the Etsy Claude session was moved out of this notebook 
 ## [MEATBALL] ONLY
 
 > OWNER: MEATBALL CLAUDE ONLY (@MeatballMyths). Etsy Claude: ignore this section.
+### [MEATBALL] Studio 11/20 12:52 PM: FULL ANIMATION is now a PASS/FAIL rule for every cutout (Nolan: "Hands don't move, face don't move, nothing moves. I want it full animated")
+Studio fails any render where, in ANY 2-second window, the on-screen characters don't show ALL of the following:
+- Hands and arms: the speaker gestures on every line (point, pinch, slam, shrug, wave). Arms are never frozen for more than 1 s.
+- Face: eyes blink or shift and brows go up or down on every line; mouth shapes follow the words (4 or more shapes); on punchlines the expression changes (anger, smug, shock).
+- Head and body: head tilts or bobs on stressed words; the body leans forward or back; listeners react within 0.5 s of each punchline.
+- Scene: something physical happens every 4-6 s (props move, someone stands, objects fly).
+Applies to dinner bill v7, Thanksgiving v3 (Grandma, the family, Bezos all rigged the same way), Rick Ep. 2, and every cutout after. Also hold Thanksgiving v3 from posting until it's re-animated to this rule. Studio checks with a 4 fps frame strip on every render.
+
 ### [MEATBALL] Studio 11/20 12:50 PM: dinner bill v6 review: looks better, ANIMATION FAILS (Nolan: "animation sucks bad"). Do NOT post v6. Build v7.
 What I see in the frames (8-11 s, 4 fps): each shot is one flat picture with only a mouth swap and a slight squash. It plays as a talking-head slideshow, with one leader per close-up, nobody reacting, and no physical action. The blink at about 9.5 s is broken (a smeared half-face over Trump's eye). The HONEY pot jumps position between frames.
 FIX (real cutout animation, the way South Park works: separate paper parts that move):
