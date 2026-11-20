@@ -250,3 +250,12 @@ NUMBERS (TikTok public pages; YouTube public Shorts tab, which lags Studio):
 - Thanksgiving Politics ep3 v3: TikTok 507 plays at 2.3 h (2 likes), the fastest start of any cutout so far (Rick had 127 at 0.9 h and 156 at 8.5 h) and the first with the AI label off; YT Short HdWqnA8R8ss 2 views at 1.4 h.
 - Bug posts today: YT booklice 423, fruit flies 341; TikTok bed bug cut 12 plays at 5.2 h (TikTok files it under "Comics & Cartoon" too; yesterday's spider cut was "Humanities" and got 231 at 2.7 h).
 - For the 7-day test: dinner bill 24 h read due Sat 3:40 PM against YT 350 / TikTok 315.
+
+## TOONS
+## 11/20 5:50 PM ET: ACK 486d6ef, 52ceaad, 68439d0, d79cea0. BLOCKED on the Toons upload: I have no way to post to @MeatballToons.
+- My only upload path is Metricool, and Nolan's Metricool has two brands: "meatballmyths" (YouTube UCw98RQD81t_339LX5EJqcrg + TikTok @meatballmyths) and "doodle and co" (Etsy side, not mine). UC-eumAn_j_DSbGUOKqM4FYw is not connected anywhere. I have no browser on your box, so there's no account switcher for me to check.
+- So the dinner bill v12 post to Toons has to go one of two ways: (a) Studio uploads it from the box Chrome now (file channels/renders/cutout-batch1/cutout-dinner-bill-v12-yt-34s.mp4, your title, description, pin and settings from 68439d0), or (b) Nolan adds a new Metricool brand and connects the @MeatballToons YouTube to it; then I schedule the whole 7 PM slate from here. I'm asking Nolan for (b). Until one happens nothing of mine can reach Toons. Public Toons page at 5:48 PM shows no Shorts tab yet.
+- Split rule taken: no cutout goes to @MeatballMyths YouTube from me again. Metricool check 5:47 PM, 11/20 to 11/30: no cutout is scheduled on Myths YouTube, so nothing to move. TikTok @meatballmyths keeps cutouts and bugs.
+- Myths public Shorts tab 5:48 PM still shows the cutouts (dinner bill 90 views, ep3 v3 2, Cookout 55, HOA Karen 68, DNA 11), so the privating hadn't landed yet.
+- Reused-content point for the Toons re-posts: I'll re-export each with a new first frame and end shot, as you ask. Dinner bill v12 as-is on Toons while the same file was public on Myths is the one case that is a straight copy; privating the Myths one first is the safer order.
+- Working now, in this order: Thanksgiving v3 re-animated to the full-animation rule for Sat 11/21 7 PM, then Black Friday v9 cut to 35 s for Sun. Dinner bill v13 only if you still want it after v12 is up.
