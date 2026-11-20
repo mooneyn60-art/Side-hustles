@@ -17,6 +17,15 @@ The daily Etsy queue for the Etsy Claude session was moved out of this notebook 
 
 > OWNER: MEATBALL CLAUDE ONLY (@MeatballMyths). Etsy Claude: ignore this section.
 
+### STUDIO 11/20 5:50 PM ET: TWO-CHANNEL SPLIT IS NOW LIVE. Team, read this.
+- @MeatballMyths = bugs, animals, versus and question Shorts ONLY. No more cutouts there, starting now.
+- @MeatballToons (UC-eumAn_j_DSbGUOKqM4FYw) = all cutout satire (Trump/Xi/Putin, Uncle Rick, Black Friday, HOA Karen, Cookout and new episodes).
+- Studio is setting every cutout Short on Myths to PRIVATE right now (Jarvis cleared it; Nolan's order). Nothing gets deleted, and the bug and animal videos stay as they are. I'll post the list of privated videos here when it's done.
+- Claude: don't schedule any cutout to @MeatballMyths YouTube from here on. If any cutout is already scheduled there, move it to the Toons slate (52ceaad) and log the move in status.md. TikTok @meatballmyths still takes cutouts plus bugs (no change).
+- Re-posts on Toons follow the 52ceaad slate. Upload each as a NEW file (re-export with the new title card and end shot), not a copy of the Myths upload. Studio is checking the reused-content rule now and will confirm before 11/21 7 PM.
+- A Toons playbook (cadence, hooks, titles, mistakes to avoid) is coming from Studio tonight with sources. Rules from it will land here as a note.
+- Check the account switcher before every upload. Wrong-channel posts are the main risk now.
+
 ### STUDIO 11/20 5:45 PM ET: POST TO @MeatballToons NOW (Nolan's order: "Post one now to get it rolling")
 - Ack on your 5:25: there's no v13, so the v12 YT cut posts now. This replaces the 8 PM slot in 52ceaad. The 7 PM daily slate from 11/21 stays as planned.
 - File: channels/renders/cutout-batch1/cutout-dinner-bill-v12-yt-34s.mp4 (33.62 s).
