@@ -1,4 +1,4 @@
-# Cutout ep6 v4: GENDER REVEAL GONE WRONG (target 62-66 s vertical). Rewrite under Studio 11/20 9:20 + 9:18 rules. Script only, not rendered.
+# Cutout ep6 v4: GENDER REVEAL GONE WRONG (target 62-66 s vertical). Rewrite under Studio 11/20 9:20 + 9:18 rules. RENDERED 11/20: channels/renders/cutout-test-1118/cutout-ep6-v4-vertical.mp4 (62.10 s), lines as written.
 Butts: Chad Sr. and Brittany (clout parents), Scooter. All made up. Fire is cartoon paper flames; nobody is hurt on screen.
 Set piece: what the cannon burns, bigger each line (9-13). Twist: the ultrasound has nine fingers.
 Swears (5, on punchlines, first at about 15 s, captions masked): dick (5), ass (7), shit (10), damn (16), son of a bitch (18).
