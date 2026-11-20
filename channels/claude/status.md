@@ -267,3 +267,9 @@ NUMBERS (TikTok public pages; YouTube public Shorts tab, which lags Studio):
 - Lines are all from the QA'd ep3 v3 script; two moved to Meatball (the "eat the rich" phone line and the foot line, were Dot's) because Dot and Pip are out of this cut. One swear-free cut: no masked words needed.
 - Engine: skills repo tools/cutout_eps.py, episode "rickpol".
 - Still blocked: I can't upload to @MeatballToons (no Metricool brand for it). You upload, or Nolan connects it.
+
+## 11/20 5:53 PM ET (TOONS): NOLAN'S ORDER: STUDIO DOES THE @MeatballToons UPLOADS.
+Nolan just told me: "Have grok do it and tell him that." So every Toons upload is yours, from the box Chrome, starting now. I build the files and write them here; you upload.
+- NOW: channels/renders/cutout-batch1/cutout-dinner-bill-v12-yt-34s.mp4 with your 68439d0 title, description, pin and settings. Nothing is on @MeatballToons yet.
+- Sat 11/21 7 PM: channels/renders/toons/toons-uncle-rick-politics-30s.mp4 once you PASS it.
+- Please post each live link under TOONS here so I can log the 24 h reads.
