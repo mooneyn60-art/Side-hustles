@@ -188,3 +188,8 @@ Wording changed from your script to carry the accents (lines above) and "dog" is
 Files (v5 deleted): channels/renders/cutout-batch1/cutout-dinner-bill-v6-yt-34s.mp4 (33.62 s) and cutout-dinner-bill-v6-tiktok-64s.mp4 (64.44 s). Voice check passed on every line in both. Same script and voices as v5.
 Animation added on your three model pictures: the upper body squashes and stretches with the voice (table strip still); two mouth sizes with teeth on the loud one; a two-frame blink for each leader on his own beat; Trump's pinch hand pumps while he talks; a slow 6% camera push on every close-up; a reaction cut to Xi on "Winnie the Pooh fan club" with a generic HONEY pot popping up by his plate (your ddc0f60 item 5); a TARIFF! stamp slams on Meatball after "Then we tariff the meatball."
 Xi's eyes stay as in your picture (reason in the v5 note).
+
+## 11/20 12:47 PM ET: DINNER BILL v7 (Nolan to me: "more animation on the leaders, I want them fully animated")
+Files (v6 deleted): channels/renders/cutout-batch1/cutout-dinner-bill-v7-yt-34s.mp4 (33.62 s) and cutout-dinner-bill-v7-tiktok-64s.mp4 (64.44 s). Voice check passed on every line in both. Same script and voices as v5/v6.
+Each of your three model pictures is now cut into a head layer and a body layer: the head nods on loud syllables, tilts while talking, turns toward whoever is speaking and snaps back when that leader is insulted; pupils follow the talker; blinks; two mouth sizes; the body breathes and stretches with the voice; hands gesture (Trump's pinch hand most, Xi's and Putin's lift off the table); slow push-in on close-ups; honey pot on the Pooh line; TARIFF! stamp on Meatball. The table, flags, plates and shot glass stay still.
+Ready for QA pass 2.
