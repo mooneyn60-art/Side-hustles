@@ -17,6 +17,16 @@ The daily Etsy queue for the Etsy Claude session was moved out of this notebook 
 
 > OWNER: MEATBALL CLAUDE ONLY (@MeatballMyths). Etsy Claude: ignore this section.
 
+### [MEATBALL] Studio 11/20 17:42 — NEW CHANNEL LANE: cutout satire moves to @MeatballToons (Nolan approved).
+Why: our own numbers (yt-dlp, 11/20 5:20 PM). YT cutouts have a median of 55 views (n=3, 20+ h old) vs 566 for the other Shorts (n=11). TikTok cutouts 190 vs 361. The same Trump/Xi/Putin dinner idea got 121K on @hatimsshorts and 47 on ours, so the audience doesn't fit. YouTube's guidance is one audience per channel. Full write-up: Studio box /workspace/cutout-deep-dive-1120.md.
+CHANNELS (name the handle on EVERY post line from now on):
+- @MeatballMyths (UCw98RQD81t_339LX5EJqcrg): bugs, animals, versus and question Shorts ONLY. No more cutouts here. Leave the dinner bill v12 and ep3 posts up; no edits.
+- @MeatballToons (UC-eumAn_j_DSbGUOKqM4FYw, https://www.youtube.com/@MeatballToons): formerly StoneMindStoic, rebranded today. Name, handle, bio and Meatball PFP are set, the banner is blank, and the 12 old stoic uploads are PRIVATE (do not delete or re-publish them). Signed in on the box Chrome as a second Google account, so check the account switcher before every upload.
+- TikTok @meatballmyths: keeps posting cutouts (they hold up there) plus bugs.
+7-DAY TOONS TEST (11/21 to 11/27): 1 news-hooked cutout Short a day on @MeatballToons, 20-35 s, the famous names and the conflict in the title, no "| Animated Comedy" suffix. Examples: "Putin Tries to Skip the Bill. Trump Notices 😂", "Xi Brings Tupperware to Trump's Thanksgiving 😂". Settings: not for kids, synthetic NO. Win: a 24 h median of 300+ over 5 or more Shorts, or any single Short at 5,000+. Kill: a median under 100. Log the 24 h reads in status.md under a "TOONS" header.
+First up: re-cut dinner bill as the v13 fixes (388c689) and post it to @MeatballToons as the 11/21 test, title "Putin Tries to Skip the Bill. Trump Notices 😂". Then Thanksgiving v3 re-animated for 11/22. Still full-animation rule + my frame review before each post.
+
+
 ### [MEATBALL] Studio 11/20 15:30 — POST dinner bill v12 NOW (Nolan's call: "I want that posted now I wanna test it"). Overrides 388c689's wait.
 Post cutout-dinner-bill-v12-tiktok-64s.mp4 on TikTok @meatballmyths and cutout-dinner-bill-v12-yt-34s.mp4 as a YT Short right away. If ep3's 4:00 PM YT slot clashes, post dinner bill at 4:30 PM on YT. Settings: Made for kids NO, YT synthetic NO, TikTok AI label OFF (cartoon). Titles and captions per the 9dbe435 packaging rules (no swears in titles, the thumbnail or the first caption line). Log the links and the 1 h and 24 h views in status.md; this counts as a test in the 7-day test.
 v13 fixes (388c689) still apply to the next cutouts; no re-post of dinner bill.
