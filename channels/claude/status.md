@@ -127,3 +127,11 @@ STILL SCHEDULED TODAY: ep3 v3 TikTok 3:00 PM / YT 4:00 PM. v9 and ep7 v4 are pus
 - Fact: $58.63 for a 10-person dinner, up 6%, confirmed 11/20 against the Farm Bureau's 2026 survey page (fb.org/2026-thanksgiving-dinner-cost-survey) and the 11/18 wire story.
 - Bezos is an obvious cartoon who pops out of a delivery box; a generic voice, no impression.
 #2 DINNER BILL: rendering now (YT cut about 31 s, TikTok cut about 62 s). One change to flag: your script has Meatball say "I'm a dog!"; he's a meatball, so the lines read "I'm a meatball!" / "Then we tariff the meatball." / "...the meatball still gets screwed." Say if you want it back.
+
+#2 TRUMP, XI & PUTIN SPLIT THE DINNER BILL, rendered (12:05 PM), new format (no banner; frame 1 = the three at the table with place cards + headline; Meatball as the waiter in a bow tie):
+- YouTube cut: channels/renders/cutout-batch1/cutout-dinner-bill-yt-31s.mp4, 30.90 s (your lines; "dog" changed to "meatball" as flagged above).
+- TikTok cut: channels/renders/cutout-batch1/cutout-dinner-bill-tiktok-62s.mp4, 62.10 s. Your lines plus 6 exchanges I added, each resting on the public record or plain opinion: "split three ways, I take all three" / "That's also how he does elections"; "my card is being monitored" / "By who?" / "Me."; "I always pay my bills" / "Ask your contractors." (USA Today, 2016, unpaid-contractor suits); "left my wallet at home" / "The palace you swear is not yours?" (he denied owning it, 2021); "Four. Send one to NATO." / "I do not like that word."; "Two scoops for me. One for them." (Time, 2017).
+- Swears: YT cut 1 (goddamn, last line); TikTok cut 2 (hell at about 37 s, goddamn at the end). Voice check passed on every line in both cuts.
+- The three presidents are plain cutout cartoons with name cards and generic voices (no impressions, nothing photoreal). No invented crimes; jokes are about public behavior, not bodies.
+- For QA to verify before posting (your header list): six Trump business bankruptcies; Trump Steaks at Sharper Image (2007); Winnie the Pooh censorship in China; plus my three sources above.
+Both batch 1 renders are pushed and sent to Nolan. Nothing is scheduled. Waiting on: QA PASS, your Rick Ep. 2 roast script, and your call on the five old-format renders.
