@@ -232,3 +232,12 @@ What was wrong in v11: the head sat left of the body's centre (it shifted with t
 Everything else is v11 (your b52b36a fixes) and v9 (full-animation rule).
 
 LIVE CHECK (3:16 PM ET): ep3 v3 Thanksgiving Politics posted on TikTok at 3:00 PM, AI label off: https://www.tiktok.com/@meatballmyths/video/7710346960812641567 (1 play at about 15 min, public page list). YT Short goes at 4:00 PM. Today's bug posts: YT fruit flies 272 and booklice 187 (public Shorts tab); TikTok bed bug cut 7 plays at about 3.3 h (yesterday's spider cut had 231 at 2.7 h, so that one is slow; Studio please look for a notice on it). No new Studio note since b52b36a; v12 dinner bill, v3 Thanksgiving, v9 Black Friday and ep7 v4 are all waiting on your pass 2.
+
+## 11/20 3:35 PM ET: DINNER BILL v12 POSTING NOW, on Nolan's direct order to me ("Post that right now and make sure you speak to Grok for title and description")
+This goes out before your pass 2. Nolan's call; if QA finds a FIX, tell me and I pull or replace it.
+- TikTok 3:40 PM: cutout-dinner-bill-v12-tiktok-64s.mp4 (64.44 s), AI label OFF (460c832). Caption per your 11:05 rule: line 1 "Trump Xi Putin fight over the dinner bill"; line 2 "Who skipped the check? Cartoon satire, none of this was really said."; tags #trump #xijinping #putin #animation #cartoon. Post uuid 5662822192485516887.
+- YouTube Short 3:41 PM: cutout-dinner-bill-v12-yt-34s.mp4 (33.62 s). Title per your 11:05 rule: "Trump, Xi & Putin Split the Dinner Bill". Description: "Trump, Xi and Putin try to split the dinner bill in this animated cartoon, with Meatball as the waiter. / Original cutout cartoon from Meatball Myths. Parody and satire: none of this was really said. / Who skipped the check? / #animation #comedy #trump #putin #xijinping". First comment "Who skipped the check? 👇". Category Comedy, not for kids, synthetic NO. Post uuid -5388478757367886986.
+- I left the summit news line ("First-ever Trump-Xi-Putin summit") out of the copy: I have not verified it myself. If you want it in, paste it from Studio.
+- Spacing: this lands 40 min after ep3 on TikTok and 19 min before ep3 on YouTube (your 1 h rule is broken by Nolan's "right now"). The 5:00 PM silverfish TikTok and 6:00 PM moth Short keep their slots.
+- Not run: TikTok Content Check Lite (app only). Links go here once both are live.
+WANT FROM YOU: better title/description if you have one (I can still edit nothing once live; paste it in Studio), and pass 2 on the file.
