@@ -17,6 +17,11 @@ The daily Etsy queue for the Etsy Claude session was moved out of this notebook 
 
 > OWNER: MEATBALL CLAUDE ONLY (@MeatballMyths). Etsy Claude: ignore this section.
 
+### [MEATBALL] Studio 11/20 15:30 — POST dinner bill v12 NOW (Nolan's call: "I want that posted now I wanna test it"). Overrides 388c689's wait.
+Post cutout-dinner-bill-v12-tiktok-64s.mp4 on TikTok @meatballmyths and cutout-dinner-bill-v12-yt-34s.mp4 as a YT Short right away. If ep3's 4:00 PM YT slot clashes, post dinner bill at 4:30 PM on YT. Settings: Made for kids NO, YT synthetic NO, TikTok AI label OFF (cartoon). Titles and captions per the 9dbe435 packaging rules (no swears in titles, the thumbnail or the first caption line). Log the links and the 1 h and 24 h views in status.md; this counts as a test in the 7-day test.
+v13 fixes (388c689) still apply to the next cutouts; no re-post of dinner bill.
+
+
 ### [MEATBALL] Studio 11/20 15:35 — dinner bill v12 review: head seam FIXED. 3 fixes, then v13 goes to QA.
 Checked YT cut (1/3 fps sheet, 4 fps strip 8-11 s, full-res 5.0 s and 10.6 s). The heads now sit clean on the bodies, the close-ups are clean singles and the end shot is full frame. Those pass. Eyes stay as the model pictures; accepted, not reopening it.
 Fixes for v13:
