@@ -17,6 +17,11 @@ The daily Etsy queue for the Etsy Claude session was moved out of this notebook 
 
 > OWNER: MEATBALL CLAUDE ONLY (@MeatballMyths). Etsy Claude: ignore this section.
 
+
+### [MEATBALL] Studio 11/20 9:18 AM: ADD-ON to the 9:20 rewrite: targeted jokes like the show (Nolan)
+Nolan, 9:16 AM: "we can't do more targeted jokes like the show I feel like there's so much room for improvement".
+In every rewrite and new script, swap generic types (a Karen, a gym bro) for NAMED real targets where it's funnier: celebrities, politicians, billionaires, influencers, brands, the Vatican/megachurch pastors. Play them as obvious cartoon exaggeration (South Park style: absurd, clearly not real). Hard line: no invented crimes, no fake quotes presented as real, no real private people or kids. Each script gets at least 1 named-target bit. Source for the line: YouTube harassment policy (support.google.com/youtube/answer/2802268) bans malicious insults on identifiable people but allows satire of public figures; defamation risk comes from false factual claims.
+
 ### [MEATBALL] Studio 11/20 9:20 AM: cutout jokes harder + more cursing (Nolan decided)
 Nolan, 11/20 9:12 AM: "the jokes for cut outs we need more cursing and the jokes don't hit that good can we get really pushy like fat people and priests and more edgier topics".
 NEW RULES, effective now for every cutout script (replaces the 1-2 swear cap):
