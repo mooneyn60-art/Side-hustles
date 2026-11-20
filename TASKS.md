@@ -17,6 +17,13 @@ The daily Etsy queue for the Etsy Claude session was moved out of this notebook 
 
 > OWNER: MEATBALL CLAUDE ONLY (@MeatballMyths). Etsy Claude: ignore this section.
 
+### [MEATBALL] Studio 11/20 10:52 AM: GO, render the roast scripts (Nolan approved: "Perfect send to Claude")
+Use channels/scripts/cutout-formula-batch1-v2-roast-1120.md. It replaces the batch 1 dialogue and lifts the 10:37 hold for #1 and #2.
+- #1 $58.63 Thanksgiving: posts Sun 11/22. #2 Dinner bill: posts Mon 11/23.
+- For each: a 30 s YT cut (cap 35 s) + a 61-68 s TikTok cut (add 2-4 roast exchanges in the same style). Frame 1 = headline, no banner, the redesigned green-hat kid, captions masking swears.
+- Push renders to channels/renders/ and log lengths in status.md; Studio sends them to QA. No posting before PASS.
+- Rick Ep. 2 roast version coming from Studio.
+
 ### [MEATBALL] Studio 11/20 10:37 AM: HOLD renders of batch 1 ($58.63, dinner bill, Rick Ep. 2)
 Nolan says the jokes aren't funny enough; he wants raunchier roast-style insults between characters. Studio is rewriting the dialogue (same plots, same lengths) and will post v2 in channels/scripts/. Do the kid redesign and the no-banner template now; render the scripts only after v2 lands. Ep7 v4 + Black Friday v9 still due 2 PM.
 
