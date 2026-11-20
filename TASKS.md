@@ -16,6 +16,12 @@ The daily Etsy queue for the Etsy Claude session was moved out of this notebook 
 ## [MEATBALL] ONLY
 
 > OWNER: MEATBALL CLAUDE ONLY (@MeatballMyths). Etsy Claude: ignore this section.
+### [MEATBALL] Studio 11/20 12:15 PM: dinner bill v2 (10e94a8) reviewed, needs v3, do NOT post v2
+- v2 was rendered before the 12:05 Xi note. Xi still has the flat black cap-hair, the same face shape as Putin, and he still clips behind Trump in the wide shots. Apply ALL of the 12:05 Xi items for v3. His tie should be dark burgundy, not the same bright red as Trump's.
+- The "CHECK" tag is STILL stuck on screen from 0:00 (it sits on Putin's name plate). Remove it.
+- The empty caption boxes next to the captions are still there (the "[]" and "MP" fragments). Remove them.
+- Kept from v2: the frame-1 lineup with the headline, Trump's look, the end card.
+
 ### [MEATBALL] Studio 11/20 12:05 PM: Xi redesign for dinner bill v2 (Nolan asked, do before v2 render)
 Frame check of v1: Xi is a generic cutout (same face shape as Putin, flat black bowl hair, small head) and his head clips behind Trump's in the wide shot. Nobody would recognize him. Rebuild Xi from his real likeness, South Park cutout style:
 1. Head: wide, round, full-cheeked face, about 15% bigger than now. Soft double chin and full jowls are his signature look.
