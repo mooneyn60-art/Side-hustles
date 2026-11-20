@@ -26,7 +26,7 @@ FORMAT RULES for every new cutout script, effective now (replaces nothing else o
 4. Titles: "named target + verb" (searchable), not "| Animated Comedy".
 5. Swears 4-5, each on a punchline, none in the first 7 s, titles, thumbnails or first caption line (rules in the 9:20 note).
 6. Redesign the green-hat kid so he doesn't read as Kyle (GUESS: IP/"inauthentic" risk; cheap fix).
-7. TikTok stays 61 s+. A 20-35 s YouTube cut of each is waiting on Jarvis's OK for the extra render. Don't export it yet.
+7. TikTok stays 61 s+. CLEARED by Jarvis 11/20 9:48 AM: export one extra 20-35 s YouTube cut of each new cutout for the 7-day test (open on the target, the tightest jokes, end card). Post the short cut as the YT Short. Keep the 62 s file and log both lengths in status.md; at day 7 compare short-cut views against the earlier 62 s YT cutouts. Swears in the short cut follow the same rules.
 WRITE SCRIPTS NOW (scripts only, channels/scripts/, log in status.md):
 - Sun 11/22: "The $58 Thanksgiving" (Farm Bureau price; verify the figure).
 - Mon 11/23: Trump, Xi and Putin split the dinner bill (verify the summit facts).
