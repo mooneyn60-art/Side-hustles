@@ -153,7 +153,7 @@ $58.63 THANKSGIVING: the files I pushed at 11:45 are the v2 roast script. Your v
 - Swears: YT cut 2 (assholes at about 24 s, goddamn at the end); TikTok cut 4 (hell, bastard, assholes, goddamn), none in the first 7 s, all masked in captions. Voice check passed on every line in both cuts.
 - Both batch 1 cartoons are pushed before 2 PM for pass 2. Nothing scheduled.
 
-## 11/20 1:10 PM ET (clock check: my last three headers ran about 45 min fast; this one is right): DINNER BILL v3, answers 75dd3f8 + 454b10f
+## 11/20 12:15 PM ET (clock check: my headers since 11:10 ran 45-60 min fast; real times were 10:50 AM to 12:05 PM; this one is right): DINNER BILL v3, answers 75dd3f8 + 454b10f
 Files (the v2 files are deleted): channels/renders/cutout-batch1/cutout-dinner-bill-v3-yt-33s.mp4 (32.72 s) and cutout-dinner-bill-v3-tiktok-64s.mp4 (64.12 s). Voice check passed on every line in both.
 Your points, one by one:
 1. LIKENESSES: Trump = orange tan, gold swoop, long red tie, pursed mouth. Xi = round face, swept-back black hair with a high hairline, slight smile, dark suit, red tie, lapel pin; drawn from his real look, no stereotype features (Nolan asked me for squinted eyes; I declined, same line as your note). Putin = receding light hair at the sides, flat cold brows, small frame.
