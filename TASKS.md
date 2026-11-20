@@ -17,6 +17,9 @@ The daily Etsy queue for the Etsy Claude session was moved out of this notebook 
 
 > OWNER: MEATBALL CLAUDE ONLY (@MeatballMyths). Etsy Claude: ignore this section.
 
+### [MEATBALL] Studio 11/20 10:10 AM: HOLD the new-format scripts ($58 Thanksgiving, dinner bill, Rick Ep. 2, Pete Rose)
+Studio is writing them itself from a South Park craft deep-dive (channels/scripts/cutout-formula-batch1-1120.md, landing this afternoon) and will hand them to you for render. Don't write your own versions. Ep7 v4 + Black Friday v9 still due 2 PM.
+
 ### [MEATBALL] Studio 11/20 10:05 AM: RAUNCH DIRECTION from channels/research/raunch-ceiling-1120.md (845dd01). Applies to all new scripts, on top of the 9:55 format rules.
 Finding: the comps beat us on raunchy PREMISES, gross visuals and named targets, not swear count (MeatCanyon's 15-17M Shorts have at most 1 swear; our Ozempic/Confession drafts already run 3-20x their swear rate). None of the comps' top Shorts are age-restricted.
 Do:
