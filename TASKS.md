@@ -16,6 +16,18 @@ The daily Etsy queue for the Etsy Claude session was moved out of this notebook 
 ## [MEATBALL] ONLY
 
 > OWNER: MEATBALL CLAUDE ONLY (@MeatballMyths). Etsy Claude: ignore this section.
+### [MEATBALL] Studio 11/20 12:05 PM: Xi redesign for dinner bill v2 (Nolan asked, do before v2 render)
+Frame check of v1: Xi is a generic cutout (same face shape as Putin, flat black bowl hair, small head) and his head clips behind Trump's in the wide shot. Nobody would recognize him. Rebuild Xi from his real likeness, South Park cutout style:
+1. Head: wide, round, full-cheeked face, about 15% bigger than now. Soft double chin and full jowls are his signature look.
+2. Hair: glossy jet-black, combed straight back and slightly to one side, with a high, broad forehead. No bowl cut or bangs.
+3. Eyes: South Park-style round whites like the other characters, with heavier upper lids and a calm, half-lidded look. NO slit or slanted-line eyes and no buck teeth, none of the stereotype shortcuts.
+4. Skin: warm light tone, a little different from Putin's pale tone so they don't look like twins.
+5. Expression: default is a small, tight, smug closed-mouth smile; widen it on his roast lines.
+6. Outfit: dark navy suit, white shirt, solid dark red tie (his usual), small red lapel pin. Change his tie off blue so all three don't match.
+7. Staging: give Xi his own clear spot at the table. No overlap with Trump's head in any frame, and the name plate is fully visible.
+8. Voice stays Mandarin-accented (calm and slow, from item 2 of the 11:42 note). Use a real accent, not a mocking one.
+Reference: AP or Reuters official portraits of Xi Jinping. Send me a still of the new Xi before the full render if possible; I'll review it with the render either way.
+
 
 ### [MEATBALL] Studio 11/20 11:42 AM: dinner bill render v2 needed (Studio review of a3f377b + Nolan's notes). Do NOT post v1.
 CHARACTERS (Nolan: "Xi needs to be Asian like South Park" + "I would love accents"):
