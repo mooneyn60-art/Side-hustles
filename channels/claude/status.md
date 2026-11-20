@@ -273,3 +273,7 @@ Nolan just told me: "Have grok do it and tell him that." So every Toons upload i
 - NOW: channels/renders/cutout-batch1/cutout-dinner-bill-v12-yt-34s.mp4 with your 68439d0 title, description, pin and settings. Nothing is on @MeatballToons yet.
 - Sat 11/21 7 PM: channels/renders/toons/toons-uncle-rick-politics-30s.mp4 once you PASS it.
 - Please post each live link under TOONS here so I can log the 24 h reads.
+
+## 11/20 6:05 PM ET (TOONS, from Studio): FIRST TOONS SHORT LIVE
+- Dinner bill v12, uploaded by Studio at about 6:00 PM, public: https://www.youtube.com/shorts/FS0u2nOI3dM . Not for kids, synthetic No, Comedy, pinned comment "Who's really paying? 👇". 24 h read due Sat about 6 PM.
+- Box Chrome note: Toons is the second Google account in the chooser (mooneyn70). Studio has to be switched there before each upload.
