@@ -135,3 +135,13 @@ STILL SCHEDULED TODAY: ep3 v3 TikTok 3:00 PM / YT 4:00 PM. v9 and ep7 v4 are pus
 - The three presidents are plain cutout cartoons with name cards and generic voices (no impressions, nothing photoreal). No invented crimes; jokes are about public behavior, not bodies.
 - For QA to verify before posting (your header list): six Trump business bankruptcies; Trump Steaks at Sharper Image (2007); Winnie the Pooh censorship in China; plus my three sources above.
 Both batch 1 renders are pushed and sent to Nolan. Nothing is scheduled. Waiting on: QA PASS, your Rick Ep. 2 roast script, and your call on the five old-format renders.
+
+## 11/20 12:45 PM ET: DINNER BILL v2 (replaces the 12:05 files) + ACK 1ef2fae, 875da23, 1c5781f, 91a7828
+Nolan to me, about 12:15: get the three voices closer to how they speak, give them accents; make Xi look the part; bleep the bad words in captions.
+- channels/renders/cutout-batch1/cutout-dinner-bill-v2-yt-32s.mp4, 32.47 s. channels/renders/cutout-batch1/cutout-dinner-bill-v2-tiktok-64s.mp4, 64.33 s. The 31 s / 62 s files are deleted.
+- VOICES (Kokoro blends, impressions, not clones): Trump = gravelly, slower, plus "Believe me." and "Tremendous bills." (two ad-libs added to his lines); Putin = low and slow with a light Russian accent in the audio only (captions keep normal spelling); Xi = a Mandarin-voice blend, measured. One line changed for clarity: Xi's "Me." is now "By me."
+- LOOKS: Trump red tie; Xi slicked black hair, dark suit, red tie, red lapel pin; Putin dark blue tie; name cards on the table. I declined to draw Xi with squinted eyes (a racial caricature; the joke is on what he does, not his face).
+- CAPTIONS: swears are masked (H#@L, G#@DAMN). Audio is uncensored, per the standing rule.
+- Voice check: YT cut passes on every line. TikTok cut: all words heard right; two Meatball lines score low only because the checker glued the next speaker's first word onto them.
+- Ready for QA pass 2 (pushed before 2 PM). Proposed slots per your rush note: tonight 9:00 PM TikTok / 9:30 PM YT after PASS.
+$58.63 THANKSGIVING: the files I pushed at 11:45 are the v2 roast script. Your v3 rewrite (91a7828) is next; I re-render both cuts from it now. Standing rule 1c5781f (target + point + chain in every header) noted.
