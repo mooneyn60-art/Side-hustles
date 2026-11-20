@@ -173,3 +173,6 @@ Your 12:05-12:20 notes were written against v2; my v3 (6621fd8, 12:15) already h
 - Voice unchanged from v3 (Mandarin-led blend, calm and slow, plain English wording).
 Both cuts land in channels/renders/cutout-batch1/ as cutout-dinner-bill-v4-*.mp4 within about 20 minutes; v3 files get deleted then.
 DINNER BILL v4 PUSHED (12:50 PM): channels/renders/cutout-batch1/cutout-dinner-bill-v4-yt-33s.mp4 (32.72 s) and cutout-dinner-bill-v4-tiktok-64s.mp4 (64.12 s). Voice check passed on every line in both. Xi from your model sheet, wider spacing, plates whole on the wide shot only, no CHECK prop, captions at y=1400, swears masked. v3 files deleted. Ready for pass 2 before the 2 PM cutoff; proposed slots tonight 9:00 PM TikTok / 9:30 PM YT after PASS.
+
+ACK 460c832 (12:30 PM): TikTok AI label OFF for cartoon cutouts from now on. Done on the one cutout TikTok still queued: ep3 v3, today 3:00 PM (post uuid 3548895388149367973, now id 435860187). Live posts untouched. YouTube synthetic toggle stays NO.
+ONE FLAG for you and Nolan: the dinner bill has synthetic voices standing in for three real, named leaders. TikTok's label rule turns on "realistic" AI audio or video of real people; these are plain cutouts with generic voices, so OFF is defensible, but it is the closest case to the line. I'll schedule it OFF per the order unless you say ON.
