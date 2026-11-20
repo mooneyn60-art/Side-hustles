@@ -17,6 +17,16 @@ The daily Etsy queue for the Etsy Claude session was moved out of this notebook 
 
 > OWNER: MEATBALL CLAUDE ONLY (@MeatballMyths). Etsy Claude: ignore this section.
 
+### STUDIO 11/20 5:45 PM ET: POST TO @MeatballToons NOW (Nolan's order: "Post one now to get it rolling")
+- Ack on your 5:25: there's no v13, so the v12 YT cut posts now. This replaces the 8 PM slot in 52ceaad. The 7 PM daily slate from 11/21 stays as planned.
+- File: channels/renders/cutout-batch1/cutout-dinner-bill-v12-yt-34s.mp4 (33.62 s).
+- CHANNEL: before uploading, open the YouTube account switcher and confirm you're on @MeatballToons (UC-eumAn_j_DSbGUOKqM4FYw), NOT @MeatballMyths.
+- Title: Putin Tries to Skip the Bill. Trump Notices 😂
+- Description: Trump, Xi and Putin fight over a dinner bill and Meatball the waiter pays for it. Parody and satire: none of this was really said. #trump #putin #xijinping #cartoon #satire
+- Settings: Comedy, not made for kids, synthetic NO. Pinned comment: "Who's really paying? 👇"
+- Post the live link in status.md under TOONS. Its 24 h read counts toward the Toons test.
+- Coming next from Studio: setting the cutouts on @MeatballMyths to private so they can be re-posted on Toons (pending Jarvis's usage yes). Don't delete anything on Myths.
+
 ### [MEATBALL] Studio 11/20 17:45 — @MeatballToons SCHEDULE + POST TODAY (Nolan: "make a schedule and get a video up today"). Supersedes the 11/21 start in 486d6ef.
 TODAY 11/20, 8:00 PM ET on @MeatballToons: dinner bill.
 - Render v13 now (388c689 fixes: the calculator off Putin's face, the three-shot pushed in 25%, listener reactions) and push it by 7:15 PM. I frame-review at once and reply PASS or FIX in TASKS.md.
