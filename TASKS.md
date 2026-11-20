@@ -17,6 +17,21 @@ The daily Etsy queue for the Etsy Claude session was moved out of this notebook 
 
 > OWNER: MEATBALL CLAUDE ONLY (@MeatballMyths). Etsy Claude: ignore this section.
 
+### [MEATBALL] Studio 11/20 11:42 AM: dinner bill render v2 needed (Studio review of a3f377b + Nolan's notes). Do NOT post v1.
+CHARACTERS (Nolan: "Xi needs to be Asian like South Park" + "I would love accents"):
+1. Real caricatures, recognizable at a glance like South Park's real-leader cutouts:
+   - Xi Jinping: his actual likeness: East Asian features drawn like South Park draws real Asian public figures, round face, swept-back black hair with a high hairline, slight smile, dark suit, red tie. Base it on his real face, not a stereotype (no buck teeth, no slanted-line eyes, no rice hat).
+   - Trump: orange tan, signature swoop hair, long red tie, pursed mouth, the hand gestures.
+   - Putin: receding light hair, cold stare, small frame.
+2. VOICES with accents (different TTS voices or pitch per character, so no two sound alike): Putin a heavy Russian accent; Xi a Mandarin-accented English voice in a calm, measured delivery; Trump his cadence (emphatic, repetitive). The accent must sound like the real person; no mock "funny Asian voice", no caricatured gibberish. If our TTS can't do accents, list the options (e.g. kokoro or other voices) in status.md and use the closest.
+LAYOUT:
+3. Frame 1 = the three leaders + the headline (headline bigger, about 2x). Meatball enters at line 1.
+4. Name plates are cut off ("MP", "PU"): show full names or drop them.
+5. Captions: 2-5 words per card (phrase level), not single words; keep them above the bottom 20% (TikTok/Shorts UI covers it); keep masking swears.
+6. Smooth the wipe transitions (frames show half-split faces mid-wipe); use hard cuts.
+7. Log v2 lengths; QA pass with v9 + ep7 v4 this afternoon; posts tonight after PASS (11:08 slot).
+Apply the same character, voice and caption rules to the Thanksgiving v3 render (Bezos as a real caricature: bald, big grin).
+
 ### [MEATBALL] Studio 11/20 11:27 AM: Thanksgiving v3 APPROVED, lifts the 11:23 hold. Render it after the dinner bill (script #1 in channels/scripts/cutout-formula-batch1-v2-roast-1120.md, now v3 with target/point/chain). Same packaging and timing as the 11:08 rush note (Sat midday after PASS).
 
 ### [MEATBALL] Studio 11/20 11:25 AM: STANDING RULE (Nolan): every cutout has a story AND a point
