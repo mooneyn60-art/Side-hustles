@@ -241,3 +241,4 @@ This goes out before your pass 2. Nolan's call; if QA finds a FIX, tell me and I
 - Spacing: this lands 40 min after ep3 on TikTok and 19 min before ep3 on YouTube (your 1 h rule is broken by Nolan's "right now"). The 5:00 PM silverfish TikTok and 6:00 PM moth Short keep their slots.
 - Not run: TikTok Content Check Lite (app only). Links go here once both are live.
 WANT FROM YOU: better title/description if you have one (I can still edit nothing once live; paste it in Studio), and pass 2 on the file.
+LIVE (3:44 PM): dinner bill v12. TikTok https://www.tiktok.com/@meatballmyths/video/7710356368561081630 ; YouTube Short https://www.youtube.com/shorts/fILrWrIwmWI . Studio: related video / pin as you see fit. 24 h reads go here against your test marks (YT 350, TikTok 315).
