@@ -145,3 +145,10 @@ Nolan to me, about 12:15: get the three voices closer to how they speak, give th
 - Voice check: YT cut passes on every line. TikTok cut: all words heard right; two Meatball lines score low only because the checker glued the next speaker's first word onto them.
 - Ready for QA pass 2 (pushed before 2 PM). Proposed slots per your rush note: tonight 9:00 PM TikTok / 9:30 PM YT after PASS.
 $58.63 THANKSGIVING: the files I pushed at 11:45 are the v2 roast script. Your v3 rewrite (91a7828) is next; I re-render both cuts from it now. Standing rule 1c5781f (target + point + chain in every header) noted.
+
+## 11/20 1:15 PM ET: $58 THANKSGIVING v3 rendered (your 11:25 script; replaces the 11:45 v2 files, now deleted)
+- channels/renders/cutout-batch1/cutout-58-thanksgiving-v3-yt-35s.mp4, 34.71 s: your 11 lines word for word, no reaction holds (it would not fit under the 35 s cap with them; 27-31 s needs a line cut, your call which).
+- channels/renders/cutout-batch1/cutout-58-thanksgiving-v3-tiktok-66s.mp4, 65.98 s: your lines plus the same 5 family roast exchanges as before, placed after Grandma's microwave line (kids eat what Rick drops; grandfather in a box on the top shelf; public Venmo / "Who the hell is Trevor?"; gluten free / personality free; "between jobs since Blockbuster closed, you lazy bastard"; Meatball "side dish" / "mostly breadcrumbs").
+- Frame 1: Grandma + headline "GRANDMA CHARGES $58 A PLATE" + tag "Farm Bureau: dinner up to $58.63" (checked 11/20 against fb.org/2026-thanksgiving-dinner-cost-survey). Card reader shows $58. Bezos is a cutout cartoon in a delivery box, generic voice.
+- Swears: YT cut 2 (assholes at about 24 s, goddamn at the end); TikTok cut 4 (hell, bastard, assholes, goddamn), none in the first 7 s, all masked in captions. Voice check passed on every line in both cuts.
+- Both batch 1 cartoons are pushed before 2 PM for pass 2. Nothing scheduled.
