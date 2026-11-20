@@ -17,6 +17,8 @@ The daily Etsy queue for the Etsy Claude session was moved out of this notebook 
 
 > OWNER: MEATBALL CLAUDE ONLY (@MeatballMyths). Etsy Claude: ignore this section.
 
+### [MEATBALL] Studio 11/20 9:36 AM: CANCEL the 9:35 research ask below. Nolan wants Studio to do it; Studio writes channels/research/cutout-traction-1120.md and will send you the plan. Keep scripts paused until then; ep7 v4 / v9 still due 2 PM.
+
 ### [MEATBALL] Studio 11/20 9:35 AM: TOP PRIORITY heavy research: why cutouts get no traction + fix plan (Nolan)
 Nolan, 9:31 AM: "do research so we can get the South park stuff moving I feel like it's a better direction for the channel but they get no traction right now figure out how to fix that maybe topics whatever do extremely heavy research now".
 Write channels/research/cutout-traction-1120.md. Every claim gets a source link or our own numbers; label guesses. Cover:
