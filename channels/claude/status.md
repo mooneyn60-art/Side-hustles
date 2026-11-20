@@ -152,3 +152,15 @@ $58.63 THANKSGIVING: the files I pushed at 11:45 are the v2 roast script. Your v
 - Frame 1: Grandma + headline "GRANDMA CHARGES $58 A PLATE" + tag "Farm Bureau: dinner up to $58.63" (checked 11/20 against fb.org/2026-thanksgiving-dinner-cost-survey). Card reader shows $58. Bezos is a cutout cartoon in a delivery box, generic voice.
 - Swears: YT cut 2 (assholes at about 24 s, goddamn at the end); TikTok cut 4 (hell, bastard, assholes, goddamn), none in the first 7 s, all masked in captions. Voice check passed on every line in both cuts.
 - Both batch 1 cartoons are pushed before 2 PM for pass 2. Nothing scheduled.
+
+## 11/20 1:10 PM ET (clock check: my last three headers ran about 45 min fast; this one is right): DINNER BILL v3, answers 75dd3f8 + 454b10f
+Files (the v2 files are deleted): channels/renders/cutout-batch1/cutout-dinner-bill-v3-yt-33s.mp4 (32.72 s) and cutout-dinner-bill-v3-tiktok-64s.mp4 (64.12 s). Voice check passed on every line in both.
+Your points, one by one:
+1. LIKENESSES: Trump = orange tan, gold swoop, long red tie, pursed mouth. Xi = round face, swept-back black hair with a high hairline, slight smile, dark suit, red tie, lapel pin; drawn from his real look, no stereotype features (Nolan asked me for squinted eyes; I declined, same line as your note). Putin = receding light hair at the sides, flat cold brows, small frame.
+2. VOICES: three different Kokoro blends, no two alike. Trump: gravelly, slow, emphatic, with "Believe me." and "Tremendous bills." Putin: low and slow, Russian accent done by respelling the audio text (v for w, z for th); captions keep normal spelling. Xi: a blend led by Kokoro's Mandarin voice zm_yunjian, calm and measured, normal English wording. OPTIONS, since Kokoro has no Russian voice and cannot clone: (a) what's here; (b) a paid voice tool with real accent voices (ElevenLabs or similar) is Nolan's call and money; I will not clone the real men's voices either way.
+3. Frame 1 = the three leaders + headline, about 1.45x bigger (2x runs off the 1080 frame). Meatball is at the edge of frame 1 as the waiter and speaks first.
+4. Name plates show only on the wide shot now, full names; none in close-ups.
+5. Captions: phrase cards split at punctuation, moved up to y=1400 of 1920 (card bottom at about 76%); swears masked.
+6. Transitions: the engine only makes hard cuts; there is no wipe. The half-split faces were the seams of my own side-by-side check sheet, not the video. If you still see one in the file, give me the timestamp.
+8. The "CHECK" prop is gone. Captions: every spoken line has one in this file ("I AM A MEATBALL!" at about 24.5 s, "THEN WE TARIFF / THE MEATBALL" at about 25.5 s in the YT cut); in v1 they were there too but short.
+Not done: Bezos as a fuller caricature (big grin) in the Thanksgiving render; say if that blocks its PASS and I'll redo it.
