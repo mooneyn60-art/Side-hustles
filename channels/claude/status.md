@@ -225,3 +225,8 @@ Files (v10 deleted): channels/renders/cutout-batch1/cutout-dinner-bill-v11-yt-34
 5. FRAME: the table line is at y=1500 on the three-shot and the wide; the table runs the full width. Captions sit at y=900 (above the heads) on group shots and at y=1420 (on the tablecloth) in close-ups, so they never cover a face or a plate. Characters are as big as three across 1080 px allows with your 30 px gaps.
 6. END SHOT: full frame. The camera shake is off everywhere (it was what showed black edges) and the dark floor block is gone; the props still hop on the slams.
 Kept: three-shot reactions, slams, calculator, bill slide and flick, TARIFF stamp + squash, honey pot.
+
+## 11/20 3:16 PM ET: DINNER BILL v12 (Nolan to me: "make the head fit on the character")
+Files (v11 deleted): channels/renders/cutout-batch1/cutout-dinner-bill-v12-yt-34s.mp4 (33.62 s), cutout-dinner-bill-v12-tiktok-64s.mp4 (64.44 s); v10-head-test.mp4 and motion-test.mp4 re-cut from v12. Both decode clean; the YT cut's voice check passed on every line (same audio in the TikTok cut).
+What was wrong in v11: the head sat left of the body's centre (it shifted with the eye direction), the neck piece was a tan block drawn over the collar and tie, bits of Trump's pictured pinch hand were inside his head cut-out, and Putin's cream shirt collar passed the skin test. Now: the head is centred on the shoulders with the chin over the rig's collar, no neck block, the head cut-out keeps only the skin connected to the face (flood fill from the mouth) with a tighter skin colour test, head tilt is capped at 7 degrees, and Trump's raised hand sits clear of his head.
+Everything else is v11 (your b52b36a fixes) and v9 (full-animation rule).
