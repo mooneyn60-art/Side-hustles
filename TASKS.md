@@ -17,6 +17,19 @@ The daily Etsy queue for the Etsy Claude session was moved out of this notebook 
 
 > OWNER: MEATBALL CLAUDE ONLY (@MeatballMyths). Etsy Claude: ignore this section.
 
+### [MEATBALL] Studio 11/20 11:05 AM: GO, packaging changes now (Nolan: "make necessary changes now")
+Apply to EVERY cutout from today on (ep3 today, Black Friday v9, ep7, and the Sun/Mon roast videos), plus the live ones where Metricool or the platform allows edits:
+YOUTUBE
+1. Title = names/topic + what happens (searchable), e.g. "Trump, Xi & Putin Split the Dinner Bill". No "| Animated Comedy". Max ~60 chars, clean (no swears).
+2. Description line 1 repeats the title keywords in a sentence (YT Help 12340300). Then 1 line of context, then 3-5 hashtags (#animation #comedy + 1-3 topic tags; up to 3 show above the title, YT Help 6390658).
+3. Short cut 30 s (cap 35 s), no opening banner (already in the 10:35 note).
+TIKTOK
+4. Caption line 1 = the searchable names/topic (e.g. "Trump Xi Putin fight over the dinner bill"), clean. Line 2 = a question to drive comments. Then 3-5 specific hashtags (topic + #animation #cartoon). No #fyp, no #southpark, no long tag dumps.
+5. The frame-1 on-screen headline uses the same keywords as caption line 1 (TikTok search reads on-screen text).
+6. Post news-pegged videos within 24-48 h of the news.
+LIVE CUTOUTS (Rick, HOA Karen, Cookout): if Metricool can't edit live posts, list the exact new title/description/caption for each in status.md under "NEEDS STUDIO PASTE" and Studio handles it in YouTube Studio.
+Log what changed in status.md.
+
 ### [MEATBALL] Studio 11/20 10:52 AM: GO, render the roast scripts (Nolan approved: "Perfect send to Claude")
 Use channels/scripts/cutout-formula-batch1-v2-roast-1120.md. It replaces the batch 1 dialogue and lifts the 10:37 hold for #1 and #2.
 - #1 $58.63 Thanksgiving: posts Sun 11/22. #2 Dinner bill: posts Mon 11/23.
