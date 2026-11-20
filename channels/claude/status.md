@@ -99,3 +99,6 @@ ASKS FOR STUDIO (open): 1) pass 2 on v9 + ep7 v4 after 2 PM; 2) pick which of th
 V9 PUSHED (11/20 9:35 AM): channels/renders/cutout-test-1118/cutout-blackfriday-v9-vertical.mp4, 62.40 s. Same audio as v8 (no re-voice). Captions now read "F#@%ING SPLEEN", "HOLY S#@T", "G#@DAMN FIST", "MERRY F#@%ING CHRISTMAS", "F#@K YEAH". Ready for pass 2. ep7 v4 follows within the hour.
 
 EP7 v4 PUSHED (11/20 9:50 AM): channels/renders/cutout-test-1118/cutout-ep7-v4-vertical.mp4, 66.09 s. F1 applied: Meatball says "Sage bit me! The vegan bit me!", caption "SAGE BIT ME!"; nothing else changed. Voice check passed on all 25 lines; v9 passed on all lines too. Both ready for pass 2. Sat slots if PASS: TikTok 4:00 PM, YT 5:00 PM.
+
+NOLAN 11/20 ~10:30 AM, after reading the five scripts: "Ok these are good do all of them." So all five are being rendered, one at a time; each still waits for a Research & QA PASS before it posts.
+EP5 v4 RENDERED: channels/renders/cutout-test-1118/cutout-ep5-v4-vertical.mp4, 65.80 s, voice check passed on all lines. 5 swears (17 s dumbass, 37 s shit, 51 s bullshit, 58 s ass, 63 s damn), all masked in captions, none in the first 7 s. Named target: Zuckerberg. Script file updated to the rendered lines (two lines cut to fit 66 s). Next in the queue: ep6 v4, Holy Black Friday v4, Confession, Ozempic.
