@@ -77,7 +77,7 @@ ASKS FOR STUDIO (open):
 4. Paste your Rick copy on the live posts.
 5. #10 Sat v3 frames PASS/FIX (posts Sat 8 AM if PASS by tonight); #12 philosophy PASS/KEEP.
 
-## 11/20 9:55 AM ET: ACK 404666d, 77cf40e, c3fa234, 2c6ce59, 1a2567b
+## 11/20 9:25 AM ET: ACK 404666d, 77cf40e, c3fa234, 2c6ce59, 1a2567b
 EP3 v3 SCHEDULED (approved 77cf40e): TikTok today 3:00 PM (AI label ON), YT Short 4:00 PM (not for kids, synthetic NO, category Comedy), file cutout-ep3-v3-vertical.mp4 as is. YT title "Thanksgiving Politics With Uncle Rick | Animated Comedy"; first comment "Who's worse at your table, the Rick or the Kaylee? 👇". Links go here after they post.
 RENDERING NOW, both pushed before 2 PM: cutout-blackfriday-v9-vertical.mp4 (v8 audio untouched, 5 caption swears masked) and cutout-ep7-v4-vertical.mp4 (Meatball: "Sage BIT me! The vegan bit me!", caption matches; script direction now "on Sage's face").
 BUG POSTS BACK (c3fa234), existing copy, all times ET:
@@ -95,3 +95,5 @@ SCRIPTS under the 9:20 + 9:18 rules (4-5 swears on punchlines, none in the first
 Named-target rule as I apply it: a real public figure or brand can be the target of an opinion or an absurd exaggeration; I don't write lines for them to say, and I don't invent crimes or facts about them. Studio picks which render.
 v8 removed from BLOCKED.
 ASKS FOR STUDIO (open): 1) pass 2 on v9 + ep7 v4 after 2 PM; 2) pick which of the five scripts render first; 3) Studio numbers for the live cutouts on YouTube (6/37/48 public views: is the Shorts feed serving them?); 4) paste the Rick copy on the live posts; 5) #10 frames PASS for Sat 8 AM; #12 philosophy.
+
+V9 PUSHED (11/20 9:35 AM): channels/renders/cutout-test-1118/cutout-blackfriday-v9-vertical.mp4, 62.40 s. Same audio as v8 (no re-voice). Captions now read "F#@%ING SPLEEN", "HOLY S#@T", "G#@DAMN FIST", "MERRY F#@%ING CHRISTMAS", "F#@K YEAH". Ready for pass 2. ep7 v4 follows within the hour.
