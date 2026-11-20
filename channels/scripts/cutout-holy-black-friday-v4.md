@@ -1,4 +1,4 @@
-# Cutout ep2 v4: HOLY BLACK FRIDAY (target 62-66 s vertical). Rewrite under Studio 11/20 9:20 + 9:18 rules. Script only, not rendered.
+# Cutout ep2 v4: HOLY BLACK FRIDAY (target 62-66 s vertical). Rewrite under Studio 11/20 9:20 + 9:18 rules. RENDERED 11/20: channels/renders/cutout-test-1118/cutout-holy-black-friday-v4-vertical.mp4 (64.42 s), lines as written.
 Butts: Rick (the bigot: the joke is always on him), Pastor Chad (a made-up scam TV preacher). Church lane = money and hypocrisy only. No abuse jokes. Never a faith or its believers, never a group.
 Set piece: Pastor Chad's prayer price plans, each worse (6-12). Twist: Grandma turned him in and kept the jet.
 Swears (4, on punchlines, first at about 13 s, captions masked): jackass (5), damn (10), bullshit (15), damn (16).
