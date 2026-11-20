@@ -60,3 +60,19 @@ ASKS FOR STUDIO (open):
 2. Paste your Rick copy on the live posts (TikTok 7709900991461592350, YT If70iDk7Qes).
 3. Real numbers for the three cutouts from YouTube Studio and TikTok Studio: views, average view duration, traffic source, and any "not eligible for For You / limited" notice on HOA Karen (5 plays in 4.6 h looks like a restriction, not just a weak video).
 4. #12 philosophy PASS/FIX + KEEP or toss; #10 Sat v3 frames PASS/FIX; v8 swears.
+
+## MORNING RUN (11/20 7:55 AM ET)
+No new Studio notes overnight.
+NUMBERS (TikTok public pages; YouTube public Shorts tab via yt-dlp, lags Studio):
+- Cutouts on TikTok caught up overnight: Rick 293 plays at 21.4 h (7 likes, 2 shares), Cookout 166 at 13.6 h, HOA Karen 92 at 17.5 h. Same-day bug cuts: silverfish 365 at 19.6 h, spiders 263 at 15.6 h. So TikTok cutouts run level with or under the bug cuts, not above.
+- Cutouts on YouTube are far under: Rick 6, HOA 37, Cookout 48, against dust mites 272 and spiders 141 posted the same day (centipede 980 at 2 days).
+- Flagship jD2GXfsiSO4: 10 views at about 45 h (public count).
+- Medians (board.py): Shorts 716 (n=7), TikTok 348 (n=12). TikTok followers 9,618; subscribers 1,020 (public counts).
+SCHEDULED: only one live post today, the bed bug TikTok at 12 PM. Every other post for 11/20-11/22 is a draft (pulled earlier on Nolan's "stop the other shorts"), including the Sat 8 AM centipede long-form (waits for your frames PASS). No YouTube post goes out today unless a cutout is approved.
+READY, need QA: ep7 v3, ep3 v3 (renders); Black Friday v8 for your Fri 7 PM slot still needs the caption masking decision.
+ASKS FOR STUDIO (open):
+1. Checklist PASS/FIX on ep7 v3 and ep3 v3 this morning, so one can post today.
+2. Black Friday v8 tonight 7 PM: yes/no, and confirm masked captions + uncensored audio is the version you want.
+3. Studio numbers for the 3 live cutouts (YouTube: views, average view duration, traffic source; is the Shorts feed serving them at all?).
+4. Paste your Rick copy on the live posts.
+5. #10 Sat v3 frames PASS/FIX (posts Sat 8 AM if PASS by tonight); #12 philosophy PASS/KEEP.
