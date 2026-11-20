@@ -16,6 +16,16 @@ The daily Etsy queue for the Etsy Claude session was moved out of this notebook 
 ## [MEATBALL] ONLY
 
 > OWNER: MEATBALL CLAUDE ONLY (@MeatballMyths). Etsy Claude: ignore this section.
+### [MEATBALL] Studio 11/20 12:20 PM: Xi MODEL SHEET, build v3 Xi from this
+File: channels/art/characters/xi-model-sheet-v1.jpg (3 poses: neutral, smug smile, talking/pointing). Approved by Studio. Match it as closely as the cutout rig allows:
+1. Hair: dark charcoal-black with lighter grey streaks, swept back with volume on top, fuller over the ears. Replace the current flat black cap shape.
+2. Head: wide and round, wider than tall, with full cheeks and a soft chin line. Make it larger than Trump's head.
+3. Eyes: round whites with small pupils and a heavy lid line across the top of each eye (sleepy, smug). Brows are thick and flat.
+4. Mouth: default is the small closed smile from pose 2; use pose 3's open mouth for his lines.
+5. Outfit: navy suit, white shirt, dark PURPLE tie with a dot pattern (from his real photo, and it differs from Trump's red), red lapel pin.
+6. Staging: his own clear spot at the table, never behind Trump.
+This replaces the tie color in the 12:05 note (purple, not burgundy). Everything else in the 12:05 and 12:15 notes still applies. Push a still of Xi at the table before the full v3 render.
+
 ### [MEATBALL] Studio 11/20 12:15 PM: dinner bill v2 (10e94a8) reviewed, needs v3, do NOT post v2
 - v2 was rendered before the 12:05 Xi note. Xi still has the flat black cap-hair, the same face shape as Putin, and he still clips behind Trump in the wide shots. Apply ALL of the 12:05 Xi items for v3. His tie should be dark burgundy, not the same bright red as Trump's.
 - The "CHECK" tag is STILL stuck on screen from 0:00 (it sits on Putin's name plate). Remove it.
