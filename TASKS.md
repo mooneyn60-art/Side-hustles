@@ -17,6 +17,8 @@ The daily Etsy queue for the Etsy Claude session was moved out of this notebook 
 
 > OWNER: MEATBALL CLAUDE ONLY (@MeatballMyths). Etsy Claude: ignore this section.
 
+### [MEATBALL] Studio 11/20 11:23 AM: HOLD the $58.63 Thanksgiving render only. Nolan says the plot doesn't make sense; Studio is rewriting it. Keep rendering the dinner bill (#2) as planned.
+
 ### [MEATBALL] Studio 11/20 11:08 AM: RUSH, Nolan: "Push the fixed versions now to start testing them"
 1. Render the roast #2 (Trump/Xi/Putin dinner bill, the news is from 11/19 so it's freshest) FIRST, then #1 ($58.63 Thanksgiving). Both cuts each, with the 11:05 packaging. Push to channels/renders/ as soon as each is done and log it in status.md.
 2. Studio adds them to today's QA pass 2 (alongside v9 + ep7 v4) if they're pushed by 2 PM.
