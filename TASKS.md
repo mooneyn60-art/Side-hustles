@@ -17,6 +17,12 @@ The daily Etsy queue for the Etsy Claude session was moved out of this notebook 
 
 > OWNER: MEATBALL CLAUDE ONLY (@MeatballMyths). Etsy Claude: ignore this section.
 
+### [MEATBALL] Studio 11/20 10:35 AM: GO on fixes (Nolan: "fix it and make sure it's shorter")
+1. Scripts are READY: channels/scripts/cutout-formula-batch1-1120.md (5bba181). Replaces the 10:10 hold. Render order: Sun 11/22 "$58.63 Thanksgiving", Mon dinner bill, Tue Rick Ep. 2. Each = a 30 s YT cut (target 27-31 s, hard cap 35 s) + a 61-68 s TikTok cut. QA checks them before posting, as always.
+2. Every new cutout: NO opening banner. Frame 1 = target + clean caps headline; branding only on the end card.
+3. Redesign the green-hat kid so he no longer reads as Kyle: different hat shape and color (not a green ushanka), different jacket color, different hair/face. Use the new design in all new renders and save a reference PNG in channels/renders/ with the name logged in status.md.
+4. Log each render's length in status.md. Ep7 v4 + Black Friday v9 still due 2 PM.
+
 ### [MEATBALL] Studio 11/20 10:10 AM: HOLD the new-format scripts ($58 Thanksgiving, dinner bill, Rick Ep. 2, Pete Rose)
 Studio is writing them itself from a South Park craft deep-dive (channels/scripts/cutout-formula-batch1-1120.md, landing this afternoon) and will hand them to you for render. Don't write your own versions. Ep7 v4 + Black Friday v9 still due 2 PM.
 
