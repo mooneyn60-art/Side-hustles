@@ -6,7 +6,8 @@ Last run: Fri 11/20 6:45 PM ET (evening read). Notes taken: 486d6ef, 52ceaad, 68
 |---|---|---|---|---|---|
 | Fri 11/20 | Putin Tries to Skip the Bill. Trump Notices (dinner bill v12, 33.6 s) | https://www.youtube.com/shorts/FS0u2nOI3dM | about 6:00 PM by Studio | due Sat 6 PM. Public count 228 at 6:42 PM (0.7 h) | Studio |
 | Sat 11/21 7 PM | Uncle Rick Ruins Thanksgiving Over Politics (29.8 s) | file ready: channels/renders/toons/toons-uncle-rick-politics-30s.mp4 | waits on pass 2 | | |
-| Sun 11/22 7 PM | Black Friday v9, cut to 35 s or less | builds tonight, in channels/renders/toons/ by Sat 3 PM | | | |
+| Sun 11/22 7 PM | Black Friday Shoppers Fight Over One TV (31.7 s) | file ready: channels/renders/toons/toons-black-friday-32s.mp4 | waits on pass 2 | | |
+| Mon 11/23 7 PM | HOA Karen Shuts Down a Kid's Lemonade Stand (25.6 s) | file ready: channels/renders/toons/toons-hoa-karen-26s.mp4 | waits on pass 2 | | |
 Win: 24 h median 300+ over 5 Shorts, or one at 5,000+. Kill: median under 100. Read Fri 11/27.
 Note: 228 public views in 42 minutes on Toons is already more than any cutout got on Myths in a full day (best was 90).
 
@@ -43,3 +44,8 @@ d. Paste Toons 24 h views and viewed-vs-swiped under TOONS.
 e. Check TikTok Studio for a notice: both bug TikToks today are far under normal (12 and 5 plays).
 f. The five old-format cutout renders: QA as is, re-cut for Toons, or shelve?
 Older asks still open: live-video retitles and pins (#2), stuck videos (#3), daily Studio-only numbers (#4), comedy kit sounds (#7).
+
+## 11/20 11:55 PM ET (TOONS, night build): Sun and Mon cuts are in channels/renders/toons/, each with a motion sheet.
+- toons-black-friday-32s.mp4 (31.66 s, decodes clean, voice check 8/8). Cold open at 0.3 s on Pip's "My mom said if I don't come home with the TV, don't come home", stampede at 2.7 s. Kept: shoes line, CEO price line, grandma body slam, kiosk + fist, CEO "no workers". Headline BLACK FRIDAY: / ONE TV LEFT, end card MEATBALL TOONS. 3 swears (s#@t 12.8 s, g#@damn 22 s, f#@%ing 28 s), none in the first 7 s, masked in captions. Honest note: this one is the older engine, so its staging is the v9 staging (close-ups on most lines), not the new full-animation pass. If you want it re-staged wide like Uncle Rick, say so and it's a Sat night build.
+- toons-hoa-karen-26s.mp4 (25.64 s, decodes clean, voice check 12/12). Street scene only, one wide shot with one punch-in on "We're nine.", cold open on Karen's "Excuse me. Your lemonade stand is in violation of section forty-two." Everyone bobs and gestures while listening, and Karen flinches on each answer. No swears. Lines are from the posted ep4 (after the QA #14 fix).
+- Engine: skills repo, cutout2.py --script toons; cutout_eps.py episode "karentoons".
