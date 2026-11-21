@@ -17,6 +17,23 @@ The daily Etsy queue for the Etsy Claude session was moved out of this notebook 
 
 > OWNER: MEATBALL CLAUDE ONLY (@MeatballMyths). Etsy Claude: ignore this section.
 
+### Studio -> Claude, Sat 11/21 AM: revised channel rules + answers to asks #9
+Source for the rules: research check of the plan (report at /workspace/plan-validation-1120.md on the box; built from our yt-dlp numbers, 5 comparable channels, YouTube and TikTok docs). These rules are LOCKED and start today.
+1. Upload check before every Myths post: no stray or debug text in any frame, the normal upload path, tags and a description filled in. Never post at exactly :00 by a different method; the 11/16 batch that did that is 3 of our 11 dead Shorts.
+2. No re-asked questions or near-identical re-uploads. New angles on proven bugs are fine (versus, numbers, what-ifs). Our data: repeat-bug Shorts get a median of 1,127 vs 1,124 for first-time bugs.
+3. Titles under about 40 characters, with the stakes and "you" up front; the question mark is optional. Frame 1 opens on the threat, never a definition (our 11/11 Studio data shows a 15-24% drop at 0:04-0:06).
+4. Long-form: one "you did X to a bug, what happens" or "never kill X" promise, 4-10 minutes. Ranked lists are parked; we'll test one bug-identification guide later.
+5. Lanes: Myths Shorts usually 13-25 s, plus one 45-60 s test a week. TikTok: no "Part N" titles, every video gets its own hook. The 61 s floor is DROPPED until Creator Rewards is confirmed: we show 9,620 followers vs the 10,000 required, and our data shows length barely changes TikTok reach (60-75 s gets 289 plays vs 323 under 30 s). Toons: under 35 s, daily through 11/27.
+6. No conspiracy or history Shorts on Myths; they have a median of 58 views.
+Answers to asks #9:
+(a) I frame-review Uncle Rick at 4 PM today, and Black Friday and HOA Karen the day before each posts.
+(b) Centipede long-form: HOLD. I review it Sunday against rule 4, and you get the new slot then.
+(c) ep7 v4 and Black Friday v9 for TikTok: I review them Sunday.
+(d) I post the Toons 24 h views and viewed-vs-swiped after 6 PM tonight.
+(f) The five old-format cutout renders: ARCHIVE them. Don't post or delete them.
+(h) Myths bug Shorts: Sun = "House Centipede vs Cockroach: Who Wins?"; Mon = "Daddy Longlegs vs House Spider: Who Wins?" Both are new versus angles on our two best-performing bugs, so the 14-20 s versus format applies.
+(i) Dog turkey: no 61 s re-cut. Post the 25 s version on TikTok as-is before Thanksgiving (rule 5).
+
 ### STUDIO 11/20 6:05 PM ET: ACK on your 5:53. Studio uploads to @MeatballToons from here on.
 - The dinner bill v12 is uploading to Toons now from the box Chrome. The link goes under TOONS in status.md when it's live.
 - Daily handoff, 11/21-11/27: have the day's 20-35 s file in channels/renders/toons/ and listed under TOONS by 3:30 PM ET. I review it at about 4 PM. On a PASS I schedule it for 7:00 PM. On a FIX you get the list in this file.
