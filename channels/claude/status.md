@@ -1,51 +1,48 @@
 # Claude status (overwritten each run; history is in git)
-Last run: Fri 11/20 6:45 PM ET (evening read). Notes taken: 486d6ef, 52ceaad, 68439d0, d79cea0, 02cf1c1, 2bc5b6f, 2e246ef.
+Last run: Sat 11/21 7:50 AM ET (morning run). No new Studio notes since 2e246ef.
 
-## TOONS (@MeatballToons, UC-eumAn_j_DSbGUOKqM4FYw; Studio uploads, Nolan's order 11/20)
-| Day | Short | Link | Posted | 24 h views | Viewed vs swiped |
+## TOONS (@MeatballToons; Studio uploads)
+| Day | Short | Link / file | Posted | 24 h views | Viewed vs swiped |
 |---|---|---|---|---|---|
-| Fri 11/20 | Putin Tries to Skip the Bill. Trump Notices (dinner bill v12, 33.6 s) | https://www.youtube.com/shorts/FS0u2nOI3dM | about 6:00 PM by Studio | due Sat 6 PM. Public count 228 at 6:42 PM (0.7 h) | Studio |
-| Sat 11/21 7 PM | Uncle Rick Ruins Thanksgiving Over Politics (29.8 s) | file ready: channels/renders/toons/toons-uncle-rick-politics-30s.mp4 | waits on pass 2 | | |
-| Sun 11/22 7 PM | Black Friday Shoppers Fight Over One TV (31.7 s) | file ready: channels/renders/toons/toons-black-friday-32s.mp4 | waits on pass 2 | | |
-| Mon 11/23 7 PM | HOA Karen Shuts Down a Kid's Lemonade Stand (25.6 s) | file ready: channels/renders/toons/toons-hoa-karen-26s.mp4 | waits on pass 2 | | |
-Win: 24 h median 300+ over 5 Shorts, or one at 5,000+. Kill: median under 100. Read Fri 11/27.
-Note: 228 public views in 42 minutes on Toons is already more than any cutout got on Myths in a full day (best was 90).
+| Fri 11/20 | Putin Tries to Skip the Bill. Trump Notices (33.6 s) | https://www.youtube.com/shorts/FS0u2nOI3dM | about 6:00 PM | due today 6 PM. Public count: 228 at 0.7 h, 1,100 at 13.5 h | Studio |
+| Sat 11/21 7 PM | Uncle Rick Ruins Thanksgiving Over Politics (29.8 s) | channels/renders/toons/toons-uncle-rick-politics-30s.mp4 | waits on pass 2 | | |
+| Sun 11/22 7 PM | Black Friday Shoppers Fight Over One TV (31.7 s) | channels/renders/toons/toons-black-friday-32s.mp4 | waits on pass 2 | | |
+| Mon 11/23 7 PM | HOA Karen Shuts Down a Kid's Lemonade Stand (25.6 s) | channels/renders/toons/toons-hoa-karen-26s.mp4 | waits on pass 2 | | |
+The first Toons Short is already past the 300 win line at 13.5 h. The same cartoons on Myths never passed 90.
 
-## RENDERED
-- toons-uncle-rick-politics-30s.mp4 (29.81 s; four at the table in one wide shot; staged to the full-animation rule; motion sheet next to it). Engine: skills repo tools/cutout_eps.py, episode "rickpol".
-- Waiting on pass 2 from earlier: cutout-ep7-v4-vertical.mp4, cutout-blackfriday-v9-vertical.mp4 (both in channels/renders/cutout-test-1118/).
+## RENDERED (all with motion sheets beside them)
+- Three Toons cuts above. Black Friday is the older engine: v9 staging with close-ups, not the full-animation pass; say if you want it re-staged wide (a tonight build).
+- Still waiting on pass 2 for TikTok: cutout-ep7-v4-vertical.mp4, cutout-blackfriday-v9-vertical.mp4.
 
 ## POSTED / SCHEDULED (Metricool, brand meatballmyths)
-- Posted today, @MeatballMyths YouTube: clothes moth Short 6 PM (wYtdlpuSKmM). TikTok @meatballmyths: bed bug 12 PM, Thanksgiving Politics ep3 v3 3:00 PM, dinner bill v12 3:40 PM, silverfish 5 PM.
-- Still to go today: TikTok woodpecker 9:30 PM.
-- Sat 11/21: YouTube bison 11 AM, silverfish #50 2 PM; TikTok dog turkey 12 PM, water bug 7 PM. Sun: TikTok polar bear 7 PM.
-- No cutout is scheduled on @MeatballMyths YouTube (checked 5:47 PM, 11/20 to 11/30). None will be.
-- Drafts (held): Sat 8 AM centipede long-form; philosophy Shorts; old animal drafts.
+- Posted since last status: TikTok woodpecker 9:30 PM Fri.
+- Today: YouTube Myths bison 11 AM, silverfish #50 2 PM. TikTok water bug 7 PM. Sun: TikTok polar bear 7 PM.
+- Pulled to draft: TikTok dog turkey 12 PM today (25 s, under 61 s).
+- Did not post: Sat 8 AM centipede long-form (draft, no PASS).
 
 ## BLOCKED
-- Sat 8 AM centipede long-form: needs Studio's frames PASS tonight.
+- Centipede long-form: needs your PASS and a slot.
 - ep7 v4 and Black Friday v9 on TikTok: need pass 2.
-- $58 Thanksgiving and Rick Ep. 2: off the Toons slate as written in 52ceaad, so parked unless you want them.
+- Myths Shorts for Sun and Mon: need your topic call.
 
 ## ETA
-- Tonight's night window (from 11:05 PM): Black Friday v9 Toons cut, 35 s or less, cold open mid-fight, MEATBALL TOONS end card; then the HOA Karen re-cut for Mon if time allows. Both in channels/renders/toons/ before Sat 3 PM.
-- Cookout re-cut: Sun night. The two new scripts (Xi Tupperware, turkey pardon): I render the day your script lands.
+- Cookout Toons re-cut (Tue): tonight's night window, in channels/renders/toons/ by Sun 3 PM. Needs your title by 11/23.
+- Xi Tupperware (Wed) and turkey pardon (Thu): I render the night your script lands (due from you 11/22 noon and 11/23 noon).
+- 24 h reads today: ep3 v3 TikTok 3:00 PM, dinner bill TikTok 3:40 PM, Toons dinner bill about 6 PM. I log them here in the evening read.
 
-## NUMBERS (public pages, 6:42 PM ET; YouTube public counts lag Studio)
-- TikTok: Thanksgiving Politics ep3 v3 683 plays, 5 likes, 2 shares at 3.7 h (best cutout start so far). Dinner bill v12 26 plays at 3.0 h. Bed bug 12 at 5.2 h (5:25 PM read). Silverfish 5 at 1.7 h.
-- @MeatballMyths YouTube: booklice 532, fruit flies 341, house spiders 279, clothes moth 5 at 0.7 h. Cutouts there are private now, so no more reads.
-- 7-day cutout test (TikTok side): dinner bill 24 h read Sat 3:40 PM against 315; ep3 v3 Sat 3:00 PM.
+## NUMBERS (7:40 AM ET; sources: yt-dlp public listings, TikTok public pages, Windsor)
+- Toons: dinner bill 1,100 at 13.5 h.
+- Myths YouTube: clothes moth 1,000 at 14 h, booklice 909, fruit flies 637, house spiders 516, hot dryer 143.
+- TikTok: ep3 v3 701 at 17 h, dinner bill 141 at 16 h, silverfish book 289 at 15 h, woodpecker 149 at 10 h, bed bug 116 at 20 h, Cookout 190 and HOA Karen 96 at about 40 h, Rick DNA 316 at 45 h, "Do silverfish bite" 779 at 61 h.
+- Long videos: 19.1 hours in the last 28 days (Windsor, 2-3 days behind) against 4,000.
+- Full table: skills repo research/118-scoreboard-1121.md.
 
 ## ASKS FOR STUDIO (open; full list in channels/claude/asks.md #9)
-a. Pass 2 on the Uncle Rick 30 s cut for Sat 7 PM, and say if the first line is "mid-fight" enough.
-b. Frames PASS tonight on the Sat 8 AM centipede long-form, or it stays a draft.
+a. Pass 2 on the three Toons cuts (Uncle Rick is tonight 7 PM), and say if Uncle Rick's first line is "mid-fight" enough.
+b/g. Centipede long-form: PASS plus a new slot, or hold.
 c. Pass 2 on ep7 v4 and Black Friday v9 for TikTok.
 d. Paste Toons 24 h views and viewed-vs-swiped under TOONS.
-e. Check TikTok Studio for a notice: both bug TikToks today are far under normal (12 and 5 plays).
 f. The five old-format cutout renders: QA as is, re-cut for Toons, or shelve?
+h. Which bug topics for Myths Shorts Sun and Mon (two at most tonight)?
+i. A 61 s dog turkey TikTok before Thanksgiving, yes or no?
 Older asks still open: live-video retitles and pins (#2), stuck videos (#3), daily Studio-only numbers (#4), comedy kit sounds (#7).
-
-## 11/20 11:55 PM ET (TOONS, night build): Sun and Mon cuts are in channels/renders/toons/, each with a motion sheet.
-- toons-black-friday-32s.mp4 (31.66 s, decodes clean, voice check 8/8). Cold open at 0.3 s on Pip's "My mom said if I don't come home with the TV, don't come home", stampede at 2.7 s. Kept: shoes line, CEO price line, grandma body slam, kiosk + fist, CEO "no workers". Headline BLACK FRIDAY: / ONE TV LEFT, end card MEATBALL TOONS. 3 swears (s#@t 12.8 s, g#@damn 22 s, f#@%ing 28 s), none in the first 7 s, masked in captions. Honest note: this one is the older engine, so its staging is the v9 staging (close-ups on most lines), not the new full-animation pass. If you want it re-staged wide like Uncle Rick, say so and it's a Sat night build.
-- toons-hoa-karen-26s.mp4 (25.64 s, decodes clean, voice check 12/12). Street scene only, one wide shot with one punch-in on "We're nine.", cold open on Karen's "Excuse me. Your lemonade stand is in violation of section forty-two." Everyone bobs and gestures while listening, and Karen flinches on each answer. No swears. Lines are from the posted ep4 (after the QA #14 fix).
-- Engine: skills repo, cutout2.py --script toons; cutout_eps.py episode "karentoons".

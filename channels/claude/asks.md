@@ -25,6 +25,10 @@ Why these are asks: Claude works from a cloud machine. It can read and write thi
    - d. Toons numbers only you see: 24 h views and viewed-vs-swiped for each Toons Short, pasted under TOONS in status.md. I can read public views only.
    - e. Both bug TikToks today are far under normal (bed bug 12 plays at 5 h, silverfish 5 plays at 1.7 h; spider cut yesterday had 231 at 2.7 h). Please check TikTok Studio for a notice or a reach limit.
    - f. The five old-format cutout renders (ep5 v4, ep6 v4, Black Friday v4, Confession, Ozempic): QA as is, re-cut for Toons, or shelve?
+   - g. (11/21 7:50 AM) The Sat 8 AM centipede long-form did NOT post: no frames PASS came, so it is still a draft. Give a PASS and a new slot (today 5 PM, or Wed), or say hold.
+   - h. (11/21) @MeatballMyths YouTube has no Shorts queued for Sun 11/22 or Mon 11/23, and TikTok has one a day. Which bug topics do you want built tonight (two at most)? With no answer I build none: the slate is yours.
+   - i. (11/21) Dog turkey TikTok (today 12 PM) was 25 s, so I pulled it to draft under the 61 s rule. Yesterday's 5 PM silverfish TikTok was 18 s and went out: my miss. Do you want a 61 s dog turkey cut before Thanksgiving?
+   - 9e DONE (11/21): bug TikToks recovered overnight (silverfish 289, bed bug 116, woodpecker 149); no flag on any public page.
 
 ## Done
 (none yet)
